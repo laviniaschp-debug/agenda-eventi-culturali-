@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Agenda culturale Milano</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+/* Layout: una colonna-agenda come un palinsesto; striscia dei giorni in alto, ora a sinistra, evento a destra. */
+:root{
+  --bg:#f4f2ee; --surface:#ffffff; --ink:#1c2230; --muted:#5d6472; --line:#dcd8d0;
+  --accent:#c2410c; --accent-soft:#fbe9df; --warn:#8a6100; --warn-soft:#fbf1d6; --ok:#2f6b3a;
+  --display:"Instrument Serif", Georgia, "Times New Roman", serif;
+  --body:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#14171e; --surface:#1c2029; --ink:#ebe8e2; --muted:#a2a6b0; --line:#2e3340;
+    --accent:#f08a4b; --accent-soft:#3a2418; --warn:#e8c062; --warn-soft:#352c14; --ok:#8fcf98; color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#14171e; --surface:#1c2029; --ink:#ebe8e2; --muted:#a2a6b0; --line:#2e3340;
+  --accent:#f08a4b; --accent-soft:#3a2418; --warn:#e8c062; --warn-soft:#352c14; --ok:#8fcf98; color-scheme:dark;
+}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.5}
+a{color:inherit}
+.wrap{max-width:980px;margin:0 auto;padding:28px 20px 64px}
+header h1{font-family:var(--display);font-weight:400;font-size:clamp(34px,6vw,54px);line-height:1.02;margin:0;text-wrap:balance}
+header h1 em{color:var(--accent)}
+.meta{display:flex;flex-wrap:wrap;gap:6px 18px;color:var(--muted);font-size:13px;margin-top:10px}
+.meta b{color:var(--ink);font-weight:600}
+.live{display:inline-flex;align-items:center;gap:6px}
+.live::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--ok)}
+.controls{position:sticky;top:0;z-index:5;background:var(--bg);padding:14px 0 10px;margin-top:18px;border-bottom:1px solid var(--line);display:grid;gap:10px}
+.row{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.chip{font:inherit;font-size:13px;border:1px solid var(--line);background:var(--surface);color:var(--ink);padding:5px 11px;border-radius:999px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chip:focus-visible,.day:focus-visible,input:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.chip .n{opacity:.6;margin-left:4px;font-variant-numeric:tabular-nums}
+#q{font:inherit;flex:1 1 220px;min-width:0;padding:7px 12px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink)}
+.days{display:flex;gap:4px;overflow-x:auto;padding-bottom:2px}
+.day{flex:0 0 auto;text-align:center;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:8px;padding:5px 9px;cursor:pointer;font:inherit;min-width:52px}
+.day small{display:block;font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
+.day strong{font-size:17px;font-variant-numeric:tabular-nums}
+.day[data-today="true"]{border-color:var(--accent);box-shadow:inset 0 -3px 0 var(--accent)}
+.day[data-empty="true"]{opacity:.4}
+section.daysec{margin-top:30px;scroll-margin-top:170px}
+.daysec h2{font-family:var(--display);font-weight:400;font-size:30px;margin:0 0 6px;display:flex;align-items:baseline;gap:12px;text-wrap:balance}
+.daysec h2 .c{font-family:var(--body);font-size:13px;color:var(--muted)}
+.daysec h2 .tag{font-family:var(--body);font-size:12px;background:var(--accent);color:#fff;padding:2px 8px;border-radius:4px}
+ol.ev{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+ol.ev li{display:grid;grid-template-columns:62px 1fr;gap:14px;padding:12px 0;border-bottom:1px solid var(--line)}
+.t{font-variant-numeric:tabular-nums;font-weight:600;font-size:15px;padding-top:1px}
+.t.na{color:var(--muted);font-weight:400;font-size:12px}
+.title{font-weight:600;font-size:16px;text-decoration:none;text-wrap:balance}
+.title:hover{text-decoration:underline;text-decoration-color:var(--accent);text-underline-offset:3px}
+.title::after{content:" ↗";color:var(--accent);font-weight:400}
+.venue{color:var(--muted);font-size:13.5px}
+.desc{font-size:14px;margin-top:2px}
+.pills{display:flex;flex-wrap:wrap;gap:5px;margin-top:6px}
+.p{font-size:11.5px;padding:1px 7px;border-radius:4px;border:1px solid var(--line);color:var(--muted)}
+.p.star{border-color:var(--accent);color:var(--accent);background:var(--accent-soft)}
+.p.free{border-color:var(--ok);color:var(--ok)}
+.p.ver{border-color:transparent;background:var(--warn-soft);color:var(--warn)}
+li.past{opacity:.45}
+.empty{color:var(--muted);padding:20px 0}
+.mostre{margin-top:44px}
+.mostre h2{font-family:var(--display);font-weight:400;font-size:30px;margin:0 0 8px}
+.mgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:10px}
+.m{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:12px 14px}
+.m a{font-weight:600;text-decoration:none}
+.m a:hover{text-decoration:underline}
+.m div{color:var(--muted);font-size:13px}
+footer{margin-top:44px;color:var(--muted);font-size:13px;max-width:65ch}
+@media (max-width:480px){ol.ev li{grid-template-columns:48px 1fr;gap:10px}.controls{position:static}}
+@media (prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Milano, cosa fare <em>dal 19 al 29 novembre</em></h1>
+    <div class="meta">
+      <span class="live" id="upd">Caricamento…</span>
+      <span id="count"></span>
+      <span>Ogni titolo apre la pagina ufficiale o la fonte dell'evento</span>
+    </div>
+  </header>
+
+  <div class="controls" role="region" aria-label="Filtri">
+    <div class="row">
+      <label for="q" class="visually-hidden" style="position:absolute;left:-9999px">Cerca</label>
+      <input id="q" type="search" placeholder="Cerca un nome, un luogo, un tema…" autocomplete="off">
+      <button class="chip" id="f-star" aria-pressed="false">Imperdibili</button>
+      <button class="chip" id="f-free" aria-pressed="false">Gratuiti</button>
+      <button class="chip" id="f-bc" aria-pressed="false">BookCity</button>
+      <button class="chip" id="f-past" aria-pressed="false">Nascondi passati</button>
+    </div>
+    <div class="row" id="cats"></div>
+    <div class="days" id="days"></div>
+  </div>
+
+  <main id="list"></main>
+
+  <section class="mostre" id="mostre-sec">
+    <h2>Mostre aperte in questi giorni</h2>
+    <div class="mgrid" id="mostre"></div>
+  </section>
+
+  <footer>
+    Gli eventi segnati <span class="p ver">da verificare</span> hanno orario o dettagli mancanti nelle fonti: controlla il link prima di andare.
+    Gli incontri BookCity sono quasi tutti gratuiti con prenotazione su bookcitymilano.it.
+  </footer>
+</div>
+
+<script>
+const CATS = {
+  teatro:"Teatro", talk:"Talk e incontri", filosofia:"Filosofia e psicologia", storia:"Storia e arte",
+  geo:"Geopolitica e società", salute:"Salute", classica:"Classica e opera", jazz:"Jazz e live",
+  cinema:"Cinema", famiglie:"Famiglie"
+};
+const DOW = ["dom","lun","mar","mer","gio","ven","sab"];
+const MON = ["gen","feb","mar","apr","mag","giu","lug","ago","set","ott","nov","dic"];
+const state = { q:"", cats:new Set(), star:false, free:false, bc:false, hidePast:false };
+let DATA = null;
+
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const pd = s => { const [y,m,d] = s.split("-").map(Number); return new Date(y, m-1, d); };
+const todayStr = () => { const n = new Date(); return `${n.getFullYear()}-${String(n.getMonth()+1).padStart(2,"0")}-${String(n.getDate()).padStart(2,"0")}`; };
+const nowHM = () => { const n = new Date(); return `${String(n.getHours()).padStart(2,"0")}:${String(n.getMinutes()).padStart(2,"0")}`; };
+
+function isPast(e){
+  const t = todayStr();
+  if (e.date < t) return true;
+  if (e.date > t) return false;
+  return !!e.time && e.time < nowHM();
+}
+
+function matches(e){
+  if (state.cats.size && !state.cats.has(e.cat)) return false;
+  if (state.star && !e.tags.includes("imperdibile")) return false;
+  if (state.free && e.free !== true) return false;
+  if (state.bc && !e.tags.includes("bookcity")) return false;
+  if (state.hidePast && isPast(e)) return false;
+  if (state.q){
+    const hay = (e.title+" "+e.venue+" "+e.desc+" "+(CATS[e.cat]||"")).toLowerCase();
+    if (!state.q.split(/\s+/).every(w => hay.includes(w))) return false;
+  }
+  return true;
+}
+
+function dateRange(){
+  const out = []; let d = pd(DATA.range[0]); const end = pd(DATA.range[1]);
+  while (d <= end){ out.push(`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`); d.setDate(d.getDate()+1); }
+  return out;
+}
+
+function renderCats(){
+  const counts = {};
+  DATA.events.forEach(e => counts[e.cat] = (counts[e.cat]||0)+1);
+  $("#cats").innerHTML = Object.entries(CATS).filter(([k]) => counts[k]).map(([k,v]) =>
+    `<button class="chip" data-cat="${k}" aria-pressed="${state.cats.has(k)}">${esc(v)}<span class="n">${counts[k]}</span></button>`).join("");
+  $("#cats").querySelectorAll("[data-cat]").forEach(b => b.addEventListener("click", () => {
+    const k = b.dataset.cat; state.cats.has(k) ? state.cats.delete(k) : state.cats.add(k); render();
+  }));
+}
+
+function render(){
+  const vis = DATA.events.filter(matches);
+  const days = dateRange(); const t = todayStr();
+  $("#count").innerHTML = `<b>${vis.length}</b> eventi su ${DATA.events.length}`;
+  $("#days").innerHTML = days.map(ds => {
+    const d = pd(ds); const n = vis.filter(e => e.date === ds).length;
+    return `<button class="day" data-day="${ds}" data-today="${ds===t}" data-empty="${n===0}" aria-label="${DOW[d.getDay()]} ${d.getDate()}: ${n} eventi"><small>${DOW[d.getDay()]}</small><strong>${d.getDate()}</strong></button>`;
+  }).join("");
+  $("#days").querySelectorAll(".day").forEach(b => b.addEventListener("click", () => {
+    const s = document.getElementById("d-"+b.dataset.day); if (s) s.scrollIntoView();
+  }));
+  document.querySelectorAll("#cats [data-cat]").forEach(b => b.setAttribute("aria-pressed", state.cats.has(b.dataset.cat)));
+
+  let html = "";
+  for (const ds of days){
+    const evs = vis.filter(e => e.date === ds);
+    if (!evs.length) continue;
+    const d = pd(ds);
+    const label = `${["Domenica","Lunedì","Martedì","Mercoledì","Giovedì","Venerdì","Sabato"][d.getDay()]} ${d.getDate()} ${MON[d.getMonth()]}`;
+    html += `<section class="daysec" id="d-${ds}"><h2>${label}${ds===t?' <span class="tag">oggi</span>':''} <span class="c">${evs.length} eventi</span></h2><ol class="ev">`;
+    for (const e of evs){
+      const pills = [`<span class="p">${esc(CATS[e.cat]||e.cat)}</span>`];
+      if (e.tags.includes("imperdibile")) pills.unshift(`<span class="p star">Imperdibile</span>`);
+      if (e.tags.includes("bookcity")) pills.push(`<span class="p">BookCity</span>`);
+      if (e.tags.includes("mmw")) pills.push(`<span class="p">Music Week</span>`);
+      if (e.free === true) pills.push(`<span class="p free">Gratuito</span>`);
+      if (e.verify) pills.push(`<span class="p ver">da verificare</span>`);
+      html += `<li class="${isPast(e)?'past':''}">
+        <div class="t ${e.time?'':'na'}">${e.time ? esc(e.time) : 'orario<br>n.d.'}</div>
+        <div>
+          <a class="title" href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a>
+          <div class="venue">${esc(e.venue)}</div>
+          ${e.desc ? `<div class="desc">${esc(e.desc)}</div>` : ""}
+          <div class="pills">${pills.join("")}</div>
+        </div></li>`;
+    }
+    html += `</ol></section>`;
+  }
+  $("#list").innerHTML = html || `<p class="empty">Nessun evento con questi filtri. Prova a toglierne qualcuno.</p>`;
+}
+
+function renderMostre(){
+  $("#mostre").innerHTML = (DATA.mostre||[]).map(m =>
+    `<div class="m"><a href="${esc(m.url)}" target="_blank" rel="noopener">${esc(m.title)}</a><div>${esc(m.venue)} · ${esc(m.when)}</div></div>`).join("");
+}
+
+function toggle(id, key){
+  const b = $(id); b.addEventListener("click", () => { state[key] = !state[key]; b.setAttribute("aria-pressed", state[key]); render(); });
+}
+
+async function load(){
+  try{
+    const r = await fetch("events.json", {cache:"no-store"});
+    if (!r.ok) throw new Error(r.status);
+    DATA = await r.json();
+  }catch(err){
+    $("#upd").textContent = "Non riesco a caricare gli eventi: ricarica la pagina.";
+    return;
+  }
+  const u = new Date(DATA.updated);
+  $("#upd").textContent = "Aggiornato il " + u.toLocaleDateString("it-IT",{day:"numeric",month:"long"}) + " alle " + u.toLocaleTimeString("it-IT",{hour:"2-digit",minute:"2-digit"});
+  renderCats(); renderMostre(); render();
+  const t = todayStr(); const s = document.getElementById("d-"+t);
+  if (s && t !== DATA.range[0]) s.scrollIntoView();
+}
+
+$("#q").addEventListener("input", e => { state.q = e.target.value.trim().toLowerCase(); render(); });
+toggle("#f-star","star"); toggle("#f-free","free"); toggle("#f-bc","bc"); toggle("#f-past","hidePast");
+setInterval(() => { if (DATA) render(); }, 5*60*1000);
+load();
+</script>
+</body>
+</html>

@@ -1,0 +1,1870 @@
+{
+"updated": "2026-11-19T10:15:00+01:00",
+"range": [
+"2026-11-19",
+"2026-11-29"
+],
+"events": [
+{
+"date": "2026-11-19",
+"time": "14:30",
+"title": "Balanchine / Bausch / Stravinskij",
+"venue": "Teatro alla Scala",
+"cat": "classica",
+"desc": "Balletto.",
+"url": "https://www.teatroallascala.org/it/calendario.html",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e000"
+},
+{
+"date": "2026-11-19",
+"time": "18:30",
+"title": "Omaggio a Eugenio Scalfari",
+"venue": "Fondazione Feltrinelli (viale Pasubio 5)",
+"cat": "geo",
+"desc": "Una certa idea di democrazia.",
+"url": "https://fondazionefeltrinelli.it/en/participate/",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e001"
+},
+{
+"date": "2026-11-19",
+"time": "19:15",
+"title": "Parla, Clitemnestra!",
+"venue": "Teatro Elfo Puccini",
+"cat": "teatro",
+"desc": "Compagnia Barletti/Waas.",
+"url": "https://www.mentelocale.it/milano/147726-parla-clitemnestra-al-teatro-elfo-puccini-la-compagnia-barletti-waas.htm",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e002"
+},
+{
+"date": "2026-11-19",
+"time": "19:30",
+"title": "Anteprima I Swear, con Robert Aramayo",
+"venue": "Anteo Palazzo del Cinema",
+"cat": "cinema",
+"desc": "In lingua originale.",
+"url": "https://www.spaziocinema.info/milano/eventi-e-rassegne/i-swear-e-piu-forte-di-me-di-kirk-jones-introduzione-e-incontro-con-il-protagonista-robert-aramayo",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e003"
+},
+{
+"date": "2026-11-19",
+"time": "19:30",
+"title": "La misteriosa scomparsa di W",
+"venue": "Teatro Carcano",
+"cat": "teatro",
+"desc": "Da Stefano Benni, con e per la regia di Ambra Angiolini.",
+"url": "https://www.mentelocale.it/milano/129787-la-misteriosa-scomparsa-di-w.htm",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e004"
+},
+{
+"date": "2026-11-19",
+"time": "20:00",
+"title": "Balanchine / Bausch / Stravinskij",
+"venue": "Teatro alla Scala",
+"cat": "classica",
+"desc": "Balletto.",
+"url": "https://www.teatroallascala.org/it/calendario.html",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e005"
+},
+{
+"date": "2026-11-19",
+"time": "20:30",
+"title": "La rivolta",
+"venue": "Teatro Leonardo (via Ampère 1)",
+"cat": "teatro",
+"desc": "Scritto e diretto da Corrado d'Elia.",
+"url": "https://www.mentelocale.it/milano/139866-rivolta.htm",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e006"
+},
+{
+"date": "2026-11-19",
+"time": "20:30",
+"title": "Mio padre è Sylvester Stallone",
+"venue": "Teatro Verdi (via Pastrengo 16)",
+"cat": "teatro",
+"desc": "Con Davide Niccolini. Repliche fino al 22.",
+"url": "https://mentelocale.it/milano/eventi/",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e007"
+},
+{
+"date": "2026-11-19",
+"time": "",
+"title": "Filmmaker Festival: NIGHTGLASSES di Jacopo Miliani",
+"venue": "Cineteca Arlecchino",
+"cat": "cinema",
+"desc": "Festival fino al 22.",
+"url": "https://zero.eu/news/filmmaker-2026/",
+"free": null,
+"tags": [],
+"verify": true,
+"id": "e008"
+},
+{
+"date": "2026-11-19",
+"time": "",
+"title": "Milano Music Week: Punk e Do It Yourself",
+"venue": "Milano Music Week",
+"cat": "jazz",
+"desc": "Talk con Max Casacci ed Ermanno Giovanardi. In serata Ariete all'Alcatraz.",
+"url": "https://www.mentelocale.it/milano/147140-milano-music-week-2026-sotto-la-direzione-artistica-di-linus-una-settimana-di-live-talk-e-incontri-il-programma.htm",
+"free": null,
+"tags": [
+"mmw"
+],
+"verify": true,
+"id": "e009"
+},
+{
+"date": "2026-11-20",
+"time": "18:00",
+"title": "Il suono del cinema: 8½ di Fellini e Rota",
+"venue": "Teatro alla Scala",
+"cat": "talk",
+"desc": "Incontro.",
+"url": "https://www.teatroallascala.org/it/calendario.html",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e010"
+},
+{
+"date": "2026-11-20",
+"time": "19:15",
+"title": "Parla, Clitemnestra!",
+"venue": "Teatro Elfo Puccini",
+"cat": "teatro",
+"desc": "Compagnia Barletti/Waas.",
+"url": "https://www.mentelocale.it/milano/147726-parla-clitemnestra-al-teatro-elfo-puccini-la-compagnia-barletti-waas.htm",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e011"
+},
+{
+"date": "2026-11-20",
+"time": "19:30",
+"title": "La misteriosa scomparsa di W",
+"venue": "Teatro Carcano",
+"cat": "teatro",
+"desc": "Da Stefano Benni, con e per la regia di Ambra Angiolini.",
+"url": "https://www.mentelocale.it/milano/129787-la-misteriosa-scomparsa-di-w.htm",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e012"
+},
+{
+"date": "2026-11-20",
+"time": "20:00",
+"title": "Ravel / Bach / Beethoven Eroica",
+"venue": "Auditorium di Milano (largo Mahler)",
+"cat": "classica",
+"desc": "Orchestra Sinfonica di Milano, dir. Nicolò Umberto Foron.",
+"url": "https://sinfonicadimilano.org/en/eventi/2026-27/ravel-bach-beethoven",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e013"
+},
+{
+"date": "2026-11-20",
+"time": "20:00",
+"title": "Riccardo Chailly dirige Bruckner 9",
+"venue": "Teatro alla Scala",
+"cat": "classica",
+"desc": "Stagione sinfonica.",
+"url": "https://www.teatroallascala.org/it/calendario.html",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e014"
+},
+{
+"date": "2026-11-20",
+"time": "20:30",
+"title": "La rivolta",
+"venue": "Teatro Leonardo (via Ampère 1)",
+"cat": "teatro",
+"desc": "Scritto e diretto da Corrado d'Elia.",
+"url": "https://www.mentelocale.it/milano/139866-rivolta.htm",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e015"
+},
+{
+"date": "2026-11-20",
+"time": "",
+"title": "Marlene Kuntz celebrano Il Vile",
+"venue": "Magnolia",
+"cat": "jazz",
+"desc": "",
+"url": "https://www.mentelocale.it/milano/147140-milano-music-week-2026-sotto-la-direzione-artistica-di-linus-una-settimana-di-live-talk-e-incontri-il-programma.htm",
+"free": null,
+"tags": [
+"mmw"
+],
+"verify": true,
+"id": "e016"
+},
+{
+"date": "2026-11-20",
+"time": "",
+"title": "Milano Music Week: Frequenza Futura",
+"venue": "Milano Music Week",
+"cat": "jazz",
+"desc": "Live con Margherita Vicario, Birthh, Angelica Bove, Syria. Talk di Piero Pelù e Paola Zukar.",
+"url": "https://www.mentelocale.it/milano/147140-milano-music-week-2026-sotto-la-direzione-artistica-di-linus-una-settimana-di-live-talk-e-incontri-il-programma.htm",
+"free": null,
+"tags": [
+"mmw"
+],
+"verify": true,
+"id": "e017"
+},
+{
+"date": "2026-11-20",
+"time": "",
+"title": "SONDA. Monica Bonvicini: Retrospective",
+"venue": "Voce Triennale",
+"cat": "storia",
+"desc": "Dal 20 al 22.",
+"url": "https://zero.eu/it/luoghi/336669-voce-triennale,milano/",
+"free": null,
+"tags": [],
+"verify": true,
+"id": "e018"
+},
+{
+"date": "2026-11-21",
+"time": "12:00",
+"title": "Mercatino del Borgo",
+"venue": "via Casoretto 5",
+"cat": "famiglie",
+"desc": "Anche domenica, 12–18.",
+"url": "https://www.ilgiorno.it/milano/cosa-fare/mercatini-novembre-2026-szagydwd",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e019"
+},
+{
+"date": "2026-11-21",
+"time": "19:15",
+"title": "Parla, Clitemnestra!",
+"venue": "Teatro Elfo Puccini",
+"cat": "teatro",
+"desc": "Compagnia Barletti/Waas.",
+"url": "https://www.mentelocale.it/milano/147726-parla-clitemnestra-al-teatro-elfo-puccini-la-compagnia-barletti-waas.htm",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e020"
+},
+{
+"date": "2026-11-21",
+"time": "20:00",
+"title": "Balanchine / Bausch / Stravinskij",
+"venue": "Teatro alla Scala",
+"cat": "classica",
+"desc": "Ultima replica.",
+"url": "https://www.teatroallascala.org/it/calendario.html",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e021"
+},
+{
+"date": "2026-11-21",
+"time": "20:30",
+"title": "La misteriosa scomparsa di W",
+"venue": "Teatro Carcano",
+"cat": "teatro",
+"desc": "Da Stefano Benni, con e per la regia di Ambra Angiolini.",
+"url": "https://www.mentelocale.it/milano/129787-la-misteriosa-scomparsa-di-w.htm",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e022"
+},
+{
+"date": "2026-11-21",
+"time": "20:30",
+"title": "La rivolta",
+"venue": "Teatro Leonardo (via Ampère 1)",
+"cat": "teatro",
+"desc": "Scritto e diretto da Corrado d'Elia.",
+"url": "https://www.mentelocale.it/milano/139866-rivolta.htm",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e023"
+},
+{
+"date": "2026-11-21",
+"time": "21:15",
+"title": "Il rumore delle cose nuove: incontro con Paolo Genovese ed Emanuela Fanelli",
+"venue": "CityLife Anteo",
+"cat": "cinema",
+"desc": "",
+"url": "https://www.spaziocinema.info/milano/eventi-e-rassegne/anteprima-il-rumore-delle-cose-nuove-lezione-di-cinema-e-incontro-con-il-regista-paolo-genovese-e-gli-attori-stefano-accorsi-edoardo-pesce-e-claudia-pandolfi",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e024"
+},
+{
+"date": "2026-11-21",
+"time": "",
+"title": "Danilo Rea per i 40 anni di Una Mano alla Vita",
+"venue": "Auditorium di Milano",
+"cat": "jazz",
+"desc": "",
+"url": "https://mentelocale.it/milano/eventi/",
+"free": null,
+"tags": [],
+"verify": true,
+"id": "e025"
+},
+{
+"date": "2026-11-21",
+"time": "",
+"title": "Le Cannibale, party ufficiale",
+"venue": "Fabbrica del Vapore, Cattedrale",
+"cat": "jazz",
+"desc": "",
+"url": "https://www.mentelocale.it/milano/147140-milano-music-week-2026-sotto-la-direzione-artistica-di-linus-una-settimana-di-live-talk-e-incontri-il-programma.htm",
+"free": null,
+"tags": [
+"mmw"
+],
+"verify": true,
+"id": "e026"
+},
+{
+"date": "2026-11-21",
+"time": "",
+"title": "Zerocalcare e Max Pezzali",
+"venue": "Milano Music Week",
+"cat": "talk",
+"desc": "Musica, fumetto e punk italiano. Anche panel con Gianna Nannini.",
+"url": "https://www.mentelocale.it/milano/147140-milano-music-week-2026-sotto-la-direzione-artistica-di-linus-una-settimana-di-live-talk-e-incontri-il-programma.htm",
+"free": null,
+"tags": [
+"mmw"
+],
+"verify": true,
+"id": "e027"
+},
+{
+"date": "2026-11-22",
+"time": "10:00",
+"title": "m2o Morning Club: Albertino, Baldelli, Fimiani",
+"venue": "Bar Vapore 1928",
+"cat": "jazz",
+"desc": "Chiusura della Milano Music Week.",
+"url": "https://www.mentelocale.it/milano/147140-milano-music-week-2026-sotto-la-direzione-artistica-di-linus-una-settimana-di-live-talk-e-incontri-il-programma.htm",
+"free": null,
+"tags": [
+"mmw"
+],
+"verify": false,
+"id": "e028"
+},
+{
+"date": "2026-11-22",
+"time": "15:00",
+"title": "Il fuoco che ti porti dentro: lezione di cinema",
+"venue": "Anteo Palazzo del Cinema",
+"cat": "cinema",
+"desc": "Con Edoardo De Angelis, Vanessa Scalera, Lino Musella.",
+"url": "https://www.spaziocinema.info/milano/eventi-e-rassegne/il-fuoco-che-ti-porti-dentro-lezione-di-cinema-con-il-regista-edoardo-de-angelis-e-gli-attori-vanessa-scalera-e-lino-musella",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e029"
+},
+{
+"date": "2026-11-22",
+"time": "15:00",
+"title": "Parla, Clitemnestra!",
+"venue": "Teatro Elfo Puccini",
+"cat": "teatro",
+"desc": "Compagnia Barletti/Waas.",
+"url": "https://www.mentelocale.it/milano/147726-parla-clitemnestra-al-teatro-elfo-puccini-la-compagnia-barletti-waas.htm",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e030"
+},
+{
+"date": "2026-11-22",
+"time": "16:00",
+"title": "Edmund de Waal, Come cominciare",
+"venue": "Fondazione Luigi Rovati",
+"cat": "storia",
+"desc": "BookCity.",
+"url": "https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntamenti/bookcity-milano-2026/",
+"free": null,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e031"
+},
+{
+"date": "2026-11-22",
+"time": "16:00",
+"title": "Ravel / Bach / Beethoven Eroica",
+"venue": "Auditorium di Milano (largo Mahler)",
+"cat": "classica",
+"desc": "Replica.",
+"url": "https://sinfonicadimilano.org/en/eventi/2026-27/ravel-bach-beethoven",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e032"
+},
+{
+"date": "2026-11-22",
+"time": "16:30",
+"title": "La misteriosa scomparsa di W",
+"venue": "Teatro Carcano",
+"cat": "teatro",
+"desc": "Da Stefano Benni, con e per la regia di Ambra Angiolini.",
+"url": "https://www.mentelocale.it/milano/129787-la-misteriosa-scomparsa-di-w.htm",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e033"
+},
+{
+"date": "2026-11-22",
+"time": "16:30",
+"title": "La rivolta",
+"venue": "Teatro Leonardo (via Ampère 1)",
+"cat": "teatro",
+"desc": "Scritto e diretto da Corrado d'Elia.",
+"url": "https://www.mentelocale.it/milano/139866-rivolta.htm",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e034"
+},
+{
+"date": "2026-11-22",
+"time": "20:00",
+"title": "Benjamin Bernheim, recital di canto",
+"venue": "Teatro alla Scala",
+"cat": "classica",
+"desc": "",
+"url": "https://www.teatroallascala.org/it/calendario.html",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e035"
+},
+{
+"date": "2026-11-23",
+"time": "08:30",
+"title": "Oltre la globalizzazione. La lezione giuridica di Roma",
+"venue": "Statale, via Festa del Perdono 3, aula 208",
+"cat": "geo",
+"desc": "Lezione aperta BookCity alla Statale. Iscrizione obbligatoria.",
+"url": "https://work.unimi.it/eventir/registrazione?code=17571",
+"free": true,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e036"
+},
+{
+"date": "2026-11-23",
+"time": "11:00",
+"title": "L'elisir d'amore per i bambini",
+"venue": "Teatro alla Scala",
+"cat": "famiglie",
+"desc": "Replica anche alle 14:30.",
+"url": "https://www.teatroallascala.org/it/calendario.html",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e037"
+},
+{
+"date": "2026-11-23",
+"time": "12:30",
+"title": "Dalla preistoria ad oggi: il viaggio di Emilio Sereni",
+"venue": "Statale, via Sant'Antonio 5, aula 1",
+"cat": "storia",
+"desc": "Lezione aperta BookCity alla Statale. Iscrizione obbligatoria.",
+"url": "https://work.unimi.it/eventir/registrazione?code=17553",
+"free": true,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e038"
+},
+{
+"date": "2026-11-23",
+"time": "12:30",
+"title": "Il senno del giudizio. Storia della giustizia nell'Italia repubblicana",
+"venue": "Statale, via Festa del Perdono 3, aula 410",
+"cat": "storia",
+"desc": "Lezione aperta BookCity alla Statale. Iscrizione obbligatoria.",
+"url": "https://work.unimi.it/eventir/registrazione?code=17568",
+"free": true,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e039"
+},
+{
+"date": "2026-11-23",
+"time": "16:30",
+"title": "I misteri d'Italia: 1974, la strage di Brescia",
+"venue": "Statale, via Festa del Perdono 3, aula 102",
+"cat": "storia",
+"desc": "Lezione aperta BookCity alla Statale. Iscrizione obbligatoria.",
+"url": "https://work.unimi.it/eventir/registrazione?code=17540",
+"free": true,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e040"
+},
+{
+"date": "2026-11-23",
+"time": "16:30",
+"title": "Quale sovranità per il Caucaso meridionale?",
+"venue": "Statale, Scienze politiche, via Conservatorio 7, aula 26",
+"cat": "geo",
+"desc": "Lezione aperta BookCity alla Statale. Iscrizione obbligatoria.",
+"url": "https://work.unimi.it/eventir/registrazione?code=17525",
+"free": true,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e041"
+},
+{
+"date": "2026-11-23",
+"time": "18:00",
+"title": "Dischi e tasti: Ildebrando Pizzetti, Piano Trio",
+"venue": "Teatro alla Scala",
+"cat": "talk",
+"desc": "Incontro.",
+"url": "https://www.teatroallascala.org/it/calendario.html",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e042"
+},
+{
+"date": "2026-11-23",
+"time": "18:30",
+"title": "Milo Manara: l'erotismo nell'arte e nella letteratura",
+"venue": "Centro Internazionale di Brera",
+"cat": "storia",
+"desc": "",
+"url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+"free": null,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e043"
+},
+{
+"date": "2026-11-23",
+"time": "19:30",
+"title": "L'eterna illusione: da Broadway a Hollywood",
+"venue": "Anteo Palazzo del Cinema",
+"cat": "cinema",
+"desc": "Rassegna del lunedì.",
+"url": "https://www.spaziocinema.info/milano/eventi-e-rassegne/l2019eterna-illusione-da-broadway-a-hollywood",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e044"
+},
+{
+"date": "2026-11-23",
+"time": "20:00",
+"title": "Coro di Voci Bianche dell'Accademia",
+"venue": "Teatro alla Scala",
+"cat": "classica",
+"desc": "",
+"url": "https://www.teatroallascala.org/it/calendario.html",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e045"
+},
+{
+"date": "2026-11-23",
+"time": "20:00",
+"title": "Inaugurazione BookCity: Colson Whitehead",
+"venue": "Teatro Dal Verme",
+"cat": "talk",
+"desc": "Con Francesco Costa, conduce Giovanna Zucconi. Lectio di Marco Balzano.",
+"url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+"free": null,
+"tags": [
+"bookcity",
+"imperdibile"
+],
+"verify": false,
+"id": "e046"
+},
+{
+"date": "2026-11-23",
+"time": "20:30",
+"title": "Alessandro Bergonzoni, Voto di vastità",
+"venue": "Teatro Carcano",
+"cat": "teatro",
+"desc": "Rassegna Follow the Monday.",
+"url": "https://www.mentelocale.it/milano/129757-follow-the-monday-farsi-male-variazioni-sul-masochismo.htm",
+"free": null,
+"tags": [
+"imperdibile"
+],
+"verify": false,
+"id": "e047"
+},
+{
+"date": "2026-11-23",
+"time": "",
+"title": "Vedo, ascolto, parlo: contro la violenza sulle donne",
+"venue": "Anteo Palazzo del Cinema",
+"cat": "cinema",
+"desc": "Dal 23 al 25.",
+"url": "https://www.spaziocinema.info/milano/eventi-e-rassegne/vedo-ascolto-parlo-muoviamoci-contro-la-violenza-sulle-donne",
+"free": null,
+"tags": [],
+"verify": true,
+"id": "e048"
+},
+{
+"date": "2026-11-24",
+"time": "10:30",
+"title": "La ragione di Orlando. Come il Medioevo imparò a dare conto delle cose",
+"venue": "Statale, via Santa Sofia 9, aula M203",
+"cat": "storia",
+"desc": "Lezione aperta BookCity alla Statale. Iscrizione obbligatoria.",
+"url": "https://work.unimi.it/eventir/registrazione?code=17537",
+"free": true,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e049"
+},
+{
+"date": "2026-11-24",
+"time": "11:00",
+"title": "Una società più equa è anche più sana?",
+"venue": "Casa dei Diritti, via De Amicis 10",
+"cat": "salute",
+"desc": "Lezione aperta BookCity alla Statale. Iscrizione obbligatoria.",
+"url": "https://work.unimi.it/eventir/registrazione?code=17473",
+"free": true,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e050"
+},
+{
+"date": "2026-11-24",
+"time": "12:00",
+"title": "Daniel Pennac apre la nuova Feltrinelli Centrale",
+"venue": "Feltrinelli Milano Centrale",
+"cat": "talk",
+"desc": "Dalle 12:30 Galimberti, Biondillo, Nucci, Latronico e altri.",
+"url": "https://www.mentelocale.it/milano/147714-librerie-a-milano-riapre-la-pi-grande-feltrinelli-della-citt.htm",
+"free": true,
+"tags": [],
+"verify": false,
+"id": "e051"
+},
+{
+"date": "2026-11-24",
+"time": "12:30",
+"title": "Una risata seppellirà la violenza? Euripide e Aristofane",
+"venue": "Statale, via Noto 8, aula K31",
+"cat": "storia",
+"desc": "Lezione aperta BookCity alla Statale. Iscrizione obbligatoria.",
+"url": "https://work.unimi.it/eventir/registrazione?code=17549",
+"free": true,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e052"
+},
+{
+"date": "2026-11-24",
+"time": "15:00",
+"title": "Otello: l'ultima maschera tragica",
+"venue": "Teatro alla Scala",
+"cat": "talk",
+"desc": "Incontro di studio.",
+"url": "https://www.teatroallascala.org/it/calendario.html",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e053"
+},
+{
+"date": "2026-11-24",
+"time": "16:00",
+"title": "Over Dance Milano: danza e longevità",
+"venue": "Fondazione Feltrinelli",
+"cat": "salute",
+"desc": "Welfare culturale.",
+"url": "https://fondazionefeltrinelli.it/en/participate/",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e054"
+},
+{
+"date": "2026-11-24",
+"time": "16:30",
+"title": "L'universo ideologico di Trump",
+"venue": "Statale, via Festa del Perdono 3, aula 304",
+"cat": "geo",
+"desc": "Lezione aperta BookCity alla Statale. Iscrizione obbligatoria.",
+"url": "https://work.unimi.it/eventir/registrazione?code=17565",
+"free": true,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e055"
+},
+{
+"date": "2026-11-24",
+"time": "16:30",
+"title": "La democrazia partecipativa tra crisi della rappresentanza e stato di diritto",
+"venue": "Statale, Scienze politiche, via Conservatorio 7, aula 25",
+"cat": "geo",
+"desc": "Lezione aperta BookCity alla Statale. Iscrizione obbligatoria.",
+"url": "https://work.unimi.it/eventir/registrazione?code=17522",
+"free": true,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e056"
+},
+{
+"date": "2026-11-24",
+"time": "16:30",
+"title": "Material-mente umana. La soggettività incarnata",
+"venue": "Statale, via Festa del Perdono 3, aula 510",
+"cat": "filosofia",
+"desc": "Lezione aperta BookCity alla Statale. Iscrizione obbligatoria.",
+"url": "https://work.unimi.it/eventir/registrazione?code=17504",
+"free": true,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e057"
+},
+{
+"date": "2026-11-24",
+"time": "17:00",
+"title": "Salute in evoluzione: Pievani e Remuzzi",
+"venue": "21 House of Stories Città Studi, via Noè 24",
+"cat": "salute",
+"desc": "Lezione aperta BookCity alla Statale. Iscrizione obbligatoria.",
+"url": "https://work.unimi.it/eventir/registrazione?code=17467",
+"free": true,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e058"
+},
+{
+"date": "2026-11-24",
+"time": "18:30",
+"title": "Daniel Pennac presenta Mallet",
+"venue": "Fondazione San Fedele",
+"cat": "talk",
+"desc": "",
+"url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+"free": null,
+"tags": [
+"bookcity",
+"imperdibile"
+],
+"verify": false,
+"id": "e059"
+},
+{
+"date": "2026-11-24",
+"time": "19:30",
+"title": "Il rito del jazz: omaggio a Chick Corea",
+"venue": "Cascina Cuccagna (via Cuccagna 2/4)",
+"cat": "jazz",
+"desc": "Trio Boggio Ferraris, Mazzone, Rossi. Secondo set alle 21:30. Prenotazione su unpostoamilano.it.",
+"url": "https://www.ilgiorno.it/cosa-fare/cascina-cuccagna-tutte-le-sfumature-del-jazz-in-quattro-appuntamenti-nel-mese-di-novembre-b770bea9",
+"free": true,
+"tags": [],
+"verify": false,
+"id": "e060"
+},
+{
+"date": "2026-11-24",
+"time": "20:30",
+"title": "I monologhi della vagina",
+"venue": "Teatro Carcano",
+"cat": "teatro",
+"desc": "Con Lella Costa, Viola Marietti, Rita Pelusio, Beatrice Schiros. Rassegna #25novembre.",
+"url": "https://www.mentelocale.it/milano/129790-i-monologhi-della-vagina.htm",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e061"
+},
+{
+"date": "2026-11-24",
+"time": "20:30",
+"title": "La rivolta",
+"venue": "Teatro Leonardo (via Ampère 1)",
+"cat": "teatro",
+"desc": "Scritto e diretto da Corrado d'Elia.",
+"url": "https://www.mentelocale.it/milano/139866-rivolta.htm",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e062"
+},
+{
+"date": "2026-11-24",
+"time": "",
+"title": "Carl Gustav Jung attraverso il cinema e l'attualità",
+"venue": "Philo (su Zoom)",
+"cat": "filosofia",
+"desc": "Gratuito.",
+"url": "https://www.scuolaphilo.it/evento-philo/jungcinema_202609241823/",
+"free": true,
+"tags": [],
+"verify": true,
+"id": "e063"
+},
+{
+"date": "2026-11-24",
+"time": "",
+"title": "Iliade: la ballata di Tersite",
+"venue": "Teatro Filodrammatici",
+"cat": "teatro",
+"desc": "",
+"url": "https://mentelocale.it/milano/eventi/",
+"free": null,
+"tags": [],
+"verify": true,
+"id": "e064"
+},
+{
+"date": "2026-11-25",
+"time": "12:30",
+"title": "Oltre la rappresaglia: la repressione nazista in Boemia e Moravia",
+"venue": "Statale, Scienze politiche, via Conservatorio 7, aula 23",
+"cat": "geo",
+"desc": "Lezione aperta BookCity alla Statale. Iscrizione obbligatoria.",
+"url": "https://work.unimi.it/eventir/registrazione?code=17479",
+"free": true,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e065"
+},
+{
+"date": "2026-11-25",
+"time": "16:00",
+"title": "Arturo Pérez-Reverte",
+"venue": "Università Cattolica",
+"cat": "talk",
+"desc": "",
+"url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+"free": null,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e066"
+},
+{
+"date": "2026-11-25",
+"time": "16:30",
+"title": "Dante è vivo",
+"venue": "Statale, via Santa Sofia 9, aula M205",
+"cat": "storia",
+"desc": "Lezione aperta BookCity alla Statale. Iscrizione obbligatoria.",
+"url": "https://work.unimi.it/eventir/registrazione?code=17586",
+"free": true,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e067"
+},
+{
+"date": "2026-11-25",
+"time": "16:30",
+"title": "Il senno sulla luna: il Medioevo di Doctor Virtualis",
+"venue": "Statale, via Santa Sofia 9, aula M401",
+"cat": "filosofia",
+"desc": "Lezione aperta BookCity alla Statale. Iscrizione obbligatoria.",
+"url": "https://work.unimi.it/eventir/registrazione?code=17516",
+"free": true,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e068"
+},
+{
+"date": "2026-11-25",
+"time": "17:30",
+"title": "Piacere, Rousseau. Ti presento Dewey",
+"venue": "FrancoAngeli Academy",
+"cat": "filosofia",
+"desc": "Bicocca per BookCity.",
+"url": "https://www.unimib.it/node/39142",
+"free": null,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e069"
+},
+{
+"date": "2026-11-25",
+"time": "18:00",
+"title": "Jan Brokken, La malinconia del viaggiatore",
+"venue": "Fondazione Luigi Rovati",
+"cat": "storia",
+"desc": "",
+"url": "https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntamenti/bookcity-milano-2026-2/",
+"free": null,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e070"
+},
+{
+"date": "2026-11-25",
+"time": "18:00",
+"title": "Prima delle Prime: Otello",
+"venue": "Teatro alla Scala",
+"cat": "talk",
+"desc": "Giovanni Bietti con Damiano Michieletto.",
+"url": "https://www.teatroallascala.org/it/calendario.html",
+"free": null,
+"tags": [
+"imperdibile"
+],
+"verify": false,
+"id": "e071"
+},
+{
+"date": "2026-11-25",
+"time": "18:30",
+"title": "Era tanto un bravo ragazzo",
+"venue": "Fondazione Feltrinelli",
+"cat": "geo",
+"desc": "Paola Di Nicola Travaglini, Cinzia Spanò, Caterina Croce. Giornata contro la violenza sulle donne.",
+"url": "https://fondazionefeltrinelli.it/en/participate/",
+"free": null,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e072"
+},
+{
+"date": "2026-11-25",
+"time": "20:00",
+"title": "Samantha Cristoforetti: il senso della Luna",
+"venue": "Museo Scienza e Tecnologia",
+"cat": "talk",
+"desc": "Con Stefano Sandrelli, letture di Leopardi.",
+"url": "https://www.mentelocale.it/milano/146478-bookcity-milano-2026-iniziative-e-incontri-al-museo-nazionale-scienza-e-tecnologia.htm",
+"free": null,
+"tags": [
+"bookcity",
+"imperdibile"
+],
+"verify": false,
+"id": "e073"
+},
+{
+"date": "2026-11-25",
+"time": "20:30",
+"title": "La rivolta",
+"venue": "Teatro Leonardo (via Ampère 1)",
+"cat": "teatro",
+"desc": "Scritto e diretto da Corrado d'Elia.",
+"url": "https://www.mentelocale.it/milano/139866-rivolta.htm",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e074"
+},
+{
+"date": "2026-11-25",
+"time": "20:30",
+"title": "Uomini si diventa. Nella mente di un femminicida",
+"venue": "Teatro Carcano",
+"cat": "teatro",
+"desc": "Reading con Alessio Boni e Omar Pedrini. Rassegna #25novembre.",
+"url": "http://www.teatrocarcano.com/rassegne/25novembre-2627.htm",
+"free": null,
+"tags": [],
+"verify": true,
+"id": "e075"
+},
+{
+"date": "2026-11-25",
+"time": "20:45",
+"title": "Solisti Aquilani con Anna Tifu",
+"venue": "Conservatorio, Sala Verdi",
+"cat": "classica",
+"desc": "Società dei Concerti.",
+"url": "https://www.mentelocale.it/milano/135021-i-solisti-aquilani-tifu.htm",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e076"
+},
+{
+"date": "2026-11-25",
+"time": "",
+"title": "Bobby",
+"venue": "Teatro Oscar",
+"cat": "teatro",
+"desc": "Regia di Giacomo Poretti.",
+"url": "https://mentelocale.it/milano/eventi/",
+"free": null,
+"tags": [],
+"verify": true,
+"id": "e077"
+},
+{
+"date": "2026-11-25",
+"time": "",
+"title": "Silvia Romani e Federica Fracassi sul mito antico",
+"venue": "Teatro Franco Parenti",
+"cat": "storia",
+"desc": "",
+"url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+"free": null,
+"tags": [
+"bookcity"
+],
+"verify": true,
+"id": "e078"
+},
+{
+"date": "2026-11-26",
+"time": "08:30",
+"title": "La messa non è finita. Il sacro all'epoca del digitale",
+"venue": "Statale, via Festa del Perdono 3, aula 211",
+"cat": "filosofia",
+"desc": "Lezione aperta BookCity alla Statale. Iscrizione obbligatoria.",
+"url": "https://work.unimi.it/eventir/registrazione?code=17513",
+"free": true,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e079"
+},
+{
+"date": "2026-11-26",
+"time": "09:00",
+"title": "Le sparizioni forzate in America Latina",
+"venue": "Statale, Scienze politiche, via Conservatorio 7, aula 12",
+"cat": "geo",
+"desc": "Lezione aperta BookCity alla Statale. Iscrizione obbligatoria.",
+"url": "https://work.unimi.it/eventir/registrazione?code=17528",
+"free": true,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e080"
+},
+{
+"date": "2026-11-26",
+"time": "11:00",
+"title": "100 copertine di futuro",
+"venue": "Fondazione Luigi Rovati",
+"cat": "storia",
+"desc": "",
+"url": "https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntamenti/100-copertine-di-futuro/",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e081"
+},
+{
+"date": "2026-11-26",
+"time": "18:00",
+"title": "Letture e note al museo: Guido Cantelli",
+"venue": "Museo Teatrale alla Scala",
+"cat": "talk",
+"desc": "",
+"url": "https://www.teatroallascala.org/it/calendario.html",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e082"
+},
+{
+"date": "2026-11-26",
+"time": "18:30",
+"title": "Hello stranger, mostra di poesia",
+"venue": "Casa degli Artisti",
+"cat": "storia",
+"desc": "Collettivo ARIMO.",
+"url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+"free": null,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e083"
+},
+{
+"date": "2026-11-26",
+"time": "18:30",
+"title": "Milena Gabanelli e Simona Ravizza, La resa dei conti",
+"venue": "Castello Sforzesco, Sala Viscontea",
+"cat": "geo",
+"desc": "",
+"url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+"free": null,
+"tags": [
+"bookcity",
+"imperdibile"
+],
+"verify": false,
+"id": "e084"
+},
+{
+"date": "2026-11-26",
+"time": "20:00",
+"title": "Concerto civile Giorgio Ambrosoli",
+"venue": "Conservatorio, Sala Verdi",
+"cat": "classica",
+"desc": "Orchestra Sinfonica del Conservatorio, dir. Alessandro Bombonati.",
+"url": "https://www.consmi.it/en/events/page/5/",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e085"
+},
+{
+"date": "2026-11-26",
+"time": "20:00",
+"title": "Fabio Volo, Quando l'amore ti sorprende",
+"venue": "Castello Sforzesco, Sala Viscontea",
+"cat": "talk",
+"desc": "",
+"url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+"free": null,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e086"
+},
+{
+"date": "2026-11-26",
+"time": "20:30",
+"title": "La rivolta",
+"venue": "Teatro Leonardo (via Ampère 1)",
+"cat": "teatro",
+"desc": "Scritto e diretto da Corrado d'Elia.",
+"url": "https://www.mentelocale.it/milano/139866-rivolta.htm",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e087"
+},
+{
+"date": "2026-11-27",
+"time": "09:30",
+"title": "Milano Life Science Forum: prevenzione",
+"venue": "Assolombarda (via Pantano 9)",
+"cat": "salute",
+"desc": "Gratuito con iscrizione, 9:30–13:00.",
+"url": "https://www.assolombarda.it/desk/life-sciences-desk-backup/appuntamenti/milano-life-science-forum-2026-prevenzione-competitivita-e-innovazione-le-priorita-per-il-futuro-delle-scienze-della-vita-in-lombardia-e-in-europa/@@iscrizione-convegno",
+"free": true,
+"tags": [],
+"verify": false,
+"id": "e088"
+},
+{
+"date": "2026-11-27",
+"time": "16:30",
+"title": "Campi, celle, ceneri: la scrittura palestinese",
+"venue": "Statale, via Festa del Perdono 3, aula 109",
+"cat": "geo",
+"desc": "Lezione aperta BookCity alla Statale. Iscrizione obbligatoria.",
+"url": "https://work.unimi.it/eventir/registrazione?code=17543",
+"free": true,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e089"
+},
+{
+"date": "2026-11-27",
+"time": "17:30",
+"title": "La Scala dei libri: Francesco Filidei e Silvia Lelli",
+"venue": "Teatro alla Scala",
+"cat": "talk",
+"desc": "BookCity.",
+"url": "https://www.teatroallascala.org/it/calendario.html",
+"free": null,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e090"
+},
+{
+"date": "2026-11-27",
+"time": "18:00",
+"title": "Francesco Vezzoli, Victoria Mater",
+"venue": "Fondazione Luigi Rovati",
+"cat": "storia",
+"desc": "",
+"url": "https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntamenti/bookcity-milano-2026-3/",
+"free": true,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e091"
+},
+{
+"date": "2026-11-27",
+"time": "18:30",
+"title": "Umberto Galimberti, L'illusione della libertà",
+"venue": "Fondazione San Fedele",
+"cat": "filosofia",
+"desc": "",
+"url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+"free": null,
+"tags": [
+"bookcity",
+"imperdibile"
+],
+"verify": false,
+"id": "e092"
+},
+{
+"date": "2026-11-27",
+"time": "18:30",
+"title": "Vincenzo Latronico, Work in progress",
+"venue": "Triennale, Salone d'Onore",
+"cat": "talk",
+"desc": "",
+"url": "https://www.affaritaliani.it/milano/triennale-milano-due-serate-tra-letteratura-e-arte-yasmina-reza-presenta-il-suo-nuovo-libro-omaggio-a-john-berger-nel-centenario-della-nascita.html",
+"free": true,
+"tags": [],
+"verify": false,
+"id": "e093"
+},
+{
+"date": "2026-11-27",
+"time": "20:00",
+"title": "Beethoven Triplo concerto / Musorgskij Quadri",
+"venue": "Auditorium di Milano (largo Mahler)",
+"cat": "classica",
+"desc": "Dir. Emmanuel Tjeknavorian.",
+"url": "https://sinfonicadimilano.org/en/eventi/2026-27/beethoven-musorgskij",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e094"
+},
+{
+"date": "2026-11-27",
+"time": "20:30",
+"title": "Docufilm sui 150 anni del Corriere",
+"venue": "Fondazione Corriere della Sera",
+"cat": "cinema",
+"desc": "Con Neri Marcorè.",
+"url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+"free": null,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e095"
+},
+{
+"date": "2026-11-27",
+"time": "20:30",
+"title": "La rivolta",
+"venue": "Teatro Leonardo (via Ampère 1)",
+"cat": "teatro",
+"desc": "Scritto e diretto da Corrado d'Elia.",
+"url": "https://www.mentelocale.it/milano/139866-rivolta.htm",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e096"
+},
+{
+"date": "2026-11-27",
+"time": "",
+"title": "E tu, come lo sai? Capire la scienza per decidere insieme",
+"venue": "Museo Scienza e Tecnologia",
+"cat": "talk",
+"desc": "Con Amalia Ercoli Finzi e Paola Dubini.",
+"url": "https://www.mentelocale.it/milano/146478-bookcity-milano-2026-iniziative-e-incontri-al-museo-nazionale-scienza-e-tecnologia.htm",
+"free": null,
+"tags": [
+"bookcity"
+],
+"verify": true,
+"id": "e097"
+},
+{
+"date": "2026-11-27",
+"time": "",
+"title": "Oltre la punizione: riparare, riannodare, rigenerare",
+"venue": "Fondazione Feltrinelli",
+"cat": "filosofia",
+"desc": "Adolfo Ceretti sulla giustizia riparativa.",
+"url": "https://fondazionefeltrinelli.it/en/participate/",
+"free": null,
+"tags": [
+"bookcity"
+],
+"verify": true,
+"id": "e098"
+},
+{
+"date": "2026-11-27",
+"time": "",
+"title": "Scrivere per resistere: Premio PEN Inge Feltrinelli",
+"venue": "Fondazione Feltrinelli",
+"cat": "geo",
+"desc": "Con Burhan Sönmez e Paola Caridi.",
+"url": "https://fondazionefeltrinelli.it/en/participate/",
+"free": null,
+"tags": [
+"bookcity"
+],
+"verify": true,
+"id": "e099"
+},
+{
+"date": "2026-11-28",
+"time": "11:00",
+"title": "Aldo Cazzullo, Il nostro rinascimento",
+"venue": "Piccolo Teatro Strehler",
+"cat": "storia",
+"desc": "",
+"url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+"free": null,
+"tags": [
+"bookcity",
+"imperdibile"
+],
+"verify": false,
+"id": "e100"
+},
+{
+"date": "2026-11-28",
+"time": "11:30",
+"title": "Laura Pepe, Storia non convenzionale delle donne di Grecia",
+"venue": "Fondazione Luigi Rovati",
+"cat": "storia",
+"desc": "",
+"url": "https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntamenti/bookcity-milano-2026-4/",
+"free": null,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e101"
+},
+{
+"date": "2026-11-28",
+"time": "15:00",
+"title": "Dario Biagi, vita di Cagnaccio di San Pietro",
+"venue": "Fondazione Luigi Rovati",
+"cat": "storia",
+"desc": "",
+"url": "https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntamenti/bookcity-milano-2026-5/",
+"free": true,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e102"
+},
+{
+"date": "2026-11-28",
+"time": "17:00",
+"title": "Ermanno Cavazzoni, Sarò breve",
+"venue": "Ambrosius, Oratorio della Passione",
+"cat": "talk",
+"desc": "Lezione su come si scrive un racconto.",
+"url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+"free": null,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e103"
+},
+{
+"date": "2026-11-28",
+"time": "18:00",
+"title": "Fernando Aramburu presenta Maite",
+"venue": "Castello Sforzesco, Sala Viscontea",
+"cat": "talk",
+"desc": "",
+"url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+"free": null,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e104"
+},
+{
+"date": "2026-11-28",
+"time": "18:00",
+"title": "Filosofia dell'amicizia",
+"venue": "Fondazione Feltrinelli, Sala Lettura",
+"cat": "filosofia",
+"desc": "",
+"url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+"free": null,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e105"
+},
+{
+"date": "2026-11-28",
+"time": "18:00",
+"title": "Inaugurazione anno accademico del Conservatorio",
+"venue": "Conservatorio, Sala Verdi",
+"cat": "classica",
+"desc": "Concerto orchestrale.",
+"url": "https://www.consmi.it/en/events/page/5/",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e106"
+},
+{
+"date": "2026-11-28",
+"time": "18:00",
+"title": "La Scala dei libri: A dirci le cose chiare, Don Giovanni",
+"venue": "Teatro alla Scala",
+"cat": "talk",
+"desc": "BookCity.",
+"url": "https://www.teatroallascala.org/it/calendario.html",
+"free": null,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e107"
+},
+{
+"date": "2026-11-28",
+"time": "20:30",
+"title": "La rivolta",
+"venue": "Teatro Leonardo (via Ampère 1)",
+"cat": "teatro",
+"desc": "Scritto e diretto da Corrado d'Elia.",
+"url": "https://www.mentelocale.it/milano/139866-rivolta.htm",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e108"
+},
+{
+"date": "2026-11-28",
+"time": "20:30",
+"title": "Stai zitta!",
+"venue": "Teatro Carcano",
+"cat": "teatro",
+"desc": "Dal libro di Michela Murgia, con Antonella Questa, Valentina Melis, Letizia Bravi.",
+"url": "https://www.mentelocale.it/milano/129771-stai-zitta.htm",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e109"
+},
+{
+"date": "2026-11-28",
+"time": "",
+"title": "100 anni di Allen Ginsberg",
+"venue": "Casa degli Artisti",
+"cat": "storia",
+"desc": "Con Lino Guanciale.",
+"url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+"free": null,
+"tags": [
+"bookcity"
+],
+"verify": true,
+"id": "e110"
+},
+{
+"date": "2026-11-28",
+"time": "",
+"title": "BFF – Books Friends Forever",
+"venue": "BASE Milano",
+"cat": "talk",
+"desc": "Anche il 29. Gratuito. Con Cecilia Sala, Felicia Kingsley e altri.",
+"url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+"free": true,
+"tags": [
+"bookcity"
+],
+"verify": true,
+"id": "e111"
+},
+{
+"date": "2026-11-28",
+"time": "",
+"title": "Il verde e il nero",
+"venue": "Fondazione Feltrinelli",
+"cat": "geo",
+"desc": "Manuela Caiani e Sergio Labate.",
+"url": "https://fondazionefeltrinelli.it/en/participate/",
+"free": null,
+"tags": [
+"bookcity"
+],
+"verify": true,
+"id": "e112"
+},
+{
+"date": "2026-11-28",
+"time": "",
+"title": "Jazzanova",
+"venue": "Blue Note (via Borsieri 37)",
+"cat": "jazz",
+"desc": "",
+"url": "https://www.rockol.it/concerto-jazzanova-blue-note-milano-28-novembre-2026-c-mndxqv4awrp",
+"free": null,
+"tags": [],
+"verify": true,
+"id": "e113"
+},
+{
+"date": "2026-11-28",
+"time": "",
+"title": "La forza biologica della cultura",
+"venue": "Museo Scienza e Tecnologia",
+"cat": "talk",
+"desc": "Modera Armando Massarenti.",
+"url": "https://www.mentelocale.it/milano/146478-bookcity-milano-2026-iniziative-e-incontri-al-museo-nazionale-scienza-e-tecnologia.htm",
+"free": null,
+"tags": [
+"bookcity"
+],
+"verify": true,
+"id": "e114"
+},
+{
+"date": "2026-11-28",
+"time": "",
+"title": "Programma Philo a BookCity",
+"venue": "Philo – Pratiche filosofiche (via Piranesi 12)",
+"cat": "filosofia",
+"desc": "In presenza e su Zoom, gratuito.",
+"url": "https://www.scuolaphilo.it/evento-philo/bookcity2026_202610261835/",
+"free": true,
+"tags": [
+"bookcity"
+],
+"verify": true,
+"id": "e115"
+},
+{
+"date": "2026-11-28",
+"time": "",
+"title": "Visite e laboratori per famiglie",
+"venue": "Museo Bagatti Valsecchi",
+"cat": "famiglie",
+"desc": "",
+"url": "https://mentelocale.it/milano/eventi/",
+"free": null,
+"tags": [],
+"verify": true,
+"id": "e116"
+},
+{
+"date": "2026-11-28",
+"time": "",
+"title": "Wayne Snow",
+"venue": "Blue Note (via Borsieri 37)",
+"cat": "jazz",
+"desc": "",
+"url": "https://www.rockol.it/concerto-wayne-snow-blue-note-milano-28-novembre-2026-c-9oe39xma3e8",
+"free": null,
+"tags": [],
+"verify": true,
+"id": "e117"
+},
+{
+"date": "2026-11-29",
+"time": "11:00",
+"title": "BookCity 0-6",
+"venue": "Fondazione Luigi Rovati",
+"cat": "famiglie",
+"desc": "",
+"url": "https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntamenti/bookcity-milano-2026-6/",
+"free": true,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e118"
+},
+{
+"date": "2026-11-29",
+"time": "11:00",
+"title": "Pupi Avati: il gotico padano e il cinema",
+"venue": "Anteo Palazzo del Cinema",
+"cat": "cinema",
+"desc": "",
+"url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+"free": null,
+"tags": [
+"bookcity",
+"imperdibile"
+],
+"verify": false,
+"id": "e119"
+},
+{
+"date": "2026-11-29",
+"time": "11:00",
+"title": "Tjeknavorian e i Solisti della Sinfonica: Bartók, Schubert",
+"venue": "Teatro Gerolamo",
+"cat": "classica",
+"desc": "Musica da camera.",
+"url": "https://sinfonicadimilano.org/en/eventi/2026-27/bartok-hermann-schubert",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e120"
+},
+{
+"date": "2026-11-29",
+"time": "12:00",
+"title": "Zerocalcare, Dove andiamo da qui, Zero?",
+"venue": "Piccolo Teatro Strehler",
+"cat": "talk",
+"desc": "",
+"url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+"free": null,
+"tags": [
+"bookcity",
+"imperdibile"
+],
+"verify": false,
+"id": "e121"
+},
+{
+"date": "2026-11-29",
+"time": "16:00",
+"title": "Beethoven Triplo concerto / Musorgskij Quadri",
+"venue": "Auditorium di Milano (largo Mahler)",
+"cat": "classica",
+"desc": "Replica.",
+"url": "https://sinfonicadimilano.org/en/eventi/2026-27/beethoven-musorgskij",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e122"
+},
+{
+"date": "2026-11-29",
+"time": "16:30",
+"title": "Alicia Giménez-Bartlett, Sotto il cielo infernale",
+"venue": "Castello Sforzesco, Sala Viscontea",
+"cat": "talk",
+"desc": "",
+"url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+"free": null,
+"tags": [
+"bookcity"
+],
+"verify": false,
+"id": "e123"
+},
+{
+"date": "2026-11-29",
+"time": "16:30",
+"title": "La rivolta",
+"venue": "Teatro Leonardo (via Ampère 1)",
+"cat": "teatro",
+"desc": "Scritto e diretto da Corrado d'Elia.",
+"url": "https://www.mentelocale.it/milano/139866-rivolta.htm",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e124"
+},
+{
+"date": "2026-11-29",
+"time": "16:30",
+"title": "Stai zitta!",
+"venue": "Teatro Carcano",
+"cat": "teatro",
+"desc": "Dal libro di Michela Murgia.",
+"url": "https://www.mentelocale.it/milano/129771-stai-zitta.htm",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e125"
+},
+{
+"date": "2026-11-29",
+"time": "20:00",
+"title": "Chiusura BookCity: Samantha Harvey e Paolo Giordano",
+"venue": "Teatro Franco Parenti, Sala Grande",
+"cat": "talk",
+"desc": "Dallo spazio profondo al cuore della Terra.",
+"url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+"free": null,
+"tags": [
+"bookcity",
+"imperdibile"
+],
+"verify": false,
+"id": "e126"
+},
+{
+"date": "2026-11-29",
+"time": "20:00",
+"title": "Filarmonica della Scala, dir. Timothy Brock",
+"venue": "Teatro alla Scala",
+"cat": "classica",
+"desc": "",
+"url": "https://www.teatroallascala.org/it/calendario.html",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e127"
+}
+],
+"mostre": [
+{
+"title": "Dalí e la Moda",
+"venue": "Palazzo Reale",
+"when": "fino al 31 gennaio 2027",
+"url": "https://www.arte.it/calendario-arte/milano/2026/12/"
+},
+{
+"title": "I Brueghel. Le origini dei generi pittorici",
+"venue": "Palazzo Reale",
+"when": "fino al 31 gennaio 2027",
+"url": "https://www.arte.it/calendario-arte/milano/2026/12/"
+},
+{
+"title": "Matisse. Il mondo in una stanza",
+"venue": "Mudec",
+"when": "fino al 21 febbraio 2027",
+"url": "https://arte.it/calendario-arte/milano/2026/11/01/"
+},
+{
+"title": "Global Antiquity, a cura di Salvatore Settis",
+"venue": "Fondazione Prada",
+"when": "fino al 1° marzo 2027",
+"url": "https://www.e-flux.com/announcements/6785083/programme-2026"
+},
+{
+"title": "Artemisia Gentileschi, Annunciazione",
+"venue": "Museo Diocesano",
+"when": "fino al 31 gennaio 2027",
+"url": "https://arte.it/calendario-arte/milano/2026/11/01/"
+},
+{
+"title": "Libere! 1946–2026",
+"venue": "Gallerie d'Italia",
+"when": "in corso",
+"url": "https://mentelocale.it/milano/mostre/"
+},
+{
+"title": "Plurale femminile: Carla Cerati",
+"venue": "Palazzo Reale",
+"when": "in corso",
+"url": "https://mentelocale.it/milano/mostre/"
+},
+{
+"title": "Un Tiziano per Milano",
+"venue": "Museo Poldi Pezzoli",
+"when": "in corso",
+"url": "https://mentelocale.it/milano/mostre/"
+},
+{
+"title": "Shilpa Gupta, One Palm Closer to the Sky",
+"venue": "GAM",
+"when": "in corso",
+"url": "https://mentelocale.it/milano/mostre/"
+},
+{
+"title": "Wildlife Photographer of the Year",
+"venue": "Museo della Permanente",
+"when": "fino al 7 febbraio 2027",
+"url": "https://mentelocale.it/milano/eventi/"
+}
+]
+}
