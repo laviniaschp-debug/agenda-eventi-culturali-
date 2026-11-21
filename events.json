@@ -1,263 +1,10 @@
 {
-"updated": "2026-11-19T10:15:00+01:00",
+"updated": "2026-11-21T18:20:00+01:00",
 "range": [
-"2026-11-19",
-"2026-11-29"
+"2026-11-21",
+"2026-12-01"
 ],
 "events": [
-{
-"date": "2026-11-19",
-"time": "14:30",
-"title": "Balanchine / Bausch / Stravinskij",
-"venue": "Teatro alla Scala",
-"cat": "classica",
-"desc": "Balletto.",
-"url": "https://www.teatroallascala.org/it/calendario.html",
-"free": null,
-"tags": [],
-"verify": false,
-"id": "e000"
-},
-{
-"date": "2026-11-19",
-"time": "18:30",
-"title": "Omaggio a Eugenio Scalfari",
-"venue": "Fondazione Feltrinelli (viale Pasubio 5)",
-"cat": "geo",
-"desc": "Una certa idea di democrazia.",
-"url": "https://fondazionefeltrinelli.it/en/participate/",
-"free": null,
-"tags": [],
-"verify": false,
-"id": "e001"
-},
-{
-"date": "2026-11-19",
-"time": "19:15",
-"title": "Parla, Clitemnestra!",
-"venue": "Teatro Elfo Puccini",
-"cat": "teatro",
-"desc": "Compagnia Barletti/Waas.",
-"url": "https://www.mentelocale.it/milano/147726-parla-clitemnestra-al-teatro-elfo-puccini-la-compagnia-barletti-waas.htm",
-"free": null,
-"tags": [],
-"verify": false,
-"id": "e002"
-},
-{
-"date": "2026-11-19",
-"time": "19:30",
-"title": "Anteprima I Swear, con Robert Aramayo",
-"venue": "Anteo Palazzo del Cinema",
-"cat": "cinema",
-"desc": "In lingua originale.",
-"url": "https://www.spaziocinema.info/milano/eventi-e-rassegne/i-swear-e-piu-forte-di-me-di-kirk-jones-introduzione-e-incontro-con-il-protagonista-robert-aramayo",
-"free": null,
-"tags": [],
-"verify": false,
-"id": "e003"
-},
-{
-"date": "2026-11-19",
-"time": "19:30",
-"title": "La misteriosa scomparsa di W",
-"venue": "Teatro Carcano",
-"cat": "teatro",
-"desc": "Da Stefano Benni, con e per la regia di Ambra Angiolini.",
-"url": "https://www.mentelocale.it/milano/129787-la-misteriosa-scomparsa-di-w.htm",
-"free": null,
-"tags": [],
-"verify": false,
-"id": "e004"
-},
-{
-"date": "2026-11-19",
-"time": "20:00",
-"title": "Balanchine / Bausch / Stravinskij",
-"venue": "Teatro alla Scala",
-"cat": "classica",
-"desc": "Balletto.",
-"url": "https://www.teatroallascala.org/it/calendario.html",
-"free": null,
-"tags": [],
-"verify": false,
-"id": "e005"
-},
-{
-"date": "2026-11-19",
-"time": "20:30",
-"title": "La rivolta",
-"venue": "Teatro Leonardo (via Ampère 1)",
-"cat": "teatro",
-"desc": "Scritto e diretto da Corrado d'Elia.",
-"url": "https://www.mentelocale.it/milano/139866-rivolta.htm",
-"free": null,
-"tags": [],
-"verify": false,
-"id": "e006"
-},
-{
-"date": "2026-11-19",
-"time": "20:30",
-"title": "Mio padre è Sylvester Stallone",
-"venue": "Teatro Verdi (via Pastrengo 16)",
-"cat": "teatro",
-"desc": "Con Davide Niccolini. Repliche fino al 22.",
-"url": "https://mentelocale.it/milano/eventi/",
-"free": null,
-"tags": [],
-"verify": false,
-"id": "e007"
-},
-{
-"date": "2026-11-19",
-"time": "",
-"title": "Filmmaker Festival: NIGHTGLASSES di Jacopo Miliani",
-"venue": "Cineteca Arlecchino",
-"cat": "cinema",
-"desc": "Festival fino al 22.",
-"url": "https://zero.eu/news/filmmaker-2026/",
-"free": null,
-"tags": [],
-"verify": true,
-"id": "e008"
-},
-{
-"date": "2026-11-19",
-"time": "",
-"title": "Milano Music Week: Punk e Do It Yourself",
-"venue": "Milano Music Week",
-"cat": "jazz",
-"desc": "Talk con Max Casacci ed Ermanno Giovanardi. In serata Ariete all'Alcatraz.",
-"url": "https://www.mentelocale.it/milano/147140-milano-music-week-2026-sotto-la-direzione-artistica-di-linus-una-settimana-di-live-talk-e-incontri-il-programma.htm",
-"free": null,
-"tags": [
-"mmw"
-],
-"verify": true,
-"id": "e009"
-},
-{
-"date": "2026-11-20",
-"time": "18:00",
-"title": "Il suono del cinema: 8½ di Fellini e Rota",
-"venue": "Teatro alla Scala",
-"cat": "talk",
-"desc": "Incontro.",
-"url": "https://www.teatroallascala.org/it/calendario.html",
-"free": null,
-"tags": [],
-"verify": false,
-"id": "e010"
-},
-{
-"date": "2026-11-20",
-"time": "19:15",
-"title": "Parla, Clitemnestra!",
-"venue": "Teatro Elfo Puccini",
-"cat": "teatro",
-"desc": "Compagnia Barletti/Waas.",
-"url": "https://www.mentelocale.it/milano/147726-parla-clitemnestra-al-teatro-elfo-puccini-la-compagnia-barletti-waas.htm",
-"free": null,
-"tags": [],
-"verify": false,
-"id": "e011"
-},
-{
-"date": "2026-11-20",
-"time": "19:30",
-"title": "La misteriosa scomparsa di W",
-"venue": "Teatro Carcano",
-"cat": "teatro",
-"desc": "Da Stefano Benni, con e per la regia di Ambra Angiolini.",
-"url": "https://www.mentelocale.it/milano/129787-la-misteriosa-scomparsa-di-w.htm",
-"free": null,
-"tags": [],
-"verify": false,
-"id": "e012"
-},
-{
-"date": "2026-11-20",
-"time": "20:00",
-"title": "Ravel / Bach / Beethoven Eroica",
-"venue": "Auditorium di Milano (largo Mahler)",
-"cat": "classica",
-"desc": "Orchestra Sinfonica di Milano, dir. Nicolò Umberto Foron.",
-"url": "https://sinfonicadimilano.org/en/eventi/2026-27/ravel-bach-beethoven",
-"free": null,
-"tags": [],
-"verify": false,
-"id": "e013"
-},
-{
-"date": "2026-11-20",
-"time": "20:00",
-"title": "Riccardo Chailly dirige Bruckner 9",
-"venue": "Teatro alla Scala",
-"cat": "classica",
-"desc": "Stagione sinfonica.",
-"url": "https://www.teatroallascala.org/it/calendario.html",
-"free": null,
-"tags": [],
-"verify": false,
-"id": "e014"
-},
-{
-"date": "2026-11-20",
-"time": "20:30",
-"title": "La rivolta",
-"venue": "Teatro Leonardo (via Ampère 1)",
-"cat": "teatro",
-"desc": "Scritto e diretto da Corrado d'Elia.",
-"url": "https://www.mentelocale.it/milano/139866-rivolta.htm",
-"free": null,
-"tags": [],
-"verify": false,
-"id": "e015"
-},
-{
-"date": "2026-11-20",
-"time": "",
-"title": "Marlene Kuntz celebrano Il Vile",
-"venue": "Magnolia",
-"cat": "jazz",
-"desc": "",
-"url": "https://www.mentelocale.it/milano/147140-milano-music-week-2026-sotto-la-direzione-artistica-di-linus-una-settimana-di-live-talk-e-incontri-il-programma.htm",
-"free": null,
-"tags": [
-"mmw"
-],
-"verify": true,
-"id": "e016"
-},
-{
-"date": "2026-11-20",
-"time": "",
-"title": "Milano Music Week: Frequenza Futura",
-"venue": "Milano Music Week",
-"cat": "jazz",
-"desc": "Live con Margherita Vicario, Birthh, Angelica Bove, Syria. Talk di Piero Pelù e Paola Zukar.",
-"url": "https://www.mentelocale.it/milano/147140-milano-music-week-2026-sotto-la-direzione-artistica-di-linus-una-settimana-di-live-talk-e-incontri-il-programma.htm",
-"free": null,
-"tags": [
-"mmw"
-],
-"verify": true,
-"id": "e017"
-},
-{
-"date": "2026-11-20",
-"time": "",
-"title": "SONDA. Monica Bonvicini: Retrospective",
-"venue": "Voce Triennale",
-"cat": "storia",
-"desc": "Dal 20 al 22.",
-"url": "https://zero.eu/it/luoghi/336669-voce-triennale,milano/",
-"free": null,
-"tags": [],
-"verify": true,
-"id": "e018"
-},
 {
 "date": "2026-11-21",
 "time": "12:00",
@@ -269,7 +16,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e019"
+"id": "e000"
 },
 {
 "date": "2026-11-21",
@@ -282,7 +29,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e020"
+"id": "e001"
 },
 {
 "date": "2026-11-21",
@@ -295,7 +42,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e021"
+"id": "e002"
 },
 {
 "date": "2026-11-21",
@@ -308,7 +55,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e022"
+"id": "e003"
 },
 {
 "date": "2026-11-21",
@@ -321,7 +68,20 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e023"
+"id": "e004"
+},
+{
+"date": "2026-11-21",
+"time": "21:00",
+"title": "Sognare, forse dormire: performance da vivere dormendo",
+"venue": "BASE Milano, Room 1400",
+"cat": "teatro",
+"desc": "Replica domenica 22 alle 21:00.",
+"url": "https://base.milano.it/events/page/9/",
+"free": null,
+"tags": [],
+"verify": true,
+"id": "e005"
 },
 {
 "date": "2026-11-21",
@@ -334,7 +94,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e024"
+"id": "e006"
 },
 {
 "date": "2026-11-21",
@@ -347,7 +107,7 @@
 "free": null,
 "tags": [],
 "verify": true,
-"id": "e025"
+"id": "e007"
 },
 {
 "date": "2026-11-21",
@@ -362,7 +122,7 @@
 "mmw"
 ],
 "verify": true,
-"id": "e026"
+"id": "e008"
 },
 {
 "date": "2026-11-21",
@@ -377,7 +137,7 @@
 "mmw"
 ],
 "verify": true,
-"id": "e027"
+"id": "e009"
 },
 {
 "date": "2026-11-22",
@@ -392,7 +152,7 @@
 "mmw"
 ],
 "verify": false,
-"id": "e028"
+"id": "e010"
 },
 {
 "date": "2026-11-22",
@@ -405,7 +165,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e029"
+"id": "e011"
 },
 {
 "date": "2026-11-22",
@@ -418,7 +178,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e030"
+"id": "e012"
 },
 {
 "date": "2026-11-22",
@@ -433,7 +193,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e031"
+"id": "e013"
 },
 {
 "date": "2026-11-22",
@@ -446,7 +206,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e032"
+"id": "e014"
 },
 {
 "date": "2026-11-22",
@@ -459,7 +219,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e033"
+"id": "e015"
 },
 {
 "date": "2026-11-22",
@@ -472,7 +232,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e034"
+"id": "e016"
 },
 {
 "date": "2026-11-22",
@@ -485,7 +245,20 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e035"
+"id": "e017"
+},
+{
+"date": "2026-11-22",
+"time": "21:00",
+"title": "Sognare, forse dormire: performance da vivere dormendo",
+"venue": "BASE Milano, Room 1400",
+"cat": "teatro",
+"desc": "",
+"url": "https://base.milano.it/events/page/9/",
+"free": null,
+"tags": [],
+"verify": true,
+"id": "e018"
 },
 {
 "date": "2026-11-23",
@@ -500,7 +273,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e036"
+"id": "e019"
 },
 {
 "date": "2026-11-23",
@@ -513,7 +286,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e037"
+"id": "e020"
 },
 {
 "date": "2026-11-23",
@@ -528,7 +301,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e038"
+"id": "e021"
 },
 {
 "date": "2026-11-23",
@@ -543,7 +316,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e039"
+"id": "e022"
 },
 {
 "date": "2026-11-23",
@@ -558,7 +331,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e040"
+"id": "e023"
 },
 {
 "date": "2026-11-23",
@@ -573,7 +346,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e041"
+"id": "e024"
 },
 {
 "date": "2026-11-23",
@@ -586,7 +359,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e042"
+"id": "e025"
 },
 {
 "date": "2026-11-23",
@@ -601,7 +374,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e043"
+"id": "e026"
 },
 {
 "date": "2026-11-23",
@@ -614,7 +387,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e044"
+"id": "e027"
 },
 {
 "date": "2026-11-23",
@@ -627,7 +400,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e045"
+"id": "e028"
 },
 {
 "date": "2026-11-23",
@@ -643,7 +416,7 @@
 "imperdibile"
 ],
 "verify": false,
-"id": "e046"
+"id": "e029"
 },
 {
 "date": "2026-11-23",
@@ -658,7 +431,7 @@
 "imperdibile"
 ],
 "verify": false,
-"id": "e047"
+"id": "e030"
 },
 {
 "date": "2026-11-23",
@@ -671,7 +444,7 @@
 "free": null,
 "tags": [],
 "verify": true,
-"id": "e048"
+"id": "e031"
 },
 {
 "date": "2026-11-24",
@@ -686,7 +459,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e049"
+"id": "e032"
 },
 {
 "date": "2026-11-24",
@@ -701,7 +474,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e050"
+"id": "e033"
 },
 {
 "date": "2026-11-24",
@@ -714,7 +487,7 @@
 "free": true,
 "tags": [],
 "verify": false,
-"id": "e051"
+"id": "e034"
 },
 {
 "date": "2026-11-24",
@@ -729,7 +502,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e052"
+"id": "e035"
 },
 {
 "date": "2026-11-24",
@@ -742,7 +515,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e053"
+"id": "e036"
 },
 {
 "date": "2026-11-24",
@@ -755,7 +528,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e054"
+"id": "e037"
 },
 {
 "date": "2026-11-24",
@@ -770,7 +543,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e055"
+"id": "e038"
 },
 {
 "date": "2026-11-24",
@@ -785,7 +558,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e056"
+"id": "e039"
 },
 {
 "date": "2026-11-24",
@@ -800,7 +573,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e057"
+"id": "e040"
 },
 {
 "date": "2026-11-24",
@@ -815,7 +588,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e058"
+"id": "e041"
 },
 {
 "date": "2026-11-24",
@@ -831,7 +604,7 @@
 "imperdibile"
 ],
 "verify": false,
-"id": "e059"
+"id": "e042"
 },
 {
 "date": "2026-11-24",
@@ -844,7 +617,7 @@
 "free": true,
 "tags": [],
 "verify": false,
-"id": "e060"
+"id": "e043"
 },
 {
 "date": "2026-11-24",
@@ -857,7 +630,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e061"
+"id": "e044"
 },
 {
 "date": "2026-11-24",
@@ -870,7 +643,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e062"
+"id": "e045"
 },
 {
 "date": "2026-11-24",
@@ -883,7 +656,7 @@
 "free": true,
 "tags": [],
 "verify": true,
-"id": "e063"
+"id": "e046"
 },
 {
 "date": "2026-11-24",
@@ -896,7 +669,7 @@
 "free": null,
 "tags": [],
 "verify": true,
-"id": "e064"
+"id": "e047"
 },
 {
 "date": "2026-11-25",
@@ -911,7 +684,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e065"
+"id": "e048"
 },
 {
 "date": "2026-11-25",
@@ -926,7 +699,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e066"
+"id": "e049"
 },
 {
 "date": "2026-11-25",
@@ -941,7 +714,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e067"
+"id": "e050"
 },
 {
 "date": "2026-11-25",
@@ -956,7 +729,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e068"
+"id": "e051"
 },
 {
 "date": "2026-11-25",
@@ -971,7 +744,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e069"
+"id": "e052"
 },
 {
 "date": "2026-11-25",
@@ -986,7 +759,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e070"
+"id": "e053"
 },
 {
 "date": "2026-11-25",
@@ -1001,7 +774,7 @@
 "imperdibile"
 ],
 "verify": false,
-"id": "e071"
+"id": "e054"
 },
 {
 "date": "2026-11-25",
@@ -1016,7 +789,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e072"
+"id": "e055"
 },
 {
 "date": "2026-11-25",
@@ -1032,7 +805,7 @@
 "imperdibile"
 ],
 "verify": false,
-"id": "e073"
+"id": "e056"
 },
 {
 "date": "2026-11-25",
@@ -1045,7 +818,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e074"
+"id": "e057"
 },
 {
 "date": "2026-11-25",
@@ -1058,7 +831,7 @@
 "free": null,
 "tags": [],
 "verify": true,
-"id": "e075"
+"id": "e058"
 },
 {
 "date": "2026-11-25",
@@ -1071,7 +844,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e076"
+"id": "e059"
 },
 {
 "date": "2026-11-25",
@@ -1084,7 +857,7 @@
 "free": null,
 "tags": [],
 "verify": true,
-"id": "e077"
+"id": "e060"
 },
 {
 "date": "2026-11-25",
@@ -1099,7 +872,7 @@
 "bookcity"
 ],
 "verify": true,
-"id": "e078"
+"id": "e061"
 },
 {
 "date": "2026-11-26",
@@ -1114,7 +887,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e079"
+"id": "e062"
 },
 {
 "date": "2026-11-26",
@@ -1129,7 +902,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e080"
+"id": "e063"
 },
 {
 "date": "2026-11-26",
@@ -1142,7 +915,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e081"
+"id": "e064"
 },
 {
 "date": "2026-11-26",
@@ -1155,7 +928,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e082"
+"id": "e065"
 },
 {
 "date": "2026-11-26",
@@ -1170,7 +943,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e083"
+"id": "e066"
 },
 {
 "date": "2026-11-26",
@@ -1186,7 +959,7 @@
 "imperdibile"
 ],
 "verify": false,
-"id": "e084"
+"id": "e067"
 },
 {
 "date": "2026-11-26",
@@ -1199,7 +972,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e085"
+"id": "e068"
 },
 {
 "date": "2026-11-26",
@@ -1214,7 +987,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e086"
+"id": "e069"
 },
 {
 "date": "2026-11-26",
@@ -1227,7 +1000,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e087"
+"id": "e070"
 },
 {
 "date": "2026-11-27",
@@ -1240,7 +1013,7 @@
 "free": true,
 "tags": [],
 "verify": false,
-"id": "e088"
+"id": "e071"
 },
 {
 "date": "2026-11-27",
@@ -1255,7 +1028,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e089"
+"id": "e072"
 },
 {
 "date": "2026-11-27",
@@ -1270,7 +1043,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e090"
+"id": "e073"
 },
 {
 "date": "2026-11-27",
@@ -1285,7 +1058,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e091"
+"id": "e074"
 },
 {
 "date": "2026-11-27",
@@ -1301,7 +1074,7 @@
 "imperdibile"
 ],
 "verify": false,
-"id": "e092"
+"id": "e075"
 },
 {
 "date": "2026-11-27",
@@ -1314,7 +1087,7 @@
 "free": true,
 "tags": [],
 "verify": false,
-"id": "e093"
+"id": "e076"
 },
 {
 "date": "2026-11-27",
@@ -1327,7 +1100,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e094"
+"id": "e077"
 },
 {
 "date": "2026-11-27",
@@ -1342,7 +1115,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e095"
+"id": "e078"
 },
 {
 "date": "2026-11-27",
@@ -1355,7 +1128,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e096"
+"id": "e079"
 },
 {
 "date": "2026-11-27",
@@ -1370,7 +1143,7 @@
 "bookcity"
 ],
 "verify": true,
-"id": "e097"
+"id": "e080"
 },
 {
 "date": "2026-11-27",
@@ -1385,7 +1158,7 @@
 "bookcity"
 ],
 "verify": true,
-"id": "e098"
+"id": "e081"
 },
 {
 "date": "2026-11-27",
@@ -1400,7 +1173,7 @@
 "bookcity"
 ],
 "verify": true,
-"id": "e099"
+"id": "e082"
 },
 {
 "date": "2026-11-28",
@@ -1416,7 +1189,7 @@
 "imperdibile"
 ],
 "verify": false,
-"id": "e100"
+"id": "e083"
 },
 {
 "date": "2026-11-28",
@@ -1431,7 +1204,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e101"
+"id": "e084"
 },
 {
 "date": "2026-11-28",
@@ -1446,7 +1219,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e102"
+"id": "e085"
 },
 {
 "date": "2026-11-28",
@@ -1461,7 +1234,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e103"
+"id": "e086"
 },
 {
 "date": "2026-11-28",
@@ -1476,7 +1249,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e104"
+"id": "e087"
 },
 {
 "date": "2026-11-28",
@@ -1491,7 +1264,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e105"
+"id": "e088"
 },
 {
 "date": "2026-11-28",
@@ -1504,7 +1277,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e106"
+"id": "e089"
 },
 {
 "date": "2026-11-28",
@@ -1519,7 +1292,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e107"
+"id": "e090"
 },
 {
 "date": "2026-11-28",
@@ -1532,7 +1305,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e108"
+"id": "e091"
 },
 {
 "date": "2026-11-28",
@@ -1545,7 +1318,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e109"
+"id": "e092"
 },
 {
 "date": "2026-11-28",
@@ -1560,7 +1333,7 @@
 "bookcity"
 ],
 "verify": true,
-"id": "e110"
+"id": "e093"
 },
 {
 "date": "2026-11-28",
@@ -1575,7 +1348,7 @@
 "bookcity"
 ],
 "verify": true,
-"id": "e111"
+"id": "e094"
 },
 {
 "date": "2026-11-28",
@@ -1590,7 +1363,7 @@
 "bookcity"
 ],
 "verify": true,
-"id": "e112"
+"id": "e095"
 },
 {
 "date": "2026-11-28",
@@ -1603,7 +1376,7 @@
 "free": null,
 "tags": [],
 "verify": true,
-"id": "e113"
+"id": "e096"
 },
 {
 "date": "2026-11-28",
@@ -1618,7 +1391,7 @@
 "bookcity"
 ],
 "verify": true,
-"id": "e114"
+"id": "e097"
 },
 {
 "date": "2026-11-28",
@@ -1633,7 +1406,7 @@
 "bookcity"
 ],
 "verify": true,
-"id": "e115"
+"id": "e098"
 },
 {
 "date": "2026-11-28",
@@ -1646,7 +1419,7 @@
 "free": null,
 "tags": [],
 "verify": true,
-"id": "e116"
+"id": "e099"
 },
 {
 "date": "2026-11-28",
@@ -1659,7 +1432,7 @@
 "free": null,
 "tags": [],
 "verify": true,
-"id": "e117"
+"id": "e100"
 },
 {
 "date": "2026-11-29",
@@ -1674,7 +1447,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e118"
+"id": "e101"
 },
 {
 "date": "2026-11-29",
@@ -1690,7 +1463,7 @@
 "imperdibile"
 ],
 "verify": false,
-"id": "e119"
+"id": "e102"
 },
 {
 "date": "2026-11-29",
@@ -1703,7 +1476,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e120"
+"id": "e103"
 },
 {
 "date": "2026-11-29",
@@ -1719,7 +1492,7 @@
 "imperdibile"
 ],
 "verify": false,
-"id": "e121"
+"id": "e104"
 },
 {
 "date": "2026-11-29",
@@ -1732,7 +1505,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e122"
+"id": "e105"
 },
 {
 "date": "2026-11-29",
@@ -1747,7 +1520,7 @@
 "bookcity"
 ],
 "verify": false,
-"id": "e123"
+"id": "e106"
 },
 {
 "date": "2026-11-29",
@@ -1760,7 +1533,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e124"
+"id": "e107"
 },
 {
 "date": "2026-11-29",
@@ -1773,7 +1546,7 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e125"
+"id": "e108"
 },
 {
 "date": "2026-11-29",
@@ -1789,7 +1562,7 @@
 "imperdibile"
 ],
 "verify": false,
-"id": "e126"
+"id": "e109"
 },
 {
 "date": "2026-11-29",
@@ -1802,7 +1575,46 @@
 "free": null,
 "tags": [],
 "verify": false,
-"id": "e127"
+"id": "e110"
+},
+{
+"date": "2026-11-30",
+"time": "20:30",
+"title": "Orchestra dell'Università Bicocca: Vivaldi, Bach, Pleyel",
+"venue": "Chiesa del Sacro Volto (via Sebenico 31)",
+"cat": "classica",
+"desc": "Concerto in chiesa, all'Isola.",
+"url": "https://www.unimib.it/node/39235",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e111"
+},
+{
+"date": "2026-11-30",
+"time": "21:00",
+"title": "Alessandro Cattelan, Benvenuto nell'AI!",
+"venue": "Teatro Lirico Giorgio Gaber (via Larga 14)",
+"cat": "teatro",
+"desc": "One man show.",
+"url": "https://www.mentelocale.it/milano/133146-alessandro-cattelan-benvenuto-nell-ai.htm",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e112"
+},
+{
+"date": "2026-12-01",
+"time": "20:30",
+"title": "La Bibbia che non ti aspetti, con Giorgio Marchesi",
+"venue": "Teatro Oscar (via Lattanzio 58a)",
+"cat": "storia",
+"desc": "Prima serata della rassegna su testi biblici e memoria culturale.",
+"url": "https://www.mentelocale.it/milano/128380-la-bibbia-che-non-ti-aspetti-1-con-giorgio-marchesi.htm",
+"free": null,
+"tags": [],
+"verify": false,
+"id": "e113"
 }
 ],
 "mostre": [

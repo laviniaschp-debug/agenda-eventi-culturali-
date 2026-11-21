@@ -3,121 +3,227 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Agenda culturale Milano</title>
+<title>Acculturiamoci</title>
+<meta name="description" content="Talk, teatro, musica, cinema e idee a Milano: il calendario aggiornato ogni mattina.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2312213b'/%3E%3Cpath d='M18 46 L32 16 L46 46' fill='none' stroke='%23f2b705' stroke-width='7' stroke-linecap='round' stroke-linejoin='round'/%3E%3Ccircle cx='32' cy='38' r='4' fill='%23f2b705'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-/* Layout: una colonna-agenda come un palinsesto; striscia dei giorni in alto, ora a sinistra, evento a destra. */
+/* Identità: blu notte milanese + giallo tram. Layout: barra viste (Oggi/Domani/Weekend/Settimana/Tutto),
+   griglia a 7 colonne per la settimana su schermi larghi, agenda per giorno su telefono. */
 :root{
-  --bg:#f4f2ee; --surface:#ffffff; --ink:#1c2230; --muted:#5d6472; --line:#dcd8d0;
-  --accent:#c2410c; --accent-soft:#fbe9df; --warn:#8a6100; --warn-soft:#fbf1d6; --ok:#2f6b3a;
-  --display:"Instrument Serif", Georgia, "Times New Roman", serif;
-  --body:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --bg:#f5f6f4; --surface:#ffffff; --ink:#12213b; --muted:#5a6476; --line:#dfe2e6;
+  --accent:#f2b705; --accent-ink:#12213b; --accent-soft:#fdf3cf; --ok:#22744a; --warn:#8a5a00; --warn-soft:#fbefd2;
+  --display:"Bricolage Grotesque", "Arial Narrow", system-ui, sans-serif;
+  --body:"Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --c-teatro:#d1495b; --c-talk:#2f6fdf; --c-filosofia:#7b4fd1; --c-storia:#b0702a; --c-geo:#1f8a8a;
+  --c-salute:#3f9b52; --c-classica:#9c2f6e; --c-jazz:#e08a00; --c-cinema:#44546a; --c-famiglie:#e26ba4;
   color-scheme:light;
 }
 @media (prefers-color-scheme: dark){
   :root:not([data-theme="light"]){
-    --bg:#14171e; --surface:#1c2029; --ink:#ebe8e2; --muted:#a2a6b0; --line:#2e3340;
-    --accent:#f08a4b; --accent-soft:#3a2418; --warn:#e8c062; --warn-soft:#352c14; --ok:#8fcf98; color-scheme:dark;
+    --bg:#0d1422; --surface:#151e30; --ink:#eef1f6; --muted:#9aa5b8; --line:#26324a;
+    --accent:#f5c431; --accent-ink:#0d1422; --accent-soft:#3a3214; --ok:#6fd49b; --warn:#f0c766; --warn-soft:#3a2f12;
+    --c-teatro:#f0727f; --c-talk:#6a9cf5; --c-filosofia:#a888f0; --c-storia:#d8a062; --c-geo:#4fc2c2;
+    --c-salute:#74c784; --c-classica:#d76aa6; --c-jazz:#f5ad3c; --c-cinema:#9aaac0; --c-famiglie:#f39cc5;
+    color-scheme:dark;
   }
 }
 :root[data-theme="dark"]{
-  --bg:#14171e; --surface:#1c2029; --ink:#ebe8e2; --muted:#a2a6b0; --line:#2e3340;
-  --accent:#f08a4b; --accent-soft:#3a2418; --warn:#e8c062; --warn-soft:#352c14; --ok:#8fcf98; color-scheme:dark;
+  --bg:#0d1422; --surface:#151e30; --ink:#eef1f6; --muted:#9aa5b8; --line:#26324a;
+  --accent:#f5c431; --accent-ink:#0d1422; --accent-soft:#3a3214; --ok:#6fd49b; --warn:#f0c766; --warn-soft:#3a2f12;
+  --c-teatro:#f0727f; --c-talk:#6a9cf5; --c-filosofia:#a888f0; --c-storia:#d8a062; --c-geo:#4fc2c2;
+  --c-salute:#74c784; --c-classica:#d76aa6; --c-jazz:#f5ad3c; --c-cinema:#9aaac0; --c-famiglie:#f39cc5;
+  color-scheme:dark;
 }
 *{box-sizing:border-box}
 html,body{margin:0}
 body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.5}
 a{color:inherit}
-.wrap{max-width:980px;margin:0 auto;padding:28px 20px 64px}
-header h1{font-family:var(--display);font-weight:400;font-size:clamp(34px,6vw,54px);line-height:1.02;margin:0;text-wrap:balance}
-header h1 em{color:var(--accent)}
-.meta{display:flex;flex-wrap:wrap;gap:6px 18px;color:var(--muted);font-size:13px;margin-top:10px}
-.meta b{color:var(--ink);font-weight:600}
-.live{display:inline-flex;align-items:center;gap:6px}
-.live::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--ok)}
-.controls{position:sticky;top:0;z-index:5;background:var(--bg);padding:14px 0 10px;margin-top:18px;border-bottom:1px solid var(--line);display:grid;gap:10px}
-.row{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
-.chip{font:inherit;font-size:13px;border:1px solid var(--line);background:var(--surface);color:var(--ink);padding:5px 11px;border-radius:999px;cursor:pointer}
-.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
-.chip:focus-visible,.day:focus-visible,input:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
-.chip .n{opacity:.6;margin-left:4px;font-variant-numeric:tabular-nums}
-#q{font:inherit;flex:1 1 220px;min-width:0;padding:7px 12px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink)}
-.days{display:flex;gap:4px;overflow-x:auto;padding-bottom:2px}
-.day{flex:0 0 auto;text-align:center;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:8px;padding:5px 9px;cursor:pointer;font:inherit;min-width:52px}
-.day small{display:block;font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
-.day strong{font-size:17px;font-variant-numeric:tabular-nums}
-.day[data-today="true"]{border-color:var(--accent);box-shadow:inset 0 -3px 0 var(--accent)}
-.day[data-empty="true"]{opacity:.4}
-section.daysec{margin-top:30px;scroll-margin-top:170px}
-.daysec h2{font-family:var(--display);font-weight:400;font-size:30px;margin:0 0 6px;display:flex;align-items:baseline;gap:12px;text-wrap:balance}
-.daysec h2 .c{font-family:var(--body);font-size:13px;color:var(--muted)}
-.daysec h2 .tag{font-family:var(--body);font-size:12px;background:var(--accent);color:#fff;padding:2px 8px;border-radius:4px}
-ol.ev{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
-ol.ev li{display:grid;grid-template-columns:62px 1fr;gap:14px;padding:12px 0;border-bottom:1px solid var(--line)}
-.t{font-variant-numeric:tabular-nums;font-weight:600;font-size:15px;padding-top:1px}
-.t.na{color:var(--muted);font-weight:400;font-size:12px}
-.title{font-weight:600;font-size:16px;text-decoration:none;text-wrap:balance}
-.title:hover{text-decoration:underline;text-decoration-color:var(--accent);text-underline-offset:3px}
-.title::after{content:" ↗";color:var(--accent);font-weight:400}
-.venue{color:var(--muted);font-size:13.5px}
-.desc{font-size:14px;margin-top:2px}
-.pills{display:flex;flex-wrap:wrap;gap:5px;margin-top:6px}
-.p{font-size:11.5px;padding:1px 7px;border-radius:4px;border:1px solid var(--line);color:var(--muted)}
-.p.star{border-color:var(--accent);color:var(--accent);background:var(--accent-soft)}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.wrap{max-width:1240px;margin:0 auto;padding:0 20px}
+
+/* Testata */
+.top{background:var(--ink);color:#fff}
+:root[data-theme="dark"] .top{background:#0a101b}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .top{background:#0a101b}}
+.top .wrap{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:14px 24px;padding-top:22px;padding-bottom:22px}
+.brand{display:flex;align-items:center;gap:12px;text-decoration:none}
+.brand svg{flex:0 0 auto}
+.brand b{font-family:var(--display);font-weight:800;font-size:clamp(28px,4.4vw,42px);letter-spacing:-.02em;line-height:1}
+.brand b span{color:#f2b705}
+.tagline{color:#c5cddb;font-size:14px;margin-top:6px}
+.upd{font-size:13px;color:#c5cddb;display:flex;align-items:center;gap:8px}
+.upd::before{content:"";width:8px;height:8px;border-radius:50%;background:#6fd49b}
+
+/* Barra viste + filtri */
+.bar{position:sticky;top:0;z-index:10;background:var(--bg);border-bottom:1px solid var(--line)}
+.bar .wrap{display:grid;gap:10px;padding-top:12px;padding-bottom:12px}
+.views{display:flex;gap:4px;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:4px;overflow-x:auto;width:max-content;max-width:100%}
+.views button{border:0;background:transparent;padding:7px 14px;border-radius:9px;cursor:pointer;font-weight:600;font-size:14px;white-space:nowrap}
+.views button[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink)}
+.views .n{font-weight:500;opacity:.65;margin-left:5px;font-variant-numeric:tabular-nums}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+#q{flex:1 1 240px;min-width:0;padding:8px 12px;border:1px solid var(--line);border-radius:10px;background:var(--surface);color:var(--ink);font:inherit}
+.tog{border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:6px 12px;cursor:pointer;font-size:13.5px}
+.tog[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+#filterBtn{display:none}
+.cats{display:flex;flex-wrap:wrap;gap:6px}
+.cat{display:inline-flex;align-items:center;gap:7px;border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:5px 11px;cursor:pointer;font-size:13px}
+.cat i{width:9px;height:9px;border-radius:50%;background:var(--c)}
+.cat[aria-pressed="true"]{border-color:var(--c);box-shadow:inset 0 0 0 1px var(--c);background:color-mix(in srgb,var(--c) 12%,var(--surface))}
+.cat .n{opacity:.55;font-variant-numeric:tabular-nums}
+
+/* Intestazione vista */
+.head{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:8px 16px;margin:26px 0 14px}
+.head h1{font-family:var(--display);font-weight:700;font-size:clamp(26px,3.4vw,36px);letter-spacing:-.015em;margin:0;line-height:1.1;text-wrap:balance}
+.head .sub{color:var(--muted);font-size:14px}
+.weeknav{display:flex;gap:6px;align-items:center}
+.weeknav button{border:1px solid var(--line);background:var(--surface);border-radius:8px;width:36px;height:36px;cursor:pointer;font-size:18px}
+.weeknav button:disabled{opacity:.35;cursor:default}
+
+/* Griglia settimanale */
+.week{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:8px;align-items:start}
+.col{background:var(--surface);border:1px solid var(--line);border-radius:12px;min-height:140px;display:flex;flex-direction:column}
+.col.out{opacity:.45}
+.col h3{margin:0;padding:10px 10px 8px;border-bottom:1px solid var(--line);display:flex;align-items:baseline;gap:6px;font-size:13px;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
+.col h3 strong{font-family:var(--display);font-size:22px;color:var(--ink);letter-spacing:0}
+.col.today h3{background:var(--accent);color:var(--accent-ink);border-radius:11px 11px 0 0}
+.col.today h3 strong{color:var(--accent-ink)}
+.col ul{list-style:none;margin:0;padding:6px;display:grid;gap:6px}
+.mini{display:block;text-decoration:none;border-left:3px solid var(--c);padding:6px 8px;border-radius:6px;background:color-mix(in srgb,var(--c) 7%,var(--surface))}
+.mini:hover{background:color-mix(in srgb,var(--c) 16%,var(--surface))}
+.mini .t{font-size:12px;font-weight:600;font-variant-numeric:tabular-nums;color:var(--muted)}
+.mini .ti{font-size:13px;font-weight:600;line-height:1.3;display:block;overflow-wrap:anywhere}
+.mini .v{font-size:12px;color:var(--muted);display:block;line-height:1.3;overflow-wrap:anywhere}
+.mini.past{opacity:.45}
+.col .none{color:var(--muted);font-size:13px;padding:10px}
+
+/* Agenda (lista) */
+.daystrip{display:none;gap:6px;overflow-x:auto;padding-bottom:4px;margin-bottom:12px}
+.daystrip button{flex:0 0 auto;min-width:54px;border:1px solid var(--line);background:var(--surface);border-radius:10px;padding:6px 8px;cursor:pointer;text-align:center}
+.daystrip small{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
+.daystrip strong{font-family:var(--display);font-size:20px}
+.daystrip button[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.daystrip button[aria-pressed="true"] small{color:inherit;opacity:.75}
+.daystrip button.empty{opacity:.4}
+.day{margin-bottom:28px}
+.day h2{font-family:var(--display);font-weight:700;font-size:24px;margin:0 0 10px;display:flex;align-items:center;gap:10px}
+.day h2 .badge{font-family:var(--body);font-size:12px;font-weight:600;background:var(--accent);color:var(--accent-ink);padding:2px 8px;border-radius:6px}
+.day h2 .c{font-family:var(--body);font-size:13px;font-weight:400;color:var(--muted)}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:10px}
+.card{position:relative;display:grid;grid-template-columns:58px 1fr;gap:12px;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px 14px 12px 16px;overflow:hidden}
+.card::before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;background:var(--c)}
+.card.past{opacity:.5}
+.card .time{font-family:var(--display);font-weight:700;font-size:18px;font-variant-numeric:tabular-nums;line-height:1.2}
+.card .time.na{font-family:var(--body);font-size:12px;font-weight:500;color:var(--muted)}
+.card a.ti{font-weight:600;font-size:15.5px;text-decoration:none;line-height:1.3;display:inline}
+.card a.ti:hover{text-decoration:underline;text-decoration-color:var(--c);text-underline-offset:3px}
+.card a.ti::after{content:" ↗";color:var(--muted);font-weight:400}
+.card .v{color:var(--muted);font-size:13.5px;margin-top:2px}
+.card .d{font-size:13.5px;margin-top:4px}
+.pills{display:flex;flex-wrap:wrap;gap:5px;margin-top:8px}
+.p{font-size:11.5px;padding:1px 7px;border-radius:5px;border:1px solid var(--line);color:var(--muted)}
+.p.cat-p{border-color:transparent;background:color-mix(in srgb,var(--c) 14%,transparent);color:var(--ink)}
+.p.star{background:var(--accent-soft);border-color:transparent;color:var(--ink);font-weight:600}
 .p.free{border-color:var(--ok);color:var(--ok)}
 .p.ver{border-color:transparent;background:var(--warn-soft);color:var(--warn)}
-li.past{opacity:.45}
-.empty{color:var(--muted);padding:20px 0}
-.mostre{margin-top:44px}
-.mostre h2{font-family:var(--display);font-weight:400;font-size:30px;margin:0 0 8px}
+.empty{color:var(--muted);padding:30px 0}
+
+/* Mostre e footer */
+.mostre{margin-top:40px}
+.mostre h2{font-family:var(--display);font-weight:700;font-size:26px;margin:0 0 12px}
 .mgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:10px}
-.m{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:12px 14px}
+.m{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px 14px}
 .m a{font-weight:600;text-decoration:none}
 .m a:hover{text-decoration:underline}
 .m div{color:var(--muted);font-size:13px}
-footer{margin-top:44px;color:var(--muted);font-size:13px;max-width:65ch}
-@media (max-width:480px){ol.ev li{grid-template-columns:48px 1fr;gap:10px}.controls{position:static}}
+footer{margin-top:48px;border-top:1px solid var(--line);padding:24px 0 48px;color:var(--muted);font-size:14px}
+footer .cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:20px}
+footer h4{color:var(--ink);font-family:var(--display);font-size:17px;margin:0 0 6px}
+footer p{margin:0;max-width:60ch}
+
+/* Responsive */
+@media (min-width:900px){ #agenda.weekAgenda{display:none} }
+@media (max-width:899px){
+  .week{display:none}
+  .daystrip.show{display:flex}
+}
+@media (max-width:640px){
+  .wrap{padding:0 16px}
+  #filterBtn{display:inline-block}
+  .more{display:none}
+  .more.open{display:grid;gap:8px}
+  .cards{grid-template-columns:1fr}
+  .bar{position:static}
+}
+@media (min-width:641px){ .more{display:grid;gap:8px} }
 @media (prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}
 </style>
 </head>
 <body>
-<div class="wrap">
-  <header>
-    <h1>Milano, cosa fare <em>dal 19 al 29 novembre</em></h1>
-    <div class="meta">
-      <span class="live" id="upd">Caricamento…</span>
-      <span id="count"></span>
-      <span>Ogni titolo apre la pagina ufficiale o la fonte dell'evento</span>
+<div class="top">
+  <div class="wrap">
+    <div>
+      <a class="brand" href="#" aria-label="Acculturiamoci, torna all'inizio">
+        <svg width="44" height="44" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="14" fill="#f2b705"/><path d="M18 46 L32 16 L46 46" fill="none" stroke="#12213b" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><circle cx="32" cy="38" r="4" fill="#12213b"/></svg>
+        <b>accultur<span>iamoci</span></b>
+      </a>
+      <div class="tagline">Talk, teatro, musica, cinema e idee a Milano. Scelti a mano, aggiornati ogni mattina.</div>
     </div>
-  </header>
-
-  <div class="controls" role="region" aria-label="Filtri">
-    <div class="row">
-      <label for="q" class="visually-hidden" style="position:absolute;left:-9999px">Cerca</label>
-      <input id="q" type="search" placeholder="Cerca un nome, un luogo, un tema…" autocomplete="off">
-      <button class="chip" id="f-star" aria-pressed="false">Imperdibili</button>
-      <button class="chip" id="f-free" aria-pressed="false">Gratuiti</button>
-      <button class="chip" id="f-bc" aria-pressed="false">BookCity</button>
-      <button class="chip" id="f-past" aria-pressed="false">Nascondi passati</button>
-    </div>
-    <div class="row" id="cats"></div>
-    <div class="days" id="days"></div>
+    <div class="upd" id="upd">Caricamento del calendario…</div>
   </div>
+</div>
 
-  <main id="list"></main>
+<div class="bar">
+  <div class="wrap">
+    <div class="row">
+      <div class="views" role="group" aria-label="Periodo" id="views"></div>
+      <button class="tog" id="filterBtn" aria-expanded="false" aria-controls="more">Filtri</button>
+    </div>
+    <div class="more" id="more">
+      <div class="row">
+        <label for="q" style="position:absolute;left:-9999px">Cerca</label>
+        <input id="q" type="search" placeholder="Cerca un nome, un luogo, un tema…" autocomplete="off">
+        <button class="tog" id="f-star" aria-pressed="false">Imperdibili</button>
+        <button class="tog" id="f-free" aria-pressed="false">Gratuiti</button>
+        <button class="tog" id="f-past" aria-pressed="false">Nascondi passati</button>
+      </div>
+      <div class="cats" id="cats"></div>
+    </div>
+  </div>
+</div>
 
-  <section class="mostre" id="mostre-sec">
-    <h2>Mostre aperte in questi giorni</h2>
+<main class="wrap">
+  <div class="head">
+    <div>
+      <h1 id="title">Questa settimana</h1>
+      <div class="sub" id="sub"></div>
+    </div>
+    <div class="weeknav" id="weeknav">
+      <button id="prevW" aria-label="Settimana precedente">‹</button>
+      <button id="nextW" aria-label="Settimana successiva">›</button>
+    </div>
+  </div>
+  <div class="daystrip" id="daystrip" role="group" aria-label="Giorno"></div>
+  <div class="week" id="week"></div>
+  <div id="agenda"></div>
+
+  <section class="mostre">
+    <h2>Mostre aperte</h2>
     <div class="mgrid" id="mostre"></div>
   </section>
 
   <footer>
-    Gli eventi segnati <span class="p ver">da verificare</span> hanno orario o dettagli mancanti nelle fonti: controlla il link prima di andare.
-    Gli incontri BookCity sono quasi tutti gratuiti con prenotazione su bookcitymilano.it.
+    <div class="cols">
+      <div><h4>Chi siamo</h4><p>Acculturiamoci raccoglie ogni giorno incontri, spettacoli, concerti e lezioni aperte a Milano, dai grandi teatri alle librerie e alle fondazioni.</p></div>
+      <div><h4>Prima di andare</h4><p>Orari e prenotazioni cambiano: ogni evento rimanda alla pagina dell'organizzatore, che fa fede. Le voci segnate <span class="p ver">da verificare</span> hanno dettagli mancanti nelle fonti.</p></div>
+      <div><h4>Segnala un evento</h4><p>Organizzi un incontro o uno spettacolo a Milano? Scrivici: lo aggiungiamo al calendario.</p></div>
+    </div>
   </footer>
-</div>
+</main>
 
 <script>
 const CATS = {
@@ -126,28 +232,33 @@ const CATS = {
   cinema:"Cinema", famiglie:"Famiglie"
 };
 const DOW = ["dom","lun","mar","mer","gio","ven","sab"];
-const MON = ["gen","feb","mar","apr","mag","giu","lug","ago","set","ott","nov","dic"];
-const state = { q:"", cats:new Set(), star:false, free:false, bc:false, hidePast:false };
+const DOWL = ["Domenica","Lunedì","Martedì","Mercoledì","Giovedì","Venerdì","Sabato"];
+const MON = ["gennaio","febbraio","marzo","aprile","maggio","giugno","luglio","agosto","settembre","ottobre","novembre","dicembre"];
+const VIEWS = [["oggi","Oggi"],["domani","Domani"],["weekend","Weekend"],["settimana","Settimana"],["tutto","Tutto"]];
+const state = { view:"settimana", q:"", cats:new Set(), star:false, free:false, hidePast:false, weekStart:null, day:null };
 let DATA = null;
 
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const pad = n => String(n).padStart(2,"0");
+const ymd = d => `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())}`;
 const pd = s => { const [y,m,d] = s.split("-").map(Number); return new Date(y, m-1, d); };
-const todayStr = () => { const n = new Date(); return `${n.getFullYear()}-${String(n.getMonth()+1).padStart(2,"0")}-${String(n.getDate()).padStart(2,"0")}`; };
-const nowHM = () => { const n = new Date(); return `${String(n.getHours()).padStart(2,"0")}:${String(n.getMinutes()).padStart(2,"0")}`; };
+const addDays = (s, n) => { const d = pd(s); d.setDate(d.getDate()+n); return ymd(d); };
+const today = () => ymd(new Date());
+const nowHM = () => { const n = new Date(); return `${pad(n.getHours())}:${pad(n.getMinutes())}`; };
+const mondayOf = s => { const d = pd(s); const k = (d.getDay()+6)%7; d.setDate(d.getDate()-k); return ymd(d); };
+const label = s => { const d = pd(s); return `${DOWL[d.getDay()]} ${d.getDate()} ${MON[d.getMonth()]}`; };
+const short = s => { const d = pd(s); return `${d.getDate()} ${MON[d.getMonth()].slice(0,3)}`; };
 
 function isPast(e){
-  const t = todayStr();
-  if (e.date < t) return true;
-  if (e.date > t) return false;
+  const t = today();
+  if (e.date !== t) return e.date < t;
   return !!e.time && e.time < nowHM();
 }
-
 function matches(e){
   if (state.cats.size && !state.cats.has(e.cat)) return false;
   if (state.star && !e.tags.includes("imperdibile")) return false;
   if (state.free && e.free !== true) return false;
-  if (state.bc && !e.tags.includes("bookcity")) return false;
   if (state.hidePast && isPast(e)) return false;
   if (state.q){
     const hay = (e.title+" "+e.venue+" "+e.desc+" "+(CATS[e.cat]||"")).toLowerCase();
@@ -155,72 +266,130 @@ function matches(e){
   }
   return true;
 }
+function inRange(s){ return s >= DATA.range[0] && s <= DATA.range[1]; }
+function rangeDays(a, b){ const out=[]; let s=a; while (s<=b){ out.push(s); s=addDays(s,1);} return out; }
+function weekendDays(){
+  const t = today(); const d = pd(t).getDay();
+  if (d === 6) return [t, addDays(t,1)];
+  if (d === 0) return [t];
+  const toFri = 5 - d; const fri = addDays(t, toFri);
+  return [fri, addDays(fri,1), addDays(fri,2)];
+}
+function daysForView(){
+  const t = today();
+  switch(state.view){
+    case "oggi": return [t];
+    case "domani": return [addDays(t,1)];
+    case "weekend": return weekendDays();
+    case "settimana": return rangeDays(state.weekStart, addDays(state.weekStart,6));
+    default: return rangeDays(DATA.range[0], DATA.range[1]);
+  }
+}
+const css = e => `--c:var(--c-${e.cat})`;
 
-function dateRange(){
-  const out = []; let d = pd(DATA.range[0]); const end = pd(DATA.range[1]);
-  while (d <= end){ out.push(`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`); d.setDate(d.getDate()+1); }
-  return out;
+function pills(e){
+  const p = [`<span class="p cat-p" style="${css(e)}">${esc(CATS[e.cat]||e.cat)}</span>`];
+  if (e.tags.includes("imperdibile")) p.unshift(`<span class="p star">★ Imperdibile</span>`);
+  if (e.tags.includes("bookcity")) p.push(`<span class="p">BookCity</span>`);
+  if (e.free === true) p.push(`<span class="p free">Gratuito</span>`);
+  if (e.verify) p.push(`<span class="p ver">da verificare</span>`);
+  return p.join("");
+}
+function card(e){
+  return `<article class="card ${isPast(e)?'past':''}" style="${css(e)}">
+    <div class="time ${e.time?'':'na'}">${e.time ? esc(e.time) : 'orario<br>da definire'}</div>
+    <div>
+      <a class="ti" href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a>
+      <div class="v">${esc(e.venue)}</div>
+      ${e.desc ? `<div class="d">${esc(e.desc)}</div>` : ""}
+      <div class="pills">${pills(e)}</div>
+    </div></article>`;
+}
+function mini(e){
+  return `<li><a class="mini ${isPast(e)?'past':''}" style="${css(e)}" href="${esc(e.url)}" target="_blank" rel="noopener" title="${esc(e.title)} · ${esc(e.venue)}">
+    <span class="t">${e.time ? esc(e.time) : "—"}${e.tags.includes("imperdibile") ? " ★" : ""}</span>
+    <span class="ti">${esc(e.title)}</span><span class="v">${esc(e.venue)}</span></a></li>`;
 }
 
+function renderViews(){
+  const vis = DATA.events.filter(matches);
+  $("#views").innerHTML = VIEWS.map(([k,v]) => {
+    const n = (k==="settimana" ? rangeDays(state.weekStart, addDays(state.weekStart,6)) :
+               k==="tutto" ? null : (()=>{ const sv=state.view; state.view=k; const d=daysForView(); state.view=sv; return d; })());
+    const c = n ? vis.filter(e => n.includes(e.date)).length : vis.length;
+    return `<button data-v="${k}" aria-pressed="${state.view===k}">${v}<span class="n">${c}</span></button>`;
+  }).join("");
+  $("#views").querySelectorAll("button").forEach(b => b.onclick = () => { state.view = b.dataset.v; state.day = null; render(); });
+}
 function renderCats(){
-  const counts = {};
-  DATA.events.forEach(e => counts[e.cat] = (counts[e.cat]||0)+1);
+  const counts = {}; DATA.events.forEach(e => counts[e.cat] = (counts[e.cat]||0)+1);
   $("#cats").innerHTML = Object.entries(CATS).filter(([k]) => counts[k]).map(([k,v]) =>
-    `<button class="chip" data-cat="${k}" aria-pressed="${state.cats.has(k)}">${esc(v)}<span class="n">${counts[k]}</span></button>`).join("");
-  $("#cats").querySelectorAll("[data-cat]").forEach(b => b.addEventListener("click", () => {
+    `<button class="cat" data-cat="${k}" style="--c:var(--c-${k})" aria-pressed="${state.cats.has(k)}"><i></i>${esc(v)}<span class="n">${counts[k]}</span></button>`).join("");
+  $("#cats").querySelectorAll(".cat").forEach(b => b.onclick = () => {
     const k = b.dataset.cat; state.cats.has(k) ? state.cats.delete(k) : state.cats.add(k); render();
-  }));
+  });
 }
 
 function render(){
+  renderViews();
+  document.querySelectorAll("#cats .cat").forEach(b => b.setAttribute("aria-pressed", state.cats.has(b.dataset.cat)));
   const vis = DATA.events.filter(matches);
-  const days = dateRange(); const t = todayStr();
-  $("#count").innerHTML = `<b>${vis.length}</b> eventi su ${DATA.events.length}`;
-  $("#days").innerHTML = days.map(ds => {
-    const d = pd(ds); const n = vis.filter(e => e.date === ds).length;
-    return `<button class="day" data-day="${ds}" data-today="${ds===t}" data-empty="${n===0}" aria-label="${DOW[d.getDay()]} ${d.getDate()}: ${n} eventi"><small>${DOW[d.getDay()]}</small><strong>${d.getDate()}</strong></button>`;
-  }).join("");
-  $("#days").querySelectorAll(".day").forEach(b => b.addEventListener("click", () => {
-    const s = document.getElementById("d-"+b.dataset.day); if (s) s.scrollIntoView();
-  }));
-  document.querySelectorAll("#cats [data-cat]").forEach(b => b.setAttribute("aria-pressed", state.cats.has(b.dataset.cat)));
+  const days = daysForView();
+  const t = today();
+  const titles = { oggi:"Oggi", domani:"Domani", weekend:"Questo weekend", settimana:"Settimana", tutto:"Tutto il calendario" };
+  $("#title").textContent = titles[state.view];
+  const shown = vis.filter(e => days.includes(e.date));
+  $("#sub").textContent = (days.length === 1 ? label(days[0]) : `${short(days[0])} – ${short(days[days.length-1])}`) + ` · ${shown.length} eventi`;
 
+  const isWeek = state.view === "settimana";
+  $("#weeknav").style.display = isWeek ? "flex" : "none";
+  $("#prevW").disabled = state.weekStart <= mondayOf(DATA.range[0]);
+  $("#nextW").disabled = addDays(state.weekStart,7) > DATA.range[1];
+
+  // Griglia settimana (schermi larghi)
+  const wk = $("#week");
+  if (isWeek){
+    wk.style.display = "";
+    wk.innerHTML = days.map(ds => {
+      const evs = vis.filter(e => e.date === ds); const d = pd(ds);
+      return `<div class="col ${ds===t?'today':''} ${inRange(ds)?'':'out'}">
+        <h3>${DOW[d.getDay()]} <strong>${d.getDate()}</strong></h3>
+        ${evs.length ? `<ul>${evs.map(mini).join("")}</ul>` : `<div class="none">${inRange(ds)?'Nessun evento':'Fuori calendario'}</div>`}</div>`;
+    }).join("");
+  } else { wk.style.display = "none"; wk.innerHTML = ""; }
+
+  // Striscia giorni (telefono, vista settimana)
+  const strip = $("#daystrip");
+  if (isWeek){
+    if (!state.day || !days.includes(state.day)) state.day = days.includes(t) ? t : (days.find(ds => vis.some(e => e.date===ds)) || days[0]);
+    strip.classList.add("show");
+    strip.innerHTML = days.map(ds => { const d = pd(ds); const n = vis.filter(e => e.date===ds).length;
+      return `<button data-d="${ds}" class="${n?'':'empty'}" aria-pressed="${ds===state.day}" aria-label="${label(ds)}, ${n} eventi"><small>${DOW[d.getDay()]}</small><strong>${d.getDate()}</strong></button>`; }).join("");
+    strip.querySelectorAll("button").forEach(b => b.onclick = () => { state.day = b.dataset.d; render(); });
+  } else { strip.classList.remove("show"); strip.innerHTML = ""; }
+
+  // Agenda: sempre per le viste a lista; per la settimana solo su schermi stretti
+  const agendaDays = isWeek ? [state.day] : days;
   let html = "";
-  for (const ds of days){
+  for (const ds of agendaDays){
     const evs = vis.filter(e => e.date === ds);
     if (!evs.length) continue;
-    const d = pd(ds);
-    const label = `${["Domenica","Lunedì","Martedì","Mercoledì","Giovedì","Venerdì","Sabato"][d.getDay()]} ${d.getDate()} ${MON[d.getMonth()]}`;
-    html += `<section class="daysec" id="d-${ds}"><h2>${label}${ds===t?' <span class="tag">oggi</span>':''} <span class="c">${evs.length} eventi</span></h2><ol class="ev">`;
-    for (const e of evs){
-      const pills = [`<span class="p">${esc(CATS[e.cat]||e.cat)}</span>`];
-      if (e.tags.includes("imperdibile")) pills.unshift(`<span class="p star">Imperdibile</span>`);
-      if (e.tags.includes("bookcity")) pills.push(`<span class="p">BookCity</span>`);
-      if (e.tags.includes("mmw")) pills.push(`<span class="p">Music Week</span>`);
-      if (e.free === true) pills.push(`<span class="p free">Gratuito</span>`);
-      if (e.verify) pills.push(`<span class="p ver">da verificare</span>`);
-      html += `<li class="${isPast(e)?'past':''}">
-        <div class="t ${e.time?'':'na'}">${e.time ? esc(e.time) : 'orario<br>n.d.'}</div>
-        <div>
-          <a class="title" href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a>
-          <div class="venue">${esc(e.venue)}</div>
-          ${e.desc ? `<div class="desc">${esc(e.desc)}</div>` : ""}
-          <div class="pills">${pills.join("")}</div>
-        </div></li>`;
-    }
-    html += `</ol></section>`;
+    html += `<section class="day"><h2>${label(ds)} ${ds===t?'<span class="badge">oggi</span>':''}<span class="c">${evs.length} eventi</span></h2><div class="cards">${evs.map(card).join("")}</div></section>`;
   }
-  $("#list").innerHTML = html || `<p class="empty">Nessun evento con questi filtri. Prova a toglierne qualcuno.</p>`;
+  if (!html){
+    const outside = days.every(ds => !inRange(ds));
+    html = `<p class="empty">${outside ? "Questi giorni non sono ancora nel calendario: torna domani, lo aggiorniamo ogni mattina." : "Nessun evento con questi filtri. Prova a toglierne qualcuno."}</p>`;
+  }
+  const ag = $("#agenda");
+  ag.innerHTML = html;
+  ag.classList.toggle("weekAgenda", isWeek);
 }
 
 function renderMostre(){
   $("#mostre").innerHTML = (DATA.mostre||[]).map(m =>
     `<div class="m"><a href="${esc(m.url)}" target="_blank" rel="noopener">${esc(m.title)}</a><div>${esc(m.venue)} · ${esc(m.when)}</div></div>`).join("");
 }
-
-function toggle(id, key){
-  const b = $(id); b.addEventListener("click", () => { state[key] = !state[key]; b.setAttribute("aria-pressed", state[key]); render(); });
-}
+function toggle(id, key){ const b = $(id); b.onclick = () => { state[key] = !state[key]; b.setAttribute("aria-pressed", state[key]); render(); }; }
 
 async function load(){
   try{
@@ -228,18 +397,22 @@ async function load(){
     if (!r.ok) throw new Error(r.status);
     DATA = await r.json();
   }catch(err){
-    $("#upd").textContent = "Non riesco a caricare gli eventi: ricarica la pagina.";
+    $("#upd").textContent = "Non riesco a caricare il calendario: ricarica la pagina.";
     return;
   }
   const u = new Date(DATA.updated);
-  $("#upd").textContent = "Aggiornato il " + u.toLocaleDateString("it-IT",{day:"numeric",month:"long"}) + " alle " + u.toLocaleTimeString("it-IT",{hour:"2-digit",minute:"2-digit"});
+  $("#upd").textContent = "Aggiornato " + u.toLocaleDateString("it-IT",{weekday:"long",day:"numeric",month:"long"}) + " alle " + u.toLocaleTimeString("it-IT",{hour:"2-digit",minute:"2-digit"});
+  const t = today();
+  state.weekStart = mondayOf(inRange(t) ? t : DATA.range[0]);
+  if (inRange(t) && DATA.events.some(e => e.date === t && !isPast(e))) state.view = "oggi";
   renderCats(); renderMostre(); render();
-  const t = todayStr(); const s = document.getElementById("d-"+t);
-  if (s && t !== DATA.range[0]) s.scrollIntoView();
 }
 
 $("#q").addEventListener("input", e => { state.q = e.target.value.trim().toLowerCase(); render(); });
-toggle("#f-star","star"); toggle("#f-free","free"); toggle("#f-bc","bc"); toggle("#f-past","hidePast");
+toggle("#f-star","star"); toggle("#f-free","free"); toggle("#f-past","hidePast");
+$("#prevW").onclick = () => { state.weekStart = addDays(state.weekStart,-7); state.day = null; render(); };
+$("#nextW").onclick = () => { state.weekStart = addDays(state.weekStart,7); state.day = null; render(); };
+$("#filterBtn").onclick = () => { const m = $("#more"); const open = m.classList.toggle("open"); $("#filterBtn").setAttribute("aria-expanded", open); };
 setInterval(() => { if (DATA) render(); }, 5*60*1000);
 load();
 </script>
