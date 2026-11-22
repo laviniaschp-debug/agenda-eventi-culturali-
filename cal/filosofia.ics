@@ -1,0 +1,156 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci · Filosofia
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-24-material-mente-umana-la-soggettivita-incarnata@acculturiamoc
+ i.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T163000
+DTEND;TZID=Europe/Rome:20261124T183000
+SUMMARY:Material-mente umana. La soggettività incarnata
+LOCATION:Statale\, via Festa del Perdono 3\, aula 510
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17504
+URL:https://work.unimi.it/eventir/registrazione?code=17504
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-carl-gustav-jung-attraverso-il-cinema-e-l-attual@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Carl Gustav Jung attraverso il cinema e l'attualità
+LOCATION:Philo (su Zoom)
+DESCRIPTION:Gratuito. https://www.scuolaphilo.it/evento-philo/jungcinema_20
+ 2609241823/
+URL:https://www.scuolaphilo.it/evento-philo/jungcinema_202609241823/
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-il-senno-sulla-luna-il-medioevo-di-doctor-virtua@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261125T163000
+DTEND;TZID=Europe/Rome:20261125T183000
+SUMMARY:Il senno sulla luna: il Medioevo di Doctor Virtualis
+LOCATION:Statale\, via Santa Sofia 9\, aula M401
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17516
+URL:https://work.unimi.it/eventir/registrazione?code=17516
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-piacere-rousseau-ti-presento-dewey@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261125T173000
+DTEND;TZID=Europe/Rome:20261125T193000
+SUMMARY:Piacere\, Rousseau. Ti presento Dewey
+LOCATION:FrancoAngeli Academy
+DESCRIPTION:Bicocca per BookCity. https://www.unimib.it/node/39142
+URL:https://www.unimib.it/node/39142
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-i-classici-non-hanno-mai-finito-di-dirci-cio-che@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261125T180000
+DTEND;TZID=Europe/Rome:20261125T200000
+SUMMARY:I classici non hanno mai finito di dirci ciò che vogliono dire
+LOCATION:Casa della Cultura (via Borgogna 3)
+DESCRIPTION:Ottavo incontro del seminario di filosofia sui classici. https:
+ //www.casadellacultura.it/casa-della-cultura-calendario.php
+URL:https://www.casadellacultura.it/casa-della-cultura-calendario.php
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-la-messa-non-e-finita-il-sacro-all-epoca-del-dig@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261126T083000
+DTEND;TZID=Europe/Rome:20261126T103000
+SUMMARY:La messa non è finita. Il sacro all'epoca del digitale
+LOCATION:Statale\, via Festa del Perdono 3\, aula 211
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17513
+URL:https://work.unimi.it/eventir/registrazione?code=17513
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-umberto-galimberti-l-illusione-della-liberta@acculturiamoci.
+ it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261127T183000
+DTEND;TZID=Europe/Rome:20261127T203000
+SUMMARY:Umberto Galimberti\, L'illusione della libertà
+LOCATION:Fondazione San Fedele
+DESCRIPTION:Quanto siamo davvero liberi? Galimberti prova a rispondere. htt
+ ps://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospit
+ i-temi-eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-oltre-la-punizione-riparare-riannodare-rigenerar@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Oltre la punizione: riparare\, riannodare\, rigenerare
+LOCATION:Fondazione Feltrinelli
+DESCRIPTION:Adolfo Ceretti sulla giustizia riparativa. https://fondazionefe
+ ltrinelli.it/en/participate/
+URL:https://fondazionefeltrinelli.it/en/participate/
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-filosofia-dell-amicizia@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:Filosofia dell'amicizia
+LOCATION:Fondazione Feltrinelli\, Sala Lettura
+DESCRIPTION:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-p
+ rogramma-ospiti-temi-eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-programma-philo-a-bookcity@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Programma Philo a BookCity
+LOCATION:Philo – Pratiche filosofiche (via Piranesi 12)
+DESCRIPTION:In presenza e su Zoom\, gratuito. https://www.scuolaphilo.it/ev
+ ento-philo/bookcity2026_202610261835/
+URL:https://www.scuolaphilo.it/evento-philo/bookcity2026_202610261835/
+CATEGORIES:Filosofia
+END:VEVENT
+END:VCALENDAR

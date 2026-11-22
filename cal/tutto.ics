@@ -1,0 +1,2275 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci · Milano
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-22-m2o-morning-club-albertino-baldelli-fimiani@acculturiamoci.i
+ t
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261122T100000
+DTEND;TZID=Europe/Rome:20261122T120000
+SUMMARY:m2o Morning Club: Albertino\, Baldelli\, Fimiani
+LOCATION:Bar Vapore 1928
+DESCRIPTION:Chiusura della Milano Music Week. https://www.mentelocale.it/mi
+ lano/147140-milano-music-week-2026-sotto-la-direzione-artistica-di-linus-u
+ na-settimana-di-live-talk-e-incontri-il-programma.htm
+URL:https://www.mentelocale.it/milano/147140-milano-music-week-2026-sotto-l
+ a-direzione-artistica-di-linus-una-settimana-di-live-talk-e-incontri-il-pr
+ ogramma.htm
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-il-fuoco-che-ti-porti-dentro-lezione-di-cinema@acculturiamoc
+ i.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261122T150000
+DTEND;TZID=Europe/Rome:20261122T170000
+SUMMARY:Il fuoco che ti porti dentro: lezione di cinema
+LOCATION:Anteo Palazzo del Cinema
+DESCRIPTION:Con Edoardo De Angelis\, Vanessa Scalera\, Lino Musella. https:
+ //www.spaziocinema.info/milano/eventi-e-rassegne/il-fuoco-che-ti-porti-den
+ tro-lezione-di-cinema-con-il-regista-edoardo-de-angelis-e-gli-attori-vanes
+ sa-scalera-e-lino-musella
+URL:https://www.spaziocinema.info/milano/eventi-e-rassegne/il-fuoco-che-ti-
+ porti-dentro-lezione-di-cinema-con-il-regista-edoardo-de-angelis-e-gli-att
+ ori-vanessa-scalera-e-lino-musella
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-parla-clitemnestra@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261122T150000
+DTEND;TZID=Europe/Rome:20261122T170000
+SUMMARY:Parla\, Clitemnestra!
+LOCATION:Teatro Elfo Puccini
+DESCRIPTION:Compagnia Barletti/Waas. https://www.mentelocale.it/milano/1477
+ 26-parla-clitemnestra-al-teatro-elfo-puccini-la-compagnia-barletti-waas.ht
+ m
+URL:https://www.mentelocale.it/milano/147726-parla-clitemnestra-al-teatro-e
+ lfo-puccini-la-compagnia-barletti-waas.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-edmund-de-waal-come-cominciare@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261122T160000
+DTEND;TZID=Europe/Rome:20261122T180000
+SUMMARY:Edmund de Waal\, Come cominciare
+LOCATION:Fondazione Luigi Rovati
+DESCRIPTION:BookCity. https://www.fondazioneluigirovati.org/it/appuntamenti
+ -e-mostre/appuntamenti/bookcity-milano-2026/
+URL:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntam
+ enti/bookcity-milano-2026/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-ravel-bach-beethoven-eroica@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261122T160000
+DTEND;TZID=Europe/Rome:20261122T180000
+SUMMARY:Ravel / Bach / Beethoven Eroica
+LOCATION:Auditorium di Milano (largo Mahler)
+DESCRIPTION:Replica. https://sinfonicadimilano.org/en/eventi/2026-27/ravel-
+ bach-beethoven
+URL:https://sinfonicadimilano.org/en/eventi/2026-27/ravel-bach-beethoven
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261122T160000
+DTEND;TZID=Europe/Rome:20261122T180000
+SUMMARY:Una delle ultime sere di carnovale
+LOCATION:Piccolo Teatro Strehler
+DESCRIPTION:Goldoni diretto da Valerio Binasco: il congedo del commediograf
+ o da Venezia. https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-
+ sere-di-carnovale
+URL:https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-car
+ novale
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-il-berretto-a-sonagli@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261122T161500
+DTEND;TZID=Europe/Rome:20261122T181500
+SUMMARY:Il berretto a sonagli
+LOCATION:Teatro Franco Parenti\, Sala Grande
+DESCRIPTION:Silvio Orlando nel Pirandello delle maschere sociali. Ultima re
+ plica. https://teatrofrancoparenti.it/spettacolo/il-berretto-a-sonagli/
+URL:https://teatrofrancoparenti.it/spettacolo/il-berretto-a-sonagli/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-la-misteriosa-scomparsa-di-w@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261122T163000
+DTEND;TZID=Europe/Rome:20261122T183000
+SUMMARY:La misteriosa scomparsa di W
+LOCATION:Teatro Carcano
+DESCRIPTION:Da Stefano Benni\, con e per la regia di Ambra Angiolini. https
+ ://www.mentelocale.it/milano/129787-la-misteriosa-scomparsa-di-w.htm
+URL:https://www.mentelocale.it/milano/129787-la-misteriosa-scomparsa-di-w.h
+ tm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-la-rivolta@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261122T163000
+DTEND;TZID=Europe/Rome:20261122T183000
+SUMMARY:La rivolta
+LOCATION:Teatro Leonardo (via Ampère 1)
+DESCRIPTION:Scritto e diretto da Corrado d'Elia. https://www.mentelocale.it
+ /milano/139866-rivolta.htm
+URL:https://www.mentelocale.it/milano/139866-rivolta.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-benjamin-bernheim-recital-di-canto@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261122T200000
+DTEND;TZID=Europe/Rome:20261122T220000
+SUMMARY:Benjamin Bernheim\, recital di canto
+LOCATION:Teatro alla Scala
+DESCRIPTION:https://www.teatroallascala.org/it/calendario.html
+URL:https://www.teatroallascala.org/it/calendario.html
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-sognare-forse-dormire-performance-da-vivere-dorm@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261122T210000
+DTEND;TZID=Europe/Rome:20261122T230000
+SUMMARY:Sognare\, forse dormire: performance da vivere dormendo
+LOCATION:BASE Milano\, Room 1400
+DESCRIPTION:https://base.milano.it/events/page/9/
+URL:https://base.milano.it/events/page/9/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-pinocchio-trilogia-del-teatro-patologico@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Pinocchio – Trilogia del Teatro Patologico
+LOCATION:Teatro Franco Parenti
+DESCRIPTION:Dario D'Ambrosi porta in scena il suo Pinocchio con gli attori 
+ del Teatro Patologico\, compagnia che lavora con persone con disagio psich
+ ico. https://teatrofrancoparenti.it/spettacolo/trilogia-di-dario-dambrosi/
+URL:https://teatrofrancoparenti.it/spettacolo/trilogia-di-dario-dambrosi/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-raphael-gualazzi-band@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Raphael Gualazzi Band
+LOCATION:Blue Note (via Borsieri 37)
+DESCRIPTION:Il pianista e cantante tra jazz\, soul e canzone d'autore. http
+ s://bluenotemilano.com/show/raphael-gualazzi-quintet-20-21-22-novembre-202
+ 6-milano/
+URL:https://bluenotemilano.com/show/raphael-gualazzi-quintet-20-21-22-novem
+ bre-2026-milano/
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-oltre-la-globalizzazione-la-lezione-giuridica-di@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T083000
+DTEND;TZID=Europe/Rome:20261123T103000
+SUMMARY:Oltre la globalizzazione. La lezione giuridica di Roma
+LOCATION:Statale\, via Festa del Perdono 3\, aula 208
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17571
+URL:https://work.unimi.it/eventir/registrazione?code=17571
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-l-elisir-d-amore-per-i-bambini@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T110000
+DTEND;TZID=Europe/Rome:20261123T130000
+SUMMARY:L'elisir d'amore per i bambini
+LOCATION:Teatro alla Scala
+DESCRIPTION:Replica anche alle 14:30. https://www.teatroallascala.org/it/ca
+ lendario.html
+URL:https://www.teatroallascala.org/it/calendario.html
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-dalla-preistoria-ad-oggi-il-viaggio-di-emilio-se@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T123000
+DTEND;TZID=Europe/Rome:20261123T143000
+SUMMARY:Dalla preistoria ad oggi: il viaggio di Emilio Sereni
+LOCATION:Statale\, via Sant'Antonio 5\, aula 1
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17553
+URL:https://work.unimi.it/eventir/registrazione?code=17553
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-il-senno-del-giudizio-storia-della-giustizia-nel@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T123000
+DTEND;TZID=Europe/Rome:20261123T143000
+SUMMARY:Il senno del giudizio. Storia della giustizia nell'Italia repubblic
+ ana
+LOCATION:Statale\, via Festa del Perdono 3\, aula 410
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17568
+URL:https://work.unimi.it/eventir/registrazione?code=17568
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-l-elisir-d-amore-per-i-bambini-2@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T143000
+DTEND;TZID=Europe/Rome:20261123T163000
+SUMMARY:L'elisir d'amore per i bambini
+LOCATION:Teatro alla Scala
+DESCRIPTION:Donizetti in versione ridotta per il pubblico più giovane. htt
+ ps://www.teatroallascala.org/it/calendario.html
+URL:https://www.teatroallascala.org/it/calendario.html
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-i-misteri-d-italia-1974-la-strage-di-brescia@acculturiamoci.
+ it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T163000
+DTEND;TZID=Europe/Rome:20261123T183000
+SUMMARY:I misteri d'Italia: 1974\, la strage di Brescia
+LOCATION:Statale\, via Festa del Perdono 3\, aula 102
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17540
+URL:https://work.unimi.it/eventir/registrazione?code=17540
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-quale-sovranita-per-il-caucaso-meridionale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T163000
+DTEND;TZID=Europe/Rome:20261123T183000
+SUMMARY:Quale sovranità per il Caucaso meridionale?
+LOCATION:Statale\, Scienze politiche\, via Conservatorio 7\, aula 26
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17525
+URL:https://work.unimi.it/eventir/registrazione?code=17525
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-dischi-e-tasti-ildebrando-pizzetti-piano-trio@acculturiamoci
+ .it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T180000
+DTEND;TZID=Europe/Rome:20261123T200000
+SUMMARY:Dischi e tasti: Ildebrando Pizzetti\, Piano Trio
+LOCATION:Teatro alla Scala
+DESCRIPTION:Incontro. https://www.teatroallascala.org/it/calendario.html
+URL:https://www.teatroallascala.org/it/calendario.html
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-milano-nella-storia-da-capitale-imperiale-a-metr@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T180000
+DTEND;TZID=Europe/Rome:20261123T200000
+SUMMARY:Milano nella storia: da capitale imperiale a metropoli
+LOCATION:Casa della Cultura (via Borgogna 3)
+DESCRIPTION:Quarto incontro del ciclo sulla storia della città\; anche in 
+ streaming. https://www.casadellacultura.it/casa-della-cultura-calendario.p
+ hp
+URL:https://www.casadellacultura.it/casa-della-cultura-calendario.php
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-milo-manara-l-erotismo-nell-arte-e-nella-lettera@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T183000
+DTEND;TZID=Europe/Rome:20261123T203000
+SUMMARY:Milo Manara: l'erotismo nell'arte e nella letteratura
+LOCATION:Centro Internazionale di Brera
+DESCRIPTION:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-p
+ rogramma-ospiti-temi-eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-gli-spietati-rassegna-gene-hackman@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T190000
+DTEND;TZID=Europe/Rome:20261123T210000
+SUMMARY:Gli spietati (rassegna Gene Hackman)
+LOCATION:Cineteca Arlecchino
+DESCRIPTION:Il western crepuscolare di Eastwood nella rassegna dedicata a G
+ ene Hackman. https://www.cinetecamilano.it/rassegna/gene-hackman-una-facci
+ a-per-il-cinema/
+URL:https://www.cinetecamilano.it/rassegna/gene-hackman-una-faccia-per-il-c
+ inema/
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-l-eterna-illusione-da-broadway-a-hollywood@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T193000
+DTEND;TZID=Europe/Rome:20261123T213000
+SUMMARY:L'eterna illusione: da Broadway a Hollywood
+LOCATION:Anteo Palazzo del Cinema
+DESCRIPTION:Rassegna del lunedì. https://www.spaziocinema.info/milano/even
+ ti-e-rassegne/l2019eterna-illusione-da-broadway-a-hollywood
+URL:https://www.spaziocinema.info/milano/eventi-e-rassegne/l2019eterna-illu
+ sione-da-broadway-a-hollywood
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-coro-di-voci-bianche-dell-accademia@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T200000
+DTEND;TZID=Europe/Rome:20261123T220000
+SUMMARY:Coro di Voci Bianche dell'Accademia
+LOCATION:Teatro alla Scala
+DESCRIPTION:https://www.teatroallascala.org/it/calendario.html
+URL:https://www.teatroallascala.org/it/calendario.html
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-inaugurazione-bookcity-colson-whitehead@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T200000
+DTEND;TZID=Europe/Rome:20261123T220000
+SUMMARY:Inaugurazione BookCity: Colson Whitehead
+LOCATION:Teatro Dal Verme
+DESCRIPTION:Due premi Pulitzer\, una sera sola: il via ufficiale di BookCit
+ y. Con Francesco Costa\, conduce Giovanna Zucconi. Lectio di Marco Balzano
+ . https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-
+ ospiti-temi-eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-alessandro-bergonzoni-voto-di-vastita@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T203000
+DTEND;TZID=Europe/Rome:20261123T223000
+SUMMARY:Alessandro Bergonzoni\, Voto di vastità
+LOCATION:Teatro Carcano
+DESCRIPTION:Un'ora di parole che si piegano: si ride e si pensa insieme. Ra
+ ssegna Follow the Monday. https://www.mentelocale.it/milano/129757-follow-
+ the-monday-farsi-male-variazioni-sul-masochismo.htm
+URL:https://www.mentelocale.it/milano/129757-follow-the-monday-farsi-male-v
+ ariazioni-sul-masochismo.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-roman-fediurko-pianoforte@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T204500
+DTEND;TZID=Europe/Rome:20261123T224500
+SUMMARY:Roman Fediurko\, pianoforte
+LOCATION:Conservatorio\, Sala Puccini
+DESCRIPTION:Recital pianistico per la stagione di Serate Musicali. https://
+ www.seratemusicali.it/pianista-roman-fediurko/
+URL:https://www.seratemusicali.it/pianista-roman-fediurko/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-vedo-ascolto-parlo-contro-la-violenza-sulle-donn@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Vedo\, ascolto\, parlo: contro la violenza sulle donne
+LOCATION:Anteo Palazzo del Cinema
+DESCRIPTION:Dal 23 al 25. https://www.spaziocinema.info/milano/eventi-e-ras
+ segne/vedo-ascolto-parlo-muoviamoci-contro-la-violenza-sulle-donne
+URL:https://www.spaziocinema.info/milano/eventi-e-rassegne/vedo-ascolto-par
+ lo-muoviamoci-contro-la-violenza-sulle-donne
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-la-ragione-di-orlando-come-il-medioevo-imparo-a-@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T103000
+DTEND;TZID=Europe/Rome:20261124T123000
+SUMMARY:La ragione di Orlando. Come il Medioevo imparò a dare conto delle 
+ cose
+LOCATION:Statale\, via Santa Sofia 9\, aula M203
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17537
+URL:https://work.unimi.it/eventir/registrazione?code=17537
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-una-societa-piu-equa-e-anche-piu-sana@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T110000
+DTEND;TZID=Europe/Rome:20261124T130000
+SUMMARY:Una società più equa è anche più sana?
+LOCATION:Casa dei Diritti\, via De Amicis 10
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17473
+URL:https://work.unimi.it/eventir/registrazione?code=17473
+CATEGORIES:Psiche e salute
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-daniel-pennac-apre-la-nuova-feltrinelli-centrale@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T120000
+DTEND;TZID=Europe/Rome:20261124T140000
+SUMMARY:Daniel Pennac apre la nuova Feltrinelli Centrale
+LOCATION:Feltrinelli Milano Centrale
+DESCRIPTION:Dalle 12:30 Galimberti\, Biondillo\, Nucci\, Latronico e altri.
+  https://www.mentelocale.it/milano/147714-librerie-a-milano-riapre-la-pi-g
+ rande-feltrinelli-della-citt.htm
+URL:https://www.mentelocale.it/milano/147714-librerie-a-milano-riapre-la-pi
+ -grande-feltrinelli-della-citt.htm
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-una-risata-seppellira-la-violenza-euripide-e-ari@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T123000
+DTEND;TZID=Europe/Rome:20261124T143000
+SUMMARY:Una risata seppellirà la violenza? Euripide e Aristofane
+LOCATION:Statale\, via Noto 8\, aula K31
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17549
+URL:https://work.unimi.it/eventir/registrazione?code=17549
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-otello-l-ultima-maschera-tragica@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T150000
+DTEND;TZID=Europe/Rome:20261124T170000
+SUMMARY:Otello: l'ultima maschera tragica
+LOCATION:Teatro alla Scala
+DESCRIPTION:Incontro di studio. https://www.teatroallascala.org/it/calendar
+ io.html
+URL:https://www.teatroallascala.org/it/calendario.html
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-over-dance-milano-danza-e-longevita@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T160000
+DTEND;TZID=Europe/Rome:20261124T180000
+SUMMARY:Over Dance Milano: danza e longevità
+LOCATION:Fondazione Feltrinelli
+DESCRIPTION:Welfare culturale. https://fondazionefeltrinelli.it/en/particip
+ ate/
+URL:https://fondazionefeltrinelli.it/en/participate/
+CATEGORIES:Psiche e salute
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-l-universo-ideologico-di-trump@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T163000
+DTEND;TZID=Europe/Rome:20261124T183000
+SUMMARY:L'universo ideologico di Trump
+LOCATION:Statale\, via Festa del Perdono 3\, aula 304
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17565
+URL:https://work.unimi.it/eventir/registrazione?code=17565
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-la-democrazia-partecipativa-tra-crisi-della-rapp@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T163000
+DTEND;TZID=Europe/Rome:20261124T183000
+SUMMARY:La democrazia partecipativa tra crisi della rappresentanza e stato 
+ di diritto
+LOCATION:Statale\, Scienze politiche\, via Conservatorio 7\, aula 25
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17522
+URL:https://work.unimi.it/eventir/registrazione?code=17522
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-material-mente-umana-la-soggettivita-incarnata@acculturiamoc
+ i.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T163000
+DTEND;TZID=Europe/Rome:20261124T183000
+SUMMARY:Material-mente umana. La soggettività incarnata
+LOCATION:Statale\, via Festa del Perdono 3\, aula 510
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17504
+URL:https://work.unimi.it/eventir/registrazione?code=17504
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-salute-in-evoluzione-pievani-e-remuzzi@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T170000
+DTEND;TZID=Europe/Rome:20261124T190000
+SUMMARY:Salute in evoluzione: Pievani e Remuzzi
+LOCATION:21 House of Stories Città Studi\, via Noè 24
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17467
+URL:https://work.unimi.it/eventir/registrazione?code=17467
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-daniel-pennac-presenta-mallet@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T183000
+DTEND;TZID=Europe/Rome:20261124T203000
+SUMMARY:Daniel Pennac presenta Mallet
+LOCATION:Fondazione San Fedele
+DESCRIPTION:Daniel Pennac dal vivo\, a Milano\, con il suo nuovo libro. htt
+ ps://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospit
+ i-temi-eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-presentazione-de-il-morandini-2026@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T190000
+DTEND;TZID=Europe/Rome:20261124T210000
+SUMMARY:Presentazione de Il Morandini 2026
+LOCATION:Cineteca Milano
+DESCRIPTION:Presentazione della nuova edizione del dizionario dei film. htt
+ ps://www.cinetecamilano.it/evento/presentazione-il-morandini-2026/
+URL:https://www.cinetecamilano.it/evento/presentazione-il-morandini-2026/
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-il-rito-del-jazz-omaggio-a-chick-corea@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T193000
+DTEND;TZID=Europe/Rome:20261124T213000
+SUMMARY:Il rito del jazz: omaggio a Chick Corea
+LOCATION:Cascina Cuccagna (via Cuccagna 2/4)
+DESCRIPTION:Trio Boggio Ferraris\, Mazzone\, Rossi. Secondo set alle 21:30.
+  Prenotazione su unpostoamilano.it. https://www.ilgiorno.it/cosa-fare/casc
+ ina-cuccagna-tutte-le-sfumature-del-jazz-in-quattro-appuntamenti-nel-mese-
+ di-novembre-b770bea9
+URL:https://www.ilgiorno.it/cosa-fare/cascina-cuccagna-tutte-le-sfumature-d
+ el-jazz-in-quattro-appuntamenti-nel-mese-di-novembre-b770bea9
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-io-sono-verticale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T193000
+DTEND;TZID=Europe/Rome:20261124T213000
+SUMMARY:Io sono verticale
+LOCATION:Teatro Elfo Puccini\, Sala Bausch
+DESCRIPTION:Francesca Astrei racconta la depressione da dentro e da chi sta
+  accanto. https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm
+URL:https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T193000
+DTEND;TZID=Europe/Rome:20261124T213000
+SUMMARY:Una delle ultime sere di carnovale
+LOCATION:Piccolo Teatro Strehler
+DESCRIPTION:Goldoni diretto da Valerio Binasco: il congedo del commediograf
+ o da Venezia. https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-
+ sere-di-carnovale
+URL:https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-car
+ novale
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-i-monologhi-della-vagina@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T203000
+DTEND;TZID=Europe/Rome:20261124T223000
+SUMMARY:I monologhi della vagina
+LOCATION:Teatro Carcano
+DESCRIPTION:Con Lella Costa\, Viola Marietti\, Rita Pelusio\, Beatrice Schi
+ ros. Rassegna #25novembre. https://www.mentelocale.it/milano/129790-i-mono
+ loghi-della-vagina.htm
+URL:https://www.mentelocale.it/milano/129790-i-monologhi-della-vagina.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-la-rivolta@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T203000
+DTEND;TZID=Europe/Rome:20261124T223000
+SUMMARY:La rivolta
+LOCATION:Teatro Leonardo (via Ampère 1)
+DESCRIPTION:Scritto e diretto da Corrado d'Elia. https://www.mentelocale.it
+ /milano/139866-rivolta.htm
+URL:https://www.mentelocale.it/milano/139866-rivolta.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-carl-gustav-jung-attraverso-il-cinema-e-l-attual@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Carl Gustav Jung attraverso il cinema e l'attualità
+LOCATION:Philo (su Zoom)
+DESCRIPTION:Gratuito. https://www.scuolaphilo.it/evento-philo/jungcinema_20
+ 2609241823/
+URL:https://www.scuolaphilo.it/evento-philo/jungcinema_202609241823/
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-celebrate-studio-54@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Celebrate Studio 54!
+LOCATION:Blue Note (via Borsieri 37)
+DESCRIPTION:Serata dedicata alle atmosfere disco del leggendario club newyo
+ rkese. https://bluenotemilano.com/show/concerto-celebrate-studio-54-24-nov
+ embre-2026-milano/
+URL:https://bluenotemilano.com/show/concerto-celebrate-studio-54-24-novembr
+ e-2026-milano/
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-iliade-la-ballata-di-tersite@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Iliade: la ballata di Tersite
+LOCATION:Teatro Filodrammatici
+DESCRIPTION:Matinée: la guerra di Troia vista dal soldato più sgraziato d
+ ell'Iliade. https://teatrofilodrammatici.eu/spettacoli/iliade-la-ballata-d
+ i-tersite-matinee/
+URL:https://teatrofilodrammatici.eu/spettacoli/iliade-la-ballata-di-tersite
+ -matinee/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-oltre-la-rappresaglia-la-repressione-nazista-in-@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261125T123000
+DTEND;TZID=Europe/Rome:20261125T143000
+SUMMARY:Oltre la rappresaglia: la repressione nazista in Boemia e Moravia
+LOCATION:Statale\, Scienze politiche\, via Conservatorio 7\, aula 23
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17479
+URL:https://work.unimi.it/eventir/registrazione?code=17479
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-arturo-perez-reverte@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261125T160000
+DTEND;TZID=Europe/Rome:20261125T180000
+SUMMARY:Arturo Pérez-Reverte
+LOCATION:Università Cattolica
+DESCRIPTION:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-p
+ rogramma-ospiti-temi-eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-dante-e-vivo@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261125T163000
+DTEND;TZID=Europe/Rome:20261125T183000
+SUMMARY:Dante è vivo
+LOCATION:Statale\, via Santa Sofia 9\, aula M205
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17586
+URL:https://work.unimi.it/eventir/registrazione?code=17586
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-il-senno-sulla-luna-il-medioevo-di-doctor-virtua@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261125T163000
+DTEND;TZID=Europe/Rome:20261125T183000
+SUMMARY:Il senno sulla luna: il Medioevo di Doctor Virtualis
+LOCATION:Statale\, via Santa Sofia 9\, aula M401
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17516
+URL:https://work.unimi.it/eventir/registrazione?code=17516
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-piacere-rousseau-ti-presento-dewey@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261125T173000
+DTEND;TZID=Europe/Rome:20261125T193000
+SUMMARY:Piacere\, Rousseau. Ti presento Dewey
+LOCATION:FrancoAngeli Academy
+DESCRIPTION:Bicocca per BookCity. https://www.unimib.it/node/39142
+URL:https://www.unimib.it/node/39142
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-i-classici-non-hanno-mai-finito-di-dirci-cio-che@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261125T180000
+DTEND;TZID=Europe/Rome:20261125T200000
+SUMMARY:I classici non hanno mai finito di dirci ciò che vogliono dire
+LOCATION:Casa della Cultura (via Borgogna 3)
+DESCRIPTION:Ottavo incontro del seminario di filosofia sui classici. https:
+ //www.casadellacultura.it/casa-della-cultura-calendario.php
+URL:https://www.casadellacultura.it/casa-della-cultura-calendario.php
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-jan-brokken-la-malinconia-del-viaggiatore@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261125T180000
+DTEND;TZID=Europe/Rome:20261125T200000
+SUMMARY:Jan Brokken\, La malinconia del viaggiatore
+LOCATION:Fondazione Luigi Rovati
+DESCRIPTION:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/
+ appuntamenti/bookcity-milano-2026-2/
+URL:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntam
+ enti/bookcity-milano-2026-2/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-prima-delle-prime-otello@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261125T180000
+DTEND;TZID=Europe/Rome:20261125T200000
+SUMMARY:Prima delle Prime: Otello
+LOCATION:Teatro alla Scala
+DESCRIPTION:Arrivare alla Prima della Scala sapendo già tutto di Otello. G
+ iovanni Bietti con Damiano Michieletto. https://www.teatroallascala.org/it
+ /calendario.html
+URL:https://www.teatroallascala.org/it/calendario.html
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-era-tanto-un-bravo-ragazzo@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261125T183000
+DTEND;TZID=Europe/Rome:20261125T203000
+SUMMARY:Era tanto un bravo ragazzo
+LOCATION:Fondazione Feltrinelli
+DESCRIPTION:Paola Di Nicola Travaglini\, Cinzia Spanò\, Caterina Croce. Gi
+ ornata contro la violenza sulle donne. https://fondazionefeltrinelli.it/en
+ /participate/
+URL:https://fondazionefeltrinelli.it/en/participate/
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-io-sono-verticale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261125T193000
+DTEND;TZID=Europe/Rome:20261125T213000
+SUMMARY:Io sono verticale
+LOCATION:Teatro Elfo Puccini\, Sala Bausch
+DESCRIPTION:Francesca Astrei racconta la depressione da dentro e da chi sta
+  accanto. https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm
+URL:https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-samantha-cristoforetti-il-senso-della-luna@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261125T200000
+DTEND;TZID=Europe/Rome:20261125T220000
+SUMMARY:Samantha Cristoforetti: il senso della Luna
+LOCATION:Museo Scienza e Tecnologia
+DESCRIPTION:Un'astronauta\, la Luna e Leopardi nella stessa sera. Con Stefa
+ no Sandrelli\, letture di Leopardi. https://www.mentelocale.it/milano/1464
+ 78-bookcity-milano-2026-iniziative-e-incontri-al-museo-nazionale-scienza-e
+ -tecnologia.htm
+URL:https://www.mentelocale.it/milano/146478-bookcity-milano-2026-iniziativ
+ e-e-incontri-al-museo-nazionale-scienza-e-tecnologia.htm
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-la-rivolta@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261125T203000
+DTEND;TZID=Europe/Rome:20261125T223000
+SUMMARY:La rivolta
+LOCATION:Teatro Leonardo (via Ampère 1)
+DESCRIPTION:Scritto e diretto da Corrado d'Elia. https://www.mentelocale.it
+ /milano/139866-rivolta.htm
+URL:https://www.mentelocale.it/milano/139866-rivolta.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261125T203000
+DTEND;TZID=Europe/Rome:20261125T223000
+SUMMARY:Una delle ultime sere di carnovale
+LOCATION:Piccolo Teatro Strehler
+DESCRIPTION:Goldoni diretto da Valerio Binasco: il congedo del commediograf
+ o da Venezia. https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-
+ sere-di-carnovale
+URL:https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-car
+ novale
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-uomini-si-diventa-nella-mente-di-un-femminicida@acculturiamo
+ ci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261125T203000
+DTEND;TZID=Europe/Rome:20261125T223000
+SUMMARY:Uomini si diventa. Nella mente di un femminicida
+LOCATION:Teatro Carcano
+DESCRIPTION:Reading con Alessio Boni e Omar Pedrini. Rassegna #25novembre. 
+ http://www.teatrocarcano.com/rassegne/25novembre-2627.htm
+URL:http://www.teatrocarcano.com/rassegne/25novembre-2627.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-solisti-aquilani-con-anna-tifu@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261125T204500
+DTEND;TZID=Europe/Rome:20261125T224500
+SUMMARY:Solisti Aquilani con Anna Tifu
+LOCATION:Conservatorio\, Sala Verdi
+DESCRIPTION:Società dei Concerti. https://www.mentelocale.it/milano/135021
+ -i-solisti-aquilani-tifu.htm
+URL:https://www.mentelocale.it/milano/135021-i-solisti-aquilani-tifu.htm
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-bobby@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Bobby
+LOCATION:Teatro Oscar
+DESCRIPTION:Regia di Giacomo Poretti. https://mentelocale.it/milano/eventi/
+URL:https://mentelocale.it/milano/eventi/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-liv-warfield@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:LiV Warfield
+LOCATION:Blue Note (via Borsieri 37)
+DESCRIPTION:La cantante soul-funk statunitense dal vivo. https://bluenotemi
+ lano.com/show/liv-warfield-25-novembre-2026-_-milano/
+URL:https://bluenotemilano.com/show/liv-warfield-25-novembre-2026-_-milano/
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-silvia-romani-e-federica-fracassi-sul-mito-antic@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Silvia Romani e Federica Fracassi sul mito antico
+LOCATION:Teatro Franco Parenti
+DESCRIPTION:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-p
+ rogramma-ospiti-temi-eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-la-messa-non-e-finita-il-sacro-all-epoca-del-dig@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261126T083000
+DTEND;TZID=Europe/Rome:20261126T103000
+SUMMARY:La messa non è finita. Il sacro all'epoca del digitale
+LOCATION:Statale\, via Festa del Perdono 3\, aula 211
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17513
+URL:https://work.unimi.it/eventir/registrazione?code=17513
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-le-sparizioni-forzate-in-america-latina@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261126T090000
+DTEND;TZID=Europe/Rome:20261126T110000
+SUMMARY:Le sparizioni forzate in America Latina
+LOCATION:Statale\, Scienze politiche\, via Conservatorio 7\, aula 12
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17528
+URL:https://work.unimi.it/eventir/registrazione?code=17528
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-100-copertine-di-futuro@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261126T110000
+DTEND;TZID=Europe/Rome:20261126T130000
+SUMMARY:100 copertine di futuro
+LOCATION:Fondazione Luigi Rovati
+DESCRIPTION:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/
+ appuntamenti/100-copertine-di-futuro/
+URL:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntam
+ enti/100-copertine-di-futuro/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-anti-illuminismo-nella-storia-e-oggi@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261126T180000
+DTEND;TZID=Europe/Rome:20261126T200000
+SUMMARY:Anti-illuminismo: nella storia e oggi
+LOCATION:Casa della Cultura (via Borgogna 3)
+DESCRIPTION:Decimo incontro del ciclo sulle correnti contro i Lumi\, ieri e
+  oggi. https://www.casadellacultura.it/casa-della-cultura-calendario.php
+URL:https://www.casadellacultura.it/casa-della-cultura-calendario.php
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-letture-e-note-al-museo-guido-cantelli@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261126T180000
+DTEND;TZID=Europe/Rome:20261126T200000
+SUMMARY:Letture e note al museo: Guido Cantelli
+LOCATION:Museo Teatrale alla Scala
+DESCRIPTION:https://www.teatroallascala.org/it/calendario.html
+URL:https://www.teatroallascala.org/it/calendario.html
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-hello-stranger-mostra-di-poesia@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261126T183000
+DTEND;TZID=Europe/Rome:20261126T203000
+SUMMARY:Hello stranger\, mostra di poesia
+LOCATION:Casa degli Artisti
+DESCRIPTION:Collettivo ARIMO. https://www.mentelocale.it/milano/145491-book
+ city-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-milena-gabanelli-e-simona-ravizza-la-resa-dei-co@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261126T183000
+DTEND;TZID=Europe/Rome:20261126T203000
+SUMMARY:Milena Gabanelli e Simona Ravizza\, La resa dei conti
+LOCATION:Castello Sforzesco\, Sala Viscontea
+DESCRIPTION:Due firme del giornalismo d'inchiesta sullo stesso palco. https
+ ://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-
+ temi-eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-io-sono-verticale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261126T193000
+DTEND;TZID=Europe/Rome:20261126T213000
+SUMMARY:Io sono verticale
+LOCATION:Teatro Elfo Puccini\, Sala Bausch
+DESCRIPTION:Francesca Astrei racconta la depressione da dentro e da chi sta
+  accanto. https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm
+URL:https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261126T193000
+DTEND;TZID=Europe/Rome:20261126T213000
+SUMMARY:Una delle ultime sere di carnovale
+LOCATION:Piccolo Teatro Strehler
+DESCRIPTION:Goldoni diretto da Valerio Binasco: il congedo del commediograf
+ o da Venezia. https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-
+ sere-di-carnovale
+URL:https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-car
+ novale
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-concerto-civile-giorgio-ambrosoli@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261126T200000
+DTEND;TZID=Europe/Rome:20261126T220000
+SUMMARY:Concerto civile Giorgio Ambrosoli
+LOCATION:Conservatorio\, Sala Verdi
+DESCRIPTION:Orchestra Sinfonica del Conservatorio\, dir. Alessandro Bombona
+ ti. https://www.consmi.it/en/events/page/5/
+URL:https://www.consmi.it/en/events/page/5/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-fabio-volo-quando-l-amore-ti-sorprende@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261126T200000
+DTEND;TZID=Europe/Rome:20261126T220000
+SUMMARY:Fabio Volo\, Quando l'amore ti sorprende
+LOCATION:Castello Sforzesco\, Sala Viscontea
+DESCRIPTION:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-p
+ rogramma-ospiti-temi-eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-human-brains-adolescenza-capire-mente-corpo-e-sa@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261126T200000
+DTEND;TZID=Europe/Rome:20261126T220000
+SUMMARY:Human Brains: Adolescenza\, capire mente\, corpo e salute
+LOCATION:Cinema Godard\, Fondazione Prada
+DESCRIPTION:Documentario Teenage Life Interrupted e lecture di un pediatra 
+ su mente e corpo. https://www.mentelocale.it/milano/139227-human-brains-sc
+ reen-talk-al-cinema-godard-incontri-e-proiezioni-su-neuroscienze-e-studi-s
+ ul-cervello-umano.htm
+URL:https://www.mentelocale.it/milano/139227-human-brains-screen-talk-al-ci
+ nema-godard-incontri-e-proiezioni-su-neuroscienze-e-studi-sul-cervello-uma
+ no.htm
+CATEGORIES:Psiche e salute
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-adelchi-con-roberto-trifiro@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261126T203000
+DTEND;TZID=Europe/Rome:20261126T223000
+SUMMARY:Adelchi con Roberto Trifirò
+LOCATION:Centro Culturale di Milano
+DESCRIPTION:La tragedia di Manzoni letta e interpretata da Roberto Trifirò
+ . https://www.centroculturaledimilano.it/teatro-societabradelchi-di-alessa
+ ndro-manzonibrcon-roberto-trifiro/
+URL:https://www.centroculturaledimilano.it/teatro-societabradelchi-di-aless
+ andro-manzonibrcon-roberto-trifiro/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-la-rivolta@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261126T203000
+DTEND;TZID=Europe/Rome:20261126T223000
+SUMMARY:La rivolta
+LOCATION:Teatro Leonardo (via Ampère 1)
+DESCRIPTION:Scritto e diretto da Corrado d'Elia. https://www.mentelocale.it
+ /milano/139866-rivolta.htm
+URL:https://www.mentelocale.it/milano/139866-rivolta.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-a-flauto-e-cembalo-milano-arte-musica@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:A flauto e cembalo (Milano Arte Musica)
+LOCATION:Sala Capitolare del Bergognone
+DESCRIPTION:Marco Scorticati e Davide Pozzi in un programma barocco per fla
+ uto e clavicembalo. https://www.mentelocale.it/milano/146894-flauto-cembal
+ o.htm
+URL:https://www.mentelocale.it/milano/146894-flauto-cembalo.htm
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-luca-barbarossa@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Luca Barbarossa
+LOCATION:Blue Note (via Borsieri 37)
+DESCRIPTION:Il cantautore romano in concerto in formato club. https://bluen
+ otemilano.com/show/concerto-luca-barbarossa-26-novembre-2026-milano/
+URL:https://bluenotemilano.com/show/concerto-luca-barbarossa-26-novembre-20
+ 26-milano/
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-milano-life-science-forum-prevenzione@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261127T093000
+DTEND;TZID=Europe/Rome:20261127T113000
+SUMMARY:Milano Life Science Forum: prevenzione
+LOCATION:Assolombarda (via Pantano 9)
+DESCRIPTION:Gratuito con iscrizione\, 9:30–13:00. https://www.assolombard
+ a.it/desk/life-sciences-desk-backup/appuntamenti/milano-life-science-forum
+ -2026-prevenzione-competitivita-e-innovazione-le-priorita-per-il-futuro-de
+ lle-scienze-della-vita-in-lombardia-e-in-europa/@@iscrizione-convegno
+URL:https://www.assolombarda.it/desk/life-sciences-desk-backup/appuntamenti
+ /milano-life-science-forum-2026-prevenzione-competitivita-e-innovazione-le
+ -priorita-per-il-futuro-delle-scienze-della-vita-in-lombardia-e-in-europa/
+ @@iscrizione-convegno
+CATEGORIES:Psiche e salute
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-campi-celle-ceneri-la-scrittura-palestinese@acculturiamoci.i
+ t
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261127T163000
+DTEND;TZID=Europe/Rome:20261127T183000
+SUMMARY:Campi\, celle\, ceneri: la scrittura palestinese
+LOCATION:Statale\, via Festa del Perdono 3\, aula 109
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17543
+URL:https://work.unimi.it/eventir/registrazione?code=17543
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-la-scala-dei-libri-francesco-filidei-e-silvia-le@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261127T173000
+DTEND;TZID=Europe/Rome:20261127T193000
+SUMMARY:La Scala dei libri: Francesco Filidei e Silvia Lelli
+LOCATION:Teatro alla Scala
+DESCRIPTION:BookCity. https://www.teatroallascala.org/it/calendario.html
+URL:https://www.teatroallascala.org/it/calendario.html
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-francesco-vezzoli-victoria-mater@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261127T180000
+DTEND;TZID=Europe/Rome:20261127T200000
+SUMMARY:Francesco Vezzoli\, Victoria Mater
+LOCATION:Fondazione Luigi Rovati
+DESCRIPTION:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/
+ appuntamenti/bookcity-milano-2026-3/
+URL:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntam
+ enti/bookcity-milano-2026-3/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-una-legge-elettorale-inaccettabile@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261127T180000
+DTEND;TZID=Europe/Rome:20261127T200000
+SUMMARY:Una legge elettorale inaccettabile
+LOCATION:Casa della Cultura (via Borgogna 3)
+DESCRIPTION:Costituzionalisti delle università milanesi spiegano le ragion
+ i di un ricorso. https://www.casadellacultura.it/casa-della-cultura-calend
+ ario.php
+URL:https://www.casadellacultura.it/casa-della-cultura-calendario.php
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-umberto-galimberti-l-illusione-della-liberta@acculturiamoci.
+ it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261127T183000
+DTEND;TZID=Europe/Rome:20261127T203000
+SUMMARY:Umberto Galimberti\, L'illusione della libertà
+LOCATION:Fondazione San Fedele
+DESCRIPTION:Quanto siamo davvero liberi? Galimberti prova a rispondere. htt
+ ps://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospit
+ i-temi-eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-vincenzo-latronico-work-in-progress@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261127T183000
+DTEND;TZID=Europe/Rome:20261127T203000
+SUMMARY:Vincenzo Latronico\, Work in progress
+LOCATION:Triennale\, Salone d'Onore
+DESCRIPTION:https://www.affaritaliani.it/milano/triennale-milano-due-serate
+ -tra-letteratura-e-arte-yasmina-reza-presenta-il-suo-nuovo-libro-omaggio-a
+ -john-berger-nel-centenario-della-nascita.html
+URL:https://www.affaritaliani.it/milano/triennale-milano-due-serate-tra-let
+ teratura-e-arte-yasmina-reza-presenta-il-suo-nuovo-libro-omaggio-a-john-be
+ rger-nel-centenario-della-nascita.html
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-io-sono-verticale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261127T190000
+DTEND;TZID=Europe/Rome:20261127T210000
+SUMMARY:Io sono verticale
+LOCATION:Teatro Elfo Puccini\, Sala Bausch
+DESCRIPTION:Francesca Astrei racconta la depressione da dentro e da chi sta
+  accanto. https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm
+URL:https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-beethoven-triplo-concerto-musorgskij-quadri@acculturiamoci.i
+ t
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261127T200000
+DTEND;TZID=Europe/Rome:20261127T220000
+SUMMARY:Beethoven Triplo concerto / Musorgskij Quadri
+LOCATION:Auditorium di Milano (largo Mahler)
+DESCRIPTION:Dir. Emmanuel Tjeknavorian. https://sinfonicadimilano.org/en/ev
+ enti/2026-27/beethoven-musorgskij
+URL:https://sinfonicadimilano.org/en/eventi/2026-27/beethoven-musorgskij
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-adelchi-con-roberto-trifiro@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261127T203000
+DTEND;TZID=Europe/Rome:20261127T223000
+SUMMARY:Adelchi con Roberto Trifirò
+LOCATION:Centro Culturale di Milano
+DESCRIPTION:La tragedia di Manzoni letta e interpretata da Roberto Trifirò
+ . https://www.centroculturaledimilano.it/teatro-societabradelchi-di-alessa
+ ndro-manzonibrcon-roberto-trifiro/
+URL:https://www.centroculturaledimilano.it/teatro-societabradelchi-di-aless
+ andro-manzonibrcon-roberto-trifiro/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-di-madre-in-figlia@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261127T203000
+DTEND;TZID=Europe/Rome:20261127T223000
+SUMMARY:Di madre in figlia
+LOCATION:Piccolo Teatro Grassi
+DESCRIPTION:Prima assoluta: tre generazioni di donne in scena. Concita De G
+ regorio in scena con tre generazioni di donne\; regia di Gaia Saitta. Prim
+ a assoluta. https://www.piccoloteatro.org/it/2026-2027/di-madre-in-figlia
+URL:https://www.piccoloteatro.org/it/2026-2027/di-madre-in-figlia
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-docufilm-sui-150-anni-del-corriere@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261127T203000
+DTEND;TZID=Europe/Rome:20261127T223000
+SUMMARY:Docufilm sui 150 anni del Corriere
+LOCATION:Fondazione Corriere della Sera
+DESCRIPTION:Con Neri Marcorè. https://www.mentelocale.it/milano/145491-boo
+ kcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-la-rivolta@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261127T203000
+DTEND;TZID=Europe/Rome:20261127T223000
+SUMMARY:La rivolta
+LOCATION:Teatro Leonardo (via Ampère 1)
+DESCRIPTION:Scritto e diretto da Corrado d'Elia. https://www.mentelocale.it
+ /milano/139866-rivolta.htm
+URL:https://www.mentelocale.it/milano/139866-rivolta.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261127T203000
+DTEND;TZID=Europe/Rome:20261127T223000
+SUMMARY:Una delle ultime sere di carnovale
+LOCATION:Piccolo Teatro Strehler
+DESCRIPTION:Goldoni diretto da Valerio Binasco: il congedo del commediograf
+ o da Venezia. https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-
+ sere-di-carnovale
+URL:https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-car
+ novale
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-e-tu-come-lo-sai-capire-la-scienza-per-decidere-@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:E tu\, come lo sai? Capire la scienza per decidere insieme
+LOCATION:Museo Scienza e Tecnologia
+DESCRIPTION:Con Amalia Ercoli Finzi e Paola Dubini. https://www.mentelocale
+ .it/milano/146478-bookcity-milano-2026-iniziative-e-incontri-al-museo-nazi
+ onale-scienza-e-tecnologia.htm
+URL:https://www.mentelocale.it/milano/146478-bookcity-milano-2026-iniziativ
+ e-e-incontri-al-museo-nazionale-scienza-e-tecnologia.htm
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-oltre-la-punizione-riparare-riannodare-rigenerar@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Oltre la punizione: riparare\, riannodare\, rigenerare
+LOCATION:Fondazione Feltrinelli
+DESCRIPTION:Adolfo Ceretti sulla giustizia riparativa. https://fondazionefe
+ ltrinelli.it/en/participate/
+URL:https://fondazionefeltrinelli.it/en/participate/
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-scrivere-per-resistere-premio-pen-inge-feltrinel@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Scrivere per resistere: Premio PEN Inge Feltrinelli
+LOCATION:Fondazione Feltrinelli
+DESCRIPTION:Con Burhan Sönmez e Paola Caridi. https://fondazionefeltrinell
+ i.it/en/participate/
+URL:https://fondazionefeltrinelli.it/en/participate/
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-the-legendary-johnny-o-neal-trio@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:The Legendary Johnny O'Neal Trio
+LOCATION:Blue Note (via Borsieri 37)
+DESCRIPTION:Il veterano del piano jazz americano in trio. https://bluenotem
+ ilano.com/show/the-legendary-johnny-o-neal-trio-27-novembre-2026-milano/
+URL:https://bluenotemilano.com/show/the-legendary-johnny-o-neal-trio-27-nov
+ embre-2026-milano/
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-masterclass-con-laura-citarella@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261128T100000
+DTEND;TZID=Europe/Rome:20261128T120000
+SUMMARY:Masterclass con Laura Citarella
+LOCATION:Auditorium San Fedele
+DESCRIPTION:La regista argentina di El Pampero Cine racconta il suo modo di
+  fare cinema. https://www.sanfedele.net/progetti/laura-citarella/
+URL:https://www.sanfedele.net/progetti/laura-citarella/
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-e-andata-cosi-lezione-di-cinema@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261128T103000
+DTEND;TZID=Europe/Rome:20261128T123000
+SUMMARY:È andata così: lezione di cinema
+LOCATION:Anteo Palazzo del Cinema
+DESCRIPTION:Gianni Zanasi con Michele Riondino e Valentina Lodovini raccont
+ ano il film. https://www.spaziocinema.info/milano/eventi-e-rassegne/e-anda
+ ta-cosi-lezione-di-cinema-con-il-regista-gianni-zanasi-michele-riondino-e-
+ valentina-lodovini
+URL:https://www.spaziocinema.info/milano/eventi-e-rassegne/e-andata-cosi-le
+ zione-di-cinema-con-il-regista-gianni-zanasi-michele-riondino-e-valentina-
+ lodovini
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-aldo-cazzullo-il-nostro-rinascimento@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261128T110000
+DTEND;TZID=Europe/Rome:20261128T130000
+SUMMARY:Aldo Cazzullo\, Il nostro rinascimento
+LOCATION:Piccolo Teatro Strehler
+DESCRIPTION:La storia d'Italia raccontata come un romanzo. https://www.ment
+ elocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi
+ -da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-laura-pepe-storia-non-convenzionale-delle-donne-@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261128T113000
+DTEND;TZID=Europe/Rome:20261128T133000
+SUMMARY:Laura Pepe\, Storia non convenzionale delle donne di Grecia
+LOCATION:Fondazione Luigi Rovati
+DESCRIPTION:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/
+ appuntamenti/bookcity-milano-2026-4/
+URL:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntam
+ enti/bookcity-milano-2026-4/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-dario-biagi-vita-di-cagnaccio-di-san-pietro@acculturiamoci.i
+ t
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261128T150000
+DTEND;TZID=Europe/Rome:20261128T170000
+SUMMARY:Dario Biagi\, vita di Cagnaccio di San Pietro
+LOCATION:Fondazione Luigi Rovati
+DESCRIPTION:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/
+ appuntamenti/bookcity-milano-2026-5/
+URL:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntam
+ enti/bookcity-milano-2026-5/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-ermanno-cavazzoni-saro-breve@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261128T170000
+DTEND;TZID=Europe/Rome:20261128T190000
+SUMMARY:Ermanno Cavazzoni\, Sarò breve
+LOCATION:Ambrosius\, Oratorio della Passione
+DESCRIPTION:Lezione su come si scrive un racconto. https://www.mentelocale.
+ it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-
+ perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-fernando-aramburu-presenta-maite@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:Fernando Aramburu presenta Maite
+LOCATION:Castello Sforzesco\, Sala Viscontea
+DESCRIPTION:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-p
+ rogramma-ospiti-temi-eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-filosofia-dell-amicizia@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:Filosofia dell'amicizia
+LOCATION:Fondazione Feltrinelli\, Sala Lettura
+DESCRIPTION:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-p
+ rogramma-ospiti-temi-eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-inaugurazione-anno-accademico-del-conservatorio@acculturiamo
+ ci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:Inaugurazione anno accademico del Conservatorio
+LOCATION:Conservatorio\, Sala Verdi
+DESCRIPTION:Concerto orchestrale. https://www.consmi.it/en/events/page/5/
+URL:https://www.consmi.it/en/events/page/5/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-la-scala-dei-libri-a-dirci-le-cose-chiare-don-gi@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:La Scala dei libri: A dirci le cose chiare\, Don Giovanni
+LOCATION:Teatro alla Scala
+DESCRIPTION:BookCity. https://www.teatroallascala.org/it/calendario.html
+URL:https://www.teatroallascala.org/it/calendario.html
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-di-madre-in-figlia@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261128T193000
+DTEND;TZID=Europe/Rome:20261128T213000
+SUMMARY:Di madre in figlia
+LOCATION:Piccolo Teatro Grassi
+DESCRIPTION:Concita De Gregorio in scena con tre generazioni di donne\; reg
+ ia di Gaia Saitta. Prima assoluta. https://www.piccoloteatro.org/it/2026-2
+ 027/di-madre-in-figlia
+URL:https://www.piccoloteatro.org/it/2026-2027/di-madre-in-figlia
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-io-sono-verticale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261128T193000
+DTEND;TZID=Europe/Rome:20261128T213000
+SUMMARY:Io sono verticale
+LOCATION:Teatro Elfo Puccini\, Sala Bausch
+DESCRIPTION:Francesca Astrei racconta la depressione da dentro e da chi sta
+  accanto. https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm
+URL:https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261128T193000
+DTEND;TZID=Europe/Rome:20261128T213000
+SUMMARY:Una delle ultime sere di carnovale
+LOCATION:Piccolo Teatro Strehler
+DESCRIPTION:Goldoni diretto da Valerio Binasco: il congedo del commediograf
+ o da Venezia. https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-
+ sere-di-carnovale
+URL:https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-car
+ novale
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-la-rivolta@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261128T203000
+DTEND;TZID=Europe/Rome:20261128T223000
+SUMMARY:La rivolta
+LOCATION:Teatro Leonardo (via Ampère 1)
+DESCRIPTION:Scritto e diretto da Corrado d'Elia. https://www.mentelocale.it
+ /milano/139866-rivolta.htm
+URL:https://www.mentelocale.it/milano/139866-rivolta.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-stai-zitta@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261128T203000
+DTEND;TZID=Europe/Rome:20261128T223000
+SUMMARY:Stai zitta!
+LOCATION:Teatro Carcano
+DESCRIPTION:Dal libro di Michela Murgia\, con Antonella Questa\, Valentina 
+ Melis\, Letizia Bravi. https://www.mentelocale.it/milano/129771-stai-zitta
+ .htm
+URL:https://www.mentelocale.it/milano/129771-stai-zitta.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-100-anni-di-allen-ginsberg@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:100 anni di Allen Ginsberg
+LOCATION:Casa degli Artisti
+DESCRIPTION:Con Lino Guanciale. https://www.mentelocale.it/milano/145491-bo
+ okcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-bff-books-friends-forever@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:BFF – Books Friends Forever
+LOCATION:BASE Milano
+DESCRIPTION:Anche il 29. Gratuito. Con Cecilia Sala\, Felicia Kingsley e al
+ tri. https://www.mentelocale.it/milano/145491-bookcity-milano-2026-program
+ ma-ospiti-temi-eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-il-verde-e-il-nero@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Il verde e il nero
+LOCATION:Fondazione Feltrinelli
+DESCRIPTION:Manuela Caiani e Sergio Labate. https://fondazionefeltrinelli.i
+ t/en/participate/
+URL:https://fondazionefeltrinelli.it/en/participate/
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-jazzanova-live-feat-wayne-snow@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Jazzanova live feat. Wayne Snow
+LOCATION:Blue Note (via Borsieri 37)
+DESCRIPTION:Il collettivo berlinese di nu-jazz e soul con la voce di Wayne 
+ Snow. https://bluenotemilano.com/show/concerto-jazzanova-live-feat-wayne-s
+ now-28-novembre-2026-milano/
+URL:https://bluenotemilano.com/show/concerto-jazzanova-live-feat-wayne-snow
+ -28-novembre-2026-milano/
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-la-forza-biologica-della-cultura@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:La forza biologica della cultura
+LOCATION:Museo Scienza e Tecnologia
+DESCRIPTION:Modera Armando Massarenti. https://www.mentelocale.it/milano/14
+ 6478-bookcity-milano-2026-iniziative-e-incontri-al-museo-nazionale-scienza
+ -e-tecnologia.htm
+URL:https://www.mentelocale.it/milano/146478-bookcity-milano-2026-iniziativ
+ e-e-incontri-al-museo-nazionale-scienza-e-tecnologia.htm
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-programma-philo-a-bookcity@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Programma Philo a BookCity
+LOCATION:Philo – Pratiche filosofiche (via Piranesi 12)
+DESCRIPTION:In presenza e su Zoom\, gratuito. https://www.scuolaphilo.it/ev
+ ento-philo/bookcity2026_202610261835/
+URL:https://www.scuolaphilo.it/evento-philo/bookcity2026_202610261835/
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-saint-nicolas-di-britten@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Saint Nicolas di Britten
+LOCATION:Chiesa di Santa Francesca Romana
+DESCRIPTION:La cantata di Britten con Intende Voci Chorus e Orchestra da Ca
+ mera Canova. https://www.mentelocale.it/milano/144839-saint-nicolas.htm
+URL:https://www.mentelocale.it/milano/144839-saint-nicolas.htm
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-trio-david-con-emanuele-orsini@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Trio David con Emanuele Orsini
+LOCATION:Villa Necchi Campiglio
+DESCRIPTION:Musica da camera nella rassegna Musica a Villa Necchi. https://
+ www.mentelocale.it/milano/132574-trio-david-orsini.htm
+URL:https://www.mentelocale.it/milano/132574-trio-david-orsini.htm
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-visite-e-laboratori-per-famiglie@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Visite e laboratori per famiglie
+LOCATION:Museo Bagatti Valsecchi
+DESCRIPTION:https://mentelocale.it/milano/eventi/
+URL:https://mentelocale.it/milano/eventi/
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-bookcity-0-6@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T110000
+DTEND;TZID=Europe/Rome:20261129T130000
+SUMMARY:BookCity 0-6
+LOCATION:Fondazione Luigi Rovati
+DESCRIPTION:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/
+ appuntamenti/bookcity-milano-2026-6/
+URL:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntam
+ enti/bookcity-milano-2026-6/
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-pupi-avati-il-gotico-padano-e-il-cinema@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T110000
+DTEND;TZID=Europe/Rome:20261129T130000
+SUMMARY:Pupi Avati: il gotico padano e il cinema
+LOCATION:Anteo Palazzo del Cinema
+DESCRIPTION:Il maestro del gotico padano racconta il suo cinema. https://ww
+ w.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-
+ eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-tjeknavorian-e-i-solisti-della-sinfonica-bartok-@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T110000
+DTEND;TZID=Europe/Rome:20261129T130000
+SUMMARY:Tjeknavorian e i Solisti della Sinfonica: Bartók\, Schubert
+LOCATION:Teatro Gerolamo
+DESCRIPTION:Musica da camera. https://sinfonicadimilano.org/en/eventi/2026-
+ 27/bartok-hermann-schubert
+URL:https://sinfonicadimilano.org/en/eventi/2026-27/bartok-hermann-schubert
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-buon-compleanno-gus@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T113000
+DTEND;TZID=Europe/Rome:20261129T133000
+SUMMARY:Buon compleanno Gus!
+LOCATION:BASE Milano\, Ground Hall
+DESCRIPTION:Concerto narrato per bambini con i giovani ensemble della Sinfo
+ nica: Haydn\, Händel\, Beethoven. https://www.sinfonicadimilano.org/it/ev
+ enti/2026-27/uon-compleanno-gus-
+URL:https://www.sinfonicadimilano.org/it/eventi/2026-27/uon-compleanno-gus-
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-zerocalcare-dove-andiamo-da-qui-zero@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T120000
+DTEND;TZID=Europe/Rome:20261129T140000
+SUMMARY:Zerocalcare\, Dove andiamo da qui\, Zero?
+LOCATION:Piccolo Teatro Strehler
+DESCRIPTION:Zerocalcare dal vivo: conviene arrivare presto. https://www.men
+ telocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-event
+ i-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-io-sono-verticale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T153000
+DTEND;TZID=Europe/Rome:20261129T173000
+SUMMARY:Io sono verticale
+LOCATION:Teatro Elfo Puccini\, Sala Bausch
+DESCRIPTION:Francesca Astrei racconta la depressione da dentro e da chi sta
+  accanto. https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm
+URL:https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-beethoven-triplo-concerto-musorgskij-quadri@acculturiamoci.i
+ t
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T160000
+DTEND;TZID=Europe/Rome:20261129T180000
+SUMMARY:Beethoven Triplo concerto / Musorgskij Quadri
+LOCATION:Auditorium di Milano (largo Mahler)
+DESCRIPTION:Replica. https://sinfonicadimilano.org/en/eventi/2026-27/beetho
+ ven-musorgskij
+URL:https://sinfonicadimilano.org/en/eventi/2026-27/beethoven-musorgskij
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-di-madre-in-figlia@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T160000
+DTEND;TZID=Europe/Rome:20261129T180000
+SUMMARY:Di madre in figlia
+LOCATION:Piccolo Teatro Grassi
+DESCRIPTION:Concita De Gregorio in scena con tre generazioni di donne\; reg
+ ia di Gaia Saitta. Prima assoluta. https://www.piccoloteatro.org/it/2026-2
+ 027/di-madre-in-figlia
+URL:https://www.piccoloteatro.org/it/2026-2027/di-madre-in-figlia
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T160000
+DTEND;TZID=Europe/Rome:20261129T180000
+SUMMARY:Una delle ultime sere di carnovale
+LOCATION:Piccolo Teatro Strehler
+DESCRIPTION:Goldoni diretto da Valerio Binasco: il congedo del commediograf
+ o da Venezia. https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-
+ sere-di-carnovale
+URL:https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-car
+ novale
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-alicia-gimenez-bartlett-sotto-il-cielo-infernale@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T163000
+DTEND;TZID=Europe/Rome:20261129T183000
+SUMMARY:Alicia Giménez-Bartlett\, Sotto il cielo infernale
+LOCATION:Castello Sforzesco\, Sala Viscontea
+DESCRIPTION:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-p
+ rogramma-ospiti-temi-eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-la-rivolta@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T163000
+DTEND;TZID=Europe/Rome:20261129T183000
+SUMMARY:La rivolta
+LOCATION:Teatro Leonardo (via Ampère 1)
+DESCRIPTION:Scritto e diretto da Corrado d'Elia. https://www.mentelocale.it
+ /milano/139866-rivolta.htm
+URL:https://www.mentelocale.it/milano/139866-rivolta.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-stai-zitta@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T163000
+DTEND;TZID=Europe/Rome:20261129T183000
+SUMMARY:Stai zitta!
+LOCATION:Teatro Carcano
+DESCRIPTION:Dal libro di Michela Murgia. https://www.mentelocale.it/milano/
+ 129771-stai-zitta.htm
+URL:https://www.mentelocale.it/milano/129771-stai-zitta.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-don-giovanni-in-versione-opera-breve@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T170000
+DTEND;TZID=Europe/Rome:20261129T190000
+SUMMARY:Don Giovanni in versione Opera Breve
+LOCATION:Teatro PIME (via Mosè Bianchi 94)
+DESCRIPTION:Il capolavoro di Mozart condensato in circa un'ora\, con musica
+  dal vivo e scenografie costruite dai ragazzi del Beccaria. https://www.me
+ ntelocale.it/milano/147740-don-giovanni-al-teatro-pime-di-milano-mozart-in
+ -versione-opera-breve-con-le-scenografie-dei-ragazzi-del-beccaria.htm
+URL:https://www.mentelocale.it/milano/147740-don-giovanni-al-teatro-pime-di
+ -milano-mozart-in-versione-opera-breve-con-le-scenografie-dei-ragazzi-del-
+ beccaria.htm
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-chiusura-bookcity-samantha-harvey-e-paolo-giorda@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T200000
+DTEND;TZID=Europe/Rome:20261129T220000
+SUMMARY:Chiusura BookCity: Samantha Harvey e Paolo Giordano
+LOCATION:Teatro Franco Parenti\, Sala Grande
+DESCRIPTION:Una vincitrice del Booker e Paolo Giordano chiudono BookCity. D
+ allo spazio profondo al cuore della Terra. https://www.mentelocale.it/mila
+ no/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere
+ .htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-filarmonica-della-scala-dir-timothy-brock@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T200000
+DTEND;TZID=Europe/Rome:20261129T220000
+SUMMARY:Filarmonica della Scala\, dir. Timothy Brock
+LOCATION:Teatro alla Scala
+DESCRIPTION:https://www.teatroallascala.org/it/calendario.html
+URL:https://www.teatroallascala.org/it/calendario.html
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-gli-elfi-di-babbo-natale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Gli elfi di Babbo Natale
+LOCATION:Teatro Carcano
+DESCRIPTION:Spettacolo natalizio per bambini della rassegna Fantateatro. ht
+ tps://www.teatrocarcano.com/eventi/2026-2027/gli-elfi-di-babbo-natale-2627
+ .htm
+URL:https://www.teatrocarcano.com/eventi/2026-2027/gli-elfi-di-babbo-natale
+ -2627.htm
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-tom-s-family-back-in-town@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Tom's Family – Back in Town!
+LOCATION:Blue Note (via Borsieri 37)
+DESCRIPTION:Ritorno sul palco di via Borsieri per la band Tom's Family. htt
+ ps://bluenotemilano.com/show/concerto-toms-family-29-novembre-2026-milano/
+URL:https://bluenotemilano.com/show/concerto-toms-family-29-novembre-2026-m
+ ilano/
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-noir-in-festival-josephine-di-beth-de-araujo@acculturiamoci.
+ it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261130T183000
+DTEND;TZID=Europe/Rome:20261130T203000
+SUMMARY:Noir in Festival: Josephine di Beth De Araujo
+LOCATION:Anteo Palazzo del Cinema
+DESCRIPTION:Apertura del concorso della 36ª edizione del Noir in Festival.
+  https://www.spaziocinema.info/milano/eventi-e-rassegne/36deg-noir-in-fest
+ ival
+URL:https://www.spaziocinema.info/milano/eventi-e-rassegne/36deg-noir-in-fe
+ stival
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-l-eterna-illusione-da-broadway-a-hollywood@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261130T193000
+DTEND;TZID=Europe/Rome:20261130T213000
+SUMMARY:L'eterna illusione: da Broadway a Hollywood
+LOCATION:Anteo Palazzo del Cinema
+DESCRIPTION:Nuovo appuntamento della rassegna sul musical tra palco e scher
+ mo. https://www.spaziocinema.info/milano/eventi-e-rassegne/l2019eterna-ill
+ usione-da-broadway-a-hollywood
+URL:https://www.spaziocinema.info/milano/eventi-e-rassegne/l2019eterna-illu
+ sione-da-broadway-a-hollywood
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-il-canto-di-orfeo-inner-spaces@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261130T203000
+DTEND;TZID=Europe/Rome:20261130T223000
+SUMMARY:Il canto di Orfeo (INNER_SPACES)
+LOCATION:Chiesa di San Fedele
+DESCRIPTION:Sacra rappresentazione con musiche di Arvo Pärt\, Ars Discanti
+ ca e l'elettronica di Robert Lippok\; dirige Gianluca Capuano. https://www
+ .centrosanfedele.net/musica/inner-spaces-autunnale-2026/
+URL:https://www.centrosanfedele.net/musica/inner-spaces-autunnale-2026/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-il-grande-gioco-dell-ai@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261130T203000
+DTEND;TZID=Europe/Rome:20261130T223000
+SUMMARY:Il grande gioco dell'AI
+LOCATION:Teatro Carcano
+DESCRIPTION:Paolo Colombo e Sergio Amati ripercorrono la storia del calcolo
+ \, da Turing a Deep Blue. https://www.mentelocale.it/milano/129756-follow-
+ the-monday-history-telling-il-grande-gioco-dell-ai-storie-di-intelligenze-
+ umane-e-artificiali.htm
+URL:https://www.mentelocale.it/milano/129756-follow-the-monday-history-tell
+ ing-il-grande-gioco-dell-ai-storie-di-intelligenze-umane-e-artificiali.htm
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-orchestra-dell-universita-bicocca-vivaldi-bach-p@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261130T203000
+DTEND;TZID=Europe/Rome:20261130T223000
+SUMMARY:Orchestra dell'Università Bicocca: Vivaldi\, Bach\, Pleyel
+LOCATION:Chiesa del Sacro Volto (via Sebenico 31)
+DESCRIPTION:Concerto in chiesa\, all'Isola. https://www.unimib.it/node/3923
+ 5
+URL:https://www.unimib.it/node/39235
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-fabrizio-meloni-e-mari-fujino@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261130T204500
+DTEND;TZID=Europe/Rome:20261130T224500
+SUMMARY:Fabrizio Meloni e Mari Fujino
+LOCATION:Conservatorio\, Sala Verdi
+DESCRIPTION:Il primo clarinetto della Scala in duo con il pianoforte (Serat
+ e Musicali). https://www.seratemusicali.it/clarinetto-fabrizio-meloni-pian
+ oforte-mari-fujino
+URL:https://www.seratemusicali.it/clarinetto-fabrizio-meloni-pianoforte-mar
+ i-fujino
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-alessandro-cattelan-benvenuto-nell-ai@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261130T210000
+DTEND;TZID=Europe/Rome:20261130T230000
+SUMMARY:Alessandro Cattelan\, Benvenuto nell'AI!
+LOCATION:Teatro Lirico Giorgio Gaber (via Larga 14)
+DESCRIPTION:One man show. https://www.mentelocale.it/milano/133146-alessand
+ ro-cattelan-benvenuto-nell-ai.htm
+URL:https://www.mentelocale.it/milano/133146-alessandro-cattelan-benvenuto-
+ nell-ai.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-noir-in-festival-the-blood-countess-di-ulrike-ot@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261130T213000
+DTEND;TZID=Europe/Rome:20261130T233000
+SUMMARY:Noir in Festival: The Blood Countess di Ulrike Ottinger
+LOCATION:Anteo Palazzo del Cinema
+DESCRIPTION:Un film raro sul grande schermo\, con Isabelle Huppert annuncia
+ ta in sala. Fuori concorso alla 36ª edizione del festival\, con Isabelle 
+ Huppert annunciata in sala. https://www.spaziocinema.info/milano/eventi-e-
+ rassegne/36deg-noir-in-festival
+URL:https://www.spaziocinema.info/milano/eventi-e-rassegne/36deg-noir-in-fe
+ stival
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-curae-2026-non-ti-pago-apertura@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Curae 2026: Non ti pago (apertura)
+LOCATION:Teatro Puntozero Beccaria (via Calchi Taeggi 20)
+DESCRIPTION:Si apre il festival delle arti performative nate negli istituti
+  penali minorili: Eduardo recitato dai ragazzi dell'IPM di Catanzaro. http
+ s://www.mentelocale.it/milano/147779-curae-2026-a-milano-il-festival-di-ar
+ ti-performative-sviluppate-negli-istituti-penali-per-i-minorenni.htm
+URL:https://www.mentelocale.it/milano/147779-curae-2026-a-milano-il-festiva
+ l-di-arti-performative-sviluppate-negli-istituti-penali-per-i-minorenni.ht
+ m
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-noir-in-festival-mi-amor-di-guillaume-nicloux@acculturiamoci
+ .it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261201T190000
+DTEND;TZID=Europe/Rome:20261201T210000
+SUMMARY:Noir in Festival: Mi Amor di Guillaume Nicloux
+LOCATION:Anteo Palazzo del Cinema
+DESCRIPTION:Film in concorso\, con il regista atteso in sala. https://www.s
+ paziocinema.info/milano/eventi-e-rassegne/36deg-noir-in-festival
+URL:https://www.spaziocinema.info/milano/eventi-e-rassegne/36deg-noir-in-fe
+ stival
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-di-madre-in-figlia@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261201T193000
+DTEND;TZID=Europe/Rome:20261201T213000
+SUMMARY:Di madre in figlia
+LOCATION:Piccolo Teatro Grassi
+DESCRIPTION:Concita De Gregorio in scena con tre generazioni di donne\; reg
+ ia di Gaia Saitta. Prima assoluta. https://www.piccoloteatro.org/it/2026-2
+ 027/di-madre-in-figlia
+URL:https://www.piccoloteatro.org/it/2026-2027/di-madre-in-figlia
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-giuseppe-il-padre-putativo-anteprima-under-30@acculturiamoci
+ .it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261201T193000
+DTEND;TZID=Europe/Rome:20261201T213000
+SUMMARY:Giuseppe: il padre putativo (anteprima under 30)
+LOCATION:Teatro Elfo Puccini\, Sala Bausch
+DESCRIPTION:Un padre di oggi tra desiderio e responsabilità\; testo di Luc
+ a Cardetta\, con Michele Di Giacomo. https://www.elfo.org/spettacoli/2026-
+ 2027/giuseppe-padre-putativo-under30.htm
+URL:https://www.elfo.org/spettacoli/2026-2027/giuseppe-padre-putativo-under
+ 30.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-ettore-pagano-e-maximilian-kromer@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261201T203000
+DTEND;TZID=Europe/Rome:20261201T223000
+SUMMARY:Ettore Pagano e Maximilian Kromer
+LOCATION:Conservatorio\, Sala Verdi
+DESCRIPTION:Il giovane violoncellista con il pianoforte di Kromer\, per la 
+ Società del Quartetto. https://www.quartettomilano.it/event-item/ettore-p
+ agano-maximilian-kromer/
+URL:https://www.quartettomilano.it/event-item/ettore-pagano-maximilian-krom
+ er/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-la-bibbia-che-non-ti-aspetti-con-giorgio-marches@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261201T203000
+DTEND;TZID=Europe/Rome:20261201T223000
+SUMMARY:La Bibbia che non ti aspetti\, con Giorgio Marchesi
+LOCATION:Teatro Oscar (via Lattanzio 58a)
+DESCRIPTION:Prima serata della rassegna su testi biblici e memoria cultural
+ e. https://www.mentelocale.it/milano/128380-la-bibbia-che-non-ti-aspetti-1
+ -con-giorgio-marchesi.htm
+URL:https://www.mentelocale.it/milano/128380-la-bibbia-che-non-ti-aspetti-1
+ -con-giorgio-marchesi.htm
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-la-storia-a-processo-oriana-fallaci@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261201T203000
+DTEND;TZID=Europe/Rome:20261201T223000
+SUMMARY:La Storia a Processo: Oriana Fallaci
+LOCATION:Teatro Filodrammatici
+DESCRIPTION:Processo simulato a Oriana Fallaci con magistrati veri e il pub
+ blico come giuria. https://www.mentelocale.it/milano/138248-colpevoli-inno
+ centi-secondo-incontro.htm
+URL:https://www.mentelocale.it/milano/138248-colpevoli-innocenti-secondo-in
+ contro.htm
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-noir-in-festival-l-ombra-e-dark-vertigo@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261201T213000
+DTEND;TZID=Europe/Rome:20261201T233000
+SUMMARY:Noir in Festival: L'Ombra e Dark Vertigo
+LOCATION:Anteo Palazzo del Cinema
+DESCRIPTION:Anteprima della serie Rai con Luigi Lo Cascio\, poi il film di 
+ Giancarlo Soldi. https://www.spaziocinema.info/milano/eventi-e-rassegne/36
+ deg-noir-in-festival
+URL:https://www.spaziocinema.info/milano/eventi-e-rassegne/36deg-noir-in-fe
+ stival
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-curae-2026-ai-will-shakespeare@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Curae 2026: AI Will Shakespeare
+LOCATION:Teatro Puntozero Beccaria (via Calchi Taeggi 20)
+DESCRIPTION:La Compagnia Puntozero presenta il primo studio di un lavoro ch
+ e incrocia Shakespeare e intelligenza artificiale. https://www.mentelocale
+ .it/milano/147779-curae-2026-a-milano-il-festival-di-arti-performative-svi
+ luppate-negli-istituti-penali-per-i-minorenni.htm
+URL:https://www.mentelocale.it/milano/147779-curae-2026-a-milano-il-festiva
+ l-di-arti-performative-sviluppate-negli-istituti-penali-per-i-minorenni.ht
+ m
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-spose-del-vento@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Spose del vento
+LOCATION:Pacta Salone (via Ulisse Dini 7)
+DESCRIPTION:Elisa Baio e Giuseppe Guerrieri in scena. https://www.menteloca
+ le.it/milano/139807-spose-vento.htm
+URL:https://www.mentelocale.it/milano/139807-spose-vento.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-federico-nicoletta-ti-va-di-ballare@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261202T170000
+DTEND;TZID=Europe/Rome:20261202T190000
+SUMMARY:Federico Nicoletta\, Ti va di ballare?
+LOCATION:Conservatorio\, Sala Verdi
+DESCRIPTION:Recital pianistico sul valzer: Brahms op. 39\, Liszt dalle Soir
+ ées de Vienne e La valse di Ravel (Società dei Concerti\, Serie Zaffiro)
+ . https://www.mentelocale.it/milano/135005-federico-nicoletta.htm
+URL:https://www.mentelocale.it/milano/135005-federico-nicoletta.htm
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-c-e-ancora-posto-per-l-universita@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261202T173000
+DTEND;TZID=Europe/Rome:20261202T193000
+SUMMARY:C'è ancora posto per l'università?
+LOCATION:Centro Culturale di Milano (largo Corsia dei Servi 4)
+DESCRIPTION:Incontro del ciclo Cultura e società in un tempo di cambiament
+ o sul ruolo dell'università oggi. https://www.centroculturaledimilano.it/
+ cultura-e-societa-in-un-tempo-di-cambiamento-ce-ancora-posto-per-luniversi
+ ta/
+URL:https://www.centroculturaledimilano.it/cultura-e-societa-in-un-tempo-di
+ -cambiamento-ce-ancora-posto-per-luniversita/
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-noir-in-festival-found-alive-di-carlota-pereda@acculturiamoc
+ i.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261202T190000
+DTEND;TZID=Europe/Rome:20261202T210000
+SUMMARY:Noir in Festival: Found Alive di Carlota Pereda
+LOCATION:Anteo Palazzo del Cinema
+DESCRIPTION:Film in concorso al festival del noir\, con la regista in sala.
+  https://www.spaziocinema.info/milano/eventi-e-rassegne/36deg-noir-in-fest
+ ival
+URL:https://www.spaziocinema.info/milano/eventi-e-rassegne/36deg-noir-in-fe
+ stival
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-con-la-colpa-in-mente-tra-responsabilita-e-ripar@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261202T203000
+DTEND;TZID=Europe/Rome:20261202T223000
+SUMMARY:Con la colpa in mente\, tra responsabilità e riparazione
+LOCATION:Teatro Oscar (via Lattanzio 58a)
+DESCRIPTION:Serata finale del Teatro della Mente di Daniela Cristofori: la 
+ colpa vista dalla psicologia e dalla giustizia riparativa\, con Claudia Ma
+ zzucato. https://www.mentelocale.it/milano/128357-teatro-della-mente-3-la-
+ colpa.htm
+URL:https://www.mentelocale.it/milano/128357-teatro-della-mente-3-la-colpa.
+ htm
+CATEGORIES:Psiche e salute
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-paul-lewis-mozart@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261202T204500
+DTEND;TZID=Europe/Rome:20261202T224500
+SUMMARY:Paul Lewis\, Mozart+
+LOCATION:Conservatorio\, Sala Verdi
+DESCRIPTION:Uno dei grandi pianisti di oggi\, tra Mozart\, Schubert e Chopi
+ n. Il pianista inglese tra due sonate di Mozart\, i Klavierstücke D.946 d
+ i Schubert e pagine di Chopin (Società dei Concerti\, Serie Smeraldo). ht
+ tps://www.mentelocale.it/milano/135022-paul-lewis.htm
+URL:https://www.mentelocale.it/milano/135022-paul-lewis.htm
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-i-virtuosi-del-teatro-alla-scala-per-vidas@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261202T210000
+DTEND;TZID=Europe/Rome:20261202T230000
+SUMMARY:I Virtuosi del Teatro alla Scala per Vidas
+LOCATION:Teatro alla Scala
+DESCRIPTION:Concerto benefico per la Casa Sollievo Bimbi: Sinfonia dei gioc
+ attoli\, Boccherini La casa del diavolo e Mozart K 522. https://www.teatro
+ allascala.org/it/calendario.html
+URL:https://www.teatroallascala.org/it/calendario.html
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-noir-in-festival-furies-di-rami-kodeih@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261202T213000
+DTEND;TZID=Europe/Rome:20261202T233000
+SUMMARY:Noir in Festival: Furies di Rami Kodeih
+LOCATION:Anteo Palazzo del Cinema
+DESCRIPTION:Film libanese-brasiliano in concorso al festival del noir. http
+ s://www.spaziocinema.info/milano/eventi-e-rassegne/36deg-noir-in-festival
+URL:https://www.spaziocinema.info/milano/eventi-e-rassegne/36deg-noir-in-fe
+ stival
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-curae-2026-portami-la-fuori@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Curae 2026: Portami là fuori
+LOCATION:Teatro Puntozero Beccaria (via Calchi Taeggi 20)
+DESCRIPTION:Teatro e musica con giovani degli IPM di Acireale\, Airola e Qu
+ artucciu. https://www.mentelocale.it/milano/147779-curae-2026-a-milano-il-
+ festival-di-arti-performative-sviluppate-negli-istituti-penali-per-i-minor
+ enni.htm
+URL:https://www.mentelocale.it/milano/147779-curae-2026-a-milano-il-festiva
+ l-di-arti-performative-sviluppate-negli-istituti-penali-per-i-minorenni.ht
+ m
+CATEGORIES:Teatro
+END:VEVENT
+END:VCALENDAR

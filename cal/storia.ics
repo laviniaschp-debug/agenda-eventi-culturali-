@@ -1,0 +1,324 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci · Arte e storia
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-22-edmund-de-waal-come-cominciare@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261122T160000
+DTEND;TZID=Europe/Rome:20261122T180000
+SUMMARY:Edmund de Waal\, Come cominciare
+LOCATION:Fondazione Luigi Rovati
+DESCRIPTION:BookCity. https://www.fondazioneluigirovati.org/it/appuntamenti
+ -e-mostre/appuntamenti/bookcity-milano-2026/
+URL:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntam
+ enti/bookcity-milano-2026/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-dalla-preistoria-ad-oggi-il-viaggio-di-emilio-se@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T123000
+DTEND;TZID=Europe/Rome:20261123T143000
+SUMMARY:Dalla preistoria ad oggi: il viaggio di Emilio Sereni
+LOCATION:Statale\, via Sant'Antonio 5\, aula 1
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17553
+URL:https://work.unimi.it/eventir/registrazione?code=17553
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-il-senno-del-giudizio-storia-della-giustizia-nel@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T123000
+DTEND;TZID=Europe/Rome:20261123T143000
+SUMMARY:Il senno del giudizio. Storia della giustizia nell'Italia repubblic
+ ana
+LOCATION:Statale\, via Festa del Perdono 3\, aula 410
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17568
+URL:https://work.unimi.it/eventir/registrazione?code=17568
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-i-misteri-d-italia-1974-la-strage-di-brescia@acculturiamoci.
+ it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T163000
+DTEND;TZID=Europe/Rome:20261123T183000
+SUMMARY:I misteri d'Italia: 1974\, la strage di Brescia
+LOCATION:Statale\, via Festa del Perdono 3\, aula 102
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17540
+URL:https://work.unimi.it/eventir/registrazione?code=17540
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-milano-nella-storia-da-capitale-imperiale-a-metr@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T180000
+DTEND;TZID=Europe/Rome:20261123T200000
+SUMMARY:Milano nella storia: da capitale imperiale a metropoli
+LOCATION:Casa della Cultura (via Borgogna 3)
+DESCRIPTION:Quarto incontro del ciclo sulla storia della città\; anche in 
+ streaming. https://www.casadellacultura.it/casa-della-cultura-calendario.p
+ hp
+URL:https://www.casadellacultura.it/casa-della-cultura-calendario.php
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-milo-manara-l-erotismo-nell-arte-e-nella-lettera@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T183000
+DTEND;TZID=Europe/Rome:20261123T203000
+SUMMARY:Milo Manara: l'erotismo nell'arte e nella letteratura
+LOCATION:Centro Internazionale di Brera
+DESCRIPTION:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-p
+ rogramma-ospiti-temi-eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-la-ragione-di-orlando-come-il-medioevo-imparo-a-@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T103000
+DTEND;TZID=Europe/Rome:20261124T123000
+SUMMARY:La ragione di Orlando. Come il Medioevo imparò a dare conto delle 
+ cose
+LOCATION:Statale\, via Santa Sofia 9\, aula M203
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17537
+URL:https://work.unimi.it/eventir/registrazione?code=17537
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-una-risata-seppellira-la-violenza-euripide-e-ari@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T123000
+DTEND;TZID=Europe/Rome:20261124T143000
+SUMMARY:Una risata seppellirà la violenza? Euripide e Aristofane
+LOCATION:Statale\, via Noto 8\, aula K31
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17549
+URL:https://work.unimi.it/eventir/registrazione?code=17549
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-dante-e-vivo@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261125T163000
+DTEND;TZID=Europe/Rome:20261125T183000
+SUMMARY:Dante è vivo
+LOCATION:Statale\, via Santa Sofia 9\, aula M205
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17586
+URL:https://work.unimi.it/eventir/registrazione?code=17586
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-jan-brokken-la-malinconia-del-viaggiatore@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261125T180000
+DTEND;TZID=Europe/Rome:20261125T200000
+SUMMARY:Jan Brokken\, La malinconia del viaggiatore
+LOCATION:Fondazione Luigi Rovati
+DESCRIPTION:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/
+ appuntamenti/bookcity-milano-2026-2/
+URL:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntam
+ enti/bookcity-milano-2026-2/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-silvia-romani-e-federica-fracassi-sul-mito-antic@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Silvia Romani e Federica Fracassi sul mito antico
+LOCATION:Teatro Franco Parenti
+DESCRIPTION:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-p
+ rogramma-ospiti-temi-eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-100-copertine-di-futuro@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261126T110000
+DTEND;TZID=Europe/Rome:20261126T130000
+SUMMARY:100 copertine di futuro
+LOCATION:Fondazione Luigi Rovati
+DESCRIPTION:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/
+ appuntamenti/100-copertine-di-futuro/
+URL:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntam
+ enti/100-copertine-di-futuro/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-anti-illuminismo-nella-storia-e-oggi@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261126T180000
+DTEND;TZID=Europe/Rome:20261126T200000
+SUMMARY:Anti-illuminismo: nella storia e oggi
+LOCATION:Casa della Cultura (via Borgogna 3)
+DESCRIPTION:Decimo incontro del ciclo sulle correnti contro i Lumi\, ieri e
+  oggi. https://www.casadellacultura.it/casa-della-cultura-calendario.php
+URL:https://www.casadellacultura.it/casa-della-cultura-calendario.php
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-hello-stranger-mostra-di-poesia@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261126T183000
+DTEND;TZID=Europe/Rome:20261126T203000
+SUMMARY:Hello stranger\, mostra di poesia
+LOCATION:Casa degli Artisti
+DESCRIPTION:Collettivo ARIMO. https://www.mentelocale.it/milano/145491-book
+ city-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-francesco-vezzoli-victoria-mater@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261127T180000
+DTEND;TZID=Europe/Rome:20261127T200000
+SUMMARY:Francesco Vezzoli\, Victoria Mater
+LOCATION:Fondazione Luigi Rovati
+DESCRIPTION:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/
+ appuntamenti/bookcity-milano-2026-3/
+URL:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntam
+ enti/bookcity-milano-2026-3/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-aldo-cazzullo-il-nostro-rinascimento@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261128T110000
+DTEND;TZID=Europe/Rome:20261128T130000
+SUMMARY:Aldo Cazzullo\, Il nostro rinascimento
+LOCATION:Piccolo Teatro Strehler
+DESCRIPTION:La storia d'Italia raccontata come un romanzo. https://www.ment
+ elocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi
+ -da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-laura-pepe-storia-non-convenzionale-delle-donne-@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261128T113000
+DTEND;TZID=Europe/Rome:20261128T133000
+SUMMARY:Laura Pepe\, Storia non convenzionale delle donne di Grecia
+LOCATION:Fondazione Luigi Rovati
+DESCRIPTION:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/
+ appuntamenti/bookcity-milano-2026-4/
+URL:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntam
+ enti/bookcity-milano-2026-4/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-dario-biagi-vita-di-cagnaccio-di-san-pietro@acculturiamoci.i
+ t
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261128T150000
+DTEND;TZID=Europe/Rome:20261128T170000
+SUMMARY:Dario Biagi\, vita di Cagnaccio di San Pietro
+LOCATION:Fondazione Luigi Rovati
+DESCRIPTION:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/
+ appuntamenti/bookcity-milano-2026-5/
+URL:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntam
+ enti/bookcity-milano-2026-5/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-100-anni-di-allen-ginsberg@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:100 anni di Allen Ginsberg
+LOCATION:Casa degli Artisti
+DESCRIPTION:Con Lino Guanciale. https://www.mentelocale.it/milano/145491-bo
+ okcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-il-grande-gioco-dell-ai@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261130T203000
+DTEND;TZID=Europe/Rome:20261130T223000
+SUMMARY:Il grande gioco dell'AI
+LOCATION:Teatro Carcano
+DESCRIPTION:Paolo Colombo e Sergio Amati ripercorrono la storia del calcolo
+ \, da Turing a Deep Blue. https://www.mentelocale.it/milano/129756-follow-
+ the-monday-history-telling-il-grande-gioco-dell-ai-storie-di-intelligenze-
+ umane-e-artificiali.htm
+URL:https://www.mentelocale.it/milano/129756-follow-the-monday-history-tell
+ ing-il-grande-gioco-dell-ai-storie-di-intelligenze-umane-e-artificiali.htm
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-la-bibbia-che-non-ti-aspetti-con-giorgio-marches@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261201T203000
+DTEND;TZID=Europe/Rome:20261201T223000
+SUMMARY:La Bibbia che non ti aspetti\, con Giorgio Marchesi
+LOCATION:Teatro Oscar (via Lattanzio 58a)
+DESCRIPTION:Prima serata della rassegna su testi biblici e memoria cultural
+ e. https://www.mentelocale.it/milano/128380-la-bibbia-che-non-ti-aspetti-1
+ -con-giorgio-marchesi.htm
+URL:https://www.mentelocale.it/milano/128380-la-bibbia-che-non-ti-aspetti-1
+ -con-giorgio-marchesi.htm
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-la-storia-a-processo-oriana-fallaci@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261201T203000
+DTEND;TZID=Europe/Rome:20261201T223000
+SUMMARY:La Storia a Processo: Oriana Fallaci
+LOCATION:Teatro Filodrammatici
+DESCRIPTION:Processo simulato a Oriana Fallaci con magistrati veri e il pub
+ blico come giuria. https://www.mentelocale.it/milano/138248-colpevoli-inno
+ centi-secondo-incontro.htm
+URL:https://www.mentelocale.it/milano/138248-colpevoli-innocenti-secondo-in
+ contro.htm
+CATEGORIES:Arte e storia
+END:VEVENT
+END:VCALENDAR

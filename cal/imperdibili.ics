@@ -1,0 +1,229 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci · Imperdibili
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-23-inaugurazione-bookcity-colson-whitehead@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T200000
+DTEND;TZID=Europe/Rome:20261123T220000
+SUMMARY:Inaugurazione BookCity: Colson Whitehead
+LOCATION:Teatro Dal Verme
+DESCRIPTION:Due premi Pulitzer\, una sera sola: il via ufficiale di BookCit
+ y. Con Francesco Costa\, conduce Giovanna Zucconi. Lectio di Marco Balzano
+ . https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-
+ ospiti-temi-eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-alessandro-bergonzoni-voto-di-vastita@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T203000
+DTEND;TZID=Europe/Rome:20261123T223000
+SUMMARY:Alessandro Bergonzoni\, Voto di vastità
+LOCATION:Teatro Carcano
+DESCRIPTION:Un'ora di parole che si piegano: si ride e si pensa insieme. Ra
+ ssegna Follow the Monday. https://www.mentelocale.it/milano/129757-follow-
+ the-monday-farsi-male-variazioni-sul-masochismo.htm
+URL:https://www.mentelocale.it/milano/129757-follow-the-monday-farsi-male-v
+ ariazioni-sul-masochismo.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-daniel-pennac-presenta-mallet@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T183000
+DTEND;TZID=Europe/Rome:20261124T203000
+SUMMARY:Daniel Pennac presenta Mallet
+LOCATION:Fondazione San Fedele
+DESCRIPTION:Daniel Pennac dal vivo\, a Milano\, con il suo nuovo libro. htt
+ ps://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospit
+ i-temi-eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-prima-delle-prime-otello@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261125T180000
+DTEND;TZID=Europe/Rome:20261125T200000
+SUMMARY:Prima delle Prime: Otello
+LOCATION:Teatro alla Scala
+DESCRIPTION:Arrivare alla Prima della Scala sapendo già tutto di Otello. G
+ iovanni Bietti con Damiano Michieletto. https://www.teatroallascala.org/it
+ /calendario.html
+URL:https://www.teatroallascala.org/it/calendario.html
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-samantha-cristoforetti-il-senso-della-luna@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261125T200000
+DTEND;TZID=Europe/Rome:20261125T220000
+SUMMARY:Samantha Cristoforetti: il senso della Luna
+LOCATION:Museo Scienza e Tecnologia
+DESCRIPTION:Un'astronauta\, la Luna e Leopardi nella stessa sera. Con Stefa
+ no Sandrelli\, letture di Leopardi. https://www.mentelocale.it/milano/1464
+ 78-bookcity-milano-2026-iniziative-e-incontri-al-museo-nazionale-scienza-e
+ -tecnologia.htm
+URL:https://www.mentelocale.it/milano/146478-bookcity-milano-2026-iniziativ
+ e-e-incontri-al-museo-nazionale-scienza-e-tecnologia.htm
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-milena-gabanelli-e-simona-ravizza-la-resa-dei-co@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261126T183000
+DTEND;TZID=Europe/Rome:20261126T203000
+SUMMARY:Milena Gabanelli e Simona Ravizza\, La resa dei conti
+LOCATION:Castello Sforzesco\, Sala Viscontea
+DESCRIPTION:Due firme del giornalismo d'inchiesta sullo stesso palco. https
+ ://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-
+ temi-eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-umberto-galimberti-l-illusione-della-liberta@acculturiamoci.
+ it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261127T183000
+DTEND;TZID=Europe/Rome:20261127T203000
+SUMMARY:Umberto Galimberti\, L'illusione della libertà
+LOCATION:Fondazione San Fedele
+DESCRIPTION:Quanto siamo davvero liberi? Galimberti prova a rispondere. htt
+ ps://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospit
+ i-temi-eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-di-madre-in-figlia@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261127T203000
+DTEND;TZID=Europe/Rome:20261127T223000
+SUMMARY:Di madre in figlia
+LOCATION:Piccolo Teatro Grassi
+DESCRIPTION:Prima assoluta: tre generazioni di donne in scena. Concita De G
+ regorio in scena con tre generazioni di donne\; regia di Gaia Saitta. Prim
+ a assoluta. https://www.piccoloteatro.org/it/2026-2027/di-madre-in-figlia
+URL:https://www.piccoloteatro.org/it/2026-2027/di-madre-in-figlia
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-aldo-cazzullo-il-nostro-rinascimento@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261128T110000
+DTEND;TZID=Europe/Rome:20261128T130000
+SUMMARY:Aldo Cazzullo\, Il nostro rinascimento
+LOCATION:Piccolo Teatro Strehler
+DESCRIPTION:La storia d'Italia raccontata come un romanzo. https://www.ment
+ elocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi
+ -da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-pupi-avati-il-gotico-padano-e-il-cinema@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T110000
+DTEND;TZID=Europe/Rome:20261129T130000
+SUMMARY:Pupi Avati: il gotico padano e il cinema
+LOCATION:Anteo Palazzo del Cinema
+DESCRIPTION:Il maestro del gotico padano racconta il suo cinema. https://ww
+ w.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-
+ eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-zerocalcare-dove-andiamo-da-qui-zero@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T120000
+DTEND;TZID=Europe/Rome:20261129T140000
+SUMMARY:Zerocalcare\, Dove andiamo da qui\, Zero?
+LOCATION:Piccolo Teatro Strehler
+DESCRIPTION:Zerocalcare dal vivo: conviene arrivare presto. https://www.men
+ telocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-event
+ i-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-chiusura-bookcity-samantha-harvey-e-paolo-giorda@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T200000
+DTEND;TZID=Europe/Rome:20261129T220000
+SUMMARY:Chiusura BookCity: Samantha Harvey e Paolo Giordano
+LOCATION:Teatro Franco Parenti\, Sala Grande
+DESCRIPTION:Una vincitrice del Booker e Paolo Giordano chiudono BookCity. D
+ allo spazio profondo al cuore della Terra. https://www.mentelocale.it/mila
+ no/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere
+ .htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-noir-in-festival-the-blood-countess-di-ulrike-ot@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261130T213000
+DTEND;TZID=Europe/Rome:20261130T233000
+SUMMARY:Noir in Festival: The Blood Countess di Ulrike Ottinger
+LOCATION:Anteo Palazzo del Cinema
+DESCRIPTION:Un film raro sul grande schermo\, con Isabelle Huppert annuncia
+ ta in sala. Fuori concorso alla 36ª edizione del festival\, con Isabelle 
+ Huppert annunciata in sala. https://www.spaziocinema.info/milano/eventi-e-
+ rassegne/36deg-noir-in-festival
+URL:https://www.spaziocinema.info/milano/eventi-e-rassegne/36deg-noir-in-fe
+ stival
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-paul-lewis-mozart@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261202T204500
+DTEND;TZID=Europe/Rome:20261202T224500
+SUMMARY:Paul Lewis\, Mozart+
+LOCATION:Conservatorio\, Sala Verdi
+DESCRIPTION:Uno dei grandi pianisti di oggi\, tra Mozart\, Schubert e Chopi
+ n. Il pianista inglese tra due sonate di Mozart\, i Klavierstücke D.946 d
+ i Schubert e pagine di Chopin (Società dei Concerti\, Serie Smeraldo). ht
+ tps://www.mentelocale.it/milano/135022-paul-lewis.htm
+URL:https://www.mentelocale.it/milano/135022-paul-lewis.htm
+CATEGORIES:Classica e chiese
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,182 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci · Geopolitica
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-23-oltre-la-globalizzazione-la-lezione-giuridica-di@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T083000
+DTEND;TZID=Europe/Rome:20261123T103000
+SUMMARY:Oltre la globalizzazione. La lezione giuridica di Roma
+LOCATION:Statale\, via Festa del Perdono 3\, aula 208
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17571
+URL:https://work.unimi.it/eventir/registrazione?code=17571
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-quale-sovranita-per-il-caucaso-meridionale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T163000
+DTEND;TZID=Europe/Rome:20261123T183000
+SUMMARY:Quale sovranità per il Caucaso meridionale?
+LOCATION:Statale\, Scienze politiche\, via Conservatorio 7\, aula 26
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17525
+URL:https://work.unimi.it/eventir/registrazione?code=17525
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-l-universo-ideologico-di-trump@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T163000
+DTEND;TZID=Europe/Rome:20261124T183000
+SUMMARY:L'universo ideologico di Trump
+LOCATION:Statale\, via Festa del Perdono 3\, aula 304
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17565
+URL:https://work.unimi.it/eventir/registrazione?code=17565
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-la-democrazia-partecipativa-tra-crisi-della-rapp@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T163000
+DTEND;TZID=Europe/Rome:20261124T183000
+SUMMARY:La democrazia partecipativa tra crisi della rappresentanza e stato 
+ di diritto
+LOCATION:Statale\, Scienze politiche\, via Conservatorio 7\, aula 25
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17522
+URL:https://work.unimi.it/eventir/registrazione?code=17522
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-oltre-la-rappresaglia-la-repressione-nazista-in-@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261125T123000
+DTEND;TZID=Europe/Rome:20261125T143000
+SUMMARY:Oltre la rappresaglia: la repressione nazista in Boemia e Moravia
+LOCATION:Statale\, Scienze politiche\, via Conservatorio 7\, aula 23
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17479
+URL:https://work.unimi.it/eventir/registrazione?code=17479
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-era-tanto-un-bravo-ragazzo@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261125T183000
+DTEND;TZID=Europe/Rome:20261125T203000
+SUMMARY:Era tanto un bravo ragazzo
+LOCATION:Fondazione Feltrinelli
+DESCRIPTION:Paola Di Nicola Travaglini\, Cinzia Spanò\, Caterina Croce. Gi
+ ornata contro la violenza sulle donne. https://fondazionefeltrinelli.it/en
+ /participate/
+URL:https://fondazionefeltrinelli.it/en/participate/
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-le-sparizioni-forzate-in-america-latina@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261126T090000
+DTEND;TZID=Europe/Rome:20261126T110000
+SUMMARY:Le sparizioni forzate in America Latina
+LOCATION:Statale\, Scienze politiche\, via Conservatorio 7\, aula 12
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17528
+URL:https://work.unimi.it/eventir/registrazione?code=17528
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-milena-gabanelli-e-simona-ravizza-la-resa-dei-co@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261126T183000
+DTEND;TZID=Europe/Rome:20261126T203000
+SUMMARY:Milena Gabanelli e Simona Ravizza\, La resa dei conti
+LOCATION:Castello Sforzesco\, Sala Viscontea
+DESCRIPTION:Due firme del giornalismo d'inchiesta sullo stesso palco. https
+ ://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-
+ temi-eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-campi-celle-ceneri-la-scrittura-palestinese@acculturiamoci.i
+ t
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261127T163000
+DTEND;TZID=Europe/Rome:20261127T183000
+SUMMARY:Campi\, celle\, ceneri: la scrittura palestinese
+LOCATION:Statale\, via Festa del Perdono 3\, aula 109
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17543
+URL:https://work.unimi.it/eventir/registrazione?code=17543
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-una-legge-elettorale-inaccettabile@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261127T180000
+DTEND;TZID=Europe/Rome:20261127T200000
+SUMMARY:Una legge elettorale inaccettabile
+LOCATION:Casa della Cultura (via Borgogna 3)
+DESCRIPTION:Costituzionalisti delle università milanesi spiegano le ragion
+ i di un ricorso. https://www.casadellacultura.it/casa-della-cultura-calend
+ ario.php
+URL:https://www.casadellacultura.it/casa-della-cultura-calendario.php
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-scrivere-per-resistere-premio-pen-inge-feltrinel@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Scrivere per resistere: Premio PEN Inge Feltrinelli
+LOCATION:Fondazione Feltrinelli
+DESCRIPTION:Con Burhan Sönmez e Paola Caridi. https://fondazionefeltrinell
+ i.it/en/participate/
+URL:https://fondazionefeltrinelli.it/en/participate/
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-il-verde-e-il-nero@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Il verde e il nero
+LOCATION:Fondazione Feltrinelli
+DESCRIPTION:Manuela Caiani e Sergio Labate. https://fondazionefeltrinelli.i
+ t/en/participate/
+URL:https://fondazionefeltrinelli.it/en/participate/
+CATEGORIES:Geopolitica
+END:VEVENT
+END:VCALENDAR

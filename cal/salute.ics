@@ -1,0 +1,101 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci · Psiche e salute
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-24-una-societa-piu-equa-e-anche-piu-sana@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T110000
+DTEND;TZID=Europe/Rome:20261124T130000
+SUMMARY:Una società più equa è anche più sana?
+LOCATION:Casa dei Diritti\, via De Amicis 10
+DESCRIPTION:Lezione aperta BookCity alla Statale. Iscrizione obbligatoria. 
+ https://work.unimi.it/eventir/registrazione?code=17473
+URL:https://work.unimi.it/eventir/registrazione?code=17473
+CATEGORIES:Psiche e salute
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-over-dance-milano-danza-e-longevita@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T160000
+DTEND;TZID=Europe/Rome:20261124T180000
+SUMMARY:Over Dance Milano: danza e longevità
+LOCATION:Fondazione Feltrinelli
+DESCRIPTION:Welfare culturale. https://fondazionefeltrinelli.it/en/particip
+ ate/
+URL:https://fondazionefeltrinelli.it/en/participate/
+CATEGORIES:Psiche e salute
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-human-brains-adolescenza-capire-mente-corpo-e-sa@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261126T200000
+DTEND;TZID=Europe/Rome:20261126T220000
+SUMMARY:Human Brains: Adolescenza\, capire mente\, corpo e salute
+LOCATION:Cinema Godard\, Fondazione Prada
+DESCRIPTION:Documentario Teenage Life Interrupted e lecture di un pediatra 
+ su mente e corpo. https://www.mentelocale.it/milano/139227-human-brains-sc
+ reen-talk-al-cinema-godard-incontri-e-proiezioni-su-neuroscienze-e-studi-s
+ ul-cervello-umano.htm
+URL:https://www.mentelocale.it/milano/139227-human-brains-screen-talk-al-ci
+ nema-godard-incontri-e-proiezioni-su-neuroscienze-e-studi-sul-cervello-uma
+ no.htm
+CATEGORIES:Psiche e salute
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-milano-life-science-forum-prevenzione@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261127T093000
+DTEND;TZID=Europe/Rome:20261127T113000
+SUMMARY:Milano Life Science Forum: prevenzione
+LOCATION:Assolombarda (via Pantano 9)
+DESCRIPTION:Gratuito con iscrizione\, 9:30–13:00. https://www.assolombard
+ a.it/desk/life-sciences-desk-backup/appuntamenti/milano-life-science-forum
+ -2026-prevenzione-competitivita-e-innovazione-le-priorita-per-il-futuro-de
+ lle-scienze-della-vita-in-lombardia-e-in-europa/@@iscrizione-convegno
+URL:https://www.assolombarda.it/desk/life-sciences-desk-backup/appuntamenti
+ /milano-life-science-forum-2026-prevenzione-competitivita-e-innovazione-le
+ -priorita-per-il-futuro-delle-scienze-della-vita-in-lombardia-e-in-europa/
+ @@iscrizione-convegno
+CATEGORIES:Psiche e salute
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-con-la-colpa-in-mente-tra-responsabilita-e-ripar@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261202T203000
+DTEND;TZID=Europe/Rome:20261202T223000
+SUMMARY:Con la colpa in mente\, tra responsabilità e riparazione
+LOCATION:Teatro Oscar (via Lattanzio 58a)
+DESCRIPTION:Serata finale del Teatro della Mente di Daniela Cristofori: la 
+ colpa vista dalla psicologia e dalla giustizia riparativa\, con Claudia Ma
+ zzucato. https://www.mentelocale.it/milano/128357-teatro-della-mente-3-la-
+ colpa.htm
+URL:https://www.mentelocale.it/milano/128357-teatro-della-mente-3-la-colpa.
+ htm
+CATEGORIES:Psiche e salute
+END:VEVENT
+END:VCALENDAR

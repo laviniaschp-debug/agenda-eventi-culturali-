@@ -1,0 +1,306 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci · Classica e chiese
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-22-ravel-bach-beethoven-eroica@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261122T160000
+DTEND;TZID=Europe/Rome:20261122T180000
+SUMMARY:Ravel / Bach / Beethoven Eroica
+LOCATION:Auditorium di Milano (largo Mahler)
+DESCRIPTION:Replica. https://sinfonicadimilano.org/en/eventi/2026-27/ravel-
+ bach-beethoven
+URL:https://sinfonicadimilano.org/en/eventi/2026-27/ravel-bach-beethoven
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-benjamin-bernheim-recital-di-canto@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261122T200000
+DTEND;TZID=Europe/Rome:20261122T220000
+SUMMARY:Benjamin Bernheim\, recital di canto
+LOCATION:Teatro alla Scala
+DESCRIPTION:https://www.teatroallascala.org/it/calendario.html
+URL:https://www.teatroallascala.org/it/calendario.html
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-coro-di-voci-bianche-dell-accademia@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T200000
+DTEND;TZID=Europe/Rome:20261123T220000
+SUMMARY:Coro di Voci Bianche dell'Accademia
+LOCATION:Teatro alla Scala
+DESCRIPTION:https://www.teatroallascala.org/it/calendario.html
+URL:https://www.teatroallascala.org/it/calendario.html
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-roman-fediurko-pianoforte@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T204500
+DTEND;TZID=Europe/Rome:20261123T224500
+SUMMARY:Roman Fediurko\, pianoforte
+LOCATION:Conservatorio\, Sala Puccini
+DESCRIPTION:Recital pianistico per la stagione di Serate Musicali. https://
+ www.seratemusicali.it/pianista-roman-fediurko/
+URL:https://www.seratemusicali.it/pianista-roman-fediurko/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-solisti-aquilani-con-anna-tifu@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261125T204500
+DTEND;TZID=Europe/Rome:20261125T224500
+SUMMARY:Solisti Aquilani con Anna Tifu
+LOCATION:Conservatorio\, Sala Verdi
+DESCRIPTION:Società dei Concerti. https://www.mentelocale.it/milano/135021
+ -i-solisti-aquilani-tifu.htm
+URL:https://www.mentelocale.it/milano/135021-i-solisti-aquilani-tifu.htm
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-concerto-civile-giorgio-ambrosoli@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261126T200000
+DTEND;TZID=Europe/Rome:20261126T220000
+SUMMARY:Concerto civile Giorgio Ambrosoli
+LOCATION:Conservatorio\, Sala Verdi
+DESCRIPTION:Orchestra Sinfonica del Conservatorio\, dir. Alessandro Bombona
+ ti. https://www.consmi.it/en/events/page/5/
+URL:https://www.consmi.it/en/events/page/5/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-a-flauto-e-cembalo-milano-arte-musica@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:A flauto e cembalo (Milano Arte Musica)
+LOCATION:Sala Capitolare del Bergognone
+DESCRIPTION:Marco Scorticati e Davide Pozzi in un programma barocco per fla
+ uto e clavicembalo. https://www.mentelocale.it/milano/146894-flauto-cembal
+ o.htm
+URL:https://www.mentelocale.it/milano/146894-flauto-cembalo.htm
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-beethoven-triplo-concerto-musorgskij-quadri@acculturiamoci.i
+ t
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261127T200000
+DTEND;TZID=Europe/Rome:20261127T220000
+SUMMARY:Beethoven Triplo concerto / Musorgskij Quadri
+LOCATION:Auditorium di Milano (largo Mahler)
+DESCRIPTION:Dir. Emmanuel Tjeknavorian. https://sinfonicadimilano.org/en/ev
+ enti/2026-27/beethoven-musorgskij
+URL:https://sinfonicadimilano.org/en/eventi/2026-27/beethoven-musorgskij
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-inaugurazione-anno-accademico-del-conservatorio@acculturiamo
+ ci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:Inaugurazione anno accademico del Conservatorio
+LOCATION:Conservatorio\, Sala Verdi
+DESCRIPTION:Concerto orchestrale. https://www.consmi.it/en/events/page/5/
+URL:https://www.consmi.it/en/events/page/5/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-saint-nicolas-di-britten@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Saint Nicolas di Britten
+LOCATION:Chiesa di Santa Francesca Romana
+DESCRIPTION:La cantata di Britten con Intende Voci Chorus e Orchestra da Ca
+ mera Canova. https://www.mentelocale.it/milano/144839-saint-nicolas.htm
+URL:https://www.mentelocale.it/milano/144839-saint-nicolas.htm
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-trio-david-con-emanuele-orsini@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Trio David con Emanuele Orsini
+LOCATION:Villa Necchi Campiglio
+DESCRIPTION:Musica da camera nella rassegna Musica a Villa Necchi. https://
+ www.mentelocale.it/milano/132574-trio-david-orsini.htm
+URL:https://www.mentelocale.it/milano/132574-trio-david-orsini.htm
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-tjeknavorian-e-i-solisti-della-sinfonica-bartok-@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T110000
+DTEND;TZID=Europe/Rome:20261129T130000
+SUMMARY:Tjeknavorian e i Solisti della Sinfonica: Bartók\, Schubert
+LOCATION:Teatro Gerolamo
+DESCRIPTION:Musica da camera. https://sinfonicadimilano.org/en/eventi/2026-
+ 27/bartok-hermann-schubert
+URL:https://sinfonicadimilano.org/en/eventi/2026-27/bartok-hermann-schubert
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-beethoven-triplo-concerto-musorgskij-quadri@acculturiamoci.i
+ t
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T160000
+DTEND;TZID=Europe/Rome:20261129T180000
+SUMMARY:Beethoven Triplo concerto / Musorgskij Quadri
+LOCATION:Auditorium di Milano (largo Mahler)
+DESCRIPTION:Replica. https://sinfonicadimilano.org/en/eventi/2026-27/beetho
+ ven-musorgskij
+URL:https://sinfonicadimilano.org/en/eventi/2026-27/beethoven-musorgskij
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-don-giovanni-in-versione-opera-breve@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T170000
+DTEND;TZID=Europe/Rome:20261129T190000
+SUMMARY:Don Giovanni in versione Opera Breve
+LOCATION:Teatro PIME (via Mosè Bianchi 94)
+DESCRIPTION:Il capolavoro di Mozart condensato in circa un'ora\, con musica
+  dal vivo e scenografie costruite dai ragazzi del Beccaria. https://www.me
+ ntelocale.it/milano/147740-don-giovanni-al-teatro-pime-di-milano-mozart-in
+ -versione-opera-breve-con-le-scenografie-dei-ragazzi-del-beccaria.htm
+URL:https://www.mentelocale.it/milano/147740-don-giovanni-al-teatro-pime-di
+ -milano-mozart-in-versione-opera-breve-con-le-scenografie-dei-ragazzi-del-
+ beccaria.htm
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-filarmonica-della-scala-dir-timothy-brock@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T200000
+DTEND;TZID=Europe/Rome:20261129T220000
+SUMMARY:Filarmonica della Scala\, dir. Timothy Brock
+LOCATION:Teatro alla Scala
+DESCRIPTION:https://www.teatroallascala.org/it/calendario.html
+URL:https://www.teatroallascala.org/it/calendario.html
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-il-canto-di-orfeo-inner-spaces@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261130T203000
+DTEND;TZID=Europe/Rome:20261130T223000
+SUMMARY:Il canto di Orfeo (INNER_SPACES)
+LOCATION:Chiesa di San Fedele
+DESCRIPTION:Sacra rappresentazione con musiche di Arvo Pärt\, Ars Discanti
+ ca e l'elettronica di Robert Lippok\; dirige Gianluca Capuano. https://www
+ .centrosanfedele.net/musica/inner-spaces-autunnale-2026/
+URL:https://www.centrosanfedele.net/musica/inner-spaces-autunnale-2026/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-orchestra-dell-universita-bicocca-vivaldi-bach-p@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261130T203000
+DTEND;TZID=Europe/Rome:20261130T223000
+SUMMARY:Orchestra dell'Università Bicocca: Vivaldi\, Bach\, Pleyel
+LOCATION:Chiesa del Sacro Volto (via Sebenico 31)
+DESCRIPTION:Concerto in chiesa\, all'Isola. https://www.unimib.it/node/3923
+ 5
+URL:https://www.unimib.it/node/39235
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-fabrizio-meloni-e-mari-fujino@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261130T204500
+DTEND;TZID=Europe/Rome:20261130T224500
+SUMMARY:Fabrizio Meloni e Mari Fujino
+LOCATION:Conservatorio\, Sala Verdi
+DESCRIPTION:Il primo clarinetto della Scala in duo con il pianoforte (Serat
+ e Musicali). https://www.seratemusicali.it/clarinetto-fabrizio-meloni-pian
+ oforte-mari-fujino
+URL:https://www.seratemusicali.it/clarinetto-fabrizio-meloni-pianoforte-mar
+ i-fujino
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-ettore-pagano-e-maximilian-kromer@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261201T203000
+DTEND;TZID=Europe/Rome:20261201T223000
+SUMMARY:Ettore Pagano e Maximilian Kromer
+LOCATION:Conservatorio\, Sala Verdi
+DESCRIPTION:Il giovane violoncellista con il pianoforte di Kromer\, per la 
+ Società del Quartetto. https://www.quartettomilano.it/event-item/ettore-p
+ agano-maximilian-kromer/
+URL:https://www.quartettomilano.it/event-item/ettore-pagano-maximilian-krom
+ er/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-federico-nicoletta-ti-va-di-ballare@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261202T170000
+DTEND;TZID=Europe/Rome:20261202T190000
+SUMMARY:Federico Nicoletta\, Ti va di ballare?
+LOCATION:Conservatorio\, Sala Verdi
+DESCRIPTION:Recital pianistico sul valzer: Brahms op. 39\, Liszt dalle Soir
+ ées de Vienne e La valse di Ravel (Società dei Concerti\, Serie Zaffiro)
+ . https://www.mentelocale.it/milano/135005-federico-nicoletta.htm
+URL:https://www.mentelocale.it/milano/135005-federico-nicoletta.htm
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-paul-lewis-mozart@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261202T204500
+DTEND;TZID=Europe/Rome:20261202T224500
+SUMMARY:Paul Lewis\, Mozart+
+LOCATION:Conservatorio\, Sala Verdi
+DESCRIPTION:Uno dei grandi pianisti di oggi\, tra Mozart\, Schubert e Chopi
+ n. Il pianista inglese tra due sonate di Mozart\, i Klavierstücke D.946 d
+ i Schubert e pagine di Chopin (Società dei Concerti\, Serie Smeraldo). ht
+ tps://www.mentelocale.it/milano/135022-paul-lewis.htm
+URL:https://www.mentelocale.it/milano/135022-paul-lewis.htm
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-i-virtuosi-del-teatro-alla-scala-per-vidas@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261202T210000
+DTEND;TZID=Europe/Rome:20261202T230000
+SUMMARY:I Virtuosi del Teatro alla Scala per Vidas
+LOCATION:Teatro alla Scala
+DESCRIPTION:Concerto benefico per la Casa Sollievo Bimbi: Sinfonia dei gioc
+ attoli\, Boccherini La casa del diavolo e Mozart K 522. https://www.teatro
+ allascala.org/it/calendario.html
+URL:https://www.teatroallascala.org/it/calendario.html
+CATEGORIES:Classica e chiese
+END:VEVENT
+END:VCALENDAR

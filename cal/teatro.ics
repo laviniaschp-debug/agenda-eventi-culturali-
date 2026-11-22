@@ -1,0 +1,587 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci · Teatro
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-22-parla-clitemnestra@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261122T150000
+DTEND;TZID=Europe/Rome:20261122T170000
+SUMMARY:Parla\, Clitemnestra!
+LOCATION:Teatro Elfo Puccini
+DESCRIPTION:Compagnia Barletti/Waas. https://www.mentelocale.it/milano/1477
+ 26-parla-clitemnestra-al-teatro-elfo-puccini-la-compagnia-barletti-waas.ht
+ m
+URL:https://www.mentelocale.it/milano/147726-parla-clitemnestra-al-teatro-e
+ lfo-puccini-la-compagnia-barletti-waas.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261122T160000
+DTEND;TZID=Europe/Rome:20261122T180000
+SUMMARY:Una delle ultime sere di carnovale
+LOCATION:Piccolo Teatro Strehler
+DESCRIPTION:Goldoni diretto da Valerio Binasco: il congedo del commediograf
+ o da Venezia. https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-
+ sere-di-carnovale
+URL:https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-car
+ novale
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-il-berretto-a-sonagli@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261122T161500
+DTEND;TZID=Europe/Rome:20261122T181500
+SUMMARY:Il berretto a sonagli
+LOCATION:Teatro Franco Parenti\, Sala Grande
+DESCRIPTION:Silvio Orlando nel Pirandello delle maschere sociali. Ultima re
+ plica. https://teatrofrancoparenti.it/spettacolo/il-berretto-a-sonagli/
+URL:https://teatrofrancoparenti.it/spettacolo/il-berretto-a-sonagli/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-la-misteriosa-scomparsa-di-w@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261122T163000
+DTEND;TZID=Europe/Rome:20261122T183000
+SUMMARY:La misteriosa scomparsa di W
+LOCATION:Teatro Carcano
+DESCRIPTION:Da Stefano Benni\, con e per la regia di Ambra Angiolini. https
+ ://www.mentelocale.it/milano/129787-la-misteriosa-scomparsa-di-w.htm
+URL:https://www.mentelocale.it/milano/129787-la-misteriosa-scomparsa-di-w.h
+ tm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-la-rivolta@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261122T163000
+DTEND;TZID=Europe/Rome:20261122T183000
+SUMMARY:La rivolta
+LOCATION:Teatro Leonardo (via Ampère 1)
+DESCRIPTION:Scritto e diretto da Corrado d'Elia. https://www.mentelocale.it
+ /milano/139866-rivolta.htm
+URL:https://www.mentelocale.it/milano/139866-rivolta.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-sognare-forse-dormire-performance-da-vivere-dorm@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261122T210000
+DTEND;TZID=Europe/Rome:20261122T230000
+SUMMARY:Sognare\, forse dormire: performance da vivere dormendo
+LOCATION:BASE Milano\, Room 1400
+DESCRIPTION:https://base.milano.it/events/page/9/
+URL:https://base.milano.it/events/page/9/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-pinocchio-trilogia-del-teatro-patologico@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Pinocchio – Trilogia del Teatro Patologico
+LOCATION:Teatro Franco Parenti
+DESCRIPTION:Dario D'Ambrosi porta in scena il suo Pinocchio con gli attori 
+ del Teatro Patologico\, compagnia che lavora con persone con disagio psich
+ ico. https://teatrofrancoparenti.it/spettacolo/trilogia-di-dario-dambrosi/
+URL:https://teatrofrancoparenti.it/spettacolo/trilogia-di-dario-dambrosi/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-alessandro-bergonzoni-voto-di-vastita@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T203000
+DTEND;TZID=Europe/Rome:20261123T223000
+SUMMARY:Alessandro Bergonzoni\, Voto di vastità
+LOCATION:Teatro Carcano
+DESCRIPTION:Un'ora di parole che si piegano: si ride e si pensa insieme. Ra
+ ssegna Follow the Monday. https://www.mentelocale.it/milano/129757-follow-
+ the-monday-farsi-male-variazioni-sul-masochismo.htm
+URL:https://www.mentelocale.it/milano/129757-follow-the-monday-farsi-male-v
+ ariazioni-sul-masochismo.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-io-sono-verticale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T193000
+DTEND;TZID=Europe/Rome:20261124T213000
+SUMMARY:Io sono verticale
+LOCATION:Teatro Elfo Puccini\, Sala Bausch
+DESCRIPTION:Francesca Astrei racconta la depressione da dentro e da chi sta
+  accanto. https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm
+URL:https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T193000
+DTEND;TZID=Europe/Rome:20261124T213000
+SUMMARY:Una delle ultime sere di carnovale
+LOCATION:Piccolo Teatro Strehler
+DESCRIPTION:Goldoni diretto da Valerio Binasco: il congedo del commediograf
+ o da Venezia. https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-
+ sere-di-carnovale
+URL:https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-car
+ novale
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-i-monologhi-della-vagina@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T203000
+DTEND;TZID=Europe/Rome:20261124T223000
+SUMMARY:I monologhi della vagina
+LOCATION:Teatro Carcano
+DESCRIPTION:Con Lella Costa\, Viola Marietti\, Rita Pelusio\, Beatrice Schi
+ ros. Rassegna #25novembre. https://www.mentelocale.it/milano/129790-i-mono
+ loghi-della-vagina.htm
+URL:https://www.mentelocale.it/milano/129790-i-monologhi-della-vagina.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-la-rivolta@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T203000
+DTEND;TZID=Europe/Rome:20261124T223000
+SUMMARY:La rivolta
+LOCATION:Teatro Leonardo (via Ampère 1)
+DESCRIPTION:Scritto e diretto da Corrado d'Elia. https://www.mentelocale.it
+ /milano/139866-rivolta.htm
+URL:https://www.mentelocale.it/milano/139866-rivolta.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-iliade-la-ballata-di-tersite@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Iliade: la ballata di Tersite
+LOCATION:Teatro Filodrammatici
+DESCRIPTION:Matinée: la guerra di Troia vista dal soldato più sgraziato d
+ ell'Iliade. https://teatrofilodrammatici.eu/spettacoli/iliade-la-ballata-d
+ i-tersite-matinee/
+URL:https://teatrofilodrammatici.eu/spettacoli/iliade-la-ballata-di-tersite
+ -matinee/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-io-sono-verticale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261125T193000
+DTEND;TZID=Europe/Rome:20261125T213000
+SUMMARY:Io sono verticale
+LOCATION:Teatro Elfo Puccini\, Sala Bausch
+DESCRIPTION:Francesca Astrei racconta la depressione da dentro e da chi sta
+  accanto. https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm
+URL:https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-la-rivolta@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261125T203000
+DTEND;TZID=Europe/Rome:20261125T223000
+SUMMARY:La rivolta
+LOCATION:Teatro Leonardo (via Ampère 1)
+DESCRIPTION:Scritto e diretto da Corrado d'Elia. https://www.mentelocale.it
+ /milano/139866-rivolta.htm
+URL:https://www.mentelocale.it/milano/139866-rivolta.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261125T203000
+DTEND;TZID=Europe/Rome:20261125T223000
+SUMMARY:Una delle ultime sere di carnovale
+LOCATION:Piccolo Teatro Strehler
+DESCRIPTION:Goldoni diretto da Valerio Binasco: il congedo del commediograf
+ o da Venezia. https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-
+ sere-di-carnovale
+URL:https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-car
+ novale
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-uomini-si-diventa-nella-mente-di-un-femminicida@acculturiamo
+ ci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261125T203000
+DTEND;TZID=Europe/Rome:20261125T223000
+SUMMARY:Uomini si diventa. Nella mente di un femminicida
+LOCATION:Teatro Carcano
+DESCRIPTION:Reading con Alessio Boni e Omar Pedrini. Rassegna #25novembre. 
+ http://www.teatrocarcano.com/rassegne/25novembre-2627.htm
+URL:http://www.teatrocarcano.com/rassegne/25novembre-2627.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-bobby@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Bobby
+LOCATION:Teatro Oscar
+DESCRIPTION:Regia di Giacomo Poretti. https://mentelocale.it/milano/eventi/
+URL:https://mentelocale.it/milano/eventi/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-io-sono-verticale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261126T193000
+DTEND;TZID=Europe/Rome:20261126T213000
+SUMMARY:Io sono verticale
+LOCATION:Teatro Elfo Puccini\, Sala Bausch
+DESCRIPTION:Francesca Astrei racconta la depressione da dentro e da chi sta
+  accanto. https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm
+URL:https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261126T193000
+DTEND;TZID=Europe/Rome:20261126T213000
+SUMMARY:Una delle ultime sere di carnovale
+LOCATION:Piccolo Teatro Strehler
+DESCRIPTION:Goldoni diretto da Valerio Binasco: il congedo del commediograf
+ o da Venezia. https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-
+ sere-di-carnovale
+URL:https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-car
+ novale
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-adelchi-con-roberto-trifiro@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261126T203000
+DTEND;TZID=Europe/Rome:20261126T223000
+SUMMARY:Adelchi con Roberto Trifirò
+LOCATION:Centro Culturale di Milano
+DESCRIPTION:La tragedia di Manzoni letta e interpretata da Roberto Trifirò
+ . https://www.centroculturaledimilano.it/teatro-societabradelchi-di-alessa
+ ndro-manzonibrcon-roberto-trifiro/
+URL:https://www.centroculturaledimilano.it/teatro-societabradelchi-di-aless
+ andro-manzonibrcon-roberto-trifiro/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-la-rivolta@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261126T203000
+DTEND;TZID=Europe/Rome:20261126T223000
+SUMMARY:La rivolta
+LOCATION:Teatro Leonardo (via Ampère 1)
+DESCRIPTION:Scritto e diretto da Corrado d'Elia. https://www.mentelocale.it
+ /milano/139866-rivolta.htm
+URL:https://www.mentelocale.it/milano/139866-rivolta.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-io-sono-verticale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261127T190000
+DTEND;TZID=Europe/Rome:20261127T210000
+SUMMARY:Io sono verticale
+LOCATION:Teatro Elfo Puccini\, Sala Bausch
+DESCRIPTION:Francesca Astrei racconta la depressione da dentro e da chi sta
+  accanto. https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm
+URL:https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-adelchi-con-roberto-trifiro@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261127T203000
+DTEND;TZID=Europe/Rome:20261127T223000
+SUMMARY:Adelchi con Roberto Trifirò
+LOCATION:Centro Culturale di Milano
+DESCRIPTION:La tragedia di Manzoni letta e interpretata da Roberto Trifirò
+ . https://www.centroculturaledimilano.it/teatro-societabradelchi-di-alessa
+ ndro-manzonibrcon-roberto-trifiro/
+URL:https://www.centroculturaledimilano.it/teatro-societabradelchi-di-aless
+ andro-manzonibrcon-roberto-trifiro/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-di-madre-in-figlia@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261127T203000
+DTEND;TZID=Europe/Rome:20261127T223000
+SUMMARY:Di madre in figlia
+LOCATION:Piccolo Teatro Grassi
+DESCRIPTION:Prima assoluta: tre generazioni di donne in scena. Concita De G
+ regorio in scena con tre generazioni di donne\; regia di Gaia Saitta. Prim
+ a assoluta. https://www.piccoloteatro.org/it/2026-2027/di-madre-in-figlia
+URL:https://www.piccoloteatro.org/it/2026-2027/di-madre-in-figlia
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-la-rivolta@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261127T203000
+DTEND;TZID=Europe/Rome:20261127T223000
+SUMMARY:La rivolta
+LOCATION:Teatro Leonardo (via Ampère 1)
+DESCRIPTION:Scritto e diretto da Corrado d'Elia. https://www.mentelocale.it
+ /milano/139866-rivolta.htm
+URL:https://www.mentelocale.it/milano/139866-rivolta.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261127T203000
+DTEND;TZID=Europe/Rome:20261127T223000
+SUMMARY:Una delle ultime sere di carnovale
+LOCATION:Piccolo Teatro Strehler
+DESCRIPTION:Goldoni diretto da Valerio Binasco: il congedo del commediograf
+ o da Venezia. https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-
+ sere-di-carnovale
+URL:https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-car
+ novale
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-di-madre-in-figlia@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261128T193000
+DTEND;TZID=Europe/Rome:20261128T213000
+SUMMARY:Di madre in figlia
+LOCATION:Piccolo Teatro Grassi
+DESCRIPTION:Concita De Gregorio in scena con tre generazioni di donne\; reg
+ ia di Gaia Saitta. Prima assoluta. https://www.piccoloteatro.org/it/2026-2
+ 027/di-madre-in-figlia
+URL:https://www.piccoloteatro.org/it/2026-2027/di-madre-in-figlia
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-io-sono-verticale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261128T193000
+DTEND;TZID=Europe/Rome:20261128T213000
+SUMMARY:Io sono verticale
+LOCATION:Teatro Elfo Puccini\, Sala Bausch
+DESCRIPTION:Francesca Astrei racconta la depressione da dentro e da chi sta
+  accanto. https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm
+URL:https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261128T193000
+DTEND;TZID=Europe/Rome:20261128T213000
+SUMMARY:Una delle ultime sere di carnovale
+LOCATION:Piccolo Teatro Strehler
+DESCRIPTION:Goldoni diretto da Valerio Binasco: il congedo del commediograf
+ o da Venezia. https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-
+ sere-di-carnovale
+URL:https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-car
+ novale
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-la-rivolta@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261128T203000
+DTEND;TZID=Europe/Rome:20261128T223000
+SUMMARY:La rivolta
+LOCATION:Teatro Leonardo (via Ampère 1)
+DESCRIPTION:Scritto e diretto da Corrado d'Elia. https://www.mentelocale.it
+ /milano/139866-rivolta.htm
+URL:https://www.mentelocale.it/milano/139866-rivolta.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-stai-zitta@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261128T203000
+DTEND;TZID=Europe/Rome:20261128T223000
+SUMMARY:Stai zitta!
+LOCATION:Teatro Carcano
+DESCRIPTION:Dal libro di Michela Murgia\, con Antonella Questa\, Valentina 
+ Melis\, Letizia Bravi. https://www.mentelocale.it/milano/129771-stai-zitta
+ .htm
+URL:https://www.mentelocale.it/milano/129771-stai-zitta.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-io-sono-verticale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T153000
+DTEND;TZID=Europe/Rome:20261129T173000
+SUMMARY:Io sono verticale
+LOCATION:Teatro Elfo Puccini\, Sala Bausch
+DESCRIPTION:Francesca Astrei racconta la depressione da dentro e da chi sta
+  accanto. https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm
+URL:https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-di-madre-in-figlia@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T160000
+DTEND;TZID=Europe/Rome:20261129T180000
+SUMMARY:Di madre in figlia
+LOCATION:Piccolo Teatro Grassi
+DESCRIPTION:Concita De Gregorio in scena con tre generazioni di donne\; reg
+ ia di Gaia Saitta. Prima assoluta. https://www.piccoloteatro.org/it/2026-2
+ 027/di-madre-in-figlia
+URL:https://www.piccoloteatro.org/it/2026-2027/di-madre-in-figlia
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T160000
+DTEND;TZID=Europe/Rome:20261129T180000
+SUMMARY:Una delle ultime sere di carnovale
+LOCATION:Piccolo Teatro Strehler
+DESCRIPTION:Goldoni diretto da Valerio Binasco: il congedo del commediograf
+ o da Venezia. https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-
+ sere-di-carnovale
+URL:https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-car
+ novale
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-la-rivolta@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T163000
+DTEND;TZID=Europe/Rome:20261129T183000
+SUMMARY:La rivolta
+LOCATION:Teatro Leonardo (via Ampère 1)
+DESCRIPTION:Scritto e diretto da Corrado d'Elia. https://www.mentelocale.it
+ /milano/139866-rivolta.htm
+URL:https://www.mentelocale.it/milano/139866-rivolta.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-stai-zitta@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T163000
+DTEND;TZID=Europe/Rome:20261129T183000
+SUMMARY:Stai zitta!
+LOCATION:Teatro Carcano
+DESCRIPTION:Dal libro di Michela Murgia. https://www.mentelocale.it/milano/
+ 129771-stai-zitta.htm
+URL:https://www.mentelocale.it/milano/129771-stai-zitta.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-alessandro-cattelan-benvenuto-nell-ai@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261130T210000
+DTEND;TZID=Europe/Rome:20261130T230000
+SUMMARY:Alessandro Cattelan\, Benvenuto nell'AI!
+LOCATION:Teatro Lirico Giorgio Gaber (via Larga 14)
+DESCRIPTION:One man show. https://www.mentelocale.it/milano/133146-alessand
+ ro-cattelan-benvenuto-nell-ai.htm
+URL:https://www.mentelocale.it/milano/133146-alessandro-cattelan-benvenuto-
+ nell-ai.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-curae-2026-non-ti-pago-apertura@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Curae 2026: Non ti pago (apertura)
+LOCATION:Teatro Puntozero Beccaria (via Calchi Taeggi 20)
+DESCRIPTION:Si apre il festival delle arti performative nate negli istituti
+  penali minorili: Eduardo recitato dai ragazzi dell'IPM di Catanzaro. http
+ s://www.mentelocale.it/milano/147779-curae-2026-a-milano-il-festival-di-ar
+ ti-performative-sviluppate-negli-istituti-penali-per-i-minorenni.htm
+URL:https://www.mentelocale.it/milano/147779-curae-2026-a-milano-il-festiva
+ l-di-arti-performative-sviluppate-negli-istituti-penali-per-i-minorenni.ht
+ m
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-di-madre-in-figlia@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261201T193000
+DTEND;TZID=Europe/Rome:20261201T213000
+SUMMARY:Di madre in figlia
+LOCATION:Piccolo Teatro Grassi
+DESCRIPTION:Concita De Gregorio in scena con tre generazioni di donne\; reg
+ ia di Gaia Saitta. Prima assoluta. https://www.piccoloteatro.org/it/2026-2
+ 027/di-madre-in-figlia
+URL:https://www.piccoloteatro.org/it/2026-2027/di-madre-in-figlia
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-giuseppe-il-padre-putativo-anteprima-under-30@acculturiamoci
+ .it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261201T193000
+DTEND;TZID=Europe/Rome:20261201T213000
+SUMMARY:Giuseppe: il padre putativo (anteprima under 30)
+LOCATION:Teatro Elfo Puccini\, Sala Bausch
+DESCRIPTION:Un padre di oggi tra desiderio e responsabilità\; testo di Luc
+ a Cardetta\, con Michele Di Giacomo. https://www.elfo.org/spettacoli/2026-
+ 2027/giuseppe-padre-putativo-under30.htm
+URL:https://www.elfo.org/spettacoli/2026-2027/giuseppe-padre-putativo-under
+ 30.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-spose-del-vento@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Spose del vento
+LOCATION:Pacta Salone (via Ulisse Dini 7)
+DESCRIPTION:Elisa Baio e Giuseppe Guerrieri in scena. https://www.menteloca
+ le.it/milano/139807-spose-vento.htm
+URL:https://www.mentelocale.it/milano/139807-spose-vento.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-curae-2026-portami-la-fuori@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Curae 2026: Portami là fuori
+LOCATION:Teatro Puntozero Beccaria (via Calchi Taeggi 20)
+DESCRIPTION:Teatro e musica con giovani degli IPM di Acireale\, Airola e Qu
+ artucciu. https://www.mentelocale.it/milano/147779-curae-2026-a-milano-il-
+ festival-di-arti-performative-sviluppate-negli-istituti-penali-per-i-minor
+ enni.htm
+URL:https://www.mentelocale.it/milano/147779-curae-2026-a-milano-il-festiva
+ l-di-arti-performative-sviluppate-negli-istituti-penali-per-i-minorenni.ht
+ m
+CATEGORIES:Teatro
+END:VEVENT
+END:VCALENDAR

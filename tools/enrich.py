@@ -1,0 +1,183 @@
+#!/usr/bin/env python3
+"""Arricchisce events.json e genera i calendari per tema in cal/.
+
+Uso (dalla cartella del sito):  python3 tools/enrich.py
+
+Cosa fa, senza mai cancellare dati già presenti:
+  - key      chiave stabile (data + titolo), utile per preferiti e link
+  - cat      sposta in "scienza" gli eventi chiaramente scientifici
+  - why      una riga editoriale "perché andarci" per gli imperdibili
+  - moods    ridere / pensare / emozionarmi / gente / bambini
+  - geo,zona coordinate indicative e quartiere, da tools/venues.json
+  - status   lasciato com'è se presente (ultimi posti, esaurito)
+Poi scrive cal/<tema>.ics e cal/tutto.ics.
+"""
+import json, re, os, unicodedata, datetime as dt
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+EV = os.path.join(ROOT, "events.json")
+VEN = os.path.join(ROOT, "tools", "venues.json")
+WHY = os.path.join(ROOT, "tools", "why.json")
+CAL = os.path.join(ROOT, "cal")
+
+CAT_NAMES = {
+    "teatro": "Teatro", "talk": "Incontri e talk", "filosofia": "Filosofia",
+    "storia": "Arte e storia", "geo": "Geopolitica", "salute": "Psiche e salute",
+    "scienza": "Scienza", "classica": "Classica e chiese", "jazz": "Jazz e live",
+    "cinema": "Cinema", "famiglie": "Famiglie",
+}
+
+SCIENCE = re.compile(
+    r"scienz|astronaut|astrofis|cristoforetti|ercoli finzi|biologic|neuroscien|"
+    r"\bfisica|matematic|cervello|genetic|pievani|darwin|crisi climatica|"
+    r"cambiamento climatico|intelligenza artificiale|cosmolog", re.I)
+
+MOODS = {
+    "ridere": re.compile(r"comic|commedia|cabaret|stand.?up|ironi|umoris|risat|"
+                         r"bergonzoni|zerocalcare|satir|clown|improvvisaz", re.I),
+    "gente": re.compile(r"laboratori|workshop|aperitiv|pratiche filosofiche|caff[eè] filosof|"
+                        r"dibattito|discussione|festa|community|open day|swing|"
+                        r"philo|cuccagna|base milano|jam", re.I),
+}
+MOOD_BY_CAT = {
+    "pensare": {"talk", "filosofia", "geo", "storia", "scienza", "salute"},
+    "emozionarmi": {"classica", "jazz", "teatro", "cinema"},
+    "bambini": {"famiglie"},
+}
+
+
+def slug(s):
+    s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower()
+    return re.sub(r"[^a-z0-9]+", "-", s).strip("-")[:48]
+
+
+def enrich(d):
+    venues = json.load(open(VEN, encoding="utf-8"))
+    why = json.load(open(WHY, encoding="utf-8")) if os.path.exists(WHY) else {}
+    seen = {}
+    for e in d["events"]:
+        k = f'{e["date"]}-{slug(e["title"])}'
+        if k in seen:
+            seen[k] += 1
+            k = f"{k}-{seen[k]}"
+        else:
+            seen[k] = 1
+        e["key"] = k
+        text = f'{e["title"]} {e.get("desc","")} {e.get("venue","")}'
+        stext = f'{e["title"]} {e.get("desc","")}'
+        if e.get("cat") != "famiglie" and SCIENCE.search(stext) and "ideologic" not in stext.lower():
+            e["cat"] = "scienza"
+        if not e.get("why") and "imperdibile" in e.get("tags", []):
+            low = e["title"].lower()
+            for frag, line in why.items():
+                if frag.lower() in low:
+                    e["why"] = line
+                    break
+        if not e.get("moods"):
+            m = [name for name, cats in MOOD_BY_CAT.items() if e.get("cat") in cats]
+            for name, rx in MOODS.items():
+                if rx.search(text):
+                    m.append(name)
+            e["moods"] = sorted(set(m))
+        if not e.get("geo"):
+            v = e.get("venue", "").lower()
+            for row in venues:
+                if row["match"].lower() in v:
+                    e["geo"] = [row["lat"], row["lng"]]
+                    e["zona"] = row["zona"]
+                    break
+    return d
+
+
+# ---------- ICS ----------
+VTZ = """BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE"""
+
+
+def esc(s):
+    return (s or "").replace("\\", "\\\\").replace(";", "\\;").replace(",", "\\,").replace("\n", "\\n")
+
+
+def fold(line):
+    b = line.encode("utf-8")
+    if len(b) <= 75:
+        return line
+    out, cur = [], b""
+    for ch in line:
+        c = ch.encode("utf-8")
+        if len(cur) + len(c) > (75 if not out else 74):
+            out.append(cur.decode("utf-8"))
+            cur = b""
+        cur += c
+    out.append(cur.decode("utf-8"))
+    return "\r\n ".join(out)
+
+
+def vevent(e, stamp):
+    d = e["date"].replace("-", "")
+    lines = ["BEGIN:VEVENT", f'UID:{e["key"]}@acculturiamoci.it', f"DTSTAMP:{stamp}"]
+    if e.get("time"):
+        h, m = e["time"].split(":")
+        start = dt.datetime.strptime(e["date"] + e["time"], "%Y-%m-%d%H:%M")
+        end = start + dt.timedelta(hours=2)
+        lines += [f"DTSTART;TZID=Europe/Rome:{start:%Y%m%dT%H%M%S}",
+                  f"DTEND;TZID=Europe/Rome:{end:%Y%m%dT%H%M%S}"]
+    else:
+        nxt = (dt.date.fromisoformat(e["date"]) + dt.timedelta(days=1)).strftime("%Y%m%d")
+        lines += [f"DTSTART;VALUE=DATE:{d}", f"DTEND;VALUE=DATE:{nxt}"]
+    desc = " ".join(x for x in [e.get("why"), e.get("desc")] if x)
+    lines += [f'SUMMARY:{esc(e["title"])}', f'LOCATION:{esc(e.get("venue"))}',
+              f'DESCRIPTION:{esc((desc + " ") if desc else "")}{esc(e.get("url"))}',
+              f'URL:{e.get("url","")}', f'CATEGORIES:{esc(CAT_NAMES.get(e["cat"], e["cat"]))}',
+              "END:VEVENT"]
+    return lines
+
+
+def write_ics(name, title, events):
+    stamp = dt.datetime.now(dt.timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+    lines = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//acculturiamoci.it//IT",
+             "CALSCALE:GREGORIAN", "METHOD:PUBLISH", f"X-WR-CALNAME:{esc(title)}",
+             "X-WR-TIMEZONE:Europe/Rome", "REFRESH-INTERVAL;VALUE=DURATION:PT12H",
+             "X-PUBLISHED-TTL:PT12H"]
+    lines += VTZ.split("\n")
+    for e in events:
+        lines += vevent(e, stamp)
+    lines.append("END:VCALENDAR")
+    with open(os.path.join(CAL, name), "w", encoding="utf-8", newline="") as f:
+        f.write("\r\n".join(fold(l) for l in lines) + "\r\n")
+
+
+def main():
+    d = json.load(open(EV, encoding="utf-8"))
+    enrich(d)
+    with open(EV, "w", encoding="utf-8") as f:
+        json.dump(d, f, ensure_ascii=False, indent=1)
+    os.makedirs(CAL, exist_ok=True)
+    evs = sorted(d["events"], key=lambda e: (e["date"], e.get("time") or "99"))
+    write_ics("tutto.ics", "Acculturiamoci · Milano", evs)
+    for cat, name in CAT_NAMES.items():
+        write_ics(f"{cat}.ics", f"Acculturiamoci · {name}", [e for e in evs if e["cat"] == cat])
+    imp = [e for e in evs if "imperdibile" in e.get("tags", [])]
+    write_ics("imperdibili.ics", "Acculturiamoci · Imperdibili", imp)
+    from collections import Counter
+    print("eventi:", len(evs), dict(Counter(e["cat"] for e in evs)))
+    print("con why:", sum(1 for e in evs if e.get("why")), " con geo:", sum(1 for e in evs if e.get("geo")))
+
+
+if __name__ == "__main__":
+    main()

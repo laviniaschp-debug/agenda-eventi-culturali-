@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci · Cinema
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-22-il-fuoco-che-ti-porti-dentro-lezione-di-cinema@acculturiamoc
+ i.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261122T150000
+DTEND;TZID=Europe/Rome:20261122T170000
+SUMMARY:Il fuoco che ti porti dentro: lezione di cinema
+LOCATION:Anteo Palazzo del Cinema
+DESCRIPTION:Con Edoardo De Angelis\, Vanessa Scalera\, Lino Musella. https:
+ //www.spaziocinema.info/milano/eventi-e-rassegne/il-fuoco-che-ti-porti-den
+ tro-lezione-di-cinema-con-il-regista-edoardo-de-angelis-e-gli-attori-vanes
+ sa-scalera-e-lino-musella
+URL:https://www.spaziocinema.info/milano/eventi-e-rassegne/il-fuoco-che-ti-
+ porti-dentro-lezione-di-cinema-con-il-regista-edoardo-de-angelis-e-gli-att
+ ori-vanessa-scalera-e-lino-musella
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-gli-spietati-rassegna-gene-hackman@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T190000
+DTEND;TZID=Europe/Rome:20261123T210000
+SUMMARY:Gli spietati (rassegna Gene Hackman)
+LOCATION:Cineteca Arlecchino
+DESCRIPTION:Il western crepuscolare di Eastwood nella rassegna dedicata a G
+ ene Hackman. https://www.cinetecamilano.it/rassegna/gene-hackman-una-facci
+ a-per-il-cinema/
+URL:https://www.cinetecamilano.it/rassegna/gene-hackman-una-faccia-per-il-c
+ inema/
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-l-eterna-illusione-da-broadway-a-hollywood@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T193000
+DTEND;TZID=Europe/Rome:20261123T213000
+SUMMARY:L'eterna illusione: da Broadway a Hollywood
+LOCATION:Anteo Palazzo del Cinema
+DESCRIPTION:Rassegna del lunedì. https://www.spaziocinema.info/milano/even
+ ti-e-rassegne/l2019eterna-illusione-da-broadway-a-hollywood
+URL:https://www.spaziocinema.info/milano/eventi-e-rassegne/l2019eterna-illu
+ sione-da-broadway-a-hollywood
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-vedo-ascolto-parlo-contro-la-violenza-sulle-donn@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Vedo\, ascolto\, parlo: contro la violenza sulle donne
+LOCATION:Anteo Palazzo del Cinema
+DESCRIPTION:Dal 23 al 25. https://www.spaziocinema.info/milano/eventi-e-ras
+ segne/vedo-ascolto-parlo-muoviamoci-contro-la-violenza-sulle-donne
+URL:https://www.spaziocinema.info/milano/eventi-e-rassegne/vedo-ascolto-par
+ lo-muoviamoci-contro-la-violenza-sulle-donne
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-presentazione-de-il-morandini-2026@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261124T190000
+DTEND;TZID=Europe/Rome:20261124T210000
+SUMMARY:Presentazione de Il Morandini 2026
+LOCATION:Cineteca Milano
+DESCRIPTION:Presentazione della nuova edizione del dizionario dei film. htt
+ ps://www.cinetecamilano.it/evento/presentazione-il-morandini-2026/
+URL:https://www.cinetecamilano.it/evento/presentazione-il-morandini-2026/
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-docufilm-sui-150-anni-del-corriere@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261127T203000
+DTEND;TZID=Europe/Rome:20261127T223000
+SUMMARY:Docufilm sui 150 anni del Corriere
+LOCATION:Fondazione Corriere della Sera
+DESCRIPTION:Con Neri Marcorè. https://www.mentelocale.it/milano/145491-boo
+ kcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-masterclass-con-laura-citarella@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261128T100000
+DTEND;TZID=Europe/Rome:20261128T120000
+SUMMARY:Masterclass con Laura Citarella
+LOCATION:Auditorium San Fedele
+DESCRIPTION:La regista argentina di El Pampero Cine racconta il suo modo di
+  fare cinema. https://www.sanfedele.net/progetti/laura-citarella/
+URL:https://www.sanfedele.net/progetti/laura-citarella/
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-e-andata-cosi-lezione-di-cinema@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261128T103000
+DTEND;TZID=Europe/Rome:20261128T123000
+SUMMARY:È andata così: lezione di cinema
+LOCATION:Anteo Palazzo del Cinema
+DESCRIPTION:Gianni Zanasi con Michele Riondino e Valentina Lodovini raccont
+ ano il film. https://www.spaziocinema.info/milano/eventi-e-rassegne/e-anda
+ ta-cosi-lezione-di-cinema-con-il-regista-gianni-zanasi-michele-riondino-e-
+ valentina-lodovini
+URL:https://www.spaziocinema.info/milano/eventi-e-rassegne/e-andata-cosi-le
+ zione-di-cinema-con-il-regista-gianni-zanasi-michele-riondino-e-valentina-
+ lodovini
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-pupi-avati-il-gotico-padano-e-il-cinema@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T110000
+DTEND;TZID=Europe/Rome:20261129T130000
+SUMMARY:Pupi Avati: il gotico padano e il cinema
+LOCATION:Anteo Palazzo del Cinema
+DESCRIPTION:Il maestro del gotico padano racconta il suo cinema. https://ww
+ w.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-
+ eventi-da-non-perdere.htm
+URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
+ -ospiti-temi-eventi-da-non-perdere.htm
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-noir-in-festival-josephine-di-beth-de-araujo@acculturiamoci.
+ it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261130T183000
+DTEND;TZID=Europe/Rome:20261130T203000
+SUMMARY:Noir in Festival: Josephine di Beth De Araujo
+LOCATION:Anteo Palazzo del Cinema
+DESCRIPTION:Apertura del concorso della 36ª edizione del Noir in Festival.
+  https://www.spaziocinema.info/milano/eventi-e-rassegne/36deg-noir-in-fest
+ ival
+URL:https://www.spaziocinema.info/milano/eventi-e-rassegne/36deg-noir-in-fe
+ stival
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-l-eterna-illusione-da-broadway-a-hollywood@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261130T193000
+DTEND;TZID=Europe/Rome:20261130T213000
+SUMMARY:L'eterna illusione: da Broadway a Hollywood
+LOCATION:Anteo Palazzo del Cinema
+DESCRIPTION:Nuovo appuntamento della rassegna sul musical tra palco e scher
+ mo. https://www.spaziocinema.info/milano/eventi-e-rassegne/l2019eterna-ill
+ usione-da-broadway-a-hollywood
+URL:https://www.spaziocinema.info/milano/eventi-e-rassegne/l2019eterna-illu
+ sione-da-broadway-a-hollywood
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-noir-in-festival-the-blood-countess-di-ulrike-ot@acculturiam
+ oci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261130T213000
+DTEND;TZID=Europe/Rome:20261130T233000
+SUMMARY:Noir in Festival: The Blood Countess di Ulrike Ottinger
+LOCATION:Anteo Palazzo del Cinema
+DESCRIPTION:Un film raro sul grande schermo\, con Isabelle Huppert annuncia
+ ta in sala. Fuori concorso alla 36ª edizione del festival\, con Isabelle 
+ Huppert annunciata in sala. https://www.spaziocinema.info/milano/eventi-e-
+ rassegne/36deg-noir-in-festival
+URL:https://www.spaziocinema.info/milano/eventi-e-rassegne/36deg-noir-in-fe
+ stival
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-noir-in-festival-mi-amor-di-guillaume-nicloux@acculturiamoci
+ .it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261201T190000
+DTEND;TZID=Europe/Rome:20261201T210000
+SUMMARY:Noir in Festival: Mi Amor di Guillaume Nicloux
+LOCATION:Anteo Palazzo del Cinema
+DESCRIPTION:Film in concorso\, con il regista atteso in sala. https://www.s
+ paziocinema.info/milano/eventi-e-rassegne/36deg-noir-in-festival
+URL:https://www.spaziocinema.info/milano/eventi-e-rassegne/36deg-noir-in-fe
+ stival
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-noir-in-festival-l-ombra-e-dark-vertigo@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261201T213000
+DTEND;TZID=Europe/Rome:20261201T233000
+SUMMARY:Noir in Festival: L'Ombra e Dark Vertigo
+LOCATION:Anteo Palazzo del Cinema
+DESCRIPTION:Anteprima della serie Rai con Luigi Lo Cascio\, poi il film di 
+ Giancarlo Soldi. https://www.spaziocinema.info/milano/eventi-e-rassegne/36
+ deg-noir-in-festival
+URL:https://www.spaziocinema.info/milano/eventi-e-rassegne/36deg-noir-in-fe
+ stival
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-noir-in-festival-found-alive-di-carlota-pereda@acculturiamoc
+ i.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261202T190000
+DTEND;TZID=Europe/Rome:20261202T210000
+SUMMARY:Noir in Festival: Found Alive di Carlota Pereda
+LOCATION:Anteo Palazzo del Cinema
+DESCRIPTION:Film in concorso al festival del noir\, con la regista in sala.
+  https://www.spaziocinema.info/milano/eventi-e-rassegne/36deg-noir-in-fest
+ ival
+URL:https://www.spaziocinema.info/milano/eventi-e-rassegne/36deg-noir-in-fe
+ stival
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-noir-in-festival-furies-di-rami-kodeih@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261202T213000
+DTEND;TZID=Europe/Rome:20261202T233000
+SUMMARY:Noir in Festival: Furies di Rami Kodeih
+LOCATION:Anteo Palazzo del Cinema
+DESCRIPTION:Film libanese-brasiliano in concorso al festival del noir. http
+ s://www.spaziocinema.info/milano/eventi-e-rassegne/36deg-noir-in-festival
+URL:https://www.spaziocinema.info/milano/eventi-e-rassegne/36deg-noir-in-fe
+ stival
+CATEGORIES:Cinema
+END:VEVENT
+END:VCALENDAR

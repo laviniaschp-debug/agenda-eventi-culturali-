@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci · Famiglie
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-23-l-elisir-d-amore-per-i-bambini@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T110000
+DTEND;TZID=Europe/Rome:20261123T130000
+SUMMARY:L'elisir d'amore per i bambini
+LOCATION:Teatro alla Scala
+DESCRIPTION:Replica anche alle 14:30. https://www.teatroallascala.org/it/ca
+ lendario.html
+URL:https://www.teatroallascala.org/it/calendario.html
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-l-elisir-d-amore-per-i-bambini-2@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261123T143000
+DTEND;TZID=Europe/Rome:20261123T163000
+SUMMARY:L'elisir d'amore per i bambini
+LOCATION:Teatro alla Scala
+DESCRIPTION:Donizetti in versione ridotta per il pubblico più giovane. htt
+ ps://www.teatroallascala.org/it/calendario.html
+URL:https://www.teatroallascala.org/it/calendario.html
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-visite-e-laboratori-per-famiglie@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Visite e laboratori per famiglie
+LOCATION:Museo Bagatti Valsecchi
+DESCRIPTION:https://mentelocale.it/milano/eventi/
+URL:https://mentelocale.it/milano/eventi/
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-bookcity-0-6@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T110000
+DTEND;TZID=Europe/Rome:20261129T130000
+SUMMARY:BookCity 0-6
+LOCATION:Fondazione Luigi Rovati
+DESCRIPTION:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/
+ appuntamenti/bookcity-milano-2026-6/
+URL:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntam
+ enti/bookcity-milano-2026-6/
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-buon-compleanno-gus@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;TZID=Europe/Rome:20261129T113000
+DTEND;TZID=Europe/Rome:20261129T133000
+SUMMARY:Buon compleanno Gus!
+LOCATION:BASE Milano\, Ground Hall
+DESCRIPTION:Concerto narrato per bambini con i giovani ensemble della Sinfo
+ nica: Haydn\, Händel\, Beethoven. https://www.sinfonicadimilano.org/it/ev
+ enti/2026-27/uon-compleanno-gus-
+URL:https://www.sinfonicadimilano.org/it/eventi/2026-27/uon-compleanno-gus-
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-gli-elfi-di-babbo-natale@acculturiamoci.it
+DTSTAMP:20261122T160814Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Gli elfi di Babbo Natale
+LOCATION:Teatro Carcano
+DESCRIPTION:Spettacolo natalizio per bambini della rassegna Fantateatro. ht
+ tps://www.teatrocarcano.com/eventi/2026-2027/gli-elfi-di-babbo-natale-2627
+ .htm
+URL:https://www.teatrocarcano.com/eventi/2026-2027/gli-elfi-di-babbo-natale
+ -2627.htm
+CATEGORIES:Famiglie
+END:VEVENT
+END:VCALENDAR
