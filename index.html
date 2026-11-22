@@ -9,7 +9,7 @@
 <meta property="og:description" content="Tutti gli eventi della tua città per pensare ed emozionarsi, dal vivo.">
 <meta name="theme-color" content="#ffffff">
 <link rel="me" href="https://www.instagram.com/acculturiamoci_official/">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Ccircle cx='20' cy='20' r='20' fill='%23f2a91c'/%3E%3Cpath d='M28.6 21.2c-3.2-1.6-3.4-5.8 0-10.6 3.4 4.8 3.2 9 0 10.6z' fill='%23fff6dc'/%3E%3Cpath d='M6.5 25.2c0-2.8 3.8-4.5 8.5-4.5h6l7.5 3c1.2.5 1.2 1.6 0 2.1l-7.5 3h-6c-4.7 0-8.5-1.6-8.5-3.6z' fill='%235c1a1f'/%3E%3C/svg%3E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Ccircle cx='20' cy='20' r='20' fill='%23e8505b'/%3E%3Cg transform='rotate(-12 20 20)'%3E%3Cpath d='M9 12.5h22a2 2 0 0 1 2 2v3a2.5 2.5 0 0 0 0 5v3a2 2 0 0 1-2 2H9a2 2 0 0 1-2-2v-3a2.5 2.5 0 0 0 0-5v-3a2 2 0 0 1 2-2z' fill='%23fff6dc'/%3E%3Cpath d='M16 15l1.25 3.75L21 20l-3.75 1.25L16 25l-1.25-3.75L11 20l3.75-1.25z' fill='%235c1a1f'/%3E%3C/g%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -54,9 +54,9 @@ button{font:inherit;color:inherit;cursor:pointer}
 .lamp{width:36px;height:36px;flex:0 0 auto;display:block}
 .lamp.sm{width:30px;height:30px}
 .lamp.big{width:64px;height:64px}
-.logo:hover .lamp .fl{animation:flick .9s ease-in-out infinite}
-@keyframes flick{0%,100%{transform:scaleY(1)}50%{transform:scaleY(1.12) translateY(-.5px)}}
-.lamp .fl{transform-origin:28.6px 21px;transform-box:view-box}
+.lamp .tk,.lamp .sp{transform-box:view-box}
+.lamp .sp{transform-origin:16px 20px;transition:transform .5s var(--ease)}
+.logo:hover .lamp .sp,.theme:hover .lamp .sp{transform:rotate(90deg) scale(1.15)}
 .city{position:relative}
 .city>button{display:flex;align-items:center;gap:8px;border:1px solid var(--line);background:#fff;border-radius:999px;padding:8px 14px;font-weight:700;font-size:14px}
 .city>button:hover{box-shadow:0 2px 8px rgba(0,0,0,.08)}
@@ -413,7 +413,7 @@ footer p{margin:0}
 <body>
 <header class="hdr">
   <div class="wrap">
-    <a class="logo" href="#top" aria-label="Acculturiamoci, torna su"><svg class="lamp" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="20" fill="#f2a91c"/><g class="fl"><path d="M28.6 21.2c-3.2-1.6-3.4-5.8 0-10.6 3.4 4.8 3.2 9 0 10.6z" fill="#fff6dc"/><path d="M28.6 19.6c-1.4-.8-1.5-2.6 0-4.6 1.5 2 1.4 3.8 0 4.6z" fill="#c8372d"/></g><path d="M6.5 25.2c0-2.8 3.8-4.5 8.5-4.5h6l7.5 3c1.2.5 1.2 1.6 0 2.1l-7.5 3h-6c-4.7 0-8.5-1.6-8.5-3.6z" fill="#5c1a1f"/><path d="M7.4 24.4c-3-.3-3-4.4.3-4.3" fill="none" stroke="#5c1a1f" stroke-width="1.8" stroke-linecap="round"/><path d="M12.8 32.2h8.4" stroke="#5c1a1f" stroke-width="2.2" stroke-linecap="round"/><path d="M15.2 28.9l-.6 3M18.8 28.9l.6 3" stroke="#5c1a1f" stroke-width="1.8" stroke-linecap="round"/></svg><span>acculturiamoci</span></a>
+    <a class="logo" href="#top" aria-label="Acculturiamoci, torna su"><svg class="lamp" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="20" fill="#e8505b"/><g class="tk" transform="rotate(-12 20 20)"><path d="M9 12.5h22a2 2 0 0 1 2 2v3a2.5 2.5 0 0 0 0 5v3a2 2 0 0 1-2 2H9a2 2 0 0 1-2-2v-3a2.5 2.5 0 0 0 0-5v-3a2 2 0 0 1 2-2z" fill="#fff6dc"/><path d="M25 13.5v13" stroke="#e8505b" stroke-width="1" stroke-dasharray="1.2 1.2"/><path class="sp" d="M16 15l1.25 3.75L21 20l-3.75 1.25L16 25l-1.25-3.75L11 20l3.75-1.25z" fill="#5c1a1f"/></g></svg><span>acculturiamoci</span></a>
     <div class="city">
       <button id="cityBtn" aria-haspopup="listbox" aria-expanded="false"><span class="pin"></span><span id="cityName">Milano</span> ▾</button>
       <div class="dd" id="cityDD" role="listbox" aria-label="Scegli la città"></div>
@@ -426,7 +426,7 @@ footer p{margin:0}
     <a class="planlink" href="#serate" aria-label="Le mie serate: eventi salvati"><span class="h">♥</span><span class="pl-t">Le mie serate</span><span class="badge zero" id="savedN">0</span></a>
     <button class="burger" id="menuBtn" aria-expanded="false" aria-controls="menu" aria-label="Menu">
       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
-      <span class="av"><svg class="lamp sm" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="20" fill="#f2a91c"/><path d="M28.6 21.2c-3.2-1.6-3.4-5.8 0-10.6 3.4 4.8 3.2 9 0 10.6z" fill="#fff6dc"/><path d="M28.6 19.6c-1.4-.8-1.5-2.6 0-4.6 1.5 2 1.4 3.8 0 4.6z" fill="#c8372d"/><path d="M6.5 25.2c0-2.8 3.8-4.5 8.5-4.5h6l7.5 3c1.2.5 1.2 1.6 0 2.1l-7.5 3h-6c-4.7 0-8.5-1.6-8.5-3.6z" fill="#5c1a1f"/><path d="M7.4 24.4c-3-.3-3-4.4.3-4.3" fill="none" stroke="#5c1a1f" stroke-width="1.8" stroke-linecap="round"/><path d="M12.8 32.2h8.4" stroke="#5c1a1f" stroke-width="2.2" stroke-linecap="round"/><path d="M15.2 28.9l-.6 3M18.8 28.9l.6 3" stroke="#5c1a1f" stroke-width="1.8" stroke-linecap="round"/></svg></span>
+      <span class="av"><svg class="lamp sm" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="20" fill="#e8505b"/><g class="tk" transform="rotate(-12 20 20)"><path d="M9 12.5h22a2 2 0 0 1 2 2v3a2.5 2.5 0 0 0 0 5v3a2 2 0 0 1-2 2H9a2 2 0 0 1-2-2v-3a2.5 2.5 0 0 0 0-5v-3a2 2 0 0 1 2-2z" fill="#fff6dc"/><path d="M25 13.5v13" stroke="#e8505b" stroke-width="1" stroke-dasharray="1.2 1.2"/><path class="sp" d="M16 15l1.25 3.75L21 20l-3.75 1.25L16 25l-1.25-3.75L11 20l3.75-1.25z" fill="#5c1a1f"/></g></svg></span>
     </button>
     <div class="menu" id="menu">
       <a href="#stasera">Stasera</a>
@@ -759,7 +759,7 @@ function render(){
     <section class="sec" id="temi">
       <h3>Scegli il tema ${S.cats.size ? "<small>tocca di nuovo per togliere</small>" : ""}</h3>
       <div class="themes">
-        <button class="theme all" data-all aria-pressed="${S.cats.size===0}"><span class="tile"><svg class="lamp big" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="20" fill="#f2a91c"/><path d="M28.6 21.2c-3.2-1.6-3.4-5.8 0-10.6 3.4 4.8 3.2 9 0 10.6z" fill="#fff6dc"/><path d="M28.6 19.6c-1.4-.8-1.5-2.6 0-4.6 1.5 2 1.4 3.8 0 4.6z" fill="#c8372d"/><path d="M6.5 25.2c0-2.8 3.8-4.5 8.5-4.5h6l7.5 3c1.2.5 1.2 1.6 0 2.1l-7.5 3h-6c-4.7 0-8.5-1.6-8.5-3.6z" fill="#5c1a1f"/><path d="M7.4 24.4c-3-.3-3-4.4.3-4.3" fill="none" stroke="#5c1a1f" stroke-width="1.8" stroke-linecap="round"/><path d="M12.8 32.2h8.4" stroke="#5c1a1f" stroke-width="2.2" stroke-linecap="round"/><path d="M15.2 28.9l-.6 3M18.8 28.9l.6 3" stroke="#5c1a1f" stroke-width="1.8" stroke-linecap="round"/></svg></span><span class="lbl">Tutto</span><span class="n">${DATA.events.length} eventi</span></button>
+        <button class="theme all" data-all aria-pressed="${S.cats.size===0}"><span class="tile"><svg class="lamp big" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="20" fill="#e8505b"/><g class="tk" transform="rotate(-12 20 20)"><path d="M9 12.5h22a2 2 0 0 1 2 2v3a2.5 2.5 0 0 0 0 5v3a2 2 0 0 1-2 2H9a2 2 0 0 1-2-2v-3a2.5 2.5 0 0 0 0-5v-3a2 2 0 0 1 2-2z" fill="#fff6dc"/><path d="M25 13.5v13" stroke="#e8505b" stroke-width="1" stroke-dasharray="1.2 1.2"/><path class="sp" d="M16 15l1.25 3.75L21 20l-3.75 1.25L16 25l-1.25-3.75L11 20l3.75-1.25z" fill="#5c1a1f"/></g></svg></span><span class="lbl">Tutto</span><span class="n">${DATA.events.length} eventi</span></button>
         ${Object.entries(CATS).filter(([k]) => counts[k]).map(([k,v]) => `
           <button class="theme" data-cat="${k}" data-k="${k}" aria-pressed="${S.cats.has(k)}"><span class="tile">${icon(k)}</span><span class="lbl">${esc(v)}</span><span class="n">${counts[k]} eventi</span></button>`).join("")}
       </div>
