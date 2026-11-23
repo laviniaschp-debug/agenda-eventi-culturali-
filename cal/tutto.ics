@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-23-oltre-la-globalizzazione-la-lezione-giuridica-di@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261123T083000
 DTEND;TZID=Europe/Rome:20261123T103000
 SUMMARY:Oltre la globalizzazione. La lezione giuridica di Roma
@@ -39,7 +39,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-l-elisir-d-amore-per-i-bambini@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261123T110000
 DTEND;TZID=Europe/Rome:20261123T130000
 SUMMARY:L'elisir d'amore per i bambini
@@ -52,7 +52,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-dalla-preistoria-ad-oggi-il-viaggio-di-emilio-se@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261123T123000
 DTEND;TZID=Europe/Rome:20261123T143000
 SUMMARY:Dalla preistoria ad oggi: il viaggio di Emilio Sereni
@@ -65,7 +65,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-il-senno-del-giudizio-storia-della-giustizia-nel@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261123T123000
 DTEND;TZID=Europe/Rome:20261123T143000
 SUMMARY:Il senno del giudizio. Storia della giustizia nell'Italia repubblic
@@ -77,8 +77,23 @@ URL:https://work.unimi.it/eventir/registrazione?code=17568
 CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-23-today-at-apple-workshop-scatta-foto-eccezionali-@acculturiam
+ oci.it
+DTSTAMP:20261123T122430Z
+DTSTART;TZID=Europe/Rome:20261123T140000
+DTEND;TZID=Europe/Rome:20261123T160000
+SUMMARY:Today at Apple · Workshop: scatta foto eccezionali con iPhone
+LOCATION:Apple Piazza Liberty
+DESCRIPTION:Sessione gratuita di un'ora: inquadrature\, luce e trucchi dell
+ a fotocamera. Iscrizione sul sito Apple. https://www.apple.com/it/today/ev
+ ent/workshop-photos-on-iphone/7503013984459915264/?sn=R667
+URL:https://www.apple.com/it/today/event/workshop-photos-on-iphone/75030139
+ 84459915264/?sn=R667
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-23-l-elisir-d-amore-per-i-bambini-2@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261123T143000
 DTEND;TZID=Europe/Rome:20261123T163000
 SUMMARY:L'elisir d'amore per i bambini
@@ -89,9 +104,23 @@ URL:https://www.teatroallascala.org/it/calendario.html
 CATEGORIES:Famiglie
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-23-today-at-apple-workshop-video-con-iphone@acculturiamoci.it
+DTSTAMP:20261123T122430Z
+DTSTART;TZID=Europe/Rome:20261123T150000
+DTEND;TZID=Europe/Rome:20261123T170000
+SUMMARY:Today at Apple · Workshop: video con iPhone
+LOCATION:Apple Piazza Liberty
+DESCRIPTION:Sessione gratuita di un'ora per girare e montare video migliori
+  con il telefono. Iscrizione sul sito Apple. https://www.apple.com/it/toda
+ y/event/workshop-video-on-iphone-row/7503014123635310592/?sn=R667
+URL:https://www.apple.com/it/today/event/workshop-video-on-iphone-row/75030
+ 14123635310592/?sn=R667
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-23-i-misteri-d-italia-1974-la-strage-di-brescia@acculturiamoci.
  it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261123T163000
 DTEND;TZID=Europe/Rome:20261123T183000
 SUMMARY:I misteri d'Italia: 1974\, la strage di Brescia
@@ -103,7 +132,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-quale-sovranita-per-il-caucaso-meridionale@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261123T163000
 DTEND;TZID=Europe/Rome:20261123T183000
 SUMMARY:Quale sovranità per il Caucaso meridionale?
@@ -116,7 +145,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-dischi-e-tasti-ildebrando-pizzetti-piano-trio@acculturiamoci
  .it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261123T180000
 DTEND;TZID=Europe/Rome:20261123T200000
 SUMMARY:Dischi e tasti: Ildebrando Pizzetti\, Piano Trio
@@ -128,7 +157,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-milano-nella-storia-da-capitale-imperiale-a-metr@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261123T180000
 DTEND;TZID=Europe/Rome:20261123T200000
 SUMMARY:Milano nella storia: da capitale imperiale a metropoli
@@ -141,7 +170,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-teatro-dietro-l-angolo-la-drammaturgia@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261123T180000
 DTEND;TZID=Europe/Rome:20261123T200000
 SUMMARY:Teatro dietro l'angolo: la drammaturgia
@@ -157,7 +186,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-milo-manara-l-erotismo-nell-arte-e-nella-lettera@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261123T183000
 DTEND;TZID=Europe/Rome:20261123T203000
 SUMMARY:Milo Manara: l'erotismo nell'arte e nella letteratura
@@ -169,8 +198,21 @@ URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
 CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-23-workshop-costruisci-la-tua-prima-automazione@acculturiamoci.
+ it
+DTSTAMP:20261123T122430Z
+DTSTART;TZID=Europe/Rome:20261123T183000
+DTEND;TZID=Europe/Rome:20261123T203000
+SUMMARY:Workshop: costruisci la tua prima automazione
+LOCATION:Talent Garden Isola (piazza Città di Lombardia 1)
+DESCRIPTION:Serata pratica no-code: si esce con un flusso automatico funzio
+ nante. Porta il portatile. https://luma.com/event/evt-6g5FifXR0wvlEOf
+URL:https://luma.com/event/evt-6g5FifXR0wvlEOf
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-23-gli-spietati-rassegna-gene-hackman@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261123T190000
 DTEND;TZID=Europe/Rome:20261123T210000
 SUMMARY:Gli spietati (rassegna Gene Hackman)
@@ -183,8 +225,21 @@ URL:https://www.cinetecamilano.it/rassegna/gene-hackman-una-faccia-per-il-c
 CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-23-open-coding-night@acculturiamoci.it
+DTSTAMP:20261123T122430Z
+DTSTART;TZID=Europe/Rome:20261123T190000
+DTEND;TZID=Europe/Rome:20261123T210000
+SUMMARY:Open Coding Night
+LOCATION:WAO Isola (via Porro Lambertenghi 7)
+DESCRIPTION:Serata aperta di programmazione insieme\, per sviluppatori\, ma
+ ker e studenti. https://www.meetup.com/it-it/tdd-milano/events/vwtmbvyjcpb
+ fc/
+URL:https://www.meetup.com/it-it/tdd-milano/events/vwtmbvyjcpbfc/
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-23-l-eterna-illusione-da-broadway-a-hollywood@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261123T193000
 DTEND;TZID=Europe/Rome:20261123T213000
 SUMMARY:L'eterna illusione: da Broadway a Hollywood
@@ -197,7 +252,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-coro-di-voci-bianche-dell-accademia@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261123T200000
 DTEND;TZID=Europe/Rome:20261123T220000
 SUMMARY:Coro di Voci Bianche dell'Accademia
@@ -208,7 +263,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-inaugurazione-bookcity-colson-whitehead@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261123T200000
 DTEND;TZID=Europe/Rome:20261123T220000
 SUMMARY:Inaugurazione BookCity: Colson Whitehead
@@ -223,7 +278,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-alessandro-bergonzoni-voto-di-vastita@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261123T203000
 DTEND;TZID=Europe/Rome:20261123T223000
 SUMMARY:Alessandro Bergonzoni\, Voto di vastità
@@ -237,7 +292,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-roman-fediurko-pianoforte@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261123T204500
 DTEND;TZID=Europe/Rome:20261123T224500
 SUMMARY:Roman Fediurko\, pianoforte
@@ -250,7 +305,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-vedo-ascolto-parlo-contro-la-violenza-sulle-donn@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Vedo\, ascolto\, parlo: contro la violenza sulle donne
@@ -264,7 +319,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-la-ragione-di-orlando-come-il-medioevo-imparo-a-@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261124T103000
 DTEND;TZID=Europe/Rome:20261124T123000
 SUMMARY:La ragione di Orlando. Come il Medioevo imparò a dare conto delle 
@@ -277,7 +332,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-una-societa-piu-equa-e-anche-piu-sana@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261124T110000
 DTEND;TZID=Europe/Rome:20261124T130000
 SUMMARY:Una società più equa è anche più sana?
@@ -290,7 +345,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-daniel-pennac-apre-la-nuova-feltrinelli-centrale@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261124T120000
 DTEND;TZID=Europe/Rome:20261124T140000
 SUMMARY:Daniel Pennac apre la nuova Feltrinelli Centrale
@@ -305,7 +360,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-una-risata-seppellira-la-violenza-euripide-e-ari@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261124T123000
 DTEND;TZID=Europe/Rome:20261124T143000
 SUMMARY:Una risata seppellirà la violenza? Euripide e Aristofane
@@ -317,7 +372,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-otello-l-ultima-maschera-tragica@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261124T150000
 DTEND;TZID=Europe/Rome:20261124T170000
 SUMMARY:Otello: l'ultima maschera tragica
@@ -329,7 +384,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-over-dance-milano-danza-e-longevita@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261124T160000
 DTEND;TZID=Europe/Rome:20261124T180000
 SUMMARY:Over Dance Milano: danza e longevità
@@ -341,7 +396,7 @@ CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-l-universo-ideologico-di-trump@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261124T163000
 DTEND;TZID=Europe/Rome:20261124T183000
 SUMMARY:L'universo ideologico di Trump
@@ -354,7 +409,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-la-democrazia-partecipativa-tra-crisi-della-rapp@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261124T163000
 DTEND;TZID=Europe/Rome:20261124T183000
 SUMMARY:La democrazia partecipativa tra crisi della rappresentanza e stato 
@@ -368,7 +423,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-material-mente-umana-la-soggettivita-incarnata@acculturiamoc
  i.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261124T163000
 DTEND;TZID=Europe/Rome:20261124T183000
 SUMMARY:Material-mente umana. La soggettività incarnata
@@ -380,7 +435,7 @@ CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-salute-in-evoluzione-pievani-e-remuzzi@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261124T170000
 DTEND;TZID=Europe/Rome:20261124T190000
 SUMMARY:Salute in evoluzione: Pievani e Remuzzi
@@ -392,7 +447,7 @@ CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-daniel-pennac-presenta-mallet@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261124T183000
 DTEND;TZID=Europe/Rome:20261124T203000
 SUMMARY:Daniel Pennac presenta Mallet
@@ -405,8 +460,24 @@ URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
 CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-24-kaleidoscope-ai-7-crescere-e-vendere-con-l-intel@acculturiam
+ oci.it
+DTSTAMP:20261123T122430Z
+DTSTART;TZID=Europe/Rome:20261124T183000
+DTEND;TZID=Europe/Rome:20261124T203000
+SUMMARY:Kaleidoscope AI #7: crescere e vendere con l'intelligenza artificia
+ le
+LOCATION:Talent Garden Calabiana (via Arcivescovo Calabiana 6)
+DESCRIPTION:Talk e networking sull'uso concreto dell'AI per marketing e ven
+ dite. https://www.eventbrite.com/e/biglietti-kaleidoscope-ai-7-growth-gtm-
+ scalare-con-lai-1988391743230
+URL:https://www.eventbrite.com/e/biglietti-kaleidoscope-ai-7-growth-gtm-sca
+ lare-con-lai-1988391743230
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-24-presentazione-de-il-morandini-2026@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261124T190000
 DTEND;TZID=Europe/Rome:20261124T210000
 SUMMARY:Presentazione de Il Morandini 2026
@@ -418,7 +489,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-il-rito-del-jazz-omaggio-a-chick-corea@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261124T193000
 DTEND;TZID=Europe/Rome:20261124T213000
 SUMMARY:Il rito del jazz: omaggio a Chick Corea
@@ -433,7 +504,7 @@ CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261124T193000
 DTEND;TZID=Europe/Rome:20261124T213000
 SUMMARY:Io sono verticale
@@ -445,7 +516,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261124T193000
 DTEND;TZID=Europe/Rome:20261124T213000
 SUMMARY:Una delle ultime sere di carnovale
@@ -459,7 +530,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-rompiamo-il-silenzio@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261124T200000
 DTEND;TZID=Europe/Rome:20261124T220000
 SUMMARY:Rompiamo il silenzio
@@ -472,7 +543,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-i-monologhi-della-vagina@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261124T203000
 DTEND;TZID=Europe/Rome:20261124T223000
 SUMMARY:I monologhi della vagina
@@ -485,7 +556,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-la-rivolta@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261124T203000
 DTEND;TZID=Europe/Rome:20261124T223000
 SUMMARY:La rivolta
@@ -498,7 +569,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-carl-gustav-jung-attraverso-il-cinema-e-l-attual@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Carl Gustav Jung attraverso il cinema e l'attualità
@@ -510,7 +581,7 @@ CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-celebrate-studio-54@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Celebrate Studio 54!
@@ -524,7 +595,7 @@ CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-iliade-la-ballata-di-tersite@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Iliade: la ballata di Tersite
@@ -539,7 +610,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-oltre-la-rappresaglia-la-repressione-nazista-in-@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261125T123000
 DTEND;TZID=Europe/Rome:20261125T143000
 SUMMARY:Oltre la rappresaglia: la repressione nazista in Boemia e Moravia
@@ -551,7 +622,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-arturo-perez-reverte@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261125T160000
 DTEND;TZID=Europe/Rome:20261125T180000
 SUMMARY:Arturo Pérez-Reverte
@@ -564,7 +635,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-dante-e-vivo@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261125T163000
 DTEND;TZID=Europe/Rome:20261125T183000
 SUMMARY:Dante è vivo
@@ -577,7 +648,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-il-senno-sulla-luna-il-medioevo-di-doctor-virtua@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261125T163000
 DTEND;TZID=Europe/Rome:20261125T183000
 SUMMARY:Il senno sulla luna: il Medioevo di Doctor Virtualis
@@ -589,7 +660,7 @@ CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-piacere-rousseau-ti-presento-dewey@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261125T173000
 DTEND;TZID=Europe/Rome:20261125T193000
 SUMMARY:Piacere\, Rousseau. Ti presento Dewey
@@ -601,7 +672,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-i-classici-non-hanno-mai-finito-di-dirci-cio-che@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261125T180000
 DTEND;TZID=Europe/Rome:20261125T200000
 SUMMARY:I classici non hanno mai finito di dirci ciò che vogliono dire
@@ -613,7 +684,7 @@ CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-jan-brokken-la-malinconia-del-viaggiatore@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261125T180000
 DTEND;TZID=Europe/Rome:20261125T200000
 SUMMARY:Jan Brokken\, La malinconia del viaggiatore
@@ -626,7 +697,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-prima-delle-prime-otello@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261125T180000
 DTEND;TZID=Europe/Rome:20261125T200000
 SUMMARY:Prima delle Prime: Otello
@@ -638,8 +709,22 @@ URL:https://www.teatroallascala.org/it/calendario.html
 CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-25-agents-anonymous-milan-chapter@acculturiamoci.it
+DTSTAMP:20261123T122430Z
+DTSTART;TZID=Europe/Rome:20261125T183000
+DTEND;TZID=Europe/Rome:20261125T203000
+SUMMARY:Agents Anonymous: Milan Chapter
+LOCATION:Buildo (via Malaga 4)
+DESCRIPTION:Incontro tra chi costruisce agenti AI: demo\, esperienze e chia
+ cchiere. Gratis con iscrizione. https://www.anopenroom.com/milan/events/ag
+ ents-anonymous-milan-chapter-1125-mw8rhrgx
+URL:https://www.anopenroom.com/milan/events/agents-anonymous-milan-chapter-
+ 1125-mw8rhrgx
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-25-era-tanto-un-bravo-ragazzo@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261125T183000
 DTEND;TZID=Europe/Rome:20261125T203000
 SUMMARY:Era tanto un bravo ragazzo
@@ -652,7 +737,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261125T193000
 DTEND;TZID=Europe/Rome:20261125T213000
 SUMMARY:Io sono verticale
@@ -664,7 +749,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-samantha-cristoforetti-il-senso-della-luna@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261125T200000
 DTEND;TZID=Europe/Rome:20261125T220000
 SUMMARY:Samantha Cristoforetti: il senso della Luna
@@ -679,7 +764,7 @@ CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-la-rivolta@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261125T203000
 DTEND;TZID=Europe/Rome:20261125T223000
 SUMMARY:La rivolta
@@ -691,7 +776,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261125T203000
 DTEND;TZID=Europe/Rome:20261125T223000
 SUMMARY:Una delle ultime sere di carnovale
@@ -706,7 +791,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-uomini-si-diventa-nella-mente-di-un-femminicida@acculturiamo
  ci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261125T203000
 DTEND;TZID=Europe/Rome:20261125T223000
 SUMMARY:Uomini si diventa. Nella mente di un femminicida
@@ -718,7 +803,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-solisti-aquilani-con-anna-tifu@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261125T204500
 DTEND;TZID=Europe/Rome:20261125T224500
 SUMMARY:Solisti Aquilani con Anna Tifu
@@ -730,7 +815,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-bobby@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Bobby
@@ -741,7 +826,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-liv-warfield@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:LiV Warfield
@@ -754,7 +839,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-silvia-romani-e-federica-fracassi-sul-mito-antic@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Silvia Romani e Federica Fracassi sul mito antico
@@ -768,7 +853,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-la-messa-non-e-finita-il-sacro-all-epoca-del-dig@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261126T083000
 DTEND;TZID=Europe/Rome:20261126T103000
 SUMMARY:La messa non è finita. Il sacro all'epoca del digitale
@@ -780,7 +865,7 @@ CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-le-sparizioni-forzate-in-america-latina@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261126T090000
 DTEND;TZID=Europe/Rome:20261126T110000
 SUMMARY:Le sparizioni forzate in America Latina
@@ -792,7 +877,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-100-copertine-di-futuro@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261126T110000
 DTEND;TZID=Europe/Rome:20261126T130000
 SUMMARY:100 copertine di futuro
@@ -805,7 +890,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-anti-illuminismo-nella-storia-e-oggi@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261126T180000
 DTEND;TZID=Europe/Rome:20261126T200000
 SUMMARY:Anti-illuminismo: nella storia e oggi
@@ -817,7 +902,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-letture-e-note-al-museo-guido-cantelli@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261126T180000
 DTEND;TZID=Europe/Rome:20261126T200000
 SUMMARY:Letture e note al museo: Guido Cantelli
@@ -827,8 +912,24 @@ URL:https://www.teatroallascala.org/it/calendario.html
 CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-26-riprendersi-il-futuro-tecnologia-impresa-e-la-cr@acculturiam
+ oci.it
+DTSTAMP:20261123T122430Z
+DTSTART;TZID=Europe/Rome:20261126T180000
+DTEND;TZID=Europe/Rome:20261126T200000
+SUMMARY:Riprendersi il futuro: tecnologia\, impresa e la crisi dell'immagin
+ azione
+LOCATION:POLIMI Graduate School of Management (Ripa di Porta Ticinese 77)
+DESCRIPTION:Talk su come la tecnologia cambia il modo di immaginare il futu
+ ro. https://www.gsom.polimi.it/be-inspired/eventi/evento-sustainability-ta
+ lks-technology-26112026
+URL:https://www.gsom.polimi.it/be-inspired/eventi/evento-sustainability-tal
+ ks-technology-26112026
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-26-teatro-dietro-l-angolo-la-drammaturgia@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261126T180000
 DTEND;TZID=Europe/Rome:20261126T200000
 SUMMARY:Teatro dietro l'angolo: la drammaturgia
@@ -843,7 +944,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-hello-stranger-mostra-di-poesia@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261126T183000
 DTEND;TZID=Europe/Rome:20261126T203000
 SUMMARY:Hello stranger\, mostra di poesia
@@ -857,7 +958,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-milena-gabanelli-e-simona-ravizza-la-resa-dei-co@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261126T183000
 DTEND;TZID=Europe/Rome:20261126T203000
 SUMMARY:Milena Gabanelli e Simona Ravizza\, La resa dei conti
@@ -870,8 +971,22 @@ URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
 CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-26-tech-si-gira-ghost-in-the-shell-con-luca-perri@acculturiamoc
+ i.it
+DTSTAMP:20261123T122430Z
+DTSTART;TZID=Europe/Rome:20261126T190000
+DTEND;TZID=Europe/Rome:20261126T210000
+SUMMARY:Tech\, si gira! Ghost in the Shell\, con Luca Perri
+LOCATION:STEP FuturAbility District (piazza Adriano Olivetti 1)
+DESCRIPTION:Proiezione del cult di fantascienza e conversazione con l'astro
+ fisico Luca Perri\, modera Massimo Temporelli. https://www.steptothefuture
+ .it/it/agenda/ghost-shell
+URL:https://www.steptothefuture.it/it/agenda/ghost-shell
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-26-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261126T193000
 DTEND;TZID=Europe/Rome:20261126T213000
 SUMMARY:Io sono verticale
@@ -883,7 +998,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261126T193000
 DTEND;TZID=Europe/Rome:20261126T213000
 SUMMARY:Una delle ultime sere di carnovale
@@ -897,7 +1012,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-concerto-civile-giorgio-ambrosoli@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261126T200000
 DTEND;TZID=Europe/Rome:20261126T220000
 SUMMARY:Concerto civile Giorgio Ambrosoli
@@ -909,7 +1024,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-fabio-volo-quando-l-amore-ti-sorprende@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261126T200000
 DTEND;TZID=Europe/Rome:20261126T220000
 SUMMARY:Fabio Volo\, Quando l'amore ti sorprende
@@ -923,7 +1038,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-human-brains-adolescenza-capire-mente-corpo-e-sa@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261126T200000
 DTEND;TZID=Europe/Rome:20261126T220000
 SUMMARY:Human Brains: Adolescenza\, capire mente\, corpo e salute
@@ -939,7 +1054,7 @@ CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-adelchi-con-roberto-trifiro@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261126T203000
 DTEND;TZID=Europe/Rome:20261126T223000
 SUMMARY:Adelchi con Roberto Trifirò
@@ -953,7 +1068,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-la-rivolta@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261126T203000
 DTEND;TZID=Europe/Rome:20261126T223000
 SUMMARY:La rivolta
@@ -965,7 +1080,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-a-flauto-e-cembalo-milano-arte-musica@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:A flauto e cembalo (Milano Arte Musica)
@@ -978,7 +1093,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-luca-barbarossa@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Luca Barbarossa
@@ -991,7 +1106,7 @@ CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-milano-life-science-forum-prevenzione@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261127T093000
 DTEND;TZID=Europe/Rome:20261127T113000
 SUMMARY:Milano Life Science Forum: prevenzione
@@ -1009,7 +1124,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-campi-celle-ceneri-la-scrittura-palestinese@acculturiamoci.i
  t
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261127T163000
 DTEND;TZID=Europe/Rome:20261127T183000
 SUMMARY:Campi\, celle\, ceneri: la scrittura palestinese
@@ -1022,7 +1137,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-la-scala-dei-libri-francesco-filidei-e-silvia-le@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261127T173000
 DTEND;TZID=Europe/Rome:20261127T193000
 SUMMARY:La Scala dei libri: Francesco Filidei e Silvia Lelli
@@ -1033,7 +1148,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-francesco-vezzoli-victoria-mater@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261127T180000
 DTEND;TZID=Europe/Rome:20261127T200000
 SUMMARY:Francesco Vezzoli\, Victoria Mater
@@ -1046,7 +1161,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-una-legge-elettorale-inaccettabile@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261127T180000
 DTEND;TZID=Europe/Rome:20261127T200000
 SUMMARY:Una legge elettorale inaccettabile
@@ -1060,7 +1175,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-umberto-galimberti-l-illusione-della-liberta@acculturiamoci.
  it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261127T183000
 DTEND;TZID=Europe/Rome:20261127T203000
 SUMMARY:Umberto Galimberti\, L'illusione della libertà
@@ -1074,7 +1189,7 @@ CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-vincenzo-latronico-work-in-progress@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261127T183000
 DTEND;TZID=Europe/Rome:20261127T203000
 SUMMARY:Vincenzo Latronico\, Work in progress
@@ -1089,7 +1204,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261127T190000
 DTEND;TZID=Europe/Rome:20261127T210000
 SUMMARY:Io sono verticale
@@ -1102,7 +1217,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-beethoven-triplo-concerto-musorgskij-quadri@acculturiamoci.i
  t
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261127T200000
 DTEND;TZID=Europe/Rome:20261127T220000
 SUMMARY:Beethoven Triplo concerto / Musorgskij Quadri
@@ -1114,7 +1229,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-adelchi-con-roberto-trifiro@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:Adelchi con Roberto Trifirò
@@ -1128,7 +1243,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-di-madre-in-figlia@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:Di madre in figlia
@@ -1141,7 +1256,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-docufilm-sui-150-anni-del-corriere@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:Docufilm sui 150 anni del Corriere
@@ -1154,7 +1269,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-la-rivolta@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:La rivolta
@@ -1166,7 +1281,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:Una delle ultime sere di carnovale
@@ -1181,7 +1296,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-e-tu-come-lo-sai-capire-la-scienza-per-decidere-@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:E tu\, come lo sai? Capire la scienza per decidere insieme
@@ -1196,7 +1311,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-oltre-la-punizione-riparare-riannodare-rigenerar@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Oltre la punizione: riparare\, riannodare\, rigenerare
@@ -1209,7 +1324,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-scrivere-per-resistere-premio-pen-inge-feltrinel@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Scrivere per resistere: Premio PEN Inge Feltrinelli
@@ -1221,7 +1336,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-the-legendary-johnny-o-neal-trio@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:The Legendary Johnny O'Neal Trio
@@ -1235,7 +1350,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-80-anni-dopo-l-astensionismo-elettorale-e-come-c@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261128T093000
 DTEND;TZID=Europe/Rome:20261128T113000
 SUMMARY:80 anni dopo: l'astensionismo elettorale e come contrastarlo
@@ -1248,7 +1363,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-masterclass-con-laura-citarella@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261128T100000
 DTEND;TZID=Europe/Rome:20261128T120000
 SUMMARY:Masterclass con Laura Citarella
@@ -1260,7 +1375,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-e-andata-cosi-lezione-di-cinema@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261128T103000
 DTEND;TZID=Europe/Rome:20261128T123000
 SUMMARY:È andata così: lezione di cinema
@@ -1276,7 +1391,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-aldo-cazzullo-il-nostro-rinascimento@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261128T110000
 DTEND;TZID=Europe/Rome:20261128T130000
 SUMMARY:Aldo Cazzullo\, Il nostro rinascimento
@@ -1291,7 +1406,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-laura-pepe-storia-non-convenzionale-delle-donne-@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261128T113000
 DTEND;TZID=Europe/Rome:20261128T133000
 SUMMARY:Laura Pepe\, Storia non convenzionale delle donne di Grecia
@@ -1305,7 +1420,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-dario-biagi-vita-di-cagnaccio-di-san-pietro@acculturiamoci.i
  t
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261128T150000
 DTEND;TZID=Europe/Rome:20261128T170000
 SUMMARY:Dario Biagi\, vita di Cagnaccio di San Pietro
@@ -1318,7 +1433,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-ermanno-cavazzoni-saro-breve@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261128T170000
 DTEND;TZID=Europe/Rome:20261128T190000
 SUMMARY:Ermanno Cavazzoni\, Sarò breve
@@ -1332,7 +1447,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-fernando-aramburu-presenta-maite@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Fernando Aramburu presenta Maite
@@ -1345,7 +1460,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-filosofia-dell-amicizia@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Filosofia dell'amicizia
@@ -1359,7 +1474,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-inaugurazione-anno-accademico-del-conservatorio@acculturiamo
  ci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Inaugurazione anno accademico del Conservatorio
@@ -1371,7 +1486,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-la-scala-dei-libri-a-dirci-le-cose-chiare-don-gi@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:La Scala dei libri: A dirci le cose chiare\, Don Giovanni
@@ -1382,7 +1497,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-di-madre-in-figlia@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261128T193000
 DTEND;TZID=Europe/Rome:20261128T213000
 SUMMARY:Di madre in figlia
@@ -1395,7 +1510,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261128T193000
 DTEND;TZID=Europe/Rome:20261128T213000
 SUMMARY:Io sono verticale
@@ -1407,7 +1522,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261128T193000
 DTEND;TZID=Europe/Rome:20261128T213000
 SUMMARY:Una delle ultime sere di carnovale
@@ -1421,7 +1536,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-la-rivolta@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261128T203000
 DTEND;TZID=Europe/Rome:20261128T223000
 SUMMARY:La rivolta
@@ -1433,7 +1548,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-stai-zitta@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261128T203000
 DTEND;TZID=Europe/Rome:20261128T223000
 SUMMARY:Stai zitta!
@@ -1446,7 +1561,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-100-anni-di-allen-ginsberg@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:100 anni di Allen Ginsberg
@@ -1459,7 +1574,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-bff-books-friends-forever@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:BFF – Books Friends Forever
@@ -1473,7 +1588,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-il-verde-e-il-nero@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Il verde e il nero
@@ -1485,7 +1600,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-jazzanova-live-feat-wayne-snow@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Jazzanova live feat. Wayne Snow
@@ -1499,7 +1614,7 @@ CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-la-forza-biologica-della-cultura@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:La forza biologica della cultura
@@ -1513,7 +1628,7 @@ CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-programma-philo-a-bookcity@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Programma Philo a BookCity
@@ -1525,7 +1640,7 @@ CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-saint-nicolas-di-britten@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Saint Nicolas di Britten
@@ -1537,7 +1652,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-trio-david-con-emanuele-orsini@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Trio David con Emanuele Orsini
@@ -1549,7 +1664,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-visite-e-laboratori-per-famiglie@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Visite e laboratori per famiglie
@@ -1560,7 +1675,7 @@ CATEGORIES:Famiglie
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-bookcity-0-6@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261129T110000
 DTEND;TZID=Europe/Rome:20261129T130000
 SUMMARY:BookCity 0-6
@@ -1573,7 +1688,7 @@ CATEGORIES:Famiglie
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-pupi-avati-il-gotico-padano-e-il-cinema@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261129T110000
 DTEND;TZID=Europe/Rome:20261129T130000
 SUMMARY:Pupi Avati: il gotico padano e il cinema
@@ -1588,7 +1703,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-tjeknavorian-e-i-solisti-della-sinfonica-bartok-@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261129T110000
 DTEND;TZID=Europe/Rome:20261129T130000
 SUMMARY:Tjeknavorian e i Solisti della Sinfonica: Bartók\, Schubert
@@ -1599,8 +1714,22 @@ URL:https://sinfonicadimilano.org/en/eventi/2026-27/bartok-hermann-schubert
 CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-avatar-tra-anime-e-manga-laboratorio-8-16-anni@acculturiamoc
+ i.it
+DTSTAMP:20261123T122430Z
+DTSTART;TZID=Europe/Rome:20261129T111500
+DTEND;TZID=Europe/Rome:20261129T131500
+SUMMARY:Avatar: tra anime e manga (laboratorio 8-16 anni)
+LOCATION:STEP FuturAbility District (piazza Adriano Olivetti 1)
+DESCRIPTION:Laboratorio digitale per ragazzi: si crea il proprio avatar in 
+ stile anime. Gratis su prenotazione. https://www.steptothefuture.it/it/age
+ nda/avatar-tra-anime-e-manga-6
+URL:https://www.steptothefuture.it/it/agenda/avatar-tra-anime-e-manga-6
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-buon-compleanno-gus@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261129T113000
 DTEND;TZID=Europe/Rome:20261129T133000
 SUMMARY:Buon compleanno Gus!
@@ -1613,7 +1742,7 @@ CATEGORIES:Famiglie
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-zerocalcare-dove-andiamo-da-qui-zero@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261129T120000
 DTEND;TZID=Europe/Rome:20261129T140000
 SUMMARY:Zerocalcare\, Dove andiamo da qui\, Zero?
@@ -1626,8 +1755,23 @@ URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
 CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-ciak-si-gira-con-lo-smartphone-laboratorio-8-16-@acculturiam
+ oci.it
+DTSTAMP:20261123T122430Z
+DTSTART;TZID=Europe/Rome:20261129T151500
+DTEND;TZID=Europe/Rome:20261129T171500
+SUMMARY:Ciak\, si gira con lo smartphone! (laboratorio 8-16 anni)
+LOCATION:STEP FuturAbility District (piazza Adriano Olivetti 1)
+DESCRIPTION:Laboratorio per ragazzi: girare un piccolo film con il telefono
+ . Gratis su prenotazione. https://www.steptothefuture.it/it/agenda/ciak-si
+ -gira-con-lo-smartphone-0
+URL:https://www.steptothefuture.it/it/agenda/ciak-si-gira-con-lo-smartphone
+ -0
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261129T153000
 DTEND;TZID=Europe/Rome:20261129T173000
 SUMMARY:Io sono verticale
@@ -1640,7 +1784,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-beethoven-triplo-concerto-musorgskij-quadri@acculturiamoci.i
  t
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261129T160000
 DTEND;TZID=Europe/Rome:20261129T180000
 SUMMARY:Beethoven Triplo concerto / Musorgskij Quadri
@@ -1652,7 +1796,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-di-madre-in-figlia@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261129T160000
 DTEND;TZID=Europe/Rome:20261129T180000
 SUMMARY:Di madre in figlia
@@ -1665,7 +1809,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261129T160000
 DTEND;TZID=Europe/Rome:20261129T180000
 SUMMARY:Una delle ultime sere di carnovale
@@ -1680,7 +1824,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-alicia-gimenez-bartlett-sotto-il-cielo-infernale@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261129T163000
 DTEND;TZID=Europe/Rome:20261129T183000
 SUMMARY:Alicia Giménez-Bartlett\, Sotto il cielo infernale
@@ -1693,7 +1837,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-la-rivolta@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261129T163000
 DTEND;TZID=Europe/Rome:20261129T183000
 SUMMARY:La rivolta
@@ -1705,7 +1849,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-stai-zitta@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261129T163000
 DTEND;TZID=Europe/Rome:20261129T183000
 SUMMARY:Stai zitta!
@@ -1717,7 +1861,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-don-giovanni-in-versione-opera-breve@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261129T170000
 DTEND;TZID=Europe/Rome:20261129T190000
 SUMMARY:Don Giovanni in versione Opera Breve
@@ -1734,7 +1878,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-chiusura-bookcity-samantha-harvey-e-paolo-giorda@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261129T200000
 DTEND;TZID=Europe/Rome:20261129T220000
 SUMMARY:Chiusura BookCity: Samantha Harvey e Paolo Giordano
@@ -1749,7 +1893,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-filarmonica-della-scala-dir-timothy-brock@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261129T200000
 DTEND;TZID=Europe/Rome:20261129T220000
 SUMMARY:Filarmonica della Scala\, dir. Timothy Brock
@@ -1760,7 +1904,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-gli-elfi-di-babbo-natale@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Gli elfi di Babbo Natale
@@ -1774,7 +1918,7 @@ CATEGORIES:Famiglie
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-tom-s-family-back-in-town@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Tom's Family – Back in Town!
@@ -1788,7 +1932,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-capitalismo-e-democrazia-nuovi-poteri-economici-@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261130T173000
 DTEND;TZID=Europe/Rome:20261130T193000
 SUMMARY:Capitalismo e democrazia: nuovi poteri economici globali
@@ -1802,7 +1946,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-noir-in-festival-josephine-di-beth-de-araujo@acculturiamoci.
  it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261130T183000
 DTEND;TZID=Europe/Rome:20261130T203000
 SUMMARY:Noir in Festival: Josephine di Beth De Araujo
@@ -1816,7 +1960,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-l-eterna-illusione-da-broadway-a-hollywood@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261130T193000
 DTEND;TZID=Europe/Rome:20261130T213000
 SUMMARY:L'eterna illusione: da Broadway a Hollywood
@@ -1830,7 +1974,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-il-canto-di-orfeo-inner-spaces@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261130T203000
 DTEND;TZID=Europe/Rome:20261130T223000
 SUMMARY:Il canto di Orfeo (INNER_SPACES)
@@ -1843,7 +1987,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-il-grande-gioco-dell-ai@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261130T203000
 DTEND;TZID=Europe/Rome:20261130T223000
 SUMMARY:Il grande gioco dell'AI
@@ -1859,7 +2003,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-orchestra-dell-universita-bicocca-vivaldi-bach-p@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261130T203000
 DTEND;TZID=Europe/Rome:20261130T223000
 SUMMARY:Orchestra dell'Università Bicocca: Vivaldi\, Bach\, Pleyel
@@ -1871,7 +2015,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-fabrizio-meloni-e-mari-fujino@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261130T204500
 DTEND;TZID=Europe/Rome:20261130T224500
 SUMMARY:Fabrizio Meloni e Mari Fujino
@@ -1885,7 +2029,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-alessandro-cattelan-benvenuto-nell-ai@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261130T210000
 DTEND;TZID=Europe/Rome:20261130T230000
 SUMMARY:Alessandro Cattelan\, Benvenuto nell'AI!
@@ -1899,7 +2043,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-noir-in-festival-the-blood-countess-di-ulrike-ot@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261130T213000
 DTEND;TZID=Europe/Rome:20261130T233000
 SUMMARY:Noir in Festival: The Blood Countess di Ulrike Ottinger
@@ -1914,7 +2058,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-curae-2026-non-ti-pago-apertura@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Curae 2026: Non ti pago (apertura)
@@ -1929,9 +2073,38 @@ URL:https://www.mentelocale.it/milano/147779-curae-2026-a-milano-il-festiva
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-01-today-at-apple-workshop-disegna-con-apple-pencil@acculturiam
+ oci.it
+DTSTAMP:20261123T122430Z
+DTSTART;TZID=Europe/Rome:20261201T140000
+DTEND;TZID=Europe/Rome:20261201T160000
+SUMMARY:Today at Apple · Workshop: disegna con Apple Pencil su iPad
+LOCATION:Apple Piazza Liberty
+DESCRIPTION:Sessione gratuita di un'ora per disegnare su iPad\, anche da pr
+ incipianti. Iscrizione sul sito Apple. https://www.apple.com/it/today/piaz
+ zaliberty/
+URL:https://www.apple.com/it/today/piazzaliberty/
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-il-futuro-e-una-questione-di-competenze@acculturiamoci.it
+DTSTAMP:20261123T122430Z
+DTSTART;TZID=Europe/Rome:20261201T183000
+DTEND;TZID=Europe/Rome:20261201T203000
+SUMMARY:Il futuro è una questione di competenze
+LOCATION:STEP FuturAbility District (piazza Adriano Olivetti 1)
+DESCRIPTION:Confronto con Roberta Cocco\, Martina Pennisi\, Fabio Moioli e 
+ Alessandro Geraldi sulle competenze per il futuro. Gratis su prenotazione.
+  https://www.steptothefuture.it/it/agenda/il-futuro-e-una-questione-di-com
+ petenze
+URL:https://www.steptothefuture.it/it/agenda/il-futuro-e-una-questione-di-c
+ ompetenze
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-01-noir-in-festival-mi-amor-di-guillaume-nicloux@acculturiamoci
  .it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261201T190000
 DTEND;TZID=Europe/Rome:20261201T210000
 SUMMARY:Noir in Festival: Mi Amor di Guillaume Nicloux
@@ -1944,7 +2117,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-di-madre-in-figlia@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261201T193000
 DTEND;TZID=Europe/Rome:20261201T213000
 SUMMARY:Di madre in figlia
@@ -1958,7 +2131,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-giuseppe-il-padre-putativo-anteprima-under-30@acculturiamoci
  .it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261201T193000
 DTEND;TZID=Europe/Rome:20261201T213000
 SUMMARY:Giuseppe: il padre putativo (anteprima under 30)
@@ -1972,7 +2145,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-ettore-pagano-e-maximilian-kromer@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261201T203000
 DTEND;TZID=Europe/Rome:20261201T223000
 SUMMARY:Ettore Pagano e Maximilian Kromer
@@ -1987,7 +2160,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-la-bibbia-che-non-ti-aspetti-con-giorgio-marches@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261201T203000
 DTEND;TZID=Europe/Rome:20261201T223000
 SUMMARY:La Bibbia che non ti aspetti\, con Giorgio Marchesi
@@ -2001,7 +2174,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-la-storia-a-processo-oriana-fallaci@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261201T203000
 DTEND;TZID=Europe/Rome:20261201T223000
 SUMMARY:La Storia a Processo: Oriana Fallaci
@@ -2015,7 +2188,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-noir-in-festival-l-ombra-e-dark-vertigo@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261201T213000
 DTEND;TZID=Europe/Rome:20261201T233000
 SUMMARY:Noir in Festival: L'Ombra e Dark Vertigo
@@ -2029,7 +2202,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-curae-2026-ai-will-shakespeare@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Curae 2026: AI Will Shakespeare
@@ -2045,7 +2218,7 @@ CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-don-milani-la-parola-che-nutre@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Don Milani. La parola che nutre
@@ -2058,7 +2231,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-spose-del-vento@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Spose del vento
@@ -2070,7 +2243,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-federico-nicoletta-ti-va-di-ballare@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261202T170000
 DTEND;TZID=Europe/Rome:20261202T190000
 SUMMARY:Federico Nicoletta\, Ti va di ballare?
@@ -2083,7 +2256,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-c-e-ancora-posto-per-l-universita@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261202T173000
 DTEND;TZID=Europe/Rome:20261202T193000
 SUMMARY:C'è ancora posto per l'università?
@@ -2099,7 +2272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-noir-in-festival-found-alive-di-carlota-pereda@acculturiamoc
  i.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261202T190000
 DTEND;TZID=Europe/Rome:20261202T210000
 SUMMARY:Noir in Festival: Found Alive di Carlota Pereda
@@ -2114,7 +2287,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-con-la-colpa-in-mente-tra-responsabilita-e-ripar@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261202T203000
 DTEND;TZID=Europe/Rome:20261202T223000
 SUMMARY:Con la colpa in mente\, tra responsabilità e riparazione
@@ -2129,7 +2302,7 @@ CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-paul-lewis-mozart@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261202T204500
 DTEND;TZID=Europe/Rome:20261202T224500
 SUMMARY:Paul Lewis\, Mozart+
@@ -2143,7 +2316,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-i-virtuosi-del-teatro-alla-scala-per-vidas@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261202T210000
 DTEND;TZID=Europe/Rome:20261202T230000
 SUMMARY:I Virtuosi del Teatro alla Scala per Vidas
@@ -2156,7 +2329,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-noir-in-festival-furies-di-rami-kodeih@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261202T213000
 DTEND;TZID=Europe/Rome:20261202T233000
 SUMMARY:Noir in Festival: Furies di Rami Kodeih
@@ -2169,7 +2342,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-curae-2026-portami-la-fuori@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Curae 2026: Portami là fuori
@@ -2186,7 +2359,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-anni-di-vita-la-longevita-tra-sfide-e-opportunit@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261203T093000
 DTEND;TZID=Europe/Rome:20261203T113000
 SUMMARY:Anni di vita: la longevità tra sfide e opportunità
@@ -2200,7 +2373,7 @@ CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-l-angelo-ribelle-e-il-dio-geloso@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261203T180000
 DTEND;TZID=Europe/Rome:20261203T200000
 SUMMARY:L'angelo ribelle e il Dio geloso
@@ -2212,8 +2385,23 @@ URL:https://www.teatroallascala.org/it/calendario.html
 CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-03-data-center-la-casa-dell-ai-anche-in-italia@acculturiamoci.i
+ t
+DTSTAMP:20261123T122430Z
+DTSTART;TZID=Europe/Rome:20261203T183000
+DTEND;TZID=Europe/Rome:20261203T203000
+SUMMARY:Data center: la casa dell'AI anche in Italia?
+LOCATION:STEP FuturAbility District (piazza Adriano Olivetti 1)
+DESCRIPTION:Digital talk con Boston Consulting Group sul futuro dei data ce
+ nter in Italia. Gratis su prenotazione. https://www.steptothefuture.it/it/
+ agenda/data-center-la-casa-dellai-anche-italia
+URL:https://www.steptothefuture.it/it/agenda/data-center-la-casa-dellai-anc
+ he-italia
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-03-giuseppe-il-padre-putativo@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Giuseppe: il padre putativo
@@ -2226,7 +2414,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-freddy-kempf-pianoforte@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261204T204500
 DTEND;TZID=Europe/Rome:20261204T224500
 SUMMARY:Freddy Kempf\, pianoforte
@@ -2239,7 +2427,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-mixed-feelings-devon-rexi-venerus-b2b-physical-t@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261204T220000
 DTEND;TZID=Europe/Rome:20261205T000000
 SUMMARY:Mixed Feelings: Devon Rexi\, Venerus b2b Physical Therapy\, Blinky

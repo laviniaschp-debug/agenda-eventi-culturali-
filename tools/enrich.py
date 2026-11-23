@@ -24,7 +24,7 @@ CAT_NAMES = {
     "teatro": "Teatro", "talk": "Incontri e talk", "filosofia": "Filosofia",
     "storia": "Arte e storia", "geo": "Geopolitica", "salute": "Psiche e salute",
     "scienza": "Scienza", "classica": "Classica e chiese", "jazz": "Jazz e live",
-    "cinema": "Cinema", "famiglie": "Famiglie",
+    "cinema": "Cinema", "famiglie": "Famiglie", "tech": "Tech e digitale",
 }
 
 SCIENCE = re.compile(
@@ -37,10 +37,10 @@ MOODS = {
                          r"bergonzoni|zerocalcare|satir|clown|improvvisaz", re.I),
     "gente": re.compile(r"laboratori|workshop|aperitiv|pratiche filosofiche|caff[eè] filosof|"
                         r"dibattito|discussione|festa|community|open day|swing|"
-                        r"philo|cuccagna|base milano|jam", re.I),
+                        r"philo|cuccagna|base milano|jam|meetup|networking|coding night|aperitivo", re.I),
 }
 MOOD_BY_CAT = {
-    "pensare": {"talk", "filosofia", "geo", "storia", "scienza", "salute"},
+    "pensare": {"talk", "filosofia", "geo", "storia", "scienza", "salute", "tech"},
     "emozionarmi": {"classica", "jazz", "teatro", "cinema"},
     "bambini": {"famiglie"},
 }
@@ -65,7 +65,7 @@ def enrich(d):
         e["key"] = k
         text = f'{e["title"]} {e.get("desc","")} {e.get("venue","")}'
         stext = f'{e["title"]} {e.get("desc","")}'
-        if e.get("cat") != "famiglie" and SCIENCE.search(stext) and "ideologic" not in stext.lower():
+        if e.get("cat") not in ("famiglie", "tech") and SCIENCE.search(stext) and "ideologic" not in stext.lower():
             e["cat"] = "scienza"
         if not e.get("why") and "imperdibile" in e.get("tags", []):
             low = e["title"].lower()

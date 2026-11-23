@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-23-l-elisir-d-amore-per-i-bambini@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261123T110000
 DTEND;TZID=Europe/Rome:20261123T130000
 SUMMARY:L'elisir d'amore per i bambini
@@ -38,7 +38,7 @@ CATEGORIES:Famiglie
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-l-elisir-d-amore-per-i-bambini-2@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261123T143000
 DTEND;TZID=Europe/Rome:20261123T163000
 SUMMARY:L'elisir d'amore per i bambini
@@ -50,7 +50,7 @@ CATEGORIES:Famiglie
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-visite-e-laboratori-per-famiglie@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Visite e laboratori per famiglie
@@ -61,7 +61,7 @@ CATEGORIES:Famiglie
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-bookcity-0-6@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261129T110000
 DTEND;TZID=Europe/Rome:20261129T130000
 SUMMARY:BookCity 0-6
@@ -73,8 +73,22 @@ URL:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntam
 CATEGORIES:Famiglie
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-avatar-tra-anime-e-manga-laboratorio-8-16-anni@acculturiamoc
+ i.it
+DTSTAMP:20261123T122430Z
+DTSTART;TZID=Europe/Rome:20261129T111500
+DTEND;TZID=Europe/Rome:20261129T131500
+SUMMARY:Avatar: tra anime e manga (laboratorio 8-16 anni)
+LOCATION:STEP FuturAbility District (piazza Adriano Olivetti 1)
+DESCRIPTION:Laboratorio digitale per ragazzi: si crea il proprio avatar in 
+ stile anime. Gratis su prenotazione. https://www.steptothefuture.it/it/age
+ nda/avatar-tra-anime-e-manga-6
+URL:https://www.steptothefuture.it/it/agenda/avatar-tra-anime-e-manga-6
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-buon-compleanno-gus@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261129T113000
 DTEND;TZID=Europe/Rome:20261129T133000
 SUMMARY:Buon compleanno Gus!
@@ -86,8 +100,23 @@ URL:https://www.sinfonicadimilano.org/it/eventi/2026-27/uon-compleanno-gus-
 CATEGORIES:Famiglie
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-ciak-si-gira-con-lo-smartphone-laboratorio-8-16-@acculturiam
+ oci.it
+DTSTAMP:20261123T122430Z
+DTSTART;TZID=Europe/Rome:20261129T151500
+DTEND;TZID=Europe/Rome:20261129T171500
+SUMMARY:Ciak\, si gira con lo smartphone! (laboratorio 8-16 anni)
+LOCATION:STEP FuturAbility District (piazza Adriano Olivetti 1)
+DESCRIPTION:Laboratorio per ragazzi: girare un piccolo film con il telefono
+ . Gratis su prenotazione. https://www.steptothefuture.it/it/agenda/ciak-si
+ -gira-con-lo-smartphone-0
+URL:https://www.steptothefuture.it/it/agenda/ciak-si-gira-con-lo-smartphone
+ -0
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-gli-elfi-di-babbo-natale@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Gli elfi di Babbo Natale

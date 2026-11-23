@@ -1,0 +1,186 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci · Tech e digitale
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-23-today-at-apple-workshop-scatta-foto-eccezionali-@acculturiam
+ oci.it
+DTSTAMP:20261123T122430Z
+DTSTART;TZID=Europe/Rome:20261123T140000
+DTEND;TZID=Europe/Rome:20261123T160000
+SUMMARY:Today at Apple · Workshop: scatta foto eccezionali con iPhone
+LOCATION:Apple Piazza Liberty
+DESCRIPTION:Sessione gratuita di un'ora: inquadrature\, luce e trucchi dell
+ a fotocamera. Iscrizione sul sito Apple. https://www.apple.com/it/today/ev
+ ent/workshop-photos-on-iphone/7503013984459915264/?sn=R667
+URL:https://www.apple.com/it/today/event/workshop-photos-on-iphone/75030139
+ 84459915264/?sn=R667
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-today-at-apple-workshop-video-con-iphone@acculturiamoci.it
+DTSTAMP:20261123T122430Z
+DTSTART;TZID=Europe/Rome:20261123T150000
+DTEND;TZID=Europe/Rome:20261123T170000
+SUMMARY:Today at Apple · Workshop: video con iPhone
+LOCATION:Apple Piazza Liberty
+DESCRIPTION:Sessione gratuita di un'ora per girare e montare video migliori
+  con il telefono. Iscrizione sul sito Apple. https://www.apple.com/it/toda
+ y/event/workshop-video-on-iphone-row/7503014123635310592/?sn=R667
+URL:https://www.apple.com/it/today/event/workshop-video-on-iphone-row/75030
+ 14123635310592/?sn=R667
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-workshop-costruisci-la-tua-prima-automazione@acculturiamoci.
+ it
+DTSTAMP:20261123T122430Z
+DTSTART;TZID=Europe/Rome:20261123T183000
+DTEND;TZID=Europe/Rome:20261123T203000
+SUMMARY:Workshop: costruisci la tua prima automazione
+LOCATION:Talent Garden Isola (piazza Città di Lombardia 1)
+DESCRIPTION:Serata pratica no-code: si esce con un flusso automatico funzio
+ nante. Porta il portatile. https://luma.com/event/evt-6g5FifXR0wvlEOf
+URL:https://luma.com/event/evt-6g5FifXR0wvlEOf
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-open-coding-night@acculturiamoci.it
+DTSTAMP:20261123T122430Z
+DTSTART;TZID=Europe/Rome:20261123T190000
+DTEND;TZID=Europe/Rome:20261123T210000
+SUMMARY:Open Coding Night
+LOCATION:WAO Isola (via Porro Lambertenghi 7)
+DESCRIPTION:Serata aperta di programmazione insieme\, per sviluppatori\, ma
+ ker e studenti. https://www.meetup.com/it-it/tdd-milano/events/vwtmbvyjcpb
+ fc/
+URL:https://www.meetup.com/it-it/tdd-milano/events/vwtmbvyjcpbfc/
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-kaleidoscope-ai-7-crescere-e-vendere-con-l-intel@acculturiam
+ oci.it
+DTSTAMP:20261123T122430Z
+DTSTART;TZID=Europe/Rome:20261124T183000
+DTEND;TZID=Europe/Rome:20261124T203000
+SUMMARY:Kaleidoscope AI #7: crescere e vendere con l'intelligenza artificia
+ le
+LOCATION:Talent Garden Calabiana (via Arcivescovo Calabiana 6)
+DESCRIPTION:Talk e networking sull'uso concreto dell'AI per marketing e ven
+ dite. https://www.eventbrite.com/e/biglietti-kaleidoscope-ai-7-growth-gtm-
+ scalare-con-lai-1988391743230
+URL:https://www.eventbrite.com/e/biglietti-kaleidoscope-ai-7-growth-gtm-sca
+ lare-con-lai-1988391743230
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-agents-anonymous-milan-chapter@acculturiamoci.it
+DTSTAMP:20261123T122430Z
+DTSTART;TZID=Europe/Rome:20261125T183000
+DTEND;TZID=Europe/Rome:20261125T203000
+SUMMARY:Agents Anonymous: Milan Chapter
+LOCATION:Buildo (via Malaga 4)
+DESCRIPTION:Incontro tra chi costruisce agenti AI: demo\, esperienze e chia
+ cchiere. Gratis con iscrizione. https://www.anopenroom.com/milan/events/ag
+ ents-anonymous-milan-chapter-1125-mw8rhrgx
+URL:https://www.anopenroom.com/milan/events/agents-anonymous-milan-chapter-
+ 1125-mw8rhrgx
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-riprendersi-il-futuro-tecnologia-impresa-e-la-cr@acculturiam
+ oci.it
+DTSTAMP:20261123T122430Z
+DTSTART;TZID=Europe/Rome:20261126T180000
+DTEND;TZID=Europe/Rome:20261126T200000
+SUMMARY:Riprendersi il futuro: tecnologia\, impresa e la crisi dell'immagin
+ azione
+LOCATION:POLIMI Graduate School of Management (Ripa di Porta Ticinese 77)
+DESCRIPTION:Talk su come la tecnologia cambia il modo di immaginare il futu
+ ro. https://www.gsom.polimi.it/be-inspired/eventi/evento-sustainability-ta
+ lks-technology-26112026
+URL:https://www.gsom.polimi.it/be-inspired/eventi/evento-sustainability-tal
+ ks-technology-26112026
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-tech-si-gira-ghost-in-the-shell-con-luca-perri@acculturiamoc
+ i.it
+DTSTAMP:20261123T122430Z
+DTSTART;TZID=Europe/Rome:20261126T190000
+DTEND;TZID=Europe/Rome:20261126T210000
+SUMMARY:Tech\, si gira! Ghost in the Shell\, con Luca Perri
+LOCATION:STEP FuturAbility District (piazza Adriano Olivetti 1)
+DESCRIPTION:Proiezione del cult di fantascienza e conversazione con l'astro
+ fisico Luca Perri\, modera Massimo Temporelli. https://www.steptothefuture
+ .it/it/agenda/ghost-shell
+URL:https://www.steptothefuture.it/it/agenda/ghost-shell
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-today-at-apple-workshop-disegna-con-apple-pencil@acculturiam
+ oci.it
+DTSTAMP:20261123T122430Z
+DTSTART;TZID=Europe/Rome:20261201T140000
+DTEND;TZID=Europe/Rome:20261201T160000
+SUMMARY:Today at Apple · Workshop: disegna con Apple Pencil su iPad
+LOCATION:Apple Piazza Liberty
+DESCRIPTION:Sessione gratuita di un'ora per disegnare su iPad\, anche da pr
+ incipianti. Iscrizione sul sito Apple. https://www.apple.com/it/today/piaz
+ zaliberty/
+URL:https://www.apple.com/it/today/piazzaliberty/
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-il-futuro-e-una-questione-di-competenze@acculturiamoci.it
+DTSTAMP:20261123T122430Z
+DTSTART;TZID=Europe/Rome:20261201T183000
+DTEND;TZID=Europe/Rome:20261201T203000
+SUMMARY:Il futuro è una questione di competenze
+LOCATION:STEP FuturAbility District (piazza Adriano Olivetti 1)
+DESCRIPTION:Confronto con Roberta Cocco\, Martina Pennisi\, Fabio Moioli e 
+ Alessandro Geraldi sulle competenze per il futuro. Gratis su prenotazione.
+  https://www.steptothefuture.it/it/agenda/il-futuro-e-una-questione-di-com
+ petenze
+URL:https://www.steptothefuture.it/it/agenda/il-futuro-e-una-questione-di-c
+ ompetenze
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-data-center-la-casa-dell-ai-anche-in-italia@acculturiamoci.i
+ t
+DTSTAMP:20261123T122430Z
+DTSTART;TZID=Europe/Rome:20261203T183000
+DTEND;TZID=Europe/Rome:20261203T203000
+SUMMARY:Data center: la casa dell'AI anche in Italia?
+LOCATION:STEP FuturAbility District (piazza Adriano Olivetti 1)
+DESCRIPTION:Digital talk con Boston Consulting Group sul futuro dei data ce
+ nter in Italia. Gratis su prenotazione. https://www.steptothefuture.it/it/
+ agenda/data-center-la-casa-dellai-anche-italia
+URL:https://www.steptothefuture.it/it/agenda/data-center-la-casa-dellai-anc
+ he-italia
+CATEGORIES:Tech e digitale
+END:VEVENT
+END:VCALENDAR

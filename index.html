@@ -36,6 +36,7 @@
 [data-cat="jazz"]{--c:#d98200;--pc:#fce3c2}
 [data-cat="cinema"]{--c:#4a5568;--pc:#e2e6ee}
 [data-cat="famiglie"]{--c:#d9579c;--pc:#fbd6ec}
+[data-cat="tech"]{--c:#4255d4;--pc:#dfe3fb}
 *{box-sizing:border-box}
 html,body{margin:0;background:var(--bg)}
 html{scroll-behavior:smooth}
@@ -589,7 +590,7 @@ const CITIES = [
 const CATS = {
   teatro:"Teatro", talk:"Talk e incontri", filosofia:"Filosofia e psicologia", storia:"Storia e arte",
   geo:"Geopolitica e società", scienza:"Scienza", salute:"Salute", classica:"Musica classica", jazz:"Jazz e concerti",
-  cinema:"Cinema", famiglie:"Famiglie"
+  cinema:"Cinema", famiglie:"Famiglie", tech:"Tech e digitale"
 };
 const ICON = {
   teatro:'<path d="M3 4h18M5 4v16M19 4v16M5 4c3.5 4 3.5 8 0 12M19 4c-3.5 4-3.5 8 0 12"/>',
@@ -602,7 +603,8 @@ const ICON = {
   classica:'<path d="M9 18V5l10-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="16" cy="16" r="3"/>',
   jazz:'<path d="M12 3a3 3 0 0 0-3 3v6a3 3 0 0 0 6 0V6a3 3 0 0 0-3-3zM5.5 11a6.5 6.5 0 0 0 13 0M12 17.5V21"/>',
   cinema:'<rect x="4" y="5" width="16" height="14" rx="1"/><path d="M8 5v14M16 5v14M4 9.5h4M4 14.5h4M16 9.5h4M16 14.5h4"/>',
-  famiglie:'<path d="M12 3a5 5 0 0 0-5 5c0 4 5 7.5 5 7.5s5-3.5 5-7.5a5 5 0 0 0-5-5zM12 15.5V21"/>'
+  famiglie:'<path d="M12 3a5 5 0 0 0-5 5c0 4 5 7.5 5 7.5s5-3.5 5-7.5a5 5 0 0 0-5-5zM12 15.5V21"/>',
+  tech:'<rect x="6.5" y="6.5" width="11" height="11" rx="2"/><rect x="10" y="10" width="4" height="4"/><path d="M9.5 3v3.5M14.5 3v3.5M9.5 17.5V21M14.5 17.5V21M3 9.5h3.5M3 14.5h3.5M17.5 9.5H21M17.5 14.5H21"/>'
 };
 const THEMES = [
   { id:"teatro", label:"Teatro", cats:["teatro"] },
@@ -612,6 +614,7 @@ const THEMES = [
   { id:"storia", label:"Arte e storia", cats:["storia"] },
   { id:"geo", label:"Geopolitica e società", cats:["geo"] },
   { id:"scienza", label:"Scienza", cats:["scienza"] },
+  { id:"tech", label:"Tech e digitale", cats:["tech"] },
   { id:"salute", label:"Salute e benessere", cats:["salute"] },
   { id:"cinema", label:"Cinema", cats:["cinema"] },
   { id:"famiglie", label:"Per famiglie", cats:["famiglie"] }
@@ -619,7 +622,7 @@ const THEMES = [
 const THEME_OF = {}; THEMES.forEach(t => t.cats.forEach(c => THEME_OF[c] = t));
 const EXPS = [
   { id:"emozionarmi", label:"Emozionarmi", sub:"concerti, teatro, cinema", em:"✨", c:"#f7d3e3" },
-  { id:"pensare", label:"Capire il mondo", sub:"talk, idee, lezioni aperte", em:"💡", c:"#e6ddfa" },
+  { id:"pensare", label:"Capire il mondo", sub:"talk, idee, tech, lezioni aperte", em:"💡", c:"#e6ddfa" },
   { id:"ridere", label:"Farmi una risata", sub:"comicità e ironia", em:"😄", c:"#fce3c2" },
   { id:"gente", label:"Conoscere persone", sub:"laboratori, dibattiti, feste", em:"🥂", c:"#cfede6" }
 ];
@@ -674,7 +677,7 @@ const minsTo = e => { if (e.date !== today() || !e.time) return null; const [h,m
 function soonText(e){ const m = minsTo(e); if (m == null || m <= 0 || m > 180) return ""; return m < 60 ? `tra ${m} min` : `tra ${Math.floor(m/60)} h${m%60 ? " " + (m%60) + " min" : ""}`; }
 function moodsOf(e){
   if (Array.isArray(e.moods)) return e.moods;
-  const m = []; if (["talk","filosofia","geo","storia","scienza","salute"].includes(e.cat)) m.push("pensare");
+  const m = []; if (["talk","filosofia","geo","storia","scienza","salute","tech"].includes(e.cat)) m.push("pensare");
   if (["classica","jazz","teatro","cinema"].includes(e.cat)) m.push("emozionarmi"); if (e.cat === "famiglie") m.push("bambini"); return m;
 }
 function hasMood(e, id){
@@ -823,12 +826,14 @@ function render(){
   const days = selectedDays().filter(inRange);
   let detail = "";
   if (S.view === "list"){
-    days.forEach((ds, i) => {
+    const shown = S.mode === "day" ? days : days.filter(ds => vis.some(e => e.date === ds));
+    shown.forEach((ds, i) => {
       const evs = vis.filter(e => e.date === ds);
       detail += `<div class="dayhead" ${i===0?'id="dayTop"':''}><h4>${ds===t ? "Oggi, " + label(ds).toLowerCase() : label(ds)}</h4><span>${evs.length} eventi</span></div>`;
       detail += evs.length ? `<div class="grid">${evs.map(card).join("")}</div>` : `<p class="empty">Nessun evento con questi filtri in questo giorno. Prova un altro giorno o <button class="linkbtn" data-clear="all">azzera i filtri</button>.</p>`;
     });
     if (!days.length) detail = `<p class="empty" style="margin-top:24px">Questi giorni non sono ancora in calendario: lo aggiorniamo ogni mattina.</p>`;
+    else if (!shown.length) detail = `<p class="empty" id="dayTop" style="margin-top:24px">Nessun evento con questi filtri. <button class="linkbtn" data-clear="all">Azzera i filtri</button> o prova un altro tema.</p>`;
   } else {
     detail = `<div id="dayTop" style="scroll-margin-top:90px"></div><div id="map" role="region" aria-label="Mappa degli eventi"></div><p class="mapnote">Posizione indicativa del luogo · ${days.length > 1 ? days.length + " giorni" : dayWord(days[0]||S.day)} · tocca un segnaposto per vedere gli eventi.</p>`;
   }

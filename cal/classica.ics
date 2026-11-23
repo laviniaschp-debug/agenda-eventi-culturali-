@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-23-coro-di-voci-bianche-dell-accademia@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261123T200000
 DTEND;TZID=Europe/Rome:20261123T220000
 SUMMARY:Coro di Voci Bianche dell'Accademia
@@ -37,7 +37,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-roman-fediurko-pianoforte@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261123T204500
 DTEND;TZID=Europe/Rome:20261123T224500
 SUMMARY:Roman Fediurko\, pianoforte
@@ -49,7 +49,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-solisti-aquilani-con-anna-tifu@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261125T204500
 DTEND;TZID=Europe/Rome:20261125T224500
 SUMMARY:Solisti Aquilani con Anna Tifu
@@ -61,7 +61,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-concerto-civile-giorgio-ambrosoli@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261126T200000
 DTEND;TZID=Europe/Rome:20261126T220000
 SUMMARY:Concerto civile Giorgio Ambrosoli
@@ -73,7 +73,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-a-flauto-e-cembalo-milano-arte-musica@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:A flauto e cembalo (Milano Arte Musica)
@@ -87,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-beethoven-triplo-concerto-musorgskij-quadri@acculturiamoci.i
  t
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261127T200000
 DTEND;TZID=Europe/Rome:20261127T220000
 SUMMARY:Beethoven Triplo concerto / Musorgskij Quadri
@@ -100,7 +100,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-inaugurazione-anno-accademico-del-conservatorio@acculturiamo
  ci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Inaugurazione anno accademico del Conservatorio
@@ -111,7 +111,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-saint-nicolas-di-britten@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Saint Nicolas di Britten
@@ -123,7 +123,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-trio-david-con-emanuele-orsini@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Trio David con Emanuele Orsini
@@ -136,7 +136,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-tjeknavorian-e-i-solisti-della-sinfonica-bartok-@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261129T110000
 DTEND;TZID=Europe/Rome:20261129T130000
 SUMMARY:Tjeknavorian e i Solisti della Sinfonica: Bartók\, Schubert
@@ -149,7 +149,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-beethoven-triplo-concerto-musorgskij-quadri@acculturiamoci.i
  t
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261129T160000
 DTEND;TZID=Europe/Rome:20261129T180000
 SUMMARY:Beethoven Triplo concerto / Musorgskij Quadri
@@ -161,7 +161,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-don-giovanni-in-versione-opera-breve@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261129T170000
 DTEND;TZID=Europe/Rome:20261129T190000
 SUMMARY:Don Giovanni in versione Opera Breve
@@ -177,7 +177,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-filarmonica-della-scala-dir-timothy-brock@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261129T200000
 DTEND;TZID=Europe/Rome:20261129T220000
 SUMMARY:Filarmonica della Scala\, dir. Timothy Brock
@@ -188,7 +188,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-il-canto-di-orfeo-inner-spaces@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261130T203000
 DTEND;TZID=Europe/Rome:20261130T223000
 SUMMARY:Il canto di Orfeo (INNER_SPACES)
@@ -202,7 +202,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-orchestra-dell-universita-bicocca-vivaldi-bach-p@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261130T203000
 DTEND;TZID=Europe/Rome:20261130T223000
 SUMMARY:Orchestra dell'Università Bicocca: Vivaldi\, Bach\, Pleyel
@@ -214,7 +214,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-fabrizio-meloni-e-mari-fujino@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261130T204500
 DTEND;TZID=Europe/Rome:20261130T224500
 SUMMARY:Fabrizio Meloni e Mari Fujino
@@ -228,7 +228,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-ettore-pagano-e-maximilian-kromer@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261201T203000
 DTEND;TZID=Europe/Rome:20261201T223000
 SUMMARY:Ettore Pagano e Maximilian Kromer
@@ -242,7 +242,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-federico-nicoletta-ti-va-di-ballare@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261202T170000
 DTEND;TZID=Europe/Rome:20261202T190000
 SUMMARY:Federico Nicoletta\, Ti va di ballare?
@@ -255,7 +255,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-paul-lewis-mozart@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261202T204500
 DTEND;TZID=Europe/Rome:20261202T224500
 SUMMARY:Paul Lewis\, Mozart+
@@ -269,7 +269,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-i-virtuosi-del-teatro-alla-scala-per-vidas@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261202T210000
 DTEND;TZID=Europe/Rome:20261202T230000
 SUMMARY:I Virtuosi del Teatro alla Scala per Vidas
@@ -282,7 +282,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-freddy-kempf-pianoforte@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261204T204500
 DTEND;TZID=Europe/Rome:20261204T224500
 SUMMARY:Freddy Kempf\, pianoforte

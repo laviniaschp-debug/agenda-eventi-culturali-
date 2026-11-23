@@ -1,5 +1,47 @@
 [
  {
+  "match": "STEP FuturAbility",
+  "lat": 45.4822,
+  "lng": 9.1835,
+  "zona": "Brera · Garibaldi · Isola"
+ },
+ {
+  "match": "Talent Garden Calabiana",
+  "lat": 45.443,
+  "lng": 9.2195,
+  "zona": "Porta Romana · Vittoria"
+ },
+ {
+  "match": "Talent Garden Isola",
+  "lat": 45.4855,
+  "lng": 9.195,
+  "zona": "Brera · Garibaldi · Isola"
+ },
+ {
+  "match": "WAO Isola",
+  "lat": 45.4895,
+  "lng": 9.187,
+  "zona": "Brera · Garibaldi · Isola"
+ },
+ {
+  "match": "Buildo",
+  "lat": 45.452,
+  "lng": 9.1645,
+  "zona": "Navigli · Tortona · S. Ambrogio"
+ },
+ {
+  "match": "Apple Piazza Liberty",
+  "lat": 45.466,
+  "lng": 9.1965,
+  "zona": "Centro"
+ },
+ {
+  "match": "POLIMI Graduate School",
+  "lat": 45.4505,
+  "lng": 9.169,
+  "zona": "Navigli · Tortona · S. Ambrogio"
+ },
+ {
   "match": "Biko",
   "lat": 45.4448,
   "lng": 9.156,

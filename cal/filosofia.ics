@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-material-mente-umana-la-soggettivita-incarnata@acculturiamoc
  i.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261124T163000
 DTEND;TZID=Europe/Rome:20261124T183000
 SUMMARY:Material-mente umana. La soggettività incarnata
@@ -40,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-carl-gustav-jung-attraverso-il-cinema-e-l-attual@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Carl Gustav Jung attraverso il cinema e l'attualità
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-il-senno-sulla-luna-il-medioevo-di-doctor-virtua@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261125T163000
 DTEND;TZID=Europe/Rome:20261125T183000
 SUMMARY:Il senno sulla luna: il Medioevo di Doctor Virtualis
@@ -65,7 +65,7 @@ CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-piacere-rousseau-ti-presento-dewey@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261125T173000
 DTEND;TZID=Europe/Rome:20261125T193000
 SUMMARY:Piacere\, Rousseau. Ti presento Dewey
@@ -77,7 +77,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-i-classici-non-hanno-mai-finito-di-dirci-cio-che@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261125T180000
 DTEND;TZID=Europe/Rome:20261125T200000
 SUMMARY:I classici non hanno mai finito di dirci ciò che vogliono dire
@@ -90,7 +90,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-la-messa-non-e-finita-il-sacro-all-epoca-del-dig@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261126T083000
 DTEND;TZID=Europe/Rome:20261126T103000
 SUMMARY:La messa non è finita. Il sacro all'epoca del digitale
@@ -103,7 +103,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-umberto-galimberti-l-illusione-della-liberta@acculturiamoci.
  it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261127T183000
 DTEND;TZID=Europe/Rome:20261127T203000
 SUMMARY:Umberto Galimberti\, L'illusione della libertà
@@ -118,7 +118,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-oltre-la-punizione-riparare-riannodare-rigenerar@acculturiam
  oci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Oltre la punizione: riparare\, riannodare\, rigenerare
@@ -130,7 +130,7 @@ CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-filosofia-dell-amicizia@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Filosofia dell'amicizia
@@ -143,7 +143,7 @@ CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-programma-philo-a-bookcity@acculturiamoci.it
-DTSTAMP:20261123T112118Z
+DTSTAMP:20261123T122430Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Programma Philo a BookCity
