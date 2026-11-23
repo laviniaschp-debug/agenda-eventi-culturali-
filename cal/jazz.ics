@@ -25,8 +25,21 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-11-23-corso-di-tango-e-milonga-con-auslander@acculturiamoci.it
+DTSTAMP:20261123T122636Z
+DTSTART;TZID=Europe/Rome:20261123T200000
+DTEND;TZID=Europe/Rome:20261123T220000
+SUMMARY:Corso di tango e Milonga con Ausländer
+LOCATION:Arci Biko (via Ettore Ponti 40)
+DESCRIPTION:Lezioni di tango dalle 20 (principianti) e dalle 21\, poi milon
+ ga libera fino a tardi: 10 € la milonga. Ingresso con tessera ARCI. http
+ s://www.bikoclub.net/
+URL:https://www.bikoclub.net/
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-24-il-rito-del-jazz-omaggio-a-chick-corea@acculturiamoci.it
-DTSTAMP:20261123T122430Z
+DTSTAMP:20261123T122636Z
 DTSTART;TZID=Europe/Rome:20261124T193000
 DTEND;TZID=Europe/Rome:20261124T213000
 SUMMARY:Il rito del jazz: omaggio a Chick Corea
@@ -41,7 +54,7 @@ CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-celebrate-studio-54@acculturiamoci.it
-DTSTAMP:20261123T122430Z
+DTSTAMP:20261123T122636Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Celebrate Studio 54!
@@ -54,8 +67,23 @@ URL:https://bluenotemilano.com/show/concerto-celebrate-studio-54-24-novembr
 CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-25-kahil-el-zabar-ethnic-heritage-ensemble-let-the-@acculturiam
+ oci.it
+DTSTAMP:20261123T122636Z
+DTSTART;TZID=Europe/Rome:20261125T210000
+DTEND;TZID=Europe/Rome:20261125T230000
+SUMMARY:Kahil El Zabar Ethnic Heritage Ensemble: Let The Spirit Out
+LOCATION:Arci Biko (via Ettore Ponti 40)
+DESCRIPTION:Una leggenda del jazz di Chicago festeggia 50 anni di musica\, 
+ in un club da 300 posti. Jazz spirituale dalla tradizione di Chicago\, per
+  i 50 anni dell'ensemble. 25 €. Ingresso con tessera ARCI. https://www.b
+ ikoclub.net/
+URL:https://www.bikoclub.net/
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-25-liv-warfield@acculturiamoci.it
-DTSTAMP:20261123T122430Z
+DTSTAMP:20261123T122636Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:LiV Warfield
@@ -66,8 +94,21 @@ URL:https://bluenotemilano.com/show/liv-warfield-25-novembre-2026-_-milano/
 CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-26-raffy-bushman-trio-new-life-cecilia-barra@acculturiamoci.it
+DTSTAMP:20261123T122636Z
+DTSTART;TZID=Europe/Rome:20261126T210000
+DTEND;TZID=Europe/Rome:20261126T230000
+SUMMARY:Raffy Bushman trio: New Life + Cecilia Barra
+LOCATION:Arci Biko (via Ettore Ponti 40)
+DESCRIPTION:Trio jazz che presenta il nuovo disco\; apre Cecilia Barra tra 
+ jazz\, soul e R&B. 12 €. Ingresso con tessera ARCI. https://www.bikoclub
+ .net/
+URL:https://www.bikoclub.net/
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-26-luca-barbarossa@acculturiamoci.it
-DTSTAMP:20261123T122430Z
+DTSTAMP:20261123T122636Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Luca Barbarossa
@@ -79,8 +120,20 @@ URL:https://bluenotemilano.com/show/concerto-luca-barbarossa-26-novembre-20
 CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-toni-zeno-gentle-t-zeboh-brattini@acculturiamoci.it
+DTSTAMP:20261123T122636Z
+DTSTART;TZID=Europe/Rome:20261127T220000
+DTEND;TZID=Europe/Rome:20261128T000000
+SUMMARY:Toni Zeno + Gentle T & Zeboh + Brattini
+LOCATION:Arci Biko (via Ettore Ponti 40)
+DESCRIPTION:Rap italiano underground dal vivo. 15 €. Ingresso con tessera
+  ARCI. https://www.bikoclub.net/
+URL:https://www.bikoclub.net/
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-the-legendary-johnny-o-neal-trio@acculturiamoci.it
-DTSTAMP:20261123T122430Z
+DTSTAMP:20261123T122636Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:The Legendary Johnny O'Neal Trio
@@ -92,8 +145,20 @@ URL:https://bluenotemilano.com/show/the-legendary-johnny-o-neal-trio-27-nov
 CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-materazi-future-club-the-italian-job@acculturiamoci.it
+DTSTAMP:20261123T122636Z
+DTSTART;TZID=Europe/Rome:20261128T213000
+DTEND;TZID=Europe/Rome:20261128T233000
+SUMMARY:Materazi Future Club: The Italian Job
+LOCATION:Arci Biko (via Ettore Ponti 40)
+DESCRIPTION:Post-punk ed elettronica\, presentazione live del nuovo album. 
+ 14\,30 €. Ingresso con tessera ARCI. https://www.bikoclub.net/
+URL:https://www.bikoclub.net/
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-jazzanova-live-feat-wayne-snow@acculturiamoci.it
-DTSTAMP:20261123T122430Z
+DTSTAMP:20261123T122636Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Jazzanova live feat. Wayne Snow
@@ -106,8 +171,20 @@ URL:https://bluenotemilano.com/show/concerto-jazzanova-live-feat-wayne-snow
 CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-king-ayisoba-kelly-b@acculturiamoci.it
+DTSTAMP:20261123T122636Z
+DTSTART;TZID=Europe/Rome:20261129T210000
+DTEND;TZID=Europe/Rome:20261129T230000
+SUMMARY:King Ayisoba + Kelly B
+LOCATION:Arci Biko (via Ettore Ponti 40)
+DESCRIPTION:Musica del Ghana con il liuto kologo\, tra dub e psichedelia. 1
+ 6\,10 €. Ingresso con tessera ARCI. https://www.bikoclub.net/
+URL:https://www.bikoclub.net/
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-tom-s-family-back-in-town@acculturiamoci.it
-DTSTAMP:20261123T122430Z
+DTSTAMP:20261123T122636Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Tom's Family – Back in Town!
@@ -119,18 +196,160 @@ URL:https://bluenotemilano.com/show/concerto-toms-family-29-novembre-2026-m
 CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-30-corso-di-tango-e-milonga-con-auslander@acculturiamoci.it
+DTSTAMP:20261123T122636Z
+DTSTART;TZID=Europe/Rome:20261130T200000
+DTEND;TZID=Europe/Rome:20261130T220000
+SUMMARY:Corso di tango e Milonga con Ausländer
+LOCATION:Arci Biko (via Ettore Ponti 40)
+DESCRIPTION:Lezioni di tango dalle 20 (principianti) e dalle 21\, poi milon
+ ga libera fino a tardi: 10 € la milonga. Ingresso con tessera ARCI. http
+ s://www.bikoclub.net/
+URL:https://www.bikoclub.net/
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-kino-ensemble-in-noir-film-concerto@acculturiamoci.it
+DTSTAMP:20261123T122636Z
+DTSTART;TZID=Europe/Rome:20261202T210000
+DTEND;TZID=Europe/Rome:20261202T230000
+SUMMARY:Kino Ensemble in NOIR (film-concerto)
+LOCATION:Arci Biko (via Ettore Ponti 40)
+DESCRIPTION:Musica improvvisata dal vivo sulle scene dei grandi film noir. 
+ 10 €. Ingresso con tessera ARCI. https://www.bikoclub.net/
+URL:https://www.bikoclub.net/
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-bilal-25-anni-di-1st-born-second@acculturiamoci.it
+DTSTAMP:20261123T122636Z
+DTSTART;TZID=Europe/Rome:20261203T210000
+DTEND;TZID=Europe/Rome:20261203T230000
+SUMMARY:Bilal: 25 anni di 1st Born Second
+LOCATION:Arci Biko (via Ettore Ponti 40)
+DESCRIPTION:Il re del neo-soul festeggia 25 anni del suo primo disco\, in u
+ n club piccolo e caldo. Il cantante neo-soul americano con la band al comp
+ leto\; dj set di Steve Dub. 30 €. Ingresso con tessera ARCI. https://www
+ .bikoclub.net/
+URL:https://www.bikoclub.net/
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-04-mixed-feelings-devon-rexi-venerus-b2b-physical-t@acculturiam
  oci.it
-DTSTAMP:20261123T122430Z
+DTSTAMP:20261123T122636Z
 DTSTART;TZID=Europe/Rome:20261204T220000
 DTEND;TZID=Europe/Rome:20261205T000000
 SUMMARY:Mixed Feelings: Devon Rexi\, Venerus b2b Physical Therapy\, Blinky
 LOCATION:Arci Biko (via Ettore Ponti 40)
-DESCRIPTION:Notte di dj set alla Biko. Ingresso con tessera ARCI. https://z
- ero.eu/it/eventi/384541-mixed-feelings-w-devon-rexi-venerus-b2b-physical-t
- herapy-blinky\,milano/
+DESCRIPTION:Notte elettronica tra dub\, house e breakbeat. 16\,50 €. Ingr
+ esso con tessera ARCI. https://zero.eu/it/eventi/384541-mixed-feelings-w-d
+ evon-rexi-venerus-b2b-physical-therapy-blinky\,milano/
 URL:https://zero.eu/it/eventi/384541-mixed-feelings-w-devon-rexi-venerus-b2
  b-physical-therapy-blinky,milano/
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-a-nice-noise-the-cut-of-your-jib@acculturiamoci.it
+DTSTAMP:20261123T122636Z
+DTSTART;TZID=Europe/Rome:20261205T210000
+DTEND;TZID=Europe/Rome:20261205T230000
+SUMMARY:a nice noise: the cut of your jib
+LOCATION:Arci Biko (via Ettore Ponti 40)
+DESCRIPTION:Adele Altro (Any Other) con il trio She's Analog\, tra pop da c
+ amera\, elettronica e jazz. 13\,80 €. Ingresso con tessera ARCI. https:/
+ /www.bikoclub.net/
+URL:https://www.bikoclub.net/
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-claudio-covato-vittoria-sciacca@acculturiamoci.it
+DTSTAMP:20261123T122636Z
+DTSTART;TZID=Europe/Rome:20261209T210000
+DTEND;TZID=Europe/Rome:20261209T230000
+SUMMARY:Claudio Covato + Vittoria Sciacca
+LOCATION:Arci Biko (via Ettore Ponti 40)
+DESCRIPTION:Cantautorato acustico\; apre Vittoria Sciacca. 12 €. Ingresso
+  con tessera ARCI. https://www.bikoclub.net/
+URL:https://www.bikoclub.net/
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-tmrw-talk-ep-release-party@acculturiamoci.it
+DTSTAMP:20261123T122636Z
+DTSTART;TZID=Europe/Rome:20261210T210000
+DTEND;TZID=Europe/Rome:20261210T230000
+SUMMARY:TMRW TALK: EP release party
+LOCATION:Arci Biko (via Ettore Ponti 40)
+DESCRIPTION:Beat\, campionamenti e percussioni dal vivo. 11 €. Ingresso c
+ on tessera ARCI. https://www.bikoclub.net/
+URL:https://www.bikoclub.net/
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-immacolato-concertone-vol-4@acculturiamoci.it
+DTSTAMP:20261123T122636Z
+DTSTART;TZID=Europe/Rome:20261211T210000
+DTEND;TZID=Europe/Rome:20261211T230000
+SUMMARY:Immacolato Concertone vol. 4
+LOCATION:Arci Biko (via Ettore Ponti 40)
+DESCRIPTION:La festa dell'etichetta Bradipo Dischi con Moretti\, Eyes Be Qu
+ iet\, Bandit\, Filospada e altri. 15 €. Ingresso con tessera ARCI. https
+ ://www.bikoclub.net/
+URL:https://www.bikoclub.net/
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-wild-honey-s-christmas-party-vol-5@acculturiamoci.it
+DTSTAMP:20261123T122636Z
+DTSTART;TZID=Europe/Rome:20261212T210000
+DTEND;TZID=Europe/Rome:20261212T230000
+SUMMARY:Wild Honey's Christmas Party vol. 5
+LOCATION:Arci Biko (via Ettore Ponti 40)
+DESCRIPTION:La festa di Natale indie a tema lucha libre\, con band dal vivo
+  e dj set. 16\,50 €. Ingresso con tessera ARCI. https://www.bikoclub.net
+ /
+URL:https://www.bikoclub.net/
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-puntuale-festival-music-for-airports-di-brian-en@acculturiam
+ oci.it
+DTSTAMP:20261123T122636Z
+DTSTART;TZID=Europe/Rome:20261216T210000
+DTEND;TZID=Europe/Rome:20261216T230000
+SUMMARY:Puntuale Festival: Music for Airports di Brian Eno
+LOCATION:Arci Biko (via Ettore Ponti 40)
+DESCRIPTION:Il capolavoro ambient suonato dal vivo\, con disegni in diretta
+  di Pietro Puccio. 10-12 €. Ingresso con tessera ARCI. https://dice.fm/e
+ vent/yo5oev-puntuale-festival-4-brian-enos-music-for-airports-16th-dec-bik
+ o-milano-tickets
+URL:https://dice.fm/event/yo5oev-puntuale-festival-4-brian-enos-music-for-a
+ irports-16th-dec-biko-milano-tickets
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-sa-roc-con-malasartoria-milano@acculturiamoci.it
+DTSTAMP:20261123T122636Z
+DTSTART;TZID=Europe/Rome:20261217T210000
+DTEND;TZID=Europe/Rome:20261217T230000
+SUMMARY:Sa-Roc con Malasartoria Milano
+LOCATION:Arci Biko (via Ettore Ponti 40)
+DESCRIPTION:Hip hop americano con band dal vivo\; dj set di Steve Dub. 20 
+ €. Ingresso con tessera ARCI. https://www.bikoclub.net/
+URL:https://www.bikoclub.net/
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-milano-oldies-club-con-tiny-t@acculturiamoci.it
+DTSTAMP:20261123T122636Z
+DTSTART;TZID=Europe/Rome:20261219T220000
+DTEND;TZID=Europe/Rome:20261220T000000
+SUMMARY:Milano Oldies Club con Tiny T
+LOCATION:Arci Biko (via Ettore Ponti 40)
+DESCRIPTION:Serata da sound system: ska\, rocksteady e reggae su vinili d'e
+ poca. 10 €. Ingresso con tessera ARCI. https://www.bikoclub.net/
+URL:https://www.bikoclub.net/
 CATEGORIES:Jazz e live
 END:VEVENT
 END:VCALENDAR

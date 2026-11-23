@@ -423,6 +423,28 @@
   {
    "date": "2026-11-23",
    "time": "20:00",
+   "title": "Corso di tango e Milonga con Ausländer",
+   "venue": "Arci Biko (via Ettore Ponti 40)",
+   "cat": "jazz",
+   "desc": "Lezioni di tango dalle 20 (principianti) e dalle 21, poi milonga libera fino a tardi: 10 € la milonga. Ingresso con tessera ARCI.",
+   "url": "https://www.bikoclub.net/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e018",
+   "key": "2026-11-23-corso-di-tango-e-milonga-con-auslander",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4448,
+    9.156
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-11-23",
+   "time": "20:00",
    "title": "Inaugurazione BookCity: Colson Whitehead",
    "venue": "Teatro Dal Verme",
    "cat": "talk",
@@ -434,7 +456,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e018",
+   "id": "e019",
    "key": "2026-11-23-inaugurazione-bookcity-colson-whitehead",
    "why": "Due premi Pulitzer, una sera sola: il via ufficiale di BookCity.",
    "moods": [
@@ -459,7 +481,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e019",
+   "id": "e020",
    "key": "2026-11-23-alessandro-bergonzoni-voto-di-vastita",
    "why": "Un'ora di parole che si piegano: si ride e si pensa insieme.",
    "moods": [
@@ -483,7 +505,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e020",
+   "id": "e021",
    "key": "2026-11-23-roman-fediurko-pianoforte",
    "moods": [
     "emozionarmi"
@@ -505,7 +527,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e021",
+   "id": "e022",
    "key": "2026-11-23-vedo-ascolto-parlo-contro-la-violenza-sulle-donn",
    "moods": [
     "emozionarmi"
@@ -529,7 +551,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e022",
+   "id": "e023",
    "key": "2026-11-24-la-ragione-di-orlando-come-il-medioevo-imparo-a-",
    "moods": [
     "pensare"
@@ -553,7 +575,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e023",
+   "id": "e024",
    "key": "2026-11-24-una-societa-piu-equa-e-anche-piu-sana",
    "moods": [
     "pensare"
@@ -575,7 +597,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e024",
+   "id": "e025",
    "key": "2026-11-24-daniel-pennac-apre-la-nuova-feltrinelli-centrale",
    "moods": [
     "pensare"
@@ -599,7 +621,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e025",
+   "id": "e026",
    "key": "2026-11-24-una-risata-seppellira-la-violenza-euripide-e-ari",
    "moods": [
     "pensare",
@@ -622,7 +644,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e026",
+   "id": "e027",
    "key": "2026-11-24-otello-l-ultima-maschera-tragica",
    "moods": [
     "pensare"
@@ -644,7 +666,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e027",
+   "id": "e028",
    "key": "2026-11-24-over-dance-milano-danza-e-longevita",
    "moods": [
     "pensare"
@@ -668,7 +690,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e028",
+   "id": "e029",
    "key": "2026-11-24-l-universo-ideologico-di-trump",
    "moods": [
     "gente",
@@ -693,7 +715,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e029",
+   "id": "e030",
    "key": "2026-11-24-la-democrazia-partecipativa-tra-crisi-della-rapp",
    "moods": [
     "pensare"
@@ -717,7 +739,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e030",
+   "id": "e031",
    "key": "2026-11-24-material-mente-umana-la-soggettivita-incarnata",
    "moods": [
     "gente",
@@ -742,7 +764,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e031",
+   "id": "e032",
    "key": "2026-11-24-salute-in-evoluzione-pievani-e-remuzzi",
    "moods": [
     "pensare"
@@ -767,7 +789,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e032",
+   "id": "e033",
    "key": "2026-11-24-daniel-pennac-presenta-mallet",
    "why": "Daniel Pennac dal vivo, a Milano, con il suo nuovo libro.",
    "moods": [
@@ -790,7 +812,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e033",
+   "id": "e034",
    "key": "2026-11-24-kaleidoscope-ai-7-crescere-e-vendere-con-l-intel",
    "moods": [
     "gente",
@@ -813,7 +835,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e034",
+   "id": "e035",
    "key": "2026-11-24-presentazione-de-il-morandini-2026",
    "moods": [
     "emozionarmi"
@@ -830,7 +852,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e035",
+   "id": "e036",
    "key": "2026-11-24-il-rito-del-jazz-omaggio-a-chick-corea",
    "moods": [
     "emozionarmi",
@@ -853,7 +875,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e036",
+   "id": "e037",
    "key": "2026-11-24-io-sono-verticale",
    "moods": [
     "emozionarmi"
@@ -875,7 +897,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e037",
+   "id": "e038",
    "key": "2026-11-24-una-delle-ultime-sere-di-carnovale",
    "moods": [
     "emozionarmi"
@@ -897,7 +919,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e038",
+   "id": "e039",
    "key": "2026-11-24-rompiamo-il-silenzio",
    "moods": [
     "emozionarmi"
@@ -919,7 +941,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e039",
+   "id": "e040",
    "key": "2026-11-24-i-monologhi-della-vagina",
    "moods": [
     "emozionarmi"
@@ -941,7 +963,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e040",
+   "id": "e041",
    "key": "2026-11-24-la-rivolta",
    "moods": [
     "emozionarmi"
@@ -963,7 +985,7 @@
    "free": true,
    "tags": [],
    "verify": true,
-   "id": "e041",
+   "id": "e042",
    "key": "2026-11-24-carl-gustav-jung-attraverso-il-cinema-e-l-attual",
    "moods": [
     "gente",
@@ -981,7 +1003,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "e042",
+   "id": "e043",
    "key": "2026-11-24-celebrate-studio-54",
    "moods": [
     "emozionarmi"
@@ -1003,7 +1025,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e043",
+   "id": "e044",
    "key": "2026-11-24-iliade-la-ballata-di-tersite",
    "moods": [
     "emozionarmi"
@@ -1027,7 +1049,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e044",
+   "id": "e045",
    "key": "2026-11-25-oltre-la-rappresaglia-la-repressione-nazista-in-",
    "moods": [
     "pensare"
@@ -1051,7 +1073,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e045",
+   "id": "e046",
    "key": "2026-11-25-arturo-perez-reverte",
    "moods": [
     "pensare"
@@ -1075,7 +1097,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e046",
+   "id": "e047",
    "key": "2026-11-25-dante-e-vivo",
    "moods": [
     "pensare"
@@ -1099,7 +1121,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e047",
+   "id": "e048",
    "key": "2026-11-25-il-senno-sulla-luna-il-medioevo-di-doctor-virtua",
    "moods": [
     "pensare"
@@ -1123,7 +1145,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e048",
+   "id": "e049",
    "key": "2026-11-25-piacere-rousseau-ti-presento-dewey",
    "moods": [
     "pensare"
@@ -1140,7 +1162,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e049",
+   "id": "e050",
    "key": "2026-11-25-i-classici-non-hanno-mai-finito-di-dirci-cio-che",
    "moods": [
     "pensare"
@@ -1164,7 +1186,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e050",
+   "id": "e051",
    "key": "2026-11-25-jan-brokken-la-malinconia-del-viaggiatore",
    "moods": [
     "pensare"
@@ -1188,7 +1210,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e051",
+   "id": "e052",
    "key": "2026-11-25-prima-delle-prime-otello",
    "why": "Arrivare alla Prima della Scala sapendo già tutto di Otello.",
    "moods": [
@@ -1211,7 +1233,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e052",
+   "id": "e053",
    "key": "2026-11-25-agents-anonymous-milan-chapter",
    "moods": [
     "pensare"
@@ -1235,7 +1257,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e053",
+   "id": "e054",
    "key": "2026-11-25-era-tanto-un-bravo-ragazzo",
    "moods": [
     "pensare"
@@ -1257,7 +1279,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e054",
+   "id": "e055",
    "key": "2026-11-25-io-sono-verticale",
    "moods": [
     "emozionarmi"
@@ -1282,7 +1304,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e055",
+   "id": "e056",
    "key": "2026-11-25-samantha-cristoforetti-il-senso-della-luna",
    "why": "Un'astronauta, la Luna e Leopardi nella stessa sera.",
    "moods": [
@@ -1305,7 +1327,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e056",
+   "id": "e057",
    "key": "2026-11-25-la-rivolta",
    "moods": [
     "emozionarmi"
@@ -1327,7 +1349,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e057",
+   "id": "e058",
    "key": "2026-11-25-una-delle-ultime-sere-di-carnovale",
    "moods": [
     "emozionarmi"
@@ -1349,7 +1371,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e058",
+   "id": "e059",
    "key": "2026-11-25-uomini-si-diventa-nella-mente-di-un-femminicida",
    "moods": [
     "emozionarmi"
@@ -1371,7 +1393,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e059",
+   "id": "e060",
    "key": "2026-11-25-solisti-aquilani-con-anna-tifu",
    "moods": [
     "emozionarmi"
@@ -1384,6 +1406,31 @@
   },
   {
    "date": "2026-11-25",
+   "time": "21:00",
+   "title": "Kahil El Zabar Ethnic Heritage Ensemble: Let The Spirit Out",
+   "venue": "Arci Biko (via Ettore Ponti 40)",
+   "cat": "jazz",
+   "desc": "Jazz spirituale dalla tradizione di Chicago, per i 50 anni dell'ensemble. 25 €. Ingresso con tessera ARCI.",
+   "url": "https://www.bikoclub.net/",
+   "free": false,
+   "tags": [
+    "imperdibile"
+   ],
+   "verify": false,
+   "why": "Una leggenda del jazz di Chicago festeggia 50 anni di musica, in un club da 300 posti.",
+   "id": "e061",
+   "key": "2026-11-25-kahil-el-zabar-ethnic-heritage-ensemble-let-the-",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4448,
+    9.156
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-11-25",
    "time": "",
    "title": "Bobby",
    "venue": "Teatro Oscar",
@@ -1393,7 +1440,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e060",
+   "id": "e062",
    "key": "2026-11-25-bobby",
    "moods": [
     "emozionarmi"
@@ -1415,7 +1462,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e061",
+   "id": "e063",
    "key": "2026-11-25-liv-warfield",
    "moods": [
     "emozionarmi"
@@ -1439,7 +1486,7 @@
     "bookcity"
    ],
    "verify": true,
-   "id": "e062",
+   "id": "e064",
    "key": "2026-11-25-silvia-romani-e-federica-fracassi-sul-mito-antic",
    "moods": [
     "pensare"
@@ -1463,7 +1510,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e063",
+   "id": "e065",
    "key": "2026-11-26-la-messa-non-e-finita-il-sacro-all-epoca-del-dig",
    "moods": [
     "gente",
@@ -1488,7 +1535,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e064",
+   "id": "e066",
    "key": "2026-11-26-le-sparizioni-forzate-in-america-latina",
    "moods": [
     "pensare"
@@ -1510,7 +1557,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e065",
+   "id": "e067",
    "key": "2026-11-26-100-copertine-di-futuro",
    "moods": [
     "pensare"
@@ -1532,7 +1579,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e066",
+   "id": "e068",
    "key": "2026-11-26-anti-illuminismo-nella-storia-e-oggi",
    "moods": [
     "pensare"
@@ -1554,7 +1601,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e067",
+   "id": "e069",
    "key": "2026-11-26-letture-e-note-al-museo-guido-cantelli",
    "moods": [
     "pensare"
@@ -1576,7 +1623,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e068",
+   "id": "e070",
    "key": "2026-11-26-riprendersi-il-futuro-tecnologia-impresa-e-la-cr",
    "moods": [
     "pensare"
@@ -1598,7 +1645,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e069",
+   "id": "e071",
    "key": "2026-11-26-teatro-dietro-l-angolo-la-drammaturgia",
    "moods": [
     "emozionarmi"
@@ -1622,7 +1669,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e070",
+   "id": "e072",
    "key": "2026-11-26-hello-stranger-mostra-di-poesia",
    "moods": [
     "pensare"
@@ -1647,7 +1694,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e071",
+   "id": "e073",
    "key": "2026-11-26-milena-gabanelli-e-simona-ravizza-la-resa-dei-co",
    "why": "Due firme del giornalismo d'inchiesta sullo stesso palco.",
    "moods": [
@@ -1670,7 +1717,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e072",
+   "id": "e074",
    "key": "2026-11-26-tech-si-gira-ghost-in-the-shell-con-luca-perri",
    "moods": [
     "pensare"
@@ -1692,7 +1739,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e073",
+   "id": "e075",
    "key": "2026-11-26-io-sono-verticale",
    "moods": [
     "emozionarmi"
@@ -1714,7 +1761,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e074",
+   "id": "e076",
    "key": "2026-11-26-una-delle-ultime-sere-di-carnovale",
    "moods": [
     "emozionarmi"
@@ -1736,7 +1783,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e075",
+   "id": "e077",
    "key": "2026-11-26-concerto-civile-giorgio-ambrosoli",
    "moods": [
     "emozionarmi"
@@ -1760,7 +1807,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e076",
+   "id": "e078",
    "key": "2026-11-26-fabio-volo-quando-l-amore-ti-sorprende",
    "moods": [
     "pensare"
@@ -1782,7 +1829,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e077",
+   "id": "e079",
    "key": "2026-11-26-human-brains-adolescenza-capire-mente-corpo-e-sa",
    "moods": [
     "pensare"
@@ -1804,7 +1851,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e078",
+   "id": "e080",
    "key": "2026-11-26-adelchi-con-roberto-trifiro",
    "moods": [
     "emozionarmi"
@@ -1826,7 +1873,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e079",
+   "id": "e081",
    "key": "2026-11-26-la-rivolta",
    "moods": [
     "emozionarmi"
@@ -1839,6 +1886,28 @@
   },
   {
    "date": "2026-11-26",
+   "time": "21:00",
+   "title": "Raffy Bushman trio: New Life + Cecilia Barra",
+   "venue": "Arci Biko (via Ettore Ponti 40)",
+   "cat": "jazz",
+   "desc": "Trio jazz che presenta il nuovo disco; apre Cecilia Barra tra jazz, soul e R&B. 12 €. Ingresso con tessera ARCI.",
+   "url": "https://www.bikoclub.net/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e082",
+   "key": "2026-11-26-raffy-bushman-trio-new-life-cecilia-barra",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4448,
+    9.156
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-11-26",
    "time": "",
    "title": "A flauto e cembalo (Milano Arte Musica)",
    "venue": "Sala Capitolare del Bergognone",
@@ -1848,7 +1917,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e080",
+   "id": "e083",
    "key": "2026-11-26-a-flauto-e-cembalo-milano-arte-musica",
    "moods": [
     "emozionarmi"
@@ -1865,7 +1934,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "e081",
+   "id": "e084",
    "key": "2026-11-26-luca-barbarossa",
    "moods": [
     "emozionarmi"
@@ -1887,7 +1956,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e082",
+   "id": "e085",
    "key": "2026-11-27-milano-life-science-forum-prevenzione",
    "moods": [
     "pensare"
@@ -1911,7 +1980,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e083",
+   "id": "e086",
    "key": "2026-11-27-campi-celle-ceneri-la-scrittura-palestinese",
    "moods": [
     "gente",
@@ -1936,7 +2005,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e084",
+   "id": "e087",
    "key": "2026-11-27-la-scala-dei-libri-francesco-filidei-e-silvia-le",
    "moods": [
     "pensare"
@@ -1960,7 +2029,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e085",
+   "id": "e088",
    "key": "2026-11-27-francesco-vezzoli-victoria-mater",
    "moods": [
     "pensare"
@@ -1982,7 +2051,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e086",
+   "id": "e089",
    "key": "2026-11-27-una-legge-elettorale-inaccettabile",
    "moods": [
     "pensare"
@@ -2007,7 +2076,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e087",
+   "id": "e090",
    "key": "2026-11-27-umberto-galimberti-l-illusione-della-liberta",
    "why": "Quanto siamo davvero liberi? Galimberti prova a rispondere.",
    "moods": [
@@ -2030,7 +2099,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e088",
+   "id": "e091",
    "key": "2026-11-27-vincenzo-latronico-work-in-progress",
    "moods": [
     "pensare"
@@ -2052,7 +2121,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e089",
+   "id": "e092",
    "key": "2026-11-27-io-sono-verticale",
    "moods": [
     "emozionarmi"
@@ -2074,7 +2143,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e090",
+   "id": "e093",
    "key": "2026-11-27-beethoven-triplo-concerto-musorgskij-quadri",
    "moods": [
     "emozionarmi"
@@ -2096,7 +2165,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e091",
+   "id": "e094",
    "key": "2026-11-27-adelchi-con-roberto-trifiro",
    "moods": [
     "emozionarmi"
@@ -2120,7 +2189,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e092",
+   "id": "e095",
    "key": "2026-11-27-di-madre-in-figlia",
    "why": "Prima assoluta: tre generazioni di donne in scena.",
    "moods": [
@@ -2145,7 +2214,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e093",
+   "id": "e096",
    "key": "2026-11-27-docufilm-sui-150-anni-del-corriere",
    "moods": [
     "emozionarmi"
@@ -2167,7 +2236,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e094",
+   "id": "e097",
    "key": "2026-11-27-la-rivolta",
    "moods": [
     "emozionarmi"
@@ -2189,7 +2258,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e095",
+   "id": "e098",
    "key": "2026-11-27-una-delle-ultime-sere-di-carnovale",
    "moods": [
     "emozionarmi"
@@ -2199,6 +2268,28 @@
     9.1824
    ],
    "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "22:00",
+   "title": "Toni Zeno + Gentle T & Zeboh + Brattini",
+   "venue": "Arci Biko (via Ettore Ponti 40)",
+   "cat": "jazz",
+   "desc": "Rap italiano underground dal vivo. 15 €. Ingresso con tessera ARCI.",
+   "url": "https://www.bikoclub.net/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e099",
+   "key": "2026-11-27-toni-zeno-gentle-t-zeboh-brattini",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4448,
+    9.156
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio"
   },
   {
    "date": "2026-11-27",
@@ -2213,7 +2304,7 @@
     "bookcity"
    ],
    "verify": true,
-   "id": "e096",
+   "id": "e100",
    "key": "2026-11-27-e-tu-come-lo-sai-capire-la-scienza-per-decidere-",
    "moods": [
     "pensare"
@@ -2237,7 +2328,7 @@
     "bookcity"
    ],
    "verify": true,
-   "id": "e097",
+   "id": "e101",
    "key": "2026-11-27-oltre-la-punizione-riparare-riannodare-rigenerar",
    "moods": [
     "pensare"
@@ -2261,7 +2352,7 @@
     "bookcity"
    ],
    "verify": true,
-   "id": "e098",
+   "id": "e102",
    "key": "2026-11-27-scrivere-per-resistere-premio-pen-inge-feltrinel",
    "moods": [
     "pensare"
@@ -2283,7 +2374,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e099",
+   "id": "e103",
    "key": "2026-11-27-the-legendary-johnny-o-neal-trio",
    "moods": [
     "emozionarmi"
@@ -2305,7 +2396,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e100",
+   "id": "e104",
    "key": "2026-11-28-80-anni-dopo-l-astensionismo-elettorale-e-come-c",
    "moods": [
     "pensare"
@@ -2327,7 +2418,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e101",
+   "id": "e105",
    "key": "2026-11-28-masterclass-con-laura-citarella",
    "moods": [
     "emozionarmi"
@@ -2349,7 +2440,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e102",
+   "id": "e106",
    "key": "2026-11-28-e-andata-cosi-lezione-di-cinema",
    "moods": [
     "emozionarmi"
@@ -2374,7 +2465,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e103",
+   "id": "e107",
    "key": "2026-11-28-aldo-cazzullo-il-nostro-rinascimento",
    "why": "La storia d'Italia raccontata come un romanzo.",
    "moods": [
@@ -2399,7 +2490,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e104",
+   "id": "e108",
    "key": "2026-11-28-laura-pepe-storia-non-convenzionale-delle-donne-",
    "moods": [
     "pensare"
@@ -2423,7 +2514,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e105",
+   "id": "e109",
    "key": "2026-11-28-dario-biagi-vita-di-cagnaccio-di-san-pietro",
    "moods": [
     "pensare"
@@ -2447,7 +2538,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e106",
+   "id": "e110",
    "key": "2026-11-28-ermanno-cavazzoni-saro-breve",
    "moods": [
     "pensare"
@@ -2471,7 +2562,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e107",
+   "id": "e111",
    "key": "2026-11-28-fernando-aramburu-presenta-maite",
    "moods": [
     "pensare"
@@ -2495,7 +2586,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e108",
+   "id": "e112",
    "key": "2026-11-28-filosofia-dell-amicizia",
    "moods": [
     "pensare"
@@ -2517,7 +2608,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e109",
+   "id": "e113",
    "key": "2026-11-28-inaugurazione-anno-accademico-del-conservatorio",
    "moods": [
     "emozionarmi"
@@ -2541,7 +2632,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e110",
+   "id": "e114",
    "key": "2026-11-28-la-scala-dei-libri-a-dirci-le-cose-chiare-don-gi",
    "moods": [
     "pensare"
@@ -2563,7 +2654,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e111",
+   "id": "e115",
    "key": "2026-11-28-di-madre-in-figlia",
    "moods": [
     "emozionarmi"
@@ -2585,7 +2676,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e112",
+   "id": "e116",
    "key": "2026-11-28-io-sono-verticale",
    "moods": [
     "emozionarmi"
@@ -2607,7 +2698,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e113",
+   "id": "e117",
    "key": "2026-11-28-una-delle-ultime-sere-di-carnovale",
    "moods": [
     "emozionarmi"
@@ -2629,7 +2720,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e114",
+   "id": "e118",
    "key": "2026-11-28-la-rivolta",
    "moods": [
     "emozionarmi"
@@ -2651,7 +2742,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e115",
+   "id": "e119",
    "key": "2026-11-28-stai-zitta",
    "moods": [
     "emozionarmi"
@@ -2661,6 +2752,28 @@
     9.1966
    ],
    "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "21:30",
+   "title": "Materazi Future Club: The Italian Job",
+   "venue": "Arci Biko (via Ettore Ponti 40)",
+   "cat": "jazz",
+   "desc": "Post-punk ed elettronica, presentazione live del nuovo album. 14,30 €. Ingresso con tessera ARCI.",
+   "url": "https://www.bikoclub.net/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e120",
+   "key": "2026-11-28-materazi-future-club-the-italian-job",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4448,
+    9.156
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio"
   },
   {
    "date": "2026-11-28",
@@ -2675,7 +2788,7 @@
     "bookcity"
    ],
    "verify": true,
-   "id": "e116",
+   "id": "e121",
    "key": "2026-11-28-100-anni-di-allen-ginsberg",
    "moods": [
     "pensare"
@@ -2699,7 +2812,7 @@
     "bookcity"
    ],
    "verify": true,
-   "id": "e117",
+   "id": "e122",
    "key": "2026-11-28-bff-books-friends-forever",
    "moods": [
     "gente",
@@ -2724,7 +2837,7 @@
     "bookcity"
    ],
    "verify": true,
-   "id": "e118",
+   "id": "e123",
    "key": "2026-11-28-il-verde-e-il-nero",
    "moods": [
     "pensare"
@@ -2746,7 +2859,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e119",
+   "id": "e124",
    "key": "2026-11-28-jazzanova-live-feat-wayne-snow",
    "moods": [
     "emozionarmi"
@@ -2770,7 +2883,7 @@
     "bookcity"
    ],
    "verify": true,
-   "id": "e120",
+   "id": "e125",
    "key": "2026-11-28-la-forza-biologica-della-cultura",
    "moods": [
     "pensare"
@@ -2794,7 +2907,7 @@
     "bookcity"
    ],
    "verify": true,
-   "id": "e121",
+   "id": "e126",
    "key": "2026-11-28-programma-philo-a-bookcity",
    "moods": [
     "gente",
@@ -2817,7 +2930,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e122",
+   "id": "e127",
    "key": "2026-11-28-saint-nicolas-di-britten",
    "moods": [
     "emozionarmi"
@@ -2839,7 +2952,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e123",
+   "id": "e128",
    "key": "2026-11-28-trio-david-con-emanuele-orsini",
    "moods": [
     "emozionarmi"
@@ -2861,7 +2974,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e124",
+   "id": "e129",
    "key": "2026-11-28-visite-e-laboratori-per-famiglie",
    "moods": [
     "bambini",
@@ -2886,7 +2999,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e125",
+   "id": "e130",
    "key": "2026-11-29-bookcity-0-6",
    "moods": [
     "bambini"
@@ -2911,7 +3024,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e126",
+   "id": "e131",
    "key": "2026-11-29-pupi-avati-il-gotico-padano-e-il-cinema",
    "why": "Il maestro del gotico padano racconta il suo cinema.",
    "moods": [
@@ -2934,7 +3047,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e127",
+   "id": "e132",
    "key": "2026-11-29-tjeknavorian-e-i-solisti-della-sinfonica-bartok-",
    "moods": [
     "emozionarmi"
@@ -2956,7 +3069,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e128",
+   "id": "e133",
    "key": "2026-11-29-avatar-tra-anime-e-manga-laboratorio-8-16-anni",
    "moods": [
     "bambini",
@@ -2979,7 +3092,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e129",
+   "id": "e134",
    "key": "2026-11-29-buon-compleanno-gus",
    "moods": [
     "bambini",
@@ -3005,7 +3118,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e130",
+   "id": "e135",
    "key": "2026-11-29-zerocalcare-dove-andiamo-da-qui-zero",
    "why": "Zerocalcare dal vivo: conviene arrivare presto.",
    "moods": [
@@ -3029,7 +3142,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e131",
+   "id": "e136",
    "key": "2026-11-29-ciak-si-gira-con-lo-smartphone-laboratorio-8-16-",
    "moods": [
     "bambini",
@@ -3052,7 +3165,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e132",
+   "id": "e137",
    "key": "2026-11-29-io-sono-verticale",
    "moods": [
     "emozionarmi"
@@ -3074,7 +3187,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e133",
+   "id": "e138",
    "key": "2026-11-29-beethoven-triplo-concerto-musorgskij-quadri",
    "moods": [
     "emozionarmi"
@@ -3096,7 +3209,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e134",
+   "id": "e139",
    "key": "2026-11-29-di-madre-in-figlia",
    "moods": [
     "emozionarmi"
@@ -3118,7 +3231,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e135",
+   "id": "e140",
    "key": "2026-11-29-una-delle-ultime-sere-di-carnovale",
    "moods": [
     "emozionarmi"
@@ -3142,7 +3255,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e136",
+   "id": "e141",
    "key": "2026-11-29-alicia-gimenez-bartlett-sotto-il-cielo-infernale",
    "moods": [
     "pensare"
@@ -3164,7 +3277,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e137",
+   "id": "e142",
    "key": "2026-11-29-la-rivolta",
    "moods": [
     "emozionarmi"
@@ -3186,7 +3299,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e138",
+   "id": "e143",
    "key": "2026-11-29-stai-zitta",
    "moods": [
     "emozionarmi"
@@ -3208,7 +3321,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e139",
+   "id": "e144",
    "key": "2026-11-29-don-giovanni-in-versione-opera-breve",
    "moods": [
     "emozionarmi"
@@ -3233,7 +3346,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e140",
+   "id": "e145",
    "key": "2026-11-29-chiusura-bookcity-samantha-harvey-e-paolo-giorda",
    "why": "Una vincitrice del Booker e Paolo Giordano chiudono BookCity.",
    "moods": [
@@ -3256,7 +3369,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e141",
+   "id": "e146",
    "key": "2026-11-29-filarmonica-della-scala-dir-timothy-brock",
    "moods": [
     "emozionarmi"
@@ -3269,6 +3382,28 @@
   },
   {
    "date": "2026-11-29",
+   "time": "21:00",
+   "title": "King Ayisoba + Kelly B",
+   "venue": "Arci Biko (via Ettore Ponti 40)",
+   "cat": "jazz",
+   "desc": "Musica del Ghana con il liuto kologo, tra dub e psichedelia. 16,10 €. Ingresso con tessera ARCI.",
+   "url": "https://www.bikoclub.net/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e147",
+   "key": "2026-11-29-king-ayisoba-kelly-b",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4448,
+    9.156
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-11-29",
    "time": "",
    "title": "Gli elfi di Babbo Natale",
    "venue": "Teatro Carcano",
@@ -3278,7 +3413,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e142",
+   "id": "e148",
    "key": "2026-11-29-gli-elfi-di-babbo-natale",
    "moods": [
     "bambini"
@@ -3300,7 +3435,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "e143",
+   "id": "e149",
    "key": "2026-11-29-tom-s-family-back-in-town",
    "moods": [
     "emozionarmi"
@@ -3322,7 +3457,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e144",
+   "id": "e150",
    "key": "2026-11-30-capitalismo-e-democrazia-nuovi-poteri-economici-",
    "moods": [
     "pensare"
@@ -3344,7 +3479,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e145",
+   "id": "e151",
    "key": "2026-11-30-noir-in-festival-josephine-di-beth-de-araujo",
    "moods": [
     "emozionarmi"
@@ -3366,7 +3501,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e146",
+   "id": "e152",
    "key": "2026-11-30-l-eterna-illusione-da-broadway-a-hollywood",
    "moods": [
     "emozionarmi"
@@ -3379,6 +3514,28 @@
   },
   {
    "date": "2026-11-30",
+   "time": "20:00",
+   "title": "Corso di tango e Milonga con Ausländer",
+   "venue": "Arci Biko (via Ettore Ponti 40)",
+   "cat": "jazz",
+   "desc": "Lezioni di tango dalle 20 (principianti) e dalle 21, poi milonga libera fino a tardi: 10 € la milonga. Ingresso con tessera ARCI.",
+   "url": "https://www.bikoclub.net/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e153",
+   "key": "2026-11-30-corso-di-tango-e-milonga-con-auslander",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4448,
+    9.156
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-11-30",
    "time": "20:30",
    "title": "Il canto di Orfeo (INNER_SPACES)",
    "venue": "Chiesa di San Fedele",
@@ -3388,7 +3545,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e147",
+   "id": "e154",
    "key": "2026-11-30-il-canto-di-orfeo-inner-spaces",
    "moods": [
     "emozionarmi"
@@ -3410,7 +3567,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e148",
+   "id": "e155",
    "key": "2026-11-30-il-grande-gioco-dell-ai",
    "moods": [
     "pensare"
@@ -3432,7 +3589,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e149",
+   "id": "e156",
    "key": "2026-11-30-orchestra-dell-universita-bicocca-vivaldi-bach-p",
    "moods": [
     "emozionarmi"
@@ -3454,7 +3611,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e150",
+   "id": "e157",
    "key": "2026-11-30-fabrizio-meloni-e-mari-fujino",
    "moods": [
     "emozionarmi"
@@ -3476,7 +3633,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e151",
+   "id": "e158",
    "key": "2026-11-30-alessandro-cattelan-benvenuto-nell-ai",
    "moods": [
     "emozionarmi"
@@ -3500,7 +3657,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e152",
+   "id": "e159",
    "key": "2026-11-30-noir-in-festival-the-blood-countess-di-ulrike-ot",
    "why": "Un film raro sul grande schermo, con Isabelle Huppert annunciata in sala.",
    "moods": [
@@ -3523,7 +3680,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e153",
+   "id": "e160",
    "key": "2026-11-30-curae-2026-non-ti-pago-apertura",
    "moods": [
     "emozionarmi"
@@ -3545,7 +3702,7 @@
    "free": true,
    "tags": [],
    "verify": true,
-   "id": "e154",
+   "id": "e161",
    "key": "2026-12-01-today-at-apple-workshop-disegna-con-apple-pencil",
    "moods": [
     "gente",
@@ -3568,7 +3725,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e155",
+   "id": "e162",
    "key": "2026-12-01-il-futuro-e-una-questione-di-competenze",
    "moods": [
     "pensare"
@@ -3590,7 +3747,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e156",
+   "id": "e163",
    "key": "2026-12-01-noir-in-festival-mi-amor-di-guillaume-nicloux",
    "moods": [
     "emozionarmi"
@@ -3612,7 +3769,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e157",
+   "id": "e164",
    "key": "2026-12-01-di-madre-in-figlia",
    "moods": [
     "emozionarmi"
@@ -3634,7 +3791,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e158",
+   "id": "e165",
    "key": "2026-12-01-giuseppe-il-padre-putativo-anteprima-under-30",
    "moods": [
     "emozionarmi"
@@ -3656,7 +3813,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e159",
+   "id": "e166",
    "key": "2026-12-01-ettore-pagano-e-maximilian-kromer",
    "moods": [
     "emozionarmi"
@@ -3678,7 +3835,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e160",
+   "id": "e167",
    "key": "2026-12-01-la-bibbia-che-non-ti-aspetti-con-giorgio-marches",
    "moods": [
     "pensare"
@@ -3700,7 +3857,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e161",
+   "id": "e168",
    "key": "2026-12-01-la-storia-a-processo-oriana-fallaci",
    "moods": [
     "pensare"
@@ -3722,7 +3879,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e162",
+   "id": "e169",
    "key": "2026-12-01-noir-in-festival-l-ombra-e-dark-vertigo",
    "moods": [
     "emozionarmi"
@@ -3744,7 +3901,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e163",
+   "id": "e170",
    "key": "2026-12-01-curae-2026-ai-will-shakespeare",
    "moods": [
     "pensare"
@@ -3766,7 +3923,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "e164",
+   "id": "e171",
    "key": "2026-12-01-don-milani-la-parola-che-nutre",
    "moods": [
     "emozionarmi"
@@ -3788,7 +3945,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e165",
+   "id": "e172",
    "key": "2026-12-01-spose-del-vento",
    "moods": [
     "emozionarmi"
@@ -3810,7 +3967,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e166",
+   "id": "e173",
    "key": "2026-12-02-federico-nicoletta-ti-va-di-ballare",
    "moods": [
     "emozionarmi"
@@ -3832,7 +3989,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e167",
+   "id": "e174",
    "key": "2026-12-02-c-e-ancora-posto-per-l-universita",
    "moods": [
     "pensare"
@@ -3854,7 +4011,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e168",
+   "id": "e175",
    "key": "2026-12-02-noir-in-festival-found-alive-di-carlota-pereda",
    "moods": [
     "emozionarmi"
@@ -3876,7 +4033,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e169",
+   "id": "e176",
    "key": "2026-12-02-con-la-colpa-in-mente-tra-responsabilita-e-ripar",
    "moods": [
     "pensare"
@@ -3900,7 +4057,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e170",
+   "id": "e177",
    "key": "2026-12-02-paul-lewis-mozart",
    "why": "Uno dei grandi pianisti di oggi, tra Mozart, Schubert e Chopin.",
    "moods": [
@@ -3923,7 +4080,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e171",
+   "id": "e178",
    "key": "2026-12-02-i-virtuosi-del-teatro-alla-scala-per-vidas",
    "moods": [
     "emozionarmi"
@@ -3936,6 +4093,28 @@
   },
   {
    "date": "2026-12-02",
+   "time": "21:00",
+   "title": "Kino Ensemble in NOIR (film-concerto)",
+   "venue": "Arci Biko (via Ettore Ponti 40)",
+   "cat": "jazz",
+   "desc": "Musica improvvisata dal vivo sulle scene dei grandi film noir. 10 €. Ingresso con tessera ARCI.",
+   "url": "https://www.bikoclub.net/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e179",
+   "key": "2026-12-02-kino-ensemble-in-noir-film-concerto",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4448,
+    9.156
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-12-02",
    "time": "21:30",
    "title": "Noir in Festival: Furies di Rami Kodeih",
    "venue": "Anteo Palazzo del Cinema",
@@ -3945,7 +4124,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e172",
+   "id": "e180",
    "key": "2026-12-02-noir-in-festival-furies-di-rami-kodeih",
    "moods": [
     "emozionarmi"
@@ -3967,7 +4146,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e173",
+   "id": "e181",
    "key": "2026-12-02-curae-2026-portami-la-fuori",
    "moods": [
     "emozionarmi"
@@ -3989,7 +4168,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e174",
+   "id": "e182",
    "key": "2026-12-03-anni-di-vita-la-longevita-tra-sfide-e-opportunit",
    "moods": [
     "pensare"
@@ -4011,7 +4190,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e175",
+   "id": "e183",
    "key": "2026-12-03-l-angelo-ribelle-e-il-dio-geloso",
    "moods": [
     "pensare"
@@ -4033,7 +4212,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e176",
+   "id": "e184",
    "key": "2026-12-03-data-center-la-casa-dell-ai-anche-in-italia",
    "moods": [
     "pensare"
@@ -4046,6 +4225,31 @@
   },
   {
    "date": "2026-12-03",
+   "time": "21:00",
+   "title": "Bilal: 25 anni di 1st Born Second",
+   "venue": "Arci Biko (via Ettore Ponti 40)",
+   "cat": "jazz",
+   "desc": "Il cantante neo-soul americano con la band al completo; dj set di Steve Dub. 30 €. Ingresso con tessera ARCI.",
+   "url": "https://www.bikoclub.net/",
+   "free": false,
+   "tags": [
+    "imperdibile"
+   ],
+   "verify": false,
+   "why": "Il re del neo-soul festeggia 25 anni del suo primo disco, in un club piccolo e caldo.",
+   "id": "e185",
+   "key": "2026-12-03-bilal-25-anni-di-1st-born-second",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4448,
+    9.156
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-12-03",
    "time": "",
    "title": "Giuseppe: il padre putativo",
    "venue": "Teatro Elfo Puccini, Sala Bausch",
@@ -4055,7 +4259,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "e177",
+   "id": "e186",
    "key": "2026-12-03-giuseppe-il-padre-putativo",
    "moods": [
     "emozionarmi"
@@ -4077,7 +4281,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e178",
+   "id": "e187",
    "key": "2026-12-04-freddy-kempf-pianoforte",
    "moods": [
     "emozionarmi"
@@ -4094,13 +4298,191 @@
    "title": "Mixed Feelings: Devon Rexi, Venerus b2b Physical Therapy, Blinky",
    "venue": "Arci Biko (via Ettore Ponti 40)",
    "cat": "jazz",
-   "desc": "Notte di dj set alla Biko. Ingresso con tessera ARCI.",
+   "desc": "Notte elettronica tra dub, house e breakbeat. 16,50 €. Ingresso con tessera ARCI.",
    "url": "https://zero.eu/it/eventi/384541-mixed-feelings-w-devon-rexi-venerus-b2b-physical-therapy-blinky,milano/",
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e179",
+   "id": "e188",
    "key": "2026-12-04-mixed-feelings-devon-rexi-venerus-b2b-physical-t",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4448,
+    9.156
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "21:00",
+   "title": "a nice noise: the cut of your jib",
+   "venue": "Arci Biko (via Ettore Ponti 40)",
+   "cat": "jazz",
+   "desc": "Adele Altro (Any Other) con il trio She's Analog, tra pop da camera, elettronica e jazz. 13,80 €. Ingresso con tessera ARCI.",
+   "url": "https://www.bikoclub.net/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e189",
+   "key": "2026-12-05-a-nice-noise-the-cut-of-your-jib",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4448,
+    9.156
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "21:00",
+   "title": "Claudio Covato + Vittoria Sciacca",
+   "venue": "Arci Biko (via Ettore Ponti 40)",
+   "cat": "jazz",
+   "desc": "Cantautorato acustico; apre Vittoria Sciacca. 12 €. Ingresso con tessera ARCI.",
+   "url": "https://www.bikoclub.net/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e190",
+   "key": "2026-12-09-claudio-covato-vittoria-sciacca",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4448,
+    9.156
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-12-10",
+   "time": "21:00",
+   "title": "TMRW TALK: EP release party",
+   "venue": "Arci Biko (via Ettore Ponti 40)",
+   "cat": "jazz",
+   "desc": "Beat, campionamenti e percussioni dal vivo. 11 €. Ingresso con tessera ARCI.",
+   "url": "https://www.bikoclub.net/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e191",
+   "key": "2026-12-10-tmrw-talk-ep-release-party",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4448,
+    9.156
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-12-11",
+   "time": "21:00",
+   "title": "Immacolato Concertone vol. 4",
+   "venue": "Arci Biko (via Ettore Ponti 40)",
+   "cat": "jazz",
+   "desc": "La festa dell'etichetta Bradipo Dischi con Moretti, Eyes Be Quiet, Bandit, Filospada e altri. 15 €. Ingresso con tessera ARCI.",
+   "url": "https://www.bikoclub.net/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e192",
+   "key": "2026-12-11-immacolato-concertone-vol-4",
+   "moods": [
+    "emozionarmi",
+    "gente"
+   ],
+   "geo": [
+    45.4448,
+    9.156
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-12-12",
+   "time": "21:00",
+   "title": "Wild Honey's Christmas Party vol. 5",
+   "venue": "Arci Biko (via Ettore Ponti 40)",
+   "cat": "jazz",
+   "desc": "La festa di Natale indie a tema lucha libre, con band dal vivo e dj set. 16,50 €. Ingresso con tessera ARCI.",
+   "url": "https://www.bikoclub.net/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e193",
+   "key": "2026-12-12-wild-honey-s-christmas-party-vol-5",
+   "moods": [
+    "emozionarmi",
+    "gente"
+   ],
+   "geo": [
+    45.4448,
+    9.156
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-12-16",
+   "time": "21:00",
+   "title": "Puntuale Festival: Music for Airports di Brian Eno",
+   "venue": "Arci Biko (via Ettore Ponti 40)",
+   "cat": "jazz",
+   "desc": "Il capolavoro ambient suonato dal vivo, con disegni in diretta di Pietro Puccio. 10-12 €. Ingresso con tessera ARCI.",
+   "url": "https://dice.fm/event/yo5oev-puntuale-festival-4-brian-enos-music-for-airports-16th-dec-biko-milano-tickets",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e194",
+   "key": "2026-12-16-puntuale-festival-music-for-airports-di-brian-en",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4448,
+    9.156
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-12-17",
+   "time": "21:00",
+   "title": "Sa-Roc con Malasartoria Milano",
+   "venue": "Arci Biko (via Ettore Ponti 40)",
+   "cat": "jazz",
+   "desc": "Hip hop americano con band dal vivo; dj set di Steve Dub. 20 €. Ingresso con tessera ARCI.",
+   "url": "https://www.bikoclub.net/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e195",
+   "key": "2026-12-17-sa-roc-con-malasartoria-milano",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4448,
+    9.156
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-12-19",
+   "time": "22:00",
+   "title": "Milano Oldies Club con Tiny T",
+   "venue": "Arci Biko (via Ettore Ponti 40)",
+   "cat": "jazz",
+   "desc": "Serata da sound system: ska, rocksteady e reggae su vinili d'epoca. 10 €. Ingresso con tessera ARCI.",
+   "url": "https://www.bikoclub.net/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e196",
+   "key": "2026-12-19-milano-oldies-club-con-tiny-t",
    "moods": [
     "emozionarmi"
    ],
