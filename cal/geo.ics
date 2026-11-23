@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-23-oltre-la-globalizzazione-la-lezione-giuridica-di@acculturiam
  oci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261123T083000
 DTEND;TZID=Europe/Rome:20261123T103000
 SUMMARY:Oltre la globalizzazione. La lezione giuridica di Roma
@@ -39,7 +39,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-quale-sovranita-per-il-caucaso-meridionale@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261123T163000
 DTEND;TZID=Europe/Rome:20261123T183000
 SUMMARY:Quale sovranità per il Caucaso meridionale?
@@ -51,7 +51,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-l-universo-ideologico-di-trump@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261124T163000
 DTEND;TZID=Europe/Rome:20261124T183000
 SUMMARY:L'universo ideologico di Trump
@@ -64,7 +64,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-la-democrazia-partecipativa-tra-crisi-della-rapp@acculturiam
  oci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261124T163000
 DTEND;TZID=Europe/Rome:20261124T183000
 SUMMARY:La democrazia partecipativa tra crisi della rappresentanza e stato 
@@ -78,7 +78,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-oltre-la-rappresaglia-la-repressione-nazista-in-@acculturiam
  oci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261125T123000
 DTEND;TZID=Europe/Rome:20261125T143000
 SUMMARY:Oltre la rappresaglia: la repressione nazista in Boemia e Moravia
@@ -90,7 +90,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-era-tanto-un-bravo-ragazzo@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261125T183000
 DTEND;TZID=Europe/Rome:20261125T203000
 SUMMARY:Era tanto un bravo ragazzo
@@ -103,7 +103,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-le-sparizioni-forzate-in-america-latina@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261126T090000
 DTEND;TZID=Europe/Rome:20261126T110000
 SUMMARY:Le sparizioni forzate in America Latina
@@ -116,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-milena-gabanelli-e-simona-ravizza-la-resa-dei-co@acculturiam
  oci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261126T183000
 DTEND;TZID=Europe/Rome:20261126T203000
 SUMMARY:Milena Gabanelli e Simona Ravizza\, La resa dei conti
@@ -131,7 +131,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-campi-celle-ceneri-la-scrittura-palestinese@acculturiamoci.i
  t
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261127T163000
 DTEND;TZID=Europe/Rome:20261127T183000
 SUMMARY:Campi\, celle\, ceneri: la scrittura palestinese
@@ -143,7 +143,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-una-legge-elettorale-inaccettabile@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261127T180000
 DTEND;TZID=Europe/Rome:20261127T200000
 SUMMARY:Una legge elettorale inaccettabile
@@ -157,7 +157,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-scrivere-per-resistere-premio-pen-inge-feltrinel@acculturiam
  oci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Scrivere per resistere: Premio PEN Inge Feltrinelli
@@ -168,8 +168,22 @@ URL:https://fondazionefeltrinelli.it/en/participate/
 CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-80-anni-dopo-l-astensionismo-elettorale-e-come-c@acculturiam
+ oci.it
+DTSTAMP:20261123T112118Z
+DTSTART;TZID=Europe/Rome:20261128T093000
+DTEND;TZID=Europe/Rome:20261128T113000
+SUMMARY:80 anni dopo: l'astensionismo elettorale e come contrastarlo
+LOCATION:Casa della Cultura (via Borgogna 3)
+DESCRIPTION:Mattinata di studio sul calo della partecipazione al voto\, org
+ anizzata con ANPI\, Istituto Parri e Istituto Cervi. https://www.casadella
+ cultura.it
+URL:https://www.casadellacultura.it
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-il-verde-e-il-nero@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Il verde e il nero
@@ -177,6 +191,20 @@ LOCATION:Fondazione Feltrinelli
 DESCRIPTION:Manuela Caiani e Sergio Labate. https://fondazionefeltrinelli.i
  t/en/participate/
 URL:https://fondazionefeltrinelli.it/en/participate/
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-capitalismo-e-democrazia-nuovi-poteri-economici-@acculturiam
+ oci.it
+DTSTAMP:20261123T112118Z
+DTSTART;TZID=Europe/Rome:20261130T173000
+DTEND;TZID=Europe/Rome:20261130T193000
+SUMMARY:Capitalismo e democrazia: nuovi poteri economici globali
+LOCATION:Casa della Cultura (via Borgogna 3)
+DESCRIPTION:Secondo incontro del ciclo "Ripensare la cultura della sinistra
+ ": cosa resta della democrazia davanti ai grandi poteri economici. https:/
+ /www.casadellacultura.it
+URL:https://www.casadellacultura.it
 CATEGORIES:Geopolitica
 END:VEVENT
 END:VCALENDAR

@@ -172,6 +172,7 @@ def main():
     write_ics("tutto.ics", "Acculturiamoci · Milano", evs)
     for cat, name in CAT_NAMES.items():
         write_ics(f"{cat}.ics", f"Acculturiamoci · {name}", [e for e in evs if e["cat"] == cat])
+    write_ics("musica.ics", "Acculturiamoci · Musica e concerti", [e for e in evs if e["cat"] in ("classica", "jazz")])
     imp = [e for e in evs if "imperdibile" in e.get("tags", [])]
     write_ics("imperdibili.ics", "Acculturiamoci · Imperdibili", imp)
     from collections import Counter

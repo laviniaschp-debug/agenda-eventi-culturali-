@@ -105,7 +105,89 @@ button{font:inherit;color:inherit;cursor:pointer}
 .go{flex:0 0 auto;width:48px;height:48px;border-radius:50%;border:0;background:var(--hot);color:#fff;display:grid;place-items:center;transition:transform .15s var(--ease)}
 .go:hover{transform:scale(1.06)}
 
-/* Copertina città */
+
+/* Quando: calendario a comparsa */
+.when{position:relative;flex:1;min-width:0;display:flex}
+.when .seg{flex:1}
+.pop{position:absolute;top:calc(100% + 14px);left:50%;transform:translateX(-50%);width:min(620px,92vw);background:#fff;border-radius:24px;box-shadow:0 12px 40px rgba(0,0,0,.16);padding:18px;z-index:40;display:none;text-align:left}
+.pop.open{display:block;animation:pop .18s var(--ease)}
+#whenPop button{all:unset;box-sizing:border-box;cursor:pointer;font-family:var(--body)}
+#whenPop button:focus-visible{outline:2px solid var(--ink)}
+.pq{display:flex;gap:8px;flex-wrap:wrap}
+#whenPop .pq button{border:1px solid var(--line);background:#fff;border-radius:999px;padding:8px 14px;font-weight:700;font-size:14px}
+#whenPop .pq button:hover{border-color:var(--ink)}
+.mons{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:18px;margin-top:14px}
+.mon b{display:block;font-size:15px;margin-bottom:8px}
+.cg{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:3px;text-align:center}
+.cg small{font-size:11px;font-weight:800;color:var(--muted);padding-bottom:4px}
+#whenPop .cd,.cd{aspect-ratio:1;border-radius:50%;border:0;background:transparent;font-weight:700;font-size:14px;display:flex;text-align:center;flex-direction:column;align-items:center;justify-content:center;line-height:1;position:relative}
+#whenPop button.cd:hover{background:var(--grey)}
+.cd i{font-style:normal;font-size:9.5px;color:var(--hot);font-weight:800;margin-top:2px;min-height:9px}
+.cd.off{color:#c8c8c8;font-weight:500}
+.cd.td{box-shadow:inset 0 0 0 1.5px var(--ink)}
+#whenPop .cd.sel{background:var(--ink);color:#fff}
+.cd.sel i{color:#fff}
+#whenPop .pn{margin:12px 0 0;max-width:none;text-align:left;font-size:12.5px;color:var(--muted)}
+.sorp{flex:0 0 auto;display:flex;align-items:center;gap:7px;border:0;background:var(--butter);border-radius:999px;padding:0 16px;height:48px;margin-right:6px;font-weight:800;font-size:14px;transition:transform .15s var(--ease)}
+.sorp svg{width:20px;height:20px}
+.sorp:hover{transform:scale(1.04)}
+.roll svg{animation:roll .6s var(--ease)}
+.fab{position:fixed;right:20px;bottom:20px;z-index:50;display:flex;align-items:center;gap:8px;border:0;border-radius:999px;background:var(--ink);color:#fff;padding:13px 18px;font-weight:800;font-size:14.5px;box-shadow:0 8px 24px rgba(0,0,0,.22);transform:translateY(120px);transition:transform .3s var(--ease)}
+.fab svg{width:20px;height:20px}
+.fab.show{transform:none}
+body.lock .fab{display:none}
+.nav .orgl{border:1px solid var(--line)}
+
+/* Che esperienza cerchi */
+.exps{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px}
+.exp{display:flex;align-items:center;gap:14px;text-align:left;border:1px solid var(--line);background:#fff;border-radius:22px;padding:14px 16px;transition:transform .12s var(--ease), border-color .12s}
+.exp:hover{transform:translateY(-2px);border-color:#bbb}
+.exp i{font-style:normal;flex:0 0 auto;width:48px;height:48px;border-radius:16px;display:grid;place-items:center;font-size:24px;background:var(--mc)}
+.exp b{display:block;font-size:16px}
+.exp small{display:block;color:var(--muted);font-size:13px;font-weight:600}
+.exp[aria-pressed="true"]{background:var(--ink);color:#fff;border-color:var(--ink)}
+.exp[aria-pressed="true"] small{color:rgba(255,255,255,.7)}
+.exp.sur{background:var(--butter);border-color:transparent}
+.exp.sur i{background:#fff}
+
+/* filtri e risultati */
+.filters{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin-top:18px}
+.chip.sm{font-size:13px;padding:7px 13px;font-weight:600}
+.chip.sm small{opacity:.65;font-weight:600}
+.vsep{flex:1}
+.zones{display:flex;align-items:center;gap:6px;overflow-x:auto;scrollbar-width:none;margin-top:10px}
+.zones::-webkit-scrollbar{display:none}
+.zones .chip{flex:0 0 auto}
+.zl{font-size:12px;font-weight:800;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin-right:4px}
+.resbar{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin-top:22px;padding-top:18px;border-top:1px solid var(--line)}
+.resbar>b{font-size:17px;margin-right:6px}
+.fchip{border:0;background:var(--grey2);border-radius:999px;padding:6px 12px;font-weight:700;font-size:13px}
+.fchip:hover{background:#e2e2e2}
+.fchip span{margin-left:4px;opacity:.6}
+.clearall,.linkbtn{border:0;background:none;text-decoration:underline;text-underline-offset:3px;font-weight:700;font-size:13.5px;padding:4px}
+.linkbtn{font-size:inherit;color:inherit;padding:0}
+.resbar+#detail .dayhead:first-child{margin-top:14px}
+
+/* Le mie serate (singolo box) */
+#serate .box{max-width:760px}
+
+/* Organizzatori */
+.org{display:grid;grid-template-columns:1fr 1.15fr;gap:32px;background:#eef1e8;border-radius:32px;padding:40px}
+.org .kick{font-size:12px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:#4e6440}
+.org h3{font-size:clamp(28px,3.2vw,40px);line-height:1.05;margin:10px 0 12px}
+.org p{margin:0;font-size:16px}
+.org ul{margin:16px 0 0;padding:0;list-style:none;display:grid;gap:8px;font-weight:600}
+.org ul li::before{content:"✦";color:#b8432a;margin-right:10px}
+.orgf{display:grid;grid-template-columns:1fr 1fr;gap:12px;background:#fff;border-radius:24px;padding:22px}
+.orgf label{display:flex;flex-direction:column;gap:5px;font-size:12.5px;font-weight:800;color:#444}
+.orgf .full{grid-column:1/-1}
+.orgf input,.orgf select,.orgf textarea{font:inherit;font-size:15px;font-weight:500;border:1px solid var(--line);border-radius:12px;padding:10px 12px;background:#fff;color:var(--ink);width:100%}
+.orgf input:focus,.orgf select:focus,.orgf textarea:focus{outline:2px solid var(--ink);outline-offset:0;border-color:transparent}
+.orgbtns{display:flex;flex-wrap:wrap;align-items:center;gap:10px 14px}
+.orgbtns .hint{font-size:12.5px;color:var(--muted)}
+.orgbtns textarea{font:inherit;font-size:13px;border:1px solid var(--line);border-radius:12px;padding:10px;width:100%;background:var(--grey)}
+
+/* Copertina città (non più usata) */
 .cityhero{margin-top:36px;display:grid;grid-template-columns:1.35fr 1fr;border-radius:28px;overflow:hidden;background:var(--grey)}
 .art{position:relative;background:#d9c6a5;margin:0}
 .art.poster{aspect-ratio:5/3}
@@ -238,10 +320,10 @@ button{font:inherit;color:inherit;cursor:pointer}
 .pin2 b{transform:rotate(45deg);color:#fff;font:800 12px var(--body)}
 .leaflet-popup-content-wrapper{border-radius:16px!important}
 .leaflet-popup-content{margin:12px 14px!important;font-family:var(--body)}
-.pop h6{margin:0 0 6px;font-size:14px}
-.pop button{display:block;width:100%;text-align:left;border:0;background:var(--grey);border-radius:10px;padding:7px 10px;margin-top:5px;font-size:13px;font-weight:600}
-.pop button:hover{background:var(--grey2)}
-.pop button b{display:inline-block;min-width:40px}
+.mpop h6{margin:0 0 6px;font-size:14px}
+.mpop button{display:block;width:100%;text-align:left;border:0;background:var(--grey);border-radius:10px;padding:7px 10px;margin-top:5px;font-size:13px;font-weight:600}
+.mpop button:hover{background:var(--grey2)}
+.mpop button b{display:inline-block;min-width:40px}
 
 /* Le mie serate + passaporto */
 .plan{display:grid;grid-template-columns:1.3fr 1fr;gap:20px}
@@ -384,6 +466,16 @@ footer p{margin:0}
   .seg{flex:1 1 100%;padding:8px 14px;border-radius:16px}
   .sep{display:none}
   .go{width:100%;border-radius:16px;height:44px;margin-top:4px}
+  .when{flex:1 1 100%}
+  .pop{left:0;transform:none;width:calc(100vw - 32px);padding:14px}
+  .sorp{flex:1;justify-content:center;height:44px;border-radius:16px;margin:4px 6px 0 0}
+  .go{flex:1;width:auto;border-radius:16px;height:44px;margin-top:4px}
+  .org{grid-template-columns:1fr;padding:22px;gap:20px}
+  .orgf{grid-template-columns:1fr;padding:16px}
+  .exps{grid-template-columns:1fr 1fr;gap:10px}
+  .exp{flex-direction:column;align-items:flex-start;gap:8px;padding:14px}
+  .vsep{display:none}
+  .fab{right:14px;bottom:14px}
   .cityinfo{padding:22px}
   .cta .btn{flex:1}
   .pick{padding:18px;border-radius:22px}
@@ -420,7 +512,7 @@ footer p{margin:0}
     </div>
     <div class="spacer"></div>
     <nav class="nav" aria-label="Sezioni">
-      <a href="#stasera">Stasera</a><a href="#calendario">Calendario</a><a href="#mostre">Mostre</a><a href="#abbonati">Abbonati</a>
+      <a href="#stasera">Stasera</a><a href="#calendario">Calendario</a><a href="#segui">Segui i temi</a><a href="#organizzatori" class="orgl">Organizzi eventi?</a>
     </nav>
     <a class="iglink" href="https://www.instagram.com/acculturiamoci_official/" target="_blank" rel="noopener" aria-label="Instagram di Acculturiamoci"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4.2"/><circle cx="17.4" cy="6.6" r="1" fill="currentColor" stroke="none"/></svg></a>
     <a class="planlink" href="#serate" aria-label="Le mie serate: eventi salvati"><span class="h">♥</span><span class="pl-t">Le mie serate</span><span class="badge zero" id="savedN">0</span></a>
@@ -429,16 +521,14 @@ footer p{margin:0}
       <span class="av"><svg class="lamp sm" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="20" fill="#f3ecdc"/><path d="M7 25 A13 13 0 0 1 33 25" fill="none" stroke="#b8432a" stroke-width="2.3"/><path d="M10 25 A10 10 0 0 1 30 25" fill="none" stroke="#f2a91c" stroke-width="2.3"/><path d="M13 25 A7 7 0 0 1 27 25" fill="none" stroke="#b8432a" stroke-width="2.3"/><path d="M16 25 A4 4 0 0 1 24 25" fill="none" stroke="#f2a91c" stroke-width="2.3"/><circle cx="20" cy="25" r="1.6" fill="#b8432a"/><path d="M5 26.5C10 25 15.5 25.6 20 28.4 24.5 25.6 30 25 35 26.5V30C30 28.6 24.5 29.2 20 32 15.5 29.2 10 28.6 5 30Z" fill="#4e6440"/></svg></span>
     </button>
     <div class="menu" id="menu">
-      <a href="#stasera">Stasera</a>
-      <a href="#" data-act="stories">Stasera in 10 carte</a>
-      <a href="#" data-act="surprise">Sorprendimi</a>
+      <a href="#stasera">Cosa fare stasera</a>
       <a href="#calendario">Calendario e mappa</a>
-      <a href="#serate">♥ Le mie serate e passaporto</a>
-      <a href="#mostre">Mostre in corso</a>
-      <a href="#abbonati">Abbonati ai temi</a>
+      <a href="#" data-act="surprise">🎲 Sorprendimi</a>
+      <a href="#serate">♥ Le mie serate</a>
+      <a href="#segui">Segui i temi</a>
       <hr>
+      <a href="#organizzatori"><b>Organizzi eventi?</b> Segnalacelo</a>
       <a href="#chi">Chi siamo</a>
-      <a href="#segnala">Segnala un evento</a>
       <a href="https://www.instagram.com/acculturiamoci_official/" target="_blank" rel="noopener">Instagram · @acculturiamoci_official</a>
     </div>
   </div>
@@ -451,9 +541,10 @@ footer p{margin:0}
     <div class="search" role="search">
       <button class="seg" id="segCity"><b>Dove</b><span id="segCityV">Milano</span></button>
       <div class="sep"></div>
-      <button class="seg" id="segWhen"><b>Quando</b><span id="segWhenV">Oggi</span></button>
+      <div class="when"><button class="seg" id="segWhen" aria-haspopup="dialog" aria-expanded="false"><b>Quando</b><span id="segWhenV">Oggi</span></button><div class="pop" id="whenPop" role="dialog" aria-label="Scegli la data"></div></div>
       <div class="sep"></div>
       <label class="seg" for="q"><b>Cosa</b><input id="q" type="search" placeholder="Autore, teatro, tema…" autocomplete="off"></label>
+      <button class="sorp" id="surpriseBtn" aria-label="Sorprendimi: scegliamo noi un evento"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="4"/><circle cx="9" cy="9" r="1.3" fill="currentColor"/><circle cx="15" cy="15" r="1.3" fill="currentColor"/><circle cx="15" cy="9" r="1.3" fill="currentColor"/><circle cx="9" cy="15" r="1.3" fill="currentColor"/></svg><span>Sorprendimi</span></button>
       <button class="go" id="goBtn" aria-label="Cerca"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg></button>
     </div>
   </div>
@@ -464,8 +555,8 @@ footer p{margin:0}
 <footer>
   <div class="wrap">
     <div id="chi"><h5>Chi siamo</h5><p>Acculturiamoci sceglie ogni giorno incontri, spettacoli, concerti e lezioni aperte nella tua città: dai grandi teatri alle librerie, alle fondazioni, alle chiese.</p></div>
-    <div><h5>Prima di andare</h5><p>Orari e prenotazioni cambiano: ogni evento porta alla pagina dell'organizzatore, che fa fede. I preferiti e il passaporto restano solo su questo dispositivo.</p></div>
-    <div id="segnala"><h5>Segnala un evento</h5><p>Organizzi qualcosa che merita? Scrivici e lo aggiungiamo al calendario.</p></div>
+    <div><h5>Prima di andare</h5><p>Orari e prenotazioni cambiano: ogni evento porta alla pagina dell'organizzatore, che fa fede. Le serate salvate restano su questo dispositivo, senza bisogno di account.</p></div>
+    <div><h5>Organizzi eventi?</h5><p>Associazioni, librerie, spazi, privati: <a href="#organizzatori">segnalaci il tuo evento</a>, è gratis.</p></div>
     <div><h5>Seguici</h5><p><a href="https://www.instagram.com/acculturiamoci_official/" target="_blank" rel="noopener">Instagram · @acculturiamoci_official</a><br>Ogni giorno le scelte per la serata.</p></div>
   </div>
 </footer>
@@ -474,6 +565,7 @@ footer p{margin:0}
 <div class="sheet" id="sheet" role="dialog" aria-modal="true" aria-labelledby="shTitle"></div>
 <div class="stories" id="stories" role="dialog" aria-modal="true" aria-label="Stasera in 10 carte"></div>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
+<button class="fab" id="fab" aria-label="Sorprendimi: scegliamo noi un evento"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="4"/><circle cx="9" cy="9" r="1.3" fill="currentColor"/><circle cx="15" cy="15" r="1.3" fill="currentColor"/><circle cx="15" cy="9" r="1.3" fill="currentColor"/><circle cx="9" cy="15" r="1.3" fill="currentColor"/></svg>Sorprendimi</button>
 
 <script>
 const SITE = "acculturiamoci.it";
@@ -484,7 +576,7 @@ const CITIES = [
 ];
 const CATS = {
   teatro:"Teatro", talk:"Talk e incontri", filosofia:"Filosofia e psicologia", storia:"Storia e arte",
-  geo:"Geopolitica e società", scienza:"Scienza", salute:"Salute", classica:"Classica e opera", jazz:"Jazz e live",
+  geo:"Geopolitica e società", scienza:"Scienza", salute:"Salute", classica:"Musica classica", jazz:"Jazz e concerti",
   cinema:"Cinema", famiglie:"Famiglie"
 };
 const ICON = {
@@ -500,16 +592,33 @@ const ICON = {
   cinema:'<rect x="4" y="5" width="16" height="14" rx="1"/><path d="M8 5v14M16 5v14M4 9.5h4M4 14.5h4M16 9.5h4M16 14.5h4"/>',
   famiglie:'<path d="M12 3a5 5 0 0 0-5 5c0 4 5 7.5 5 7.5s5-3.5 5-7.5a5 5 0 0 0-5-5zM12 15.5V21"/>'
 };
-const MOODS = [
-  { id:"ridere", label:"Voglio ridere", em:"😄", c:"#fce3c2" },
-  { id:"pensare", label:"Voglio pensare", em:"💡", c:"#e6ddfa" },
-  { id:"emozionarmi", label:"Voglio emozionarmi", em:"✨", c:"#f7d3e3" },
-  { id:"gente", label:"Conoscere gente", em:"🥂", c:"#cfede6" },
-  { id:"gratis", label:"Gratis", em:"🎟️", c:"#ddf1d9" },
-  { id:"dopolavoro", label:"Dopo il lavoro", em:"🌆", c:"#d9e7fb" },
-  { id:"bambini", label:"Con i bambini", em:"🧸", c:"#fbd6ec" }
+const THEMES = [
+  { id:"teatro", label:"Teatro", cats:["teatro"] },
+  { id:"musica", label:"Musica e concerti", cats:["classica","jazz"], icon:"classica" },
+  { id:"talk", label:"Talk e incontri", cats:["talk"] },
+  { id:"filosofia", label:"Filosofia e psicologia", cats:["filosofia"] },
+  { id:"storia", label:"Arte e storia", cats:["storia"] },
+  { id:"geo", label:"Geopolitica e società", cats:["geo"] },
+  { id:"scienza", label:"Scienza", cats:["scienza"] },
+  { id:"salute", label:"Salute e benessere", cats:["salute"] },
+  { id:"cinema", label:"Cinema", cats:["cinema"] },
+  { id:"famiglie", label:"Per famiglie", cats:["famiglie"] }
 ];
-const MOSTRE_PASTEL = ["#f8d8c8","#d9e7fb","#f7e9b5","#e6ddfa","#cfede6","#f7d3e3"];
+const THEME_OF = {}; THEMES.forEach(t => t.cats.forEach(c => THEME_OF[c] = t));
+const EXPS = [
+  { id:"emozionarmi", label:"Emozionarmi", sub:"concerti, teatro, cinema", em:"✨", c:"#f7d3e3" },
+  { id:"pensare", label:"Capire il mondo", sub:"talk, idee, lezioni aperte", em:"💡", c:"#e6ddfa" },
+  { id:"ridere", label:"Farmi una risata", sub:"comicità e ironia", em:"😄", c:"#fce3c2" },
+  { id:"gente", label:"Conoscere persone", sub:"laboratori, dibattiti, feste", em:"🥂", c:"#cfede6" }
+];
+const PRACT = [
+  { id:"gratis", label:"Gratis" },
+  { id:"dopolavoro", label:"Dopo il lavoro" },
+  { id:"bambini", label:"Con i bambini" }
+];
+const LOGO = `<circle cx="20" cy="20" r="20" fill="#f3ecdc"/><path d="M7 25 A13 13 0 0 1 33 25" fill="none" stroke="#b8432a" stroke-width="2.3"/><path d="M10 25 A10 10 0 0 1 30 25" fill="none" stroke="#f2a91c" stroke-width="2.3"/><path d="M13 25 A7 7 0 0 1 27 25" fill="none" stroke="#b8432a" stroke-width="2.3"/><path d="M16 25 A4 4 0 0 1 24 25" fill="none" stroke="#f2a91c" stroke-width="2.3"/><circle cx="20" cy="25" r="1.6" fill="#b8432a"/><path d="M5 26.5C10 25 15.5 25.6 20 28.4 24.5 25.6 30 25 35 26.5V30C30 28.6 24.5 29.2 20 32 15.5 29.2 10 28.6 5 30Z" fill="#4e6440"/>`;
+const IG_URL = "https://www.instagram.com/acculturiamoci_official/";
+const CONTACT_EMAIL = "";
 const DOW = ["dom","lun","mar","mer","gio","ven","sab"];
 const DOWL = ["Domenica","Lunedì","Martedì","Mercoledì","Giovedì","Venerdì","Sabato"];
 const MON = ["gennaio","febbraio","marzo","aprile","maggio","giugno","luglio","agosto","settembre","ottobre","novembre","dicembre"];
@@ -529,7 +638,7 @@ const IC = {
 };
 const heartSVG = '<svg viewBox="0 0 24 24"><path d="M12 20s-7.5-4.6-7.5-10.2A4.2 4.2 0 0 1 12 7.3a4.2 4.2 0 0 1 7.5 2.5C19.5 15.4 12 20 12 20z"/></svg>';
 
-const S = { city:"milano", day:null, mode:"day", weekStart:null, cats:new Set(), q:"", star:false, mood:null, zona:null, view:"list" };
+const S = { city:"milano", day:null, mode:"day", weekStart:null, cats:new Set(), q:"", star:false, mood:null, pr:new Set(), zona:null, view:"list" };
 let DATA = null, BYKEY = {};
 
 /* ---------- utilità ---------- */
@@ -559,6 +668,7 @@ function moodsOf(e){
 function hasMood(e, id){
   if (id === "gratis") return e.free === true;
   if (id === "dopolavoro") return !!e.time && e.time >= "18:00" && e.time <= "20:30";
+  if (id === "bambini") return e.cat === "famiglie" || moodsOf(e).includes("bambini");
   return moodsOf(e).includes(id);
 }
 
@@ -589,11 +699,12 @@ let tt; function toast(t){ const el = $("#toast"); el.textContent = t; el.classL
 
 /* ---------- filtri ---------- */
 function ok(e, opts={}){
-  if (S.cats.size && !S.cats.has(e.cat)) return false;
+  if (S.cats.size && !(THEME_OF[e.cat] && S.cats.has(THEME_OF[e.cat].id))) return false;
   if (S.star && !(e.tags||[]).includes("imperdibile")) return false;
   if (S.mood && !hasMood(e, S.mood)) return false;
+  for (const p of S.pr) if (!hasMood(e, p)) return false;
   if (!opts.noZona && S.zona && e.zona !== S.zona) return false;
-  if (S.q){ const h = (e.title+" "+e.venue+" "+(e.desc||"")+" "+(e.why||"")+" "+(CATS[e.cat]||"")+" "+(e.zona||"")).toLowerCase(); if (!S.q.split(/\s+/).every(w => h.includes(w))) return false; }
+  if (S.q){ const h = (e.title+" "+e.venue+" "+(e.desc||"")+" "+(e.why||"")+" "+(CATS[e.cat]||"")+" "+(THEME_OF[e.cat]?.label||"")+" "+(e.zona||"")).toLowerCase(); if (!S.q.split(/\s+/).every(w => h.includes(w))) return false; }
   return true;
 }
 function weekendDays(){
@@ -684,8 +795,6 @@ function render(){
   const vis = DATA.events.filter(e => ok(e));
   const counts = {}; DATA.events.forEach(e => counts[e.cat] = (counts[e.cat]||0)+1);
   $("#segWhenV").textContent = S.mode === "weekend" ? "Weekend" : S.mode === "all" ? "Tutti i giorni" : dayWord(S.day);
-  const todayEv = DATA.events.filter(e => e.date === t);
-  const leftToday = todayEv.filter(e => !isPast(e)).length, freeToday = todayEv.filter(e => e.free === true).length;
   const ton = tonight();
   const tonLabel = ton.day === t ? "Stasera" : ton.day === add(t,1) ? "Domani sera" : label(ton.day);
 
@@ -705,63 +814,52 @@ function render(){
     days.forEach((ds, i) => {
       const evs = vis.filter(e => e.date === ds);
       detail += `<div class="dayhead" ${i===0?'id="dayTop"':''}><h4>${ds===t ? "Oggi, " + label(ds).toLowerCase() : label(ds)}</h4><span>${evs.length} eventi</span></div>`;
-      detail += evs.length ? `<div class="grid">${evs.map(card).join("")}</div>` : `<p class="empty">Nessun evento con questi filtri. Prova a togliere un tema o uno stato d'animo.</p>`;
+      detail += evs.length ? `<div class="grid">${evs.map(card).join("")}</div>` : `<p class="empty">Nessun evento con questi filtri in questo giorno. Prova un altro giorno o <button class="linkbtn" data-clear="all">azzera i filtri</button>.</p>`;
     });
     if (!days.length) detail = `<p class="empty" style="margin-top:24px">Questi giorni non sono ancora in calendario: lo aggiorniamo ogni mattina.</p>`;
   } else {
     detail = `<div id="dayTop" style="scroll-margin-top:90px"></div><div id="map" role="region" aria-label="Mappa degli eventi"></div><p class="mapnote">Posizione indicativa del luogo · ${days.length > 1 ? days.length + " giorni" : dayWord(days[0]||S.day)} · tocca un segnaposto per vedere gli eventi.</p>`;
   }
   const zones = [...new Set(DATA.events.filter(e => e.zona && sel.has(e.date) && ok(e,{noZona:true})).map(e => e.zona))].sort();
-  const moodCount = id => DATA.events.filter(e => e.date >= t && !isPast(e) && hasMood(e,id)).length;
-
-  // il mio piano
+  const upcomingAll = DATA.events.filter(e => e.date >= t && !isPast(e));
+  const moodCount = id => upcomingAll.filter(e => hasMood(e,id)).length;
+  const themeCount = th => DATA.events.filter(e => th.cats.includes(e.cat)).length;
   const saved = Object.values(SAVED).sort((a,b) => (a.date+(a.time||"99")).localeCompare(b.date+(b.time||"99")));
   const upcoming = saved.filter(e => e.date >= t);
-  const beenCount = {}; Object.values(BEEN).forEach(b => beenCount[b.cat] = (beenCount[b.cat]||0)+1);
-  const totalBeen = Object.keys(BEEN).length, themesDone = Object.keys(beenCount).length;
-  const lv = totalBeen >= 15 ? ["Lampada accesa", 1] : totalBeen >= 6 ? ["Esploratore", totalBeen/15] : totalBeen >= 1 ? ["Curioso", totalBeen/15] : ["Prima scintilla", 0];
+  const nRes = days.reduce((n,ds) => n + vis.filter(e => e.date === ds).length, 0);
 
-  const subs = [["tutto","Tutto Milano",null],["imperdibili","Solo imperdibili",null], ...Object.keys(CATS).filter(k => counts[k]).map(k => [k, CATS[k], k])];
+  // filtri attivi, sempre visibili sopra i risultati
+  const act = [];
+  S.cats.forEach(id => { const th = THEMES.find(x => x.id === id); if (th) act.push([`cat:${id}`, th.label]); });
+  if (S.mood) act.push(["mood", EXPS.find(x => x.id === S.mood)?.label || S.mood]);
+  S.pr.forEach(id => act.push([`pr:${id}`, PRACT.find(x => x.id === id).label]));
+  if (S.star) act.push(["star", "★ Imperdibili"]);
+  if (S.q) act.push(["q", `“${S.q}”`]);
+  if (S.zona) act.push(["zona", S.zona]);
+  const whenTxt = S.mode === "weekend" ? "nel weekend" : S.mode === "all" ? "nei prossimi giorni" : (S.day === t ? "oggi" : S.day === add(t,1) ? "domani" : label(S.day).toLowerCase());
+
+  const subs = [["tutto","Tutta Milano",null],["imperdibili","Solo imperdibili",null], ...THEMES.filter(th => themeCount(th)).map(th => [th.id, th.label, th])];
 
   $("#main").innerHTML = `
-    <section class="cityhero" aria-label="Milano">
-      <figure class="art poster" aria-label="Manifesto: Milano">
-        <svg viewBox="0 0 700 420" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
-          <defs><filter id="grain"><feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" stitchTiles="stitch"/><feColorMatrix values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 .18 0"/><feComposite in2="SourceGraphic" operator="in"/></filter></defs>
-          <rect width="700" height="420" fill="#f2b02a"/>
-          <g stroke="#e89a1c" stroke-width="14" opacity=".55"><line x1="0" y1="64" x2="700" y2="64"/><line x1="0" y1="104" x2="700" y2="104"/><line x1="0" y1="144" x2="700" y2="144"/></g>
-          <circle cx="480" cy="180" r="140" fill="#c8372d"/>
-          <text x="36" y="372" font-family="Fredoka, Nunito, Arial Rounded MT Bold, sans-serif" font-weight="600" font-size="168" fill="#fdf3dc" letter-spacing="-4">milano</text>
-          <rect width="700" height="420" filter="url(#grain)"/>
-        </svg>
-      </figure>
-      <div class="cityinfo">
-        <span class="kick">Sei a</span>
-        <h2>Milano</h2>
-        <div class="stats">${inRange(t) ? `<span><b>${leftToday}</b> eventi ancora oggi</span>${freeToday ? `<span><b>${freeToday}</b> gratis</span>` : ""}` : ""}<span><b>${DATA.events.length}</b> in calendario</span></div>
-        <div class="cta">
-          <button class="btn dark" id="storiesBtn">${ic("play")}${tonLabel} in 10 carte</button>
-          <button class="btn white dice" id="surpriseBtn">${ic("dice")}Sorprendimi</button>
-        </div>
-      </div>
-    </section>
-
     <section class="sec" id="stasera">
-      <h3>${tonLabel}, ti consigliamo <small>${ton.day === t ? "tre serate per uscire adesso" : label(ton.day).toLowerCase()}</small></h3>
+      <h3>${tonLabel}, ti consigliamo <small>${ton.day === t ? "tre idee per uscire adesso" : label(ton.day).toLowerCase()}</small></h3>
       ${ton.picks.length ? `<div class="picks">${ton.picks.map(pickCard).join("")}</div>` : `<p class="empty">Per stasera è tutto: guarda il calendario dei prossimi giorni.</p>`}
     </section>
 
-    <section class="sec" id="mood">
-      <h3>Come ti senti? ${S.mood ? "<small>tocca di nuovo per togliere</small>" : ""}</h3>
-      <div class="moods">${MOODS.map(m => ({...m, n:moodCount(m.id)})).filter(m => m.n).map(m => `<button class="mood" style="--mc:${m.c}" data-mood="${m.id}" aria-pressed="${S.mood===m.id}"><i>${m.em}</i>${m.label} <small>${m.n}</small></button>`).join("")}</div>
+    <section class="sec" id="esperienza">
+      <h3>Che esperienza cerchi?</h3>
+      <div class="exps">
+        ${EXPS.map(m => ({...m, n:moodCount(m.id)})).filter(m => m.n).map(m => `<button class="exp" style="--mc:${m.c}" data-mood="${m.id}" aria-pressed="${S.mood===m.id}"><i>${m.em}</i><span><b>${m.label}</b><small>${m.sub}</small></span></button>`).join("")}
+        <button class="exp sur" data-surprise><i>🎲</i><span><b>Lasciarmi sorprendere</b><small>scegliamo noi, a caso</small></span></button>
+      </div>
     </section>
 
     <section class="sec" id="temi">
-      <h3>Scegli il tema ${S.cats.size ? "<small>tocca di nuovo per togliere</small>" : ""}</h3>
+      <h3>Scegli il tema ${S.cats.size ? "<small>puoi sceglierne più di uno</small>" : ""}</h3>
       <div class="themes">
-        <button class="theme all" data-all aria-pressed="${S.cats.size===0}"><span class="tile"><svg class="lamp big" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="20" fill="#f3ecdc"/><path d="M7 25 A13 13 0 0 1 33 25" fill="none" stroke="#b8432a" stroke-width="2.3"/><path d="M10 25 A10 10 0 0 1 30 25" fill="none" stroke="#f2a91c" stroke-width="2.3"/><path d="M13 25 A7 7 0 0 1 27 25" fill="none" stroke="#b8432a" stroke-width="2.3"/><path d="M16 25 A4 4 0 0 1 24 25" fill="none" stroke="#f2a91c" stroke-width="2.3"/><circle cx="20" cy="25" r="1.6" fill="#b8432a"/><path d="M5 26.5C10 25 15.5 25.6 20 28.4 24.5 25.6 30 25 35 26.5V30C30 28.6 24.5 29.2 20 32 15.5 29.2 10 28.6 5 30Z" fill="#4e6440"/></svg></span><span class="lbl">Tutto</span><span class="n">${DATA.events.length} eventi</span></button>
-        ${Object.entries(CATS).filter(([k]) => counts[k]).map(([k,v]) => `
-          <button class="theme" data-cat="${k}" data-k="${k}" aria-pressed="${S.cats.has(k)}"><span class="tile">${icon(k)}</span><span class="lbl">${esc(v)}</span><span class="n">${counts[k]} eventi</span></button>`).join("")}
+        <button class="theme all" data-all aria-pressed="${S.cats.size===0}"><span class="tile"><svg class="lamp big" viewBox="0 0 40 40" aria-hidden="true">${LOGO}</svg></span><span class="lbl">Tutto</span><span class="n">${DATA.events.length} eventi</span></button>
+        ${THEMES.filter(th => themeCount(th)).map(th => `
+          <button class="theme" data-cat="${th.cats[0]}" data-k="${th.id}" aria-pressed="${S.cats.has(th.id)}"><span class="tile">${icon(th.icon || th.id)}</span><span class="lbl">${esc(th.label)}</span><span class="n">${themeCount(th)} eventi</span></button>`).join("")}
       </div>
     </section>
 
@@ -774,73 +872,132 @@ function render(){
           <button class="chip" data-q="weekend" aria-pressed="${S.mode==='weekend'}">Weekend</button>
           <button class="chip" data-q="all" aria-pressed="${S.mode==='all'}">Tutti i giorni</button>
         </div>
-        <div class="toggles"><button class="chip" id="fStar" aria-pressed="${S.star}">★ Imperdibili</button></div>
       </div>
       <div class="weekwrap">
         <button class="arrow" id="pw" aria-label="Giorni precedenti" ${S.weekStart <= DATA.range[0] ? "disabled" : ""}>‹</button>
         <div class="wk">${weekHTML}</div>
         <button class="arrow" id="nw" aria-label="Giorni successivi" ${add(S.weekStart,7) > DATA.range[1] ? "disabled" : ""}>›</button>
       </div>
-      <div class="viewbar">
+      <div class="filters" role="group" aria-label="Filtri utili">
+        <button class="chip sm" id="fStar" aria-pressed="${S.star}">★ Imperdibili</button>
+        ${PRACT.map(p => `<button class="chip sm" data-pr="${p.id}" aria-pressed="${S.pr.has(p.id)}">${p.id === "gratis" ? "🎟️ " : p.id === "dopolavoro" ? "🌆 " : "🧸 "}${p.label}${p.id === "dopolavoro" ? " <small>18–20:30</small>" : ""}</button>`).join("")}
+        <span class="vsep"></span>
         <div class="seg2" role="group" aria-label="Vista"><button data-view="list" aria-pressed="${S.view==='list'}">${ic("list")}Lista</button><button data-view="map" aria-pressed="${S.view==='map'}">${ic("map")}Mappa</button></div>
-        ${zones.length > 1 ? `<div class="zones" role="group" aria-label="Quartiere"><button class="chip" data-zona="" aria-pressed="${!S.zona}">Tutta Milano</button>${zones.map(z => `<button class="chip" data-zona="${esc(z)}" aria-pressed="${S.zona===z}">${esc(z)}</button>`).join("")}</div>` : ""}
       </div>
+      ${zones.length > 1 ? `<div class="zones" role="group" aria-label="Quartiere"><span class="zl">Zona</span><button class="chip sm" data-zona="" aria-pressed="${!S.zona}">Tutta Milano</button>${zones.map(z => `<button class="chip sm" data-zona="${esc(z)}" aria-pressed="${S.zona===z}">${esc(z)}</button>`).join("")}</div>` : ""}
+      <div class="resbar" aria-live="polite"><b>${nRes} ${nRes === 1 ? "evento" : "eventi"} ${whenTxt}</b>${act.map(([k,l]) => `<button class="fchip" data-clear="${esc(k)}" aria-label="Togli il filtro ${esc(l)}">${esc(l)} <span aria-hidden="true">✕</span></button>`).join("")}${act.length ? `<button class="clearall" data-clear="all">Azzera filtri</button>` : ""}</div>
       <div id="detail">${detail}</div>
     </section>
 
     <section class="sec" id="serate">
-      <h3>Le mie serate <small>gli eventi che hai salvato con ♥</small></h3>
-      <div class="plan">
-        <div class="box">
-          <h4>${upcoming.length ? `Hai ${upcoming.length} ${upcoming.length === 1 ? "evento" : "eventi"} in programma` : "Ancora niente in programma"}</h4>
-          <p class="sub">${upcoming.length ? "Tocca un evento per i dettagli, o mettili tutti nel tuo calendario." : "Tocca ♥ su un evento per salvarlo qui."}</p>
-          ${upcoming.map(e => { const d = pd(e.date); return `<div class="prow" data-cat="${e.cat}" data-open="${esc(e.key)}" role="button" tabindex="0"><span class="dt"><span><small>${DOW[d.getDay()]}</small><b>${d.getDate()}</b><small>${MONS[d.getMonth()]}</small></span></span><span class="tx"><b>${esc(e.title)}</b><span>${esc(e.time||"orario da definire")} · ${esc(e.venue)}</span></span>${heart(e)}</div>`; }).join("")}
-          ${upcoming.length ? `<div class="mini"><button id="planIcs">${ic("cal")}Aggiungi tutto al calendario</button><button id="planShare">${ic("share")}Condividi le mie serate</button></div>` : ""}
-        </div>
-        <div class="box">
-          <h4>Passaporto culturale</h4>
-          <p class="sub">Dopo un evento, apri la scheda e tocca “Ci sono stato”: ogni tema è un timbro.</p>
-          <div class="level"><span>${lv[0]}</span><span class="bar"><i style="width:${Math.round(lv[1]*100)}%"></i></span><span>${totalBeen}</span></div>
-          <div class="stamps">${Object.keys(CATS).map(k => `<div class="stamp ${beenCount[k]?'on':''}" data-cat="${k}"><div class="s">${icon(k)}</div>${esc(CATS[k].split(" e ")[0])}<span class="k">${beenCount[k] ? "×" + beenCount[k] : "—"}</span></div>`).join("")}</div>
-          <p class="sub" style="margin:12px 0 0">${themesDone ? `${themesDone} temi su ${Object.keys(CATS).length}.` : ""}</p>
-        </div>
+      <h3>♥ Le mie serate <small>salvate su questo dispositivo, senza account</small></h3>
+      <div class="box">
+        ${upcoming.length ? `<h4>Hai ${upcoming.length} ${upcoming.length === 1 ? "evento" : "eventi"} in programma</h4>` : `<h4>Ancora niente qui</h4><p class="sub" style="margin:4px 0 0">Tocca ♥ su un evento che ti piace: lo ritrovi qui, pronto da mettere in calendario o mandare a un amico.</p>`}
+        ${upcoming.map(e => { const d = pd(e.date); return `<div class="prow" data-cat="${e.cat}" data-open="${esc(e.key)}" role="button" tabindex="0"><span class="dt"><span><small>${DOW[d.getDay()]}</small><b>${d.getDate()}</b><small>${MONS[d.getMonth()]}</small></span></span><span class="tx"><b>${esc(e.title)}</b><span>${esc(e.time||"orario da definire")} · ${esc(e.venue)}</span></span>${heart(e)}</div>`; }).join("")}
+        ${upcoming.length ? `<div class="mini"><button id="planIcs">${ic("cal")}Aggiungi tutto al calendario</button><button id="planShare">${ic("share")}Condividi le mie serate</button></div>` : ""}
       </div>
     </section>
 
-    <section class="sec" id="mostre">
-      <h3>Mostre aperte</h3>
-      <div class="mrow">${(DATA.mostre||[]).map((m,i) => `<a class="mcard" style="background:${MOSTRE_PASTEL[i % MOSTRE_PASTEL.length]}" href="${esc(m.url)}" target="_blank" rel="noopener"><b>${esc(m.title)}</b><span>${esc(m.venue)} · ${esc(m.when)}</span></a>`).join("")}</div>
-    </section>
-
-    <section class="sec" id="abbonati">
-      <h3>Abbonati ai temi</h3>
-      <p class="lead">Il calendario del tema entra nel tuo telefono e si aggiorna da solo, ogni mattina.</p>
-      <div class="subs">${subs.map(([f,name,k]) => `<div class="sub" ${k ? `data-cat="${k}"` : `style="--pc:${f === "tutto" ? "#f8d8c8" : "#f7e9b5"}"`}><b>${k ? icon(k) : (f === "tutto" ? "🏙️" : "★")} ${esc(name)}</b><span class="ln"><a href="webcal://${SITE}/cal/${f}.ics">iPhone · Outlook</a><a href="https://calendar.google.com/calendar/r?cid=${encodeURIComponent("webcal://" + SITE + "/cal/" + f + ".ics")}" target="_blank" rel="noopener">Google</a><a href="https://${SITE}/cal/${f}.ics" download>.ics</a></span></div>`).join("")}</div>
+    <section class="sec" id="segui">
+      <h3>Segui i temi</h3>
+      <p class="lead">Scegli cosa ti appassiona: i nuovi eventi arrivano da soli nel calendario del tuo telefono, aggiornati ogni mattina.</p>
+      <div class="subs">${subs.map(([f,name,th]) => `<div class="sub" ${th ? `data-cat="${th.cats[0]}"` : `style="--pc:${f === "tutto" ? "#f8d8c8" : "#f7e9b5"}"`}><b>${th ? icon(th.icon || th.id) : (f === "tutto" ? "🏙️" : "★")} ${esc(name)}</b><span class="ln"><a href="webcal://${SITE}/cal/${f}.ics">iPhone · Outlook</a><a href="https://calendar.google.com/calendar/r?cid=${encodeURIComponent("webcal://" + SITE + "/cal/" + f + ".ics")}" target="_blank" rel="noopener">Google Calendar</a></span></div>`).join("")}</div>
       <div class="news">
         <div><h4>Il tuo weekend, ogni giovedì.</h4><p>Cinque eventi scelti per il fine settimana, in una mail da leggere in un minuto.</p></div>
-        <div><form onsubmit="event.preventDefault();toast('La newsletter parte a breve: intanto abbonati a un tema ✦')"><input type="email" placeholder="La tua email" aria-label="La tua email" disabled><button class="btn dark" type="submit">In arrivo</button></form><p class="note">Stiamo preparando il primo numero. Intanto seguici su <a href="https://www.instagram.com/acculturiamoci_official/" target="_blank" rel="noopener"><b>Instagram</b></a>.</p></div>
+        <div><form onsubmit="event.preventDefault();toast('La newsletter parte a breve: intanto segui un tema ✦')"><input type="email" placeholder="La tua email" aria-label="La tua email" disabled><button class="btn dark" type="submit">In arrivo</button></form><p class="note">Intanto seguici su <a href="${IG_URL}" target="_blank" rel="noopener"><b>Instagram</b></a>.</p></div>
       </div>
+    </section>
+
+    <section class="sec org" id="organizzatori">
+      <div class="orgtx">
+        <span class="kick">Per chi organizza</span>
+        <h3>Organizzi eventi? Fatti trovare.</h3>
+        <p>Associazione, libreria, galleria, circolo, o una persona che ospita talk di storia dell'arte nel proprio spazio: raccontaci cosa fai. Se è in linea con Acculturiamoci, lo mettiamo in calendario. È gratis.</p>
+        <ul><li>Eventi singoli o appuntamenti ricorrenti</li><li>Talk, letture, concerti, laboratori, visite</li><li>Ti rispondiamo su Instagram o per email</li></ul>
+      </div>
+      <form class="orgf" id="orgForm">
+        <label>Chi sei<input name="chi" required placeholder="Nome, associazione o spazio"></label>
+        <label>Come ti ricontattiamo<input name="contatto" required placeholder="Email o @instagram"></label>
+        <label class="full">Titolo dell'evento<input name="titolo" required placeholder="Es. Caravaggio a lume di candela"></label>
+        <label>Quando<input name="quando" required placeholder="Es. 5 dicembre ore 19, oppure ogni giovedì"></label>
+        <label>Tema<select name="tema">${THEMES.map(th => `<option>${esc(th.label)}</option>`).join("")}<option>Altro</option></select></label>
+        <label class="full">Dove<input name="dove" required placeholder="Nome del posto e indirizzo"></label>
+        <label class="full">Link (facoltativo)<input name="link" placeholder="Pagina, biglietti o profilo Instagram"></label>
+        <label class="full">Due righe sull'evento<textarea name="desc" rows="3" placeholder="Di cosa si parla, a chi è rivolto, se è gratis o a pagamento"></textarea></label>
+        <div class="full orgbtns"><button class="btn hot" type="submit">Prepara la segnalazione</button><span class="hint">Il testo viene copiato: incollalo nel messaggio che si apre.</span></div>
+      </form>
     </section>`;
 
   /* azioni */
   $$(".theme").forEach(b => b.onclick = () => {
     if (b.hasAttribute("data-all")) S.cats.clear(); else { const k = b.dataset.k; S.cats.has(k) ? S.cats.delete(k) : S.cats.add(k); }
-    render();
+    widen(); render(); if (S.cats.size) toDetail();
   });
-  $$(".mood").forEach(b => b.onclick = () => { S.mood = S.mood === b.dataset.mood ? null : b.dataset.mood; if (S.mood && S.mode === "day" && S.day === t) S.mode = "all"; render(); toDetail(); });
+  $$(".exp[data-mood]").forEach(b => b.onclick = () => { S.mood = S.mood === b.dataset.mood ? null : b.dataset.mood; widen(); render(); if (S.mood) toDetail(); });
+  $$("[data-surprise]").forEach(b => b.onclick = surprise);
   $$(".dcell").forEach(b => b.onclick = () => { S.mode = "day"; S.day = b.dataset.d; render(); toDetail(); });
-  $$("[data-q]").forEach(b => b.onclick = () => setQuick(b.dataset.q, true));
+  $$("#main [data-q]").forEach(b => b.onclick = () => setQuick(b.dataset.q, true));
   $$("[data-view]").forEach(b => b.onclick = () => { S.view = b.dataset.view; render(); });
   $$("[data-zona]").forEach(b => b.onclick = () => { S.zona = b.dataset.zona || null; render(); });
+  $$("[data-pr]").forEach(b => b.onclick = () => { const k = b.dataset.pr; S.pr.has(k) ? S.pr.delete(k) : S.pr.add(k); render(); });
+  $$("[data-clear]").forEach(b => b.onclick = () => clearFilter(b.dataset.clear));
   $("#fStar").onclick = () => { S.star = !S.star; render(); };
   $("#pw").onclick = () => { const p = add(S.weekStart,-7); S.weekStart = p < DATA.range[0] ? DATA.range[0] : p; render(); };
   $("#nw").onclick = () => { S.weekStart = add(S.weekStart,7); render(); };
-  $("#storiesBtn").onclick = openStories;
-  $("#surpriseBtn").onclick = surprise;
+  $("#orgForm").onsubmit = sendOrg;
   if ($("#planIcs")) $("#planIcs").onclick = () => downloadICS(upcoming, "le-mie-serate.ics");
   if ($("#planShare")) $("#planShare").onclick = () => shareText("Le mie serate su Acculturiamoci:\n" + upcoming.map(e => `• ${dayWord(e.date)} ${e.time||""} — ${e.title} (${e.venue})`).join("\n") + `\nhttps://${SITE}`);
   if (S.view === "map") drawMap(vis.filter(e => sel.has(e.date)));
 }
+
+/* se scegli un tema o un'esperienza mentre guardi solo oggi, ti mostriamo i prossimi giorni */
+function widen(){ if ((S.cats.size || S.mood) && S.mode === "day" && S.day === today()) S.mode = "all"; }
+function clearFilter(k){
+  if (k === "all"){ S.cats.clear(); S.mood = null; S.pr.clear(); S.star = false; S.q = ""; $("#q").value = ""; S.zona = null; }
+  else if (k.startsWith("cat:")) S.cats.delete(k.slice(4));
+  else if (k.startsWith("pr:")) S.pr.delete(k.slice(3));
+  else if (k === "mood") S.mood = null;
+  else if (k === "star") S.star = false;
+  else if (k === "q"){ S.q = ""; $("#q").value = ""; }
+  else if (k === "zona") S.zona = null;
+  render();
+}
+
+/* ---------- segnalazione evento (organizzatori) ---------- */
+async function sendOrg(ev){
+  ev.preventDefault();
+  const f = new FormData(ev.target), g = k => (f.get(k) || "").toString().trim();
+  const text = `Ciao Acculturiamoci! Vorrei segnalare un evento.\n\nChi sono: ${g("chi")}\nContatto: ${g("contatto")}\nEvento: ${g("titolo")}\nQuando: ${g("quando")}\nDove: ${g("dove")}\nTema: ${g("tema")}${g("link") ? "\nLink: " + g("link") : ""}${g("desc") ? "\n\n" + g("desc") : ""}`;
+  let copied = false; try { await navigator.clipboard.writeText(text); copied = true; } catch(_) {}
+  if (CONTACT_EMAIL){ location.href = `mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent("Segnalazione evento: " + g("titolo"))}&body=${encodeURIComponent(text)}`; return; }
+  const box = ev.target.querySelector(".orgbtns");
+  box.innerHTML = `<a class="btn dark" href="https://ig.me/m/acculturiamoci_official" target="_blank" rel="noopener">Apri Instagram e incolla il messaggio</a><span class="hint">${copied ? "✓ Testo copiato." : "Copia il testo qui sotto."} Ti rispondiamo appena possibile.</span><textarea class="full" rows="7" readonly>${esc(text)}</textarea>`;
+  toast(copied ? "Testo copiato ✦" : "Copia il testo della segnalazione");
+}
+
+/* ---------- calendario a comparsa in "Quando" ---------- */
+function renderWhenPop(){
+  if (!DATA) return;
+  const t = today(), [r0, r1] = DATA.range;
+  const counts = {}; DATA.events.forEach(e => { if (ok(e)) counts[e.date] = (counts[e.date]||0) + 1; });
+  const months = []; let m = pd(r0); m.setDate(1);
+  while (ymd(m) <= r1){ months.push(new Date(m)); m.setMonth(m.getMonth()+1); }
+  const sel = new Set(selectedDays());
+  const monthHTML = months.map(md => {
+    const y = md.getFullYear(), mo = md.getMonth(), first = (new Date(y,mo,1).getDay()+6)%7, n = new Date(y,mo+1,0).getDate();
+    let cells = "";
+    for (let i=0;i<first;i++) cells += "<span></span>";
+    for (let d=1; d<=n; d++){
+      const ds = `${y}-${pad(mo+1)}-${pad(d)}`, on = ds >= r0 && ds <= r1 && ds >= t;
+      cells += on ? `<button class="cd ${sel.has(ds)?'sel':''} ${ds===t?'td':''}" data-day="${ds}" aria-label="${label(ds)}, ${counts[ds]||0} eventi">${d}<i>${counts[ds]||""}</i></button>` : `<span class="cd off">${d}</span>`;
+    }
+    return `<div class="mon"><b>${MON[mo][0].toUpperCase()+MON[mo].slice(1)} ${y}</b><div class="cg">${["L","M","M","G","V","S","D"].map(x => `<small>${x}</small>`).join("")}${cells}</div></div>`;
+  }).join("");
+  $("#whenPop").innerHTML = `<div class="pq"><button data-q="oggi">Oggi</button><button data-q="domani">Domani</button><button data-q="weekend">Weekend</button><button data-q="all">Tutti i giorni</button></div><div class="mons">${monthHTML}</div><p class="pn">Il calendario copre i prossimi 10 giorni e si aggiorna ogni mattina.</p>`;
+  $$("#whenPop [data-q]").forEach(b => b.onclick = ev => { ev.stopPropagation(); closeWhen(); setQuick(b.dataset.q, true); });
+  $$("#whenPop [data-day]").forEach(b => b.onclick = ev => { ev.stopPropagation(); closeWhen(); S.mode = "day"; S.day = b.dataset.day; S.weekStart = S.day; render(); toDetail(); });
+}
+function closeWhen(){ $("#whenPop").classList.remove("open"); $("#segWhen").setAttribute("aria-expanded","false"); }
 
 /* click delegati: cuori, schede */
 document.addEventListener("click", e => {
@@ -915,7 +1072,6 @@ function openSheet(key){
       <div class="mini">
         <button class="heart-txt" id="shSave" aria-pressed="${!!SAVED[e.key]}">♥ ${SAVED[e.key] ? "Salvato" : "Salva"}</button>
         <button id="shShare">${ic("share")}Condividi</button>
-        ${canBeen ? `<button id="shBeen" aria-pressed="${!!BEEN[e.key]}">${ic("check")}${BEEN[e.key] ? "Ci sono stato ✦" : "Ci sono stato"}</button>` : ""}
       </div>
       <p class="fine">Orari, prezzi e prenotazioni: fa fede la pagina dell'organizzatore.</p>
     </div>`;
@@ -926,7 +1082,6 @@ function openSheet(key){
   $("#shIcs").onclick = ev => { ev.preventDefault(); downloadICS([e], (e.key || "evento") + ".ics"); };
   $("#shSave").onclick = () => { toggleSave(e.key); $("#shSave").setAttribute("aria-pressed", !!SAVED[e.key]); $("#shSave").textContent = "♥ " + (SAVED[e.key] ? "Salvato" : "Salva"); };
   $("#shShare").onclick = () => shareText(`${e.title} — ${dayWord(e.date).toLowerCase()}${e.time ? " alle " + e.time : ""}, ${e.venue}`, evUrl(e));
-  if ($("#shBeen")) $("#shBeen").onclick = () => { toggleBeen(e.key); $("#shBeen").setAttribute("aria-pressed", !!BEEN[e.key]); $("#shBeen").lastChild.textContent = BEEN[e.key] ? "Ci sono stato ✦" : "Ci sono stato"; };
   setTimeout(() => $("#shX").focus({preventScroll:true}), 50);
   // trascina giù per chiudere
   let y0 = null; const hd = sh.querySelector(".hd");
@@ -945,7 +1100,7 @@ $("#scrim").onclick = closeSheet;
 
 /* ---------- sorprendimi ---------- */
 function surprise(){
-  const b = $("#surpriseBtn"); if (b && !reduced()){ b.classList.remove("roll"); void b.offsetWidth; b.classList.add("roll"); }
+  $$("#surpriseBtn,#fab").forEach(b => { if (!reduced()){ b.classList.remove("roll"); void b.offsetWidth; b.classList.add("roll"); } });
   const t = today();
   let pool = DATA.events.filter(e => ok(e) && !isPast(e) && (e.date === t || e.date === add(t,1)));
   if (!pool.length) pool = DATA.events.filter(e => !isPast(e) && e.date >= t);
@@ -1026,7 +1181,7 @@ async function drawMap(list){
     const e0 = evs[0]; pts.push(e0.geo);
     const mk = L.marker(e0.geo, { icon: L.divIcon({ className:"", html:`<div data-cat="${e0.cat}"><div class="pin2"><b>${evs.length}</b></div></div>`, iconSize:[30,30], iconAnchor:[15,30], popupAnchor:[0,-28] }), title:e0.venue });
     const multi = new Set(evs.map(e => e.date)).size > 1;
-    mk.bindPopup(`<div class="pop"><h6>${esc(e0.venue)}</h6>${evs.map(e => `<button data-open="${esc(e.key)}"><b>${multi ? DOW[pd(e.date).getDay()] + " " : ""}${esc(e.time||"—")}</b> ${esc(e.title)}</button>`).join("")}</div>`);
+    mk.bindPopup(`<div class="mpop"><h6>${esc(e0.venue)}</h6>${evs.map(e => `<button data-open="${esc(e.key)}"><b>${multi ? DOW[pd(e.date).getDay()] + " " : ""}${esc(e.time||"—")}</b> ${esc(e.title)}</button>`).join("")}</div>`);
     mk.addTo(LMAP);
   });
   if (pts.length > 1) LMAP.fitBounds(pts, { padding:[40,40], maxZoom:15 });
@@ -1046,7 +1201,7 @@ function setQuick(q, scroll){
   const first = selectedDays()[0]; if (first && (first < S.weekStart || first > add(S.weekStart,6))) S.weekStart = first;
   render(); if (scroll) toDetail();
 }
-function closeAll(){ $("#cityDD").classList.remove("open"); $("#menu").classList.remove("open"); $("#cityBtn").setAttribute("aria-expanded","false"); $("#menuBtn").setAttribute("aria-expanded","false"); }
+function closeAll(){ closeWhen(); $("#cityDD").classList.remove("open"); $("#menu").classList.remove("open"); $("#cityBtn").setAttribute("aria-expanded","false"); $("#menuBtn").setAttribute("aria-expanded","false"); }
 $("#cityBtn").onclick = e => { e.stopPropagation(); const o = !$("#cityDD").classList.contains("open"); closeAll(); $("#cityDD").classList.toggle("open", o); $("#cityBtn").setAttribute("aria-expanded", o); };
 $("#segCity").onclick = e => { e.stopPropagation(); scrollTo({top:0}); $("#cityBtn").click(); };
 $("#menuBtn").onclick = e => { e.stopPropagation(); const o = !$("#menu").classList.contains("open"); closeAll(); $("#menu").classList.toggle("open", o); $("#menuBtn").setAttribute("aria-expanded", o); };
@@ -1055,8 +1210,10 @@ document.addEventListener("keydown", e => {
   if (e.key !== "Escape") { if ($("#stories").classList.contains("open")) { if (e.key === "ArrowRight") { ST.i++; showStory(); } if (e.key === "ArrowLeft") { ST.i = Math.max(0, ST.i-1); showStory(); } } return; }
   if ($("#stories").classList.contains("open")) closeStories(); else if ($("#sheet").classList.contains("open")) closeSheet(); else closeAll();
 });
-$$("#menu a").forEach(a => a.addEventListener("click", ev => { closeAll(); const act = a.dataset.act; if (act && DATA){ ev.preventDefault(); act === "stories" ? openStories() : surprise(); } }));
-$("#segWhen").onclick = () => { if (DATA) setQuick(S.mode === "day" && S.day === today() ? "weekend" : "oggi", true); };
+$$("#menu a").forEach(a => a.addEventListener("click", ev => { closeAll(); if (a.dataset.act === "surprise" && DATA){ ev.preventDefault(); surprise(); } }));
+$("#segWhen").onclick = e => { e.stopPropagation(); const o = !$("#whenPop").classList.contains("open"); closeAll(); if (o){ renderWhenPop(); $("#whenPop").classList.add("open"); $("#segWhen").setAttribute("aria-expanded","true"); } };
+$("#whenPop").addEventListener("click", e => e.stopPropagation());
+$("#surpriseBtn").onclick = surprise; $("#fab").onclick = surprise;
 $("#q").addEventListener("input", e => { S.q = e.target.value.trim().toLowerCase(); if (S.q && S.mode === "day") S.mode = "all"; render(); });
 $("#q").addEventListener("keydown", e => { if (e.key === "Enter") toDetail(); });
 $("#goBtn").onclick = () => toDetail();
@@ -1073,6 +1230,8 @@ async function load(){
   if (h.startsWith("e=")) openSheet(h.slice(2));
 }
 setInterval(() => { if (DATA && !$("#sheet").classList.contains("open") && !$("#stories").classList.contains("open") && S.view !== "map") render(); }, 5*60*1000);
+const fabObs = "IntersectionObserver" in window ? new IntersectionObserver(([en]) => $("#fab").classList.toggle("show", !en.isIntersecting)) : null;
+if (fabObs) fabObs.observe($(".search"));
 load();
 </script>
 </body>

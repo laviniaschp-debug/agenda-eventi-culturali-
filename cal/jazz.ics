@@ -25,51 +25,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-22-m2o-morning-club-albertino-baldelli-fimiani@acculturiamoci.i
- t
-DTSTAMP:20261122T172616Z
-DTSTART;TZID=Europe/Rome:20261122T100000
-DTEND;TZID=Europe/Rome:20261122T120000
-SUMMARY:m2o Morning Club: Albertino\, Baldelli\, Fimiani
-LOCATION:Bar Vapore 1928
-DESCRIPTION:Chiusura della Milano Music Week. https://www.mentelocale.it/mi
- lano/147140-milano-music-week-2026-sotto-la-direzione-artistica-di-linus-u
- na-settimana-di-live-talk-e-incontri-il-programma.htm
-URL:https://www.mentelocale.it/milano/147140-milano-music-week-2026-sotto-l
- a-direzione-artistica-di-linus-una-settimana-di-live-talk-e-incontri-il-pr
- ogramma.htm
-CATEGORIES:Jazz e live
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-22-malasartoria-milano-johny-marsiglia@acculturiamoci.it
-DTSTAMP:20261122T172616Z
-DTSTART;TZID=Europe/Rome:20261122T210000
-DTEND;TZID=Europe/Rome:20261122T230000
-SUMMARY:Malasartoria Milano & Johny Marsiglia
-LOCATION:Arci Biko (via Ettore Ponti 40)
-DESCRIPTION:Live rap alla Biko. Ingresso con tessera ARCI. https://zero.eu/
- it/eventi/384245-malasartoria-milano-johny-marsiglia\,milano/
-URL:https://zero.eu/it/eventi/384245-malasartoria-milano-johny-marsiglia,mi
- lano/
-CATEGORIES:Jazz e live
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-22-raphael-gualazzi-band@acculturiamoci.it
-DTSTAMP:20261122T172616Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:Raphael Gualazzi Band
-LOCATION:Blue Note (via Borsieri 37)
-DESCRIPTION:Il pianista e cantante tra jazz\, soul e canzone d'autore. http
- s://bluenotemilano.com/show/raphael-gualazzi-quintet-20-21-22-novembre-202
- 6-milano/
-URL:https://bluenotemilano.com/show/raphael-gualazzi-quintet-20-21-22-novem
- bre-2026-milano/
-CATEGORIES:Jazz e live
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-24-il-rito-del-jazz-omaggio-a-chick-corea@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261124T193000
 DTEND;TZID=Europe/Rome:20261124T213000
 SUMMARY:Il rito del jazz: omaggio a Chick Corea
@@ -84,7 +41,7 @@ CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-celebrate-studio-54@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Celebrate Studio 54!
@@ -98,7 +55,7 @@ CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-liv-warfield@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:LiV Warfield
@@ -110,7 +67,7 @@ CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-luca-barbarossa@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Luca Barbarossa
@@ -123,7 +80,7 @@ CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-the-legendary-johnny-o-neal-trio@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:The Legendary Johnny O'Neal Trio
@@ -136,7 +93,7 @@ CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-jazzanova-live-feat-wayne-snow@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Jazzanova live feat. Wayne Snow
@@ -150,7 +107,7 @@ CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-tom-s-family-back-in-town@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Tom's Family – Back in Town!
@@ -164,7 +121,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-mixed-feelings-devon-rexi-venerus-b2b-physical-t@acculturiam
  oci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261204T220000
 DTEND;TZID=Europe/Rome:20261205T000000
 SUMMARY:Mixed Feelings: Devon Rexi\, Venerus b2b Physical Therapy\, Blinky

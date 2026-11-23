@@ -25,98 +25,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-22-parla-clitemnestra@acculturiamoci.it
-DTSTAMP:20261122T172616Z
-DTSTART;TZID=Europe/Rome:20261122T150000
-DTEND;TZID=Europe/Rome:20261122T170000
-SUMMARY:Parla\, Clitemnestra!
-LOCATION:Teatro Elfo Puccini
-DESCRIPTION:Compagnia Barletti/Waas. https://www.mentelocale.it/milano/1477
- 26-parla-clitemnestra-al-teatro-elfo-puccini-la-compagnia-barletti-waas.ht
- m
-URL:https://www.mentelocale.it/milano/147726-parla-clitemnestra-al-teatro-e
- lfo-puccini-la-compagnia-barletti-waas.htm
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-22-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261122T172616Z
-DTSTART;TZID=Europe/Rome:20261122T160000
-DTEND;TZID=Europe/Rome:20261122T180000
-SUMMARY:Una delle ultime sere di carnovale
-LOCATION:Piccolo Teatro Strehler
-DESCRIPTION:Goldoni diretto da Valerio Binasco: il congedo del commediograf
- o da Venezia. https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-
- sere-di-carnovale
-URL:https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-car
- novale
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-22-il-berretto-a-sonagli@acculturiamoci.it
-DTSTAMP:20261122T172616Z
-DTSTART;TZID=Europe/Rome:20261122T161500
-DTEND;TZID=Europe/Rome:20261122T181500
-SUMMARY:Il berretto a sonagli
-LOCATION:Teatro Franco Parenti\, Sala Grande
-DESCRIPTION:Silvio Orlando nel Pirandello delle maschere sociali. Ultima re
- plica. https://teatrofrancoparenti.it/spettacolo/il-berretto-a-sonagli/
-URL:https://teatrofrancoparenti.it/spettacolo/il-berretto-a-sonagli/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-22-la-misteriosa-scomparsa-di-w@acculturiamoci.it
-DTSTAMP:20261122T172616Z
-DTSTART;TZID=Europe/Rome:20261122T163000
-DTEND;TZID=Europe/Rome:20261122T183000
-SUMMARY:La misteriosa scomparsa di W
-LOCATION:Teatro Carcano
-DESCRIPTION:Da Stefano Benni\, con e per la regia di Ambra Angiolini. https
- ://www.mentelocale.it/milano/129787-la-misteriosa-scomparsa-di-w.htm
-URL:https://www.mentelocale.it/milano/129787-la-misteriosa-scomparsa-di-w.h
- tm
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-22-la-rivolta@acculturiamoci.it
-DTSTAMP:20261122T172616Z
-DTSTART;TZID=Europe/Rome:20261122T163000
-DTEND;TZID=Europe/Rome:20261122T183000
-SUMMARY:La rivolta
-LOCATION:Teatro Leonardo (via Ampère 1)
-DESCRIPTION:Scritto e diretto da Corrado d'Elia. https://www.mentelocale.it
- /milano/139866-rivolta.htm
-URL:https://www.mentelocale.it/milano/139866-rivolta.htm
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-22-sognare-forse-dormire-performance-da-vivere-dorm@acculturiam
- oci.it
-DTSTAMP:20261122T172616Z
-DTSTART;TZID=Europe/Rome:20261122T210000
-DTEND;TZID=Europe/Rome:20261122T230000
-SUMMARY:Sognare\, forse dormire: performance da vivere dormendo
-LOCATION:BASE Milano\, Room 1400
-DESCRIPTION:https://base.milano.it/events/page/9/
-URL:https://base.milano.it/events/page/9/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-22-pinocchio-trilogia-del-teatro-patologico@acculturiamoci.it
-DTSTAMP:20261122T172616Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:Pinocchio – Trilogia del Teatro Patologico
-LOCATION:Teatro Franco Parenti
-DESCRIPTION:Dario D'Ambrosi porta in scena il suo Pinocchio con gli attori 
- del Teatro Patologico\, compagnia che lavora con persone con disagio psich
- ico. https://teatrofrancoparenti.it/spettacolo/trilogia-di-dario-dambrosi/
-URL:https://teatrofrancoparenti.it/spettacolo/trilogia-di-dario-dambrosi/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-23-teatro-dietro-l-angolo-la-drammaturgia@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261123T180000
 DTEND;TZID=Europe/Rome:20261123T200000
 SUMMARY:Teatro dietro l'angolo: la drammaturgia
@@ -131,7 +41,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-alessandro-bergonzoni-voto-di-vastita@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261123T203000
 DTEND;TZID=Europe/Rome:20261123T223000
 SUMMARY:Alessandro Bergonzoni\, Voto di vastità
@@ -145,7 +55,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261124T193000
 DTEND;TZID=Europe/Rome:20261124T213000
 SUMMARY:Io sono verticale
@@ -157,7 +67,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261124T193000
 DTEND;TZID=Europe/Rome:20261124T213000
 SUMMARY:Una delle ultime sere di carnovale
@@ -171,7 +81,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-rompiamo-il-silenzio@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261124T200000
 DTEND;TZID=Europe/Rome:20261124T220000
 SUMMARY:Rompiamo il silenzio
@@ -184,7 +94,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-i-monologhi-della-vagina@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261124T203000
 DTEND;TZID=Europe/Rome:20261124T223000
 SUMMARY:I monologhi della vagina
@@ -197,7 +107,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-la-rivolta@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261124T203000
 DTEND;TZID=Europe/Rome:20261124T223000
 SUMMARY:La rivolta
@@ -209,7 +119,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-iliade-la-ballata-di-tersite@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Iliade: la ballata di Tersite
@@ -223,7 +133,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261125T193000
 DTEND;TZID=Europe/Rome:20261125T213000
 SUMMARY:Io sono verticale
@@ -235,7 +145,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-la-rivolta@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261125T203000
 DTEND;TZID=Europe/Rome:20261125T223000
 SUMMARY:La rivolta
@@ -247,7 +157,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261125T203000
 DTEND;TZID=Europe/Rome:20261125T223000
 SUMMARY:Una delle ultime sere di carnovale
@@ -262,7 +172,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-uomini-si-diventa-nella-mente-di-un-femminicida@acculturiamo
  ci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261125T203000
 DTEND;TZID=Europe/Rome:20261125T223000
 SUMMARY:Uomini si diventa. Nella mente di un femminicida
@@ -274,7 +184,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-bobby@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Bobby
@@ -285,7 +195,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-teatro-dietro-l-angolo-la-drammaturgia@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261126T180000
 DTEND;TZID=Europe/Rome:20261126T200000
 SUMMARY:Teatro dietro l'angolo: la drammaturgia
@@ -300,7 +210,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261126T193000
 DTEND;TZID=Europe/Rome:20261126T213000
 SUMMARY:Io sono verticale
@@ -312,7 +222,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261126T193000
 DTEND;TZID=Europe/Rome:20261126T213000
 SUMMARY:Una delle ultime sere di carnovale
@@ -326,7 +236,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-adelchi-con-roberto-trifiro@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261126T203000
 DTEND;TZID=Europe/Rome:20261126T223000
 SUMMARY:Adelchi con Roberto Trifirò
@@ -340,7 +250,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-la-rivolta@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261126T203000
 DTEND;TZID=Europe/Rome:20261126T223000
 SUMMARY:La rivolta
@@ -352,7 +262,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261127T190000
 DTEND;TZID=Europe/Rome:20261127T210000
 SUMMARY:Io sono verticale
@@ -364,7 +274,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-adelchi-con-roberto-trifiro@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:Adelchi con Roberto Trifirò
@@ -378,7 +288,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-di-madre-in-figlia@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:Di madre in figlia
@@ -391,7 +301,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-la-rivolta@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:La rivolta
@@ -403,7 +313,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:Una delle ultime sere di carnovale
@@ -417,7 +327,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-di-madre-in-figlia@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261128T193000
 DTEND;TZID=Europe/Rome:20261128T213000
 SUMMARY:Di madre in figlia
@@ -430,7 +340,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261128T193000
 DTEND;TZID=Europe/Rome:20261128T213000
 SUMMARY:Io sono verticale
@@ -442,7 +352,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261128T193000
 DTEND;TZID=Europe/Rome:20261128T213000
 SUMMARY:Una delle ultime sere di carnovale
@@ -456,7 +366,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-la-rivolta@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261128T203000
 DTEND;TZID=Europe/Rome:20261128T223000
 SUMMARY:La rivolta
@@ -468,7 +378,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-stai-zitta@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261128T203000
 DTEND;TZID=Europe/Rome:20261128T223000
 SUMMARY:Stai zitta!
@@ -481,7 +391,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261129T153000
 DTEND;TZID=Europe/Rome:20261129T173000
 SUMMARY:Io sono verticale
@@ -493,7 +403,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-di-madre-in-figlia@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261129T160000
 DTEND;TZID=Europe/Rome:20261129T180000
 SUMMARY:Di madre in figlia
@@ -506,7 +416,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261129T160000
 DTEND;TZID=Europe/Rome:20261129T180000
 SUMMARY:Una delle ultime sere di carnovale
@@ -520,7 +430,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-la-rivolta@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261129T163000
 DTEND;TZID=Europe/Rome:20261129T183000
 SUMMARY:La rivolta
@@ -532,7 +442,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-stai-zitta@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261129T163000
 DTEND;TZID=Europe/Rome:20261129T183000
 SUMMARY:Stai zitta!
@@ -544,7 +454,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-alessandro-cattelan-benvenuto-nell-ai@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261130T210000
 DTEND;TZID=Europe/Rome:20261130T230000
 SUMMARY:Alessandro Cattelan\, Benvenuto nell'AI!
@@ -557,7 +467,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-curae-2026-non-ti-pago-apertura@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Curae 2026: Non ti pago (apertura)
@@ -573,7 +483,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-di-madre-in-figlia@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261201T193000
 DTEND;TZID=Europe/Rome:20261201T213000
 SUMMARY:Di madre in figlia
@@ -587,7 +497,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-giuseppe-il-padre-putativo-anteprima-under-30@acculturiamoci
  .it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;TZID=Europe/Rome:20261201T193000
 DTEND;TZID=Europe/Rome:20261201T213000
 SUMMARY:Giuseppe: il padre putativo (anteprima under 30)
@@ -600,8 +510,21 @@ URL:https://www.elfo.org/spettacoli/2026-2027/giuseppe-padre-putativo-under
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-01-don-milani-la-parola-che-nutre@acculturiamoci.it
+DTSTAMP:20261123T112118Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Don Milani. La parola che nutre
+LOCATION:Teatro Franco Parenti
+DESCRIPTION:Spettacolo dedicato al priore di Barbiana e alla sua idea di sc
+ uola come riscatto\; in scena fino al 12 dicembre. https://teatrofrancopar
+ enti.it/calendario-spettacoli/
+URL:https://teatrofrancoparenti.it/calendario-spettacoli/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-01-spose-del-vento@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Spose del vento
@@ -613,7 +536,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-curae-2026-portami-la-fuori@acculturiamoci.it
-DTSTAMP:20261122T172616Z
+DTSTAMP:20261123T112118Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Curae 2026: Portami là fuori
@@ -625,6 +548,19 @@ DESCRIPTION:Teatro e musica con giovani degli IPM di Acireale\, Airola e Qu
 URL:https://www.mentelocale.it/milano/147779-curae-2026-a-milano-il-festiva
  l-di-arti-performative-sviluppate-negli-istituti-penali-per-i-minorenni.ht
  m
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-giuseppe-il-padre-putativo@acculturiamoci.it
+DTSTAMP:20261123T112118Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Giuseppe: il padre putativo
+LOCATION:Teatro Elfo Puccini\, Sala Bausch
+DESCRIPTION:Michele Di Giacomo porta in scena il testo di Luca Cardetta su 
+ san Giuseppe\, padre che non è padre. Repliche fino al 6 dicembre. https:
+ //www.elfo.org
+URL:https://www.elfo.org
 CATEGORIES:Teatro
 END:VEVENT
 END:VCALENDAR
