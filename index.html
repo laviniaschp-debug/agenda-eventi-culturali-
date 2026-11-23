@@ -172,6 +172,10 @@ body.lock .fab{display:none}
 .clearall,.linkbtn{border:0;background:none;text-decoration:underline;text-underline-offset:3px;font-weight:700;font-size:13.5px;padding:4px}
 .linkbtn{font-size:inherit;color:inherit;padding:0}
 .resbar+#detail .dayhead:first-child{margin-top:14px}
+.pastbar{margin-top:18px}
+.pastbtn{border:1px dashed #c9c9c9;background:#fff;border-radius:999px;padding:9px 16px;font-weight:700;font-size:13.5px;color:var(--muted)}
+.pastbtn:hover{border-color:var(--ink);color:var(--ink)}
+.pastgrid{margin-top:16px}
 
 /* Le mie serate (singolo box) */
 #serate .box{max-width:760px}
@@ -658,7 +662,7 @@ const IC = {
 };
 const heartSVG = '<svg viewBox="0 0 24 24"><path d="M12 20s-7.5-4.6-7.5-10.2A4.2 4.2 0 0 1 12 7.3a4.2 4.2 0 0 1 7.5 2.5C19.5 15.4 12 20 12 20z"/></svg>';
 
-const S = { city:"milano", day:null, mode:"day", weekStart:null, cats:new Set(), q:"", star:false, mood:null, pr:new Set(), zona:null, view:"list" };
+const S = { showPast:false, city:"milano", day:null, mode:"day", weekStart:null, cats:new Set(), q:"", star:false, mood:null, pr:new Set(), zona:null, view:"list" };
 let DATA = null, BYKEY = {};
 
 /* ---------- utilità ---------- */
@@ -812,7 +816,9 @@ function render(){
   if (!DATA){ $("#main").innerHTML = `<p class="empty" style="margin-top:36px">Caricamento del calendario…</p>`; return; }
 
   const t = today();
-  const vis = DATA.events.filter(e => ok(e));
+  const visAll = DATA.events.filter(e => ok(e));
+  const pastVis = visAll.filter(isPast);
+  const vis = visAll.filter(e => !isPast(e));
   const counts = {}; DATA.events.forEach(e => counts[e.cat] = (counts[e.cat]||0)+1);
   $("#segWhenV").textContent = S.mode === "weekend" ? "Weekend" : S.mode === "all" ? "Tutti i giorni" : dayWord(S.day);
   const ton = tonight();
@@ -834,8 +840,10 @@ function render(){
     const shown = S.mode === "day" ? days : days.filter(ds => vis.some(e => e.date === ds));
     shown.forEach((ds, i) => {
       const evs = vis.filter(e => e.date === ds);
-      detail += `<div class="dayhead" ${i===0?'id="dayTop"':''}><h4>${ds===t ? "Oggi, " + label(ds).toLowerCase() : label(ds)}</h4><span>${evs.length} eventi</span></div>`;
-      detail += evs.length ? `<div class="grid">${evs.map(card).join("")}</div>` : `<p class="empty">Nessun evento con questi filtri in questo giorno. Prova un altro giorno o <button class="linkbtn" data-clear="all">azzera i filtri</button>.</p>`;
+      const past = pastVis.filter(e => e.date === ds);
+      detail += `<div class="dayhead" ${i===0?'id="dayTop"':''}><h4>${ds===t ? "Oggi, " + label(ds).toLowerCase() : label(ds)}</h4><span>${evs.length} ${ds===t ? "ancora da vedere" : "eventi"}</span></div>`;
+      detail += evs.length ? `<div class="grid">${evs.map(card).join("")}</div>` : (past.length ? `<p class="empty">Per oggi gli eventi sono finiti: guarda <button class="linkbtn" data-q="domani">domani</button> o <button class="linkbtn" data-q="all">i prossimi giorni</button>.</p>` : `<p class="empty">Nessun evento con questi filtri in questo giorno. Prova un altro giorno o <button class="linkbtn" data-clear="all">azzera i filtri</button>.</p>`);
+      if (past.length) detail += `<div class="pastbar"><button class="pastbtn" data-past aria-expanded="${S.showPast}">${S.showPast ? "Nascondi" : "Mostra"} i ${past.length} ${past.length === 1 ? "evento già iniziato" : "eventi già iniziati"} ${S.showPast ? "▴" : "▾"}</button></div>${S.showPast ? `<div class="grid pastgrid">${past.map(card).join("")}</div>` : ""}`;
     });
     if (!days.length) detail = `<p class="empty" style="margin-top:24px">Questi giorni non sono ancora in calendario: lo aggiorniamo ogni mattina.</p>`;
     else if (!shown.length) detail = `<p class="empty" id="dayTop" style="margin-top:24px">Nessun evento con questi filtri. <button class="linkbtn" data-clear="all">Azzera i filtri</button> o prova un altro tema.</p>`;
@@ -980,6 +988,7 @@ function render(){
   $("#pw").onclick = () => { const p = add(S.weekStart,-7); S.weekStart = p < DATA.range[0] ? DATA.range[0] : p; render(); };
   $("#nw").onclick = () => { S.weekStart = add(S.weekStart,7); render(); };
   $("#orgForm").onsubmit = sendOrg;
+  $$("[data-past]").forEach(b => b.onclick = () => { S.showPast = !S.showPast; render(); });
   if ($("#planIcs")) $("#planIcs").onclick = () => downloadICS(upcoming, "le-mie-serate.ics");
   if ($("#planShare")) $("#planShare").onclick = () => shareText("Le mie serate su Acculturiamoci:\n" + upcoming.map(e => `• ${dayWord(e.date)} ${e.time||""} — ${e.title} (${e.venue})`).join("\n") + `\nhttps://${SITE}`);
   if (S.view === "map") drawMap(vis.filter(e => sel.has(e.date)));
