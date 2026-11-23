@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci Roma · Jazz e live
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-25-eugenio-in-via-di-gioia@acculturiamoci.it
+DTSTAMP:20261123T132153Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Eugenio in Via Di Gioia
+LOCATION:Atlantico (viale dell'Oceano Atlantico 271)
+DESCRIPTION:Concerto della band torinese. https://www.romapop.it/cosa-fare-
+ a-roma-questa-settimana-gli-eventi-dal-23-al-29-novembre-2026/
+URL:https://www.romapop.it/cosa-fare-a-roma-questa-settimana-gli-eventi-dal
+ -23-al-29-novembre-2026/
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-ditonellapiaga@acculturiamoci.it
+DTSTAMP:20261123T132153Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Ditonellapiaga
+LOCATION:Atlantico (viale dell'Oceano Atlantico 271)
+DESCRIPTION:Concerto della cantautrice romana. https://www.romapop.it/cosa-
+ fare-a-roma-questa-settimana-gli-eventi-dal-23-al-29-novembre-2026/
+URL:https://www.romapop.it/cosa-fare-a-roma-questa-settimana-gli-eventi-dal
+ -23-al-29-novembre-2026/
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-buenos-aires-tango-musica-y-danza-en-concierto@acculturiamoc
+ i.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261128T200000
+DTEND;TZID=Europe/Rome:20261128T220000
+SUMMARY:Buenos Aires Tango: música y danza en concierto
+LOCATION:Auditorium Parco della Musica · Sala Sinopoli
+DESCRIPTION:Musica e ballo del tango argentino dal vivo. https://www.audito
+ rium.com/it/
+URL:https://www.auditorium.com/it/
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-anohni-wilderness@acculturiamoci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261129T200000
+DTEND;TZID=Europe/Rome:20261129T220000
+SUMMARY:ANOHNI: Wilderness
+LOCATION:Auditorium Parco della Musica · Sala Santa Cecilia
+DESCRIPTION:Una delle voci più emozionanti della musica di oggi\, in una s
+ ala da brividi. La cantautrice dal vivo con il suo nuovo progetto. https:/
+ /www.auditorium.com/it/
+URL:https://www.auditorium.com/it/
+CATEGORIES:Jazz e live
+END:VEVENT
+END:VCALENDAR

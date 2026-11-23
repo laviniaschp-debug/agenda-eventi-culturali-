@@ -1,0 +1,140 @@
+[
+ {
+  "match": "Feltrinelli Largo di Torre Argentina",
+  "lat": 41.8955,
+  "lng": 12.4767,
+  "zona": "Centro storico"
+ },
+ {
+  "match": "Feltrinelli Piazza Pio XI",
+  "lat": 41.9,
+  "lng": 12.444,
+  "zona": "Prati · Aurelio · Flaminio"
+ },
+ {
+  "match": "Spazio Sette",
+  "lat": 41.8946,
+  "lng": 12.476,
+  "zona": "Centro storico"
+ },
+ {
+  "match": "Teatro Argentina",
+  "lat": 41.8955,
+  "lng": 12.4762,
+  "zona": "Centro storico"
+ },
+ {
+  "match": "Teatro Valle",
+  "lat": 41.8985,
+  "lng": 12.475,
+  "zona": "Centro storico"
+ },
+ {
+  "match": "Campidoglio",
+  "lat": 41.8933,
+  "lng": 12.4828,
+  "zona": "Centro storico"
+ },
+ {
+  "match": "Palazzo delle Esposizioni",
+  "lat": 41.8995,
+  "lng": 12.49,
+  "zona": "Esquilino · Monti · San Lorenzo"
+ },
+ {
+  "match": "piazza Vittorio",
+  "lat": 41.8946,
+  "lng": 12.5045,
+  "zona": "Esquilino · Monti · San Lorenzo"
+ },
+ {
+  "match": "Libreria Rotondi",
+  "lat": 41.893,
+  "lng": 12.502,
+  "zona": "Esquilino · Monti · San Lorenzo"
+ },
+ {
+  "match": "Aula Odeion",
+  "lat": 41.9034,
+  "lng": 12.5124,
+  "zona": "Esquilino · Monti · San Lorenzo"
+ },
+ {
+  "match": "Anatomia Comparata",
+  "lat": 41.905,
+  "lng": 12.516,
+  "zona": "Esquilino · Monti · San Lorenzo"
+ },
+ {
+  "match": "Auditorium Parco della Musica",
+  "lat": 41.929,
+  "lng": 12.474,
+  "zona": "Prati · Aurelio · Flaminio"
+ },
+ {
+  "match": "MAXXI",
+  "lat": 41.9283,
+  "lng": 12.4668,
+  "zona": "Prati · Aurelio · Flaminio"
+ },
+ {
+  "match": "Teatro Parioli",
+  "lat": 41.9262,
+  "lng": 12.488,
+  "zona": "Parioli · Villa Borghese · Nomentano"
+ },
+ {
+  "match": "Casa del Cinema",
+  "lat": 41.9135,
+  "lng": 12.484,
+  "zona": "Parioli · Villa Borghese · Nomentano"
+ },
+ {
+  "match": "Tra le Righe",
+  "lat": 41.92,
+  "lng": 12.511,
+  "zona": "Parioli · Villa Borghese · Nomentano"
+ },
+ {
+  "match": "Teatro India",
+  "lat": 41.869,
+  "lng": 12.471,
+  "zona": "Trastevere · Testaccio · Ostiense"
+ },
+ {
+  "match": "Spazio Rossellini",
+  "lat": 41.854,
+  "lng": 12.472,
+  "zona": "Trastevere · Testaccio · Ostiense"
+ },
+ {
+  "match": "Teatro Palladium",
+  "lat": 41.864,
+  "lng": 12.479,
+  "zona": "Trastevere · Testaccio · Ostiense"
+ },
+ {
+  "match": "Mondadori Bookstore EUR",
+  "lat": 41.832,
+  "lng": 12.472,
+  "zona": "EUR e sud"
+ },
+ {
+  "match": "Atlantico",
+  "lat": 41.827,
+  "lng": 12.48,
+  "zona": "EUR e sud"
+ },
+ {
+  "match": "La Nuvola",
+  "lat": 41.831,
+  "lng": 12.4719,
+  "zona": "EUR e sud"
+ },
+ {
+  "match": "Una Montagnola",
+  "lat": 41.848,
+  "lng": 12.495,
+  "zona": "EUR e sud"
+ }
+]

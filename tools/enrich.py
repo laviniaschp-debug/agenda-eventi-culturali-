@@ -51,8 +51,8 @@ def slug(s):
     return re.sub(r"[^a-z0-9]+", "-", s).strip("-")[:48]
 
 
-def enrich(d):
-    venues = json.load(open(VEN, encoding="utf-8"))
+def enrich(d, ven_path=VEN):
+    venues = json.load(open(ven_path, encoding="utf-8"))
     why = json.load(open(WHY, encoding="utf-8")) if os.path.exists(WHY) else {}
     seen = {}
     for e in d["events"]:
@@ -65,7 +65,7 @@ def enrich(d):
         e["key"] = k
         text = f'{e["title"]} {e.get("desc","")} {e.get("venue","")}'
         stext = f'{e["title"]} {e.get("desc","")}'
-        if e.get("cat") not in ("famiglie", "tech") and SCIENCE.search(stext) and "ideologic" not in stext.lower():
+        if e.get("cat") not in ("famiglie", "tech", "filosofia") and SCIENCE.search(stext) and "ideologic" not in stext.lower():
             e["cat"] = "scienza"
         if not e.get("why") and "imperdibile" in e.get("tags", []):
             low = e["title"].lower()
@@ -162,22 +162,31 @@ def write_ics(name, title, events):
         f.write("\r\n".join(fold(l) for l in lines) + "\r\n")
 
 
+CITIES = [  # file eventi, file luoghi, prefisso calendari, nome
+    ("events.json", "venues.json", "", "Milano"),
+    ("roma.json", "venues-roma.json", "roma-", "Roma"),
+]
+
+
 def main():
-    d = json.load(open(EV, encoding="utf-8"))
-    enrich(d)
-    with open(EV, "w", encoding="utf-8") as f:
-        json.dump(d, f, ensure_ascii=False, indent=1)
-    os.makedirs(CAL, exist_ok=True)
-    evs = sorted(d["events"], key=lambda e: (e["date"], e.get("time") or "99"))
-    write_ics("tutto.ics", "Acculturiamoci · Milano", evs)
-    for cat, name in CAT_NAMES.items():
-        write_ics(f"{cat}.ics", f"Acculturiamoci · {name}", [e for e in evs if e["cat"] == cat])
-    write_ics("musica.ics", "Acculturiamoci · Musica e concerti", [e for e in evs if e["cat"] in ("classica", "jazz")])
-    imp = [e for e in evs if "imperdibile" in e.get("tags", [])]
-    write_ics("imperdibili.ics", "Acculturiamoci · Imperdibili", imp)
     from collections import Counter
-    print("eventi:", len(evs), dict(Counter(e["cat"] for e in evs)))
-    print("con why:", sum(1 for e in evs if e.get("why")), " con geo:", sum(1 for e in evs if e.get("geo")))
+    os.makedirs(CAL, exist_ok=True)
+    for ev_file, ven_file, pre, city in CITIES:
+        path = os.path.join(ROOT, ev_file)
+        if not os.path.exists(path):
+            continue
+        d = json.load(open(path, encoding="utf-8"))
+        enrich(d, os.path.join(ROOT, "tools", ven_file))
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(d, f, ensure_ascii=False, indent=1)
+        evs = sorted(d["events"], key=lambda e: (e["date"], e.get("time") or "99"))
+        write_ics(f"{pre}tutto.ics", f"Acculturiamoci · {city}", evs)
+        for cat, name in CAT_NAMES.items():
+            write_ics(f"{pre}{cat}.ics", f"Acculturiamoci {city} · {name}", [e for e in evs if e["cat"] == cat])
+        write_ics(f"{pre}musica.ics", f"Acculturiamoci {city} · Musica e concerti", [e for e in evs if e["cat"] in ("classica", "jazz")])
+        write_ics(f"{pre}imperdibili.ics", f"Acculturiamoci {city} · Imperdibili", [e for e in evs if "imperdibile" in e.get("tags", [])])
+        print(city, "eventi:", len(evs), dict(Counter(e["cat"] for e in evs)),
+              "| con geo:", sum(1 for e in evs if e.get("geo")))
 
 
 if __name__ == "__main__":

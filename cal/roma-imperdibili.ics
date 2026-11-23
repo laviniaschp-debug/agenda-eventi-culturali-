@@ -1,0 +1,117 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci Roma · Imperdibili
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-25-nicola-lagioia-santa-barbara@acculturiamoci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261125T180000
+DTEND;TZID=Europe/Rome:20261125T200000
+SUMMARY:Nicola Lagioia: Santa Barbara
+LOCATION:Mondadori Bookstore EUR (viale Europa 88)
+DESCRIPTION:Lagioia racconta il suo nuovo romanzo corale: una serata da let
+ tori veri. Il nuovo romanzo corale di Nicola Lagioia\, presentato dall'aut
+ ore. Per Libridine\, ingresso libero. https://www.romatoday.it/eventi/libr
+ idine-festival-diffuso-librerie-21-29-novembre-2026.html
+URL:https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-
+ 29-novembre-2026.html
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-vito-mancuso-filosofia-e-scienza-per-essere-uman@acculturiam
+ oci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261125T190000
+DTEND;TZID=Europe/Rome:20261125T210000
+SUMMARY:Vito Mancuso: Filosofia e scienza per essere umani migliori
+LOCATION:Aula Odeion\, Museo dell'Arte Classica\, Sapienza (piazzale Aldo M
+ oro 5)
+DESCRIPTION:Filosofia e scienza insieme\, tra i calchi delle statue antiche
+ : come diventare persone migliori. Per la Giornata mondiale della filosofi
+ a: Vito Mancuso con Manuela Di Paola (Nuova Acropoli). Ingresso libero. ht
+ tps://www.nuovaacropoli.it/roma-vito-mancuso-in-filosofia-e-scienza-per-es
+ sere-umani-migliori
+URL:https://www.nuovaacropoli.it/roma-vito-mancuso-in-filosofia-e-scienza-p
+ er-essere-umani-migliori
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-lezioni-di-storia-gennaro-carillo-la-repubblica-@acculturiam
+ oci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261125T200000
+DTEND;TZID=Europe/Rome:20261125T220000
+SUMMARY:Lezioni di Storia · Gennaro Carillo: La Repubblica di Platone\, il
+  potere delle idee
+LOCATION:Auditorium Parco della Musica · Sala Sinopoli
+DESCRIPTION:Platone raccontato come se parlasse di noi\, oggi. Il ciclo "Il
+  potere dei classici": Platone e la forza delle idee. https://www.auditori
+ um.com/it/rassegne/lezioni-di-storia-2026-2027-il-potere-dei-classici/
+URL:https://www.auditorium.com/it/rassegne/lezioni-di-storia-2026-2027-il-p
+ otere-dei-classici/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-stefano-mancuso-la-citta-vivente@acculturiamoci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261126T173000
+DTEND;TZID=Europe/Rome:20261126T193000
+SUMMARY:Stefano Mancuso: La città vivente
+LOCATION:MAXXI (via Guido Reni 4a)
+DESCRIPTION:Il botanico più amato d'Italia spiega cosa le piante possono i
+ nsegnare alle città. Lectio magistralis: imparare dalla natura per ripens
+ are il futuro delle città. https://www.maxxi.art/events/categories/eventi
+ /
+URL:https://www.maxxi.art/events/categories/eventi/
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-anohni-wilderness@acculturiamoci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261129T200000
+DTEND;TZID=Europe/Rome:20261129T220000
+SUMMARY:ANOHNI: Wilderness
+LOCATION:Auditorium Parco della Musica · Sala Santa Cecilia
+DESCRIPTION:Una delle voci più emozionanti della musica di oggi\, in una s
+ ala da brividi. La cantautrice dal vivo con il suo nuovo progetto. https:/
+ /www.auditorium.com/it/
+URL:https://www.auditorium.com/it/
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-piu-libri-piu-liberi-fiera-della-piccola-e-media@acculturiam
+ oci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261204T100000
+DTEND;TZID=Europe/Rome:20261204T120000
+SUMMARY:Più libri più liberi: fiera della piccola e media editoria
+LOCATION:La Nuvola (viale Asia 40)
+DESCRIPTION:La festa dei libri indipendenti: centinaia di editori e incontr
+ i in un solo posto. Cinque giorni di libri e incontri con centinaia di edi
+ tori indipendenti. Aperta dalle 10 alle 20. https://plpl.it/
+URL:https://plpl.it/
+CATEGORIES:Incontri e talk
+END:VEVENT
+END:VCALENDAR

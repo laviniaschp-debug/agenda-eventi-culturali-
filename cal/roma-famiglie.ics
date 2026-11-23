@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci Roma · Famiglie
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-27-pinocchia-adolescente-di-legno@acculturiamoci.it
+DTSTAMP:20261123T132153Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Pinocchia\, adolescente di legno
+LOCATION:Teatro India
+DESCRIPTION:Una rilettura al femminile di Pinocchio\, per ragazzi. https://
+ www.teatrodiroma.net/calendario/
+URL:https://www.teatrodiroma.net/calendario/
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-baby-sound-0-2-anni-e-donne-in-gravidanza@acculturiamoci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261128T170000
+DTEND;TZID=Europe/Rome:20261128T190000
+SUMMARY:Baby sound (0-2 anni e donne in gravidanza)
+LOCATION:Auditorium Parco della Musica · Studio 1
+DESCRIPTION:Incontro musicale di Santa Cecilia per i più piccoli e per chi
+  li aspetta. https://www.auditorium.com/it/
+URL:https://www.auditorium.com/it/
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-pinocchia-adolescente-di-legno@acculturiamoci.it
+DTSTAMP:20261123T132153Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Pinocchia\, adolescente di legno
+LOCATION:Teatro India
+DESCRIPTION:Una rilettura al femminile di Pinocchio\, per ragazzi. https://
+ www.teatrodiroma.net/calendario/
+URL:https://www.teatrodiroma.net/calendario/
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-visita-per-ragazzi-alla-mostra-di-richard-avedon@acculturiam
+ oci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261129T110000
+DTEND;TZID=Europe/Rome:20261129T130000
+SUMMARY:Visita per ragazzi alla mostra di Richard Avedon
+LOCATION:Palazzo delle Esposizioni (via Nazionale 194)
+DESCRIPTION:Visita guidata pensata per ragazzi. https://www.palazzoesposizi
+ oniroma.it/
+URL:https://www.palazzoesposizioniroma.it/
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-cercasi-elfo-lettura-e-laboratorio@acculturiamoci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261129T163000
+DTEND;TZID=Europe/Rome:20261129T183000
+SUMMARY:Cercasi Elfo: lettura e laboratorio
+LOCATION:Una Montagnola di Storie (via Fonte Buono 33)
+DESCRIPTION:Lettura e laboratorio con l'illustratrice Cecilia Fallongo. Su 
+ prenotazione. https://www.romatoday.it/eventi/libridine-festival-diffuso-l
+ ibrerie-21-29-novembre-2026.html
+URL:https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-
+ 29-novembre-2026.html
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-pinocchia-adolescente-di-legno@acculturiamoci.it
+DTSTAMP:20261123T132153Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Pinocchia\, adolescente di legno
+LOCATION:Teatro India
+DESCRIPTION:Una rilettura al femminile di Pinocchio\, per ragazzi. https://
+ www.teatrodiroma.net/calendario/
+URL:https://www.teatrodiroma.net/calendario/
+CATEGORIES:Famiglie
+END:VEVENT
+END:VCALENDAR

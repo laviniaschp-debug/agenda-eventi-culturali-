@@ -1,0 +1,99 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci Roma · Classica e chiese
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-23-kronos-quartet@acculturiamoci.it
+DTSTAMP:20261123T132153Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Kronos Quartet
+LOCATION:Auditorium Parco della Musica
+DESCRIPTION:Il quartetto d'archi che ha cambiato la musica contemporanea\, 
+ dal vivo all'Auditorium. https://www.auditorium.com/it/
+URL:https://www.auditorium.com/it/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-sol-gabetta-e-bertrand-chamayou@acculturiamoci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261125T200000
+DTEND;TZID=Europe/Rome:20261125T220000
+SUMMARY:Sol Gabetta e Bertrand Chamayou
+LOCATION:Auditorium Parco della Musica · Sala Sinopoli
+DESCRIPTION:Violoncello e pianoforte per la stagione da camera di Santa Cec
+ ilia. https://www.auditorium.com/it/
+URL:https://www.auditorium.com/it/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-daniel-harding-dirige-brahms-e-strauss@acculturiamoci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261126T193000
+DTEND;TZID=Europe/Rome:20261126T213000
+SUMMARY:Daniel Harding dirige Brahms e Strauss
+LOCATION:Auditorium Parco della Musica · Sala Santa Cecilia
+DESCRIPTION:Stagione sinfonica di Santa Cecilia: Don Juan\, gli Ultimi quat
+ tro Lieder e Brahms. https://www.auditorium.com/it/
+URL:https://www.auditorium.com/it/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-daniel-harding-dirige-brahms-e-strauss@acculturiamoci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261127T200000
+DTEND;TZID=Europe/Rome:20261127T220000
+SUMMARY:Daniel Harding dirige Brahms e Strauss
+LOCATION:Auditorium Parco della Musica · Sala Santa Cecilia
+DESCRIPTION:Stagione sinfonica di Santa Cecilia: Don Juan\, gli Ultimi quat
+ tro Lieder e Brahms. https://www.auditorium.com/it/
+URL:https://www.auditorium.com/it/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-masterclass-i-segreti-della-tosca@acculturiamoci.it
+DTSTAMP:20261123T132153Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Masterclass: i segreti della Tosca
+LOCATION:Campidoglio\, Sala della Promoteca
+DESCRIPTION:Una masterclass per scoprire l'opera di Puccini da dentro. http
+ s://www.romatoday.it/eventi/
+URL:https://www.romatoday.it/eventi/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-daniel-harding-dirige-brahms-e-strauss@acculturiamoci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:Daniel Harding dirige Brahms e Strauss
+LOCATION:Auditorium Parco della Musica · Sala Santa Cecilia
+DESCRIPTION:Stagione sinfonica di Santa Cecilia: Don Juan\, gli Ultimi quat
+ tro Lieder e Brahms. https://www.auditorium.com/it/
+URL:https://www.auditorium.com/it/
+CATEGORIES:Classica e chiese
+END:VEVENT
+END:VCALENDAR

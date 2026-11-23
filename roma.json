@@ -1,0 +1,1377 @@
+{
+ "city": "roma",
+ "updated": "2026-11-23T14:30:00+01:00",
+ "range": [
+  "2026-11-23",
+  "2026-12-03"
+ ],
+ "events": [
+  {
+   "date": "2026-11-23",
+   "time": "18:30",
+   "title": "Guido Vitiello: L'affaire Tortora",
+   "venue": "Feltrinelli Largo di Torre Argentina",
+   "cat": "talk",
+   "desc": "Presentazione del libro sul caso Tortora, in dialogo con Alessandro Barbano e Vittorio Pizzuto.",
+   "url": "https://www.lafeltrinelli.it/punto-vendita/roma/ms-roma-argentina/555",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r000",
+   "key": "2026-11-23-guido-vitiello-l-affaire-tortora",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.8955,
+    12.4767
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-11-23",
+   "time": "18:30",
+   "title": "Silvio Raffo: L'ombra gemella",
+   "venue": "Libreria Samarcanda (via Giambattista Bassani 11)",
+   "cat": "talk",
+   "desc": "Presentazione del libro, per il festival delle librerie Libridine.",
+   "url": "https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-29-novembre-2026.html",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "r001",
+   "key": "2026-11-23-silvio-raffo-l-ombra-gemella",
+   "moods": [
+    "pensare"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "time": "",
+   "title": "Kronos Quartet",
+   "venue": "Auditorium Parco della Musica",
+   "cat": "classica",
+   "desc": "Il quartetto d'archi che ha cambiato la musica contemporanea, dal vivo all'Auditorium.",
+   "url": "https://www.auditorium.com/it/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r002",
+   "key": "2026-11-23-kronos-quartet",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.929,
+    12.474
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "18:30",
+   "title": "Presentazione del volume \"Francesca Tulli\"",
+   "venue": "Palazzo delle Esposizioni (via Nazionale 194)",
+   "cat": "storia",
+   "desc": "Incontro sull'artista con Daniela Lancioni, Giulia Del Papa, Francesca Pietracci, Massimo Scaringella e Jonathan Turner.",
+   "url": "https://www.palazzoesposizioniroma.it/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r003",
+   "key": "2026-11-24-presentazione-del-volume-francesca-tulli",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.8995,
+    12.49
+   ],
+   "zona": "Esquilino · Monti · San Lorenzo"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "",
+   "title": "Otello",
+   "venue": "Teatro Argentina",
+   "cat": "teatro",
+   "desc": "Shakespeare ambientato in un Sud coloniale, nel cartellone del Teatro di Roma. Ultime repliche, fino al 29 novembre.",
+   "url": "https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-argentina/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r004",
+   "key": "2026-11-24-otello",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8955,
+    12.4762
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "",
+   "title": "Voci dal silenzio",
+   "venue": "Teatro Valle",
+   "cat": "teatro",
+   "desc": "Serata al Teatro Valle, casa della nuova drammaturgia.",
+   "url": "https://www.teatrodiroma.net/calendario/",
+   "free": null,
+   "tags": [],
+   "verify": true,
+   "id": "r005",
+   "key": "2026-11-24-voci-dal-silenzio",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8985,
+    12.475
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "17:30",
+   "title": "Monica Cristina Storini: Leggere Deledda",
+   "venue": "Mondadori Bookstore (piazza Vittorio Emanuele 108)",
+   "cat": "talk",
+   "desc": "Incontro sulla scrittrice premio Nobel, per Libridine.",
+   "url": "https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-29-novembre-2026.html",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "r006",
+   "key": "2026-11-25-monica-cristina-storini-leggere-deledda",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.8946,
+    12.5045
+   ],
+   "zona": "Esquilino · Monti · San Lorenzo"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "18:00",
+   "title": "Andrea Scarpa: Mettetevi comodi (il libro-intervista a Renzo Arbore)",
+   "venue": "Feltrinelli Piazza Pio XI",
+   "cat": "talk",
+   "desc": "Presentazione del libro-intervista a Renzo Arbore, per Libridine.",
+   "url": "https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-29-novembre-2026.html",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "r007",
+   "key": "2026-11-25-andrea-scarpa-mettetevi-comodi-il-libro-intervis",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.9,
+    12.444
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "18:00",
+   "title": "Nicola Lagioia: Santa Barbara",
+   "venue": "Mondadori Bookstore EUR (viale Europa 88)",
+   "cat": "talk",
+   "desc": "Il nuovo romanzo corale di Nicola Lagioia, presentato dall'autore. Per Libridine, ingresso libero.",
+   "url": "https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-29-novembre-2026.html",
+   "free": true,
+   "tags": [
+    "imperdibile"
+   ],
+   "verify": false,
+   "why": "Lagioia racconta il suo nuovo romanzo corale: una serata da lettori veri.",
+   "id": "r008",
+   "key": "2026-11-25-nicola-lagioia-santa-barbara",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.832,
+    12.472
+   ],
+   "zona": "EUR e sud"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "18:30",
+   "title": "Maurizio Massari: I dieci anni che hanno sconvolto il mondo",
+   "venue": "Feltrinelli Largo di Torre Argentina",
+   "cat": "geo",
+   "desc": "Presentazione del libro dell'ambasciatore, in dialogo con Pier Ferdinando Casini.",
+   "url": "https://www.lafeltrinelli.it/punto-vendita/roma/ms-roma-argentina/555",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r009",
+   "key": "2026-11-25-maurizio-massari-i-dieci-anni-che-hanno-sconvolt",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.8955,
+    12.4767
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "18:30",
+   "title": "Saperi in fermento: aperitivo di biodiversità",
+   "venue": "Museo di Anatomia Comparata, Sapienza (via Borelli 50)",
+   "cat": "scienza",
+   "desc": "Serata-aperitivo su esseri umani e natura con il direttore del museo Carlo Rondinini. Prenotazione a ridosso dell'evento.",
+   "url": "https://www.oggiroma.it/eventi/spettacoli/saperi-in-fermento-aperitivi-di-biodiversita/95080/",
+   "free": true,
+   "tags": [],
+   "verify": true,
+   "id": "r010",
+   "key": "2026-11-25-saperi-in-fermento-aperitivo-di-biodiversita",
+   "moods": [
+    "gente",
+    "pensare"
+   ],
+   "geo": [
+    41.905,
+    12.516
+   ],
+   "zona": "Esquilino · Monti · San Lorenzo"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "19:00",
+   "title": "Vito Mancuso: Filosofia e scienza per essere umani migliori",
+   "venue": "Aula Odeion, Museo dell'Arte Classica, Sapienza (piazzale Aldo Moro 5)",
+   "cat": "filosofia",
+   "desc": "Per la Giornata mondiale della filosofia: Vito Mancuso con Manuela Di Paola (Nuova Acropoli). Ingresso libero.",
+   "url": "https://www.nuovaacropoli.it/roma-vito-mancuso-in-filosofia-e-scienza-per-essere-umani-migliori",
+   "free": true,
+   "tags": [
+    "imperdibile"
+   ],
+   "verify": false,
+   "why": "Filosofia e scienza insieme, tra i calchi delle statue antiche: come diventare persone migliori.",
+   "id": "r011",
+   "key": "2026-11-25-vito-mancuso-filosofia-e-scienza-per-essere-uman",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.9034,
+    12.5124
+   ],
+   "zona": "Esquilino · Monti · San Lorenzo"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "20:00",
+   "title": "Lezioni di Storia · Gennaro Carillo: La Repubblica di Platone, il potere delle idee",
+   "venue": "Auditorium Parco della Musica · Sala Sinopoli",
+   "cat": "storia",
+   "desc": "Il ciclo \"Il potere dei classici\": Platone e la forza delle idee.",
+   "url": "https://www.auditorium.com/it/rassegne/lezioni-di-storia-2026-2027-il-potere-dei-classici/",
+   "free": false,
+   "tags": [
+    "imperdibile"
+   ],
+   "verify": false,
+   "why": "Platone raccontato come se parlasse di noi, oggi.",
+   "id": "r012",
+   "key": "2026-11-25-lezioni-di-storia-gennaro-carillo-la-repubblica-",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.929,
+    12.474
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "20:00",
+   "title": "Lezioni di ascolto: valvole contro transistor",
+   "venue": "Auditorium Parco della Musica · Studio 3",
+   "cat": "tech",
+   "desc": "Come funziona l'audio che ascoltiamo: lezione divulgativa di Giancarlo Valletta e Giulio Salvioni.",
+   "url": "https://www.auditorium.com/it/rassegne/lezioni-di-ascolto-2026-2027/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r013",
+   "key": "2026-11-25-lezioni-di-ascolto-valvole-contro-transistor",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.929,
+    12.474
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "20:00",
+   "title": "Sol Gabetta e Bertrand Chamayou",
+   "venue": "Auditorium Parco della Musica · Sala Sinopoli",
+   "cat": "classica",
+   "desc": "Violoncello e pianoforte per la stagione da camera di Santa Cecilia.",
+   "url": "https://www.auditorium.com/it/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "r014",
+   "key": "2026-11-25-sol-gabetta-e-bertrand-chamayou",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.929,
+    12.474
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "",
+   "title": "Eugenio in Via Di Gioia",
+   "venue": "Atlantico (viale dell'Oceano Atlantico 271)",
+   "cat": "jazz",
+   "desc": "Concerto della band torinese.",
+   "url": "https://www.romapop.it/cosa-fare-a-roma-questa-settimana-gli-eventi-dal-23-al-29-novembre-2026/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r015",
+   "key": "2026-11-25-eugenio-in-via-di-gioia",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.827,
+    12.48
+   ],
+   "zona": "EUR e sud"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "",
+   "title": "I am the Wind",
+   "venue": "Teatro India",
+   "cat": "teatro",
+   "desc": "Spettacolo della stagione del Teatro di Roma al Teatro India.",
+   "url": "https://www.teatrodiroma.net/calendario/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r016",
+   "key": "2026-11-25-i-am-the-wind",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.869,
+    12.471
+   ],
+   "zona": "Trastevere · Testaccio · Ostiense"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "",
+   "title": "Otello",
+   "venue": "Teatro Argentina",
+   "cat": "teatro",
+   "desc": "Shakespeare ambientato in un Sud coloniale, nel cartellone del Teatro di Roma. Ultime repliche, fino al 29 novembre.",
+   "url": "https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-argentina/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r017",
+   "key": "2026-11-25-otello",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8955,
+    12.4762
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "",
+   "title": "Venerdì 13",
+   "venue": "Teatro Parioli Costanzo",
+   "cat": "teatro",
+   "desc": "Commedia in atto unico tra equivoci e colpi di scena, regia di Roberto Ciufoli.",
+   "url": "https://www.ilparioli.it/events/venerdi-13/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r018",
+   "key": "2026-11-25-venerdi-13",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    41.9262,
+    12.488
+   ],
+   "zona": "Parioli · Villa Borghese · Nomentano"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "17:30",
+   "title": "Stefano Mancuso: La città vivente",
+   "venue": "MAXXI (via Guido Reni 4a)",
+   "cat": "scienza",
+   "desc": "Lectio magistralis: imparare dalla natura per ripensare il futuro delle città.",
+   "url": "https://www.maxxi.art/events/categories/eventi/",
+   "free": null,
+   "tags": [
+    "imperdibile"
+   ],
+   "verify": false,
+   "why": "Il botanico più amato d'Italia spiega cosa le piante possono insegnare alle città.",
+   "id": "r019",
+   "key": "2026-11-26-stefano-mancuso-la-citta-vivente",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.9283,
+    12.4668
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "18:00",
+   "title": "Giovanna Cucè: la storia di Rita Atria",
+   "venue": "Pellicanolibri (via Gattico 1)",
+   "cat": "talk",
+   "desc": "Incontro sulla giovane testimone di giustizia contro la mafia, per Libridine.",
+   "url": "https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-29-novembre-2026.html",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "r020",
+   "key": "2026-11-26-giovanna-cuce-la-storia-di-rita-atria",
+   "moods": [
+    "pensare"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "time": "18:30",
+   "title": "Luiz Valério P. Trindade: social media, odio online ed eredità coloniale",
+   "venue": "Libreria Tra le Righe (viale Gorizia 29)",
+   "cat": "geo",
+   "desc": "Incontro su discorsi d'odio in rete e passato coloniale, per Libridine.",
+   "url": "https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-29-novembre-2026.html",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "r021",
+   "key": "2026-11-26-luiz-valerio-p-trindade-social-media-odio-online",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.92,
+    12.511
+   ],
+   "zona": "Parioli · Villa Borghese · Nomentano"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "19:30",
+   "title": "Daniel Harding dirige Brahms e Strauss",
+   "venue": "Auditorium Parco della Musica · Sala Santa Cecilia",
+   "cat": "classica",
+   "desc": "Stagione sinfonica di Santa Cecilia: Don Juan, gli Ultimi quattro Lieder e Brahms.",
+   "url": "https://www.auditorium.com/it/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "r022",
+   "key": "2026-11-26-daniel-harding-dirige-brahms-e-strauss",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.929,
+    12.474
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "",
+   "title": "I am the Wind",
+   "venue": "Teatro India",
+   "cat": "teatro",
+   "desc": "Spettacolo della stagione del Teatro di Roma al Teatro India.",
+   "url": "https://www.teatrodiroma.net/calendario/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r023",
+   "key": "2026-11-26-i-am-the-wind",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.869,
+    12.471
+   ],
+   "zona": "Trastevere · Testaccio · Ostiense"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "",
+   "title": "Otello",
+   "venue": "Teatro Argentina",
+   "cat": "teatro",
+   "desc": "Shakespeare ambientato in un Sud coloniale, nel cartellone del Teatro di Roma. Ultime repliche, fino al 29 novembre.",
+   "url": "https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-argentina/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r024",
+   "key": "2026-11-26-otello",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8955,
+    12.4762
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "",
+   "title": "Venerdì 13",
+   "venue": "Teatro Parioli Costanzo",
+   "cat": "teatro",
+   "desc": "Commedia in atto unico tra equivoci e colpi di scena, regia di Roberto Ciufoli.",
+   "url": "https://www.ilparioli.it/events/venerdi-13/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r025",
+   "key": "2026-11-26-venerdi-13",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    41.9262,
+    12.488
+   ],
+   "zona": "Parioli · Villa Borghese · Nomentano"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "16:00",
+   "title": "Monica Calcagni: Il mio viaggio al fianco delle donne",
+   "venue": "Spazio Sette (via dei Barbieri 7)",
+   "cat": "salute",
+   "desc": "Una ginecologa racconta il suo lavoro con le donne, per Libridine.",
+   "url": "https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-29-novembre-2026.html",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "r026",
+   "key": "2026-11-27-monica-calcagni-il-mio-viaggio-al-fianco-delle-d",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.8946,
+    12.476
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "18:00",
+   "title": "Marinetti, l'uomo che inventò il futuro (talk + film)",
+   "venue": "MAXXI (via Guido Reni 4a)",
+   "cat": "storia",
+   "desc": "Talk e proiezione sulle intuizioni del Futurismo che parlano ancora al presente.",
+   "url": "https://www.maxxi.art/events/categories/eventi/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r027",
+   "key": "2026-11-27-marinetti-l-uomo-che-invento-il-futuro-talk-film",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.9283,
+    12.4668
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "19:00",
+   "title": "Marco Vannini: Quale uomo, quale Dio",
+   "venue": "Libreria Rotondi (via Merulana 82)",
+   "cat": "filosofia",
+   "desc": "Il filosofo della mistica presenta il suo libro, per Libridine.",
+   "url": "https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-29-novembre-2026.html",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "r028",
+   "key": "2026-11-27-marco-vannini-quale-uomo-quale-dio",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.893,
+    12.502
+   ],
+   "zona": "Esquilino · Monti · San Lorenzo"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "20:00",
+   "title": "Daniel Harding dirige Brahms e Strauss",
+   "venue": "Auditorium Parco della Musica · Sala Santa Cecilia",
+   "cat": "classica",
+   "desc": "Stagione sinfonica di Santa Cecilia: Don Juan, gli Ultimi quattro Lieder e Brahms.",
+   "url": "https://www.auditorium.com/it/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "r029",
+   "key": "2026-11-27-daniel-harding-dirige-brahms-e-strauss",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.929,
+    12.474
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "",
+   "title": "Ditonellapiaga",
+   "venue": "Atlantico (viale dell'Oceano Atlantico 271)",
+   "cat": "jazz",
+   "desc": "Concerto della cantautrice romana.",
+   "url": "https://www.romapop.it/cosa-fare-a-roma-questa-settimana-gli-eventi-dal-23-al-29-novembre-2026/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r030",
+   "key": "2026-11-27-ditonellapiaga",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.827,
+    12.48
+   ],
+   "zona": "EUR e sud"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "",
+   "title": "I am the Wind",
+   "venue": "Teatro India",
+   "cat": "teatro",
+   "desc": "Spettacolo della stagione del Teatro di Roma al Teatro India.",
+   "url": "https://www.teatrodiroma.net/calendario/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r031",
+   "key": "2026-11-27-i-am-the-wind",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.869,
+    12.471
+   ],
+   "zona": "Trastevere · Testaccio · Ostiense"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "",
+   "title": "Masterclass: i segreti della Tosca",
+   "venue": "Campidoglio, Sala della Promoteca",
+   "cat": "classica",
+   "desc": "Una masterclass per scoprire l'opera di Puccini da dentro.",
+   "url": "https://www.romatoday.it/eventi/",
+   "free": null,
+   "tags": [],
+   "verify": true,
+   "id": "r032",
+   "key": "2026-11-27-masterclass-i-segreti-della-tosca",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8933,
+    12.4828
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "",
+   "title": "Otello",
+   "venue": "Teatro Argentina",
+   "cat": "teatro",
+   "desc": "Shakespeare ambientato in un Sud coloniale, nel cartellone del Teatro di Roma. Ultime repliche, fino al 29 novembre.",
+   "url": "https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-argentina/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r033",
+   "key": "2026-11-27-otello",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8955,
+    12.4762
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "",
+   "title": "Pinocchia, adolescente di legno",
+   "venue": "Teatro India",
+   "cat": "famiglie",
+   "desc": "Una rilettura al femminile di Pinocchio, per ragazzi.",
+   "url": "https://www.teatrodiroma.net/calendario/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r034",
+   "key": "2026-11-27-pinocchia-adolescente-di-legno",
+   "moods": [
+    "bambini"
+   ],
+   "geo": [
+    41.869,
+    12.471
+   ],
+   "zona": "Trastevere · Testaccio · Ostiense"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "17:00",
+   "title": "Baby sound (0-2 anni e donne in gravidanza)",
+   "venue": "Auditorium Parco della Musica · Studio 1",
+   "cat": "famiglie",
+   "desc": "Incontro musicale di Santa Cecilia per i più piccoli e per chi li aspetta.",
+   "url": "https://www.auditorium.com/it/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "r035",
+   "key": "2026-11-28-baby-sound-0-2-anni-e-donne-in-gravidanza",
+   "moods": [
+    "bambini"
+   ],
+   "geo": [
+    41.929,
+    12.474
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "18:00",
+   "title": "Daniel Harding dirige Brahms e Strauss",
+   "venue": "Auditorium Parco della Musica · Sala Santa Cecilia",
+   "cat": "classica",
+   "desc": "Stagione sinfonica di Santa Cecilia: Don Juan, gli Ultimi quattro Lieder e Brahms.",
+   "url": "https://www.auditorium.com/it/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "r036",
+   "key": "2026-11-28-daniel-harding-dirige-brahms-e-strauss",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.929,
+    12.474
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "18:00",
+   "title": "La buena letra di Celia Rico Clavellino (Scoprir)",
+   "venue": "Casa del Cinema · Sala Cinecittà",
+   "cat": "cinema",
+   "desc": "Film spagnolo nella mostra del cinema iberoamericano Scoprir.",
+   "url": "https://www.tusciatimes.eu/la-casa-del-cinema-a-roma-ospitera-dal-26-al-28-novembre-2026-scoprir/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r037",
+   "key": "2026-11-28-la-buena-letra-di-celia-rico-clavellino-scoprir",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.9135,
+    12.484
+   ],
+   "zona": "Parioli · Villa Borghese · Nomentano"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "18:00",
+   "title": "Umberto Guidoni: Ascensore per Marte",
+   "venue": "Pellicanolibri (via Gattico 1)",
+   "cat": "scienza",
+   "desc": "L'astronauta racconta il viaggio verso Marte, per Libridine.",
+   "url": "https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-29-novembre-2026.html",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "r038",
+   "key": "2026-11-28-umberto-guidoni-ascensore-per-marte",
+   "moods": [
+    "pensare"
+   ]
+  },
+  {
+   "date": "2026-11-28",
+   "time": "18:30",
+   "title": "Lorenzo Pinna: Cento anni in compagnia dell'atomo",
+   "venue": "Libreria Equilibri",
+   "cat": "scienza",
+   "desc": "Lo storico autore di Quark racconta un secolo di fisica atomica, per Libridine.",
+   "url": "https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-29-novembre-2026.html",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "r039",
+   "key": "2026-11-28-lorenzo-pinna-cento-anni-in-compagnia-dell-atomo",
+   "moods": [
+    "pensare"
+   ]
+  },
+  {
+   "date": "2026-11-28",
+   "time": "19:00",
+   "title": "Massimo Staich: Con la febbre tra le ali",
+   "venue": "Spazio Rossellini (via della Vasca Navale 58)",
+   "cat": "teatro",
+   "desc": "Incontro condotto da Marina Rippa e Mariateresa Surianello, per i Premi Tuttoteatro.",
+   "url": "https://culture.roma.it/incontri/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r040",
+   "key": "2026-11-28-massimo-staich-con-la-febbre-tra-le-ali",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.854,
+    12.472
+   ],
+   "zona": "Trastevere · Testaccio · Ostiense"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "20:00",
+   "title": "Buenos Aires Tango: música y danza en concierto",
+   "venue": "Auditorium Parco della Musica · Sala Sinopoli",
+   "cat": "jazz",
+   "desc": "Musica e ballo del tango argentino dal vivo.",
+   "url": "https://www.auditorium.com/it/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "r041",
+   "key": "2026-11-28-buenos-aires-tango-musica-y-danza-en-concierto",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.929,
+    12.474
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "",
+   "title": "I am the Wind",
+   "venue": "Teatro India",
+   "cat": "teatro",
+   "desc": "Spettacolo della stagione del Teatro di Roma al Teatro India.",
+   "url": "https://www.teatrodiroma.net/calendario/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r042",
+   "key": "2026-11-28-i-am-the-wind",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.869,
+    12.471
+   ],
+   "zona": "Trastevere · Testaccio · Ostiense"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "",
+   "title": "Otello",
+   "venue": "Teatro Argentina",
+   "cat": "teatro",
+   "desc": "Shakespeare ambientato in un Sud coloniale, nel cartellone del Teatro di Roma. Ultime repliche, fino al 29 novembre.",
+   "url": "https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-argentina/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r043",
+   "key": "2026-11-28-otello",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8955,
+    12.4762
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "",
+   "title": "Pinocchia, adolescente di legno",
+   "venue": "Teatro India",
+   "cat": "famiglie",
+   "desc": "Una rilettura al femminile di Pinocchio, per ragazzi.",
+   "url": "https://www.teatrodiroma.net/calendario/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r044",
+   "key": "2026-11-28-pinocchia-adolescente-di-legno",
+   "moods": [
+    "bambini"
+   ],
+   "geo": [
+    41.869,
+    12.471
+   ],
+   "zona": "Trastevere · Testaccio · Ostiense"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "11:00",
+   "title": "Visita per ragazzi alla mostra di Richard Avedon",
+   "venue": "Palazzo delle Esposizioni (via Nazionale 194)",
+   "cat": "famiglie",
+   "desc": "Visita guidata pensata per ragazzi.",
+   "url": "https://www.palazzoesposizioniroma.it/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r045",
+   "key": "2026-11-29-visita-per-ragazzi-alla-mostra-di-richard-avedon",
+   "moods": [
+    "bambini"
+   ],
+   "geo": [
+    41.8995,
+    12.49
+   ],
+   "zona": "Esquilino · Monti · San Lorenzo"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "16:30",
+   "title": "Cercasi Elfo: lettura e laboratorio",
+   "venue": "Una Montagnola di Storie (via Fonte Buono 33)",
+   "cat": "famiglie",
+   "desc": "Lettura e laboratorio con l'illustratrice Cecilia Fallongo. Su prenotazione.",
+   "url": "https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-29-novembre-2026.html",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "r046",
+   "key": "2026-11-29-cercasi-elfo-lettura-e-laboratorio",
+   "moods": [
+    "bambini",
+    "gente"
+   ],
+   "geo": [
+    41.848,
+    12.495
+   ],
+   "zona": "EUR e sud"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "17:00",
+   "title": "Csaba dalla Zorza: Io sono Adele",
+   "venue": "Mondadori Bookstore EUR (viale Europa 88)",
+   "cat": "talk",
+   "desc": "Presentazione del libro, per Libridine.",
+   "url": "https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-29-novembre-2026.html",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "r047",
+   "key": "2026-11-29-csaba-dalla-zorza-io-sono-adele",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.832,
+    12.472
+   ],
+   "zona": "EUR e sud"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "20:00",
+   "title": "ANOHNI: Wilderness",
+   "venue": "Auditorium Parco della Musica · Sala Santa Cecilia",
+   "cat": "jazz",
+   "desc": "La cantautrice dal vivo con il suo nuovo progetto.",
+   "url": "https://www.auditorium.com/it/",
+   "free": false,
+   "tags": [
+    "imperdibile"
+   ],
+   "verify": false,
+   "why": "Una delle voci più emozionanti della musica di oggi, in una sala da brividi.",
+   "id": "r048",
+   "key": "2026-11-29-anohni-wilderness",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.929,
+    12.474
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "",
+   "title": "I am the Wind",
+   "venue": "Teatro India",
+   "cat": "teatro",
+   "desc": "Spettacolo della stagione del Teatro di Roma al Teatro India.",
+   "url": "https://www.teatrodiroma.net/calendario/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r049",
+   "key": "2026-11-29-i-am-the-wind",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.869,
+    12.471
+   ],
+   "zona": "Trastevere · Testaccio · Ostiense"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "",
+   "title": "Il ballo, reading con Laura Morante ed Eugenia Costantini",
+   "venue": "Teatro Palladium",
+   "cat": "teatro",
+   "desc": "Reading musicale con Antonello D'Onofrio al pianoforte.",
+   "url": "https://www.oggiroma.it/eventi/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r050",
+   "key": "2026-11-29-il-ballo-reading-con-laura-morante-ed-eugenia-co",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.864,
+    12.479
+   ],
+   "zona": "Trastevere · Testaccio · Ostiense"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "",
+   "title": "Lezioni di Storia · Francesca Cenerini: gli Annali di Tacito",
+   "venue": "Auditorium Parco della Musica",
+   "cat": "storia",
+   "desc": "Il potere degli uomini sulle donne, letto attraverso Tacito.",
+   "url": "https://www.auditorium.com/it/rassegne/lezioni-di-storia-2026-2027-il-potere-dei-classici/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r051",
+   "key": "2026-11-29-lezioni-di-storia-francesca-cenerini-gli-annali-",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.929,
+    12.474
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "",
+   "title": "Otello",
+   "venue": "Teatro Argentina",
+   "cat": "teatro",
+   "desc": "Shakespeare ambientato in un Sud coloniale, nel cartellone del Teatro di Roma. Ultime repliche, fino al 29 novembre.",
+   "url": "https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-argentina/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r052",
+   "key": "2026-11-29-otello",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8955,
+    12.4762
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "",
+   "title": "Pinocchia, adolescente di legno",
+   "venue": "Teatro India",
+   "cat": "famiglie",
+   "desc": "Una rilettura al femminile di Pinocchio, per ragazzi.",
+   "url": "https://www.teatrodiroma.net/calendario/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r053",
+   "key": "2026-11-29-pinocchia-adolescente-di-legno",
+   "moods": [
+    "bambini"
+   ],
+   "geo": [
+    41.869,
+    12.471
+   ],
+   "zona": "Trastevere · Testaccio · Ostiense"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "18:30",
+   "title": "Luca Berretta: Nell'ombra del Nilo",
+   "venue": "Feltrinelli Largo di Torre Argentina",
+   "cat": "storia",
+   "desc": "Giambattista Belzoni, l'uomo che scese nella storia: presentazione del libro.",
+   "url": "https://www.lafeltrinelli.it/punto-vendita/roma/ms-roma-argentina/555",
+   "free": null,
+   "tags": [],
+   "verify": true,
+   "id": "r054",
+   "key": "2026-12-02-luca-berretta-nell-ombra-del-nilo",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.8955,
+    12.4767
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "",
+   "title": "Peccato che fosse una sgualdrina",
+   "venue": "Teatro Argentina",
+   "cat": "teatro",
+   "desc": "La tragedia di John Ford nel cartellone del Teatro di Roma (2-13 dicembre).",
+   "url": "https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-argentina/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r055",
+   "key": "2026-12-02-peccato-che-fosse-una-sgualdrina",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8955,
+    12.4762
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "",
+   "title": "Peccato che fosse una sgualdrina",
+   "venue": "Teatro Argentina",
+   "cat": "teatro",
+   "desc": "La tragedia di John Ford nel cartellone del Teatro di Roma (2-13 dicembre).",
+   "url": "https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-argentina/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r056",
+   "key": "2026-12-03-peccato-che-fosse-una-sgualdrina",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8955,
+    12.4762
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "10:00",
+   "title": "Più libri più liberi: fiera della piccola e media editoria",
+   "venue": "La Nuvola (viale Asia 40)",
+   "cat": "talk",
+   "desc": "Cinque giorni di libri e incontri con centinaia di editori indipendenti. Aperta dalle 10 alle 20.",
+   "url": "https://plpl.it/",
+   "free": null,
+   "tags": [
+    "imperdibile"
+   ],
+   "verify": false,
+   "why": "La festa dei libri indipendenti: centinaia di editori e incontri in un solo posto.",
+   "id": "r057",
+   "key": "2026-12-04-piu-libri-piu-liberi-fiera-della-piccola-e-media",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.831,
+    12.4719
+   ],
+   "zona": "EUR e sud"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "10:00",
+   "title": "Più libri più liberi: fiera della piccola e media editoria",
+   "venue": "La Nuvola (viale Asia 40)",
+   "cat": "talk",
+   "desc": "Cinque giorni di libri e incontri con centinaia di editori indipendenti. Aperta dalle 10 alle 20.",
+   "url": "https://plpl.it/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r058",
+   "key": "2026-12-05-piu-libri-piu-liberi-fiera-della-piccola-e-media",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.831,
+    12.4719
+   ],
+   "zona": "EUR e sud"
+  },
+  {
+   "date": "2026-12-06",
+   "time": "10:00",
+   "title": "Più libri più liberi: fiera della piccola e media editoria",
+   "venue": "La Nuvola (viale Asia 40)",
+   "cat": "talk",
+   "desc": "Cinque giorni di libri e incontri con centinaia di editori indipendenti. Aperta dalle 10 alle 20.",
+   "url": "https://plpl.it/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r059",
+   "key": "2026-12-06-piu-libri-piu-liberi-fiera-della-piccola-e-media",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.831,
+    12.4719
+   ],
+   "zona": "EUR e sud"
+  },
+  {
+   "date": "2026-12-07",
+   "time": "10:00",
+   "title": "Più libri più liberi: fiera della piccola e media editoria",
+   "venue": "La Nuvola (viale Asia 40)",
+   "cat": "talk",
+   "desc": "Cinque giorni di libri e incontri con centinaia di editori indipendenti. Aperta dalle 10 alle 20.",
+   "url": "https://plpl.it/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r060",
+   "key": "2026-12-07-piu-libri-piu-liberi-fiera-della-piccola-e-media",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.831,
+    12.4719
+   ],
+   "zona": "EUR e sud"
+  },
+  {
+   "date": "2026-12-08",
+   "time": "10:00",
+   "title": "Più libri più liberi: fiera della piccola e media editoria",
+   "venue": "La Nuvola (viale Asia 40)",
+   "cat": "talk",
+   "desc": "Cinque giorni di libri e incontri con centinaia di editori indipendenti. Aperta dalle 10 alle 20.",
+   "url": "https://plpl.it/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r061",
+   "key": "2026-12-08-piu-libri-piu-liberi-fiera-della-piccola-e-media",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.831,
+    12.4719
+   ],
+   "zona": "EUR e sud"
+  }
+ ],
+ "mostre": []
+}

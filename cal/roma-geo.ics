@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci Roma · Geopolitica
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-25-maurizio-massari-i-dieci-anni-che-hanno-sconvolt@acculturiam
+ oci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261125T183000
+DTEND;TZID=Europe/Rome:20261125T203000
+SUMMARY:Maurizio Massari: I dieci anni che hanno sconvolto il mondo
+LOCATION:Feltrinelli Largo di Torre Argentina
+DESCRIPTION:Presentazione del libro dell'ambasciatore\, in dialogo con Pier
+  Ferdinando Casini. https://www.lafeltrinelli.it/punto-vendita/roma/ms-rom
+ a-argentina/555
+URL:https://www.lafeltrinelli.it/punto-vendita/roma/ms-roma-argentina/555
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-luiz-valerio-p-trindade-social-media-odio-online@acculturiam
+ oci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261126T183000
+DTEND;TZID=Europe/Rome:20261126T203000
+SUMMARY:Luiz Valério P. Trindade: social media\, odio online ed eredità c
+ oloniale
+LOCATION:Libreria Tra le Righe (viale Gorizia 29)
+DESCRIPTION:Incontro su discorsi d'odio in rete e passato coloniale\, per L
+ ibridine. https://www.romatoday.it/eventi/libridine-festival-diffuso-libre
+ rie-21-29-novembre-2026.html
+URL:https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-
+ 29-novembre-2026.html
+CATEGORIES:Geopolitica
+END:VEVENT
+END:VCALENDAR

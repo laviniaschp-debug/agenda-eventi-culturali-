@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci Roma · Scienza
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-25-saperi-in-fermento-aperitivo-di-biodiversita@acculturiamoci.
+ it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261125T183000
+DTEND;TZID=Europe/Rome:20261125T203000
+SUMMARY:Saperi in fermento: aperitivo di biodiversità
+LOCATION:Museo di Anatomia Comparata\, Sapienza (via Borelli 50)
+DESCRIPTION:Serata-aperitivo su esseri umani e natura con il direttore del 
+ museo Carlo Rondinini. Prenotazione a ridosso dell'evento. https://www.ogg
+ iroma.it/eventi/spettacoli/saperi-in-fermento-aperitivi-di-biodiversita/95
+ 080/
+URL:https://www.oggiroma.it/eventi/spettacoli/saperi-in-fermento-aperitivi-
+ di-biodiversita/95080/
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-stefano-mancuso-la-citta-vivente@acculturiamoci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261126T173000
+DTEND;TZID=Europe/Rome:20261126T193000
+SUMMARY:Stefano Mancuso: La città vivente
+LOCATION:MAXXI (via Guido Reni 4a)
+DESCRIPTION:Il botanico più amato d'Italia spiega cosa le piante possono i
+ nsegnare alle città. Lectio magistralis: imparare dalla natura per ripens
+ are il futuro delle città. https://www.maxxi.art/events/categories/eventi
+ /
+URL:https://www.maxxi.art/events/categories/eventi/
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-umberto-guidoni-ascensore-per-marte@acculturiamoci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:Umberto Guidoni: Ascensore per Marte
+LOCATION:Pellicanolibri (via Gattico 1)
+DESCRIPTION:L'astronauta racconta il viaggio verso Marte\, per Libridine. h
+ ttps://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-29-n
+ ovembre-2026.html
+URL:https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-
+ 29-novembre-2026.html
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-lorenzo-pinna-cento-anni-in-compagnia-dell-atomo@acculturiam
+ oci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261128T183000
+DTEND;TZID=Europe/Rome:20261128T203000
+SUMMARY:Lorenzo Pinna: Cento anni in compagnia dell'atomo
+LOCATION:Libreria Equilibri
+DESCRIPTION:Lo storico autore di Quark racconta un secolo di fisica atomica
+ \, per Libridine. https://www.romatoday.it/eventi/libridine-festival-diffu
+ so-librerie-21-29-novembre-2026.html
+URL:https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-
+ 29-novembre-2026.html
+CATEGORIES:Scienza
+END:VEVENT
+END:VCALENDAR

@@ -592,8 +592,8 @@ footer p{margin:0}
 <script>
 const SITE = "acculturiamoci.it";
 const CITIES = [
-  { id:"milano", name:"Milano", live:true },
-  { id:"roma", name:"Roma" }, { id:"torino", name:"Torino" }, { id:"bologna", name:"Bologna" },
+  { id:"milano", name:"Milano", live:true, file:"events.json", cal:"", center:[45.4642, 9.19] },
+  { id:"roma", name:"Roma", live:true, file:"roma.json", cal:"roma-", center:[41.8986, 12.4823] }, { id:"torino", name:"Torino" }, { id:"bologna", name:"Bologna" },
   { id:"firenze", name:"Firenze" }, { id:"napoli", name:"Napoli" }
 ];
 const CATS = {
@@ -662,6 +662,9 @@ const IC = {
 };
 const heartSVG = '<svg viewBox="0 0 24 24"><path d="M12 20s-7.5-4.6-7.5-10.2A4.2 4.2 0 0 1 12 7.3a4.2 4.2 0 0 1 7.5 2.5C19.5 15.4 12 20 12 20z"/></svg>';
 
+const CACHE = {};
+const cityObj = () => CITIES.find(c => c.id === S.city);
+const cityName = () => cityObj().name;
 const S = { showPast:false, city:"milano", day:null, mode:"day", weekStart:null, cats:new Set(), q:"", star:false, mood:null, pr:new Set(), zona:null, view:"list" };
 let DATA = null, BYKEY = {};
 
@@ -746,13 +749,14 @@ function selectedDays(){
 function score(e){ let s = 0; const t = e.tags||[]; if (t.includes("imperdibile")) s += 6; if (e.why) s += 3; if (e.time >= "18:00" && e.time <= "21:30") s += 2; if (e.free === true) s += 1; if (e.verify) s -= 3; return s; }
 function tonight(){
   const t = today(); let day = t, pool = DATA.events.filter(e => e.date === t && e.time && !isPast(e) && e.time >= "17:00");
-  if (pool.length < 3){ day = add(t,1); pool = DATA.events.filter(e => e.date === day && e.time && e.time >= "17:00"); }
-  if (!inRange(day)) { day = DATA.range[0]; pool = DATA.events.filter(e => e.date === day && e.time); }
+  if (pool.length < 3){ const tm = DATA.events.filter(e => e.date === add(t,1) && e.time && e.time >= "17:00"); if (tm.length >= 3 || !pool.length) { day = add(t,1); pool = tm; } }
+  if (pool.length < 3){ day = "next"; pool = DATA.events.filter(e => e.time && !isPast(e) && e.date >= t && e.date <= add(t,4)); }
+  if (day !== "next" && !inRange(day)) { day = DATA.range[0]; pool = DATA.events.filter(e => e.date === day && e.time); }
   pool.sort((a,b) => score(b) - score(a) || a.time.localeCompare(b.time));
   const out = [], used = new Set();
   for (const e of pool){ if (out.length === 3) break; if (!used.has(e.cat)) { out.push(e); used.add(e.cat); } }
   for (const e of pool){ if (out.length === 3) break; if (!out.includes(e)) out.push(e); }
-  return { day, picks: out.sort((a,b) => a.time.localeCompare(b.time)), pool };
+  return { day, picks: out.sort((a,b) => (a.date + a.time).localeCompare(b.date + b.time)), pool };
 }
 function storyDeck(){
   const t = today();
@@ -769,7 +773,7 @@ function storyDeck(){
 /* ---------- rendering ---------- */
 function renderCityDD(){
   $("#cityDD").innerHTML = CITIES.map(c => `<button role="option" data-c="${c.id}" aria-checked="${S.city===c.id}">${c.name}<span>${c.live ? "attiva" : "in arrivo"}</span></button>`).join("");
-  $$("#cityDD button").forEach(b => b.onclick = () => { S.city = b.dataset.c; closeAll(); history.replaceState(null,"","#"+S.city); render(); });
+  $$("#cityDD button").forEach(b => b.onclick = () => { closeAll(); switchCity(b.dataset.c); });
   const c = CITIES.find(c => c.id === S.city); $("#cityName").textContent = c.name; $("#segCityV").textContent = c.name;
 }
 
@@ -797,7 +801,7 @@ function pickCard(e){
   return `<article class="pick" data-cat="${e.cat}" data-open="${esc(e.key)}" tabindex="0" role="button" aria-label="${esc(e.title)}">
     ${icon(e.cat).replace("<svg", '<svg class="bg"')}
     <div class="top"><span class="tm">${esc(e.time)}</span>${heart(e)}</div>
-    <div style="display:flex;gap:6px;flex-wrap:wrap;position:relative">${tagsHTML(e)}</div>
+    <div style="display:flex;gap:6px;flex-wrap:wrap;position:relative">${e.date !== today() ? `<span class="tag">${e.date === add(today(),1) ? "Domani" : DOWL[pd(e.date).getDay()] + " " + pd(e.date).getDate()}</span>` : ""}${tagsHTML(e)}</div>
     <div class="tt">${esc(e.title)}</div>
     ${e.why ? `<div class="why">${esc(e.why)}</div>` : (e.desc ? `<div class="why">${esc(e.desc)}</div>` : "")}
     <div class="vn">${esc(e.venue)}</div>
@@ -810,7 +814,7 @@ function render(){
   const city = CITIES.find(c => c.id === S.city);
   if (!city.live){
     $("#main").innerHTML = `<div class="soonbox"><h2>${esc(city.name)}</h2><p>Stiamo arrivando: stiamo scegliendo i teatri, le librerie e le fondazioni da seguire ogni mattina. Nel frattempo, Milano è già qui.</p><p style="margin-top:20px"><button class="chip" id="toMi">Vai a Milano</button></p></div>`;
-    $("#toMi").onclick = () => { S.city = "milano"; history.replaceState(null,"","#milano"); render(); };
+    $("#toMi").onclick = () => switchCity("milano");
     return;
   }
   if (!DATA){ $("#main").innerHTML = `<p class="empty" style="margin-top:36px">Caricamento del calendario…</p>`; return; }
@@ -822,7 +826,7 @@ function render(){
   const counts = {}; DATA.events.forEach(e => counts[e.cat] = (counts[e.cat]||0)+1);
   $("#segWhenV").textContent = S.mode === "weekend" ? "Weekend" : S.mode === "all" ? "Tutti i giorni" : dayWord(S.day);
   const ton = tonight();
-  const tonLabel = ton.day === t ? "Stasera" : ton.day === add(t,1) ? "Domani sera" : label(ton.day);
+  const tonLabel = ton.day === t ? "Stasera" : ton.day === add(t,1) ? "Domani sera" : ton.day === "next" ? "Nei prossimi giorni" : label(ton.day);
 
   const wdays = [...Array(7)].map((_,i) => add(S.weekStart,i));
   const sel = new Set(selectedDays());
@@ -868,24 +872,24 @@ function render(){
   if (S.zona) act.push(["zona", S.zona]);
   const whenTxt = S.mode === "weekend" ? "nel weekend" : S.mode === "all" ? "nei prossimi giorni" : (S.day === t ? "oggi" : S.day === add(t,1) ? "domani" : label(S.day).toLowerCase());
 
-  const subs = [["tutto","Tutta Milano",null],["imperdibili","Solo imperdibili",null], ...THEMES.filter(th => themeCount(th)).map(th => [th.id, th.label, th])];
+  const subs = [["tutto","Tutta " + cityName(),null],["imperdibili","Solo imperdibili",null], ...THEMES.filter(th => themeCount(th)).map(th => [th.id, th.label, th])];
 
   const todayLeft = upcomingAll.filter(e => e.date === t).length;
   $("#main").innerHTML = `
-    <section class="mihero" aria-label="Sei a Milano">
+    <section class="mihero" aria-label="Sei a ${esc(cityName())}">
       <svg viewBox="0 0 1000 480" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
         <defs><filter id="grain"><feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" stitchTiles="stitch"/><feColorMatrix values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 .2 0"/><feComposite in2="SourceGraphic" operator="in"/></filter></defs>
         <rect width="1000" height="480" fill="#f2b02a"/>
         <g fill="#e89a1c" opacity=".6"><rect y="70" width="1000" height="20"/><rect y="125" width="1000" height="20"/><rect y="180" width="1000" height="20"/></g>
         <circle class="misun" cx="690" cy="235" r="168" fill="#c8372d"/>
-        <text x="38" y="408" font-family="Fredoka, Nunito, Arial Rounded MT Bold, sans-serif" font-weight="600" font-size="226" fill="#fdf3dc" letter-spacing="-6">milano</text>
+        <text x="38" y="408" font-family="Fredoka, Nunito, Arial Rounded MT Bold, sans-serif" font-weight="600" font-size="226" fill="#fdf3dc" letter-spacing="-6">${esc(cityName().toLowerCase())}</text>
         <rect width="1000" height="480" filter="url(#grain)"/>
       </svg>
-      <div class="mipills"><span>📍 Sei a Milano</span>${todayLeft ? `<span><b>${todayLeft}</b> ancora oggi</span>` : ""}</div>
+      <div class="mipills"><span>📍 Sei a ${esc(cityName())}</span>${todayLeft ? `<span><b>${todayLeft}</b> ancora oggi</span>` : ""}</div>
     </section>
 
     <section class="sec" id="stasera">
-      <h3>${tonLabel}, ti consigliamo <small>${ton.day === t ? "tre idee per uscire adesso" : label(ton.day).toLowerCase()}</small></h3>
+      <h3>${tonLabel}, ti consigliamo <small>${ton.day === t ? "tre idee per uscire adesso" : ton.day === "next" ? "tre idee da segnare in agenda" : label(ton.day).toLowerCase()}</small></h3>
       ${ton.picks.length ? `<div class="picks">${ton.picks.map(pickCard).join("")}</div>` : `<p class="empty">Per stasera è tutto: guarda il calendario dei prossimi giorni.</p>`}
     </section>
 
@@ -927,7 +931,7 @@ function render(){
         <span class="vsep"></span>
         <div class="seg2" role="group" aria-label="Vista"><button data-view="list" aria-pressed="${S.view==='list'}">${ic("list")}Lista</button><button data-view="map" aria-pressed="${S.view==='map'}">${ic("map")}Mappa</button></div>
       </div>
-      ${zones.length > 1 ? `<div class="zones" role="group" aria-label="Quartiere"><span class="zl">Zona</span><button class="chip sm" data-zona="" aria-pressed="${!S.zona}">Tutta Milano</button>${zones.map(z => `<button class="chip sm" data-zona="${esc(z)}" aria-pressed="${S.zona===z}">${esc(z)}</button>`).join("")}</div>` : ""}
+      ${zones.length > 1 ? `<div class="zones" role="group" aria-label="Quartiere"><span class="zl">Zona</span><button class="chip sm" data-zona="" aria-pressed="${!S.zona}">Tutta ${esc(cityName())}</button>${zones.map(z => `<button class="chip sm" data-zona="${esc(z)}" aria-pressed="${S.zona===z}">${esc(z)}</button>`).join("")}</div>` : ""}
       <div class="resbar" aria-live="polite"><b>${nRes} ${nRes === 1 ? "evento" : "eventi"} ${whenTxt}</b>${act.map(([k,l]) => `<button class="fchip" data-clear="${esc(k)}" aria-label="Togli il filtro ${esc(l)}">${esc(l)} <span aria-hidden="true">✕</span></button>`).join("")}${act.length ? `<button class="clearall" data-clear="all">Azzera filtri</button>` : ""}</div>
       <div id="detail">${detail}</div>
     </section>
@@ -944,7 +948,7 @@ function render(){
     <section class="sec" id="segui">
       <h3>Segui i temi</h3>
       <p class="lead">Scegli cosa ti appassiona: i nuovi eventi arrivano da soli nel calendario del tuo telefono, aggiornati ogni mattina.</p>
-      <div class="subs">${subs.map(([f,name,th]) => `<div class="sub" ${th ? `data-cat="${th.cats[0]}"` : `style="--pc:${f === "tutto" ? "#f8d8c8" : "#f7e9b5"}"`}><b>${th ? icon(th.icon || th.id) : (f === "tutto" ? "🏙️" : "★")} ${esc(name)}</b><span class="ln"><a href="webcal://${SITE}/cal/${f}.ics">iPhone · Outlook</a><a href="https://calendar.google.com/calendar/r?cid=${encodeURIComponent("webcal://" + SITE + "/cal/" + f + ".ics")}" target="_blank" rel="noopener">Google Calendar</a></span></div>`).join("")}</div>
+      <div class="subs">${subs.map(([f,name,th]) => `<div class="sub" ${th ? `data-cat="${th.cats[0]}"` : `style="--pc:${f === "tutto" ? "#f8d8c8" : "#f7e9b5"}"`}><b>${th ? icon(th.icon || th.id) : (f === "tutto" ? "🏙️" : "★")} ${esc(name)}</b><span class="ln"><a href="webcal://${SITE}/cal/${cityObj().cal}${f}.ics">iPhone · Outlook</a><a href="https://calendar.google.com/calendar/r?cid=${encodeURIComponent("webcal://" + SITE + "/cal/" + cityObj().cal + f + ".ics")}" target="_blank" rel="noopener">Google Calendar</a></span></div>`).join("")}</div>
       <div class="news">
         <div><h4>Il tuo weekend, ogni giovedì.</h4><p>Cinque eventi scelti per il fine settimana, in una mail da leggere in un minuto.</p></div>
         <div><form onsubmit="event.preventDefault();toast('La newsletter parte a breve: intanto segui un tema ✦')"><input type="email" placeholder="La tua email" aria-label="La tua email" disabled><button class="btn dark" type="submit">In arrivo</button></form><p class="note">Intanto seguici su <a href="${IG_URL}" target="_blank" rel="noopener"><b>Instagram</b></a>.</p></div>
@@ -1057,7 +1061,7 @@ document.addEventListener("keydown", e => {
 const compact = (date, time, plusH=0) => { const [y,m,d] = date.split("-").map(Number); const [hh,mm] = time.split(":").map(Number); const x = new Date(y,m-1,d,hh+plusH,mm); return `${x.getFullYear()}${pad(x.getMonth()+1)}${pad(x.getDate())}T${pad(x.getHours())}${pad(x.getMinutes())}00`; };
 function gcalLink(e){
   const dates = e.time ? `${compact(e.date,e.time)}/${compact(e.date,e.time,2)}` : `${e.date.replace(/-/g,"")}/${add(e.date,1).replace(/-/g,"")}`;
-  const p = new URLSearchParams({ action:"TEMPLATE", text:e.title, dates, ctz:"Europe/Rome", location:`${e.venue}, Milano`, details:`${e.why ? e.why + "\n\n" : ""}${e.desc ? e.desc + "\n\n" : ""}${e.url}\n\nda acculturiamoci.it` });
+  const p = new URLSearchParams({ action:"TEMPLATE", text:e.title, dates, ctz:"Europe/Rome", location:`${e.venue}, ${cityName()}`, details:`${e.why ? e.why + "\n\n" : ""}${e.desc ? e.desc + "\n\n" : ""}${e.url}\n\nda acculturiamoci.it` });
   return "https://calendar.google.com/calendar/render?" + p.toString();
 }
 const icsEsc = s => String(s||"").replace(/\\/g,"\\\\").replace(/;/g,"\\;").replace(/,/g,"\\,").replace(/\n/g,"\\n");
@@ -1069,7 +1073,7 @@ function icsText(list){
     L.push("BEGIN:VEVENT", `UID:${e.key}@acculturiamoci.it`, `DTSTAMP:${stamp}`);
     if (e.time) L.push(`DTSTART;TZID=Europe/Rome:${compact(e.date,e.time)}`, `DTEND;TZID=Europe/Rome:${compact(e.date,e.time,2)}`);
     else L.push(`DTSTART;VALUE=DATE:${e.date.replace(/-/g,"")}`, `DTEND;VALUE=DATE:${add(e.date,1).replace(/-/g,"")}`);
-    L.push(`SUMMARY:${icsEsc(e.title)}`, `LOCATION:${icsEsc(e.venue + ", Milano")}`, `DESCRIPTION:${icsEsc([e.why, e.desc, e.url].filter(Boolean).join("\n\n"))}`, `URL:${e.url}`, "END:VEVENT");
+    L.push(`SUMMARY:${icsEsc(e.title)}`, `LOCATION:${icsEsc(e.venue + ", " + cityName())}`, `DESCRIPTION:${icsEsc([e.why, e.desc, e.url].filter(Boolean).join("\n\n"))}`, `URL:${e.url}`, "END:VEVENT");
   });
   L.push("END:VCALENDAR"); return L.join("\r\n");
 }
@@ -1077,9 +1081,9 @@ function downloadICS(list, name){
   const a = document.createElement("a"); a.href = URL.createObjectURL(new Blob([icsText(list)], {type:"text/calendar"})); a.download = name;
   document.body.appendChild(a); a.click(); setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 500);
 }
-const evUrl = e => `https://${SITE}/#e=${encodeURIComponent(e.key)}`;
+const evUrl = e => `https://${SITE}/#${S.city}/e=${encodeURIComponent(e.key)}`;
 const waLink = e => "https://wa.me/?text=" + encodeURIComponent(`Ci andiamo? ${e.title} — ${dayWord(e.date).toLowerCase()}${e.time ? " alle " + e.time : ""}, ${e.venue}. ${evUrl(e)}`);
-const mapsLink = e => "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(`${e.venue}, Milano`);
+const mapsLink = e => "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(`${e.venue}, ${cityName()}`);
 async function shareText(text, url){
   if (navigator.share){ try { await navigator.share({ text, url }); return; } catch(_) { return; } }
   try { await navigator.clipboard.writeText(url ? text + " " + url : text); toast("Link copiato ✦"); } catch(_) { toast("Copia il link dalla barra degli indirizzi"); }
@@ -1120,7 +1124,7 @@ function openSheet(key){
       <p class="fine">Orari, prezzi e prenotazioni: fa fede la pagina dell'organizzatore.</p>
     </div>`;
   $("#scrim").classList.add("open"); sh.classList.add("open"); document.body.classList.add("lock");
-  history.replaceState(null, "", "#e=" + encodeURIComponent(e.key));
+  history.replaceState(null, "", "#" + S.city + "/e=" + encodeURIComponent(e.key));
   $("#shX").onclick = closeSheet;
   $("#shCal").onclick = () => $("#calPick").classList.toggle("open");
   $("#shIcs").onclick = ev => { ev.preventDefault(); downloadICS([e], (e.key || "evento") + ".ics"); };
@@ -1136,7 +1140,7 @@ function openSheet(key){
 function closeSheet(){
   if (!$("#sheet").classList.contains("open")) return;
   $("#sheet").classList.remove("open"); $("#scrim").classList.remove("open"); document.body.classList.remove("lock");
-  history.replaceState(null, "", location.pathname + location.search);
+  history.replaceState(null, "", location.pathname + location.search + "#" + S.city);
   if (S.view !== "map") render();
   if (lastFocus && document.contains(lastFocus)) lastFocus.focus({preventScroll:true});
 }
@@ -1215,7 +1219,7 @@ async function drawMap(list){
   try { await loadLeaflet(); } catch(_) { const m = $("#map"); if (m) m.innerHTML = `<p class="empty" style="margin:20px">La mappa non si carica: controlla la connessione.</p>`; return; }
   const el = $("#map"); if (!el) return;
   if (LMAP) { LMAP.remove(); LMAP = null; }
-  LMAP = L.map(el, { scrollWheelZoom:false, zoomControl:true }).setView([45.4642, 9.19], 13);
+  LMAP = L.map(el, { scrollWheelZoom:false, zoomControl:true }).setView(cityObj().center, 13);
   L.tileLayer("https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png", { maxZoom:19, attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>' }).addTo(LMAP);
   const groups = {};
   list.filter(e => e.geo).forEach(e => { const k = e.geo.join(","); (groups[k] = groups[k] || []).push(e); });
@@ -1262,16 +1266,35 @@ $("#q").addEventListener("input", e => { S.q = e.target.value.trim().toLowerCase
 $("#q").addEventListener("keydown", e => { if (e.key === "Enter") toDetail(); });
 $("#goBtn").onclick = () => toDetail();
 
-async function load(){
-  const h = decodeURIComponent(location.hash.replace("#",""));
-  if (CITIES.some(c => c.id === h)) S.city = h;
-  render();
-  try { const r = await fetch("events.json", {cache:"no-store"}); if (!r.ok) throw 0; DATA = await r.json(); }
+function resetFilters(){ S.cats.clear(); S.mood = null; S.pr.clear(); S.star = false; S.q = ""; S.zona = null; S.showPast = false; const q = $("#q"); if (q) q.value = ""; }
+async function loadCity(id){
+  if (CACHE[id]) return CACHE[id];
+  const c = CITIES.find(x => x.id === id);
+  const r = await fetch(c.file, {cache:"no-store"}); if (!r.ok) throw 0;
+  const d = await r.json();
+  d.events.forEach((e,i) => { if (!e.key) e.key = e.id || ("k" + i); e.tags = e.tags || []; });
+  return (CACHE[id] = d);
+}
+async function switchCity(id, openKey){
+  const c = CITIES.find(x => x.id === id) || CITIES[0];
+  S.city = c.id; resetFilters(); history.replaceState(null, "", "#" + c.id);
+  if (!c.live){ DATA = null; render(); return; }
+  DATA = null; BYKEY = {}; render();
+  try { DATA = await loadCity(c.id); }
   catch(e){ $("#main").innerHTML = `<p class="empty" style="margin-top:36px">Non riesco a caricare il calendario: ricarica la pagina.</p>`; return; }
-  DATA.events.forEach((e,i) => { if (!e.key) e.key = e.id || ("k" + i); e.tags = e.tags || []; BYKEY[e.key] = e; });
-  const t = today(); S.day = inRange(t) ? t : DATA.range[0]; S.weekStart = S.day;
+  DATA.events.forEach(e => BYKEY[e.key] = e);
+  const t = today(); S.day = inRange(t) ? t : DATA.range[0]; S.weekStart = S.day; S.mode = "day";
   render();
-  if (h.startsWith("e=")) openSheet(h.slice(2));
+  if (openKey) openSheet(openKey);
+}
+async function load(){
+  // #roma, #roma/e=KEY, #e=KEY (vecchi link: Milano)
+  const h = decodeURIComponent(location.hash.replace("#",""));
+  let city = "milano", key = null;
+  const m = h.match(/^([a-z]+)(?:\/e=(.+))?$/);
+  if (m && CITIES.some(c => c.id === m[1])){ city = m[1]; key = m[2] || null; }
+  else if (h.startsWith("e=")) key = h.slice(2);
+  await switchCity(city, key);
 }
 setInterval(() => { if (DATA && !$("#sheet").classList.contains("open") && !$("#stories").classList.contains("open") && S.view !== "map") render(); }, 5*60*1000);
 const fabObs = "IntersectionObserver" in window ? new IntersectionObserver(([en]) => $("#fab").classList.toggle("show", !en.isIntersecting)) : null;

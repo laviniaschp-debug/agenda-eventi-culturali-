@@ -1,0 +1,192 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci Roma · Incontri e talk
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-23-guido-vitiello-l-affaire-tortora@acculturiamoci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261123T183000
+DTEND;TZID=Europe/Rome:20261123T203000
+SUMMARY:Guido Vitiello: L'affaire Tortora
+LOCATION:Feltrinelli Largo di Torre Argentina
+DESCRIPTION:Presentazione del libro sul caso Tortora\, in dialogo con Aless
+ andro Barbano e Vittorio Pizzuto. https://www.lafeltrinelli.it/punto-vendi
+ ta/roma/ms-roma-argentina/555
+URL:https://www.lafeltrinelli.it/punto-vendita/roma/ms-roma-argentina/555
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-silvio-raffo-l-ombra-gemella@acculturiamoci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261123T183000
+DTEND;TZID=Europe/Rome:20261123T203000
+SUMMARY:Silvio Raffo: L'ombra gemella
+LOCATION:Libreria Samarcanda (via Giambattista Bassani 11)
+DESCRIPTION:Presentazione del libro\, per il festival delle librerie Librid
+ ine. https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-2
+ 1-29-novembre-2026.html
+URL:https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-
+ 29-novembre-2026.html
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-monica-cristina-storini-leggere-deledda@acculturiamoci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261125T173000
+DTEND;TZID=Europe/Rome:20261125T193000
+SUMMARY:Monica Cristina Storini: Leggere Deledda
+LOCATION:Mondadori Bookstore (piazza Vittorio Emanuele 108)
+DESCRIPTION:Incontro sulla scrittrice premio Nobel\, per Libridine. https:/
+ /www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-29-novembr
+ e-2026.html
+URL:https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-
+ 29-novembre-2026.html
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-andrea-scarpa-mettetevi-comodi-il-libro-intervis@acculturiam
+ oci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261125T180000
+DTEND;TZID=Europe/Rome:20261125T200000
+SUMMARY:Andrea Scarpa: Mettetevi comodi (il libro-intervista a Renzo Arbore
+ )
+LOCATION:Feltrinelli Piazza Pio XI
+DESCRIPTION:Presentazione del libro-intervista a Renzo Arbore\, per Libridi
+ ne. https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21
+ -29-novembre-2026.html
+URL:https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-
+ 29-novembre-2026.html
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-nicola-lagioia-santa-barbara@acculturiamoci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261125T180000
+DTEND;TZID=Europe/Rome:20261125T200000
+SUMMARY:Nicola Lagioia: Santa Barbara
+LOCATION:Mondadori Bookstore EUR (viale Europa 88)
+DESCRIPTION:Lagioia racconta il suo nuovo romanzo corale: una serata da let
+ tori veri. Il nuovo romanzo corale di Nicola Lagioia\, presentato dall'aut
+ ore. Per Libridine\, ingresso libero. https://www.romatoday.it/eventi/libr
+ idine-festival-diffuso-librerie-21-29-novembre-2026.html
+URL:https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-
+ 29-novembre-2026.html
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-giovanna-cuce-la-storia-di-rita-atria@acculturiamoci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261126T180000
+DTEND;TZID=Europe/Rome:20261126T200000
+SUMMARY:Giovanna Cucè: la storia di Rita Atria
+LOCATION:Pellicanolibri (via Gattico 1)
+DESCRIPTION:Incontro sulla giovane testimone di giustizia contro la mafia\,
+  per Libridine. https://www.romatoday.it/eventi/libridine-festival-diffuso
+ -librerie-21-29-novembre-2026.html
+URL:https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-
+ 29-novembre-2026.html
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-csaba-dalla-zorza-io-sono-adele@acculturiamoci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261129T170000
+DTEND;TZID=Europe/Rome:20261129T190000
+SUMMARY:Csaba dalla Zorza: Io sono Adele
+LOCATION:Mondadori Bookstore EUR (viale Europa 88)
+DESCRIPTION:Presentazione del libro\, per Libridine. https://www.romatoday.
+ it/eventi/libridine-festival-diffuso-librerie-21-29-novembre-2026.html
+URL:https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-
+ 29-novembre-2026.html
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-piu-libri-piu-liberi-fiera-della-piccola-e-media@acculturiam
+ oci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261204T100000
+DTEND;TZID=Europe/Rome:20261204T120000
+SUMMARY:Più libri più liberi: fiera della piccola e media editoria
+LOCATION:La Nuvola (viale Asia 40)
+DESCRIPTION:La festa dei libri indipendenti: centinaia di editori e incontr
+ i in un solo posto. Cinque giorni di libri e incontri con centinaia di edi
+ tori indipendenti. Aperta dalle 10 alle 20. https://plpl.it/
+URL:https://plpl.it/
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-piu-libri-piu-liberi-fiera-della-piccola-e-media@acculturiam
+ oci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261205T100000
+DTEND;TZID=Europe/Rome:20261205T120000
+SUMMARY:Più libri più liberi: fiera della piccola e media editoria
+LOCATION:La Nuvola (viale Asia 40)
+DESCRIPTION:Cinque giorni di libri e incontri con centinaia di editori indi
+ pendenti. Aperta dalle 10 alle 20. https://plpl.it/
+URL:https://plpl.it/
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-piu-libri-piu-liberi-fiera-della-piccola-e-media@acculturiam
+ oci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261206T100000
+DTEND;TZID=Europe/Rome:20261206T120000
+SUMMARY:Più libri più liberi: fiera della piccola e media editoria
+LOCATION:La Nuvola (viale Asia 40)
+DESCRIPTION:Cinque giorni di libri e incontri con centinaia di editori indi
+ pendenti. Aperta dalle 10 alle 20. https://plpl.it/
+URL:https://plpl.it/
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-piu-libri-piu-liberi-fiera-della-piccola-e-media@acculturiam
+ oci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261207T100000
+DTEND;TZID=Europe/Rome:20261207T120000
+SUMMARY:Più libri più liberi: fiera della piccola e media editoria
+LOCATION:La Nuvola (viale Asia 40)
+DESCRIPTION:Cinque giorni di libri e incontri con centinaia di editori indi
+ pendenti. Aperta dalle 10 alle 20. https://plpl.it/
+URL:https://plpl.it/
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-piu-libri-piu-liberi-fiera-della-piccola-e-media@acculturiam
+ oci.it
+DTSTAMP:20261123T132153Z
+DTSTART;TZID=Europe/Rome:20261208T100000
+DTEND;TZID=Europe/Rome:20261208T120000
+SUMMARY:Più libri più liberi: fiera della piccola e media editoria
+LOCATION:La Nuvola (viale Asia 40)
+DESCRIPTION:Cinque giorni di libri e incontri con centinaia di editori indi
+ pendenti. Aperta dalle 10 alle 20. https://plpl.it/
+URL:https://plpl.it/
+CATEGORIES:Incontri e talk
+END:VEVENT
+END:VCALENDAR
