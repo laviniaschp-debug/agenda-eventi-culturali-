@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-23-guido-vitiello-l-affaire-tortora@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261123T183000
 DTEND;TZID=Europe/Rome:20261123T203000
 SUMMARY:Guido Vitiello: L'affaire Tortora
@@ -39,7 +39,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-silvio-raffo-l-ombra-gemella@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261123T183000
 DTEND;TZID=Europe/Rome:20261123T203000
 SUMMARY:Silvio Raffo: L'ombra gemella
@@ -53,7 +53,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-kronos-quartet@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Kronos Quartet
@@ -64,8 +64,21 @@ URL:https://www.auditorium.com/it/
 CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-24-un-americano-a-teheran@acculturiamoci.it
+DTSTAMP:20261123T134825Z
+DTSTART;TZID=Europe/Rome:20261124T170000
+DTEND;TZID=Europe/Rome:20261124T190000
+SUMMARY:Un americano a Teheran
+LOCATION:Centro Studi Americani (via Michelangelo Caetani 32)
+DESCRIPTION:Presentazione del libro di Stefano Cacciaguerra Ranghieri con l
+ 'ambasciatore Maurizio Serra e lo storico Gerardo Nicolosi. https://centro
+ studiamericani.org/event/un-americano-a-tehran/
+URL:https://centrostudiamericani.org/event/un-americano-a-tehran/
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-24-presentazione-del-volume-francesca-tulli@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261124T183000
 DTEND;TZID=Europe/Rome:20261124T203000
 SUMMARY:Presentazione del volume "Francesca Tulli"
@@ -78,7 +91,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-otello@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Otello
@@ -92,8 +105,27 @@ URL:https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-20
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-24-ri-generare-con-creativita-forum-nazionale-sulla@acculturiam
+ oci.it
+DTSTAMP:20261123T134825Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Ri-generare con creatività: Forum nazionale sulla rigenerazione ur
+ bana
+LOCATION:Ex Mattatoio di Testaccio (piazza Orazio Giustiniani 4)
+DESCRIPTION:Cinque giorni di incontri tra architetti\, artisti\, curatori e
+  amministratori su come la cultura trasforma le città. Ingresso gratuito.
+  https://www.romaedintorninotizie.it/notizie-dalla-rete/roma-al-via-il-for
+ um-nazionale-sulla-rigenerazione-urbana-cinque-giorni-di-incontri-tra-cult
+ ura-arte-e-trasformazione-delle-citta/
+URL:https://www.romaedintorninotizie.it/notizie-dalla-rete/roma-al-via-il-f
+ orum-nazionale-sulla-rigenerazione-urbana-cinque-giorni-di-incontri-tra-cu
+ ltura-arte-e-trasformazione-delle-citta/
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-24-voci-dal-silenzio@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Voci dal silenzio
@@ -104,8 +136,25 @@ URL:https://www.teatrodiroma.net/calendario/
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-25-sartre-e-rossanda-una-ingombrante-intransigenza@acculturiamo
+ ci.it
+DTSTAMP:20261123T134825Z
+DTSTART;TZID=Europe/Rome:20261125T163000
+DTEND;TZID=Europe/Rome:20261125T183000
+SUMMARY:Sartre e Rossanda: una ingombrante intransigenza
+LOCATION:Ex Mattatoio di Testaccio (piazza Orazio Giustiniani 4) · Padigli
+ one 9a
+DESCRIPTION:Presentazione del libro con Luciana Castellina\, Paola Cattani\
+ , Filippo La Porta e la curatrice Sandra Tedoni. https://www.mattatoioroma
+ .it/evento/presentazione-del-libro-sartre-e-rossanda-una-ingombrante-intra
+ nsigenza
+URL:https://www.mattatoioroma.it/evento/presentazione-del-libro-sartre-e-ro
+ ssanda-una-ingombrante-intransigenza
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-25-monica-cristina-storini-leggere-deledda@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261125T173000
 DTEND;TZID=Europe/Rome:20261125T193000
 SUMMARY:Monica Cristina Storini: Leggere Deledda
@@ -120,7 +169,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-andrea-scarpa-mettetevi-comodi-il-libro-intervis@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261125T180000
 DTEND;TZID=Europe/Rome:20261125T200000
 SUMMARY:Andrea Scarpa: Mettetevi comodi (il libro-intervista a Renzo Arbore
@@ -135,7 +184,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-nicola-lagioia-santa-barbara@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261125T180000
 DTEND;TZID=Europe/Rome:20261125T200000
 SUMMARY:Nicola Lagioia: Santa Barbara
@@ -151,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-maurizio-massari-i-dieci-anni-che-hanno-sconvolt@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261125T183000
 DTEND;TZID=Europe/Rome:20261125T203000
 SUMMARY:Maurizio Massari: I dieci anni che hanno sconvolto il mondo
@@ -165,7 +214,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-saperi-in-fermento-aperitivo-di-biodiversita@acculturiamoci.
  it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261125T183000
 DTEND;TZID=Europe/Rome:20261125T203000
 SUMMARY:Saperi in fermento: aperitivo di biodiversità
@@ -181,7 +230,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-vito-mancuso-filosofia-e-scienza-per-essere-uman@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261125T190000
 DTEND;TZID=Europe/Rome:20261125T210000
 SUMMARY:Vito Mancuso: Filosofia e scienza per essere umani migliori
@@ -199,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-lezioni-di-storia-gennaro-carillo-la-repubblica-@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261125T200000
 DTEND;TZID=Europe/Rome:20261125T220000
 SUMMARY:Lezioni di Storia · Gennaro Carillo: La Repubblica di Platone\, il
@@ -215,7 +264,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-lezioni-di-ascolto-valvole-contro-transistor@acculturiamoci.
  it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261125T200000
 DTEND;TZID=Europe/Rome:20261125T220000
 SUMMARY:Lezioni di ascolto: valvole contro transistor
@@ -228,7 +277,7 @@ CATEGORIES:Tech e digitale
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-sol-gabetta-e-bertrand-chamayou@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261125T200000
 DTEND;TZID=Europe/Rome:20261125T220000
 SUMMARY:Sol Gabetta e Bertrand Chamayou
@@ -240,7 +289,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-eugenio-in-via-di-gioia@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Eugenio in Via Di Gioia
@@ -253,7 +302,7 @@ CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-i-am-the-wind@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:I am the Wind
@@ -265,7 +314,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-otello@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Otello
@@ -279,8 +328,27 @@ URL:https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-20
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-25-ri-generare-con-creativita-forum-nazionale-sulla@acculturiam
+ oci.it
+DTSTAMP:20261123T134825Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Ri-generare con creatività: Forum nazionale sulla rigenerazione ur
+ bana
+LOCATION:Ex Mattatoio di Testaccio (piazza Orazio Giustiniani 4)
+DESCRIPTION:Cinque giorni di incontri tra architetti\, artisti\, curatori e
+  amministratori su come la cultura trasforma le città. Ingresso gratuito.
+  https://www.romaedintorninotizie.it/notizie-dalla-rete/roma-al-via-il-for
+ um-nazionale-sulla-rigenerazione-urbana-cinque-giorni-di-incontri-tra-cult
+ ura-arte-e-trasformazione-delle-citta/
+URL:https://www.romaedintorninotizie.it/notizie-dalla-rete/roma-al-via-il-f
+ orum-nazionale-sulla-rigenerazione-urbana-cinque-giorni-di-incontri-tra-cu
+ ltura-arte-e-trasformazione-delle-citta/
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-25-venerdi-13@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Venerdì 13
@@ -292,7 +360,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-stefano-mancuso-la-citta-vivente@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261126T173000
 DTEND;TZID=Europe/Rome:20261126T193000
 SUMMARY:Stefano Mancuso: La città vivente
@@ -306,7 +374,7 @@ CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-giovanna-cuce-la-storia-di-rita-atria@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261126T180000
 DTEND;TZID=Europe/Rome:20261126T200000
 SUMMARY:Giovanna Cucè: la storia di Rita Atria
@@ -321,7 +389,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-luiz-valerio-p-trindade-social-media-odio-online@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261126T183000
 DTEND;TZID=Europe/Rome:20261126T203000
 SUMMARY:Luiz Valério P. Trindade: social media\, odio online ed eredità c
@@ -336,7 +404,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-daniel-harding-dirige-brahms-e-strauss@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261126T193000
 DTEND;TZID=Europe/Rome:20261126T213000
 SUMMARY:Daniel Harding dirige Brahms e Strauss
@@ -348,7 +416,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-i-am-the-wind@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:I am the Wind
@@ -360,7 +428,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-otello@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Otello
@@ -374,8 +442,27 @@ URL:https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-20
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-26-ri-generare-con-creativita-forum-nazionale-sulla@acculturiam
+ oci.it
+DTSTAMP:20261123T134825Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Ri-generare con creatività: Forum nazionale sulla rigenerazione ur
+ bana
+LOCATION:Ex Mattatoio di Testaccio (piazza Orazio Giustiniani 4)
+DESCRIPTION:Cinque giorni di incontri tra architetti\, artisti\, curatori e
+  amministratori su come la cultura trasforma le città. Ingresso gratuito.
+  https://www.romaedintorninotizie.it/notizie-dalla-rete/roma-al-via-il-for
+ um-nazionale-sulla-rigenerazione-urbana-cinque-giorni-di-incontri-tra-cult
+ ura-arte-e-trasformazione-delle-citta/
+URL:https://www.romaedintorninotizie.it/notizie-dalla-rete/roma-al-via-il-f
+ orum-nazionale-sulla-rigenerazione-urbana-cinque-giorni-di-incontri-tra-cu
+ ltura-arte-e-trasformazione-delle-citta/
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-26-venerdi-13@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Venerdì 13
@@ -388,7 +475,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-monica-calcagni-il-mio-viaggio-al-fianco-delle-d@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261127T160000
 DTEND;TZID=Europe/Rome:20261127T180000
 SUMMARY:Monica Calcagni: Il mio viaggio al fianco delle donne
@@ -403,7 +490,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-marinetti-l-uomo-che-invento-il-futuro-talk-film@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261127T180000
 DTEND;TZID=Europe/Rome:20261127T200000
 SUMMARY:Marinetti\, l'uomo che inventò il futuro (talk + film)
@@ -415,7 +502,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-marco-vannini-quale-uomo-quale-dio@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261127T190000
 DTEND;TZID=Europe/Rome:20261127T210000
 SUMMARY:Marco Vannini: Quale uomo\, quale Dio
@@ -428,8 +515,21 @@ URL:https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-
 CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-sotto-le-stelle-del-jazz-the-scoop-jazz-band@acculturiamoci.
+ it
+DTSTAMP:20261123T134825Z
+DTSTART;TZID=Europe/Rome:20261127T190000
+DTEND;TZID=Europe/Rome:20261127T210000
+SUMMARY:Sotto le stelle del jazz: The Scoop Jazz Band
+LOCATION:MAXXI (via Guido Reni 4a)
+DESCRIPTION:La musica incontra l'arte: concerto jazz al museo. https://www.
+ maxxi.art/events/the-scoop-jazz-band/
+URL:https://www.maxxi.art/events/the-scoop-jazz-band/
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-daniel-harding-dirige-brahms-e-strauss@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261127T200000
 DTEND;TZID=Europe/Rome:20261127T220000
 SUMMARY:Daniel Harding dirige Brahms e Strauss
@@ -441,7 +541,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-ditonellapiaga@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Ditonellapiaga
@@ -453,8 +553,22 @@ URL:https://www.romapop.it/cosa-fare-a-roma-questa-settimana-gli-eventi-dal
 CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-esperide-fantasie-barocche-sant-ivo-alla-sapienz@acculturiam
+ oci.it
+DTSTAMP:20261123T134825Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Esperide · Fantasie barocche: Sant'Ivo alla Sapienza e Sant'Agnese
+  in Agone
+LOCATION:Sant'Ivo alla Sapienza (corso del Rinascimento 40)
+DESCRIPTION:Visita guidata ai capolavori di Borromini con l'associazione Es
+ peride. Prenotazione: info@esperide.it. https://esperide.it/attivita/
+URL:https://esperide.it/attivita/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-i-am-the-wind@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:I am the Wind
@@ -466,7 +580,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-masterclass-i-segreti-della-tosca@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Masterclass: i segreti della Tosca
@@ -478,7 +592,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-otello@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Otello
@@ -493,7 +607,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-pinocchia-adolescente-di-legno@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Pinocchia\, adolescente di legno
@@ -504,8 +618,56 @@ URL:https://www.teatrodiroma.net/calendario/
 CATEGORIES:Famiglie
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-ri-generare-con-creativita-forum-nazionale-sulla@acculturiam
+ oci.it
+DTSTAMP:20261123T134825Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Ri-generare con creatività: Forum nazionale sulla rigenerazione ur
+ bana
+LOCATION:Ex Mattatoio di Testaccio (piazza Orazio Giustiniani 4)
+DESCRIPTION:Cinque giorni di incontri tra architetti\, artisti\, curatori e
+  amministratori su come la cultura trasforma le città. Ingresso gratuito.
+  https://www.romaedintorninotizie.it/notizie-dalla-rete/roma-al-via-il-for
+ um-nazionale-sulla-rigenerazione-urbana-cinque-giorni-di-incontri-tra-cult
+ ura-arte-e-trasformazione-delle-citta/
+URL:https://www.romaedintorninotizie.it/notizie-dalla-rete/roma-al-via-il-f
+ orum-nazionale-sulla-rigenerazione-urbana-cinque-giorni-di-incontri-tra-cu
+ ltura-arte-e-trasformazione-delle-citta/
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-francesco-ai-santi-apostoli-visita-racconto-e-co@acculturiam
+ oci.it
+DTSTAMP:20261123T134825Z
+DTSTART;TZID=Europe/Rome:20261128T160000
+DTEND;TZID=Europe/Rome:20261128T180000
+SUMMARY:Francesco ai Santi Apostoli: visita\, racconto e concerto
+LOCATION:Basilica dei Santi XII Apostoli (piazza dei Santi Apostoli 51)
+DESCRIPTION:Ultimo dei quattro sabati per l'VIII centenario francescano: vi
+ sita guidata\, approfondimento e concerto. https://www.romatoday.it/eventi
+ /san-francesco-incontri-basilica-santi-xii-apostoli-7-28-novembre-2026.htm
+ l
+URL:https://www.romatoday.it/eventi/san-francesco-incontri-basilica-santi-x
+ ii-apostoli-7-28-novembre-2026.html
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-il-corpo-gioca-e-il-gioco-riunisce-5-11-anni@acculturiamoci.
+ it
+DTSTAMP:20261123T134825Z
+DTSTART;TZID=Europe/Rome:20261128T163000
+DTEND;TZID=Europe/Rome:20261128T183000
+SUMMARY:Il corpo gioca e il gioco riunisce (5-11 anni)
+LOCATION:MAXXI (via Guido Reni 4a)
+DESCRIPTION:Attività per famiglie al museo. https://www.maxxi.art/events/i
+ l-corpo-gioca-e-il-gioco-riunisce/
+URL:https://www.maxxi.art/events/il-corpo-gioca-e-il-gioco-riunisce/
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-baby-sound-0-2-anni-e-donne-in-gravidanza@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261128T170000
 DTEND;TZID=Europe/Rome:20261128T190000
 SUMMARY:Baby sound (0-2 anni e donne in gravidanza)
@@ -517,7 +679,7 @@ CATEGORIES:Famiglie
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-daniel-harding-dirige-brahms-e-strauss@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Daniel Harding dirige Brahms e Strauss
@@ -530,7 +692,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-la-buena-letra-di-celia-rico-clavellino-scoprir@acculturiamo
  ci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:La buena letra di Celia Rico Clavellino (Scoprir)
@@ -544,7 +706,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-umberto-guidoni-ascensore-per-marte@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Umberto Guidoni: Ascensore per Marte
@@ -559,7 +721,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-lorenzo-pinna-cento-anni-in-compagnia-dell-atomo@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261128T183000
 DTEND;TZID=Europe/Rome:20261128T203000
 SUMMARY:Lorenzo Pinna: Cento anni in compagnia dell'atomo
@@ -573,7 +735,7 @@ CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-massimo-staich-con-la-febbre-tra-le-ali@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261128T190000
 DTEND;TZID=Europe/Rome:20261128T210000
 SUMMARY:Massimo Staich: Con la febbre tra le ali
@@ -586,7 +748,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-buenos-aires-tango-musica-y-danza-en-concierto@acculturiamoc
  i.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261128T200000
 DTEND;TZID=Europe/Rome:20261128T220000
 SUMMARY:Buenos Aires Tango: música y danza en concierto
@@ -597,8 +759,21 @@ URL:https://www.auditorium.com/it/
 CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-esperide-visita-all-abbazia-delle-tre-fontane@acculturiamoci
+ .it
+DTSTAMP:20261123T134825Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Esperide · Visita all'Abbazia delle Tre Fontane
+LOCATION:Abbazia delle Tre Fontane (via Acque Salvie 1)
+DESCRIPTION:Visita guidata con l'associazione Esperide. Prenotazione: info@
+ esperide.it. https://esperide.it/attivita/
+URL:https://esperide.it/attivita/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-i-am-the-wind@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:I am the Wind
@@ -610,7 +785,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-otello@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Otello
@@ -625,7 +800,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-pinocchia-adolescente-di-legno@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Pinocchia\, adolescente di legno
@@ -636,9 +811,23 @@ URL:https://www.teatrodiroma.net/calendario/
 CATEGORIES:Famiglie
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-the-shape-of-sound-liquid-conversation@acculturiamoci.it
+DTSTAMP:20261123T134825Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:The Shape of Sound: Liquid Conversation
+LOCATION:Ex Mattatoio di Testaccio (piazza Orazio Giustiniani 4)
+DESCRIPTION:Installazione sonora del Festival di Nuova Consonanza\, fino al
+  20 dicembre. https://www.mattatoioroma.it/evento/the-shape-of-sound-liqui
+ d-conversation
+URL:https://www.mattatoioroma.it/evento/the-shape-of-sound-liquid-conversat
+ ion
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-visita-per-ragazzi-alla-mostra-di-richard-avedon@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261129T110000
 DTEND;TZID=Europe/Rome:20261129T130000
 SUMMARY:Visita per ragazzi alla mostra di Richard Avedon
@@ -650,7 +839,7 @@ CATEGORIES:Famiglie
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-cercasi-elfo-lettura-e-laboratorio@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261129T163000
 DTEND;TZID=Europe/Rome:20261129T183000
 SUMMARY:Cercasi Elfo: lettura e laboratorio
@@ -664,7 +853,7 @@ CATEGORIES:Famiglie
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-csaba-dalla-zorza-io-sono-adele@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261129T170000
 DTEND;TZID=Europe/Rome:20261129T190000
 SUMMARY:Csaba dalla Zorza: Io sono Adele
@@ -677,7 +866,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-anohni-wilderness@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261129T200000
 DTEND;TZID=Europe/Rome:20261129T220000
 SUMMARY:ANOHNI: Wilderness
@@ -689,8 +878,21 @@ URL:https://www.auditorium.com/it/
 CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-esperide-visita-alla-casa-dei-cavalieri-di-rodi@acculturiamo
+ ci.it
+DTSTAMP:20261123T134825Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Esperide · Visita alla Casa dei Cavalieri di Rodi
+LOCATION:Casa dei Cavalieri di Rodi (piazza del Grillo 1)
+DESCRIPTION:Visita guidata sopra il Foro di Augusto con l'associazione Espe
+ ride. Prenotazione: info@esperide.it. https://esperide.it/attivita/
+URL:https://esperide.it/attivita/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-i-am-the-wind@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:I am the Wind
@@ -703,7 +905,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-il-ballo-reading-con-laura-morante-ed-eugenia-co@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Il ballo\, reading con Laura Morante ed Eugenia Costantini
@@ -716,7 +918,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-lezioni-di-storia-francesca-cenerini-gli-annali-@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Lezioni di Storia · Francesca Cenerini: gli Annali di Tacito
@@ -730,7 +932,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-otello@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Otello
@@ -745,7 +947,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-pinocchia-adolescente-di-legno@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Pinocchia\, adolescente di legno
@@ -756,8 +958,21 @@ URL:https://www.teatrodiroma.net/calendario/
 CATEGORIES:Famiglie
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-01-automotive-tra-competitivita-e-autodistruzione@acculturiamoc
+ i.it
+DTSTAMP:20261123T134825Z
+DTSTART;TZID=Europe/Rome:20261201T170000
+DTEND;TZID=Europe/Rome:20261201T190000
+SUMMARY:Automotive: tra competitività e autodistruzione
+LOCATION:Centro Studi Americani (via Michelangelo Caetani 32)
+DESCRIPTION:Incontro sul futuro dell'industria dell'auto\, con ASviS. https
+ ://centrostudiamericani.org/event/automotive-competitivita/
+URL:https://centrostudiamericani.org/event/automotive-competitivita/
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-02-luca-berretta-nell-ombra-del-nilo@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261202T183000
 DTEND;TZID=Europe/Rome:20261202T203000
 SUMMARY:Luca Berretta: Nell'ombra del Nilo
@@ -770,7 +985,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-peccato-che-fosse-una-sgualdrina@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Peccato che fosse una sgualdrina
@@ -783,8 +998,22 @@ URL:https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-20
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-03-il-lavoro-informatico-e-l-ai-quale-futuro@acculturiamoci.it
+DTSTAMP:20261123T134825Z
+DTSTART;TZID=Europe/Rome:20261203T093000
+DTEND;TZID=Europe/Rome:20261203T113000
+SUMMARY:Il lavoro informatico e l'AI: quale futuro?
+LOCATION:Ex Mattatoio di Testaccio (piazza Orazio Giustiniani 4)
+DESCRIPTION:Incontro su come l'intelligenza artificiale cambia il lavoro di
+ gitale. https://www.mattatoioroma.it/evento/il-lavoro-informatico-e-lai-qu
+ ale-futuro
+URL:https://www.mattatoioroma.it/evento/il-lavoro-informatico-e-lai-quale-f
+ uturo
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-03-peccato-che-fosse-una-sgualdrina@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Peccato che fosse una sgualdrina
@@ -799,7 +1028,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-piu-libri-piu-liberi-fiera-della-piccola-e-media@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261204T100000
 DTEND;TZID=Europe/Rome:20261204T120000
 SUMMARY:Più libri più liberi: fiera della piccola e media editoria
@@ -811,9 +1040,24 @@ URL:https://plpl.it/
 CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-04-sergio-garavini-cent-anni-dopo-cultura-e-politic@acculturiam
+ oci.it
+DTSTAMP:20261123T134825Z
+DTSTART;TZID=Europe/Rome:20261204T110000
+DTEND;TZID=Europe/Rome:20261204T130000
+SUMMARY:Sergio Garavini cent'anni dopo: cultura e politica
+LOCATION:Ex Mattatoio di Testaccio (piazza Orazio Giustiniani 4)
+DESCRIPTION:Incontro per il centenario della nascita del sindacalista e pol
+ itico. https://www.mattatoioroma.it/evento/centenario-della-nascita-di-ser
+ gio-garavini-cultura-e-politica
+URL:https://www.mattatoioroma.it/evento/centenario-della-nascita-di-sergio-
+ garavini-cultura-e-politica
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-05-piu-libri-piu-liberi-fiera-della-piccola-e-media@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261205T100000
 DTEND;TZID=Europe/Rome:20261205T120000
 SUMMARY:Più libri più liberi: fiera della piccola e media editoria
@@ -824,9 +1068,22 @@ URL:https://plpl.it/
 CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-05-laurie-anderson-a-hole-in-the-sky@acculturiamoci.it
+DTSTAMP:20261123T134825Z
+DTSTART;TZID=Europe/Rome:20261205T190000
+DTEND;TZID=Europe/Rome:20261205T210000
+SUMMARY:Laurie Anderson: A Hole in the Sky
+LOCATION:MAXXI (via Guido Reni 4a)
+DESCRIPTION:Laurie Anderson dal vivo: una leggenda dell'arte e della musica
+ \, a pochi metri. Performance dell'artista e musicista americana. https://
+ www.maxxi.art/events/a-hole-in-the-sky/
+URL:https://www.maxxi.art/events/a-hole-in-the-sky/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-06-piu-libri-piu-liberi-fiera-della-piccola-e-media@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261206T100000
 DTEND;TZID=Europe/Rome:20261206T120000
 SUMMARY:Più libri più liberi: fiera della piccola e media editoria
@@ -839,7 +1096,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-piu-libri-piu-liberi-fiera-della-piccola-e-media@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261207T100000
 DTEND;TZID=Europe/Rome:20261207T120000
 SUMMARY:Più libri più liberi: fiera della piccola e media editoria
@@ -852,7 +1109,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-piu-libri-piu-liberi-fiera-della-piccola-e-media@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261208T100000
 DTEND;TZID=Europe/Rome:20261208T120000
 SUMMARY:Più libri più liberi: fiera della piccola e media editoria
@@ -861,5 +1118,33 @@ DESCRIPTION:Cinque giorni di libri e incontri con centinaia di editori indi
  pendenti. Aperta dalle 10 alle 20. https://plpl.it/
 URL:https://plpl.it/
 CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-esperide-lazio-medievale-il-sacro-speco-di-subia@acculturiam
+ oci.it
+DTSTAMP:20261123T134825Z
+DTSTART;TZID=Europe/Rome:20261210T160000
+DTEND;TZID=Europe/Rome:20261210T180000
+SUMMARY:Esperide · Lazio medievale: il Sacro Speco di Subiaco
+LOCATION:Galleria Cabaret Voltaire (via Panisperna 87)
+DESCRIPTION:Incontro di storia dell'arte del ciclo sul Lazio medievale. 15 
+ € a incontro\, prenotazione: info@esperide.it. https://esperide.it/attiv
+ ita/
+URL:https://esperide.it/attivita/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-le-olimpiadi-del-1944@acculturiamoci.it
+DTSTAMP:20261123T134825Z
+DTSTART;TZID=Europe/Rome:20261210T180000
+DTEND;TZID=Europe/Rome:20261210T200000
+SUMMARY:Le olimpiadi del 1944
+LOCATION:Centro Studi Americani (via Michelangelo Caetani 32)
+DESCRIPTION:Presentazione del libro di Mario Tedeschini Lalli. https://cent
+ rostudiamericani.org/event/presentazione-le-olimpiadi-del-1944-di-mario-te
+ deschini-lalli/
+URL:https://centrostudiamericani.org/event/presentazione-le-olimpiadi-del-1
+ 944-di-mario-tedeschini-lalli/
+CATEGORIES:Arte e storia
 END:VEVENT
 END:VCALENDAR

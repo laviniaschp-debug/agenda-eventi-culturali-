@@ -1,5 +1,47 @@
 [
  {
+  "match": "Ex Mattatoio",
+  "lat": 41.876,
+  "lng": 12.475,
+  "zona": "Trastevere · Testaccio · Ostiense"
+ },
+ {
+  "match": "Centro Studi Americani",
+  "lat": 41.8945,
+  "lng": 12.4778,
+  "zona": "Centro storico"
+ },
+ {
+  "match": "Cabaret Voltaire",
+  "lat": 41.897,
+  "lng": 12.491,
+  "zona": "Esquilino · Monti · San Lorenzo"
+ },
+ {
+  "match": "Sant'Ivo",
+  "lat": 41.8986,
+  "lng": 12.4745,
+  "zona": "Centro storico"
+ },
+ {
+  "match": "Cavalieri di Rodi",
+  "lat": 41.8947,
+  "lng": 12.487,
+  "zona": "Centro storico"
+ },
+ {
+  "match": "Santi XII Apostoli",
+  "lat": 41.8982,
+  "lng": 12.4831,
+  "zona": "Centro storico"
+ },
+ {
+  "match": "Tre Fontane",
+  "lat": 41.834,
+  "lng": 12.484,
+  "zona": "EUR e sud"
+ },
+ {
   "match": "Feltrinelli Largo di Torre Argentina",
   "lat": 41.8955,
   "lng": 12.4767,

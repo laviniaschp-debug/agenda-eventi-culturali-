@@ -69,6 +69,28 @@
   },
   {
    "date": "2026-11-24",
+   "time": "17:00",
+   "title": "Un americano a Teheran",
+   "venue": "Centro Studi Americani (via Michelangelo Caetani 32)",
+   "cat": "geo",
+   "desc": "Presentazione del libro di Stefano Cacciaguerra Ranghieri con l'ambasciatore Maurizio Serra e lo storico Gerardo Nicolosi.",
+   "url": "https://centrostudiamericani.org/event/un-americano-a-tehran/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r003",
+   "key": "2026-11-24-un-americano-a-teheran",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.8945,
+    12.4778
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-11-24",
    "time": "18:30",
    "title": "Presentazione del volume \"Francesca Tulli\"",
    "venue": "Palazzo delle Esposizioni (via Nazionale 194)",
@@ -78,7 +100,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r003",
+   "id": "r004",
    "key": "2026-11-24-presentazione-del-volume-francesca-tulli",
    "moods": [
     "pensare"
@@ -100,7 +122,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r004",
+   "id": "r005",
    "key": "2026-11-24-otello",
    "moods": [
     "emozionarmi"
@@ -114,6 +136,28 @@
   {
    "date": "2026-11-24",
    "time": "",
+   "title": "Ri-generare con creatività: Forum nazionale sulla rigenerazione urbana",
+   "venue": "Ex Mattatoio di Testaccio (piazza Orazio Giustiniani 4)",
+   "cat": "talk",
+   "desc": "Cinque giorni di incontri tra architetti, artisti, curatori e amministratori su come la cultura trasforma le città. Ingresso gratuito.",
+   "url": "https://www.romaedintorninotizie.it/notizie-dalla-rete/roma-al-via-il-forum-nazionale-sulla-rigenerazione-urbana-cinque-giorni-di-incontri-tra-cultura-arte-e-trasformazione-delle-citta/",
+   "free": true,
+   "tags": [],
+   "verify": true,
+   "id": "r006",
+   "key": "2026-11-24-ri-generare-con-creativita-forum-nazionale-sulla",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.876,
+    12.475
+   ],
+   "zona": "Trastevere · Testaccio · Ostiense"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "",
    "title": "Voci dal silenzio",
    "venue": "Teatro Valle",
    "cat": "teatro",
@@ -122,7 +166,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "r005",
+   "id": "r007",
    "key": "2026-11-24-voci-dal-silenzio",
    "moods": [
     "emozionarmi"
@@ -135,6 +179,28 @@
   },
   {
    "date": "2026-11-25",
+   "time": "16:30",
+   "title": "Sartre e Rossanda: una ingombrante intransigenza",
+   "venue": "Ex Mattatoio di Testaccio (piazza Orazio Giustiniani 4) · Padiglione 9a",
+   "cat": "filosofia",
+   "desc": "Presentazione del libro con Luciana Castellina, Paola Cattani, Filippo La Porta e la curatrice Sandra Tedoni.",
+   "url": "https://www.mattatoioroma.it/evento/presentazione-del-libro-sartre-e-rossanda-una-ingombrante-intransigenza",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r008",
+   "key": "2026-11-25-sartre-e-rossanda-una-ingombrante-intransigenza",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.876,
+    12.475
+   ],
+   "zona": "Trastevere · Testaccio · Ostiense"
+  },
+  {
+   "date": "2026-11-25",
    "time": "17:30",
    "title": "Monica Cristina Storini: Leggere Deledda",
    "venue": "Mondadori Bookstore (piazza Vittorio Emanuele 108)",
@@ -144,7 +210,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "r006",
+   "id": "r009",
    "key": "2026-11-25-monica-cristina-storini-leggere-deledda",
    "moods": [
     "pensare"
@@ -166,7 +232,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "r007",
+   "id": "r010",
    "key": "2026-11-25-andrea-scarpa-mettetevi-comodi-il-libro-intervis",
    "moods": [
     "pensare"
@@ -191,7 +257,7 @@
    ],
    "verify": false,
    "why": "Lagioia racconta il suo nuovo romanzo corale: una serata da lettori veri.",
-   "id": "r008",
+   "id": "r011",
    "key": "2026-11-25-nicola-lagioia-santa-barbara",
    "moods": [
     "pensare"
@@ -213,7 +279,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r009",
+   "id": "r012",
    "key": "2026-11-25-maurizio-massari-i-dieci-anni-che-hanno-sconvolt",
    "moods": [
     "pensare"
@@ -235,7 +301,7 @@
    "free": true,
    "tags": [],
    "verify": true,
-   "id": "r010",
+   "id": "r013",
    "key": "2026-11-25-saperi-in-fermento-aperitivo-di-biodiversita",
    "moods": [
     "gente",
@@ -261,7 +327,7 @@
    ],
    "verify": false,
    "why": "Filosofia e scienza insieme, tra i calchi delle statue antiche: come diventare persone migliori.",
-   "id": "r011",
+   "id": "r014",
    "key": "2026-11-25-vito-mancuso-filosofia-e-scienza-per-essere-uman",
    "moods": [
     "pensare"
@@ -286,7 +352,7 @@
    ],
    "verify": false,
    "why": "Platone raccontato come se parlasse di noi, oggi.",
-   "id": "r012",
+   "id": "r015",
    "key": "2026-11-25-lezioni-di-storia-gennaro-carillo-la-repubblica-",
    "moods": [
     "pensare"
@@ -308,7 +374,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r013",
+   "id": "r016",
    "key": "2026-11-25-lezioni-di-ascolto-valvole-contro-transistor",
    "moods": [
     "pensare"
@@ -330,7 +396,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "r014",
+   "id": "r017",
    "key": "2026-11-25-sol-gabetta-e-bertrand-chamayou",
    "moods": [
     "emozionarmi"
@@ -352,7 +418,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r015",
+   "id": "r018",
    "key": "2026-11-25-eugenio-in-via-di-gioia",
    "moods": [
     "emozionarmi"
@@ -374,7 +440,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r016",
+   "id": "r019",
    "key": "2026-11-25-i-am-the-wind",
    "moods": [
     "emozionarmi"
@@ -396,7 +462,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r017",
+   "id": "r020",
    "key": "2026-11-25-otello",
    "moods": [
     "emozionarmi"
@@ -410,6 +476,28 @@
   {
    "date": "2026-11-25",
    "time": "",
+   "title": "Ri-generare con creatività: Forum nazionale sulla rigenerazione urbana",
+   "venue": "Ex Mattatoio di Testaccio (piazza Orazio Giustiniani 4)",
+   "cat": "talk",
+   "desc": "Cinque giorni di incontri tra architetti, artisti, curatori e amministratori su come la cultura trasforma le città. Ingresso gratuito.",
+   "url": "https://www.romaedintorninotizie.it/notizie-dalla-rete/roma-al-via-il-forum-nazionale-sulla-rigenerazione-urbana-cinque-giorni-di-incontri-tra-cultura-arte-e-trasformazione-delle-citta/",
+   "free": true,
+   "tags": [],
+   "verify": true,
+   "id": "r021",
+   "key": "2026-11-25-ri-generare-con-creativita-forum-nazionale-sulla",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.876,
+    12.475
+   ],
+   "zona": "Trastevere · Testaccio · Ostiense"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "",
    "title": "Venerdì 13",
    "venue": "Teatro Parioli Costanzo",
    "cat": "teatro",
@@ -418,7 +506,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r018",
+   "id": "r022",
    "key": "2026-11-25-venerdi-13",
    "moods": [
     "emozionarmi",
@@ -444,7 +532,7 @@
    ],
    "verify": false,
    "why": "Il botanico più amato d'Italia spiega cosa le piante possono insegnare alle città.",
-   "id": "r019",
+   "id": "r023",
    "key": "2026-11-26-stefano-mancuso-la-citta-vivente",
    "moods": [
     "pensare"
@@ -466,7 +554,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "r020",
+   "id": "r024",
    "key": "2026-11-26-giovanna-cuce-la-storia-di-rita-atria",
    "moods": [
     "pensare"
@@ -483,7 +571,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "r021",
+   "id": "r025",
    "key": "2026-11-26-luiz-valerio-p-trindade-social-media-odio-online",
    "moods": [
     "pensare"
@@ -505,7 +593,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "r022",
+   "id": "r026",
    "key": "2026-11-26-daniel-harding-dirige-brahms-e-strauss",
    "moods": [
     "emozionarmi"
@@ -527,7 +615,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r023",
+   "id": "r027",
    "key": "2026-11-26-i-am-the-wind",
    "moods": [
     "emozionarmi"
@@ -549,7 +637,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r024",
+   "id": "r028",
    "key": "2026-11-26-otello",
    "moods": [
     "emozionarmi"
@@ -563,6 +651,28 @@
   {
    "date": "2026-11-26",
    "time": "",
+   "title": "Ri-generare con creatività: Forum nazionale sulla rigenerazione urbana",
+   "venue": "Ex Mattatoio di Testaccio (piazza Orazio Giustiniani 4)",
+   "cat": "talk",
+   "desc": "Cinque giorni di incontri tra architetti, artisti, curatori e amministratori su come la cultura trasforma le città. Ingresso gratuito.",
+   "url": "https://www.romaedintorninotizie.it/notizie-dalla-rete/roma-al-via-il-forum-nazionale-sulla-rigenerazione-urbana-cinque-giorni-di-incontri-tra-cultura-arte-e-trasformazione-delle-citta/",
+   "free": true,
+   "tags": [],
+   "verify": true,
+   "id": "r029",
+   "key": "2026-11-26-ri-generare-con-creativita-forum-nazionale-sulla",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.876,
+    12.475
+   ],
+   "zona": "Trastevere · Testaccio · Ostiense"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "",
    "title": "Venerdì 13",
    "venue": "Teatro Parioli Costanzo",
    "cat": "teatro",
@@ -571,7 +681,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r025",
+   "id": "r030",
    "key": "2026-11-26-venerdi-13",
    "moods": [
     "emozionarmi",
@@ -594,7 +704,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "r026",
+   "id": "r031",
    "key": "2026-11-27-monica-calcagni-il-mio-viaggio-al-fianco-delle-d",
    "moods": [
     "pensare"
@@ -616,7 +726,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r027",
+   "id": "r032",
    "key": "2026-11-27-marinetti-l-uomo-che-invento-il-futuro-talk-film",
    "moods": [
     "pensare"
@@ -638,7 +748,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "r028",
+   "id": "r033",
    "key": "2026-11-27-marco-vannini-quale-uomo-quale-dio",
    "moods": [
     "pensare"
@@ -651,6 +761,28 @@
   },
   {
    "date": "2026-11-27",
+   "time": "19:00",
+   "title": "Sotto le stelle del jazz: The Scoop Jazz Band",
+   "venue": "MAXXI (via Guido Reni 4a)",
+   "cat": "jazz",
+   "desc": "La musica incontra l'arte: concerto jazz al museo.",
+   "url": "https://www.maxxi.art/events/the-scoop-jazz-band/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r034",
+   "key": "2026-11-27-sotto-le-stelle-del-jazz-the-scoop-jazz-band",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.9283,
+    12.4668
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
+  },
+  {
+   "date": "2026-11-27",
    "time": "20:00",
    "title": "Daniel Harding dirige Brahms e Strauss",
    "venue": "Auditorium Parco della Musica · Sala Santa Cecilia",
@@ -660,7 +792,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "r029",
+   "id": "r035",
    "key": "2026-11-27-daniel-harding-dirige-brahms-e-strauss",
    "moods": [
     "emozionarmi"
@@ -682,7 +814,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r030",
+   "id": "r036",
    "key": "2026-11-27-ditonellapiaga",
    "moods": [
     "emozionarmi"
@@ -696,6 +828,28 @@
   {
    "date": "2026-11-27",
    "time": "",
+   "title": "Esperide · Fantasie barocche: Sant'Ivo alla Sapienza e Sant'Agnese in Agone",
+   "venue": "Sant'Ivo alla Sapienza (corso del Rinascimento 40)",
+   "cat": "storia",
+   "desc": "Visita guidata ai capolavori di Borromini con l'associazione Esperide. Prenotazione: info@esperide.it.",
+   "url": "https://esperide.it/attivita/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r037",
+   "key": "2026-11-27-esperide-fantasie-barocche-sant-ivo-alla-sapienz",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.8986,
+    12.4745
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "",
    "title": "I am the Wind",
    "venue": "Teatro India",
    "cat": "teatro",
@@ -704,7 +858,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r031",
+   "id": "r038",
    "key": "2026-11-27-i-am-the-wind",
    "moods": [
     "emozionarmi"
@@ -726,7 +880,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "r032",
+   "id": "r039",
    "key": "2026-11-27-masterclass-i-segreti-della-tosca",
    "moods": [
     "emozionarmi"
@@ -748,7 +902,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r033",
+   "id": "r040",
    "key": "2026-11-27-otello",
    "moods": [
     "emozionarmi"
@@ -770,7 +924,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r034",
+   "id": "r041",
    "key": "2026-11-27-pinocchia-adolescente-di-legno",
    "moods": [
     "bambini"
@@ -780,6 +934,72 @@
     12.471
    ],
    "zona": "Trastevere · Testaccio · Ostiense"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "",
+   "title": "Ri-generare con creatività: Forum nazionale sulla rigenerazione urbana",
+   "venue": "Ex Mattatoio di Testaccio (piazza Orazio Giustiniani 4)",
+   "cat": "talk",
+   "desc": "Cinque giorni di incontri tra architetti, artisti, curatori e amministratori su come la cultura trasforma le città. Ingresso gratuito.",
+   "url": "https://www.romaedintorninotizie.it/notizie-dalla-rete/roma-al-via-il-forum-nazionale-sulla-rigenerazione-urbana-cinque-giorni-di-incontri-tra-cultura-arte-e-trasformazione-delle-citta/",
+   "free": true,
+   "tags": [],
+   "verify": true,
+   "id": "r042",
+   "key": "2026-11-27-ri-generare-con-creativita-forum-nazionale-sulla",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.876,
+    12.475
+   ],
+   "zona": "Trastevere · Testaccio · Ostiense"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "16:00",
+   "title": "Francesco ai Santi Apostoli: visita, racconto e concerto",
+   "venue": "Basilica dei Santi XII Apostoli (piazza dei Santi Apostoli 51)",
+   "cat": "storia",
+   "desc": "Ultimo dei quattro sabati per l'VIII centenario francescano: visita guidata, approfondimento e concerto.",
+   "url": "https://www.romatoday.it/eventi/san-francesco-incontri-basilica-santi-xii-apostoli-7-28-novembre-2026.html",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r043",
+   "key": "2026-11-28-francesco-ai-santi-apostoli-visita-racconto-e-co",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.8982,
+    12.4831
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "16:30",
+   "title": "Il corpo gioca e il gioco riunisce (5-11 anni)",
+   "venue": "MAXXI (via Guido Reni 4a)",
+   "cat": "famiglie",
+   "desc": "Attività per famiglie al museo.",
+   "url": "https://www.maxxi.art/events/il-corpo-gioca-e-il-gioco-riunisce/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r044",
+   "key": "2026-11-28-il-corpo-gioca-e-il-gioco-riunisce-5-11-anni",
+   "moods": [
+    "bambini"
+   ],
+   "geo": [
+    41.9283,
+    12.4668
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
   },
   {
    "date": "2026-11-28",
@@ -792,7 +1012,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "r035",
+   "id": "r045",
    "key": "2026-11-28-baby-sound-0-2-anni-e-donne-in-gravidanza",
    "moods": [
     "bambini"
@@ -814,7 +1034,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "r036",
+   "id": "r046",
    "key": "2026-11-28-daniel-harding-dirige-brahms-e-strauss",
    "moods": [
     "emozionarmi"
@@ -836,7 +1056,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r037",
+   "id": "r047",
    "key": "2026-11-28-la-buena-letra-di-celia-rico-clavellino-scoprir",
    "moods": [
     "emozionarmi"
@@ -858,7 +1078,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "r038",
+   "id": "r048",
    "key": "2026-11-28-umberto-guidoni-ascensore-per-marte",
    "moods": [
     "pensare"
@@ -875,7 +1095,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "r039",
+   "id": "r049",
    "key": "2026-11-28-lorenzo-pinna-cento-anni-in-compagnia-dell-atomo",
    "moods": [
     "pensare"
@@ -892,7 +1112,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r040",
+   "id": "r050",
    "key": "2026-11-28-massimo-staich-con-la-febbre-tra-le-ali",
    "moods": [
     "emozionarmi"
@@ -914,7 +1134,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "r041",
+   "id": "r051",
    "key": "2026-11-28-buenos-aires-tango-musica-y-danza-en-concierto",
    "moods": [
     "emozionarmi"
@@ -928,6 +1148,28 @@
   {
    "date": "2026-11-28",
    "time": "",
+   "title": "Esperide · Visita all'Abbazia delle Tre Fontane",
+   "venue": "Abbazia delle Tre Fontane (via Acque Salvie 1)",
+   "cat": "storia",
+   "desc": "Visita guidata con l'associazione Esperide. Prenotazione: info@esperide.it.",
+   "url": "https://esperide.it/attivita/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r052",
+   "key": "2026-11-28-esperide-visita-all-abbazia-delle-tre-fontane",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.834,
+    12.484
+   ],
+   "zona": "EUR e sud"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "",
    "title": "I am the Wind",
    "venue": "Teatro India",
    "cat": "teatro",
@@ -936,7 +1178,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r042",
+   "id": "r053",
    "key": "2026-11-28-i-am-the-wind",
    "moods": [
     "emozionarmi"
@@ -958,7 +1200,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r043",
+   "id": "r054",
    "key": "2026-11-28-otello",
    "moods": [
     "emozionarmi"
@@ -980,7 +1222,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r044",
+   "id": "r055",
    "key": "2026-11-28-pinocchia-adolescente-di-legno",
    "moods": [
     "bambini"
@@ -988,6 +1230,28 @@
    "geo": [
     41.869,
     12.471
+   ],
+   "zona": "Trastevere · Testaccio · Ostiense"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "",
+   "title": "The Shape of Sound: Liquid Conversation",
+   "venue": "Ex Mattatoio di Testaccio (piazza Orazio Giustiniani 4)",
+   "cat": "classica",
+   "desc": "Installazione sonora del Festival di Nuova Consonanza, fino al 20 dicembre.",
+   "url": "https://www.mattatoioroma.it/evento/the-shape-of-sound-liquid-conversation",
+   "free": null,
+   "tags": [],
+   "verify": true,
+   "id": "r056",
+   "key": "2026-11-28-the-shape-of-sound-liquid-conversation",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.876,
+    12.475
    ],
    "zona": "Trastevere · Testaccio · Ostiense"
   },
@@ -1002,7 +1266,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r045",
+   "id": "r057",
    "key": "2026-11-29-visita-per-ragazzi-alla-mostra-di-richard-avedon",
    "moods": [
     "bambini"
@@ -1024,7 +1288,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "r046",
+   "id": "r058",
    "key": "2026-11-29-cercasi-elfo-lettura-e-laboratorio",
    "moods": [
     "bambini",
@@ -1047,7 +1311,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "r047",
+   "id": "r059",
    "key": "2026-11-29-csaba-dalla-zorza-io-sono-adele",
    "moods": [
     "pensare"
@@ -1072,7 +1336,7 @@
    ],
    "verify": false,
    "why": "Una delle voci più emozionanti della musica di oggi, in una sala da brividi.",
-   "id": "r048",
+   "id": "r060",
    "key": "2026-11-29-anohni-wilderness",
    "moods": [
     "emozionarmi"
@@ -1086,6 +1350,28 @@
   {
    "date": "2026-11-29",
    "time": "",
+   "title": "Esperide · Visita alla Casa dei Cavalieri di Rodi",
+   "venue": "Casa dei Cavalieri di Rodi (piazza del Grillo 1)",
+   "cat": "storia",
+   "desc": "Visita guidata sopra il Foro di Augusto con l'associazione Esperide. Prenotazione: info@esperide.it.",
+   "url": "https://esperide.it/attivita/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r061",
+   "key": "2026-11-29-esperide-visita-alla-casa-dei-cavalieri-di-rodi",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.8947,
+    12.487
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "",
    "title": "I am the Wind",
    "venue": "Teatro India",
    "cat": "teatro",
@@ -1094,7 +1380,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r049",
+   "id": "r062",
    "key": "2026-11-29-i-am-the-wind",
    "moods": [
     "emozionarmi"
@@ -1116,7 +1402,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r050",
+   "id": "r063",
    "key": "2026-11-29-il-ballo-reading-con-laura-morante-ed-eugenia-co",
    "moods": [
     "emozionarmi"
@@ -1138,7 +1424,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r051",
+   "id": "r064",
    "key": "2026-11-29-lezioni-di-storia-francesca-cenerini-gli-annali-",
    "moods": [
     "pensare"
@@ -1160,7 +1446,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r052",
+   "id": "r065",
    "key": "2026-11-29-otello",
    "moods": [
     "emozionarmi"
@@ -1182,7 +1468,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r053",
+   "id": "r066",
    "key": "2026-11-29-pinocchia-adolescente-di-legno",
    "moods": [
     "bambini"
@@ -1192,6 +1478,28 @@
     12.471
    ],
    "zona": "Trastevere · Testaccio · Ostiense"
+  },
+  {
+   "date": "2026-12-01",
+   "time": "17:00",
+   "title": "Automotive: tra competitività e autodistruzione",
+   "venue": "Centro Studi Americani (via Michelangelo Caetani 32)",
+   "cat": "geo",
+   "desc": "Incontro sul futuro dell'industria dell'auto, con ASviS.",
+   "url": "https://centrostudiamericani.org/event/automotive-competitivita/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r067",
+   "key": "2026-12-01-automotive-tra-competitivita-e-autodistruzione",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.8945,
+    12.4778
+   ],
+   "zona": "Centro storico"
   },
   {
    "date": "2026-12-02",
@@ -1204,7 +1512,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "r054",
+   "id": "r068",
    "key": "2026-12-02-luca-berretta-nell-ombra-del-nilo",
    "moods": [
     "pensare"
@@ -1226,7 +1534,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r055",
+   "id": "r069",
    "key": "2026-12-02-peccato-che-fosse-una-sgualdrina",
    "moods": [
     "emozionarmi"
@@ -1239,6 +1547,28 @@
   },
   {
    "date": "2026-12-03",
+   "time": "09:30",
+   "title": "Il lavoro informatico e l'AI: quale futuro?",
+   "venue": "Ex Mattatoio di Testaccio (piazza Orazio Giustiniani 4)",
+   "cat": "tech",
+   "desc": "Incontro su come l'intelligenza artificiale cambia il lavoro digitale.",
+   "url": "https://www.mattatoioroma.it/evento/il-lavoro-informatico-e-lai-quale-futuro",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r070",
+   "key": "2026-12-03-il-lavoro-informatico-e-l-ai-quale-futuro",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.876,
+    12.475
+   ],
+   "zona": "Trastevere · Testaccio · Ostiense"
+  },
+  {
+   "date": "2026-12-03",
    "time": "",
    "title": "Peccato che fosse una sgualdrina",
    "venue": "Teatro Argentina",
@@ -1248,7 +1578,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r056",
+   "id": "r071",
    "key": "2026-12-03-peccato-che-fosse-una-sgualdrina",
    "moods": [
     "emozionarmi"
@@ -1273,7 +1603,7 @@
    ],
    "verify": false,
    "why": "La festa dei libri indipendenti: centinaia di editori e incontri in un solo posto.",
-   "id": "r057",
+   "id": "r072",
    "key": "2026-12-04-piu-libri-piu-liberi-fiera-della-piccola-e-media",
    "moods": [
     "pensare"
@@ -1283,6 +1613,28 @@
     12.4719
    ],
    "zona": "EUR e sud"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "11:00",
+   "title": "Sergio Garavini cent'anni dopo: cultura e politica",
+   "venue": "Ex Mattatoio di Testaccio (piazza Orazio Giustiniani 4)",
+   "cat": "storia",
+   "desc": "Incontro per il centenario della nascita del sindacalista e politico.",
+   "url": "https://www.mattatoioroma.it/evento/centenario-della-nascita-di-sergio-garavini-cultura-e-politica",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r073",
+   "key": "2026-12-04-sergio-garavini-cent-anni-dopo-cultura-e-politic",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.876,
+    12.475
+   ],
+   "zona": "Trastevere · Testaccio · Ostiense"
   },
   {
    "date": "2026-12-05",
@@ -1295,7 +1647,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r058",
+   "id": "r074",
    "key": "2026-12-05-piu-libri-piu-liberi-fiera-della-piccola-e-media",
    "moods": [
     "pensare"
@@ -1305,6 +1657,31 @@
     12.4719
    ],
    "zona": "EUR e sud"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "19:00",
+   "title": "Laurie Anderson: A Hole in the Sky",
+   "venue": "MAXXI (via Guido Reni 4a)",
+   "cat": "teatro",
+   "desc": "Performance dell'artista e musicista americana.",
+   "url": "https://www.maxxi.art/events/a-hole-in-the-sky/",
+   "free": null,
+   "tags": [
+    "imperdibile"
+   ],
+   "verify": false,
+   "why": "Laurie Anderson dal vivo: una leggenda dell'arte e della musica, a pochi metri.",
+   "id": "r075",
+   "key": "2026-12-05-laurie-anderson-a-hole-in-the-sky",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.9283,
+    12.4668
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
   },
   {
    "date": "2026-12-06",
@@ -1317,7 +1694,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r059",
+   "id": "r076",
    "key": "2026-12-06-piu-libri-piu-liberi-fiera-della-piccola-e-media",
    "moods": [
     "pensare"
@@ -1339,7 +1716,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r060",
+   "id": "r077",
    "key": "2026-12-07-piu-libri-piu-liberi-fiera-della-piccola-e-media",
    "moods": [
     "pensare"
@@ -1361,7 +1738,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r061",
+   "id": "r078",
    "key": "2026-12-08-piu-libri-piu-liberi-fiera-della-piccola-e-media",
    "moods": [
     "pensare"
@@ -1371,6 +1748,51 @@
     12.4719
    ],
    "zona": "EUR e sud"
+  },
+  {
+   "date": "2026-12-10",
+   "time": "16:00",
+   "title": "Esperide · Lazio medievale: il Sacro Speco di Subiaco",
+   "venue": "Galleria Cabaret Voltaire (via Panisperna 87)",
+   "cat": "storia",
+   "desc": "Incontro di storia dell'arte del ciclo sul Lazio medievale. 15 € a incontro, prenotazione: info@esperide.it.",
+   "url": "https://esperide.it/attivita/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r079",
+   "key": "2026-12-10-esperide-lazio-medievale-il-sacro-speco-di-subia",
+   "moods": [
+    "pensare",
+    "ridere"
+   ],
+   "geo": [
+    41.897,
+    12.491
+   ],
+   "zona": "Esquilino · Monti · San Lorenzo"
+  },
+  {
+   "date": "2026-12-10",
+   "time": "18:00",
+   "title": "Le olimpiadi del 1944",
+   "venue": "Centro Studi Americani (via Michelangelo Caetani 32)",
+   "cat": "storia",
+   "desc": "Presentazione del libro di Mario Tedeschini Lalli.",
+   "url": "https://centrostudiamericani.org/event/presentazione-le-olimpiadi-del-1944-di-mario-tedeschini-lalli/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r080",
+   "key": "2026-12-10-le-olimpiadi-del-1944",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.8945,
+    12.4778
+   ],
+   "zona": "Centro storico"
   }
  ],
  "mostre": []

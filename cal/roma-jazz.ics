@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-25-eugenio-in-via-di-gioia@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Eugenio in Via Di Gioia
@@ -38,8 +38,21 @@ URL:https://www.romapop.it/cosa-fare-a-roma-questa-settimana-gli-eventi-dal
 CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-sotto-le-stelle-del-jazz-the-scoop-jazz-band@acculturiamoci.
+ it
+DTSTAMP:20261123T134825Z
+DTSTART;TZID=Europe/Rome:20261127T190000
+DTEND;TZID=Europe/Rome:20261127T210000
+SUMMARY:Sotto le stelle del jazz: The Scoop Jazz Band
+LOCATION:MAXXI (via Guido Reni 4a)
+DESCRIPTION:La musica incontra l'arte: concerto jazz al museo. https://www.
+ maxxi.art/events/the-scoop-jazz-band/
+URL:https://www.maxxi.art/events/the-scoop-jazz-band/
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-ditonellapiaga@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Ditonellapiaga
@@ -53,7 +66,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-buenos-aires-tango-musica-y-danza-en-concierto@acculturiamoc
  i.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261128T200000
 DTEND;TZID=Europe/Rome:20261128T220000
 SUMMARY:Buenos Aires Tango: música y danza en concierto
@@ -65,7 +78,7 @@ CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-anohni-wilderness@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261129T200000
 DTEND;TZID=Europe/Rome:20261129T220000
 SUMMARY:ANOHNI: Wilderness

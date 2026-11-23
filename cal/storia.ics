@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-23-dalla-preistoria-ad-oggi-il-viaggio-di-emilio-se@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261123T123000
 DTEND;TZID=Europe/Rome:20261123T143000
 SUMMARY:Dalla preistoria ad oggi: il viaggio di Emilio Sereni
@@ -40,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-il-senno-del-giudizio-storia-della-giustizia-nel@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261123T123000
 DTEND;TZID=Europe/Rome:20261123T143000
 SUMMARY:Il senno del giudizio. Storia della giustizia nell'Italia repubblic
@@ -54,7 +54,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-i-misteri-d-italia-1974-la-strage-di-brescia@acculturiamoci.
  it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261123T163000
 DTEND;TZID=Europe/Rome:20261123T183000
 SUMMARY:I misteri d'Italia: 1974\, la strage di Brescia
@@ -67,7 +67,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-milano-nella-storia-da-capitale-imperiale-a-metr@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261123T180000
 DTEND;TZID=Europe/Rome:20261123T200000
 SUMMARY:Milano nella storia: da capitale imperiale a metropoli
@@ -81,7 +81,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-milo-manara-l-erotismo-nell-arte-e-nella-lettera@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261123T183000
 DTEND;TZID=Europe/Rome:20261123T203000
 SUMMARY:Milo Manara: l'erotismo nell'arte e nella letteratura
@@ -95,7 +95,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-la-ragione-di-orlando-come-il-medioevo-imparo-a-@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261124T103000
 DTEND;TZID=Europe/Rome:20261124T123000
 SUMMARY:La ragione di Orlando. Come il Medioevo imparò a dare conto delle 
@@ -109,7 +109,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-una-risata-seppellira-la-violenza-euripide-e-ari@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261124T123000
 DTEND;TZID=Europe/Rome:20261124T143000
 SUMMARY:Una risata seppellirà la violenza? Euripide e Aristofane
@@ -121,7 +121,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-dante-e-vivo@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261125T163000
 DTEND;TZID=Europe/Rome:20261125T183000
 SUMMARY:Dante è vivo
@@ -133,7 +133,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-jan-brokken-la-malinconia-del-viaggiatore@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261125T180000
 DTEND;TZID=Europe/Rome:20261125T200000
 SUMMARY:Jan Brokken\, La malinconia del viaggiatore
@@ -147,7 +147,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-silvia-romani-e-federica-fracassi-sul-mito-antic@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Silvia Romani e Federica Fracassi sul mito antico
@@ -160,7 +160,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-100-copertine-di-futuro@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261126T110000
 DTEND;TZID=Europe/Rome:20261126T130000
 SUMMARY:100 copertine di futuro
@@ -173,7 +173,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-anti-illuminismo-nella-storia-e-oggi@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261126T180000
 DTEND;TZID=Europe/Rome:20261126T200000
 SUMMARY:Anti-illuminismo: nella storia e oggi
@@ -185,7 +185,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-hello-stranger-mostra-di-poesia@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261126T183000
 DTEND;TZID=Europe/Rome:20261126T203000
 SUMMARY:Hello stranger\, mostra di poesia
@@ -198,7 +198,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-francesco-vezzoli-victoria-mater@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261127T180000
 DTEND;TZID=Europe/Rome:20261127T200000
 SUMMARY:Francesco Vezzoli\, Victoria Mater
@@ -211,7 +211,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-aldo-cazzullo-il-nostro-rinascimento@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261128T110000
 DTEND;TZID=Europe/Rome:20261128T130000
 SUMMARY:Aldo Cazzullo\, Il nostro rinascimento
@@ -226,7 +226,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-laura-pepe-storia-non-convenzionale-delle-donne-@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261128T113000
 DTEND;TZID=Europe/Rome:20261128T133000
 SUMMARY:Laura Pepe\, Storia non convenzionale delle donne di Grecia
@@ -240,7 +240,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-dario-biagi-vita-di-cagnaccio-di-san-pietro@acculturiamoci.i
  t
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261128T150000
 DTEND;TZID=Europe/Rome:20261128T170000
 SUMMARY:Dario Biagi\, vita di Cagnaccio di San Pietro
@@ -253,7 +253,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-100-anni-di-allen-ginsberg@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:100 anni di Allen Ginsberg
@@ -266,7 +266,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-il-grande-gioco-dell-ai@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261130T203000
 DTEND;TZID=Europe/Rome:20261130T223000
 SUMMARY:Il grande gioco dell'AI
@@ -282,7 +282,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-la-bibbia-che-non-ti-aspetti-con-giorgio-marches@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261201T203000
 DTEND;TZID=Europe/Rome:20261201T223000
 SUMMARY:La Bibbia che non ti aspetti\, con Giorgio Marchesi
@@ -296,7 +296,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-la-storia-a-processo-oriana-fallaci@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261201T203000
 DTEND;TZID=Europe/Rome:20261201T223000
 SUMMARY:La Storia a Processo: Oriana Fallaci

@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-23-gli-spietati-rassegna-gene-hackman@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261123T190000
 DTEND;TZID=Europe/Rome:20261123T210000
 SUMMARY:Gli spietati (rassegna Gene Hackman)
@@ -40,7 +40,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-l-eterna-illusione-da-broadway-a-hollywood@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261123T193000
 DTEND;TZID=Europe/Rome:20261123T213000
 SUMMARY:L'eterna illusione: da Broadway a Hollywood
@@ -54,7 +54,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-vedo-ascolto-parlo-contro-la-violenza-sulle-donn@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Vedo\, ascolto\, parlo: contro la violenza sulle donne
@@ -67,7 +67,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-presentazione-de-il-morandini-2026@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261124T190000
 DTEND;TZID=Europe/Rome:20261124T210000
 SUMMARY:Presentazione de Il Morandini 2026
@@ -79,7 +79,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-docufilm-sui-150-anni-del-corriere@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:Docufilm sui 150 anni del Corriere
@@ -92,7 +92,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-masterclass-con-laura-citarella@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261128T100000
 DTEND;TZID=Europe/Rome:20261128T120000
 SUMMARY:Masterclass con Laura Citarella
@@ -104,7 +104,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-e-andata-cosi-lezione-di-cinema@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261128T103000
 DTEND;TZID=Europe/Rome:20261128T123000
 SUMMARY:È andata così: lezione di cinema
@@ -120,7 +120,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-pupi-avati-il-gotico-padano-e-il-cinema@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261129T110000
 DTEND;TZID=Europe/Rome:20261129T130000
 SUMMARY:Pupi Avati: il gotico padano e il cinema
@@ -135,7 +135,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-noir-in-festival-josephine-di-beth-de-araujo@acculturiamoci.
  it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261130T183000
 DTEND;TZID=Europe/Rome:20261130T203000
 SUMMARY:Noir in Festival: Josephine di Beth De Araujo
@@ -149,7 +149,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-l-eterna-illusione-da-broadway-a-hollywood@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261130T193000
 DTEND;TZID=Europe/Rome:20261130T213000
 SUMMARY:L'eterna illusione: da Broadway a Hollywood
@@ -164,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-noir-in-festival-the-blood-countess-di-ulrike-ot@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261130T213000
 DTEND;TZID=Europe/Rome:20261130T233000
 SUMMARY:Noir in Festival: The Blood Countess di Ulrike Ottinger
@@ -180,7 +180,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-noir-in-festival-mi-amor-di-guillaume-nicloux@acculturiamoci
  .it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261201T190000
 DTEND;TZID=Europe/Rome:20261201T210000
 SUMMARY:Noir in Festival: Mi Amor di Guillaume Nicloux
@@ -193,7 +193,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-noir-in-festival-l-ombra-e-dark-vertigo@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261201T213000
 DTEND;TZID=Europe/Rome:20261201T233000
 SUMMARY:Noir in Festival: L'Ombra e Dark Vertigo
@@ -208,7 +208,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-noir-in-festival-found-alive-di-carlota-pereda@acculturiamoc
  i.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261202T190000
 DTEND;TZID=Europe/Rome:20261202T210000
 SUMMARY:Noir in Festival: Found Alive di Carlota Pereda
@@ -222,7 +222,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-noir-in-festival-furies-di-rami-kodeih@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261202T213000
 DTEND;TZID=Europe/Rome:20261202T233000
 SUMMARY:Noir in Festival: Furies di Rami Kodeih

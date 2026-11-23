@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-presentazione-del-volume-francesca-tulli@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261124T183000
 DTEND;TZID=Europe/Rome:20261124T203000
 SUMMARY:Presentazione del volume "Francesca Tulli"
@@ -40,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-lezioni-di-storia-gennaro-carillo-la-repubblica-@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261125T200000
 DTEND;TZID=Europe/Rome:20261125T220000
 SUMMARY:Lezioni di Storia · Gennaro Carillo: La Repubblica di Platone\, il
@@ -56,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-marinetti-l-uomo-che-invento-il-futuro-talk-film@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261127T180000
 DTEND;TZID=Europe/Rome:20261127T200000
 SUMMARY:Marinetti\, l'uomo che inventò il futuro (talk + film)
@@ -67,9 +67,65 @@ URL:https://www.maxxi.art/events/categories/eventi/
 CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-esperide-fantasie-barocche-sant-ivo-alla-sapienz@acculturiam
+ oci.it
+DTSTAMP:20261123T134825Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Esperide · Fantasie barocche: Sant'Ivo alla Sapienza e Sant'Agnese
+  in Agone
+LOCATION:Sant'Ivo alla Sapienza (corso del Rinascimento 40)
+DESCRIPTION:Visita guidata ai capolavori di Borromini con l'associazione Es
+ peride. Prenotazione: info@esperide.it. https://esperide.it/attivita/
+URL:https://esperide.it/attivita/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-francesco-ai-santi-apostoli-visita-racconto-e-co@acculturiam
+ oci.it
+DTSTAMP:20261123T134825Z
+DTSTART;TZID=Europe/Rome:20261128T160000
+DTEND;TZID=Europe/Rome:20261128T180000
+SUMMARY:Francesco ai Santi Apostoli: visita\, racconto e concerto
+LOCATION:Basilica dei Santi XII Apostoli (piazza dei Santi Apostoli 51)
+DESCRIPTION:Ultimo dei quattro sabati per l'VIII centenario francescano: vi
+ sita guidata\, approfondimento e concerto. https://www.romatoday.it/eventi
+ /san-francesco-incontri-basilica-santi-xii-apostoli-7-28-novembre-2026.htm
+ l
+URL:https://www.romatoday.it/eventi/san-francesco-incontri-basilica-santi-x
+ ii-apostoli-7-28-novembre-2026.html
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-esperide-visita-all-abbazia-delle-tre-fontane@acculturiamoci
+ .it
+DTSTAMP:20261123T134825Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Esperide · Visita all'Abbazia delle Tre Fontane
+LOCATION:Abbazia delle Tre Fontane (via Acque Salvie 1)
+DESCRIPTION:Visita guidata con l'associazione Esperide. Prenotazione: info@
+ esperide.it. https://esperide.it/attivita/
+URL:https://esperide.it/attivita/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-esperide-visita-alla-casa-dei-cavalieri-di-rodi@acculturiamo
+ ci.it
+DTSTAMP:20261123T134825Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Esperide · Visita alla Casa dei Cavalieri di Rodi
+LOCATION:Casa dei Cavalieri di Rodi (piazza del Grillo 1)
+DESCRIPTION:Visita guidata sopra il Foro di Augusto con l'associazione Espe
+ ride. Prenotazione: info@esperide.it. https://esperide.it/attivita/
+URL:https://esperide.it/attivita/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-lezioni-di-storia-francesca-cenerini-gli-annali-@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Lezioni di Storia · Francesca Cenerini: gli Annali di Tacito
@@ -83,7 +139,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-luca-berretta-nell-ombra-del-nilo@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261202T183000
 DTEND;TZID=Europe/Rome:20261202T203000
 SUMMARY:Luca Berretta: Nell'ombra del Nilo
@@ -92,6 +148,49 @@ DESCRIPTION:Giambattista Belzoni\, l'uomo che scese nella storia: presentaz
  ione del libro. https://www.lafeltrinelli.it/punto-vendita/roma/ms-roma-ar
  gentina/555
 URL:https://www.lafeltrinelli.it/punto-vendita/roma/ms-roma-argentina/555
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-sergio-garavini-cent-anni-dopo-cultura-e-politic@acculturiam
+ oci.it
+DTSTAMP:20261123T134825Z
+DTSTART;TZID=Europe/Rome:20261204T110000
+DTEND;TZID=Europe/Rome:20261204T130000
+SUMMARY:Sergio Garavini cent'anni dopo: cultura e politica
+LOCATION:Ex Mattatoio di Testaccio (piazza Orazio Giustiniani 4)
+DESCRIPTION:Incontro per il centenario della nascita del sindacalista e pol
+ itico. https://www.mattatoioroma.it/evento/centenario-della-nascita-di-ser
+ gio-garavini-cultura-e-politica
+URL:https://www.mattatoioroma.it/evento/centenario-della-nascita-di-sergio-
+ garavini-cultura-e-politica
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-esperide-lazio-medievale-il-sacro-speco-di-subia@acculturiam
+ oci.it
+DTSTAMP:20261123T134825Z
+DTSTART;TZID=Europe/Rome:20261210T160000
+DTEND;TZID=Europe/Rome:20261210T180000
+SUMMARY:Esperide · Lazio medievale: il Sacro Speco di Subiaco
+LOCATION:Galleria Cabaret Voltaire (via Panisperna 87)
+DESCRIPTION:Incontro di storia dell'arte del ciclo sul Lazio medievale. 15 
+ € a incontro\, prenotazione: info@esperide.it. https://esperide.it/attiv
+ ita/
+URL:https://esperide.it/attivita/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-le-olimpiadi-del-1944@acculturiamoci.it
+DTSTAMP:20261123T134825Z
+DTSTART;TZID=Europe/Rome:20261210T180000
+DTEND;TZID=Europe/Rome:20261210T200000
+SUMMARY:Le olimpiadi del 1944
+LOCATION:Centro Studi Americani (via Michelangelo Caetani 32)
+DESCRIPTION:Presentazione del libro di Mario Tedeschini Lalli. https://cent
+ rostudiamericani.org/event/presentazione-le-olimpiadi-del-1944-di-mario-te
+ deschini-lalli/
+URL:https://centrostudiamericani.org/event/presentazione-le-olimpiadi-del-1
+ 944-di-mario-tedeschini-lalli/
 CATEGORIES:Arte e storia
 END:VEVENT
 END:VCALENDAR

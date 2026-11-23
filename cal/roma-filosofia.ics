@@ -25,9 +25,26 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-11-25-sartre-e-rossanda-una-ingombrante-intransigenza@acculturiamo
+ ci.it
+DTSTAMP:20261123T134825Z
+DTSTART;TZID=Europe/Rome:20261125T163000
+DTEND;TZID=Europe/Rome:20261125T183000
+SUMMARY:Sartre e Rossanda: una ingombrante intransigenza
+LOCATION:Ex Mattatoio di Testaccio (piazza Orazio Giustiniani 4) · Padigli
+ one 9a
+DESCRIPTION:Presentazione del libro con Luciana Castellina\, Paola Cattani\
+ , Filippo La Porta e la curatrice Sandra Tedoni. https://www.mattatoioroma
+ .it/evento/presentazione-del-libro-sartre-e-rossanda-una-ingombrante-intra
+ nsigenza
+URL:https://www.mattatoioroma.it/evento/presentazione-del-libro-sartre-e-ro
+ ssanda-una-ingombrante-intransigenza
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-25-vito-mancuso-filosofia-e-scienza-per-essere-uman@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261125T190000
 DTEND;TZID=Europe/Rome:20261125T210000
 SUMMARY:Vito Mancuso: Filosofia e scienza per essere umani migliori
@@ -44,7 +61,7 @@ CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-marco-vannini-quale-uomo-quale-dio@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261127T190000
 DTEND;TZID=Europe/Rome:20261127T210000
 SUMMARY:Marco Vannini: Quale uomo\, quale Dio

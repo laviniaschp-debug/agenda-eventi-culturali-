@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-23-today-at-apple-workshop-scatta-foto-eccezionali-@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261123T140000
 DTEND;TZID=Europe/Rome:20261123T160000
 SUMMARY:Today at Apple · Workshop: scatta foto eccezionali con iPhone
@@ -41,7 +41,7 @@ CATEGORIES:Tech e digitale
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-today-at-apple-workshop-video-con-iphone@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261123T150000
 DTEND;TZID=Europe/Rome:20261123T170000
 SUMMARY:Today at Apple · Workshop: video con iPhone
@@ -56,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-workshop-costruisci-la-tua-prima-automazione@acculturiamoci.
  it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261123T183000
 DTEND;TZID=Europe/Rome:20261123T203000
 SUMMARY:Workshop: costruisci la tua prima automazione
@@ -68,7 +68,7 @@ CATEGORIES:Tech e digitale
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-open-coding-night@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261123T190000
 DTEND;TZID=Europe/Rome:20261123T210000
 SUMMARY:Open Coding Night
@@ -82,7 +82,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-kaleidoscope-ai-7-crescere-e-vendere-con-l-intel@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261124T183000
 DTEND;TZID=Europe/Rome:20261124T203000
 SUMMARY:Kaleidoscope AI #7: crescere e vendere con l'intelligenza artificia
@@ -97,7 +97,7 @@ CATEGORIES:Tech e digitale
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-agents-anonymous-milan-chapter@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261125T183000
 DTEND;TZID=Europe/Rome:20261125T203000
 SUMMARY:Agents Anonymous: Milan Chapter
@@ -112,7 +112,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-riprendersi-il-futuro-tecnologia-impresa-e-la-cr@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261126T180000
 DTEND;TZID=Europe/Rome:20261126T200000
 SUMMARY:Riprendersi il futuro: tecnologia\, impresa e la crisi dell'immagin
@@ -128,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-tech-si-gira-ghost-in-the-shell-con-luca-perri@acculturiamoc
  i.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261126T190000
 DTEND;TZID=Europe/Rome:20261126T210000
 SUMMARY:Tech\, si gira! Ghost in the Shell\, con Luca Perri
@@ -142,7 +142,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-today-at-apple-workshop-disegna-con-apple-pencil@acculturiam
  oci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261201T140000
 DTEND;TZID=Europe/Rome:20261201T160000
 SUMMARY:Today at Apple · Workshop: disegna con Apple Pencil su iPad
@@ -155,7 +155,7 @@ CATEGORIES:Tech e digitale
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-il-futuro-e-una-questione-di-competenze@acculturiamoci.it
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261201T183000
 DTEND;TZID=Europe/Rome:20261201T203000
 SUMMARY:Il futuro è una questione di competenze
@@ -171,7 +171,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-data-center-la-casa-dell-ai-anche-in-italia@acculturiamoci.i
  t
-DTSTAMP:20261123T132153Z
+DTSTAMP:20261123T134825Z
 DTSTART;TZID=Europe/Rome:20261203T183000
 DTEND;TZID=Europe/Rome:20261203T203000
 SUMMARY:Data center: la casa dell'AI anche in Italia?
