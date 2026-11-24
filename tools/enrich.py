@@ -39,6 +39,11 @@ MOODS = {
                         r"dibattito|discussione|festa|community|open day|swing|"
                         r"philo|cuccagna|base milano|jam|meetup|networking|coding night|aperitivo", re.I),
 }
+# "Guardarmi dentro": psicologia, filosofia, spiritualità, poesia, relazioni (calcolato sempre, anche su eventi già arricchiti)
+DENTRO = re.compile(r"psicolog|psicoanal|psicoterap|filosof|spiritual|meditaz|mindful|anima\b|felicit|ansia|fragilit|"
+                    r"identit|coscienza|introspez|autobiograf|confession|lutto|senso della vita|tempo che passa|"
+                    r"poesia|poeti|amore|relazion|adolescen|crescita personale|recalcati|galimberti|lingiardi|vito mancuso|"
+                    r"parola e musica|concerti? spirituali|avvento|quaresima", re.I)
 MOOD_BY_CAT = {
     "pensare": {"talk", "filosofia", "geo", "storia", "scienza", "salute", "tech"},
     "emozionarmi": {"classica", "jazz", "teatro", "cinema"},
@@ -84,6 +89,9 @@ def enrich(d, ven_path=VEN):
                 if rx.search(text):
                     m.append(name)
             e["moods"] = sorted(set(m))
+        e["moods"] = [x for x in e["moods"] if x != "dentro"]
+        if (e.get("cat") in ("filosofia", "salute") or DENTRO.search(stext)) and e.get("cat") not in ("famiglie", "tech", "jazz"):
+            e["moods"] = sorted(set(e["moods"]) | {"dentro"})
         if not e.get("geo"):
             v = e.get("venue", "").lower()
             for row in venues:

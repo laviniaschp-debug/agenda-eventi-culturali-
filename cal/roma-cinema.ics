@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-sudori-freddi-l-uomo-che-sapeva-troppo-1934@acculturiamoci.i
  t
-DTSTAMP:20261124T221735Z
+DTSTAMP:20261124T225017Z
 DTSTART;TZID=Europe/Rome:20261124T200000
 DTEND;TZID=Europe/Rome:20261124T220000
 SUMMARY:Sudori freddi: L'uomo che sapeva troppo (1934)
@@ -40,7 +40,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-sudori-freddi-il-club-dei-39@acculturiamoci.it
-DTSTAMP:20261124T221735Z
+DTSTAMP:20261124T225017Z
 DTSTART;TZID=Europe/Rome:20261125T200000
 DTEND;TZID=Europe/Rome:20261125T220000
 SUMMARY:Sudori freddi: Il club dei 39
@@ -53,7 +53,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-sudori-freddi-la-signora-scompare@acculturiamoci.it
-DTSTAMP:20261124T221735Z
+DTSTAMP:20261124T225017Z
 DTSTART;TZID=Europe/Rome:20261126T200000
 DTEND;TZID=Europe/Rome:20261126T220000
 SUMMARY:Sudori freddi: La signora scompare
@@ -65,7 +65,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-sudori-freddi-rebecca-la-prima-moglie@acculturiamoci.it
-DTSTAMP:20261124T221735Z
+DTSTAMP:20261124T225017Z
 DTSTART;TZID=Europe/Rome:20261127T200000
 DTEND;TZID=Europe/Rome:20261127T220000
 SUMMARY:Sudori freddi: Rebecca\, la prima moglie
@@ -79,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-la-buena-letra-di-celia-rico-clavellino-scoprir@acculturiamo
  ci.it
-DTSTAMP:20261124T221735Z
+DTSTAMP:20261124T225017Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:La buena letra di Celia Rico Clavellino (Scoprir)
@@ -93,7 +93,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-nazarin-di-luis-bunuel@acculturiamoci.it
-DTSTAMP:20261124T221735Z
+DTSTAMP:20261124T225017Z
 DTSTART;TZID=Europe/Rome:20261129T180000
 DTEND;TZID=Europe/Rome:20261129T200000
 SUMMARY:Nazarín di Luis Buñuel
@@ -106,7 +106,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-quell-oscuro-oggetto-del-desiderio-di-luis-bunue@acculturiam
  oci.it
-DTSTAMP:20261124T221735Z
+DTSTAMP:20261124T225017Z
 DTSTART;TZID=Europe/Rome:20261129T200000
 DTEND;TZID=Europe/Rome:20261129T220000
 SUMMARY:Quell'oscuro oggetto del desiderio di Luis Buñuel
@@ -119,7 +119,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-il-fascino-discreto-della-borghesia-di-luis-bunu@acculturiam
  oci.it
-DTSTAMP:20261124T221735Z
+DTSTAMP:20261124T225017Z
 DTSTART;TZID=Europe/Rome:20261130T200000
 DTEND;TZID=Europe/Rome:20261130T220000
 SUMMARY:Il fascino discreto della borghesia di Luis Buñuel

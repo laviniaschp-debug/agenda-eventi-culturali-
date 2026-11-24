@@ -4,8 +4,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Acculturiamoci</title>
-<meta name="description" content="Eventi culturali a Milano e Roma: talk, teatro, concerti e lezioni aperte, dal vivo. Stasera, vivi qualcosa che resta.">
-<meta property="og:title" content="Acculturiamoci · Stasera, vivi qualcosa che resta.">
+<meta name="description" content="Eventi culturali a Milano e Roma: talk, teatro, concerti e lezioni aperte, dal vivo. Torna a sentirti vivo.">
+<meta property="og:title" content="Acculturiamoci · Torna a sentirti vivo.">
 <meta property="og:description" content="Tutti gli eventi della tua città per pensare ed emozionarsi, dal vivo.">
 <meta name="theme-color" content="#ffffff">
 <link rel="me" href="https://www.instagram.com/acculturiamoci_official/">
@@ -585,8 +585,8 @@ footer p{margin:0}
 <section class="intro" id="top">
   <div class="wrap">
     <p class="kick" id="heroKick">Eventi culturali a Milano</p>
-    <h1>Stasera, vivi qualcosa <span class="hl">che resta.</span></h1>
-    <p>Talk, teatro, concerti e lezioni aperte, dal vivo. Per chi vuole uscire dalla solita serata, capire un po' di più e tornare a casa con qualcosa da raccontare.</p>
+    <h1>Torna a sentirti <span class="hl">vivo.</span></h1>
+    <p>Quando i giorni si somigliano tutti e niente ti tocca più, serve qualcosa di vero. Talk, teatro, concerti e lezioni aperte, dal vivo: per tornare a farti domande, a emozionarti, a sentire.</p>
     <div class="search" role="search">
       <button class="seg" id="segCity"><b>Dove</b><span id="segCityV">Milano</span></button>
       <div class="sep"></div>
@@ -658,6 +658,7 @@ const THEME_OF = {}; THEMES.forEach(t => t.cats.forEach(c => THEME_OF[c] = t));
 const EXPS = [
   { id:"emozionarmi", label:"Emozionarmi", sub:"concerti, teatro, cinema", em:"✨", c:"#f7d3e3" },
   { id:"pensare", label:"Capire il mondo", sub:"talk, idee, tech, lezioni aperte", em:"💡", c:"#e6ddfa" },
+  { id:"dentro", label:"Guardarmi dentro", sub:"psicologia, filosofia, poesia, spiritualità", em:"🌙", c:"#dfe8d4" },
   { id:"ridere", label:"Farmi una risata", sub:"comicità e ironia", em:"😄", c:"#fce3c2" },
   { id:"gente", label:"Conoscere persone", sub:"laboratori, dibattiti, feste", em:"🥂", c:"#cfede6" }
 ];
@@ -716,7 +717,7 @@ function soonText(e){ const m = minsTo(e); if (m == null || m <= 0 || m > 180) r
 function moodsOf(e){
   if (Array.isArray(e.moods)) return e.moods;
   const m = []; if (["talk","filosofia","geo","storia","scienza","salute","tech"].includes(e.cat)) m.push("pensare");
-  if (["classica","jazz","teatro","cinema"].includes(e.cat)) m.push("emozionarmi"); if (e.cat === "famiglie") m.push("bambini"); return m;
+  if (["classica","jazz","teatro","cinema"].includes(e.cat)) m.push("emozionarmi"); if (e.cat === "famiglie") m.push("bambini"); if (["filosofia","salute"].includes(e.cat)) m.push("dentro"); return m;
 }
 function hasMood(e, id){
   if (id === "gratis") return e.free === true;
