@@ -1201,6 +1201,28 @@
   },
   {
    "date": "2026-11-25",
+   "time": "21:30",
+   "title": "Qui non c'è nessuna donna: il film su Ingeborg Bachmann",
+   "venue": "Anteo Palazzo del Cinema (piazza XXV Aprile 8)",
+   "cat": "cinema",
+   "desc": "Documentario sulla poetessa austriaca, voce tra le più intense del Novecento, nel ciclo che Adelphi e la Statale le dedicano.",
+   "url": "https://www.adelphi.it/agenda/list",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e387",
+   "key": "2026-11-25-qui-non-c-e-nessuna-donna-il-film-su-ingeborg-ba",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.481,
+    9.187
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-25",
    "time": "",
    "title": "Bobby",
    "venue": "Teatro Oscar",
@@ -1314,6 +1336,28 @@
     9.2033
    ],
    "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "16:30",
+   "title": "Sonate e Ballate: i giovani del Conservatorio a Casa Verdi",
+   "venue": "Casa di Riposo per Musicisti – Casa Verdi (piazza Buonarroti 29)",
+   "cat": "classica",
+   "desc": "Recital pianistico tra Scarlatti, Beethoven e Chopin degli allievi del Conservatorio, per la Società del Quartetto, nella casa voluta da Verdi.",
+   "url": "https://www.consmi.it/en/events/page/5/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "e388",
+   "key": "2026-11-26-sonate-e-ballate-i-giovani-del-conservatorio-a-c",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4686,
+    9.1519
+   ],
+   "zona": "Sempione · CityLife"
   },
   {
    "date": "2026-11-26",
@@ -2814,6 +2858,31 @@
   {
    "date": "2026-11-28",
    "time": "12:30",
+   "title": "Il realismo terminale: poesia e mondo degli oggetti",
+   "venue": "Teatro Franco Parenti, Biblioteca (via Pier Lombardo 14)",
+   "cat": "talk",
+   "desc": "Guido Oldani con Pierangelo Dacrema e Luca Grancini sul movimento poetico che racconta un'umanità sommersa dalle cose. BookCity, ingresso libero.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/bookcity-milano-al-parenti-fp/",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e389",
+   "key": "2026-11-28-il-realismo-terminale-poesia-e-mondo-degli-ogget",
+   "moods": [
+    "dentro",
+    "pensare"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "12:30",
    "title": "Matteo Bussola: Il sole nelle pozzanghere",
    "venue": "Teatro Franco Parenti, Sala APA Blu (via Pier Lombardo 14)",
    "cat": "talk",
@@ -2827,6 +2896,31 @@
    "id": "e355",
    "key": "2026-11-28-matteo-bussola-il-sole-nelle-pozzanghere",
    "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "14:00",
+   "title": "Silvia Piccioli: I meloni di Cartesio e altri aneddoti",
+   "venue": "Teatro Franco Parenti, Biblioteca (via Pier Lombardo 14)",
+   "cat": "filosofia",
+   "desc": "La storia della filosofia raccontata attraverso episodi curiosi della vita dei grandi pensatori. BookCity, ingresso libero.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/bookcity-milano-al-parenti-fp/",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e390",
+   "key": "2026-11-28-silvia-piccioli-i-meloni-di-cartesio-e-altri-ane",
+   "moods": [
+    "dentro",
     "pensare"
    ],
    "geo": [
@@ -2907,6 +3001,30 @@
     9.2033
    ],
    "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "15:30",
+   "title": "Ecuba e le altre: spiriti indomiti contro la guerra",
+   "venue": "Teatro Franco Parenti, Biblioteca (via Pier Lombardo 14)",
+   "cat": "storia",
+   "desc": "Vittoria Longoni e Giovanna Majno sulle donne che, dal mito a oggi, hanno detto no alla guerra. BookCity, ingresso libero.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/bookcity-milano-al-parenti-fp/",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e391",
+   "key": "2026-11-28-ecuba-e-le-altre-spiriti-indomiti-contro-la-guer",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-11-28",
@@ -3178,6 +3296,31 @@
   {
    "date": "2026-11-28",
    "time": "18:00",
+   "title": "Jean Echenoz a BookCity",
+   "venue": "Castello Sforzesco, Sala Weiss",
+   "cat": "talk",
+   "desc": "Lo scrittore francese, maestro della prosa ironica e precisa, incontra i lettori italiani. Ingresso libero.",
+   "url": "https://www.adelphi.it/agenda/list",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e393",
+   "key": "2026-11-28-jean-echenoz-a-bookcity",
+   "moods": [
+    "pensare",
+    "ridere"
+   ],
+   "geo": [
+    45.4705,
+    9.1795
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "18:00",
    "title": "La Scala dei libri: A dirci le cose chiare, Don Giovanni",
    "venue": "Teatro alla Scala",
    "cat": "talk",
@@ -3198,6 +3341,31 @@
     9.1895
    ],
    "zona": "Centro"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "18:00",
+   "title": "Quando la vita non risponde: il coraggio di vivere in larghezza",
+   "venue": "Teatro Franco Parenti, Biblioteca (via Pier Lombardo 14)",
+   "cat": "salute",
+   "desc": "Giustiniano La Vecchia con Pietro Gherardi e Gianni Gaude: cosa fare quando un lavoro finisce, una certezza crolla e non ci si riconosce più. BookCity, ingresso libero.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/bookcity-milano-al-parenti-fp/",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e392",
+   "key": "2026-11-28-quando-la-vita-non-risponde-il-coraggio-di-viver",
+   "moods": [
+    "dentro",
+    "pensare"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-11-28",
@@ -3893,6 +4061,30 @@
   {
    "date": "2026-11-29",
    "time": "11:30",
+   "title": "Alice Basso e Rossella Carboni: Evelina non è pazza per niente",
+   "venue": "Teatro Franco Parenti, Café Rouge (via Pier Lombardo 14)",
+   "cat": "talk",
+   "desc": "Un romanzo sulla follia, vera o presunta, e su chi decide cosa sia normale. BookCity, ingresso libero.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/bookcity-milano-al-parenti-fp/",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e394",
+   "key": "2026-11-29-alice-basso-e-rossella-carboni-evelina-non-e-paz",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "11:30",
    "title": "Buon compleanno Gus!",
    "venue": "BASE Milano, Ground Hall",
    "cat": "famiglie",
@@ -3990,6 +4182,31 @@
   },
   {
    "date": "2026-11-29",
+   "time": "12:30",
+   "title": "Rosa Matteucci a BookCity",
+   "venue": "Casa degli Artisti (corso Garibaldi 89/a)",
+   "cat": "talk",
+   "desc": "La scrittrice genovese, voce feroce e comica, presenta il suo nuovo libro Adelphi. Ingresso libero.",
+   "url": "https://www.adelphi.it/agenda/list",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e395",
+   "key": "2026-11-29-rosa-matteucci-a-bookcity",
+   "moods": [
+    "pensare",
+    "ridere"
+   ],
+   "geo": [
+    45.48,
+    9.183
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-29",
    "time": "14:00",
    "title": "Sull'Astolfo e sulla Luna: lettura teatrale",
    "venue": "Teatro Franco Parenti, Biblioteca (via Pier Lombardo 14)",
@@ -4080,6 +4297,30 @@
     9.2105
    ],
    "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "15:30",
+   "title": "Mario Fortunato: L'arte di non perdere il colpevole",
+   "venue": "Teatro Franco Parenti, Biblioteca (via Pier Lombardo 14)",
+   "cat": "talk",
+   "desc": "Con Federico Pietrella, un dialogo su colpa, giustizia e romanzo. BookCity, ingresso libero.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/bookcity-milano-al-parenti-fp/",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e396",
+   "key": "2026-11-29-mario-fortunato-l-arte-di-non-perdere-il-colpevo",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-11-29",
@@ -5663,6 +5904,28 @@
   },
   {
    "date": "2026-12-03",
+   "time": "16:30",
+   "title": "Trii di Schumann e Mendelssohn a Casa Verdi",
+   "venue": "Casa di Riposo per Musicisti – Casa Verdi (piazza Buonarroti 29)",
+   "cat": "classica",
+   "desc": "Musica da camera romantica con i giovani del Conservatorio, per la Società del Quartetto, nella casa di riposo dei musicisti voluta da Verdi.",
+   "url": "https://www.consmi.it/en/events/page/5/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "e397",
+   "key": "2026-12-03-trii-di-schumann-e-mendelssohn-a-casa-verdi",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4686,
+    9.1519
+   ],
+   "zona": "Sempione · CityLife"
+  },
+  {
+   "date": "2026-12-03",
    "time": "18:00",
    "title": "L'angelo ribelle e il Dio geloso",
    "venue": "Teatro alla Scala",
@@ -6455,6 +6718,28 @@
     9.208
    ],
    "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "18:30",
+   "title": "Milva e la storia di Dischi Ricordi",
+   "venue": "Triennale Milano, Voce (viale Alemagna 6)",
+   "cat": "talk",
+   "desc": "Un talk sulla musica italiana e l'eredità della storica etichetta milanese, partendo dalla voce di Milva. Gratis con registrazione.",
+   "url": "https://triennale.org/en/events/milva",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "e398",
+   "key": "2026-12-09-milva-e-la-storia-di-dischi-ricordi",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.472,
+    9.1735
+   ],
+   "zona": "Sempione · CityLife"
   },
   {
    "date": "2026-12-09",

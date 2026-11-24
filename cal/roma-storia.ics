@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-presentazione-del-volume-francesca-tulli@acculturiamoci.it
-DTSTAMP:20261124T225717Z
+DTSTAMP:20261124T230615Z
 DTSTART;TZID=Europe/Rome:20261124T183000
 DTEND;TZID=Europe/Rome:20261124T203000
 SUMMARY:Presentazione del volume "Francesca Tulli"
@@ -40,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-sibyl-von-der-schulenburg-lo-sguardo-di-napoleon@acculturiam
  oci.it
-DTSTAMP:20261124T225717Z
+DTSTAMP:20261124T230615Z
 DTSTART;TZID=Europe/Rome:20261125T180000
 DTEND;TZID=Europe/Rome:20261125T200000
 SUMMARY:Sibyl von der Schulenburg: Lo sguardo di Napoleone
@@ -54,25 +54,9 @@ URL:https://www.palazzoesposizioniroma.it/evento/presentazione-del-libro-lo
 CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-25-lezioni-di-storia-gennaro-carillo-la-repubblica-@acculturiam
- oci.it
-DTSTAMP:20261124T225717Z
-DTSTART;TZID=Europe/Rome:20261125T200000
-DTEND;TZID=Europe/Rome:20261125T220000
-SUMMARY:Lezioni di Storia · Gennaro Carillo: La Repubblica di Platone\, il
-  potere delle idee
-LOCATION:Auditorium Parco della Musica · Sala Sinopoli
-DESCRIPTION:Platone raccontato come se parlasse di noi\, oggi. Il ciclo "Il
-  potere dei classici": Platone e la forza delle idee. https://www.auditori
- um.com/it/rassegne/lezioni-di-storia-2026-2027-il-potere-dei-classici/
-URL:https://www.auditorium.com/it/rassegne/lezioni-di-storia-2026-2027-il-p
- otere-dei-classici/
-CATEGORIES:Arte e storia
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-27-marinetti-l-uomo-che-invento-il-futuro-talk-film@acculturiam
  oci.it
-DTSTAMP:20261124T225717Z
+DTSTAMP:20261124T230615Z
 DTSTART;TZID=Europe/Rome:20261127T180000
 DTEND;TZID=Europe/Rome:20261127T200000
 SUMMARY:Marinetti\, l'uomo che inventò il futuro (talk + film)
@@ -85,7 +69,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-esperide-fantasie-barocche-sant-ivo-alla-sapienz@acculturiam
  oci.it
-DTSTAMP:20261124T225717Z
+DTSTAMP:20261124T230615Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Esperide · Fantasie barocche: Sant'Ivo alla Sapienza e Sant'Agnese
@@ -99,7 +83,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-francesco-ai-santi-apostoli-visita-racconto-e-co@acculturiam
  oci.it
-DTSTAMP:20261124T225717Z
+DTSTAMP:20261124T230615Z
 DTSTART;TZID=Europe/Rome:20261128T160000
 DTEND;TZID=Europe/Rome:20261128T180000
 SUMMARY:Francesco ai Santi Apostoli: visita\, racconto e concerto
@@ -115,7 +99,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-esperide-gli-appartamenti-segreti-doria-pamphilj@acculturiam
  oci.it
-DTSTAMP:20261124T225717Z
+DTSTAMP:20261124T230615Z
 DTSTART;TZID=Europe/Rome:20261128T170000
 DTEND;TZID=Europe/Rome:20261128T190000
 SUMMARY:Esperide · Gli appartamenti segreti Doria Pamphilj
@@ -130,7 +114,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-esperide-visita-all-abbazia-delle-tre-fontane@acculturiamoci
  .it
-DTSTAMP:20261124T225717Z
+DTSTAMP:20261124T230615Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Esperide · Visita all'Abbazia delle Tre Fontane
@@ -143,7 +127,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-esperide-visita-alla-casa-dei-cavalieri-di-rodi@acculturiamo
  ci.it
-DTSTAMP:20261124T225717Z
+DTSTAMP:20261124T230615Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Esperide · Visita alla Casa dei Cavalieri di Rodi
@@ -156,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-lezioni-di-storia-francesca-cenerini-gli-annali-@acculturiam
  oci.it
-DTSTAMP:20261124T225717Z
+DTSTAMP:20261124T230615Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Lezioni di Storia · Francesca Cenerini: gli Annali di Tacito
@@ -170,7 +154,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-esperide-corso-sul-rinascimento-donatello@acculturiamoci.it
-DTSTAMP:20261124T225717Z
+DTSTAMP:20261124T230615Z
 DTSTART;TZID=Europe/Rome:20261130T153000
 DTEND;TZID=Europe/Rome:20261130T173000
 SUMMARY:Esperide · Corso sul Rinascimento: Donatello
@@ -184,7 +168,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-luca-berretta-nell-ombra-del-nilo@acculturiamoci.it
-DTSTAMP:20261124T225717Z
+DTSTAMP:20261124T230615Z
 DTSTART;TZID=Europe/Rome:20261202T183000
 DTEND;TZID=Europe/Rome:20261202T203000
 SUMMARY:Luca Berretta: Nell'ombra del Nilo
@@ -198,7 +182,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-sergio-garavini-cent-anni-dopo-cultura-e-politic@acculturiam
  oci.it
-DTSTAMP:20261124T225717Z
+DTSTAMP:20261124T230615Z
 DTSTART;TZID=Europe/Rome:20261204T110000
 DTEND;TZID=Europe/Rome:20261204T130000
 SUMMARY:Sergio Garavini cent'anni dopo: cultura e politica
@@ -213,7 +197,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-esperide-lazio-medievale-il-sacro-speco-di-subia@acculturiam
  oci.it
-DTSTAMP:20261124T225717Z
+DTSTAMP:20261124T230615Z
 DTSTART;TZID=Europe/Rome:20261210T160000
 DTEND;TZID=Europe/Rome:20261210T180000
 SUMMARY:Esperide · Lazio medievale: il Sacro Speco di Subiaco
@@ -226,7 +210,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-le-olimpiadi-del-1944@acculturiamoci.it
-DTSTAMP:20261124T225717Z
+DTSTAMP:20261124T230615Z
 DTSTART;TZID=Europe/Rome:20261210T180000
 DTEND;TZID=Europe/Rome:20261210T200000
 SUMMARY:Le olimpiadi del 1944

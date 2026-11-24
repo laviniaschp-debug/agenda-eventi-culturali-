@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-25-nicola-lagioia-santa-barbara@acculturiamoci.it
-DTSTAMP:20261124T225717Z
+DTSTAMP:20261124T230615Z
 DTSTART;TZID=Europe/Rome:20261125T180000
 DTEND;TZID=Europe/Rome:20261125T200000
 SUMMARY:Nicola Lagioia: Santa Barbara
@@ -42,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-vito-mancuso-filosofia-e-scienza-per-essere-uman@acculturiam
  oci.it
-DTSTAMP:20261124T225717Z
+DTSTAMP:20261124T230615Z
 DTSTART;TZID=Europe/Rome:20261125T190000
 DTEND;TZID=Europe/Rome:20261125T210000
 SUMMARY:Vito Mancuso: Filosofia e scienza per essere umani migliori
@@ -58,24 +58,8 @@ URL:https://www.nuovaacropoli.it/roma-vito-mancuso-in-filosofia-e-scienza-p
 CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-25-lezioni-di-storia-gennaro-carillo-la-repubblica-@acculturiam
- oci.it
-DTSTAMP:20261124T225717Z
-DTSTART;TZID=Europe/Rome:20261125T200000
-DTEND;TZID=Europe/Rome:20261125T220000
-SUMMARY:Lezioni di Storia · Gennaro Carillo: La Repubblica di Platone\, il
-  potere delle idee
-LOCATION:Auditorium Parco della Musica · Sala Sinopoli
-DESCRIPTION:Platone raccontato come se parlasse di noi\, oggi. Il ciclo "Il
-  potere dei classici": Platone e la forza delle idee. https://www.auditori
- um.com/it/rassegne/lezioni-di-storia-2026-2027-il-potere-dei-classici/
-URL:https://www.auditorium.com/it/rassegne/lezioni-di-storia-2026-2027-il-p
- otere-dei-classici/
-CATEGORIES:Arte e storia
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-26-stefano-mancuso-la-citta-vivente@acculturiamoci.it
-DTSTAMP:20261124T225717Z
+DTSTAMP:20261124T230615Z
 DTSTART;TZID=Europe/Rome:20261126T173000
 DTEND;TZID=Europe/Rome:20261126T193000
 SUMMARY:Stefano Mancuso: La città vivente
@@ -89,7 +73,7 @@ CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-che-dolore-terribile-e-l-amore@acculturiamoci.it
-DTSTAMP:20261124T225717Z
+DTSTAMP:20261124T230615Z
 DTSTART;TZID=Europe/Rome:20261126T200000
 DTEND;TZID=Europe/Rome:20261126T220000
 SUMMARY:Che dolore terribile è l'amore
@@ -106,7 +90,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-anohni-wilderness@acculturiamoci.it
-DTSTAMP:20261124T225717Z
+DTSTAMP:20261124T230615Z
 DTSTART;TZID=Europe/Rome:20261129T200000
 DTEND;TZID=Europe/Rome:20261129T220000
 SUMMARY:ANOHNI: Wilderness
@@ -118,9 +102,23 @@ URL:https://www.auditorium.com/it/
 CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-01-miles-davis-100-l-arte-del-cambiamento@acculturiamoci.it
+DTSTAMP:20261124T230615Z
+DTSTART;TZID=Europe/Rome:20261201T203000
+DTEND;TZID=Europe/Rome:20261201T223000
+SUMMARY:Miles Davis 100: l'arte del cambiamento
+LOCATION:Aula Magna della Sapienza (piazzale Aldo Moro 5)
+DESCRIPTION:Concerto straordinario della IUC per il centenario di Miles Dav
+ is\, l'uomo che ha cambiato il jazz almeno tre volte. Dalle 16 mostra foto
+ grafica dedicata. https://turismoroma.it/it/eventi/miles-davis-100-larte-d
+ el-cambiamento
+URL:https://turismoroma.it/it/eventi/miles-davis-100-larte-del-cambiamento
+CATEGORIES:Jazz e live
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-04-piu-libri-piu-liberi-fiera-della-piccola-e-media@acculturiam
  oci.it
-DTSTAMP:20261124T225717Z
+DTSTAMP:20261124T230615Z
 DTSTART;TZID=Europe/Rome:20261204T100000
 DTEND;TZID=Europe/Rome:20261204T120000
 SUMMARY:Più libri più liberi: fiera della piccola e media editoria
@@ -133,7 +131,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-laurie-anderson-a-hole-in-the-sky@acculturiamoci.it
-DTSTAMP:20261124T225717Z
+DTSTAMP:20261124T230615Z
 DTSTART;TZID=Europe/Rome:20261205T190000
 DTEND;TZID=Europe/Rome:20261205T210000
 SUMMARY:Laurie Anderson: A Hole in the Sky
@@ -143,5 +141,20 @@ DESCRIPTION:Laurie Anderson dal vivo: una leggenda dell'arte e della musica
  www.maxxi.art/events/a-hole-in-the-sky/
 URL:https://www.maxxi.art/events/a-hole-in-the-sky/
 CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-jordi-savall-magnificat-e-gloria-di-vivaldi@acculturiamoci.i
+ t
+DTSTAMP:20261124T230615Z
+DTSTART;TZID=Europe/Rome:20261209T200000
+DTEND;TZID=Europe/Rome:20261209T220000
+SUMMARY:Jordi Savall: Magnificat e Gloria di Vivaldi
+LOCATION:Auditorium Parco della Musica · Sala Sinopoli (viale de Coubertin
+  30)
+DESCRIPTION:La Capella Reial de Catalunya e Les Musiciennes du Concert des 
+ Nations diretti da Savall\, stagione da camera di Santa Cecilia. https://s
+ antacecilia.it/wp-content/uploads/2026/03/Camera_26_27.pdf
+URL:https://santacecilia.it/wp-content/uploads/2026/03/Camera_26_27.pdf
+CATEGORIES:Classica e chiese
 END:VEVENT
 END:VCALENDAR

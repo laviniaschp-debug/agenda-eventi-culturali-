@@ -1,5 +1,11 @@
 [
  {
+  "match": "Casa Verdi",
+  "lat": 45.4686,
+  "lng": 9.1519,
+  "zona": "Sempione · CityLife"
+ },
+ {
   "match": "STEP FuturAbility",
   "lat": 45.4822,
   "lng": 9.1835,

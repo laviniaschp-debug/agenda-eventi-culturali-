@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-25-sartre-e-rossanda-una-ingombrante-intransigenza@acculturiamo
  ci.it
-DTSTAMP:20261124T225717Z
+DTSTAMP:20261124T230615Z
 DTSTART;TZID=Europe/Rome:20261125T163000
 DTEND;TZID=Europe/Rome:20261125T183000
 SUMMARY:Sartre e Rossanda: una ingombrante intransigenza
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-vito-mancuso-filosofia-e-scienza-per-essere-uman@acculturiam
  oci.it
-DTSTAMP:20261124T225717Z
+DTSTAMP:20261124T230615Z
 DTSTART;TZID=Europe/Rome:20261125T190000
 DTEND;TZID=Europe/Rome:20261125T210000
 SUMMARY:Vito Mancuso: Filosofia e scienza per essere umani migliori
@@ -61,7 +61,7 @@ CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-marco-vannini-quale-uomo-quale-dio@acculturiamoci.it
-DTSTAMP:20261124T225717Z
+DTSTAMP:20261124T230615Z
 DTSTART;TZID=Europe/Rome:20261127T190000
 DTEND;TZID=Europe/Rome:20261127T210000
 SUMMARY:Marco Vannini: Quale uomo\, quale Dio
@@ -71,6 +71,19 @@ DESCRIPTION:Il filosofo della mistica presenta il suo libro\, per Libridine
  9-novembre-2026.html
 URL:https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-
  29-novembre-2026.html
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-festival-di-filosofia-al-femminile@acculturiamoci.it
+DTSTAMP:20261124T230615Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Festival di Filosofia al Femminile
+LOCATION:Casa del Municipio IV "Ipazia di Alessandria" (viale Rousseau 90)
+DESCRIPTION:Ultima giornata del festival della Società Filosofica Romana c
+ on Roma Tre e Sapienza per la Giornata mondiale della filosofia: il pensie
+ ro delle donne. https://www.turismoroma.it/fr/node/179745
+URL:https://www.turismoroma.it/fr/node/179745
 CATEGORIES:Filosofia
 END:VEVENT
 END:VCALENDAR

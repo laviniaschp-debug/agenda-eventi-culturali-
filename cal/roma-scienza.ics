@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-25-saperi-in-fermento-aperitivo-di-biodiversita@acculturiamoci.
  it
-DTSTAMP:20261124T225717Z
+DTSTAMP:20261124T230615Z
 DTSTART;TZID=Europe/Rome:20261125T183000
 DTEND;TZID=Europe/Rome:20261125T203000
 SUMMARY:Saperi in fermento: aperitivo di biodiversità
@@ -42,7 +42,7 @@ CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-stefano-mancuso-la-citta-vivente@acculturiamoci.it
-DTSTAMP:20261124T225717Z
+DTSTAMP:20261124T230615Z
 DTSTART;TZID=Europe/Rome:20261126T173000
 DTEND;TZID=Europe/Rome:20261126T193000
 SUMMARY:Stefano Mancuso: La città vivente
@@ -56,7 +56,7 @@ CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-umberto-guidoni-ascensore-per-marte@acculturiamoci.it
-DTSTAMP:20261124T225717Z
+DTSTAMP:20261124T230615Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Umberto Guidoni: Ascensore per Marte
@@ -71,7 +71,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-lorenzo-pinna-cento-anni-in-compagnia-dell-atomo@acculturiam
  oci.it
-DTSTAMP:20261124T225717Z
+DTSTAMP:20261124T230615Z
 DTSTART;TZID=Europe/Rome:20261128T183000
 DTEND;TZID=Europe/Rome:20261128T203000
 SUMMARY:Lorenzo Pinna: Cento anni in compagnia dell'atomo
@@ -81,6 +81,20 @@ DESCRIPTION:Lo storico autore di Quark racconta un secolo di fisica atomica
  so-librerie-21-29-novembre-2026.html
 URL:https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-
  29-novembre-2026.html
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-raffaella-rumiati-invecchiare-bene-e-la-riserva-@acculturiam
+ oci.it
+DTSTAMP:20261124T230615Z
+DTSTART;TZID=Europe/Rome:20261202T170000
+DTEND;TZID=Europe/Rome:20261202T190000
+SUMMARY:Raffaella Rumiati: invecchiare bene e la riserva cognitiva
+LOCATION:Policlinico Umberto I\, Aula A di Patologia Generale (viale Regina
+  Elena 324)
+DESCRIPTION:Conferenza dell'Accademia Medica di Roma su come il cervello si
+  protegge con gli anni. https://www.accademiamedicadiroma.it/conferenze/
+URL:https://www.accademiamedicadiroma.it/conferenze/
 CATEGORIES:Scienza
 END:VEVENT
 END:VCALENDAR

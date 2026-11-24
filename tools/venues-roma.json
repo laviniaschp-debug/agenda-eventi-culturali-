@@ -1,5 +1,29 @@
 [
  {
+  "match": "Cinema delle Provincie",
+  "lat": 41.9118,
+  "lng": 12.5212,
+  "zona": "Parioli · Villa Borghese · Nomentano"
+ },
+ {
+  "match": "Ipazia di Alessandria",
+  "lat": 41.9389,
+  "lng": 12.5547,
+  "zona": "Parioli · Villa Borghese · Nomentano"
+ },
+ {
+  "match": "Aula Magna della Sapienza",
+  "lat": 41.9034,
+  "lng": 12.5154,
+  "zona": "Esquilino · Monti · San Lorenzo"
+ },
+ {
+  "match": "Policlinico Umberto I",
+  "lat": 41.9071,
+  "lng": 12.5127,
+  "zona": "Esquilino · Monti · San Lorenzo"
+ },
+ {
   "match": "Ex Mattatoio",
   "lat": 41.876,
   "lng": 12.475,
