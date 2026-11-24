@@ -2,7 +2,7 @@
  "updated": "2026-11-23T07:51:23+01:00",
  "range": [
   "2026-11-23",
-  "2026-12-03"
+  "2026-12-20"
  ],
  "events": [
   {
@@ -976,6 +976,29 @@
   },
   {
    "date": "2026-11-24",
+   "time": "20:30",
+   "title": "La caccia al tesoro",
+   "venue": "Teatro Filodrammatici",
+   "cat": "teatro",
+   "desc": "Commedia satirica di Bruno Fornasari: dei fratelli scoprono che la badante della madre è stata adottata ed è ora erede. Intero €25, ridotti da €9.",
+   "url": "https://www.mentelocale.it/milano/129404-la-caccia-al-tesoro-la-commedia-la-satirica-di-bruno-fornasari-al-teatro-filodrammatici-di-milano.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e218",
+   "key": "2026-11-24-la-caccia-al-tesoro",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.4677,
+    9.188
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-11-24",
    "time": "",
    "title": "Carl Gustav Jung attraverso il cinema e l'attualità",
    "venue": "Philo (su Zoom)",
@@ -1289,6 +1312,29 @@
     9.2105
    ],
    "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "19:30",
+   "title": "La caccia al tesoro",
+   "venue": "Teatro Filodrammatici",
+   "cat": "teatro",
+   "desc": "Commedia satirica di Bruno Fornasari: dei fratelli scoprono che la badante della madre è stata adottata ed è ora erede. Intero €25, ridotti da €9.",
+   "url": "https://www.mentelocale.it/milano/129404-la-caccia-al-tesoro-la-commedia-la-satirica-di-bruno-fornasari-al-teatro-filodrammatici-di-milano.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e219",
+   "key": "2026-11-25-la-caccia-al-tesoro",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.4677,
+    9.188
+   ],
+   "zona": "Centro"
   },
   {
    "date": "2026-11-25",
@@ -1842,6 +1888,28 @@
   },
   {
    "date": "2026-11-26",
+   "time": "20:00",
+   "title": "Bravissime",
+   "venue": "Teatro della Cooperativa (via Hermada 8)",
+   "cat": "teatro",
+   "desc": "Atir porta in scena le bambine schiacciate dall'imperativo della perfezione: dove finisce la disciplina e inizia l'abuso?",
+   "url": "https://www.mentelocale.it/milano/137381-bravissime.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e224",
+   "key": "2026-11-26-bravissime",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.5162,
+    9.1937
+   ],
+   "zona": "Niguarda"
+  },
+  {
+   "date": "2026-11-26",
    "time": "20:30",
    "title": "Adelchi con Roberto Trifirò",
    "venue": "Centro Culturale di Milano",
@@ -1883,6 +1951,29 @@
     9.228
    ],
    "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "20:30",
+   "title": "La caccia al tesoro",
+   "venue": "Teatro Filodrammatici",
+   "cat": "teatro",
+   "desc": "Commedia satirica di Bruno Fornasari: dei fratelli scoprono che la badante della madre è stata adottata ed è ora erede. Intero €25, ridotti da €9.",
+   "url": "https://www.mentelocale.it/milano/129404-la-caccia-al-tesoro-la-commedia-la-satirica-di-bruno-fornasari-al-teatro-filodrammatici-di-milano.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e220",
+   "key": "2026-11-26-la-caccia-al-tesoro",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.4677,
+    9.188
+   ],
+   "zona": "Centro"
   },
   {
    "date": "2026-11-26",
@@ -2156,6 +2247,28 @@
   },
   {
    "date": "2026-11-27",
+   "time": "20:00",
+   "title": "Bravissime",
+   "venue": "Teatro della Cooperativa (via Hermada 8)",
+   "cat": "teatro",
+   "desc": "Atir porta in scena le bambine schiacciate dall'imperativo della perfezione: dove finisce la disciplina e inizia l'abuso?",
+   "url": "https://www.mentelocale.it/milano/137381-bravissime.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e225",
+   "key": "2026-11-27-bravissime",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.5162,
+    9.1937
+   ],
+   "zona": "Niguarda"
+  },
+  {
+   "date": "2026-11-27",
    "time": "20:30",
    "title": "Adelchi con Roberto Trifirò",
    "venue": "Centro Culturale di Milano",
@@ -2268,6 +2381,73 @@
     9.1824
    ],
    "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "20:30",
+   "title": "XX variazioni a tre",
+   "venue": "Teatro Litta (corso Magenta 24)",
+   "cat": "teatro",
+   "desc": "Danza: tre interpreti in uno spazio chiuso esplorano i ruoli di madre, sorella e figlia. Coreografia e regia di Susanna Baccari.",
+   "url": "https://www.mentelocale.it/milano/132095-xx-variazioni-a-tre.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e197",
+   "key": "2026-11-27-xx-variazioni-a-tre",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4652,
+    9.1772
+   ],
+   "zona": "Magenta · Sant'Ambrogio"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "20:30",
+   "title": "L'amante di Harold Pinter",
+   "venue": "Teatro Fontana (via Boltraffio 21)",
+   "cat": "teatro",
+   "desc": "Pinter sul desiderio e la ferocia della coppia: Giorgio Marchesi e Simonetta Solder, coppia anche nella vita. Regia di Veronica Cruciani.",
+   "url": "https://www.mentelocale.it/milano/120246-l-amante.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e215",
+   "key": "2026-11-27-l-amante-di-harold-pinter",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4896,
+    9.1887
+   ],
+   "zona": "Isola"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "20:30",
+   "title": "La caccia al tesoro",
+   "venue": "Teatro Filodrammatici",
+   "cat": "teatro",
+   "desc": "Commedia satirica di Bruno Fornasari: dei fratelli scoprono che la badante della madre è stata adottata ed è ora erede. Intero €25, ridotti da €9.",
+   "url": "https://www.mentelocale.it/milano/129404-la-caccia-al-tesoro-la-commedia-la-satirica-di-bruno-fornasari-al-teatro-filodrammatici-di-milano.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e221",
+   "key": "2026-11-27-la-caccia-al-tesoro",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.4677,
+    9.188
+   ],
+   "zona": "Centro"
   },
   {
    "date": "2026-11-27",
@@ -2711,6 +2891,50 @@
   },
   {
    "date": "2026-11-28",
+   "time": "19:30",
+   "title": "L'amante di Harold Pinter",
+   "venue": "Teatro Fontana (via Boltraffio 21)",
+   "cat": "teatro",
+   "desc": "Pinter sul desiderio e la ferocia della coppia: Giorgio Marchesi e Simonetta Solder, coppia anche nella vita. Regia di Veronica Cruciani.",
+   "url": "https://www.mentelocale.it/milano/120246-l-amante.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e216",
+   "key": "2026-11-28-l-amante-di-harold-pinter",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4896,
+    9.1887
+   ],
+   "zona": "Isola"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "20:00",
+   "title": "Bravissime",
+   "venue": "Teatro della Cooperativa (via Hermada 8)",
+   "cat": "teatro",
+   "desc": "Atir porta in scena le bambine schiacciate dall'imperativo della perfezione: dove finisce la disciplina e inizia l'abuso?",
+   "url": "https://www.mentelocale.it/milano/137381-bravissime.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e226",
+   "key": "2026-11-28-bravissime",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.5162,
+    9.1937
+   ],
+   "zona": "Niguarda"
+  },
+  {
+   "date": "2026-11-28",
    "time": "20:30",
    "title": "La rivolta",
    "venue": "Teatro Leonardo (via Ampère 1)",
@@ -2752,6 +2976,51 @@
     9.1966
    ],
    "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "20:30",
+   "title": "XX variazioni a tre",
+   "venue": "Teatro Litta (corso Magenta 24)",
+   "cat": "teatro",
+   "desc": "Danza: tre interpreti in uno spazio chiuso esplorano i ruoli di madre, sorella e figlia. Coreografia e regia di Susanna Baccari.",
+   "url": "https://www.mentelocale.it/milano/132095-xx-variazioni-a-tre.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e198",
+   "key": "2026-11-28-xx-variazioni-a-tre",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4652,
+    9.1772
+   ],
+   "zona": "Magenta · Sant'Ambrogio"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "20:30",
+   "title": "La caccia al tesoro",
+   "venue": "Teatro Filodrammatici",
+   "cat": "teatro",
+   "desc": "Commedia satirica di Bruno Fornasari: dei fratelli scoprono che la badante della madre è stata adottata ed è ora erede. Intero €25, ridotti da €9.",
+   "url": "https://www.mentelocale.it/milano/129404-la-caccia-al-tesoro-la-commedia-la-satirica-di-bruno-fornasari-al-teatro-filodrammatici-di-milano.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e222",
+   "key": "2026-11-28-la-caccia-al-tesoro",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.4677,
+    9.188
+   ],
+   "zona": "Centro"
   },
   {
    "date": "2026-11-28",
@@ -3244,6 +3513,51 @@
   },
   {
    "date": "2026-11-29",
+   "time": "16:00",
+   "title": "L'amante di Harold Pinter",
+   "venue": "Teatro Fontana (via Boltraffio 21)",
+   "cat": "teatro",
+   "desc": "Pinter sul desiderio e la ferocia della coppia: Giorgio Marchesi e Simonetta Solder, coppia anche nella vita. Regia di Veronica Cruciani.",
+   "url": "https://www.mentelocale.it/milano/120246-l-amante.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e217",
+   "key": "2026-11-29-l-amante-di-harold-pinter",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4896,
+    9.1887
+   ],
+   "zona": "Isola"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "16:00",
+   "title": "La caccia al tesoro",
+   "venue": "Teatro Filodrammatici",
+   "cat": "teatro",
+   "desc": "Commedia satirica di Bruno Fornasari: dei fratelli scoprono che la badante della madre è stata adottata ed è ora erede. Intero €25, ridotti da €9.",
+   "url": "https://www.mentelocale.it/milano/129404-la-caccia-al-tesoro-la-commedia-la-satirica-di-bruno-fornasari-al-teatro-filodrammatici-di-milano.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e223",
+   "key": "2026-11-29-la-caccia-al-tesoro",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.4677,
+    9.188
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-11-29",
    "time": "16:30",
    "title": "Alicia Giménez-Bartlett, Sotto il cielo infernale",
    "venue": "Castello Sforzesco, Sala Viscontea",
@@ -3312,6 +3626,28 @@
   },
   {
    "date": "2026-11-29",
+   "time": "16:30",
+   "title": "XX variazioni a tre",
+   "venue": "Teatro Litta (corso Magenta 24)",
+   "cat": "teatro",
+   "desc": "Danza: tre interpreti in uno spazio chiuso esplorano i ruoli di madre, sorella e figlia. Coreografia e regia di Susanna Baccari.",
+   "url": "https://www.mentelocale.it/milano/132095-xx-variazioni-a-tre.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e199",
+   "key": "2026-11-29-xx-variazioni-a-tre",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4652,
+    9.1772
+   ],
+   "zona": "Magenta · Sant'Ambrogio"
+  },
+  {
+   "date": "2026-11-29",
    "time": "17:00",
    "title": "Don Giovanni in versione Opera Breve",
    "venue": "Teatro PIME (via Mosè Bianchi 94)",
@@ -3331,6 +3667,28 @@
     9.152
    ],
    "zona": "Sempione · CityLife"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "17:00",
+   "title": "Bravissime",
+   "venue": "Teatro della Cooperativa (via Hermada 8)",
+   "cat": "teatro",
+   "desc": "Atir porta in scena le bambine schiacciate dall'imperativo della perfezione: dove finisce la disciplina e inizia l'abuso?",
+   "url": "https://www.mentelocale.it/milano/137381-bravissime.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e227",
+   "key": "2026-11-29-bravissime",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.5162,
+    9.1937
+   ],
+   "zona": "Niguarda"
   },
   {
    "date": "2026-11-29",
@@ -4272,6 +4630,52 @@
   },
   {
    "date": "2026-12-04",
+   "time": "18:00",
+   "title": "Otello: anteprima Under 30",
+   "venue": "Teatro alla Scala",
+   "cat": "classica",
+   "desc": "Stesso cast della Prima (dir. Myung-Whun Chung, regia Damiano Michieletto), 20 € per chi ha meno di 30 anni.",
+   "url": "https://www.teatroallascala.org",
+   "free": false,
+   "tags": [
+    "imperdibile"
+   ],
+   "verify": true,
+   "id": "e253",
+   "key": "2026-12-04-otello-anteprima-under-30",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4674,
+    9.1895
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "19:30",
+   "title": "Lady Day (Billie Holiday)",
+   "venue": "Teatro Carcano",
+   "cat": "teatro",
+   "desc": "Mariangela D'Abbraccio è Billie Holiday, con pianoforte e contrabbasso dal vivo. Testo di Maurizio De Giovanni.",
+   "url": "https://www.mentelocale.it/milano/129798-chi-ha-paura-di-virginia-woolf.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e239",
+   "key": "2026-12-04-lady-day-billie-holiday",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4547,
+    9.1966
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-04",
    "time": "20:45",
    "title": "Freddy Kempf, pianoforte",
    "venue": "Conservatorio, Sala Puccini",
@@ -4316,6 +4720,28 @@
   },
   {
    "date": "2026-12-05",
+   "time": "20:30",
+   "title": "Lady Day (Billie Holiday)",
+   "venue": "Teatro Carcano",
+   "cat": "teatro",
+   "desc": "Mariangela D'Abbraccio è Billie Holiday, con pianoforte e contrabbasso dal vivo. Testo di Maurizio De Giovanni.",
+   "url": "https://www.mentelocale.it/milano/129798-chi-ha-paura-di-virginia-woolf.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e240",
+   "key": "2026-12-05-lady-day-billie-holiday",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4547,
+    9.1966
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-05",
    "time": "21:00",
    "title": "a nice noise: the cut of your jib",
    "venue": "Arci Biko (via Ettore Ponti 40)",
@@ -4335,6 +4761,94 @@
     9.156
    ],
    "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-12-06",
+   "time": "16:30",
+   "title": "Lady Day (Billie Holiday)",
+   "venue": "Teatro Carcano",
+   "cat": "teatro",
+   "desc": "Mariangela D'Abbraccio è Billie Holiday, con pianoforte e contrabbasso dal vivo. Testo di Maurizio De Giovanni.",
+   "url": "https://www.mentelocale.it/milano/129798-chi-ha-paura-di-virginia-woolf.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e241",
+   "key": "2026-12-06-lady-day-billie-holiday",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4547,
+    9.1966
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-07",
+   "time": "18:00",
+   "title": "Otello: la Prima della Scala",
+   "venue": "Teatro alla Scala",
+   "cat": "classica",
+   "desc": "Sant'Ambrogio, l'apertura di stagione. Anche in diretta in tanti luoghi della città.",
+   "url": "https://www.teatroallascala.org",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "e254",
+   "key": "2026-12-07-otello-la-prima-della-scala",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4674,
+    9.1895
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "20:30",
+   "title": "Aria di libertà (Settembre '43 / Aprile '45)",
+   "venue": "Teatro della Cooperativa (via Hermada 8)",
+   "cat": "storia",
+   "desc": "Giancarlo Biffi racconta la generazione che, uscita dalla dittatura, costruì la Repubblica.",
+   "url": "https://www.mentelocale.it/milano/137379-aria-liberta.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e228",
+   "key": "2026-12-09-aria-di-liberta-settembre-43-aprile-45",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.5162,
+    9.1937
+   ],
+   "zona": "Niguarda"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "20:30",
+   "title": "Bùbaro dei Bùbari",
+   "venue": "Teatro Litta (corso Magenta 24)",
+   "cat": "teatro",
+   "desc": "Un fratello e una sorella sopravvissuti all'incendio del campo in cui sono nati si chiedono cosa voglia dire, oggi, essere nomadi. Con Chiara Ferrara e Luca Ingravalle.",
+   "url": "https://www.mentelocale.it/milano/132103-b-baro-dei-b-bari.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e200",
+   "key": "2026-12-09-bubaro-dei-bubari",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4652,
+    9.1772
+   ],
+   "zona": "Magenta · Sant'Ambrogio"
   },
   {
    "date": "2026-12-09",
@@ -4360,6 +4874,94 @@
   },
   {
    "date": "2026-12-10",
+   "time": "19:30",
+   "title": "Il viale del tramonto",
+   "venue": "Teatro Carcano",
+   "cat": "teatro",
+   "desc": "Iaia Forte nello spettacolo di Muta Imago ispirato al film di Billy Wilder.",
+   "url": "https://www.mentelocale.it/milano/130644-9z37j18mgunne5i.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e242",
+   "key": "2026-12-10-il-viale-del-tramonto",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4547,
+    9.1966
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-10",
+   "time": "20:00",
+   "title": "Aria di libertà (Settembre '43 / Aprile '45)",
+   "venue": "Teatro della Cooperativa (via Hermada 8)",
+   "cat": "storia",
+   "desc": "Giancarlo Biffi racconta la generazione che, uscita dalla dittatura, costruì la Repubblica.",
+   "url": "https://www.mentelocale.it/milano/137379-aria-liberta.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e229",
+   "key": "2026-12-10-aria-di-liberta-settembre-43-aprile-45",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.5162,
+    9.1937
+   ],
+   "zona": "Niguarda"
+  },
+  {
+   "date": "2026-12-10",
+   "time": "20:30",
+   "title": "Bùbaro dei Bùbari",
+   "venue": "Teatro Litta (corso Magenta 24)",
+   "cat": "teatro",
+   "desc": "Un fratello e una sorella sopravvissuti all'incendio del campo in cui sono nati si chiedono cosa voglia dire, oggi, essere nomadi. Con Chiara Ferrara e Luca Ingravalle.",
+   "url": "https://www.mentelocale.it/milano/132103-b-baro-dei-b-bari.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e201",
+   "key": "2026-12-10-bubaro-dei-bubari",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4652,
+    9.1772
+   ],
+   "zona": "Magenta · Sant'Ambrogio"
+  },
+  {
+   "date": "2026-12-10",
+   "time": "20:30",
+   "title": "Uno, nessuno e centomila",
+   "venue": "Teatro Leonardo (via Ampère 1)",
+   "cat": "teatro",
+   "desc": "Pirandello e la crisi d'identità di Vitangelo Moscarda, in una versione pensata soprattutto per i giovani.",
+   "url": "https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e205",
+   "key": "2026-12-10-uno-nessuno-e-centomila",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.48,
+    9.228
+   ],
+   "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-12-10",
    "time": "21:00",
    "title": "TMRW TALK: EP release party",
    "venue": "Arci Biko (via Ettore Ponti 40)",
@@ -4379,6 +4981,116 @@
     9.156
    ],
    "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-12-11",
+   "time": "19:30",
+   "title": "Il viale del tramonto",
+   "venue": "Teatro Carcano",
+   "cat": "teatro",
+   "desc": "Iaia Forte nello spettacolo di Muta Imago ispirato al film di Billy Wilder.",
+   "url": "https://www.mentelocale.it/milano/130644-9z37j18mgunne5i.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e243",
+   "key": "2026-12-11-il-viale-del-tramonto",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4547,
+    9.1966
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-11",
+   "time": "20:00",
+   "title": "Aria di libertà (Settembre '43 / Aprile '45)",
+   "venue": "Teatro della Cooperativa (via Hermada 8)",
+   "cat": "storia",
+   "desc": "Giancarlo Biffi racconta la generazione che, uscita dalla dittatura, costruì la Repubblica.",
+   "url": "https://www.mentelocale.it/milano/137379-aria-liberta.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e230",
+   "key": "2026-12-11-aria-di-liberta-settembre-43-aprile-45",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.5162,
+    9.1937
+   ],
+   "zona": "Niguarda"
+  },
+  {
+   "date": "2026-12-11",
+   "time": "20:30",
+   "title": "Bùbaro dei Bùbari",
+   "venue": "Teatro Litta (corso Magenta 24)",
+   "cat": "teatro",
+   "desc": "Un fratello e una sorella sopravvissuti all'incendio del campo in cui sono nati si chiedono cosa voglia dire, oggi, essere nomadi. Con Chiara Ferrara e Luca Ingravalle.",
+   "url": "https://www.mentelocale.it/milano/132103-b-baro-dei-b-bari.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e202",
+   "key": "2026-12-11-bubaro-dei-bubari",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4652,
+    9.1772
+   ],
+   "zona": "Magenta · Sant'Ambrogio"
+  },
+  {
+   "date": "2026-12-11",
+   "time": "20:30",
+   "title": "Uno, nessuno e centomila",
+   "venue": "Teatro Leonardo (via Ampère 1)",
+   "cat": "teatro",
+   "desc": "Pirandello e la crisi d'identità di Vitangelo Moscarda, in una versione pensata soprattutto per i giovani.",
+   "url": "https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e206",
+   "key": "2026-12-11-uno-nessuno-e-centomila",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.48,
+    9.228
+   ],
+   "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-12-11",
+   "time": "20:30",
+   "title": "Come una specie di vertigine (il nano, Calvino, la libertà)",
+   "venue": "Teatro Oscar",
+   "cat": "teatro",
+   "desc": "Mario Perrotta intreccia romanzi, versi e canzoni attorno a Italo Calvino.",
+   "url": "https://www.mentelocale.it/milano/128393-come-una-specie-di-vertigine-il-nano-calvino-la-libert.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e250",
+   "key": "2026-12-11-come-una-specie-di-vertigine-il-nano-calvino-la-",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.456,
+    9.2215
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-12-11",
@@ -4405,6 +5117,116 @@
   },
   {
    "date": "2026-12-12",
+   "time": "20:00",
+   "title": "Aria di libertà (Settembre '43 / Aprile '45)",
+   "venue": "Teatro della Cooperativa (via Hermada 8)",
+   "cat": "storia",
+   "desc": "Giancarlo Biffi racconta la generazione che, uscita dalla dittatura, costruì la Repubblica.",
+   "url": "https://www.mentelocale.it/milano/137379-aria-liberta.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e231",
+   "key": "2026-12-12-aria-di-liberta-settembre-43-aprile-45",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.5162,
+    9.1937
+   ],
+   "zona": "Niguarda"
+  },
+  {
+   "date": "2026-12-12",
+   "time": "20:30",
+   "title": "Bùbaro dei Bùbari",
+   "venue": "Teatro Litta (corso Magenta 24)",
+   "cat": "teatro",
+   "desc": "Un fratello e una sorella sopravvissuti all'incendio del campo in cui sono nati si chiedono cosa voglia dire, oggi, essere nomadi. Con Chiara Ferrara e Luca Ingravalle.",
+   "url": "https://www.mentelocale.it/milano/132103-b-baro-dei-b-bari.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e203",
+   "key": "2026-12-12-bubaro-dei-bubari",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4652,
+    9.1772
+   ],
+   "zona": "Magenta · Sant'Ambrogio"
+  },
+  {
+   "date": "2026-12-12",
+   "time": "20:30",
+   "title": "Uno, nessuno e centomila",
+   "venue": "Teatro Leonardo (via Ampère 1)",
+   "cat": "teatro",
+   "desc": "Pirandello e la crisi d'identità di Vitangelo Moscarda, in una versione pensata soprattutto per i giovani.",
+   "url": "https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e207",
+   "key": "2026-12-12-uno-nessuno-e-centomila",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.48,
+    9.228
+   ],
+   "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-12-12",
+   "time": "20:30",
+   "title": "Il viale del tramonto",
+   "venue": "Teatro Carcano",
+   "cat": "teatro",
+   "desc": "Iaia Forte nello spettacolo di Muta Imago ispirato al film di Billy Wilder.",
+   "url": "https://www.mentelocale.it/milano/130644-9z37j18mgunne5i.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e244",
+   "key": "2026-12-12-il-viale-del-tramonto",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4547,
+    9.1966
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-12",
+   "time": "20:30",
+   "title": "Come una specie di vertigine (il nano, Calvino, la libertà)",
+   "venue": "Teatro Oscar",
+   "cat": "teatro",
+   "desc": "Mario Perrotta intreccia romanzi, versi e canzoni attorno a Italo Calvino.",
+   "url": "https://www.mentelocale.it/milano/128393-come-una-specie-di-vertigine-il-nano-calvino-la-libert.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e251",
+   "key": "2026-12-12-come-una-specie-di-vertigine-il-nano-calvino-la-",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.456,
+    9.2215
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-12",
    "time": "21:00",
    "title": "Wild Honey's Christmas Party vol. 5",
    "venue": "Arci Biko (via Ettore Ponti 40)",
@@ -4425,6 +5247,204 @@
     9.156
    ],
    "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-12-13",
+   "time": "16:00",
+   "title": "Bùbaro dei Bùbari",
+   "venue": "Teatro Litta (corso Magenta 24)",
+   "cat": "teatro",
+   "desc": "Un fratello e una sorella sopravvissuti all'incendio del campo in cui sono nati si chiedono cosa voglia dire, oggi, essere nomadi. Con Chiara Ferrara e Luca Ingravalle.",
+   "url": "https://www.mentelocale.it/milano/132103-b-baro-dei-b-bari.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e204",
+   "key": "2026-12-13-bubaro-dei-bubari",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4652,
+    9.1772
+   ],
+   "zona": "Magenta · Sant'Ambrogio"
+  },
+  {
+   "date": "2026-12-13",
+   "time": "16:00",
+   "title": "Uno, nessuno e centomila",
+   "venue": "Teatro Leonardo (via Ampère 1)",
+   "cat": "teatro",
+   "desc": "Pirandello e la crisi d'identità di Vitangelo Moscarda, in una versione pensata soprattutto per i giovani.",
+   "url": "https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e213",
+   "key": "2026-12-13-uno-nessuno-e-centomila",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.48,
+    9.228
+   ],
+   "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-12-13",
+   "time": "16:00",
+   "title": "Come una specie di vertigine (il nano, Calvino, la libertà)",
+   "venue": "Teatro Oscar",
+   "cat": "teatro",
+   "desc": "Mario Perrotta intreccia romanzi, versi e canzoni attorno a Italo Calvino.",
+   "url": "https://www.mentelocale.it/milano/128393-come-una-specie-di-vertigine-il-nano-calvino-la-libert.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e252",
+   "key": "2026-12-13-come-una-specie-di-vertigine-il-nano-calvino-la-",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.456,
+    9.2215
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-13",
+   "time": "16:30",
+   "title": "Il viale del tramonto",
+   "venue": "Teatro Carcano",
+   "cat": "teatro",
+   "desc": "Iaia Forte nello spettacolo di Muta Imago ispirato al film di Billy Wilder.",
+   "url": "https://www.mentelocale.it/milano/130644-9z37j18mgunne5i.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e245",
+   "key": "2026-12-13-il-viale-del-tramonto",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4547,
+    9.1966
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-13",
+   "time": "17:00",
+   "title": "Aria di libertà (Settembre '43 / Aprile '45)",
+   "venue": "Teatro della Cooperativa (via Hermada 8)",
+   "cat": "storia",
+   "desc": "Giancarlo Biffi racconta la generazione che, uscita dalla dittatura, costruì la Repubblica.",
+   "url": "https://www.mentelocale.it/milano/137379-aria-liberta.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e232",
+   "key": "2026-12-13-aria-di-liberta-settembre-43-aprile-45",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.5162,
+    9.1937
+   ],
+   "zona": "Niguarda"
+  },
+  {
+   "date": "2026-12-15",
+   "time": "20:00",
+   "title": "Don Chisciotte senza Mancia",
+   "venue": "Teatro della Cooperativa (via Hermada 8)",
+   "cat": "teatro",
+   "desc": "Prima nazionale con Laura Curino e Anna Marcato.",
+   "url": "https://www.mentelocale.it/milano/137383-don-chisciotte-senza-mancia.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e233",
+   "key": "2026-12-15-don-chisciotte-senza-mancia",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.5162,
+    9.1937
+   ],
+   "zona": "Niguarda"
+  },
+  {
+   "date": "2026-12-15",
+   "time": "20:30",
+   "title": "Uno, nessuno e centomila",
+   "venue": "Teatro Leonardo (via Ampère 1)",
+   "cat": "teatro",
+   "desc": "Pirandello e la crisi d'identità di Vitangelo Moscarda, in una versione pensata soprattutto per i giovani.",
+   "url": "https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e208",
+   "key": "2026-12-15-uno-nessuno-e-centomila",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.48,
+    9.228
+   ],
+   "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-12-16",
+   "time": "20:30",
+   "title": "Uno, nessuno e centomila",
+   "venue": "Teatro Leonardo (via Ampère 1)",
+   "cat": "teatro",
+   "desc": "Pirandello e la crisi d'identità di Vitangelo Moscarda, in una versione pensata soprattutto per i giovani.",
+   "url": "https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e209",
+   "key": "2026-12-16-uno-nessuno-e-centomila",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.48,
+    9.228
+   ],
+   "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-12-16",
+   "time": "20:30",
+   "title": "Don Chisciotte senza Mancia",
+   "venue": "Teatro della Cooperativa (via Hermada 8)",
+   "cat": "teatro",
+   "desc": "Prima nazionale con Laura Curino e Anna Marcato.",
+   "url": "https://www.mentelocale.it/milano/137383-don-chisciotte-senza-mancia.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e234",
+   "key": "2026-12-16-don-chisciotte-senza-mancia",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.5162,
+    9.1937
+   ],
+   "zona": "Niguarda"
   },
   {
    "date": "2026-12-16",
@@ -4450,6 +5470,72 @@
   },
   {
    "date": "2026-12-17",
+   "time": "19:30",
+   "title": "C'è chi dice no: Renzo, Lucia, i giovani",
+   "venue": "Teatro Carcano",
+   "cat": "teatro",
+   "desc": "Secondo capitolo del progetto sui Promessi sposi di Carcano e Atir.",
+   "url": "https://www.mentelocale.it/milano/130645-c-chi-dice-no-renzo-lucia-i-giovani.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e246",
+   "key": "2026-12-17-c-e-chi-dice-no-renzo-lucia-i-giovani",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4547,
+    9.1966
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-17",
+   "time": "20:00",
+   "title": "Don Chisciotte senza Mancia",
+   "venue": "Teatro della Cooperativa (via Hermada 8)",
+   "cat": "teatro",
+   "desc": "Prima nazionale con Laura Curino e Anna Marcato.",
+   "url": "https://www.mentelocale.it/milano/137383-don-chisciotte-senza-mancia.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e235",
+   "key": "2026-12-17-don-chisciotte-senza-mancia",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.5162,
+    9.1937
+   ],
+   "zona": "Niguarda"
+  },
+  {
+   "date": "2026-12-17",
+   "time": "20:30",
+   "title": "Uno, nessuno e centomila",
+   "venue": "Teatro Leonardo (via Ampère 1)",
+   "cat": "teatro",
+   "desc": "Pirandello e la crisi d'identità di Vitangelo Moscarda, in una versione pensata soprattutto per i giovani.",
+   "url": "https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e210",
+   "key": "2026-12-17-uno-nessuno-e-centomila",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.48,
+    9.228
+   ],
+   "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-12-17",
    "time": "21:00",
    "title": "Sa-Roc con Malasartoria Milano",
    "venue": "Arci Biko (via Ettore Ponti 40)",
@@ -4469,6 +5555,138 @@
     9.156
    ],
    "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-12-18",
+   "time": "19:30",
+   "title": "C'è chi dice no: Renzo, Lucia, i giovani",
+   "venue": "Teatro Carcano",
+   "cat": "teatro",
+   "desc": "Secondo capitolo del progetto sui Promessi sposi di Carcano e Atir.",
+   "url": "https://www.mentelocale.it/milano/130645-c-chi-dice-no-renzo-lucia-i-giovani.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e247",
+   "key": "2026-12-18-c-e-chi-dice-no-renzo-lucia-i-giovani",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4547,
+    9.1966
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-18",
+   "time": "20:00",
+   "title": "Don Chisciotte senza Mancia",
+   "venue": "Teatro della Cooperativa (via Hermada 8)",
+   "cat": "teatro",
+   "desc": "Prima nazionale con Laura Curino e Anna Marcato.",
+   "url": "https://www.mentelocale.it/milano/137383-don-chisciotte-senza-mancia.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e236",
+   "key": "2026-12-18-don-chisciotte-senza-mancia",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.5162,
+    9.1937
+   ],
+   "zona": "Niguarda"
+  },
+  {
+   "date": "2026-12-18",
+   "time": "20:30",
+   "title": "Uno, nessuno e centomila",
+   "venue": "Teatro Leonardo (via Ampère 1)",
+   "cat": "teatro",
+   "desc": "Pirandello e la crisi d'identità di Vitangelo Moscarda, in una versione pensata soprattutto per i giovani.",
+   "url": "https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e211",
+   "key": "2026-12-18-uno-nessuno-e-centomila",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.48,
+    9.228
+   ],
+   "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-12-19",
+   "time": "20:00",
+   "title": "Don Chisciotte senza Mancia",
+   "venue": "Teatro della Cooperativa (via Hermada 8)",
+   "cat": "teatro",
+   "desc": "Prima nazionale con Laura Curino e Anna Marcato.",
+   "url": "https://www.mentelocale.it/milano/137383-don-chisciotte-senza-mancia.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e237",
+   "key": "2026-12-19-don-chisciotte-senza-mancia",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.5162,
+    9.1937
+   ],
+   "zona": "Niguarda"
+  },
+  {
+   "date": "2026-12-19",
+   "time": "20:30",
+   "title": "Uno, nessuno e centomila",
+   "venue": "Teatro Leonardo (via Ampère 1)",
+   "cat": "teatro",
+   "desc": "Pirandello e la crisi d'identità di Vitangelo Moscarda, in una versione pensata soprattutto per i giovani.",
+   "url": "https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e212",
+   "key": "2026-12-19-uno-nessuno-e-centomila",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.48,
+    9.228
+   ],
+   "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-12-19",
+   "time": "20:30",
+   "title": "C'è chi dice no: Renzo, Lucia, i giovani",
+   "venue": "Teatro Carcano",
+   "cat": "teatro",
+   "desc": "Secondo capitolo del progetto sui Promessi sposi di Carcano e Atir.",
+   "url": "https://www.mentelocale.it/milano/130645-c-chi-dice-no-renzo-lucia-i-giovani.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e248",
+   "key": "2026-12-19-c-e-chi-dice-no-renzo-lucia-i-giovani",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4547,
+    9.1966
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-12-19",
@@ -4491,6 +5709,72 @@
     9.156
    ],
    "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-12-20",
+   "time": "16:00",
+   "title": "Uno, nessuno e centomila",
+   "venue": "Teatro Leonardo (via Ampère 1)",
+   "cat": "teatro",
+   "desc": "Pirandello e la crisi d'identità di Vitangelo Moscarda, in una versione pensata soprattutto per i giovani.",
+   "url": "https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e214",
+   "key": "2026-12-20-uno-nessuno-e-centomila",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.48,
+    9.228
+   ],
+   "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-12-20",
+   "time": "16:30",
+   "title": "C'è chi dice no: Renzo, Lucia, i giovani",
+   "venue": "Teatro Carcano",
+   "cat": "teatro",
+   "desc": "Secondo capitolo del progetto sui Promessi sposi di Carcano e Atir.",
+   "url": "https://www.mentelocale.it/milano/130645-c-chi-dice-no-renzo-lucia-i-giovani.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e249",
+   "key": "2026-12-20-c-e-chi-dice-no-renzo-lucia-i-giovani",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4547,
+    9.1966
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-20",
+   "time": "17:00",
+   "title": "Don Chisciotte senza Mancia",
+   "venue": "Teatro della Cooperativa (via Hermada 8)",
+   "cat": "teatro",
+   "desc": "Prima nazionale con Laura Curino e Anna Marcato.",
+   "url": "https://www.mentelocale.it/milano/137383-don-chisciotte-senza-mancia.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e238",
+   "key": "2026-12-20-don-chisciotte-senza-mancia",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.5162,
+    9.1937
+   ],
+   "zona": "Niguarda"
   }
  ],
  "mostre": [

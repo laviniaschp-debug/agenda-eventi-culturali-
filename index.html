@@ -313,14 +313,15 @@ body.lock .fab{display:none}
 .dayhead h4{margin:0;font-size:30px;font-weight:800;letter-spacing:-.025em}
 .dayhead span{color:var(--muted);font-weight:600}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:24px 20px}
-.ev{display:block;text-decoration:none;cursor:pointer;border-radius:var(--r)}
+.ev{display:block;min-width:0;text-decoration:none;cursor:pointer;border-radius:var(--r)}
+.ev .ttl,.ev .ven{overflow-wrap:anywhere}
 .ev .ph{height:170px;border-radius:var(--r);background:var(--pc);position:relative;overflow:hidden;padding:14px 14px 16px 16px;display:flex;flex-direction:column;justify-content:space-between;transition:transform .2s var(--ease)}
 .ev:hover .ph{transform:scale(1.02)}
 .ev .ph .tm{font-size:34px;font-weight:800;letter-spacing:-.03em;line-height:1;position:relative}
 .ev .ph .tm.na{font-size:15px;font-weight:700;color:var(--muted)}
 .ev .ph>svg{position:absolute;right:-10px;bottom:-12px;width:120px;height:120px;stroke:var(--c);fill:none;stroke-width:1.2;opacity:.55;stroke-linecap:round;stroke-linejoin:round}
 .ev .ph .top{display:flex;justify-content:space-between;align-items:flex-start;gap:6px;position:relative}
-.ev .ph .tags{display:flex;flex-wrap:wrap;gap:4px}
+.ev .ph .tags{display:flex;flex-wrap:wrap;gap:4px;min-width:0}
 .ev .heart{width:34px;height:34px}
 .ev .heart svg{width:17px;height:17px}
 .ev .ttl{display:block;font-weight:700;font-size:15.5px;line-height:1.3;margin-top:12px}
@@ -510,7 +511,7 @@ footer p{margin:0}
   .dcell strong{font-size:18px}
   .dcell .cnt{font-size:10.5px}
   .dots i{width:5px;height:5px}
-  .grid{grid-template-columns:1fr 1fr;gap:18px 12px}
+  .grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:18px 12px}
   .ev .ph{height:128px;padding:10px 10px 12px 12px}
   .ev .ph .tm{font-size:24px}
   .ev .ph>svg{width:80px;height:80px}
@@ -712,13 +713,26 @@ function toggleSave(key, btn){
   else { SAVED[key] = snap(e); toast("Salvato in Le mie serate ♥"); }
   store.set("acc.saved", SAVED); updateBadge();
   $$(`.heart[data-k="${CSS.escape(key)}"]`).forEach(h => { h.setAttribute("aria-pressed", !!SAVED[key]); if (SAVED[key] && !reduced()){ h.classList.remove("pop"); void h.offsetWidth; h.classList.add("pop"); } });
-  if (btn && btn.closest("#serate")) render();
+  refreshSerate();
 }
 function toggleBeen(key){
   const e = BYKEY[key] || SAVED[key]; if (!e) return;
   if (BEEN[key]) { delete BEEN[key]; toast("Timbro tolto"); } else { BEEN[key] = { cat:e.cat, title:e.title, date:e.date }; toast(`Timbro ${CATS[e.cat] ? "“" + CATS[e.cat] + "”" : ""} aggiunto al passaporto ✦`); }
   store.set("acc.been", BEEN);
 }
+function upcomingSaved(){ const t = today(); return Object.values(SAVED).filter(e => e.date >= t).sort((a,b) => (a.date+(a.time||"99")).localeCompare(b.date+(b.time||"99"))); }
+function serateInner(){
+  const upcoming = upcomingSaved();
+  return `${upcoming.length ? `<h4>Hai ${upcoming.length} ${upcoming.length === 1 ? "evento" : "eventi"} in programma</h4>` : `<h4>Ancora niente qui</h4><p class="sub" style="margin:4px 0 0">Tocca ♥ su un evento che ti piace: lo ritrovi qui, pronto da mettere in calendario o mandare a un amico.</p>`}
+        ${upcoming.map(e => { const d = pd(e.date); return `<div class="prow" data-cat="${e.cat}" data-open="${esc(e.key)}" role="button" tabindex="0"><span class="dt"><span><small>${DOW[d.getDay()]}</small><b>${d.getDate()}</b><small>${MONS[d.getMonth()]}</small></span></span><span class="tx"><b>${esc(e.title)}</b><span>${esc(e.time||"orario da definire")} · ${esc(e.venue)}</span></span>${heart(e)}</div>`; }).join("")}
+        ${upcoming.length ? `<div class="mini"><button id="planIcs">${ic("cal")}Aggiungi tutto al calendario</button><button id="planShare">${ic("share")}Condividi le mie serate</button></div>` : ""}`;
+}
+function bindSerate(){
+  const upcoming = upcomingSaved();
+  if ($("#planIcs")) $("#planIcs").onclick = () => downloadICS(upcoming, "le-mie-serate.ics");
+  if ($("#planShare")) $("#planShare").onclick = () => shareText("Le mie serate su Acculturiamoci:\n" + upcoming.map(e => `• ${dayWord(e.date)} ${e.time||""} — ${e.title} (${e.venue})`).join("\n") + `\nhttps://${SITE}`);
+}
+function refreshSerate(){ const b = $("#serateBox"); if (b){ b.innerHTML = serateInner(); bindSerate(); } }
 function updateBadge(){ const n = Object.values(SAVED).filter(e => e.date >= today()).length; const b = $("#savedN"); b.textContent = n; b.classList.toggle("zero", !n); }
 function heart(e){ return `<button class="heart" data-k="${esc(e.key)}" aria-pressed="${!!SAVED[e.key]}" aria-label="Salva in Le mie serate">${heartSVG}</button>`; }
 
@@ -938,11 +952,7 @@ function render(){
 
     <section class="sec" id="serate">
       <h3>♥ Le mie serate <small>salvate su questo dispositivo, senza account</small></h3>
-      <div class="box">
-        ${upcoming.length ? `<h4>Hai ${upcoming.length} ${upcoming.length === 1 ? "evento" : "eventi"} in programma</h4>` : `<h4>Ancora niente qui</h4><p class="sub" style="margin:4px 0 0">Tocca ♥ su un evento che ti piace: lo ritrovi qui, pronto da mettere in calendario o mandare a un amico.</p>`}
-        ${upcoming.map(e => { const d = pd(e.date); return `<div class="prow" data-cat="${e.cat}" data-open="${esc(e.key)}" role="button" tabindex="0"><span class="dt"><span><small>${DOW[d.getDay()]}</small><b>${d.getDate()}</b><small>${MONS[d.getMonth()]}</small></span></span><span class="tx"><b>${esc(e.title)}</b><span>${esc(e.time||"orario da definire")} · ${esc(e.venue)}</span></span>${heart(e)}</div>`; }).join("")}
-        ${upcoming.length ? `<div class="mini"><button id="planIcs">${ic("cal")}Aggiungi tutto al calendario</button><button id="planShare">${ic("share")}Condividi le mie serate</button></div>` : ""}
-      </div>
+      <div class="box" id="serateBox">${serateInner()}</div>
     </section>
 
     <section class="sec" id="segui">
@@ -993,8 +1003,7 @@ function render(){
   $("#nw").onclick = () => { S.weekStart = add(S.weekStart,7); render(); };
   $("#orgForm").onsubmit = sendOrg;
   $$("[data-past]").forEach(b => b.onclick = () => { S.showPast = !S.showPast; render(); });
-  if ($("#planIcs")) $("#planIcs").onclick = () => downloadICS(upcoming, "le-mie-serate.ics");
-  if ($("#planShare")) $("#planShare").onclick = () => shareText("Le mie serate su Acculturiamoci:\n" + upcoming.map(e => `• ${dayWord(e.date)} ${e.time||""} — ${e.title} (${e.venue})`).join("\n") + `\nhttps://${SITE}`);
+  bindSerate();
   if (S.view === "map") drawMap(vis.filter(e => sel.has(e.date)));
 }
 
@@ -1296,6 +1305,21 @@ async function load(){
   else if (h.startsWith("e=")) key = h.slice(2);
   await switchCity(city, key);
 }
+// link interni o tasto indietro: #roma, #milano/e=KEY (gli ancoraggi tipo #serate restano normali)
+window.addEventListener("hashchange", () => {
+  const h = decodeURIComponent(location.hash.replace("#",""));
+  const m = h.match(/^([a-z]+)(?:\/e=(.+))?$/);
+  let city = null, key = null;
+  if (m && CITIES.some(c => c.id === m[1])){ city = m[1]; key = m[2] || null; }
+  else if (h.startsWith("e=")) { city = "milano"; key = h.slice(2); }
+  else return;
+  const sheetOpen = $("#sheet").classList.contains("open");
+  if (city !== S.city){
+    if (sheetOpen){ $("#sheet").classList.remove("open"); $("#scrim").classList.remove("open"); document.body.classList.remove("lock"); }
+    switchCity(city, key); window.scrollTo({top:0});
+  } else if (key){ openSheet(key); }
+  else if (sheetOpen){ closeSheet(); }
+});
 setInterval(() => { if (DATA && !$("#sheet").classList.contains("open") && !$("#stories").classList.contains("open") && S.view !== "map") render(); }, 5*60*1000);
 const fabObs = "IntersectionObserver" in window ? new IntersectionObserver(([en]) => $("#fab").classList.toggle("show", !en.isIntersecting)) : null;
 if (fabObs) fabObs.observe($(".search"));

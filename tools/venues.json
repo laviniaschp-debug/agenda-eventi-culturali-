@@ -364,5 +364,23 @@
   "lat": 45.429,
   "lng": 9.194,
   "zona": "Fuori centro"
+ },
+ {
+  "match": "Teatro Litta",
+  "lat": 45.4652,
+  "lng": 9.1772,
+  "zona": "Magenta · Sant'Ambrogio"
+ },
+ {
+  "match": "Teatro Fontana",
+  "lat": 45.4896,
+  "lng": 9.1887,
+  "zona": "Isola"
+ },
+ {
+  "match": "Teatro della Cooperativa",
+  "lat": 45.5162,
+  "lng": 9.1937,
+  "zona": "Niguarda"
  }
 ]

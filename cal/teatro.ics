@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-23-teatro-dietro-l-angolo-la-drammaturgia@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261123T180000
 DTEND;TZID=Europe/Rome:20261123T200000
 SUMMARY:Teatro dietro l'angolo: la drammaturgia
@@ -41,7 +41,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-alessandro-bergonzoni-voto-di-vastita@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261123T203000
 DTEND;TZID=Europe/Rome:20261123T223000
 SUMMARY:Alessandro Bergonzoni\, Voto di vastità
@@ -55,7 +55,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261124T193000
 DTEND;TZID=Europe/Rome:20261124T213000
 SUMMARY:Io sono verticale
@@ -67,7 +67,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261124T193000
 DTEND;TZID=Europe/Rome:20261124T213000
 SUMMARY:Una delle ultime sere di carnovale
@@ -81,7 +81,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-rompiamo-il-silenzio@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261124T200000
 DTEND;TZID=Europe/Rome:20261124T220000
 SUMMARY:Rompiamo il silenzio
@@ -94,7 +94,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-i-monologhi-della-vagina@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261124T203000
 DTEND;TZID=Europe/Rome:20261124T223000
 SUMMARY:I monologhi della vagina
@@ -107,7 +107,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-la-rivolta@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261124T203000
 DTEND;TZID=Europe/Rome:20261124T223000
 SUMMARY:La rivolta
@@ -118,8 +118,24 @@ URL:https://www.mentelocale.it/milano/139866-rivolta.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-24-la-caccia-al-tesoro@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261124T203000
+DTEND;TZID=Europe/Rome:20261124T223000
+SUMMARY:La caccia al tesoro
+LOCATION:Teatro Filodrammatici
+DESCRIPTION:Commedia satirica di Bruno Fornasari: dei fratelli scoprono che
+  la badante della madre è stata adottata ed è ora erede. Intero €25\, 
+ ridotti da €9. https://www.mentelocale.it/milano/129404-la-caccia-al-tes
+ oro-la-commedia-la-satirica-di-bruno-fornasari-al-teatro-filodrammatici-di
+ -milano.htm
+URL:https://www.mentelocale.it/milano/129404-la-caccia-al-tesoro-la-commedi
+ a-la-satirica-di-bruno-fornasari-al-teatro-filodrammatici-di-milano.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-24-iliade-la-ballata-di-tersite@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Iliade: la ballata di Tersite
@@ -133,7 +149,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261125T193000
 DTEND;TZID=Europe/Rome:20261125T213000
 SUMMARY:Io sono verticale
@@ -144,8 +160,24 @@ URL:https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-25-la-caccia-al-tesoro@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261125T193000
+DTEND;TZID=Europe/Rome:20261125T213000
+SUMMARY:La caccia al tesoro
+LOCATION:Teatro Filodrammatici
+DESCRIPTION:Commedia satirica di Bruno Fornasari: dei fratelli scoprono che
+  la badante della madre è stata adottata ed è ora erede. Intero €25\, 
+ ridotti da €9. https://www.mentelocale.it/milano/129404-la-caccia-al-tes
+ oro-la-commedia-la-satirica-di-bruno-fornasari-al-teatro-filodrammatici-di
+ -milano.htm
+URL:https://www.mentelocale.it/milano/129404-la-caccia-al-tesoro-la-commedi
+ a-la-satirica-di-bruno-fornasari-al-teatro-filodrammatici-di-milano.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-25-la-rivolta@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261125T203000
 DTEND;TZID=Europe/Rome:20261125T223000
 SUMMARY:La rivolta
@@ -157,7 +189,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261125T203000
 DTEND;TZID=Europe/Rome:20261125T223000
 SUMMARY:Una delle ultime sere di carnovale
@@ -172,7 +204,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-uomini-si-diventa-nella-mente-di-un-femminicida@acculturiamo
  ci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261125T203000
 DTEND;TZID=Europe/Rome:20261125T223000
 SUMMARY:Uomini si diventa. Nella mente di un femminicida
@@ -184,7 +216,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-bobby@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Bobby
@@ -195,7 +227,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-teatro-dietro-l-angolo-la-drammaturgia@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261126T180000
 DTEND;TZID=Europe/Rome:20261126T200000
 SUMMARY:Teatro dietro l'angolo: la drammaturgia
@@ -210,7 +242,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261126T193000
 DTEND;TZID=Europe/Rome:20261126T213000
 SUMMARY:Io sono verticale
@@ -222,7 +254,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261126T193000
 DTEND;TZID=Europe/Rome:20261126T213000
 SUMMARY:Una delle ultime sere di carnovale
@@ -235,8 +267,21 @@ URL:https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-car
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-26-bravissime@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261126T200000
+DTEND;TZID=Europe/Rome:20261126T220000
+SUMMARY:Bravissime
+LOCATION:Teatro della Cooperativa (via Hermada 8)
+DESCRIPTION:Atir porta in scena le bambine schiacciate dall'imperativo dell
+ a perfezione: dove finisce la disciplina e inizia l'abuso? https://www.men
+ telocale.it/milano/137381-bravissime.htm
+URL:https://www.mentelocale.it/milano/137381-bravissime.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-26-adelchi-con-roberto-trifiro@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261126T203000
 DTEND;TZID=Europe/Rome:20261126T223000
 SUMMARY:Adelchi con Roberto Trifirò
@@ -250,7 +295,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-la-rivolta@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261126T203000
 DTEND;TZID=Europe/Rome:20261126T223000
 SUMMARY:La rivolta
@@ -261,8 +306,24 @@ URL:https://www.mentelocale.it/milano/139866-rivolta.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-26-la-caccia-al-tesoro@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261126T203000
+DTEND;TZID=Europe/Rome:20261126T223000
+SUMMARY:La caccia al tesoro
+LOCATION:Teatro Filodrammatici
+DESCRIPTION:Commedia satirica di Bruno Fornasari: dei fratelli scoprono che
+  la badante della madre è stata adottata ed è ora erede. Intero €25\, 
+ ridotti da €9. https://www.mentelocale.it/milano/129404-la-caccia-al-tes
+ oro-la-commedia-la-satirica-di-bruno-fornasari-al-teatro-filodrammatici-di
+ -milano.htm
+URL:https://www.mentelocale.it/milano/129404-la-caccia-al-tesoro-la-commedi
+ a-la-satirica-di-bruno-fornasari-al-teatro-filodrammatici-di-milano.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261127T190000
 DTEND;TZID=Europe/Rome:20261127T210000
 SUMMARY:Io sono verticale
@@ -273,8 +334,21 @@ URL:https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-bravissime@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261127T200000
+DTEND;TZID=Europe/Rome:20261127T220000
+SUMMARY:Bravissime
+LOCATION:Teatro della Cooperativa (via Hermada 8)
+DESCRIPTION:Atir porta in scena le bambine schiacciate dall'imperativo dell
+ a perfezione: dove finisce la disciplina e inizia l'abuso? https://www.men
+ telocale.it/milano/137381-bravissime.htm
+URL:https://www.mentelocale.it/milano/137381-bravissime.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-adelchi-con-roberto-trifiro@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:Adelchi con Roberto Trifirò
@@ -288,7 +362,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-di-madre-in-figlia@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:Di madre in figlia
@@ -301,7 +375,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-la-rivolta@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:La rivolta
@@ -313,7 +387,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:Una delle ultime sere di carnovale
@@ -326,8 +400,50 @@ URL:https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-car
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-xx-variazioni-a-tre@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261127T203000
+DTEND;TZID=Europe/Rome:20261127T223000
+SUMMARY:XX variazioni a tre
+LOCATION:Teatro Litta (corso Magenta 24)
+DESCRIPTION:Danza: tre interpreti in uno spazio chiuso esplorano i ruoli di
+  madre\, sorella e figlia. Coreografia e regia di Susanna Baccari. https:/
+ /www.mentelocale.it/milano/132095-xx-variazioni-a-tre.htm
+URL:https://www.mentelocale.it/milano/132095-xx-variazioni-a-tre.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-l-amante-di-harold-pinter@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261127T203000
+DTEND;TZID=Europe/Rome:20261127T223000
+SUMMARY:L'amante di Harold Pinter
+LOCATION:Teatro Fontana (via Boltraffio 21)
+DESCRIPTION:Pinter sul desiderio e la ferocia della coppia: Giorgio Marches
+ i e Simonetta Solder\, coppia anche nella vita. Regia di Veronica Cruciani
+ . https://www.mentelocale.it/milano/120246-l-amante.htm
+URL:https://www.mentelocale.it/milano/120246-l-amante.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-la-caccia-al-tesoro@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261127T203000
+DTEND;TZID=Europe/Rome:20261127T223000
+SUMMARY:La caccia al tesoro
+LOCATION:Teatro Filodrammatici
+DESCRIPTION:Commedia satirica di Bruno Fornasari: dei fratelli scoprono che
+  la badante della madre è stata adottata ed è ora erede. Intero €25\, 
+ ridotti da €9. https://www.mentelocale.it/milano/129404-la-caccia-al-tes
+ oro-la-commedia-la-satirica-di-bruno-fornasari-al-teatro-filodrammatici-di
+ -milano.htm
+URL:https://www.mentelocale.it/milano/129404-la-caccia-al-tesoro-la-commedi
+ a-la-satirica-di-bruno-fornasari-al-teatro-filodrammatici-di-milano.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-di-madre-in-figlia@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261128T193000
 DTEND;TZID=Europe/Rome:20261128T213000
 SUMMARY:Di madre in figlia
@@ -340,7 +456,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261128T193000
 DTEND;TZID=Europe/Rome:20261128T213000
 SUMMARY:Io sono verticale
@@ -352,7 +468,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261128T193000
 DTEND;TZID=Europe/Rome:20261128T213000
 SUMMARY:Una delle ultime sere di carnovale
@@ -365,8 +481,34 @@ URL:https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-car
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-l-amante-di-harold-pinter@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261128T193000
+DTEND;TZID=Europe/Rome:20261128T213000
+SUMMARY:L'amante di Harold Pinter
+LOCATION:Teatro Fontana (via Boltraffio 21)
+DESCRIPTION:Pinter sul desiderio e la ferocia della coppia: Giorgio Marches
+ i e Simonetta Solder\, coppia anche nella vita. Regia di Veronica Cruciani
+ . https://www.mentelocale.it/milano/120246-l-amante.htm
+URL:https://www.mentelocale.it/milano/120246-l-amante.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-bravissime@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261128T200000
+DTEND;TZID=Europe/Rome:20261128T220000
+SUMMARY:Bravissime
+LOCATION:Teatro della Cooperativa (via Hermada 8)
+DESCRIPTION:Atir porta in scena le bambine schiacciate dall'imperativo dell
+ a perfezione: dove finisce la disciplina e inizia l'abuso? https://www.men
+ telocale.it/milano/137381-bravissime.htm
+URL:https://www.mentelocale.it/milano/137381-bravissime.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-la-rivolta@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261128T203000
 DTEND;TZID=Europe/Rome:20261128T223000
 SUMMARY:La rivolta
@@ -378,7 +520,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-stai-zitta@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261128T203000
 DTEND;TZID=Europe/Rome:20261128T223000
 SUMMARY:Stai zitta!
@@ -390,8 +532,37 @@ URL:https://www.mentelocale.it/milano/129771-stai-zitta.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-xx-variazioni-a-tre@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261128T203000
+DTEND;TZID=Europe/Rome:20261128T223000
+SUMMARY:XX variazioni a tre
+LOCATION:Teatro Litta (corso Magenta 24)
+DESCRIPTION:Danza: tre interpreti in uno spazio chiuso esplorano i ruoli di
+  madre\, sorella e figlia. Coreografia e regia di Susanna Baccari. https:/
+ /www.mentelocale.it/milano/132095-xx-variazioni-a-tre.htm
+URL:https://www.mentelocale.it/milano/132095-xx-variazioni-a-tre.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-la-caccia-al-tesoro@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261128T203000
+DTEND;TZID=Europe/Rome:20261128T223000
+SUMMARY:La caccia al tesoro
+LOCATION:Teatro Filodrammatici
+DESCRIPTION:Commedia satirica di Bruno Fornasari: dei fratelli scoprono che
+  la badante della madre è stata adottata ed è ora erede. Intero €25\, 
+ ridotti da €9. https://www.mentelocale.it/milano/129404-la-caccia-al-tes
+ oro-la-commedia-la-satirica-di-bruno-fornasari-al-teatro-filodrammatici-di
+ -milano.htm
+URL:https://www.mentelocale.it/milano/129404-la-caccia-al-tesoro-la-commedi
+ a-la-satirica-di-bruno-fornasari-al-teatro-filodrammatici-di-milano.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261129T153000
 DTEND;TZID=Europe/Rome:20261129T173000
 SUMMARY:Io sono verticale
@@ -403,7 +574,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-di-madre-in-figlia@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261129T160000
 DTEND;TZID=Europe/Rome:20261129T180000
 SUMMARY:Di madre in figlia
@@ -416,7 +587,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261129T160000
 DTEND;TZID=Europe/Rome:20261129T180000
 SUMMARY:Una delle ultime sere di carnovale
@@ -429,8 +600,37 @@ URL:https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-car
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-l-amante-di-harold-pinter@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261129T160000
+DTEND;TZID=Europe/Rome:20261129T180000
+SUMMARY:L'amante di Harold Pinter
+LOCATION:Teatro Fontana (via Boltraffio 21)
+DESCRIPTION:Pinter sul desiderio e la ferocia della coppia: Giorgio Marches
+ i e Simonetta Solder\, coppia anche nella vita. Regia di Veronica Cruciani
+ . https://www.mentelocale.it/milano/120246-l-amante.htm
+URL:https://www.mentelocale.it/milano/120246-l-amante.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-la-caccia-al-tesoro@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261129T160000
+DTEND;TZID=Europe/Rome:20261129T180000
+SUMMARY:La caccia al tesoro
+LOCATION:Teatro Filodrammatici
+DESCRIPTION:Commedia satirica di Bruno Fornasari: dei fratelli scoprono che
+  la badante della madre è stata adottata ed è ora erede. Intero €25\, 
+ ridotti da €9. https://www.mentelocale.it/milano/129404-la-caccia-al-tes
+ oro-la-commedia-la-satirica-di-bruno-fornasari-al-teatro-filodrammatici-di
+ -milano.htm
+URL:https://www.mentelocale.it/milano/129404-la-caccia-al-tesoro-la-commedi
+ a-la-satirica-di-bruno-fornasari-al-teatro-filodrammatici-di-milano.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-la-rivolta@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261129T163000
 DTEND;TZID=Europe/Rome:20261129T183000
 SUMMARY:La rivolta
@@ -442,7 +642,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-stai-zitta@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261129T163000
 DTEND;TZID=Europe/Rome:20261129T183000
 SUMMARY:Stai zitta!
@@ -453,8 +653,34 @@ URL:https://www.mentelocale.it/milano/129771-stai-zitta.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-xx-variazioni-a-tre@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261129T163000
+DTEND;TZID=Europe/Rome:20261129T183000
+SUMMARY:XX variazioni a tre
+LOCATION:Teatro Litta (corso Magenta 24)
+DESCRIPTION:Danza: tre interpreti in uno spazio chiuso esplorano i ruoli di
+  madre\, sorella e figlia. Coreografia e regia di Susanna Baccari. https:/
+ /www.mentelocale.it/milano/132095-xx-variazioni-a-tre.htm
+URL:https://www.mentelocale.it/milano/132095-xx-variazioni-a-tre.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-bravissime@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261129T170000
+DTEND;TZID=Europe/Rome:20261129T190000
+SUMMARY:Bravissime
+LOCATION:Teatro della Cooperativa (via Hermada 8)
+DESCRIPTION:Atir porta in scena le bambine schiacciate dall'imperativo dell
+ a perfezione: dove finisce la disciplina e inizia l'abuso? https://www.men
+ telocale.it/milano/137381-bravissime.htm
+URL:https://www.mentelocale.it/milano/137381-bravissime.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-30-alessandro-cattelan-benvenuto-nell-ai@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261130T210000
 DTEND;TZID=Europe/Rome:20261130T230000
 SUMMARY:Alessandro Cattelan\, Benvenuto nell'AI!
@@ -467,7 +693,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-curae-2026-non-ti-pago-apertura@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Curae 2026: Non ti pago (apertura)
@@ -483,7 +709,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-di-madre-in-figlia@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261201T193000
 DTEND;TZID=Europe/Rome:20261201T213000
 SUMMARY:Di madre in figlia
@@ -497,7 +723,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-giuseppe-il-padre-putativo-anteprima-under-30@acculturiamoci
  .it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;TZID=Europe/Rome:20261201T193000
 DTEND;TZID=Europe/Rome:20261201T213000
 SUMMARY:Giuseppe: il padre putativo (anteprima under 30)
@@ -511,7 +737,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-don-milani-la-parola-che-nutre@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Don Milani. La parola che nutre
@@ -524,7 +750,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-spose-del-vento@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Spose del vento
@@ -536,7 +762,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-curae-2026-portami-la-fuori@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Curae 2026: Portami là fuori
@@ -552,7 +778,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-giuseppe-il-padre-putativo@acculturiamoci.it
-DTSTAMP:20261123T134825Z
+DTSTAMP:20261124T064737Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Giuseppe: il padre putativo
@@ -561,6 +787,475 @@ DESCRIPTION:Michele Di Giacomo porta in scena il testo di Luca Cardetta su
  san Giuseppe\, padre che non è padre. Repliche fino al 6 dicembre. https:
  //www.elfo.org
 URL:https://www.elfo.org
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-lady-day-billie-holiday@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261204T193000
+DTEND;TZID=Europe/Rome:20261204T213000
+SUMMARY:Lady Day (Billie Holiday)
+LOCATION:Teatro Carcano
+DESCRIPTION:Mariangela D'Abbraccio è Billie Holiday\, con pianoforte e con
+ trabbasso dal vivo. Testo di Maurizio De Giovanni. https://www.mentelocale
+ .it/milano/129798-chi-ha-paura-di-virginia-woolf.htm
+URL:https://www.mentelocale.it/milano/129798-chi-ha-paura-di-virginia-woolf
+ .htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-lady-day-billie-holiday@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261205T203000
+DTEND;TZID=Europe/Rome:20261205T223000
+SUMMARY:Lady Day (Billie Holiday)
+LOCATION:Teatro Carcano
+DESCRIPTION:Mariangela D'Abbraccio è Billie Holiday\, con pianoforte e con
+ trabbasso dal vivo. Testo di Maurizio De Giovanni. https://www.mentelocale
+ .it/milano/129798-chi-ha-paura-di-virginia-woolf.htm
+URL:https://www.mentelocale.it/milano/129798-chi-ha-paura-di-virginia-woolf
+ .htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-lady-day-billie-holiday@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261206T163000
+DTEND;TZID=Europe/Rome:20261206T183000
+SUMMARY:Lady Day (Billie Holiday)
+LOCATION:Teatro Carcano
+DESCRIPTION:Mariangela D'Abbraccio è Billie Holiday\, con pianoforte e con
+ trabbasso dal vivo. Testo di Maurizio De Giovanni. https://www.mentelocale
+ .it/milano/129798-chi-ha-paura-di-virginia-woolf.htm
+URL:https://www.mentelocale.it/milano/129798-chi-ha-paura-di-virginia-woolf
+ .htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-bubaro-dei-bubari@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261209T203000
+DTEND;TZID=Europe/Rome:20261209T223000
+SUMMARY:Bùbaro dei Bùbari
+LOCATION:Teatro Litta (corso Magenta 24)
+DESCRIPTION:Un fratello e una sorella sopravvissuti all'incendio del campo 
+ in cui sono nati si chiedono cosa voglia dire\, oggi\, essere nomadi. Con 
+ Chiara Ferrara e Luca Ingravalle. https://www.mentelocale.it/milano/132103
+ -b-baro-dei-b-bari.htm
+URL:https://www.mentelocale.it/milano/132103-b-baro-dei-b-bari.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-il-viale-del-tramonto@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261210T193000
+DTEND;TZID=Europe/Rome:20261210T213000
+SUMMARY:Il viale del tramonto
+LOCATION:Teatro Carcano
+DESCRIPTION:Iaia Forte nello spettacolo di Muta Imago ispirato al film di B
+ illy Wilder. https://www.mentelocale.it/milano/130644-9z37j18mgunne5i.htm
+URL:https://www.mentelocale.it/milano/130644-9z37j18mgunne5i.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-bubaro-dei-bubari@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261210T203000
+DTEND;TZID=Europe/Rome:20261210T223000
+SUMMARY:Bùbaro dei Bùbari
+LOCATION:Teatro Litta (corso Magenta 24)
+DESCRIPTION:Un fratello e una sorella sopravvissuti all'incendio del campo 
+ in cui sono nati si chiedono cosa voglia dire\, oggi\, essere nomadi. Con 
+ Chiara Ferrara e Luca Ingravalle. https://www.mentelocale.it/milano/132103
+ -b-baro-dei-b-bari.htm
+URL:https://www.mentelocale.it/milano/132103-b-baro-dei-b-bari.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-uno-nessuno-e-centomila@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261210T203000
+DTEND;TZID=Europe/Rome:20261210T223000
+SUMMARY:Uno\, nessuno e centomila
+LOCATION:Teatro Leonardo (via Ampère 1)
+DESCRIPTION:Pirandello e la crisi d'identità di Vitangelo Moscarda\, in un
+ a versione pensata soprattutto per i giovani. https://www.mentelocale.it/m
+ ilano/132940-uno-nessuno-e-centomila.htm
+URL:https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-il-viale-del-tramonto@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261211T193000
+DTEND;TZID=Europe/Rome:20261211T213000
+SUMMARY:Il viale del tramonto
+LOCATION:Teatro Carcano
+DESCRIPTION:Iaia Forte nello spettacolo di Muta Imago ispirato al film di B
+ illy Wilder. https://www.mentelocale.it/milano/130644-9z37j18mgunne5i.htm
+URL:https://www.mentelocale.it/milano/130644-9z37j18mgunne5i.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-bubaro-dei-bubari@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261211T203000
+DTEND;TZID=Europe/Rome:20261211T223000
+SUMMARY:Bùbaro dei Bùbari
+LOCATION:Teatro Litta (corso Magenta 24)
+DESCRIPTION:Un fratello e una sorella sopravvissuti all'incendio del campo 
+ in cui sono nati si chiedono cosa voglia dire\, oggi\, essere nomadi. Con 
+ Chiara Ferrara e Luca Ingravalle. https://www.mentelocale.it/milano/132103
+ -b-baro-dei-b-bari.htm
+URL:https://www.mentelocale.it/milano/132103-b-baro-dei-b-bari.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-uno-nessuno-e-centomila@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261211T203000
+DTEND;TZID=Europe/Rome:20261211T223000
+SUMMARY:Uno\, nessuno e centomila
+LOCATION:Teatro Leonardo (via Ampère 1)
+DESCRIPTION:Pirandello e la crisi d'identità di Vitangelo Moscarda\, in un
+ a versione pensata soprattutto per i giovani. https://www.mentelocale.it/m
+ ilano/132940-uno-nessuno-e-centomila.htm
+URL:https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-come-una-specie-di-vertigine-il-nano-calvino-la-@acculturiam
+ oci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261211T203000
+DTEND;TZID=Europe/Rome:20261211T223000
+SUMMARY:Come una specie di vertigine (il nano\, Calvino\, la libertà)
+LOCATION:Teatro Oscar
+DESCRIPTION:Mario Perrotta intreccia romanzi\, versi e canzoni attorno a It
+ alo Calvino. https://www.mentelocale.it/milano/128393-come-una-specie-di-v
+ ertigine-il-nano-calvino-la-libert.htm
+URL:https://www.mentelocale.it/milano/128393-come-una-specie-di-vertigine-i
+ l-nano-calvino-la-libert.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-bubaro-dei-bubari@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261212T203000
+DTEND;TZID=Europe/Rome:20261212T223000
+SUMMARY:Bùbaro dei Bùbari
+LOCATION:Teatro Litta (corso Magenta 24)
+DESCRIPTION:Un fratello e una sorella sopravvissuti all'incendio del campo 
+ in cui sono nati si chiedono cosa voglia dire\, oggi\, essere nomadi. Con 
+ Chiara Ferrara e Luca Ingravalle. https://www.mentelocale.it/milano/132103
+ -b-baro-dei-b-bari.htm
+URL:https://www.mentelocale.it/milano/132103-b-baro-dei-b-bari.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-uno-nessuno-e-centomila@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261212T203000
+DTEND;TZID=Europe/Rome:20261212T223000
+SUMMARY:Uno\, nessuno e centomila
+LOCATION:Teatro Leonardo (via Ampère 1)
+DESCRIPTION:Pirandello e la crisi d'identità di Vitangelo Moscarda\, in un
+ a versione pensata soprattutto per i giovani. https://www.mentelocale.it/m
+ ilano/132940-uno-nessuno-e-centomila.htm
+URL:https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-il-viale-del-tramonto@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261212T203000
+DTEND;TZID=Europe/Rome:20261212T223000
+SUMMARY:Il viale del tramonto
+LOCATION:Teatro Carcano
+DESCRIPTION:Iaia Forte nello spettacolo di Muta Imago ispirato al film di B
+ illy Wilder. https://www.mentelocale.it/milano/130644-9z37j18mgunne5i.htm
+URL:https://www.mentelocale.it/milano/130644-9z37j18mgunne5i.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-come-una-specie-di-vertigine-il-nano-calvino-la-@acculturiam
+ oci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261212T203000
+DTEND;TZID=Europe/Rome:20261212T223000
+SUMMARY:Come una specie di vertigine (il nano\, Calvino\, la libertà)
+LOCATION:Teatro Oscar
+DESCRIPTION:Mario Perrotta intreccia romanzi\, versi e canzoni attorno a It
+ alo Calvino. https://www.mentelocale.it/milano/128393-come-una-specie-di-v
+ ertigine-il-nano-calvino-la-libert.htm
+URL:https://www.mentelocale.it/milano/128393-come-una-specie-di-vertigine-i
+ l-nano-calvino-la-libert.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-bubaro-dei-bubari@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261213T160000
+DTEND;TZID=Europe/Rome:20261213T180000
+SUMMARY:Bùbaro dei Bùbari
+LOCATION:Teatro Litta (corso Magenta 24)
+DESCRIPTION:Un fratello e una sorella sopravvissuti all'incendio del campo 
+ in cui sono nati si chiedono cosa voglia dire\, oggi\, essere nomadi. Con 
+ Chiara Ferrara e Luca Ingravalle. https://www.mentelocale.it/milano/132103
+ -b-baro-dei-b-bari.htm
+URL:https://www.mentelocale.it/milano/132103-b-baro-dei-b-bari.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-uno-nessuno-e-centomila@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261213T160000
+DTEND;TZID=Europe/Rome:20261213T180000
+SUMMARY:Uno\, nessuno e centomila
+LOCATION:Teatro Leonardo (via Ampère 1)
+DESCRIPTION:Pirandello e la crisi d'identità di Vitangelo Moscarda\, in un
+ a versione pensata soprattutto per i giovani. https://www.mentelocale.it/m
+ ilano/132940-uno-nessuno-e-centomila.htm
+URL:https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-come-una-specie-di-vertigine-il-nano-calvino-la-@acculturiam
+ oci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261213T160000
+DTEND;TZID=Europe/Rome:20261213T180000
+SUMMARY:Come una specie di vertigine (il nano\, Calvino\, la libertà)
+LOCATION:Teatro Oscar
+DESCRIPTION:Mario Perrotta intreccia romanzi\, versi e canzoni attorno a It
+ alo Calvino. https://www.mentelocale.it/milano/128393-come-una-specie-di-v
+ ertigine-il-nano-calvino-la-libert.htm
+URL:https://www.mentelocale.it/milano/128393-come-una-specie-di-vertigine-i
+ l-nano-calvino-la-libert.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-il-viale-del-tramonto@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261213T163000
+DTEND;TZID=Europe/Rome:20261213T183000
+SUMMARY:Il viale del tramonto
+LOCATION:Teatro Carcano
+DESCRIPTION:Iaia Forte nello spettacolo di Muta Imago ispirato al film di B
+ illy Wilder. https://www.mentelocale.it/milano/130644-9z37j18mgunne5i.htm
+URL:https://www.mentelocale.it/milano/130644-9z37j18mgunne5i.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-don-chisciotte-senza-mancia@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261215T200000
+DTEND;TZID=Europe/Rome:20261215T220000
+SUMMARY:Don Chisciotte senza Mancia
+LOCATION:Teatro della Cooperativa (via Hermada 8)
+DESCRIPTION:Prima nazionale con Laura Curino e Anna Marcato. https://www.me
+ ntelocale.it/milano/137383-don-chisciotte-senza-mancia.htm
+URL:https://www.mentelocale.it/milano/137383-don-chisciotte-senza-mancia.ht
+ m
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-uno-nessuno-e-centomila@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261215T203000
+DTEND;TZID=Europe/Rome:20261215T223000
+SUMMARY:Uno\, nessuno e centomila
+LOCATION:Teatro Leonardo (via Ampère 1)
+DESCRIPTION:Pirandello e la crisi d'identità di Vitangelo Moscarda\, in un
+ a versione pensata soprattutto per i giovani. https://www.mentelocale.it/m
+ ilano/132940-uno-nessuno-e-centomila.htm
+URL:https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-uno-nessuno-e-centomila@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261216T203000
+DTEND;TZID=Europe/Rome:20261216T223000
+SUMMARY:Uno\, nessuno e centomila
+LOCATION:Teatro Leonardo (via Ampère 1)
+DESCRIPTION:Pirandello e la crisi d'identità di Vitangelo Moscarda\, in un
+ a versione pensata soprattutto per i giovani. https://www.mentelocale.it/m
+ ilano/132940-uno-nessuno-e-centomila.htm
+URL:https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-don-chisciotte-senza-mancia@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261216T203000
+DTEND;TZID=Europe/Rome:20261216T223000
+SUMMARY:Don Chisciotte senza Mancia
+LOCATION:Teatro della Cooperativa (via Hermada 8)
+DESCRIPTION:Prima nazionale con Laura Curino e Anna Marcato. https://www.me
+ ntelocale.it/milano/137383-don-chisciotte-senza-mancia.htm
+URL:https://www.mentelocale.it/milano/137383-don-chisciotte-senza-mancia.ht
+ m
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-c-e-chi-dice-no-renzo-lucia-i-giovani@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261217T193000
+DTEND;TZID=Europe/Rome:20261217T213000
+SUMMARY:C'è chi dice no: Renzo\, Lucia\, i giovani
+LOCATION:Teatro Carcano
+DESCRIPTION:Secondo capitolo del progetto sui Promessi sposi di Carcano e A
+ tir. https://www.mentelocale.it/milano/130645-c-chi-dice-no-renzo-lucia-i-
+ giovani.htm
+URL:https://www.mentelocale.it/milano/130645-c-chi-dice-no-renzo-lucia-i-gi
+ ovani.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-don-chisciotte-senza-mancia@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261217T200000
+DTEND;TZID=Europe/Rome:20261217T220000
+SUMMARY:Don Chisciotte senza Mancia
+LOCATION:Teatro della Cooperativa (via Hermada 8)
+DESCRIPTION:Prima nazionale con Laura Curino e Anna Marcato. https://www.me
+ ntelocale.it/milano/137383-don-chisciotte-senza-mancia.htm
+URL:https://www.mentelocale.it/milano/137383-don-chisciotte-senza-mancia.ht
+ m
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-uno-nessuno-e-centomila@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261217T203000
+DTEND;TZID=Europe/Rome:20261217T223000
+SUMMARY:Uno\, nessuno e centomila
+LOCATION:Teatro Leonardo (via Ampère 1)
+DESCRIPTION:Pirandello e la crisi d'identità di Vitangelo Moscarda\, in un
+ a versione pensata soprattutto per i giovani. https://www.mentelocale.it/m
+ ilano/132940-uno-nessuno-e-centomila.htm
+URL:https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-c-e-chi-dice-no-renzo-lucia-i-giovani@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261218T193000
+DTEND;TZID=Europe/Rome:20261218T213000
+SUMMARY:C'è chi dice no: Renzo\, Lucia\, i giovani
+LOCATION:Teatro Carcano
+DESCRIPTION:Secondo capitolo del progetto sui Promessi sposi di Carcano e A
+ tir. https://www.mentelocale.it/milano/130645-c-chi-dice-no-renzo-lucia-i-
+ giovani.htm
+URL:https://www.mentelocale.it/milano/130645-c-chi-dice-no-renzo-lucia-i-gi
+ ovani.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-don-chisciotte-senza-mancia@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261218T200000
+DTEND;TZID=Europe/Rome:20261218T220000
+SUMMARY:Don Chisciotte senza Mancia
+LOCATION:Teatro della Cooperativa (via Hermada 8)
+DESCRIPTION:Prima nazionale con Laura Curino e Anna Marcato. https://www.me
+ ntelocale.it/milano/137383-don-chisciotte-senza-mancia.htm
+URL:https://www.mentelocale.it/milano/137383-don-chisciotte-senza-mancia.ht
+ m
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-uno-nessuno-e-centomila@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261218T203000
+DTEND;TZID=Europe/Rome:20261218T223000
+SUMMARY:Uno\, nessuno e centomila
+LOCATION:Teatro Leonardo (via Ampère 1)
+DESCRIPTION:Pirandello e la crisi d'identità di Vitangelo Moscarda\, in un
+ a versione pensata soprattutto per i giovani. https://www.mentelocale.it/m
+ ilano/132940-uno-nessuno-e-centomila.htm
+URL:https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-don-chisciotte-senza-mancia@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261219T200000
+DTEND;TZID=Europe/Rome:20261219T220000
+SUMMARY:Don Chisciotte senza Mancia
+LOCATION:Teatro della Cooperativa (via Hermada 8)
+DESCRIPTION:Prima nazionale con Laura Curino e Anna Marcato. https://www.me
+ ntelocale.it/milano/137383-don-chisciotte-senza-mancia.htm
+URL:https://www.mentelocale.it/milano/137383-don-chisciotte-senza-mancia.ht
+ m
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-uno-nessuno-e-centomila@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261219T203000
+DTEND;TZID=Europe/Rome:20261219T223000
+SUMMARY:Uno\, nessuno e centomila
+LOCATION:Teatro Leonardo (via Ampère 1)
+DESCRIPTION:Pirandello e la crisi d'identità di Vitangelo Moscarda\, in un
+ a versione pensata soprattutto per i giovani. https://www.mentelocale.it/m
+ ilano/132940-uno-nessuno-e-centomila.htm
+URL:https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-c-e-chi-dice-no-renzo-lucia-i-giovani@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261219T203000
+DTEND;TZID=Europe/Rome:20261219T223000
+SUMMARY:C'è chi dice no: Renzo\, Lucia\, i giovani
+LOCATION:Teatro Carcano
+DESCRIPTION:Secondo capitolo del progetto sui Promessi sposi di Carcano e A
+ tir. https://www.mentelocale.it/milano/130645-c-chi-dice-no-renzo-lucia-i-
+ giovani.htm
+URL:https://www.mentelocale.it/milano/130645-c-chi-dice-no-renzo-lucia-i-gi
+ ovani.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-20-uno-nessuno-e-centomila@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261220T160000
+DTEND;TZID=Europe/Rome:20261220T180000
+SUMMARY:Uno\, nessuno e centomila
+LOCATION:Teatro Leonardo (via Ampère 1)
+DESCRIPTION:Pirandello e la crisi d'identità di Vitangelo Moscarda\, in un
+ a versione pensata soprattutto per i giovani. https://www.mentelocale.it/m
+ ilano/132940-uno-nessuno-e-centomila.htm
+URL:https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-20-c-e-chi-dice-no-renzo-lucia-i-giovani@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261220T163000
+DTEND;TZID=Europe/Rome:20261220T183000
+SUMMARY:C'è chi dice no: Renzo\, Lucia\, i giovani
+LOCATION:Teatro Carcano
+DESCRIPTION:Secondo capitolo del progetto sui Promessi sposi di Carcano e A
+ tir. https://www.mentelocale.it/milano/130645-c-chi-dice-no-renzo-lucia-i-
+ giovani.htm
+URL:https://www.mentelocale.it/milano/130645-c-chi-dice-no-renzo-lucia-i-gi
+ ovani.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-20-don-chisciotte-senza-mancia@acculturiamoci.it
+DTSTAMP:20261124T064737Z
+DTSTART;TZID=Europe/Rome:20261220T170000
+DTEND;TZID=Europe/Rome:20261220T190000
+SUMMARY:Don Chisciotte senza Mancia
+LOCATION:Teatro della Cooperativa (via Hermada 8)
+DESCRIPTION:Prima nazionale con Laura Curino e Anna Marcato. https://www.me
+ ntelocale.it/milano/137383-don-chisciotte-senza-mancia.htm
+URL:https://www.mentelocale.it/milano/137383-don-chisciotte-senza-mancia.ht
+ m
 CATEGORIES:Teatro
 END:VEVENT
 END:VCALENDAR
