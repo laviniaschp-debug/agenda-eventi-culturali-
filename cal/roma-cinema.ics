@@ -25,9 +25,61 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-11-24-sudori-freddi-l-uomo-che-sapeva-troppo-1934@acculturiamoci.i
+ t
+DTSTAMP:20261124T065515Z
+DTSTART;TZID=Europe/Rome:20261124T200000
+DTEND;TZID=Europe/Rome:20261124T220000
+SUMMARY:Sudori freddi: L'uomo che sapeva troppo (1934)
+LOCATION:Palazzo delle Esposizioni (via Nazionale 194)
+DESCRIPTION:Rassegna dedicata al thriller: il primo Hitchcock inglese. http
+ s://www.palazzoesposizioniroma.it/evento/luomo-che-sapeva-troppo-1934
+URL:https://www.palazzoesposizioniroma.it/evento/luomo-che-sapeva-troppo-19
+ 34
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-sudori-freddi-il-club-dei-39@acculturiamoci.it
+DTSTAMP:20261124T065515Z
+DTSTART;TZID=Europe/Rome:20261125T200000
+DTEND;TZID=Europe/Rome:20261125T220000
+SUMMARY:Sudori freddi: Il club dei 39
+LOCATION:Palazzo delle Esposizioni (via Nazionale 194)
+DESCRIPTION:Hitchcock e la caccia all'uomo attraverso la Scozia\, nella ras
+ segna sul thriller. https://www.palazzoesposizioniroma.it/evento/il-club-d
+ ei-39
+URL:https://www.palazzoesposizioniroma.it/evento/il-club-dei-39
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-sudori-freddi-la-signora-scompare@acculturiamoci.it
+DTSTAMP:20261124T065515Z
+DTSTART;TZID=Europe/Rome:20261126T200000
+DTEND;TZID=Europe/Rome:20261126T220000
+SUMMARY:Sudori freddi: La signora scompare
+LOCATION:Palazzo delle Esposizioni (via Nazionale 194)
+DESCRIPTION:Una passeggera svanisce su un treno: il giallo di Hitchcock del
+  1938. https://www.palazzoesposizioniroma.it/evento/la-signora-scompare
+URL:https://www.palazzoesposizioniroma.it/evento/la-signora-scompare
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-sudori-freddi-rebecca-la-prima-moglie@acculturiamoci.it
+DTSTAMP:20261124T065515Z
+DTSTART;TZID=Europe/Rome:20261127T200000
+DTEND;TZID=Europe/Rome:20261127T220000
+SUMMARY:Sudori freddi: Rebecca\, la prima moglie
+LOCATION:Palazzo delle Esposizioni (via Nazionale 194)
+DESCRIPTION:Il primo film americano di Hitchcock\, dal romanzo di Daphne du
+  Maurier. https://www.palazzoesposizioniroma.it/evento/rebecca-la-prima-mo
+ glie
+URL:https://www.palazzoesposizioniroma.it/evento/rebecca-la-prima-moglie
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-la-buena-letra-di-celia-rico-clavellino-scoprir@acculturiamo
  ci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:La buena letra di Celia Rico Clavellino (Scoprir)
@@ -37,6 +89,46 @@ DESCRIPTION:Film spagnolo nella mostra del cinema iberoamericano Scoprir. h
  novembre-2026-scoprir/
 URL:https://www.tusciatimes.eu/la-casa-del-cinema-a-roma-ospitera-dal-26-al
  -28-novembre-2026-scoprir/
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-nazarin-di-luis-bunuel@acculturiamoci.it
+DTSTAMP:20261124T065515Z
+DTSTART;TZID=Europe/Rome:20261129T180000
+DTEND;TZID=Europe/Rome:20261129T200000
+SUMMARY:Nazarín di Luis Buñuel
+LOCATION:Casa del Cinema · Sala Cinecittà
+DESCRIPTION:Il prete idealista di Buñuel\, in versione originale sottotito
+ lata. https://www.casadelcinema.it/it/event/nazarin/
+URL:https://www.casadelcinema.it/it/event/nazarin/
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-quell-oscuro-oggetto-del-desiderio-di-luis-bunue@acculturiam
+ oci.it
+DTSTAMP:20261124T065515Z
+DTSTART;TZID=Europe/Rome:20261129T200000
+DTEND;TZID=Europe/Rome:20261129T220000
+SUMMARY:Quell'oscuro oggetto del desiderio di Luis Buñuel
+LOCATION:Casa del Cinema · Sala Cinecittà
+DESCRIPTION:L'ultimo film di Buñuel\, in versione originale sottotitolata.
+  https://www.casadelcinema.it/it/event/cet-obscur-objet-du-desir-2/
+URL:https://www.casadelcinema.it/it/event/cet-obscur-objet-du-desir-2/
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-il-fascino-discreto-della-borghesia-di-luis-bunu@acculturiam
+ oci.it
+DTSTAMP:20261124T065515Z
+DTSTART;TZID=Europe/Rome:20261130T200000
+DTEND;TZID=Europe/Rome:20261130T220000
+SUMMARY:Il fascino discreto della borghesia di Luis Buñuel
+LOCATION:Casa del Cinema · Sala Cinecittà
+DESCRIPTION:La satira premio Oscar di Buñuel su una cena che non arriva ma
+ i\, in v.o. sottotitolata. https://www.casadelcinema.it/it/event/le-charme
+ -discret-de-la-bourgeoisie-2/
+URL:https://www.casadelcinema.it/it/event/le-charme-discret-de-la-bourgeois
+ ie-2/
 CATEGORIES:Cinema
 END:VEVENT
 END:VCALENDAR

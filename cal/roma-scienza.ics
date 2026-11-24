@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-25-saperi-in-fermento-aperitivo-di-biodiversita@acculturiamoci.
  it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;TZID=Europe/Rome:20261125T183000
 DTEND;TZID=Europe/Rome:20261125T203000
 SUMMARY:Saperi in fermento: aperitivo di biodiversità
@@ -42,7 +42,7 @@ CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-stefano-mancuso-la-citta-vivente@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;TZID=Europe/Rome:20261126T173000
 DTEND;TZID=Europe/Rome:20261126T193000
 SUMMARY:Stefano Mancuso: La città vivente
@@ -56,7 +56,7 @@ CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-umberto-guidoni-ascensore-per-marte@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Umberto Guidoni: Ascensore per Marte
@@ -71,7 +71,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-lorenzo-pinna-cento-anni-in-compagnia-dell-atomo@acculturiam
  oci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;TZID=Europe/Rome:20261128T183000
 DTEND;TZID=Europe/Rome:20261128T203000
 SUMMARY:Lorenzo Pinna: Cento anni in compagnia dell'atomo

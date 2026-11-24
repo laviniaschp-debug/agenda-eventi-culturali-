@@ -1,72 +1,11 @@
 {
  "city": "roma",
- "updated": "2026-11-23T14:30:00+01:00",
+ "updated": "2026-11-24T07:55:00+01:00",
  "range": [
-  "2026-11-23",
-  "2026-12-03"
+  "2026-11-24",
+  "2026-12-10"
  ],
  "events": [
-  {
-   "date": "2026-11-23",
-   "time": "18:30",
-   "title": "Guido Vitiello: L'affaire Tortora",
-   "venue": "Feltrinelli Largo di Torre Argentina",
-   "cat": "talk",
-   "desc": "Presentazione del libro sul caso Tortora, in dialogo con Alessandro Barbano e Vittorio Pizzuto.",
-   "url": "https://www.lafeltrinelli.it/punto-vendita/roma/ms-roma-argentina/555",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "r000",
-   "key": "2026-11-23-guido-vitiello-l-affaire-tortora",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    41.8955,
-    12.4767
-   ],
-   "zona": "Centro storico"
-  },
-  {
-   "date": "2026-11-23",
-   "time": "18:30",
-   "title": "Silvio Raffo: L'ombra gemella",
-   "venue": "Libreria Samarcanda (via Giambattista Bassani 11)",
-   "cat": "talk",
-   "desc": "Presentazione del libro, per il festival delle librerie Libridine.",
-   "url": "https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-29-novembre-2026.html",
-   "free": true,
-   "tags": [],
-   "verify": false,
-   "id": "r001",
-   "key": "2026-11-23-silvio-raffo-l-ombra-gemella",
-   "moods": [
-    "pensare"
-   ]
-  },
-  {
-   "date": "2026-11-23",
-   "time": "",
-   "title": "Kronos Quartet",
-   "venue": "Auditorium Parco della Musica",
-   "cat": "classica",
-   "desc": "Il quartetto d'archi che ha cambiato la musica contemporanea, dal vivo all'Auditorium.",
-   "url": "https://www.auditorium.com/it/",
-   "free": false,
-   "tags": [],
-   "verify": true,
-   "id": "r002",
-   "key": "2026-11-23-kronos-quartet",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    41.929,
-    12.474
-   ],
-   "zona": "Prati · Aurelio · Flaminio"
-  },
   {
    "date": "2026-11-24",
    "time": "17:00",
@@ -78,7 +17,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r003",
+   "id": "r000",
    "key": "2026-11-24-un-americano-a-teheran",
    "moods": [
     "pensare"
@@ -100,10 +39,32 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r004",
+   "id": "r001",
    "key": "2026-11-24-presentazione-del-volume-francesca-tulli",
    "moods": [
     "pensare"
+   ],
+   "geo": [
+    41.8995,
+    12.49
+   ],
+   "zona": "Esquilino · Monti · San Lorenzo"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "20:00",
+   "title": "Sudori freddi: L'uomo che sapeva troppo (1934)",
+   "venue": "Palazzo delle Esposizioni (via Nazionale 194)",
+   "cat": "cinema",
+   "desc": "Rassegna dedicata al thriller: il primo Hitchcock inglese.",
+   "url": "https://www.palazzoesposizioniroma.it/evento/luomo-che-sapeva-troppo-1934",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r002",
+   "key": "2026-11-24-sudori-freddi-l-uomo-che-sapeva-troppo-1934",
+   "moods": [
+    "emozionarmi"
    ],
    "geo": [
     41.8995,
@@ -122,7 +83,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r005",
+   "id": "r003",
    "key": "2026-11-24-otello",
    "moods": [
     "emozionarmi"
@@ -144,7 +105,7 @@
    "free": true,
    "tags": [],
    "verify": true,
-   "id": "r006",
+   "id": "r004",
    "key": "2026-11-24-ri-generare-con-creativita-forum-nazionale-sulla",
    "moods": [
     "pensare"
@@ -166,7 +127,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "r007",
+   "id": "r005",
    "key": "2026-11-24-voci-dal-silenzio",
    "moods": [
     "emozionarmi"
@@ -188,7 +149,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r008",
+   "id": "r006",
    "key": "2026-11-25-sartre-e-rossanda-una-ingombrante-intransigenza",
    "moods": [
     "pensare"
@@ -210,7 +171,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "r009",
+   "id": "r007",
    "key": "2026-11-25-monica-cristina-storini-leggere-deledda",
    "moods": [
     "pensare"
@@ -232,7 +193,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "r010",
+   "id": "r008",
    "key": "2026-11-25-andrea-scarpa-mettetevi-comodi-il-libro-intervis",
    "moods": [
     "pensare"
@@ -257,7 +218,7 @@
    ],
    "verify": false,
    "why": "Lagioia racconta il suo nuovo romanzo corale: una serata da lettori veri.",
-   "id": "r011",
+   "id": "r009",
    "key": "2026-11-25-nicola-lagioia-santa-barbara",
    "moods": [
     "pensare"
@@ -270,6 +231,28 @@
   },
   {
    "date": "2026-11-25",
+   "time": "18:00",
+   "title": "Sibyl von der Schulenburg: Lo sguardo di Napoleone",
+   "venue": "Palazzo delle Esposizioni (via Nazionale 194)",
+   "cat": "storia",
+   "desc": "Presentazione del libro in dialogo con Elena Del Drago, con la restauratrice Simona Floris.",
+   "url": "https://www.palazzoesposizioniroma.it/evento/presentazione-del-libro-lo-sguardo-di-napoleone-di-sibyl-von-der-schulenburg",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r010",
+   "key": "2026-11-25-sibyl-von-der-schulenburg-lo-sguardo-di-napoleon",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.8995,
+    12.49
+   ],
+   "zona": "Esquilino · Monti · San Lorenzo"
+  },
+  {
+   "date": "2026-11-25",
    "time": "18:30",
    "title": "Maurizio Massari: I dieci anni che hanno sconvolto il mondo",
    "venue": "Feltrinelli Largo di Torre Argentina",
@@ -279,7 +262,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r012",
+   "id": "r011",
    "key": "2026-11-25-maurizio-massari-i-dieci-anni-che-hanno-sconvolt",
    "moods": [
     "pensare"
@@ -301,7 +284,7 @@
    "free": true,
    "tags": [],
    "verify": true,
-   "id": "r013",
+   "id": "r012",
    "key": "2026-11-25-saperi-in-fermento-aperitivo-di-biodiversita",
    "moods": [
     "gente",
@@ -327,7 +310,7 @@
    ],
    "verify": false,
    "why": "Filosofia e scienza insieme, tra i calchi delle statue antiche: come diventare persone migliori.",
-   "id": "r014",
+   "id": "r013",
    "key": "2026-11-25-vito-mancuso-filosofia-e-scienza-per-essere-uman",
    "moods": [
     "pensare"
@@ -352,7 +335,7 @@
    ],
    "verify": false,
    "why": "Platone raccontato come se parlasse di noi, oggi.",
-   "id": "r015",
+   "id": "r014",
    "key": "2026-11-25-lezioni-di-storia-gennaro-carillo-la-repubblica-",
    "moods": [
     "pensare"
@@ -374,7 +357,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r016",
+   "id": "r015",
    "key": "2026-11-25-lezioni-di-ascolto-valvole-contro-transistor",
    "moods": [
     "pensare"
@@ -396,7 +379,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "r017",
+   "id": "r016",
    "key": "2026-11-25-sol-gabetta-e-bertrand-chamayou",
    "moods": [
     "emozionarmi"
@@ -406,6 +389,28 @@
     12.474
    ],
    "zona": "Prati · Aurelio · Flaminio"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "20:00",
+   "title": "Sudori freddi: Il club dei 39",
+   "venue": "Palazzo delle Esposizioni (via Nazionale 194)",
+   "cat": "cinema",
+   "desc": "Hitchcock e la caccia all'uomo attraverso la Scozia, nella rassegna sul thriller.",
+   "url": "https://www.palazzoesposizioniroma.it/evento/il-club-dei-39",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r017",
+   "key": "2026-11-25-sudori-freddi-il-club-dei-39",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8995,
+    12.49
+   ],
+   "zona": "Esquilino · Monti · San Lorenzo"
   },
   {
    "date": "2026-11-25",
@@ -546,6 +551,28 @@
   {
    "date": "2026-11-26",
    "time": "18:00",
+   "title": "Cesare Pavese: Poesie del disamore",
+   "venue": "Palazzo delle Esposizioni (via Nazionale 194)",
+   "cat": "talk",
+   "desc": "Incontro sul volume di poesie di Pavese con Nicola Argenti, Gisella Blanco e Dario Pontuale.",
+   "url": "https://www.palazzoesposizioniroma.it/evento/presentazione-del-libro-poesie-del-disamore-di-cesare-pavese",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r024",
+   "key": "2026-11-26-cesare-pavese-poesie-del-disamore",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.8995,
+    12.49
+   ],
+   "zona": "Esquilino · Monti · San Lorenzo"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "18:00",
    "title": "Giovanna Cucè: la storia di Rita Atria",
    "venue": "Pellicanolibri (via Gattico 1)",
    "cat": "talk",
@@ -554,7 +581,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "r024",
+   "id": "r025",
    "key": "2026-11-26-giovanna-cuce-la-storia-di-rita-atria",
    "moods": [
     "pensare"
@@ -571,7 +598,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "r025",
+   "id": "r026",
    "key": "2026-11-26-luiz-valerio-p-trindade-social-media-odio-online",
    "moods": [
     "pensare"
@@ -593,7 +620,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "r026",
+   "id": "r027",
    "key": "2026-11-26-daniel-harding-dirige-brahms-e-strauss",
    "moods": [
     "emozionarmi"
@@ -606,6 +633,53 @@
   },
   {
    "date": "2026-11-26",
+   "time": "20:00",
+   "title": "Che dolore terribile è l'amore",
+   "venue": "Teatro Valle",
+   "cat": "teatro",
+   "desc": "Daria Deflorian adatta Non dico addio di Han Kang: due amiche e la memoria della strage di Jeju del 1948. Con Deflorian, Mandruzzato e Piseddu, 80 minuti.",
+   "url": "https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-valle/che-dolore-terribile-e-lamore/",
+   "free": false,
+   "tags": [
+    "imperdibile"
+   ],
+   "verify": true,
+   "why": "Il romanzo del premio Nobel Han Kang portato in scena da Daria Deflorian.",
+   "id": "r028",
+   "key": "2026-11-26-che-dolore-terribile-e-l-amore",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8985,
+    12.475
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "20:00",
+   "title": "Sudori freddi: La signora scompare",
+   "venue": "Palazzo delle Esposizioni (via Nazionale 194)",
+   "cat": "cinema",
+   "desc": "Una passeggera svanisce su un treno: il giallo di Hitchcock del 1938.",
+   "url": "https://www.palazzoesposizioniroma.it/evento/la-signora-scompare",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r029",
+   "key": "2026-11-26-sudori-freddi-la-signora-scompare",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8995,
+    12.49
+   ],
+   "zona": "Esquilino · Monti · San Lorenzo"
+  },
+  {
+   "date": "2026-11-26",
    "time": "",
    "title": "I am the Wind",
    "venue": "Teatro India",
@@ -615,7 +689,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r027",
+   "id": "r030",
    "key": "2026-11-26-i-am-the-wind",
    "moods": [
     "emozionarmi"
@@ -637,7 +711,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r028",
+   "id": "r031",
    "key": "2026-11-26-otello",
    "moods": [
     "emozionarmi"
@@ -659,7 +733,7 @@
    "free": true,
    "tags": [],
    "verify": true,
-   "id": "r029",
+   "id": "r032",
    "key": "2026-11-26-ri-generare-con-creativita-forum-nazionale-sulla",
    "moods": [
     "pensare"
@@ -681,7 +755,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r030",
+   "id": "r033",
    "key": "2026-11-26-venerdi-13",
    "moods": [
     "emozionarmi",
@@ -704,7 +778,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "r031",
+   "id": "r034",
    "key": "2026-11-27-monica-calcagni-il-mio-viaggio-al-fianco-delle-d",
    "moods": [
     "pensare"
@@ -726,7 +800,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r032",
+   "id": "r035",
    "key": "2026-11-27-marinetti-l-uomo-che-invento-il-futuro-talk-film",
    "moods": [
     "pensare"
@@ -748,7 +822,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "r033",
+   "id": "r036",
    "key": "2026-11-27-marco-vannini-quale-uomo-quale-dio",
    "moods": [
     "pensare"
@@ -770,7 +844,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r034",
+   "id": "r037",
    "key": "2026-11-27-sotto-le-stelle-del-jazz-the-scoop-jazz-band",
    "moods": [
     "emozionarmi"
@@ -784,6 +858,28 @@
   {
    "date": "2026-11-27",
    "time": "20:00",
+   "title": "Che dolore terribile è l'amore",
+   "venue": "Teatro Valle",
+   "cat": "teatro",
+   "desc": "Daria Deflorian adatta Non dico addio di Han Kang: due amiche e la memoria della strage di Jeju del 1948. Con Deflorian, Mandruzzato e Piseddu, 80 minuti.",
+   "url": "https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-valle/che-dolore-terribile-e-lamore/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r038",
+   "key": "2026-11-27-che-dolore-terribile-e-l-amore",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8985,
+    12.475
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "20:00",
    "title": "Daniel Harding dirige Brahms e Strauss",
    "venue": "Auditorium Parco della Musica · Sala Santa Cecilia",
    "cat": "classica",
@@ -792,7 +888,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "r035",
+   "id": "r039",
    "key": "2026-11-27-daniel-harding-dirige-brahms-e-strauss",
    "moods": [
     "emozionarmi"
@@ -805,6 +901,28 @@
   },
   {
    "date": "2026-11-27",
+   "time": "20:00",
+   "title": "Sudori freddi: Rebecca, la prima moglie",
+   "venue": "Palazzo delle Esposizioni (via Nazionale 194)",
+   "cat": "cinema",
+   "desc": "Il primo film americano di Hitchcock, dal romanzo di Daphne du Maurier.",
+   "url": "https://www.palazzoesposizioniroma.it/evento/rebecca-la-prima-moglie",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r040",
+   "key": "2026-11-27-sudori-freddi-rebecca-la-prima-moglie",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8995,
+    12.49
+   ],
+   "zona": "Esquilino · Monti · San Lorenzo"
+  },
+  {
+   "date": "2026-11-27",
    "time": "",
    "title": "Ditonellapiaga",
    "venue": "Atlantico (viale dell'Oceano Atlantico 271)",
@@ -814,7 +932,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r036",
+   "id": "r041",
    "key": "2026-11-27-ditonellapiaga",
    "moods": [
     "emozionarmi"
@@ -836,7 +954,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r037",
+   "id": "r042",
    "key": "2026-11-27-esperide-fantasie-barocche-sant-ivo-alla-sapienz",
    "moods": [
     "pensare"
@@ -858,7 +976,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r038",
+   "id": "r043",
    "key": "2026-11-27-i-am-the-wind",
    "moods": [
     "emozionarmi"
@@ -880,7 +998,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "r039",
+   "id": "r044",
    "key": "2026-11-27-masterclass-i-segreti-della-tosca",
    "moods": [
     "emozionarmi"
@@ -902,7 +1020,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r040",
+   "id": "r045",
    "key": "2026-11-27-otello",
    "moods": [
     "emozionarmi"
@@ -924,7 +1042,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r041",
+   "id": "r046",
    "key": "2026-11-27-pinocchia-adolescente-di-legno",
    "moods": [
     "bambini"
@@ -946,7 +1064,7 @@
    "free": true,
    "tags": [],
    "verify": true,
-   "id": "r042",
+   "id": "r047",
    "key": "2026-11-27-ri-generare-con-creativita-forum-nazionale-sulla",
    "moods": [
     "pensare"
@@ -968,7 +1086,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r043",
+   "id": "r048",
    "key": "2026-11-28-francesco-ai-santi-apostoli-visita-racconto-e-co",
    "moods": [
     "pensare"
@@ -990,7 +1108,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r044",
+   "id": "r049",
    "key": "2026-11-28-il-corpo-gioca-e-il-gioco-riunisce-5-11-anni",
    "moods": [
     "bambini"
@@ -1012,7 +1130,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "r045",
+   "id": "r050",
    "key": "2026-11-28-baby-sound-0-2-anni-e-donne-in-gravidanza",
    "moods": [
     "bambini"
@@ -1025,6 +1143,28 @@
   },
   {
    "date": "2026-11-28",
+   "time": "17:00",
+   "title": "Esperide · Gli appartamenti segreti Doria Pamphilj",
+   "venue": "Palazzo Doria Pamphilj (via del Corso 305)",
+   "cat": "storia",
+   "desc": "Visita guidata agli ambienti privati del palazzo, gruppo ristretto. 18 € soci, 22 € esterni, biglietto incluso; ritrovo 20 minuti prima. Prenotazione: info@esperide.it.",
+   "url": "https://esperide.it/attivita/gli-appartamenti-segreti-doria-pamphilj/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "r051",
+   "key": "2026-11-28-esperide-gli-appartamenti-segreti-doria-pamphilj",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.8977,
+    12.4815
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-11-28",
    "time": "18:00",
    "title": "Daniel Harding dirige Brahms e Strauss",
    "venue": "Auditorium Parco della Musica · Sala Santa Cecilia",
@@ -1034,7 +1174,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "r046",
+   "id": "r052",
    "key": "2026-11-28-daniel-harding-dirige-brahms-e-strauss",
    "moods": [
     "emozionarmi"
@@ -1056,7 +1196,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r047",
+   "id": "r053",
    "key": "2026-11-28-la-buena-letra-di-celia-rico-clavellino-scoprir",
    "moods": [
     "emozionarmi"
@@ -1078,7 +1218,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "r048",
+   "id": "r054",
    "key": "2026-11-28-umberto-guidoni-ascensore-per-marte",
    "moods": [
     "pensare"
@@ -1095,11 +1235,33 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "r049",
+   "id": "r055",
    "key": "2026-11-28-lorenzo-pinna-cento-anni-in-compagnia-dell-atomo",
    "moods": [
     "pensare"
    ]
+  },
+  {
+   "date": "2026-11-28",
+   "time": "19:00",
+   "title": "Che dolore terribile è l'amore",
+   "venue": "Teatro Valle",
+   "cat": "teatro",
+   "desc": "Daria Deflorian adatta Non dico addio di Han Kang: due amiche e la memoria della strage di Jeju del 1948. Con Deflorian, Mandruzzato e Piseddu, 80 minuti.",
+   "url": "https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-valle/che-dolore-terribile-e-lamore/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r056",
+   "key": "2026-11-28-che-dolore-terribile-e-l-amore",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8985,
+    12.475
+   ],
+   "zona": "Centro storico"
   },
   {
    "date": "2026-11-28",
@@ -1112,7 +1274,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r050",
+   "id": "r057",
    "key": "2026-11-28-massimo-staich-con-la-febbre-tra-le-ali",
    "moods": [
     "emozionarmi"
@@ -1134,7 +1296,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "r051",
+   "id": "r058",
    "key": "2026-11-28-buenos-aires-tango-musica-y-danza-en-concierto",
    "moods": [
     "emozionarmi"
@@ -1156,7 +1318,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r052",
+   "id": "r059",
    "key": "2026-11-28-esperide-visita-all-abbazia-delle-tre-fontane",
    "moods": [
     "pensare"
@@ -1178,7 +1340,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r053",
+   "id": "r060",
    "key": "2026-11-28-i-am-the-wind",
    "moods": [
     "emozionarmi"
@@ -1200,7 +1362,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r054",
+   "id": "r061",
    "key": "2026-11-28-otello",
    "moods": [
     "emozionarmi"
@@ -1222,7 +1384,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r055",
+   "id": "r062",
    "key": "2026-11-28-pinocchia-adolescente-di-legno",
    "moods": [
     "bambini"
@@ -1244,7 +1406,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "r056",
+   "id": "r063",
    "key": "2026-11-28-the-shape-of-sound-liquid-conversation",
    "moods": [
     "emozionarmi"
@@ -1266,7 +1428,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r057",
+   "id": "r064",
    "key": "2026-11-29-visita-per-ragazzi-alla-mostra-di-richard-avedon",
    "moods": [
     "bambini"
@@ -1288,7 +1450,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "r058",
+   "id": "r065",
    "key": "2026-11-29-cercasi-elfo-lettura-e-laboratorio",
    "moods": [
     "bambini",
@@ -1303,6 +1465,28 @@
   {
    "date": "2026-11-29",
    "time": "17:00",
+   "title": "Che dolore terribile è l'amore",
+   "venue": "Teatro Valle",
+   "cat": "teatro",
+   "desc": "Daria Deflorian adatta Non dico addio di Han Kang: due amiche e la memoria della strage di Jeju del 1948. Con Deflorian, Mandruzzato e Piseddu, 80 minuti.",
+   "url": "https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-valle/che-dolore-terribile-e-lamore/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r066",
+   "key": "2026-11-29-che-dolore-terribile-e-l-amore",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8985,
+    12.475
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "17:00",
    "title": "Csaba dalla Zorza: Io sono Adele",
    "venue": "Mondadori Bookstore EUR (viale Europa 88)",
    "cat": "talk",
@@ -1311,7 +1495,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "r059",
+   "id": "r067",
    "key": "2026-11-29-csaba-dalla-zorza-io-sono-adele",
    "moods": [
     "pensare"
@@ -1321,6 +1505,28 @@
     12.472
    ],
    "zona": "EUR e sud"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "18:00",
+   "title": "Nazarín di Luis Buñuel",
+   "venue": "Casa del Cinema · Sala Cinecittà",
+   "cat": "cinema",
+   "desc": "Il prete idealista di Buñuel, in versione originale sottotitolata.",
+   "url": "https://www.casadelcinema.it/it/event/nazarin/",
+   "free": null,
+   "tags": [],
+   "verify": true,
+   "id": "r068",
+   "key": "2026-11-29-nazarin-di-luis-bunuel",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.9135,
+    12.484
+   ],
+   "zona": "Parioli · Villa Borghese · Nomentano"
   },
   {
    "date": "2026-11-29",
@@ -1336,7 +1542,7 @@
    ],
    "verify": false,
    "why": "Una delle voci più emozionanti della musica di oggi, in una sala da brividi.",
-   "id": "r060",
+   "id": "r069",
    "key": "2026-11-29-anohni-wilderness",
    "moods": [
     "emozionarmi"
@@ -1349,6 +1555,28 @@
   },
   {
    "date": "2026-11-29",
+   "time": "20:00",
+   "title": "Quell'oscuro oggetto del desiderio di Luis Buñuel",
+   "venue": "Casa del Cinema · Sala Cinecittà",
+   "cat": "cinema",
+   "desc": "L'ultimo film di Buñuel, in versione originale sottotitolata.",
+   "url": "https://www.casadelcinema.it/it/event/cet-obscur-objet-du-desir-2/",
+   "free": null,
+   "tags": [],
+   "verify": true,
+   "id": "r070",
+   "key": "2026-11-29-quell-oscuro-oggetto-del-desiderio-di-luis-bunue",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.9135,
+    12.484
+   ],
+   "zona": "Parioli · Villa Borghese · Nomentano"
+  },
+  {
+   "date": "2026-11-29",
    "time": "",
    "title": "Esperide · Visita alla Casa dei Cavalieri di Rodi",
    "venue": "Casa dei Cavalieri di Rodi (piazza del Grillo 1)",
@@ -1358,7 +1586,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r061",
+   "id": "r071",
    "key": "2026-11-29-esperide-visita-alla-casa-dei-cavalieri-di-rodi",
    "moods": [
     "pensare"
@@ -1380,7 +1608,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r062",
+   "id": "r072",
    "key": "2026-11-29-i-am-the-wind",
    "moods": [
     "emozionarmi"
@@ -1402,7 +1630,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r063",
+   "id": "r073",
    "key": "2026-11-29-il-ballo-reading-con-laura-morante-ed-eugenia-co",
    "moods": [
     "emozionarmi"
@@ -1424,7 +1652,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r064",
+   "id": "r074",
    "key": "2026-11-29-lezioni-di-storia-francesca-cenerini-gli-annali-",
    "moods": [
     "pensare"
@@ -1446,7 +1674,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r065",
+   "id": "r075",
    "key": "2026-11-29-otello",
    "moods": [
     "emozionarmi"
@@ -1468,7 +1696,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r066",
+   "id": "r076",
    "key": "2026-11-29-pinocchia-adolescente-di-legno",
    "moods": [
     "bambini"
@@ -1478,6 +1706,52 @@
     12.471
    ],
    "zona": "Trastevere · Testaccio · Ostiense"
+  },
+  {
+   "date": "2026-11-30",
+   "time": "15:30",
+   "title": "Esperide · Corso sul Rinascimento: Donatello",
+   "venue": "Galleria Cabaret Voltaire (via Panisperna 87)",
+   "cat": "storia",
+   "desc": "Seconda lezione del corso di storia dell'arte sul Quattro-Cinquecento. Lezione singola 15 €, posti limitati; prenotazione: info@esperide.it.",
+   "url": "https://esperide.it/attivita/il-rinascimento-e-i-suoi-protagonisti/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "r077",
+   "key": "2026-11-30-esperide-corso-sul-rinascimento-donatello",
+   "moods": [
+    "pensare",
+    "ridere"
+   ],
+   "geo": [
+    41.897,
+    12.491
+   ],
+   "zona": "Esquilino · Monti · San Lorenzo"
+  },
+  {
+   "date": "2026-11-30",
+   "time": "20:00",
+   "title": "Il fascino discreto della borghesia di Luis Buñuel",
+   "venue": "Casa del Cinema · Sala Cinecittà",
+   "cat": "cinema",
+   "desc": "La satira premio Oscar di Buñuel su una cena che non arriva mai, in v.o. sottotitolata.",
+   "url": "https://www.casadelcinema.it/it/event/le-charme-discret-de-la-bourgeoisie-2/",
+   "free": null,
+   "tags": [],
+   "verify": true,
+   "id": "r078",
+   "key": "2026-11-30-il-fascino-discreto-della-borghesia-di-luis-bunu",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    41.9135,
+    12.484
+   ],
+   "zona": "Parioli · Villa Borghese · Nomentano"
   },
   {
    "date": "2026-12-01",
@@ -1490,7 +1764,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r067",
+   "id": "r079",
    "key": "2026-12-01-automotive-tra-competitivita-e-autodistruzione",
    "moods": [
     "pensare"
@@ -1498,6 +1772,28 @@
    "geo": [
     41.8945,
     12.4778
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-12-01",
+   "time": "",
+   "title": "Che dolore terribile è l'amore",
+   "venue": "Teatro Valle",
+   "cat": "teatro",
+   "desc": "Daria Deflorian adatta Non dico addio di Han Kang: due amiche e la memoria della strage di Jeju del 1948. Con Deflorian, Mandruzzato e Piseddu, 80 minuti.",
+   "url": "https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-valle/che-dolore-terribile-e-lamore/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r080",
+   "key": "2026-12-01-che-dolore-terribile-e-l-amore",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8985,
+    12.475
    ],
    "zona": "Centro storico"
   },
@@ -1512,7 +1808,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "r068",
+   "id": "r081",
    "key": "2026-12-02-luca-berretta-nell-ombra-del-nilo",
    "moods": [
     "pensare"
@@ -1520,6 +1816,28 @@
    "geo": [
     41.8955,
     12.4767
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "20:00",
+   "title": "Che dolore terribile è l'amore",
+   "venue": "Teatro Valle",
+   "cat": "teatro",
+   "desc": "Daria Deflorian adatta Non dico addio di Han Kang: due amiche e la memoria della strage di Jeju del 1948. Con Deflorian, Mandruzzato e Piseddu, 80 minuti.",
+   "url": "https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-valle/che-dolore-terribile-e-lamore/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r082",
+   "key": "2026-12-02-che-dolore-terribile-e-l-amore",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8985,
+    12.475
    ],
    "zona": "Centro storico"
   },
@@ -1534,7 +1852,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r069",
+   "id": "r083",
    "key": "2026-12-02-peccato-che-fosse-una-sgualdrina",
    "moods": [
     "emozionarmi"
@@ -1556,7 +1874,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r070",
+   "id": "r084",
    "key": "2026-12-03-il-lavoro-informatico-e-l-ai-quale-futuro",
    "moods": [
     "pensare"
@@ -1569,6 +1887,50 @@
   },
   {
    "date": "2026-12-03",
+   "time": "19:00",
+   "title": "Che dolore terribile è l'amore",
+   "venue": "Teatro Valle",
+   "cat": "teatro",
+   "desc": "Daria Deflorian adatta Non dico addio di Han Kang: due amiche e la memoria della strage di Jeju del 1948. Con Deflorian, Mandruzzato e Piseddu, 80 minuti.",
+   "url": "https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-valle/che-dolore-terribile-e-lamore/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r085",
+   "key": "2026-12-03-che-dolore-terribile-e-l-amore",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8985,
+    12.475
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "20:00",
+   "title": "Racconti romani: Il ladro dei lumi e altri racconti",
+   "venue": "Teatro Torlonia (via Nomentana 70)",
+   "cat": "teatro",
+   "desc": "Messa in scena essenziale dai racconti di Elsa Morante (Lo scialle andaluso), regia di Danilo Capezzani.",
+   "url": "https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-torlonia/racconti-romani-2026/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "r086",
+   "key": "2026-12-03-racconti-romani-il-ladro-dei-lumi-e-altri-raccon",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.9145,
+    12.5115
+   ],
+   "zona": "Parioli · Villa Borghese · Nomentano"
+  },
+  {
+   "date": "2026-12-03",
    "time": "",
    "title": "Peccato che fosse una sgualdrina",
    "venue": "Teatro Argentina",
@@ -1578,7 +1940,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r071",
+   "id": "r087",
    "key": "2026-12-03-peccato-che-fosse-una-sgualdrina",
    "moods": [
     "emozionarmi"
@@ -1603,7 +1965,7 @@
    ],
    "verify": false,
    "why": "La festa dei libri indipendenti: centinaia di editori e incontri in un solo posto.",
-   "id": "r072",
+   "id": "r088",
    "key": "2026-12-04-piu-libri-piu-liberi-fiera-della-piccola-e-media",
    "moods": [
     "pensare"
@@ -1625,7 +1987,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r073",
+   "id": "r089",
    "key": "2026-12-04-sergio-garavini-cent-anni-dopo-cultura-e-politic",
    "moods": [
     "pensare"
@@ -1635,6 +1997,94 @@
     12.475
    ],
    "zona": "Trastevere · Testaccio · Ostiense"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "16:00",
+   "title": "E.D.U.A. – Enciclopedia di un attore",
+   "venue": "Teatro Argentina",
+   "cat": "teatro",
+   "desc": "Sei monologhi itineranti su Eduardo De Filippo, testi di Fabio Pisano e regia di Claudio Di Palma. Massimo 35 spettatori, biglietti 15/10 €.",
+   "url": "https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-argentina/enciclopedia-di-un-attore/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "r090",
+   "key": "2026-12-04-e-d-u-a-enciclopedia-di-un-attore",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8955,
+    12.4762
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "20:00",
+   "title": "Che dolore terribile è l'amore",
+   "venue": "Teatro Valle",
+   "cat": "teatro",
+   "desc": "Daria Deflorian adatta Non dico addio di Han Kang: due amiche e la memoria della strage di Jeju del 1948. Con Deflorian, Mandruzzato e Piseddu, 80 minuti.",
+   "url": "https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-valle/che-dolore-terribile-e-lamore/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r091",
+   "key": "2026-12-04-che-dolore-terribile-e-l-amore",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8985,
+    12.475
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "20:00",
+   "title": "Racconti romani: Il ladro dei lumi e altri racconti",
+   "venue": "Teatro Torlonia (via Nomentana 70)",
+   "cat": "teatro",
+   "desc": "Messa in scena essenziale dai racconti di Elsa Morante (Lo scialle andaluso), regia di Danilo Capezzani.",
+   "url": "https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-torlonia/racconti-romani-2026/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "r092",
+   "key": "2026-12-04-racconti-romani-il-ladro-dei-lumi-e-altri-raccon",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.9145,
+    12.5115
+   ],
+   "zona": "Parioli · Villa Borghese · Nomentano"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "",
+   "title": "Peccato che fosse una sgualdrina",
+   "venue": "Teatro Argentina",
+   "cat": "teatro",
+   "desc": "La tragedia elisabettiana di John Ford in scena all'Argentina fino al 13 dicembre.",
+   "url": "https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-argentina/peccato-che-fosse-una-sgualdrina/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r093",
+   "key": "2026-12-04-peccato-che-fosse-una-sgualdrina",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8955,
+    12.4762
+   ],
+   "zona": "Centro storico"
   },
   {
    "date": "2026-12-05",
@@ -1647,7 +2097,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r074",
+   "id": "r094",
    "key": "2026-12-05-piu-libri-piu-liberi-fiera-della-piccola-e-media",
    "moods": [
     "pensare"
@@ -1672,7 +2122,7 @@
    ],
    "verify": false,
    "why": "Laurie Anderson dal vivo: una leggenda dell'arte e della musica, a pochi metri.",
-   "id": "r075",
+   "id": "r095",
    "key": "2026-12-05-laurie-anderson-a-hole-in-the-sky",
    "moods": [
     "emozionarmi"
@@ -1694,7 +2144,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r076",
+   "id": "r096",
    "key": "2026-12-06-piu-libri-piu-liberi-fiera-della-piccola-e-media",
    "moods": [
     "pensare"
@@ -1716,7 +2166,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r077",
+   "id": "r097",
    "key": "2026-12-07-piu-libri-piu-liberi-fiera-della-piccola-e-media",
    "moods": [
     "pensare"
@@ -1738,7 +2188,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r078",
+   "id": "r098",
    "key": "2026-12-08-piu-libri-piu-liberi-fiera-della-piccola-e-media",
    "moods": [
     "pensare"
@@ -1760,7 +2210,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r079",
+   "id": "r099",
    "key": "2026-12-10-esperide-lazio-medievale-il-sacro-speco-di-subia",
    "moods": [
     "pensare",
@@ -1783,7 +2233,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r080",
+   "id": "r100",
    "key": "2026-12-10-le-olimpiadi-del-1944",
    "moods": [
     "pensare"

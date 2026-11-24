@@ -25,37 +25,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-23-inaugurazione-bookcity-colson-whitehead@acculturiamoci.it
-DTSTAMP:20261124T064737Z
-DTSTART;TZID=Europe/Rome:20261123T200000
-DTEND;TZID=Europe/Rome:20261123T220000
-SUMMARY:Inaugurazione BookCity: Colson Whitehead
-LOCATION:Teatro Dal Verme
-DESCRIPTION:Due premi Pulitzer\, una sera sola: il via ufficiale di BookCit
- y. Con Francesco Costa\, conduce Giovanna Zucconi. Lectio di Marco Balzano
- . https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-
- ospiti-temi-eventi-da-non-perdere.htm
-URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
- -ospiti-temi-eventi-da-non-perdere.htm
-CATEGORIES:Incontri e talk
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-23-alessandro-bergonzoni-voto-di-vastita@acculturiamoci.it
-DTSTAMP:20261124T064737Z
-DTSTART;TZID=Europe/Rome:20261123T203000
-DTEND;TZID=Europe/Rome:20261123T223000
-SUMMARY:Alessandro Bergonzoni\, Voto di vastità
-LOCATION:Teatro Carcano
-DESCRIPTION:Un'ora di parole che si piegano: si ride e si pensa insieme. Ra
- ssegna Follow the Monday. https://www.mentelocale.it/milano/129757-follow-
- the-monday-farsi-male-variazioni-sul-masochismo.htm
-URL:https://www.mentelocale.it/milano/129757-follow-the-monday-farsi-male-v
- ariazioni-sul-masochismo.htm
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-24-daniel-pennac-presenta-mallet@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;TZID=Europe/Rome:20261124T183000
 DTEND;TZID=Europe/Rome:20261124T203000
 SUMMARY:Daniel Pennac presenta Mallet
@@ -69,7 +40,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-prima-delle-prime-otello@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;TZID=Europe/Rome:20261125T180000
 DTEND;TZID=Europe/Rome:20261125T200000
 SUMMARY:Prima delle Prime: Otello
@@ -82,7 +53,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-samantha-cristoforetti-il-senso-della-luna@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;TZID=Europe/Rome:20261125T200000
 DTEND;TZID=Europe/Rome:20261125T220000
 SUMMARY:Samantha Cristoforetti: il senso della Luna
@@ -98,7 +69,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-kahil-el-zabar-ethnic-heritage-ensemble-let-the-@acculturiam
  oci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;TZID=Europe/Rome:20261125T210000
 DTEND;TZID=Europe/Rome:20261125T230000
 SUMMARY:Kahil El Zabar Ethnic Heritage Ensemble: Let The Spirit Out
@@ -113,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-milena-gabanelli-e-simona-ravizza-la-resa-dei-co@acculturiam
  oci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;TZID=Europe/Rome:20261126T183000
 DTEND;TZID=Europe/Rome:20261126T203000
 SUMMARY:Milena Gabanelli e Simona Ravizza\, La resa dei conti
@@ -128,7 +99,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-umberto-galimberti-l-illusione-della-liberta@acculturiamoci.
  it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;TZID=Europe/Rome:20261127T183000
 DTEND;TZID=Europe/Rome:20261127T203000
 SUMMARY:Umberto Galimberti\, L'illusione della libertà
@@ -142,7 +113,7 @@ CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-di-madre-in-figlia@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:Di madre in figlia
@@ -155,7 +126,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-aldo-cazzullo-il-nostro-rinascimento@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;TZID=Europe/Rome:20261128T110000
 DTEND;TZID=Europe/Rome:20261128T130000
 SUMMARY:Aldo Cazzullo\, Il nostro rinascimento
@@ -169,7 +140,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-pupi-avati-il-gotico-padano-e-il-cinema@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;TZID=Europe/Rome:20261129T110000
 DTEND;TZID=Europe/Rome:20261129T130000
 SUMMARY:Pupi Avati: il gotico padano e il cinema
@@ -183,7 +154,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-zerocalcare-dove-andiamo-da-qui-zero@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;TZID=Europe/Rome:20261129T120000
 DTEND;TZID=Europe/Rome:20261129T140000
 SUMMARY:Zerocalcare\, Dove andiamo da qui\, Zero?
@@ -198,7 +169,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-chiusura-bookcity-samantha-harvey-e-paolo-giorda@acculturiam
  oci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;TZID=Europe/Rome:20261129T200000
 DTEND;TZID=Europe/Rome:20261129T220000
 SUMMARY:Chiusura BookCity: Samantha Harvey e Paolo Giordano
@@ -214,7 +185,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-noir-in-festival-the-blood-countess-di-ulrike-ot@acculturiam
  oci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;TZID=Europe/Rome:20261130T213000
 DTEND;TZID=Europe/Rome:20261130T233000
 SUMMARY:Noir in Festival: The Blood Countess di Ulrike Ottinger
@@ -228,8 +199,24 @@ URL:https://www.spaziocinema.info/milano/eventi-e-rassegne/36deg-noir-in-fe
 CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-02-left-summit-questione-di-classe-con-schlein-cont@acculturiam
+ oci.it
+DTSTAMP:20261124T065515Z
+DTSTART;TZID=Europe/Rome:20261202T183000
+DTEND;TZID=Europe/Rome:20261202T203000
+SUMMARY:Left Summit: Questione di classe\, con Schlein\, Conte e Fratoianni
+LOCATION:Fondazione Feltrinelli (viale Pasubio 5)
+DESCRIPTION:I tre leader dell'opposizione sullo stesso palco a discutere di
+  disuguaglianze e classe. Presentazione del 60° Annale della Fondazione s
+ ulle disuguaglianze\; i leader del centrosinistra a confronto\, modera Rin
+ aldo Gianola. Posto da prenotare\, anche in streaming. https://fondazionef
+ eltrinelli.it/partecipa/left-summit/
+URL:https://fondazionefeltrinelli.it/partecipa/left-summit/
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-02-paul-lewis-mozart@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;TZID=Europe/Rome:20261202T204500
 DTEND;TZID=Europe/Rome:20261202T224500
 SUMMARY:Paul Lewis\, Mozart+
@@ -243,7 +230,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-bilal-25-anni-di-1st-born-second@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;TZID=Europe/Rome:20261203T210000
 DTEND;TZID=Europe/Rome:20261203T230000
 SUMMARY:Bilal: 25 anni di 1st Born Second
@@ -257,7 +244,7 @@ CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-otello-anteprima-under-30@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;TZID=Europe/Rome:20261204T180000
 DTEND;TZID=Europe/Rome:20261204T200000
 SUMMARY:Otello: anteprima Under 30

@@ -1,543 +1,10 @@
 {
- "updated": "2026-11-23T07:51:23+01:00",
+ "updated": "2026-11-24T07:55:00+01:00",
  "range": [
-  "2026-11-23",
+  "2026-11-24",
   "2026-12-20"
  ],
  "events": [
-  {
-   "date": "2026-11-23",
-   "time": "08:30",
-   "title": "Oltre la globalizzazione. La lezione giuridica di Roma",
-   "venue": "Statale, via Festa del Perdono 3, aula 208",
-   "cat": "geo",
-   "desc": "Lezione aperta BookCity alla Statale. Iscrizione obbligatoria.",
-   "url": "https://work.unimi.it/eventir/registrazione?code=17571",
-   "free": true,
-   "tags": [
-    "bookcity"
-   ],
-   "verify": false,
-   "id": "e000",
-   "key": "2026-11-23-oltre-la-globalizzazione-la-lezione-giuridica-di",
-   "moods": [
-    "gente",
-    "pensare"
-   ],
-   "geo": [
-    45.4605,
-    9.1945
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-23",
-   "time": "11:00",
-   "title": "L'elisir d'amore per i bambini",
-   "venue": "Teatro alla Scala",
-   "cat": "famiglie",
-   "desc": "Replica anche alle 14:30.",
-   "url": "https://www.teatroallascala.org/it/calendario.html",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e001",
-   "key": "2026-11-23-l-elisir-d-amore-per-i-bambini",
-   "moods": [
-    "bambini"
-   ],
-   "geo": [
-    45.4674,
-    9.1895
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-23",
-   "time": "12:30",
-   "title": "Dalla preistoria ad oggi: il viaggio di Emilio Sereni",
-   "venue": "Statale, via Sant'Antonio 5, aula 1",
-   "cat": "storia",
-   "desc": "Lezione aperta BookCity alla Statale. Iscrizione obbligatoria.",
-   "url": "https://work.unimi.it/eventir/registrazione?code=17553",
-   "free": true,
-   "tags": [
-    "bookcity"
-   ],
-   "verify": false,
-   "id": "e002",
-   "key": "2026-11-23-dalla-preistoria-ad-oggi-il-viaggio-di-emilio-se",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    45.4605,
-    9.1945
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-23",
-   "time": "12:30",
-   "title": "Il senno del giudizio. Storia della giustizia nell'Italia repubblicana",
-   "venue": "Statale, via Festa del Perdono 3, aula 410",
-   "cat": "storia",
-   "desc": "Lezione aperta BookCity alla Statale. Iscrizione obbligatoria.",
-   "url": "https://work.unimi.it/eventir/registrazione?code=17568",
-   "free": true,
-   "tags": [
-    "bookcity"
-   ],
-   "verify": false,
-   "id": "e003",
-   "key": "2026-11-23-il-senno-del-giudizio-storia-della-giustizia-nel",
-   "moods": [
-    "gente",
-    "pensare"
-   ],
-   "geo": [
-    45.4605,
-    9.1945
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-23",
-   "time": "14:00",
-   "title": "Today at Apple · Workshop: scatta foto eccezionali con iPhone",
-   "venue": "Apple Piazza Liberty",
-   "cat": "tech",
-   "desc": "Sessione gratuita di un'ora: inquadrature, luce e trucchi della fotocamera. Iscrizione sul sito Apple.",
-   "url": "https://www.apple.com/it/today/event/workshop-photos-on-iphone/7503013984459915264/?sn=R667",
-   "free": true,
-   "tags": [],
-   "verify": false,
-   "id": "e004",
-   "key": "2026-11-23-today-at-apple-workshop-scatta-foto-eccezionali-",
-   "moods": [
-    "gente",
-    "pensare"
-   ],
-   "geo": [
-    45.466,
-    9.1965
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-23",
-   "time": "14:30",
-   "title": "L'elisir d'amore per i bambini",
-   "venue": "Teatro alla Scala",
-   "cat": "famiglie",
-   "desc": "Donizetti in versione ridotta per il pubblico più giovane.",
-   "url": "https://www.teatroallascala.org/it/calendario.html",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e005",
-   "key": "2026-11-23-l-elisir-d-amore-per-i-bambini-2",
-   "moods": [
-    "bambini"
-   ],
-   "geo": [
-    45.4674,
-    9.1895
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-23",
-   "time": "15:00",
-   "title": "Today at Apple · Workshop: video con iPhone",
-   "venue": "Apple Piazza Liberty",
-   "cat": "tech",
-   "desc": "Sessione gratuita di un'ora per girare e montare video migliori con il telefono. Iscrizione sul sito Apple.",
-   "url": "https://www.apple.com/it/today/event/workshop-video-on-iphone-row/7503014123635310592/?sn=R667",
-   "free": true,
-   "tags": [],
-   "verify": false,
-   "id": "e006",
-   "key": "2026-11-23-today-at-apple-workshop-video-con-iphone",
-   "moods": [
-    "gente",
-    "pensare"
-   ],
-   "geo": [
-    45.466,
-    9.1965
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-23",
-   "time": "16:30",
-   "title": "I misteri d'Italia: 1974, la strage di Brescia",
-   "venue": "Statale, via Festa del Perdono 3, aula 102",
-   "cat": "storia",
-   "desc": "Lezione aperta BookCity alla Statale. Iscrizione obbligatoria.",
-   "url": "https://work.unimi.it/eventir/registrazione?code=17540",
-   "free": true,
-   "tags": [
-    "bookcity"
-   ],
-   "verify": false,
-   "id": "e007",
-   "key": "2026-11-23-i-misteri-d-italia-1974-la-strage-di-brescia",
-   "moods": [
-    "gente",
-    "pensare"
-   ],
-   "geo": [
-    45.4605,
-    9.1945
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-23",
-   "time": "16:30",
-   "title": "Quale sovranità per il Caucaso meridionale?",
-   "venue": "Statale, Scienze politiche, via Conservatorio 7, aula 26",
-   "cat": "geo",
-   "desc": "Lezione aperta BookCity alla Statale. Iscrizione obbligatoria.",
-   "url": "https://work.unimi.it/eventir/registrazione?code=17525",
-   "free": true,
-   "tags": [
-    "bookcity"
-   ],
-   "verify": false,
-   "id": "e008",
-   "key": "2026-11-23-quale-sovranita-per-il-caucaso-meridionale",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    45.465,
-    9.201
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-23",
-   "time": "18:00",
-   "title": "Dischi e tasti: Ildebrando Pizzetti, Piano Trio",
-   "venue": "Teatro alla Scala",
-   "cat": "talk",
-   "desc": "Incontro.",
-   "url": "https://www.teatroallascala.org/it/calendario.html",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e009",
-   "key": "2026-11-23-dischi-e-tasti-ildebrando-pizzetti-piano-trio",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    45.4674,
-    9.1895
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-23",
-   "time": "18:00",
-   "title": "Milano nella storia: da capitale imperiale a metropoli",
-   "venue": "Casa della Cultura (via Borgogna 3)",
-   "cat": "storia",
-   "desc": "Quarto incontro del ciclo sulla storia della città; anche in streaming.",
-   "url": "https://www.casadellacultura.it/casa-della-cultura-calendario.php",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e010",
-   "key": "2026-11-23-milano-nella-storia-da-capitale-imperiale-a-metr",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    45.4655,
-    9.199
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-23",
-   "time": "18:00",
-   "title": "Teatro dietro l'angolo: la drammaturgia",
-   "venue": "Biblioteca Oglio (via Oglio 18)",
-   "cat": "teatro",
-   "desc": "Scuola di teatro nei Municipi del Piccolo: lezione di Davide Carnevali. Gratis, prenotazione a c.bibliooglio@comune.milano.it.",
-   "url": "https://www.piccoloteatro.org/it/pages/teatro-dietro-l-angolo-scuola-di-teatro-nei-municipi",
-   "free": true,
-   "tags": [],
-   "verify": false,
-   "id": "e011",
-   "key": "2026-11-23-teatro-dietro-l-angolo-la-drammaturgia",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.4405,
-    9.2235
-   ],
-   "zona": "Fuori centro"
-  },
-  {
-   "date": "2026-11-23",
-   "time": "18:30",
-   "title": "Milo Manara: l'erotismo nell'arte e nella letteratura",
-   "venue": "Centro Internazionale di Brera",
-   "cat": "storia",
-   "desc": "",
-   "url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
-   "free": null,
-   "tags": [
-    "bookcity"
-   ],
-   "verify": false,
-   "id": "e012",
-   "key": "2026-11-23-milo-manara-l-erotismo-nell-arte-e-nella-lettera",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    45.472,
-    9.186
-   ],
-   "zona": "Brera · Garibaldi · Isola"
-  },
-  {
-   "date": "2026-11-23",
-   "time": "18:30",
-   "title": "Workshop: costruisci la tua prima automazione",
-   "venue": "Talent Garden Isola (piazza Città di Lombardia 1)",
-   "cat": "tech",
-   "desc": "Serata pratica no-code: si esce con un flusso automatico funzionante. Porta il portatile.",
-   "url": "https://luma.com/event/evt-6g5FifXR0wvlEOf",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e013",
-   "key": "2026-11-23-workshop-costruisci-la-tua-prima-automazione",
-   "moods": [
-    "gente",
-    "pensare"
-   ],
-   "geo": [
-    45.4855,
-    9.195
-   ],
-   "zona": "Brera · Garibaldi · Isola"
-  },
-  {
-   "date": "2026-11-23",
-   "time": "19:00",
-   "title": "Gli spietati (rassegna Gene Hackman)",
-   "venue": "Cineteca Arlecchino",
-   "cat": "cinema",
-   "desc": "Il western crepuscolare di Eastwood nella rassegna dedicata a Gene Hackman.",
-   "url": "https://www.cinetecamilano.it/rassegna/gene-hackman-una-faccia-per-il-cinema/",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e014",
-   "key": "2026-11-23-gli-spietati-rassegna-gene-hackman",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.4665,
-    9.197
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-23",
-   "time": "19:00",
-   "title": "Open Coding Night",
-   "venue": "WAO Isola (via Porro Lambertenghi 7)",
-   "cat": "tech",
-   "desc": "Serata aperta di programmazione insieme, per sviluppatori, maker e studenti.",
-   "url": "https://www.meetup.com/it-it/tdd-milano/events/vwtmbvyjcpbfc/",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e015",
-   "key": "2026-11-23-open-coding-night",
-   "moods": [
-    "gente",
-    "pensare"
-   ],
-   "geo": [
-    45.4895,
-    9.187
-   ],
-   "zona": "Brera · Garibaldi · Isola"
-  },
-  {
-   "date": "2026-11-23",
-   "time": "19:30",
-   "title": "L'eterna illusione: da Broadway a Hollywood",
-   "venue": "Anteo Palazzo del Cinema",
-   "cat": "cinema",
-   "desc": "Rassegna del lunedì.",
-   "url": "https://www.spaziocinema.info/milano/eventi-e-rassegne/l2019eterna-illusione-da-broadway-a-hollywood",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e016",
-   "key": "2026-11-23-l-eterna-illusione-da-broadway-a-hollywood",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.481,
-    9.187
-   ],
-   "zona": "Brera · Garibaldi · Isola"
-  },
-  {
-   "date": "2026-11-23",
-   "time": "20:00",
-   "title": "Coro di Voci Bianche dell'Accademia",
-   "venue": "Teatro alla Scala",
-   "cat": "classica",
-   "desc": "",
-   "url": "https://www.teatroallascala.org/it/calendario.html",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e017",
-   "key": "2026-11-23-coro-di-voci-bianche-dell-accademia",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.4674,
-    9.1895
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-23",
-   "time": "20:00",
-   "title": "Corso di tango e Milonga con Ausländer",
-   "venue": "Arci Biko (via Ettore Ponti 40)",
-   "cat": "jazz",
-   "desc": "Lezioni di tango dalle 20 (principianti) e dalle 21, poi milonga libera fino a tardi: 10 € la milonga. Ingresso con tessera ARCI.",
-   "url": "https://www.bikoclub.net/",
-   "free": false,
-   "tags": [],
-   "verify": false,
-   "id": "e018",
-   "key": "2026-11-23-corso-di-tango-e-milonga-con-auslander",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.4448,
-    9.156
-   ],
-   "zona": "Navigli · Tortona · S. Ambrogio"
-  },
-  {
-   "date": "2026-11-23",
-   "time": "20:00",
-   "title": "Inaugurazione BookCity: Colson Whitehead",
-   "venue": "Teatro Dal Verme",
-   "cat": "talk",
-   "desc": "Con Francesco Costa, conduce Giovanna Zucconi. Lectio di Marco Balzano.",
-   "url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
-   "free": null,
-   "tags": [
-    "bookcity",
-    "imperdibile"
-   ],
-   "verify": false,
-   "id": "e019",
-   "key": "2026-11-23-inaugurazione-bookcity-colson-whitehead",
-   "why": "Due premi Pulitzer, una sera sola: il via ufficiale di BookCity.",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    45.4677,
-    9.182
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-23",
-   "time": "20:30",
-   "title": "Alessandro Bergonzoni, Voto di vastità",
-   "venue": "Teatro Carcano",
-   "cat": "teatro",
-   "desc": "Rassegna Follow the Monday.",
-   "url": "https://www.mentelocale.it/milano/129757-follow-the-monday-farsi-male-variazioni-sul-masochismo.htm",
-   "free": null,
-   "tags": [
-    "imperdibile"
-   ],
-   "verify": false,
-   "id": "e020",
-   "key": "2026-11-23-alessandro-bergonzoni-voto-di-vastita",
-   "why": "Un'ora di parole che si piegano: si ride e si pensa insieme.",
-   "moods": [
-    "emozionarmi",
-    "ridere"
-   ],
-   "geo": [
-    45.4547,
-    9.1966
-   ],
-   "zona": "Porta Romana · Vittoria"
-  },
-  {
-   "date": "2026-11-23",
-   "time": "20:45",
-   "title": "Roman Fediurko, pianoforte",
-   "venue": "Conservatorio, Sala Puccini",
-   "cat": "classica",
-   "desc": "Recital pianistico per la stagione di Serate Musicali.",
-   "url": "https://www.seratemusicali.it/pianista-roman-fediurko/",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e021",
-   "key": "2026-11-23-roman-fediurko-pianoforte",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.4655,
-    9.201
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-23",
-   "time": "",
-   "title": "Vedo, ascolto, parlo: contro la violenza sulle donne",
-   "venue": "Anteo Palazzo del Cinema",
-   "cat": "cinema",
-   "desc": "Dal 23 al 25.",
-   "url": "https://www.spaziocinema.info/milano/eventi-e-rassegne/vedo-ascolto-parlo-muoviamoci-contro-la-violenza-sulle-donne",
-   "free": null,
-   "tags": [],
-   "verify": true,
-   "id": "e022",
-   "key": "2026-11-23-vedo-ascolto-parlo-contro-la-violenza-sulle-donn",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.481,
-    9.187
-   ],
-   "zona": "Brera · Garibaldi · Isola"
-  },
   {
    "date": "2026-11-24",
    "time": "10:30",
@@ -551,7 +18,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e023",
+   "id": "e000",
    "key": "2026-11-24-la-ragione-di-orlando-come-il-medioevo-imparo-a-",
    "moods": [
     "pensare"
@@ -575,7 +42,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e024",
+   "id": "e001",
    "key": "2026-11-24-una-societa-piu-equa-e-anche-piu-sana",
    "moods": [
     "pensare"
@@ -597,7 +64,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e025",
+   "id": "e002",
    "key": "2026-11-24-daniel-pennac-apre-la-nuova-feltrinelli-centrale",
    "moods": [
     "pensare"
@@ -621,7 +88,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e026",
+   "id": "e003",
    "key": "2026-11-24-una-risata-seppellira-la-violenza-euripide-e-ari",
    "moods": [
     "pensare",
@@ -644,7 +111,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e027",
+   "id": "e004",
    "key": "2026-11-24-otello-l-ultima-maschera-tragica",
    "moods": [
     "pensare"
@@ -666,7 +133,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e028",
+   "id": "e005",
    "key": "2026-11-24-over-dance-milano-danza-e-longevita",
    "moods": [
     "pensare"
@@ -690,7 +157,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e029",
+   "id": "e006",
    "key": "2026-11-24-l-universo-ideologico-di-trump",
    "moods": [
     "gente",
@@ -715,7 +182,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e030",
+   "id": "e007",
    "key": "2026-11-24-la-democrazia-partecipativa-tra-crisi-della-rapp",
    "moods": [
     "pensare"
@@ -739,7 +206,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e031",
+   "id": "e008",
    "key": "2026-11-24-material-mente-umana-la-soggettivita-incarnata",
    "moods": [
     "gente",
@@ -764,7 +231,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e032",
+   "id": "e009",
    "key": "2026-11-24-salute-in-evoluzione-pievani-e-remuzzi",
    "moods": [
     "pensare"
@@ -774,6 +241,29 @@
     9.224
    ],
    "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "18:00",
+   "title": "Teatro dietro l'angolo: laboratorio con Diana Manea",
+   "venue": "Biblioteca Quarto Oggiaro (via Otranto 7)",
+   "cat": "teatro",
+   "desc": "Scuola di teatro del Piccolo in biblioteca, primo laboratorio del corso di terzo anno. Gratis con prenotazione: c.biblioquartooggiaro@comune.milano.it.",
+   "url": "https://www.piccoloteatro.org/it/pages/teatro-dietro-l-angolo-scuola-di-teatro-nei-municipi",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "e010",
+   "key": "2026-11-24-teatro-dietro-l-angolo-laboratorio-con-diana-man",
+   "moods": [
+    "emozionarmi",
+    "gente"
+   ],
+   "geo": [
+    45.5197,
+    9.135
+   ],
+   "zona": "Fuori centro"
   },
   {
    "date": "2026-11-24",
@@ -789,7 +279,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e033",
+   "id": "e011",
    "key": "2026-11-24-daniel-pennac-presenta-mallet",
    "why": "Daniel Pennac dal vivo, a Milano, con il suo nuovo libro.",
    "moods": [
@@ -812,7 +302,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e034",
+   "id": "e012",
    "key": "2026-11-24-kaleidoscope-ai-7-crescere-e-vendere-con-l-intel",
    "moods": [
     "gente",
@@ -835,7 +325,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e035",
+   "id": "e013",
    "key": "2026-11-24-presentazione-de-il-morandini-2026",
    "moods": [
     "emozionarmi"
@@ -852,7 +342,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e036",
+   "id": "e014",
    "key": "2026-11-24-il-rito-del-jazz-omaggio-a-chick-corea",
    "moods": [
     "emozionarmi",
@@ -875,7 +365,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e037",
+   "id": "e015",
    "key": "2026-11-24-io-sono-verticale",
    "moods": [
     "emozionarmi"
@@ -897,7 +387,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e038",
+   "id": "e016",
    "key": "2026-11-24-una-delle-ultime-sere-di-carnovale",
    "moods": [
     "emozionarmi"
@@ -919,7 +409,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e039",
+   "id": "e017",
    "key": "2026-11-24-rompiamo-il-silenzio",
    "moods": [
     "emozionarmi"
@@ -941,7 +431,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e040",
+   "id": "e018",
    "key": "2026-11-24-i-monologhi-della-vagina",
    "moods": [
     "emozionarmi"
@@ -955,28 +445,6 @@
   {
    "date": "2026-11-24",
    "time": "20:30",
-   "title": "La rivolta",
-   "venue": "Teatro Leonardo (via Ampère 1)",
-   "cat": "teatro",
-   "desc": "Scritto e diretto da Corrado d'Elia.",
-   "url": "https://www.mentelocale.it/milano/139866-rivolta.htm",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e041",
-   "key": "2026-11-24-la-rivolta",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.48,
-    9.228
-   ],
-   "zona": "Porta Venezia · Città Studi"
-  },
-  {
-   "date": "2026-11-24",
-   "time": "20:30",
    "title": "La caccia al tesoro",
    "venue": "Teatro Filodrammatici",
    "cat": "teatro",
@@ -985,7 +453,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e218",
+   "id": "e019",
    "key": "2026-11-24-la-caccia-al-tesoro",
    "moods": [
     "emozionarmi",
@@ -999,6 +467,28 @@
   },
   {
    "date": "2026-11-24",
+   "time": "20:30",
+   "title": "La rivolta",
+   "venue": "Teatro Leonardo (via Ampère 1)",
+   "cat": "teatro",
+   "desc": "Scritto e diretto da Corrado d'Elia.",
+   "url": "https://www.mentelocale.it/milano/139866-rivolta.htm",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "e020",
+   "key": "2026-11-24-la-rivolta",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.48,
+    9.228
+   ],
+   "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-11-24",
    "time": "",
    "title": "Carl Gustav Jung attraverso il cinema e l'attualità",
    "venue": "Philo (su Zoom)",
@@ -1008,7 +498,7 @@
    "free": true,
    "tags": [],
    "verify": true,
-   "id": "e042",
+   "id": "e021",
    "key": "2026-11-24-carl-gustav-jung-attraverso-il-cinema-e-l-attual",
    "moods": [
     "gente",
@@ -1026,7 +516,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "e043",
+   "id": "e022",
    "key": "2026-11-24-celebrate-studio-54",
    "moods": [
     "emozionarmi"
@@ -1048,7 +538,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e044",
+   "id": "e023",
    "key": "2026-11-24-iliade-la-ballata-di-tersite",
    "moods": [
     "emozionarmi"
@@ -1072,7 +562,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e045",
+   "id": "e024",
    "key": "2026-11-25-oltre-la-rappresaglia-la-repressione-nazista-in-",
    "moods": [
     "pensare"
@@ -1096,7 +586,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e046",
+   "id": "e025",
    "key": "2026-11-25-arturo-perez-reverte",
    "moods": [
     "pensare"
@@ -1120,7 +610,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e047",
+   "id": "e026",
    "key": "2026-11-25-dante-e-vivo",
    "moods": [
     "pensare"
@@ -1144,7 +634,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e048",
+   "id": "e027",
    "key": "2026-11-25-il-senno-sulla-luna-il-medioevo-di-doctor-virtua",
    "moods": [
     "pensare"
@@ -1168,7 +658,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e049",
+   "id": "e028",
    "key": "2026-11-25-piacere-rousseau-ti-presento-dewey",
    "moods": [
     "pensare"
@@ -1185,7 +675,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e050",
+   "id": "e029",
    "key": "2026-11-25-i-classici-non-hanno-mai-finito-di-dirci-cio-che",
    "moods": [
     "pensare"
@@ -1209,7 +699,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e051",
+   "id": "e030",
    "key": "2026-11-25-jan-brokken-la-malinconia-del-viaggiatore",
    "moods": [
     "pensare"
@@ -1233,7 +723,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e052",
+   "id": "e031",
    "key": "2026-11-25-prima-delle-prime-otello",
    "why": "Arrivare alla Prima della Scala sapendo già tutto di Otello.",
    "moods": [
@@ -1256,7 +746,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e053",
+   "id": "e032",
    "key": "2026-11-25-agents-anonymous-milan-chapter",
    "moods": [
     "pensare"
@@ -1280,7 +770,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e054",
+   "id": "e033",
    "key": "2026-11-25-era-tanto-un-bravo-ragazzo",
    "moods": [
     "pensare"
@@ -1302,7 +792,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e055",
+   "id": "e034",
    "key": "2026-11-25-io-sono-verticale",
    "moods": [
     "emozionarmi"
@@ -1324,7 +814,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e219",
+   "id": "e035",
    "key": "2026-11-25-la-caccia-al-tesoro",
    "moods": [
     "emozionarmi",
@@ -1350,7 +840,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e056",
+   "id": "e036",
    "key": "2026-11-25-samantha-cristoforetti-il-senso-della-luna",
    "why": "Un'astronauta, la Luna e Leopardi nella stessa sera.",
    "moods": [
@@ -1373,7 +863,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e057",
+   "id": "e037",
    "key": "2026-11-25-la-rivolta",
    "moods": [
     "emozionarmi"
@@ -1395,7 +885,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e058",
+   "id": "e038",
    "key": "2026-11-25-una-delle-ultime-sere-di-carnovale",
    "moods": [
     "emozionarmi"
@@ -1417,7 +907,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e059",
+   "id": "e039",
    "key": "2026-11-25-uomini-si-diventa-nella-mente-di-un-femminicida",
    "moods": [
     "emozionarmi"
@@ -1439,7 +929,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e060",
+   "id": "e040",
    "key": "2026-11-25-solisti-aquilani-con-anna-tifu",
    "moods": [
     "emozionarmi"
@@ -1464,7 +954,7 @@
    ],
    "verify": false,
    "why": "Una leggenda del jazz di Chicago festeggia 50 anni di musica, in un club da 300 posti.",
-   "id": "e061",
+   "id": "e041",
    "key": "2026-11-25-kahil-el-zabar-ethnic-heritage-ensemble-let-the-",
    "moods": [
     "emozionarmi"
@@ -1486,7 +976,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e062",
+   "id": "e042",
    "key": "2026-11-25-bobby",
    "moods": [
     "emozionarmi"
@@ -1508,7 +998,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e063",
+   "id": "e043",
    "key": "2026-11-25-liv-warfield",
    "moods": [
     "emozionarmi"
@@ -1532,7 +1022,7 @@
     "bookcity"
    ],
    "verify": true,
-   "id": "e064",
+   "id": "e044",
    "key": "2026-11-25-silvia-romani-e-federica-fracassi-sul-mito-antic",
    "moods": [
     "pensare"
@@ -1556,7 +1046,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e065",
+   "id": "e045",
    "key": "2026-11-26-la-messa-non-e-finita-il-sacro-all-epoca-del-dig",
    "moods": [
     "gente",
@@ -1581,7 +1071,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e066",
+   "id": "e046",
    "key": "2026-11-26-le-sparizioni-forzate-in-america-latina",
    "moods": [
     "pensare"
@@ -1603,7 +1093,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e067",
+   "id": "e047",
    "key": "2026-11-26-100-copertine-di-futuro",
    "moods": [
     "pensare"
@@ -1625,7 +1115,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e068",
+   "id": "e048",
    "key": "2026-11-26-anti-illuminismo-nella-storia-e-oggi",
    "moods": [
     "pensare"
@@ -1647,7 +1137,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e069",
+   "id": "e049",
    "key": "2026-11-26-letture-e-note-al-museo-guido-cantelli",
    "moods": [
     "pensare"
@@ -1669,7 +1159,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e070",
+   "id": "e050",
    "key": "2026-11-26-riprendersi-il-futuro-tecnologia-impresa-e-la-cr",
    "moods": [
     "pensare"
@@ -1691,7 +1181,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e071",
+   "id": "e051",
    "key": "2026-11-26-teatro-dietro-l-angolo-la-drammaturgia",
    "moods": [
     "emozionarmi"
@@ -1715,7 +1205,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e072",
+   "id": "e052",
    "key": "2026-11-26-hello-stranger-mostra-di-poesia",
    "moods": [
     "pensare"
@@ -1740,7 +1230,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e073",
+   "id": "e053",
    "key": "2026-11-26-milena-gabanelli-e-simona-ravizza-la-resa-dei-co",
    "why": "Due firme del giornalismo d'inchiesta sullo stesso palco.",
    "moods": [
@@ -1763,7 +1253,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e074",
+   "id": "e054",
    "key": "2026-11-26-tech-si-gira-ghost-in-the-shell-con-luca-perri",
    "moods": [
     "pensare"
@@ -1785,7 +1275,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e075",
+   "id": "e055",
    "key": "2026-11-26-io-sono-verticale",
    "moods": [
     "emozionarmi"
@@ -1807,7 +1297,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e076",
+   "id": "e056",
    "key": "2026-11-26-una-delle-ultime-sere-di-carnovale",
    "moods": [
     "emozionarmi"
@@ -1821,6 +1311,28 @@
   {
    "date": "2026-11-26",
    "time": "20:00",
+   "title": "Bravissime",
+   "venue": "Teatro della Cooperativa (via Hermada 8)",
+   "cat": "teatro",
+   "desc": "Atir porta in scena le bambine schiacciate dall'imperativo della perfezione: dove finisce la disciplina e inizia l'abuso?",
+   "url": "https://www.mentelocale.it/milano/137381-bravissime.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e057",
+   "key": "2026-11-26-bravissime",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.5162,
+    9.1937
+   ],
+   "zona": "Niguarda"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "20:00",
    "title": "Concerto civile Giorgio Ambrosoli",
    "venue": "Conservatorio, Sala Verdi",
    "cat": "classica",
@@ -1829,7 +1341,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e077",
+   "id": "e058",
    "key": "2026-11-26-concerto-civile-giorgio-ambrosoli",
    "moods": [
     "emozionarmi"
@@ -1853,7 +1365,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e078",
+   "id": "e059",
    "key": "2026-11-26-fabio-volo-quando-l-amore-ti-sorprende",
    "moods": [
     "pensare"
@@ -1875,7 +1387,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e079",
+   "id": "e060",
    "key": "2026-11-26-human-brains-adolescenza-capire-mente-corpo-e-sa",
    "moods": [
     "pensare"
@@ -1888,28 +1400,6 @@
   },
   {
    "date": "2026-11-26",
-   "time": "20:00",
-   "title": "Bravissime",
-   "venue": "Teatro della Cooperativa (via Hermada 8)",
-   "cat": "teatro",
-   "desc": "Atir porta in scena le bambine schiacciate dall'imperativo della perfezione: dove finisce la disciplina e inizia l'abuso?",
-   "url": "https://www.mentelocale.it/milano/137381-bravissime.htm",
-   "free": false,
-   "tags": [],
-   "verify": false,
-   "id": "e224",
-   "key": "2026-11-26-bravissime",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.5162,
-    9.1937
-   ],
-   "zona": "Niguarda"
-  },
-  {
-   "date": "2026-11-26",
    "time": "20:30",
    "title": "Adelchi con Roberto Trifirò",
    "venue": "Centro Culturale di Milano",
@@ -1919,7 +1409,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e080",
+   "id": "e061",
    "key": "2026-11-26-adelchi-con-roberto-trifiro",
    "moods": [
     "emozionarmi"
@@ -1927,6 +1417,29 @@
    "geo": [
     45.4655,
     9.196
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "20:30",
+   "title": "La caccia al tesoro",
+   "venue": "Teatro Filodrammatici",
+   "cat": "teatro",
+   "desc": "Commedia satirica di Bruno Fornasari: dei fratelli scoprono che la badante della madre è stata adottata ed è ora erede. Intero €25, ridotti da €9.",
+   "url": "https://www.mentelocale.it/milano/129404-la-caccia-al-tesoro-la-commedia-la-satirica-di-bruno-fornasari-al-teatro-filodrammatici-di-milano.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e062",
+   "key": "2026-11-26-la-caccia-al-tesoro",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.4677,
+    9.188
    ],
    "zona": "Centro"
   },
@@ -1941,7 +1454,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e081",
+   "id": "e063",
    "key": "2026-11-26-la-rivolta",
    "moods": [
     "emozionarmi"
@@ -1954,29 +1467,6 @@
   },
   {
    "date": "2026-11-26",
-   "time": "20:30",
-   "title": "La caccia al tesoro",
-   "venue": "Teatro Filodrammatici",
-   "cat": "teatro",
-   "desc": "Commedia satirica di Bruno Fornasari: dei fratelli scoprono che la badante della madre è stata adottata ed è ora erede. Intero €25, ridotti da €9.",
-   "url": "https://www.mentelocale.it/milano/129404-la-caccia-al-tesoro-la-commedia-la-satirica-di-bruno-fornasari-al-teatro-filodrammatici-di-milano.htm",
-   "free": false,
-   "tags": [],
-   "verify": false,
-   "id": "e220",
-   "key": "2026-11-26-la-caccia-al-tesoro",
-   "moods": [
-    "emozionarmi",
-    "ridere"
-   ],
-   "geo": [
-    45.4677,
-    9.188
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-26",
    "time": "21:00",
    "title": "Raffy Bushman trio: New Life + Cecilia Barra",
    "venue": "Arci Biko (via Ettore Ponti 40)",
@@ -1986,7 +1476,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e082",
+   "id": "e064",
    "key": "2026-11-26-raffy-bushman-trio-new-life-cecilia-barra",
    "moods": [
     "emozionarmi"
@@ -2008,7 +1498,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e083",
+   "id": "e065",
    "key": "2026-11-26-a-flauto-e-cembalo-milano-arte-musica",
    "moods": [
     "emozionarmi"
@@ -2025,7 +1515,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "e084",
+   "id": "e066",
    "key": "2026-11-26-luca-barbarossa",
    "moods": [
     "emozionarmi"
@@ -2047,7 +1537,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e085",
+   "id": "e067",
    "key": "2026-11-27-milano-life-science-forum-prevenzione",
    "moods": [
     "pensare"
@@ -2071,7 +1561,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e086",
+   "id": "e068",
    "key": "2026-11-27-campi-celle-ceneri-la-scrittura-palestinese",
    "moods": [
     "gente",
@@ -2096,7 +1586,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e087",
+   "id": "e069",
    "key": "2026-11-27-la-scala-dei-libri-francesco-filidei-e-silvia-le",
    "moods": [
     "pensare"
@@ -2120,7 +1610,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e088",
+   "id": "e070",
    "key": "2026-11-27-francesco-vezzoli-victoria-mater",
    "moods": [
     "pensare"
@@ -2142,7 +1632,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e089",
+   "id": "e071",
    "key": "2026-11-27-una-legge-elettorale-inaccettabile",
    "moods": [
     "pensare"
@@ -2167,7 +1657,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e090",
+   "id": "e072",
    "key": "2026-11-27-umberto-galimberti-l-illusione-della-liberta",
    "why": "Quanto siamo davvero liberi? Galimberti prova a rispondere.",
    "moods": [
@@ -2190,7 +1680,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e091",
+   "id": "e073",
    "key": "2026-11-27-vincenzo-latronico-work-in-progress",
    "moods": [
     "pensare"
@@ -2212,7 +1702,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e092",
+   "id": "e074",
    "key": "2026-11-27-io-sono-verticale",
    "moods": [
     "emozionarmi"
@@ -2234,7 +1724,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e093",
+   "id": "e075",
    "key": "2026-11-27-beethoven-triplo-concerto-musorgskij-quadri",
    "moods": [
     "emozionarmi"
@@ -2256,7 +1746,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e225",
+   "id": "e076",
    "key": "2026-11-27-bravissime",
    "moods": [
     "emozionarmi"
@@ -2278,7 +1768,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e094",
+   "id": "e077",
    "key": "2026-11-27-adelchi-con-roberto-trifiro",
    "moods": [
     "emozionarmi"
@@ -2302,7 +1792,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e095",
+   "id": "e078",
    "key": "2026-11-27-di-madre-in-figlia",
    "why": "Prima assoluta: tre generazioni di donne in scena.",
    "moods": [
@@ -2327,7 +1817,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e096",
+   "id": "e079",
    "key": "2026-11-27-docufilm-sui-150-anni-del-corriere",
    "moods": [
     "emozionarmi"
@@ -2341,72 +1831,6 @@
   {
    "date": "2026-11-27",
    "time": "20:30",
-   "title": "La rivolta",
-   "venue": "Teatro Leonardo (via Ampère 1)",
-   "cat": "teatro",
-   "desc": "Scritto e diretto da Corrado d'Elia.",
-   "url": "https://www.mentelocale.it/milano/139866-rivolta.htm",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e097",
-   "key": "2026-11-27-la-rivolta",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.48,
-    9.228
-   ],
-   "zona": "Porta Venezia · Città Studi"
-  },
-  {
-   "date": "2026-11-27",
-   "time": "20:30",
-   "title": "Una delle ultime sere di carnovale",
-   "venue": "Piccolo Teatro Strehler",
-   "cat": "teatro",
-   "desc": "Goldoni diretto da Valerio Binasco: il congedo del commediografo da Venezia.",
-   "url": "https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-carnovale",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e098",
-   "key": "2026-11-27-una-delle-ultime-sere-di-carnovale",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.4723,
-    9.1824
-   ],
-   "zona": "Brera · Garibaldi · Isola"
-  },
-  {
-   "date": "2026-11-27",
-   "time": "20:30",
-   "title": "XX variazioni a tre",
-   "venue": "Teatro Litta (corso Magenta 24)",
-   "cat": "teatro",
-   "desc": "Danza: tre interpreti in uno spazio chiuso esplorano i ruoli di madre, sorella e figlia. Coreografia e regia di Susanna Baccari.",
-   "url": "https://www.mentelocale.it/milano/132095-xx-variazioni-a-tre.htm",
-   "free": false,
-   "tags": [],
-   "verify": false,
-   "id": "e197",
-   "key": "2026-11-27-xx-variazioni-a-tre",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.4652,
-    9.1772
-   ],
-   "zona": "Magenta · Sant'Ambrogio"
-  },
-  {
-   "date": "2026-11-27",
-   "time": "20:30",
    "title": "L'amante di Harold Pinter",
    "venue": "Teatro Fontana (via Boltraffio 21)",
    "cat": "teatro",
@@ -2415,7 +1839,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e215",
+   "id": "e080",
    "key": "2026-11-27-l-amante-di-harold-pinter",
    "moods": [
     "emozionarmi"
@@ -2437,7 +1861,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e221",
+   "id": "e081",
    "key": "2026-11-27-la-caccia-al-tesoro",
    "moods": [
     "emozionarmi",
@@ -2451,6 +1875,72 @@
   },
   {
    "date": "2026-11-27",
+   "time": "20:30",
+   "title": "La rivolta",
+   "venue": "Teatro Leonardo (via Ampère 1)",
+   "cat": "teatro",
+   "desc": "Scritto e diretto da Corrado d'Elia.",
+   "url": "https://www.mentelocale.it/milano/139866-rivolta.htm",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "e082",
+   "key": "2026-11-27-la-rivolta",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.48,
+    9.228
+   ],
+   "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "20:30",
+   "title": "Una delle ultime sere di carnovale",
+   "venue": "Piccolo Teatro Strehler",
+   "cat": "teatro",
+   "desc": "Goldoni diretto da Valerio Binasco: il congedo del commediografo da Venezia.",
+   "url": "https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-carnovale",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "e083",
+   "key": "2026-11-27-una-delle-ultime-sere-di-carnovale",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4723,
+    9.1824
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "20:30",
+   "title": "XX variazioni a tre",
+   "venue": "Teatro Litta (corso Magenta 24)",
+   "cat": "teatro",
+   "desc": "Danza: tre interpreti in uno spazio chiuso esplorano i ruoli di madre, sorella e figlia. Coreografia e regia di Susanna Baccari.",
+   "url": "https://www.mentelocale.it/milano/132095-xx-variazioni-a-tre.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e084",
+   "key": "2026-11-27-xx-variazioni-a-tre",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4652,
+    9.1772
+   ],
+   "zona": "Magenta · Sant'Ambrogio"
+  },
+  {
+   "date": "2026-11-27",
    "time": "22:00",
    "title": "Toni Zeno + Gentle T & Zeboh + Brattini",
    "venue": "Arci Biko (via Ettore Ponti 40)",
@@ -2460,7 +1950,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e099",
+   "id": "e085",
    "key": "2026-11-27-toni-zeno-gentle-t-zeboh-brattini",
    "moods": [
     "emozionarmi"
@@ -2484,7 +1974,7 @@
     "bookcity"
    ],
    "verify": true,
-   "id": "e100",
+   "id": "e086",
    "key": "2026-11-27-e-tu-come-lo-sai-capire-la-scienza-per-decidere-",
    "moods": [
     "pensare"
@@ -2508,7 +1998,7 @@
     "bookcity"
    ],
    "verify": true,
-   "id": "e101",
+   "id": "e087",
    "key": "2026-11-27-oltre-la-punizione-riparare-riannodare-rigenerar",
    "moods": [
     "pensare"
@@ -2532,7 +2022,7 @@
     "bookcity"
    ],
    "verify": true,
-   "id": "e102",
+   "id": "e088",
    "key": "2026-11-27-scrivere-per-resistere-premio-pen-inge-feltrinel",
    "moods": [
     "pensare"
@@ -2554,7 +2044,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e103",
+   "id": "e089",
    "key": "2026-11-27-the-legendary-johnny-o-neal-trio",
    "moods": [
     "emozionarmi"
@@ -2576,7 +2066,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e104",
+   "id": "e090",
    "key": "2026-11-28-80-anni-dopo-l-astensionismo-elettorale-e-come-c",
    "moods": [
     "pensare"
@@ -2598,7 +2088,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e105",
+   "id": "e091",
    "key": "2026-11-28-masterclass-con-laura-citarella",
    "moods": [
     "emozionarmi"
@@ -2620,7 +2110,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e106",
+   "id": "e092",
    "key": "2026-11-28-e-andata-cosi-lezione-di-cinema",
    "moods": [
     "emozionarmi"
@@ -2645,7 +2135,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e107",
+   "id": "e093",
    "key": "2026-11-28-aldo-cazzullo-il-nostro-rinascimento",
    "why": "La storia d'Italia raccontata come un romanzo.",
    "moods": [
@@ -2670,7 +2160,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e108",
+   "id": "e094",
    "key": "2026-11-28-laura-pepe-storia-non-convenzionale-delle-donne-",
    "moods": [
     "pensare"
@@ -2694,7 +2184,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e109",
+   "id": "e095",
    "key": "2026-11-28-dario-biagi-vita-di-cagnaccio-di-san-pietro",
    "moods": [
     "pensare"
@@ -2718,7 +2208,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e110",
+   "id": "e096",
    "key": "2026-11-28-ermanno-cavazzoni-saro-breve",
    "moods": [
     "pensare"
@@ -2742,7 +2232,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e111",
+   "id": "e097",
    "key": "2026-11-28-fernando-aramburu-presenta-maite",
    "moods": [
     "pensare"
@@ -2766,7 +2256,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e112",
+   "id": "e098",
    "key": "2026-11-28-filosofia-dell-amicizia",
    "moods": [
     "pensare"
@@ -2788,7 +2278,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e113",
+   "id": "e099",
    "key": "2026-11-28-inaugurazione-anno-accademico-del-conservatorio",
    "moods": [
     "emozionarmi"
@@ -2812,7 +2302,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e114",
+   "id": "e100",
    "key": "2026-11-28-la-scala-dei-libri-a-dirci-le-cose-chiare-don-gi",
    "moods": [
     "pensare"
@@ -2834,7 +2324,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e115",
+   "id": "e101",
    "key": "2026-11-28-di-madre-in-figlia",
    "moods": [
     "emozionarmi"
@@ -2856,7 +2346,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e116",
+   "id": "e102",
    "key": "2026-11-28-io-sono-verticale",
    "moods": [
     "emozionarmi"
@@ -2870,28 +2360,6 @@
   {
    "date": "2026-11-28",
    "time": "19:30",
-   "title": "Una delle ultime sere di carnovale",
-   "venue": "Piccolo Teatro Strehler",
-   "cat": "teatro",
-   "desc": "Goldoni diretto da Valerio Binasco: il congedo del commediografo da Venezia.",
-   "url": "https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-carnovale",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e117",
-   "key": "2026-11-28-una-delle-ultime-sere-di-carnovale",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.4723,
-    9.1824
-   ],
-   "zona": "Brera · Garibaldi · Isola"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "19:30",
    "title": "L'amante di Harold Pinter",
    "venue": "Teatro Fontana (via Boltraffio 21)",
    "cat": "teatro",
@@ -2900,7 +2368,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e216",
+   "id": "e103",
    "key": "2026-11-28-l-amante-di-harold-pinter",
    "moods": [
     "emozionarmi"
@@ -2913,6 +2381,28 @@
   },
   {
    "date": "2026-11-28",
+   "time": "19:30",
+   "title": "Una delle ultime sere di carnovale",
+   "venue": "Piccolo Teatro Strehler",
+   "cat": "teatro",
+   "desc": "Goldoni diretto da Valerio Binasco: il congedo del commediografo da Venezia.",
+   "url": "https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-carnovale",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "e104",
+   "key": "2026-11-28-una-delle-ultime-sere-di-carnovale",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4723,
+    9.1824
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-28",
    "time": "20:00",
    "title": "Bravissime",
    "venue": "Teatro della Cooperativa (via Hermada 8)",
@@ -2922,7 +2412,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e226",
+   "id": "e105",
    "key": "2026-11-28-bravissime",
    "moods": [
     "emozionarmi"
@@ -2936,6 +2426,29 @@
   {
    "date": "2026-11-28",
    "time": "20:30",
+   "title": "La caccia al tesoro",
+   "venue": "Teatro Filodrammatici",
+   "cat": "teatro",
+   "desc": "Commedia satirica di Bruno Fornasari: dei fratelli scoprono che la badante della madre è stata adottata ed è ora erede. Intero €25, ridotti da €9.",
+   "url": "https://www.mentelocale.it/milano/129404-la-caccia-al-tesoro-la-commedia-la-satirica-di-bruno-fornasari-al-teatro-filodrammatici-di-milano.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e106",
+   "key": "2026-11-28-la-caccia-al-tesoro",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.4677,
+    9.188
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "20:30",
    "title": "La rivolta",
    "venue": "Teatro Leonardo (via Ampère 1)",
    "cat": "teatro",
@@ -2944,7 +2457,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e118",
+   "id": "e107",
    "key": "2026-11-28-la-rivolta",
    "moods": [
     "emozionarmi"
@@ -2966,7 +2479,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e119",
+   "id": "e108",
    "key": "2026-11-28-stai-zitta",
    "moods": [
     "emozionarmi"
@@ -2988,7 +2501,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e198",
+   "id": "e109",
    "key": "2026-11-28-xx-variazioni-a-tre",
    "moods": [
     "emozionarmi"
@@ -3001,29 +2514,6 @@
   },
   {
    "date": "2026-11-28",
-   "time": "20:30",
-   "title": "La caccia al tesoro",
-   "venue": "Teatro Filodrammatici",
-   "cat": "teatro",
-   "desc": "Commedia satirica di Bruno Fornasari: dei fratelli scoprono che la badante della madre è stata adottata ed è ora erede. Intero €25, ridotti da €9.",
-   "url": "https://www.mentelocale.it/milano/129404-la-caccia-al-tesoro-la-commedia-la-satirica-di-bruno-fornasari-al-teatro-filodrammatici-di-milano.htm",
-   "free": false,
-   "tags": [],
-   "verify": false,
-   "id": "e222",
-   "key": "2026-11-28-la-caccia-al-tesoro",
-   "moods": [
-    "emozionarmi",
-    "ridere"
-   ],
-   "geo": [
-    45.4677,
-    9.188
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-28",
    "time": "21:30",
    "title": "Materazi Future Club: The Italian Job",
    "venue": "Arci Biko (via Ettore Ponti 40)",
@@ -3033,7 +2523,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e120",
+   "id": "e110",
    "key": "2026-11-28-materazi-future-club-the-italian-job",
    "moods": [
     "emozionarmi"
@@ -3057,7 +2547,7 @@
     "bookcity"
    ],
    "verify": true,
-   "id": "e121",
+   "id": "e111",
    "key": "2026-11-28-100-anni-di-allen-ginsberg",
    "moods": [
     "pensare"
@@ -3081,7 +2571,7 @@
     "bookcity"
    ],
    "verify": true,
-   "id": "e122",
+   "id": "e112",
    "key": "2026-11-28-bff-books-friends-forever",
    "moods": [
     "gente",
@@ -3106,7 +2596,7 @@
     "bookcity"
    ],
    "verify": true,
-   "id": "e123",
+   "id": "e113",
    "key": "2026-11-28-il-verde-e-il-nero",
    "moods": [
     "pensare"
@@ -3128,7 +2618,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e124",
+   "id": "e114",
    "key": "2026-11-28-jazzanova-live-feat-wayne-snow",
    "moods": [
     "emozionarmi"
@@ -3152,7 +2642,7 @@
     "bookcity"
    ],
    "verify": true,
-   "id": "e125",
+   "id": "e115",
    "key": "2026-11-28-la-forza-biologica-della-cultura",
    "moods": [
     "pensare"
@@ -3176,7 +2666,7 @@
     "bookcity"
    ],
    "verify": true,
-   "id": "e126",
+   "id": "e116",
    "key": "2026-11-28-programma-philo-a-bookcity",
    "moods": [
     "gente",
@@ -3199,7 +2689,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e127",
+   "id": "e117",
    "key": "2026-11-28-saint-nicolas-di-britten",
    "moods": [
     "emozionarmi"
@@ -3221,7 +2711,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e128",
+   "id": "e118",
    "key": "2026-11-28-trio-david-con-emanuele-orsini",
    "moods": [
     "emozionarmi"
@@ -3243,7 +2733,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e129",
+   "id": "e119",
    "key": "2026-11-28-visite-e-laboratori-per-famiglie",
    "moods": [
     "bambini",
@@ -3268,7 +2758,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e130",
+   "id": "e120",
    "key": "2026-11-29-bookcity-0-6",
    "moods": [
     "bambini"
@@ -3293,7 +2783,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e131",
+   "id": "e121",
    "key": "2026-11-29-pupi-avati-il-gotico-padano-e-il-cinema",
    "why": "Il maestro del gotico padano racconta il suo cinema.",
    "moods": [
@@ -3316,7 +2806,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e132",
+   "id": "e122",
    "key": "2026-11-29-tjeknavorian-e-i-solisti-della-sinfonica-bartok-",
    "moods": [
     "emozionarmi"
@@ -3338,7 +2828,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e133",
+   "id": "e123",
    "key": "2026-11-29-avatar-tra-anime-e-manga-laboratorio-8-16-anni",
    "moods": [
     "bambini",
@@ -3361,7 +2851,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e134",
+   "id": "e124",
    "key": "2026-11-29-buon-compleanno-gus",
    "moods": [
     "bambini",
@@ -3387,7 +2877,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e135",
+   "id": "e125",
    "key": "2026-11-29-zerocalcare-dove-andiamo-da-qui-zero",
    "why": "Zerocalcare dal vivo: conviene arrivare presto.",
    "moods": [
@@ -3411,7 +2901,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e136",
+   "id": "e126",
    "key": "2026-11-29-ciak-si-gira-con-lo-smartphone-laboratorio-8-16-",
    "moods": [
     "bambini",
@@ -3434,7 +2924,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e137",
+   "id": "e127",
    "key": "2026-11-29-io-sono-verticale",
    "moods": [
     "emozionarmi"
@@ -3456,7 +2946,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e138",
+   "id": "e128",
    "key": "2026-11-29-beethoven-triplo-concerto-musorgskij-quadri",
    "moods": [
     "emozionarmi"
@@ -3478,7 +2968,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e139",
+   "id": "e129",
    "key": "2026-11-29-di-madre-in-figlia",
    "moods": [
     "emozionarmi"
@@ -3492,28 +2982,6 @@
   {
    "date": "2026-11-29",
    "time": "16:00",
-   "title": "Una delle ultime sere di carnovale",
-   "venue": "Piccolo Teatro Strehler",
-   "cat": "teatro",
-   "desc": "Goldoni diretto da Valerio Binasco: il congedo del commediografo da Venezia.",
-   "url": "https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-carnovale",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e140",
-   "key": "2026-11-29-una-delle-ultime-sere-di-carnovale",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.4723,
-    9.1824
-   ],
-   "zona": "Brera · Garibaldi · Isola"
-  },
-  {
-   "date": "2026-11-29",
-   "time": "16:00",
    "title": "L'amante di Harold Pinter",
    "venue": "Teatro Fontana (via Boltraffio 21)",
    "cat": "teatro",
@@ -3522,7 +2990,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e217",
+   "id": "e130",
    "key": "2026-11-29-l-amante-di-harold-pinter",
    "moods": [
     "emozionarmi"
@@ -3544,7 +3012,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e223",
+   "id": "e131",
    "key": "2026-11-29-la-caccia-al-tesoro",
    "moods": [
     "emozionarmi",
@@ -3555,6 +3023,28 @@
     9.188
    ],
    "zona": "Centro"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "16:00",
+   "title": "Una delle ultime sere di carnovale",
+   "venue": "Piccolo Teatro Strehler",
+   "cat": "teatro",
+   "desc": "Goldoni diretto da Valerio Binasco: il congedo del commediografo da Venezia.",
+   "url": "https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-carnovale",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "e132",
+   "key": "2026-11-29-una-delle-ultime-sere-di-carnovale",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4723,
+    9.1824
+   ],
+   "zona": "Brera · Garibaldi · Isola"
   },
   {
    "date": "2026-11-29",
@@ -3569,7 +3059,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e141",
+   "id": "e133",
    "key": "2026-11-29-alicia-gimenez-bartlett-sotto-il-cielo-infernale",
    "moods": [
     "pensare"
@@ -3591,7 +3081,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e142",
+   "id": "e134",
    "key": "2026-11-29-la-rivolta",
    "moods": [
     "emozionarmi"
@@ -3613,7 +3103,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e143",
+   "id": "e135",
    "key": "2026-11-29-stai-zitta",
    "moods": [
     "emozionarmi"
@@ -3635,7 +3125,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e199",
+   "id": "e136",
    "key": "2026-11-29-xx-variazioni-a-tre",
    "moods": [
     "emozionarmi"
@@ -3649,28 +3139,6 @@
   {
    "date": "2026-11-29",
    "time": "17:00",
-   "title": "Don Giovanni in versione Opera Breve",
-   "venue": "Teatro PIME (via Mosè Bianchi 94)",
-   "cat": "classica",
-   "desc": "Il capolavoro di Mozart condensato in circa un'ora, con musica dal vivo e scenografie costruite dai ragazzi del Beccaria.",
-   "url": "https://www.mentelocale.it/milano/147740-don-giovanni-al-teatro-pime-di-milano-mozart-in-versione-opera-breve-con-le-scenografie-dei-ragazzi-del-beccaria.htm",
-   "free": false,
-   "tags": [],
-   "verify": false,
-   "id": "e144",
-   "key": "2026-11-29-don-giovanni-in-versione-opera-breve",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.474,
-    9.152
-   ],
-   "zona": "Sempione · CityLife"
-  },
-  {
-   "date": "2026-11-29",
-   "time": "17:00",
    "title": "Bravissime",
    "venue": "Teatro della Cooperativa (via Hermada 8)",
    "cat": "teatro",
@@ -3679,7 +3147,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e227",
+   "id": "e137",
    "key": "2026-11-29-bravissime",
    "moods": [
     "emozionarmi"
@@ -3689,6 +3157,28 @@
     9.1937
    ],
    "zona": "Niguarda"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "17:00",
+   "title": "Don Giovanni in versione Opera Breve",
+   "venue": "Teatro PIME (via Mosè Bianchi 94)",
+   "cat": "classica",
+   "desc": "Il capolavoro di Mozart condensato in circa un'ora, con musica dal vivo e scenografie costruite dai ragazzi del Beccaria.",
+   "url": "https://www.mentelocale.it/milano/147740-don-giovanni-al-teatro-pime-di-milano-mozart-in-versione-opera-breve-con-le-scenografie-dei-ragazzi-del-beccaria.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e138",
+   "key": "2026-11-29-don-giovanni-in-versione-opera-breve",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.474,
+    9.152
+   ],
+   "zona": "Sempione · CityLife"
   },
   {
    "date": "2026-11-29",
@@ -3704,7 +3194,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e145",
+   "id": "e139",
    "key": "2026-11-29-chiusura-bookcity-samantha-harvey-e-paolo-giorda",
    "why": "Una vincitrice del Booker e Paolo Giordano chiudono BookCity.",
    "moods": [
@@ -3727,7 +3217,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e146",
+   "id": "e140",
    "key": "2026-11-29-filarmonica-della-scala-dir-timothy-brock",
    "moods": [
     "emozionarmi"
@@ -3749,7 +3239,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e147",
+   "id": "e141",
    "key": "2026-11-29-king-ayisoba-kelly-b",
    "moods": [
     "emozionarmi"
@@ -3771,7 +3261,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e148",
+   "id": "e142",
    "key": "2026-11-29-gli-elfi-di-babbo-natale",
    "moods": [
     "bambini"
@@ -3793,7 +3283,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "e149",
+   "id": "e143",
    "key": "2026-11-29-tom-s-family-back-in-town",
    "moods": [
     "emozionarmi"
@@ -3815,7 +3305,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e150",
+   "id": "e144",
    "key": "2026-11-30-capitalismo-e-democrazia-nuovi-poteri-economici-",
    "moods": [
     "pensare"
@@ -3828,6 +3318,29 @@
   },
   {
    "date": "2026-11-30",
+   "time": "18:00",
+   "title": "Teatro dietro l'angolo: laboratorio con Diana Manea",
+   "venue": "Biblioteca Crescenzago (viale don Luigi Orione 19)",
+   "cat": "teatro",
+   "desc": "Secondo laboratorio del corso di terzo anno della scuola di teatro del Piccolo. Gratis con prenotazione: c.bibliocrescenzago@comune.milano.it.",
+   "url": "https://www.piccoloteatro.org/it/pages/teatro-dietro-l-angolo-scuola-di-teatro-nei-municipi",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "e145",
+   "key": "2026-11-30-teatro-dietro-l-angolo-laboratorio-con-diana-man",
+   "moods": [
+    "emozionarmi",
+    "gente"
+   ],
+   "geo": [
+    45.504,
+    9.248
+   ],
+   "zona": "Fuori centro"
+  },
+  {
+   "date": "2026-11-30",
    "time": "18:30",
    "title": "Noir in Festival: Josephine di Beth De Araujo",
    "venue": "Anteo Palazzo del Cinema",
@@ -3837,7 +3350,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e151",
+   "id": "e146",
    "key": "2026-11-30-noir-in-festival-josephine-di-beth-de-araujo",
    "moods": [
     "emozionarmi"
@@ -3859,7 +3372,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e152",
+   "id": "e147",
    "key": "2026-11-30-l-eterna-illusione-da-broadway-a-hollywood",
    "moods": [
     "emozionarmi"
@@ -3881,7 +3394,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e153",
+   "id": "e148",
    "key": "2026-11-30-corso-di-tango-e-milonga-con-auslander",
    "moods": [
     "emozionarmi"
@@ -3903,7 +3416,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e154",
+   "id": "e149",
    "key": "2026-11-30-il-canto-di-orfeo-inner-spaces",
    "moods": [
     "emozionarmi"
@@ -3925,7 +3438,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e155",
+   "id": "e150",
    "key": "2026-11-30-il-grande-gioco-dell-ai",
    "moods": [
     "pensare"
@@ -3947,7 +3460,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e156",
+   "id": "e151",
    "key": "2026-11-30-orchestra-dell-universita-bicocca-vivaldi-bach-p",
    "moods": [
     "emozionarmi"
@@ -3969,7 +3482,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e157",
+   "id": "e152",
    "key": "2026-11-30-fabrizio-meloni-e-mari-fujino",
    "moods": [
     "emozionarmi"
@@ -3991,7 +3504,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e158",
+   "id": "e153",
    "key": "2026-11-30-alessandro-cattelan-benvenuto-nell-ai",
    "moods": [
     "emozionarmi"
@@ -4015,7 +3528,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e159",
+   "id": "e154",
    "key": "2026-11-30-noir-in-festival-the-blood-countess-di-ulrike-ot",
    "why": "Un film raro sul grande schermo, con Isabelle Huppert annunciata in sala.",
    "moods": [
@@ -4038,7 +3551,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e160",
+   "id": "e155",
    "key": "2026-11-30-curae-2026-non-ti-pago-apertura",
    "moods": [
     "emozionarmi"
@@ -4060,7 +3573,7 @@
    "free": true,
    "tags": [],
    "verify": true,
-   "id": "e161",
+   "id": "e156",
    "key": "2026-12-01-today-at-apple-workshop-disegna-con-apple-pencil",
    "moods": [
     "gente",
@@ -4074,6 +3587,52 @@
   },
   {
    "date": "2026-12-01",
+   "time": "16:00",
+   "title": "Today at Apple · Workshop: scattare belle foto con iPhone",
+   "venue": "Apple Piazza Liberty",
+   "cat": "tech",
+   "desc": "Sessione gratuita di un'ora per migliorare inquadrature e luce con l'iPhone. Iscrizione sul sito Apple.",
+   "url": "https://www.apple.com/it/today/piazzaliberty/",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "e157",
+   "key": "2026-12-01-today-at-apple-workshop-scattare-belle-foto-con-",
+   "moods": [
+    "gente",
+    "pensare"
+   ],
+   "geo": [
+    45.466,
+    9.1965
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-01",
+   "time": "18:00",
+   "title": "Teatro dietro l'angolo: laboratorio con Diana Manea",
+   "venue": "Biblioteca Dergano (via Filippo Baldinucci 76)",
+   "cat": "teatro",
+   "desc": "Secondo laboratorio del corso di secondo anno della scuola di teatro del Piccolo. Gratis con prenotazione: c.bibliodergano@comune.milano.it.",
+   "url": "https://www.piccoloteatro.org/it/pages/teatro-dietro-l-angolo-scuola-di-teatro-nei-municipi",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "e158",
+   "key": "2026-12-01-teatro-dietro-l-angolo-laboratorio-con-diana-man",
+   "moods": [
+    "emozionarmi",
+    "gente"
+   ],
+   "geo": [
+    45.505,
+    9.177
+   ],
+   "zona": "Fuori centro"
+  },
+  {
+   "date": "2026-12-01",
    "time": "18:30",
    "title": "Il futuro è una questione di competenze",
    "venue": "STEP FuturAbility District (piazza Adriano Olivetti 1)",
@@ -4083,7 +3642,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e162",
+   "id": "e159",
    "key": "2026-12-01-il-futuro-e-una-questione-di-competenze",
    "moods": [
     "pensare"
@@ -4105,7 +3664,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e163",
+   "id": "e160",
    "key": "2026-12-01-noir-in-festival-mi-amor-di-guillaume-nicloux",
    "moods": [
     "emozionarmi"
@@ -4127,7 +3686,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e164",
+   "id": "e161",
    "key": "2026-12-01-di-madre-in-figlia",
    "moods": [
     "emozionarmi"
@@ -4149,7 +3708,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e165",
+   "id": "e162",
    "key": "2026-12-01-giuseppe-il-padre-putativo-anteprima-under-30",
    "moods": [
     "emozionarmi"
@@ -4171,7 +3730,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e166",
+   "id": "e163",
    "key": "2026-12-01-ettore-pagano-e-maximilian-kromer",
    "moods": [
     "emozionarmi"
@@ -4193,7 +3752,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e167",
+   "id": "e164",
    "key": "2026-12-01-la-bibbia-che-non-ti-aspetti-con-giorgio-marches",
    "moods": [
     "pensare"
@@ -4215,7 +3774,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e168",
+   "id": "e165",
    "key": "2026-12-01-la-storia-a-processo-oriana-fallaci",
    "moods": [
     "pensare"
@@ -4237,7 +3796,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e169",
+   "id": "e166",
    "key": "2026-12-01-noir-in-festival-l-ombra-e-dark-vertigo",
    "moods": [
     "emozionarmi"
@@ -4259,7 +3818,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e170",
+   "id": "e167",
    "key": "2026-12-01-curae-2026-ai-will-shakespeare",
    "moods": [
     "pensare"
@@ -4281,7 +3840,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "e171",
+   "id": "e168",
    "key": "2026-12-01-don-milani-la-parola-che-nutre",
    "moods": [
     "emozionarmi"
@@ -4303,7 +3862,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e172",
+   "id": "e169",
    "key": "2026-12-01-spose-del-vento",
    "moods": [
     "emozionarmi"
@@ -4325,7 +3884,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e173",
+   "id": "e170",
    "key": "2026-12-02-federico-nicoletta-ti-va-di-ballare",
    "moods": [
     "emozionarmi"
@@ -4347,7 +3906,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e174",
+   "id": "e171",
    "key": "2026-12-02-c-e-ancora-posto-per-l-universita",
    "moods": [
     "pensare"
@@ -4360,6 +3919,31 @@
   },
   {
    "date": "2026-12-02",
+   "time": "18:30",
+   "title": "Left Summit: Questione di classe, con Schlein, Conte e Fratoianni",
+   "venue": "Fondazione Feltrinelli (viale Pasubio 5)",
+   "cat": "geo",
+   "desc": "Presentazione del 60° Annale della Fondazione sulle disuguaglianze; i leader del centrosinistra a confronto, modera Rinaldo Gianola. Posto da prenotare, anche in streaming.",
+   "url": "https://fondazionefeltrinelli.it/partecipa/left-summit/",
+   "free": null,
+   "tags": [
+    "imperdibile"
+   ],
+   "verify": false,
+   "why": "I tre leader dell'opposizione sullo stesso palco a discutere di disuguaglianze e classe.",
+   "id": "e172",
+   "key": "2026-12-02-left-summit-questione-di-classe-con-schlein-cont",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4825,
+    9.184
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-12-02",
    "time": "19:00",
    "title": "Noir in Festival: Found Alive di Carlota Pereda",
    "venue": "Anteo Palazzo del Cinema",
@@ -4369,7 +3953,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e175",
+   "id": "e173",
    "key": "2026-12-02-noir-in-festival-found-alive-di-carlota-pereda",
    "moods": [
     "emozionarmi"
@@ -4391,7 +3975,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e176",
+   "id": "e174",
    "key": "2026-12-02-con-la-colpa-in-mente-tra-responsabilita-e-ripar",
    "moods": [
     "pensare"
@@ -4415,7 +3999,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e177",
+   "id": "e175",
    "key": "2026-12-02-paul-lewis-mozart",
    "why": "Uno dei grandi pianisti di oggi, tra Mozart, Schubert e Chopin.",
    "moods": [
@@ -4438,7 +4022,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e178",
+   "id": "e176",
    "key": "2026-12-02-i-virtuosi-del-teatro-alla-scala-per-vidas",
    "moods": [
     "emozionarmi"
@@ -4460,7 +4044,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e179",
+   "id": "e177",
    "key": "2026-12-02-kino-ensemble-in-noir-film-concerto",
    "moods": [
     "emozionarmi"
@@ -4482,7 +4066,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e180",
+   "id": "e178",
    "key": "2026-12-02-noir-in-festival-furies-di-rami-kodeih",
    "moods": [
     "emozionarmi"
@@ -4504,7 +4088,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e181",
+   "id": "e179",
    "key": "2026-12-02-curae-2026-portami-la-fuori",
    "moods": [
     "emozionarmi"
@@ -4526,7 +4110,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e182",
+   "id": "e180",
    "key": "2026-12-03-anni-di-vita-la-longevita-tra-sfide-e-opportunit",
    "moods": [
     "pensare"
@@ -4548,7 +4132,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e183",
+   "id": "e181",
    "key": "2026-12-03-l-angelo-ribelle-e-il-dio-geloso",
    "moods": [
     "pensare"
@@ -4561,6 +4145,28 @@
   },
   {
    "date": "2026-12-03",
+   "time": "18:00",
+   "title": "Left Summit: Ritrovare la forza del collettivo",
+   "venue": "Fondazione Feltrinelli (viale Pasubio 5)",
+   "cat": "geo",
+   "desc": "Seconda giornata: linguaggi, agenda e organizzazione della sinistra con Massimiliano Tarantino, Giorgia Serughetti e Benedetta Scuderi. Prenotazione online.",
+   "url": "https://fondazionefeltrinelli.it/partecipa/left-summit-seconda-giornata/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "e182",
+   "key": "2026-12-03-left-summit-ritrovare-la-forza-del-collettivo",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4825,
+    9.184
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-12-03",
    "time": "18:30",
    "title": "Data center: la casa dell'AI anche in Italia?",
    "venue": "STEP FuturAbility District (piazza Adriano Olivetti 1)",
@@ -4570,7 +4176,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e184",
+   "id": "e183",
    "key": "2026-12-03-data-center-la-casa-dell-ai-anche-in-italia",
    "moods": [
     "pensare"
@@ -4595,7 +4201,7 @@
    ],
    "verify": false,
    "why": "Il re del neo-soul festeggia 25 anni del suo primo disco, in un club piccolo e caldo.",
-   "id": "e185",
+   "id": "e184",
    "key": "2026-12-03-bilal-25-anni-di-1st-born-second",
    "moods": [
     "emozionarmi"
@@ -4617,7 +4223,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "e186",
+   "id": "e185",
    "key": "2026-12-03-giuseppe-il-padre-putativo",
    "moods": [
     "emozionarmi"
@@ -4641,7 +4247,7 @@
     "imperdibile"
    ],
    "verify": true,
-   "id": "e253",
+   "id": "e186",
    "key": "2026-12-04-otello-anteprima-under-30",
    "moods": [
     "emozionarmi"
@@ -4663,7 +4269,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e239",
+   "id": "e187",
    "key": "2026-12-04-lady-day-billie-holiday",
    "moods": [
     "emozionarmi"
@@ -4685,7 +4291,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e187",
+   "id": "e188",
    "key": "2026-12-04-freddy-kempf-pianoforte",
    "moods": [
     "emozionarmi"
@@ -4707,7 +4313,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e188",
+   "id": "e189",
    "key": "2026-12-04-mixed-feelings-devon-rexi-venerus-b2b-physical-t",
    "moods": [
     "emozionarmi"
@@ -4729,7 +4335,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e240",
+   "id": "e190",
    "key": "2026-12-05-lady-day-billie-holiday",
    "moods": [
     "emozionarmi"
@@ -4751,7 +4357,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e189",
+   "id": "e191",
    "key": "2026-12-05-a-nice-noise-the-cut-of-your-jib",
    "moods": [
     "emozionarmi"
@@ -4773,7 +4379,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e241",
+   "id": "e192",
    "key": "2026-12-06-lady-day-billie-holiday",
    "moods": [
     "emozionarmi"
@@ -4795,7 +4401,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "e254",
+   "id": "e193",
    "key": "2026-12-07-otello-la-prima-della-scala",
    "moods": [
     "emozionarmi"
@@ -4817,7 +4423,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e228",
+   "id": "e194",
    "key": "2026-12-09-aria-di-liberta-settembre-43-aprile-45",
    "moods": [
     "pensare"
@@ -4839,7 +4445,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e200",
+   "id": "e195",
    "key": "2026-12-09-bubaro-dei-bubari",
    "moods": [
     "emozionarmi"
@@ -4861,7 +4467,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e190",
+   "id": "e196",
    "key": "2026-12-09-claudio-covato-vittoria-sciacca",
    "moods": [
     "emozionarmi"
@@ -4883,7 +4489,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e242",
+   "id": "e197",
    "key": "2026-12-10-il-viale-del-tramonto",
    "moods": [
     "emozionarmi"
@@ -4905,7 +4511,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e229",
+   "id": "e198",
    "key": "2026-12-10-aria-di-liberta-settembre-43-aprile-45",
    "moods": [
     "pensare"
@@ -4927,7 +4533,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e201",
+   "id": "e199",
    "key": "2026-12-10-bubaro-dei-bubari",
    "moods": [
     "emozionarmi"
@@ -4949,7 +4555,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e205",
+   "id": "e200",
    "key": "2026-12-10-uno-nessuno-e-centomila",
    "moods": [
     "emozionarmi"
@@ -4971,7 +4577,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e191",
+   "id": "e201",
    "key": "2026-12-10-tmrw-talk-ep-release-party",
    "moods": [
     "emozionarmi"
@@ -4993,7 +4599,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e243",
+   "id": "e202",
    "key": "2026-12-11-il-viale-del-tramonto",
    "moods": [
     "emozionarmi"
@@ -5015,7 +4621,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e230",
+   "id": "e203",
    "key": "2026-12-11-aria-di-liberta-settembre-43-aprile-45",
    "moods": [
     "pensare"
@@ -5037,7 +4643,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e202",
+   "id": "e204",
    "key": "2026-12-11-bubaro-dei-bubari",
    "moods": [
     "emozionarmi"
@@ -5047,6 +4653,28 @@
     9.1772
    ],
    "zona": "Magenta · Sant'Ambrogio"
+  },
+  {
+   "date": "2026-12-11",
+   "time": "20:30",
+   "title": "Come una specie di vertigine (il nano, Calvino, la libertà)",
+   "venue": "Teatro Oscar",
+   "cat": "teatro",
+   "desc": "Mario Perrotta intreccia romanzi, versi e canzoni attorno a Italo Calvino.",
+   "url": "https://www.mentelocale.it/milano/128393-come-una-specie-di-vertigine-il-nano-calvino-la-libert.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e205",
+   "key": "2026-12-11-come-una-specie-di-vertigine-il-nano-calvino-la-",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.456,
+    9.2215
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-12-11",
@@ -5072,28 +4700,6 @@
   },
   {
    "date": "2026-12-11",
-   "time": "20:30",
-   "title": "Come una specie di vertigine (il nano, Calvino, la libertà)",
-   "venue": "Teatro Oscar",
-   "cat": "teatro",
-   "desc": "Mario Perrotta intreccia romanzi, versi e canzoni attorno a Italo Calvino.",
-   "url": "https://www.mentelocale.it/milano/128393-come-una-specie-di-vertigine-il-nano-calvino-la-libert.htm",
-   "free": false,
-   "tags": [],
-   "verify": false,
-   "id": "e250",
-   "key": "2026-12-11-come-una-specie-di-vertigine-il-nano-calvino-la-",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.456,
-    9.2215
-   ],
-   "zona": "Porta Romana · Vittoria"
-  },
-  {
-   "date": "2026-12-11",
    "time": "21:00",
    "title": "Immacolato Concertone vol. 4",
    "venue": "Arci Biko (via Ettore Ponti 40)",
@@ -5103,7 +4709,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e192",
+   "id": "e207",
    "key": "2026-12-11-immacolato-concertone-vol-4",
    "moods": [
     "emozionarmi",
@@ -5126,7 +4732,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e231",
+   "id": "e208",
    "key": "2026-12-12-aria-di-liberta-settembre-43-aprile-45",
    "moods": [
     "pensare"
@@ -5148,7 +4754,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e203",
+   "id": "e209",
    "key": "2026-12-12-bubaro-dei-bubari",
    "moods": [
     "emozionarmi"
@@ -5162,24 +4768,24 @@
   {
    "date": "2026-12-12",
    "time": "20:30",
-   "title": "Uno, nessuno e centomila",
-   "venue": "Teatro Leonardo (via Ampère 1)",
+   "title": "Come una specie di vertigine (il nano, Calvino, la libertà)",
+   "venue": "Teatro Oscar",
    "cat": "teatro",
-   "desc": "Pirandello e la crisi d'identità di Vitangelo Moscarda, in una versione pensata soprattutto per i giovani.",
-   "url": "https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm",
+   "desc": "Mario Perrotta intreccia romanzi, versi e canzoni attorno a Italo Calvino.",
+   "url": "https://www.mentelocale.it/milano/128393-come-una-specie-di-vertigine-il-nano-calvino-la-libert.htm",
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e207",
-   "key": "2026-12-12-uno-nessuno-e-centomila",
+   "id": "e210",
+   "key": "2026-12-12-come-una-specie-di-vertigine-il-nano-calvino-la-",
    "moods": [
     "emozionarmi"
    ],
    "geo": [
-    45.48,
-    9.228
+    45.456,
+    9.2215
    ],
-   "zona": "Porta Venezia · Città Studi"
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-12-12",
@@ -5192,7 +4798,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e244",
+   "id": "e211",
    "key": "2026-12-12-il-viale-del-tramonto",
    "moods": [
     "emozionarmi"
@@ -5206,24 +4812,24 @@
   {
    "date": "2026-12-12",
    "time": "20:30",
-   "title": "Come una specie di vertigine (il nano, Calvino, la libertà)",
-   "venue": "Teatro Oscar",
+   "title": "Uno, nessuno e centomila",
+   "venue": "Teatro Leonardo (via Ampère 1)",
    "cat": "teatro",
-   "desc": "Mario Perrotta intreccia romanzi, versi e canzoni attorno a Italo Calvino.",
-   "url": "https://www.mentelocale.it/milano/128393-come-una-specie-di-vertigine-il-nano-calvino-la-libert.htm",
+   "desc": "Pirandello e la crisi d'identità di Vitangelo Moscarda, in una versione pensata soprattutto per i giovani.",
+   "url": "https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm",
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e251",
-   "key": "2026-12-12-come-una-specie-di-vertigine-il-nano-calvino-la-",
+   "id": "e212",
+   "key": "2026-12-12-uno-nessuno-e-centomila",
    "moods": [
     "emozionarmi"
    ],
    "geo": [
-    45.456,
-    9.2215
+    45.48,
+    9.228
    ],
-   "zona": "Porta Romana · Vittoria"
+   "zona": "Porta Venezia · Città Studi"
   },
   {
    "date": "2026-12-12",
@@ -5236,7 +4842,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e193",
+   "id": "e213",
    "key": "2026-12-12-wild-honey-s-christmas-party-vol-5",
    "moods": [
     "emozionarmi",
@@ -5259,7 +4865,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e204",
+   "id": "e214",
    "key": "2026-12-13-bubaro-dei-bubari",
    "moods": [
     "emozionarmi"
@@ -5273,28 +4879,6 @@
   {
    "date": "2026-12-13",
    "time": "16:00",
-   "title": "Uno, nessuno e centomila",
-   "venue": "Teatro Leonardo (via Ampère 1)",
-   "cat": "teatro",
-   "desc": "Pirandello e la crisi d'identità di Vitangelo Moscarda, in una versione pensata soprattutto per i giovani.",
-   "url": "https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm",
-   "free": false,
-   "tags": [],
-   "verify": false,
-   "id": "e213",
-   "key": "2026-12-13-uno-nessuno-e-centomila",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.48,
-    9.228
-   ],
-   "zona": "Porta Venezia · Città Studi"
-  },
-  {
-   "date": "2026-12-13",
-   "time": "16:00",
    "title": "Come una specie di vertigine (il nano, Calvino, la libertà)",
    "venue": "Teatro Oscar",
    "cat": "teatro",
@@ -5303,7 +4887,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e252",
+   "id": "e215",
    "key": "2026-12-13-come-una-specie-di-vertigine-il-nano-calvino-la-",
    "moods": [
     "emozionarmi"
@@ -5316,6 +4900,28 @@
   },
   {
    "date": "2026-12-13",
+   "time": "16:00",
+   "title": "Uno, nessuno e centomila",
+   "venue": "Teatro Leonardo (via Ampère 1)",
+   "cat": "teatro",
+   "desc": "Pirandello e la crisi d'identità di Vitangelo Moscarda, in una versione pensata soprattutto per i giovani.",
+   "url": "https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e216",
+   "key": "2026-12-13-uno-nessuno-e-centomila",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.48,
+    9.228
+   ],
+   "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-12-13",
    "time": "16:30",
    "title": "Il viale del tramonto",
    "venue": "Teatro Carcano",
@@ -5325,7 +4931,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e245",
+   "id": "e217",
    "key": "2026-12-13-il-viale-del-tramonto",
    "moods": [
     "emozionarmi"
@@ -5347,7 +4953,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e232",
+   "id": "e218",
    "key": "2026-12-13-aria-di-liberta-settembre-43-aprile-45",
    "moods": [
     "pensare"
@@ -5369,7 +4975,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e233",
+   "id": "e219",
    "key": "2026-12-15-don-chisciotte-senza-mancia",
    "moods": [
     "emozionarmi"
@@ -5391,30 +4997,8 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e208",
+   "id": "e220",
    "key": "2026-12-15-uno-nessuno-e-centomila",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.48,
-    9.228
-   ],
-   "zona": "Porta Venezia · Città Studi"
-  },
-  {
-   "date": "2026-12-16",
-   "time": "20:30",
-   "title": "Uno, nessuno e centomila",
-   "venue": "Teatro Leonardo (via Ampère 1)",
-   "cat": "teatro",
-   "desc": "Pirandello e la crisi d'identità di Vitangelo Moscarda, in una versione pensata soprattutto per i giovani.",
-   "url": "https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm",
-   "free": false,
-   "tags": [],
-   "verify": false,
-   "id": "e209",
-   "key": "2026-12-16-uno-nessuno-e-centomila",
    "moods": [
     "emozionarmi"
    ],
@@ -5435,7 +5019,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e234",
+   "id": "e221",
    "key": "2026-12-16-don-chisciotte-senza-mancia",
    "moods": [
     "emozionarmi"
@@ -5448,6 +5032,28 @@
   },
   {
    "date": "2026-12-16",
+   "time": "20:30",
+   "title": "Uno, nessuno e centomila",
+   "venue": "Teatro Leonardo (via Ampère 1)",
+   "cat": "teatro",
+   "desc": "Pirandello e la crisi d'identità di Vitangelo Moscarda, in una versione pensata soprattutto per i giovani.",
+   "url": "https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e222",
+   "key": "2026-12-16-uno-nessuno-e-centomila",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.48,
+    9.228
+   ],
+   "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-12-16",
    "time": "21:00",
    "title": "Puntuale Festival: Music for Airports di Brian Eno",
    "venue": "Arci Biko (via Ettore Ponti 40)",
@@ -5457,7 +5063,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e194",
+   "id": "e223",
    "key": "2026-12-16-puntuale-festival-music-for-airports-di-brian-en",
    "moods": [
     "emozionarmi"
@@ -5479,7 +5085,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e246",
+   "id": "e224",
    "key": "2026-12-17-c-e-chi-dice-no-renzo-lucia-i-giovani",
    "moods": [
     "emozionarmi"
@@ -5501,7 +5107,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e235",
+   "id": "e225",
    "key": "2026-12-17-don-chisciotte-senza-mancia",
    "moods": [
     "emozionarmi"
@@ -5523,7 +5129,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e210",
+   "id": "e226",
    "key": "2026-12-17-uno-nessuno-e-centomila",
    "moods": [
     "emozionarmi"
@@ -5545,7 +5151,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e195",
+   "id": "e227",
    "key": "2026-12-17-sa-roc-con-malasartoria-milano",
    "moods": [
     "emozionarmi"
@@ -5567,7 +5173,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e247",
+   "id": "e228",
    "key": "2026-12-18-c-e-chi-dice-no-renzo-lucia-i-giovani",
    "moods": [
     "emozionarmi"
@@ -5589,7 +5195,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e236",
+   "id": "e229",
    "key": "2026-12-18-don-chisciotte-senza-mancia",
    "moods": [
     "emozionarmi"
@@ -5611,7 +5217,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e211",
+   "id": "e230",
    "key": "2026-12-18-uno-nessuno-e-centomila",
    "moods": [
     "emozionarmi"
@@ -5633,7 +5239,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e237",
+   "id": "e231",
    "key": "2026-12-19-don-chisciotte-senza-mancia",
    "moods": [
     "emozionarmi"
@@ -5647,28 +5253,6 @@
   {
    "date": "2026-12-19",
    "time": "20:30",
-   "title": "Uno, nessuno e centomila",
-   "venue": "Teatro Leonardo (via Ampère 1)",
-   "cat": "teatro",
-   "desc": "Pirandello e la crisi d'identità di Vitangelo Moscarda, in una versione pensata soprattutto per i giovani.",
-   "url": "https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm",
-   "free": false,
-   "tags": [],
-   "verify": false,
-   "id": "e212",
-   "key": "2026-12-19-uno-nessuno-e-centomila",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.48,
-    9.228
-   ],
-   "zona": "Porta Venezia · Città Studi"
-  },
-  {
-   "date": "2026-12-19",
-   "time": "20:30",
    "title": "C'è chi dice no: Renzo, Lucia, i giovani",
    "venue": "Teatro Carcano",
    "cat": "teatro",
@@ -5677,7 +5261,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e248",
+   "id": "e232",
    "key": "2026-12-19-c-e-chi-dice-no-renzo-lucia-i-giovani",
    "moods": [
     "emozionarmi"
@@ -5690,6 +5274,28 @@
   },
   {
    "date": "2026-12-19",
+   "time": "20:30",
+   "title": "Uno, nessuno e centomila",
+   "venue": "Teatro Leonardo (via Ampère 1)",
+   "cat": "teatro",
+   "desc": "Pirandello e la crisi d'identità di Vitangelo Moscarda, in una versione pensata soprattutto per i giovani.",
+   "url": "https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e233",
+   "key": "2026-12-19-uno-nessuno-e-centomila",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.48,
+    9.228
+   ],
+   "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-12-19",
    "time": "22:00",
    "title": "Milano Oldies Club con Tiny T",
    "venue": "Arci Biko (via Ettore Ponti 40)",
@@ -5699,7 +5305,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e196",
+   "id": "e234",
    "key": "2026-12-19-milano-oldies-club-con-tiny-t",
    "moods": [
     "emozionarmi"
@@ -5721,7 +5327,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e214",
+   "id": "e235",
    "key": "2026-12-20-uno-nessuno-e-centomila",
    "moods": [
     "emozionarmi"
@@ -5743,7 +5349,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e249",
+   "id": "e236",
    "key": "2026-12-20-c-e-chi-dice-no-renzo-lucia-i-giovani",
    "moods": [
     "emozionarmi"
@@ -5765,7 +5371,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e238",
+   "id": "e237",
    "key": "2026-12-20-don-chisciotte-senza-mancia",
    "moods": [
     "emozionarmi"

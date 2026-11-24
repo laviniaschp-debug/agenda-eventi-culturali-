@@ -25,64 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-23-today-at-apple-workshop-scatta-foto-eccezionali-@acculturiam
- oci.it
-DTSTAMP:20261124T064737Z
-DTSTART;TZID=Europe/Rome:20261123T140000
-DTEND;TZID=Europe/Rome:20261123T160000
-SUMMARY:Today at Apple · Workshop: scatta foto eccezionali con iPhone
-LOCATION:Apple Piazza Liberty
-DESCRIPTION:Sessione gratuita di un'ora: inquadrature\, luce e trucchi dell
- a fotocamera. Iscrizione sul sito Apple. https://www.apple.com/it/today/ev
- ent/workshop-photos-on-iphone/7503013984459915264/?sn=R667
-URL:https://www.apple.com/it/today/event/workshop-photos-on-iphone/75030139
- 84459915264/?sn=R667
-CATEGORIES:Tech e digitale
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-23-today-at-apple-workshop-video-con-iphone@acculturiamoci.it
-DTSTAMP:20261124T064737Z
-DTSTART;TZID=Europe/Rome:20261123T150000
-DTEND;TZID=Europe/Rome:20261123T170000
-SUMMARY:Today at Apple · Workshop: video con iPhone
-LOCATION:Apple Piazza Liberty
-DESCRIPTION:Sessione gratuita di un'ora per girare e montare video migliori
-  con il telefono. Iscrizione sul sito Apple. https://www.apple.com/it/toda
- y/event/workshop-video-on-iphone-row/7503014123635310592/?sn=R667
-URL:https://www.apple.com/it/today/event/workshop-video-on-iphone-row/75030
- 14123635310592/?sn=R667
-CATEGORIES:Tech e digitale
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-23-workshop-costruisci-la-tua-prima-automazione@acculturiamoci.
- it
-DTSTAMP:20261124T064737Z
-DTSTART;TZID=Europe/Rome:20261123T183000
-DTEND;TZID=Europe/Rome:20261123T203000
-SUMMARY:Workshop: costruisci la tua prima automazione
-LOCATION:Talent Garden Isola (piazza Città di Lombardia 1)
-DESCRIPTION:Serata pratica no-code: si esce con un flusso automatico funzio
- nante. Porta il portatile. https://luma.com/event/evt-6g5FifXR0wvlEOf
-URL:https://luma.com/event/evt-6g5FifXR0wvlEOf
-CATEGORIES:Tech e digitale
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-23-open-coding-night@acculturiamoci.it
-DTSTAMP:20261124T064737Z
-DTSTART;TZID=Europe/Rome:20261123T190000
-DTEND;TZID=Europe/Rome:20261123T210000
-SUMMARY:Open Coding Night
-LOCATION:WAO Isola (via Porro Lambertenghi 7)
-DESCRIPTION:Serata aperta di programmazione insieme\, per sviluppatori\, ma
- ker e studenti. https://www.meetup.com/it-it/tdd-milano/events/vwtmbvyjcpb
- fc/
-URL:https://www.meetup.com/it-it/tdd-milano/events/vwtmbvyjcpbfc/
-CATEGORIES:Tech e digitale
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-24-kaleidoscope-ai-7-crescere-e-vendere-con-l-intel@acculturiam
  oci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;TZID=Europe/Rome:20261124T183000
 DTEND;TZID=Europe/Rome:20261124T203000
 SUMMARY:Kaleidoscope AI #7: crescere e vendere con l'intelligenza artificia
@@ -97,7 +42,7 @@ CATEGORIES:Tech e digitale
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-agents-anonymous-milan-chapter@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;TZID=Europe/Rome:20261125T183000
 DTEND;TZID=Europe/Rome:20261125T203000
 SUMMARY:Agents Anonymous: Milan Chapter
@@ -112,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-riprendersi-il-futuro-tecnologia-impresa-e-la-cr@acculturiam
  oci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;TZID=Europe/Rome:20261126T180000
 DTEND;TZID=Europe/Rome:20261126T200000
 SUMMARY:Riprendersi il futuro: tecnologia\, impresa e la crisi dell'immagin
@@ -128,7 +73,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-tech-si-gira-ghost-in-the-shell-con-luca-perri@acculturiamoc
  i.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;TZID=Europe/Rome:20261126T190000
 DTEND;TZID=Europe/Rome:20261126T210000
 SUMMARY:Tech\, si gira! Ghost in the Shell\, con Luca Perri
@@ -142,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-today-at-apple-workshop-disegna-con-apple-pencil@acculturiam
  oci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;TZID=Europe/Rome:20261201T140000
 DTEND;TZID=Europe/Rome:20261201T160000
 SUMMARY:Today at Apple · Workshop: disegna con Apple Pencil su iPad
@@ -154,8 +99,22 @@ URL:https://www.apple.com/it/today/piazzaliberty/
 CATEGORIES:Tech e digitale
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-01-today-at-apple-workshop-scattare-belle-foto-con-@acculturiam
+ oci.it
+DTSTAMP:20261124T065515Z
+DTSTART;TZID=Europe/Rome:20261201T160000
+DTEND;TZID=Europe/Rome:20261201T180000
+SUMMARY:Today at Apple · Workshop: scattare belle foto con iPhone
+LOCATION:Apple Piazza Liberty
+DESCRIPTION:Sessione gratuita di un'ora per migliorare inquadrature e luce 
+ con l'iPhone. Iscrizione sul sito Apple. https://www.apple.com/it/today/pi
+ azzaliberty/
+URL:https://www.apple.com/it/today/piazzaliberty/
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-01-il-futuro-e-una-questione-di-competenze@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;TZID=Europe/Rome:20261201T183000
 DTEND;TZID=Europe/Rome:20261201T203000
 SUMMARY:Il futuro è una questione di competenze
@@ -171,7 +130,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-data-center-la-casa-dell-ai-anche-in-italia@acculturiamoci.i
  t
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;TZID=Europe/Rome:20261203T183000
 DTEND;TZID=Europe/Rome:20261203T203000
 SUMMARY:Data center: la casa dell'AI anche in Italia?

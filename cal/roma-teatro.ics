@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-otello@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Otello
@@ -41,7 +41,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-voci-dal-silenzio@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Voci dal silenzio
@@ -53,7 +53,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-i-am-the-wind@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:I am the Wind
@@ -65,7 +65,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-otello@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Otello
@@ -80,7 +80,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-venerdi-13@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Venerdì 13
@@ -91,8 +91,25 @@ URL:https://www.ilparioli.it/events/venerdi-13/
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-26-che-dolore-terribile-e-l-amore@acculturiamoci.it
+DTSTAMP:20261124T065515Z
+DTSTART;TZID=Europe/Rome:20261126T200000
+DTEND;TZID=Europe/Rome:20261126T220000
+SUMMARY:Che dolore terribile è l'amore
+LOCATION:Teatro Valle
+DESCRIPTION:Il romanzo del premio Nobel Han Kang portato in scena da Daria 
+ Deflorian. Daria Deflorian adatta Non dico addio di Han Kang: due amiche e
+  la memoria della strage di Jeju del 1948. Con Deflorian\, Mandruzzato e P
+ iseddu\, 80 minuti. https://www.teatrodiroma.net/spettacoli/il-teatro-e-vi
+ ta-la-stagione-2026-2027-del-teatro-di-roma/teatro-valle/che-dolore-terrib
+ ile-e-lamore/
+URL:https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-20
+ 26-2027-del-teatro-di-roma/teatro-valle/che-dolore-terribile-e-lamore/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-26-i-am-the-wind@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:I am the Wind
@@ -104,7 +121,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-otello@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Otello
@@ -119,7 +136,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-venerdi-13@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Venerdì 13
@@ -130,8 +147,24 @@ URL:https://www.ilparioli.it/events/venerdi-13/
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-che-dolore-terribile-e-l-amore@acculturiamoci.it
+DTSTAMP:20261124T065515Z
+DTSTART;TZID=Europe/Rome:20261127T200000
+DTEND;TZID=Europe/Rome:20261127T220000
+SUMMARY:Che dolore terribile è l'amore
+LOCATION:Teatro Valle
+DESCRIPTION:Daria Deflorian adatta Non dico addio di Han Kang: due amiche e
+  la memoria della strage di Jeju del 1948. Con Deflorian\, Mandruzzato e P
+ iseddu\, 80 minuti. https://www.teatrodiroma.net/spettacoli/il-teatro-e-vi
+ ta-la-stagione-2026-2027-del-teatro-di-roma/teatro-valle/che-dolore-terrib
+ ile-e-lamore/
+URL:https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-20
+ 26-2027-del-teatro-di-roma/teatro-valle/che-dolore-terribile-e-lamore/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-i-am-the-wind@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:I am the Wind
@@ -143,7 +176,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-otello@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Otello
@@ -157,8 +190,24 @@ URL:https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-20
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-che-dolore-terribile-e-l-amore@acculturiamoci.it
+DTSTAMP:20261124T065515Z
+DTSTART;TZID=Europe/Rome:20261128T190000
+DTEND;TZID=Europe/Rome:20261128T210000
+SUMMARY:Che dolore terribile è l'amore
+LOCATION:Teatro Valle
+DESCRIPTION:Daria Deflorian adatta Non dico addio di Han Kang: due amiche e
+  la memoria della strage di Jeju del 1948. Con Deflorian\, Mandruzzato e P
+ iseddu\, 80 minuti. https://www.teatrodiroma.net/spettacoli/il-teatro-e-vi
+ ta-la-stagione-2026-2027-del-teatro-di-roma/teatro-valle/che-dolore-terrib
+ ile-e-lamore/
+URL:https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-20
+ 26-2027-del-teatro-di-roma/teatro-valle/che-dolore-terribile-e-lamore/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-massimo-staich-con-la-febbre-tra-le-ali@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;TZID=Europe/Rome:20261128T190000
 DTEND;TZID=Europe/Rome:20261128T210000
 SUMMARY:Massimo Staich: Con la febbre tra le ali
@@ -170,7 +219,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-i-am-the-wind@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:I am the Wind
@@ -182,7 +231,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-otello@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Otello
@@ -196,8 +245,24 @@ URL:https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-20
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-che-dolore-terribile-e-l-amore@acculturiamoci.it
+DTSTAMP:20261124T065515Z
+DTSTART;TZID=Europe/Rome:20261129T170000
+DTEND;TZID=Europe/Rome:20261129T190000
+SUMMARY:Che dolore terribile è l'amore
+LOCATION:Teatro Valle
+DESCRIPTION:Daria Deflorian adatta Non dico addio di Han Kang: due amiche e
+  la memoria della strage di Jeju del 1948. Con Deflorian\, Mandruzzato e P
+ iseddu\, 80 minuti. https://www.teatrodiroma.net/spettacoli/il-teatro-e-vi
+ ta-la-stagione-2026-2027-del-teatro-di-roma/teatro-valle/che-dolore-terrib
+ ile-e-lamore/
+URL:https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-20
+ 26-2027-del-teatro-di-roma/teatro-valle/che-dolore-terribile-e-lamore/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-i-am-the-wind@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:I am the Wind
@@ -210,7 +275,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-il-ballo-reading-con-laura-morante-ed-eugenia-co@acculturiam
  oci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Il ballo\, reading con Laura Morante ed Eugenia Costantini
@@ -222,7 +287,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-otello@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Otello
@@ -236,8 +301,40 @@ URL:https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-20
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-01-che-dolore-terribile-e-l-amore@acculturiamoci.it
+DTSTAMP:20261124T065515Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Che dolore terribile è l'amore
+LOCATION:Teatro Valle
+DESCRIPTION:Daria Deflorian adatta Non dico addio di Han Kang: due amiche e
+  la memoria della strage di Jeju del 1948. Con Deflorian\, Mandruzzato e P
+ iseddu\, 80 minuti. https://www.teatrodiroma.net/spettacoli/il-teatro-e-vi
+ ta-la-stagione-2026-2027-del-teatro-di-roma/teatro-valle/che-dolore-terrib
+ ile-e-lamore/
+URL:https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-20
+ 26-2027-del-teatro-di-roma/teatro-valle/che-dolore-terribile-e-lamore/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-che-dolore-terribile-e-l-amore@acculturiamoci.it
+DTSTAMP:20261124T065515Z
+DTSTART;TZID=Europe/Rome:20261202T200000
+DTEND;TZID=Europe/Rome:20261202T220000
+SUMMARY:Che dolore terribile è l'amore
+LOCATION:Teatro Valle
+DESCRIPTION:Daria Deflorian adatta Non dico addio di Han Kang: due amiche e
+  la memoria della strage di Jeju del 1948. Con Deflorian\, Mandruzzato e P
+ iseddu\, 80 minuti. https://www.teatrodiroma.net/spettacoli/il-teatro-e-vi
+ ta-la-stagione-2026-2027-del-teatro-di-roma/teatro-valle/che-dolore-terrib
+ ile-e-lamore/
+URL:https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-20
+ 26-2027-del-teatro-di-roma/teatro-valle/che-dolore-terribile-e-lamore/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-02-peccato-che-fosse-una-sgualdrina@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Peccato che fosse una sgualdrina
@@ -250,8 +347,40 @@ URL:https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-20
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-03-che-dolore-terribile-e-l-amore@acculturiamoci.it
+DTSTAMP:20261124T065515Z
+DTSTART;TZID=Europe/Rome:20261203T190000
+DTEND;TZID=Europe/Rome:20261203T210000
+SUMMARY:Che dolore terribile è l'amore
+LOCATION:Teatro Valle
+DESCRIPTION:Daria Deflorian adatta Non dico addio di Han Kang: due amiche e
+  la memoria della strage di Jeju del 1948. Con Deflorian\, Mandruzzato e P
+ iseddu\, 80 minuti. https://www.teatrodiroma.net/spettacoli/il-teatro-e-vi
+ ta-la-stagione-2026-2027-del-teatro-di-roma/teatro-valle/che-dolore-terrib
+ ile-e-lamore/
+URL:https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-20
+ 26-2027-del-teatro-di-roma/teatro-valle/che-dolore-terribile-e-lamore/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-racconti-romani-il-ladro-dei-lumi-e-altri-raccon@acculturiam
+ oci.it
+DTSTAMP:20261124T065515Z
+DTSTART;TZID=Europe/Rome:20261203T200000
+DTEND;TZID=Europe/Rome:20261203T220000
+SUMMARY:Racconti romani: Il ladro dei lumi e altri racconti
+LOCATION:Teatro Torlonia (via Nomentana 70)
+DESCRIPTION:Messa in scena essenziale dai racconti di Elsa Morante (Lo scia
+ lle andaluso)\, regia di Danilo Capezzani. https://www.teatrodiroma.net/sp
+ ettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-
+ torlonia/racconti-romani-2026/
+URL:https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-20
+ 26-2027-del-teatro-di-roma/teatro-torlonia/racconti-romani-2026/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-03-peccato-che-fosse-una-sgualdrina@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Peccato che fosse una sgualdrina
@@ -264,8 +393,72 @@ URL:https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-20
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-04-e-d-u-a-enciclopedia-di-un-attore@acculturiamoci.it
+DTSTAMP:20261124T065515Z
+DTSTART;TZID=Europe/Rome:20261204T160000
+DTEND;TZID=Europe/Rome:20261204T180000
+SUMMARY:E.D.U.A. – Enciclopedia di un attore
+LOCATION:Teatro Argentina
+DESCRIPTION:Sei monologhi itineranti su Eduardo De Filippo\, testi di Fabio
+  Pisano e regia di Claudio Di Palma. Massimo 35 spettatori\, biglietti 15/
+ 10 €. https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagio
+ ne-2026-2027-del-teatro-di-roma/teatro-argentina/enciclopedia-di-un-attore
+ /
+URL:https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-20
+ 26-2027-del-teatro-di-roma/teatro-argentina/enciclopedia-di-un-attore/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-che-dolore-terribile-e-l-amore@acculturiamoci.it
+DTSTAMP:20261124T065515Z
+DTSTART;TZID=Europe/Rome:20261204T200000
+DTEND;TZID=Europe/Rome:20261204T220000
+SUMMARY:Che dolore terribile è l'amore
+LOCATION:Teatro Valle
+DESCRIPTION:Daria Deflorian adatta Non dico addio di Han Kang: due amiche e
+  la memoria della strage di Jeju del 1948. Con Deflorian\, Mandruzzato e P
+ iseddu\, 80 minuti. https://www.teatrodiroma.net/spettacoli/il-teatro-e-vi
+ ta-la-stagione-2026-2027-del-teatro-di-roma/teatro-valle/che-dolore-terrib
+ ile-e-lamore/
+URL:https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-20
+ 26-2027-del-teatro-di-roma/teatro-valle/che-dolore-terribile-e-lamore/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-racconti-romani-il-ladro-dei-lumi-e-altri-raccon@acculturiam
+ oci.it
+DTSTAMP:20261124T065515Z
+DTSTART;TZID=Europe/Rome:20261204T200000
+DTEND;TZID=Europe/Rome:20261204T220000
+SUMMARY:Racconti romani: Il ladro dei lumi e altri racconti
+LOCATION:Teatro Torlonia (via Nomentana 70)
+DESCRIPTION:Messa in scena essenziale dai racconti di Elsa Morante (Lo scia
+ lle andaluso)\, regia di Danilo Capezzani. https://www.teatrodiroma.net/sp
+ ettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-
+ torlonia/racconti-romani-2026/
+URL:https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-20
+ 26-2027-del-teatro-di-roma/teatro-torlonia/racconti-romani-2026/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-peccato-che-fosse-una-sgualdrina@acculturiamoci.it
+DTSTAMP:20261124T065515Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Peccato che fosse una sgualdrina
+LOCATION:Teatro Argentina
+DESCRIPTION:La tragedia elisabettiana di John Ford in scena all'Argentina f
+ ino al 13 dicembre. https://www.teatrodiroma.net/spettacoli/il-teatro-e-vi
+ ta-la-stagione-2026-2027-del-teatro-di-roma/teatro-argentina/peccato-che-f
+ osse-una-sgualdrina/
+URL:https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-20
+ 26-2027-del-teatro-di-roma/teatro-argentina/peccato-che-fosse-una-sgualdri
+ na/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-05-laurie-anderson-a-hole-in-the-sky@acculturiamoci.it
-DTSTAMP:20261124T064737Z
+DTSTAMP:20261124T065515Z
 DTSTART;TZID=Europe/Rome:20261205T190000
 DTEND;TZID=Europe/Rome:20261205T210000
 SUMMARY:Laurie Anderson: A Hole in the Sky
