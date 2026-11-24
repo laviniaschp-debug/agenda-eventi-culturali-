@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-27-la-musica-del-mio-picchio-presentazione-con-lett@acculturiam
  oci.it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;TZID=Europe/Rome:20261127T170000
 DTEND;TZID=Europe/Rome:20261127T190000
 SUMMARY:La musica del mio picchio: presentazione con letture
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-le-cose-che-portiamo-con-noi-storie-e-letture@acculturiamoci
  .it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;TZID=Europe/Rome:20261127T183000
 DTEND;TZID=Europe/Rome:20261127T203000
 SUMMARY:Le cose che portiamo con noi: storie e letture
@@ -59,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-reading-party-si-legge-insieme-senza-telefono@acculturiamoci
  .it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Reading Party: si legge insieme\, senza telefono
@@ -74,7 +74,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-paolo-ciampi-liberta-delle-panchine@acculturiamoci.it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;TZID=Europe/Rome:20261201T183000
 DTEND;TZID=Europe/Rome:20261201T203000
 SUMMARY:Paolo Ciampi: Libertà delle panchine

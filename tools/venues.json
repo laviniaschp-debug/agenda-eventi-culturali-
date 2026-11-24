@@ -1,5 +1,17 @@
 [
  {
+  "match": "BarBip",
+  "lat": 45.4523,
+  "lng": 9.166,
+  "zona": "Navigli · Tortona · S. Ambrogio"
+ },
+ {
+  "match": "Edificio U3 Bios",
+  "lat": 45.5133,
+  "lng": 9.2112,
+  "zona": "Fuori centro"
+ },
+ {
   "match": "Casa Verdi",
   "lat": 45.4686,
   "lng": 9.1519,

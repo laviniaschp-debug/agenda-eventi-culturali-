@@ -208,6 +208,30 @@
   {
    "date": "2026-11-25",
    "time": "18:00",
+   "title": "Mamma mia! Guida senza patente per un amore sfrenato",
+   "venue": "Libreria Eli (viale Somalia 50/a)",
+   "cat": "salute",
+   "desc": "Laura Cervellione presenta il suo libro sulla maternità vissuta senza manuali, tra amore, dubbi e ironia.",
+   "url": "https://libreriaeli.it/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r113",
+   "key": "2026-11-25-mamma-mia-guida-senza-patente-per-un-amore-sfren",
+   "moods": [
+    "dentro",
+    "pensare",
+    "ridere"
+   ],
+   "geo": [
+    41.9246,
+    12.5179
+   ],
+   "zona": "Parioli · Villa Borghese · Nomentano"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "18:00",
    "title": "Nicola Lagioia: Santa Barbara",
    "venue": "Mondadori Bookstore EUR (viale Europa 88)",
    "cat": "talk",
@@ -1261,6 +1285,29 @@
   {
    "date": "2026-11-28",
    "time": "18:00",
+   "title": "Si può imparare la meraviglia? Talk con Gaia Terzulli",
+   "venue": "Libreria Eli (viale Somalia 50/a)",
+   "cat": "filosofia",
+   "desc": "Un incontro sul saper ancora stupirsi, tra psicologia, crescita e sguardo sul mondo.",
+   "url": "https://libreriaeli.it/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r114",
+   "key": "2026-11-28-si-puo-imparare-la-meraviglia-talk-con-gaia-terz",
+   "moods": [
+    "dentro",
+    "pensare"
+   ],
+   "geo": [
+    41.9246,
+    12.5179
+   ],
+   "zona": "Parioli · Villa Borghese · Nomentano"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "18:00",
    "title": "Umberto Guidoni: Ascensore per Marte",
    "venue": "Pellicanolibri (via Gattico 1)",
    "cat": "scienza",
@@ -1558,6 +1605,29 @@
     12.472
    ],
    "zona": "EUR e sud"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "17:30",
+   "title": "Il desiderio, e quel che resta",
+   "venue": "Libreria Eli (viale Somalia 50/a)",
+   "cat": "filosofia",
+   "desc": "Terzo capitolo di Dissolvenze & Bagliori con Stefano Pierpaoli ed Eva Sanna: parole e immagini sul desiderio.",
+   "url": "https://libreriaeli.it/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r115",
+   "key": "2026-11-29-il-desiderio-e-quel-che-resta",
+   "moods": [
+    "dentro",
+    "pensare"
+   ],
+   "geo": [
+    41.9246,
+    12.5179
+   ],
+   "zona": "Parioli · Villa Borghese · Nomentano"
   },
   {
    "date": "2026-11-29",
@@ -2283,6 +2353,29 @@
    "zona": "EUR e sud"
   },
   {
+   "date": "2026-12-06",
+   "time": "11:00",
+   "title": "Lo stetoscopio parlante: arte e malattia",
+   "venue": "Libreria Eli (viale Somalia 50/a)",
+   "cat": "salute",
+   "desc": "Il cardiologo Francesco Fedele racconta come pittori e scrittori hanno guardato alla malattia e alla cura.",
+   "url": "https://libreriaeli.it/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r116",
+   "key": "2026-12-06-lo-stetoscopio-parlante-arte-e-malattia",
+   "moods": [
+    "dentro",
+    "pensare"
+   ],
+   "geo": [
+    41.9246,
+    12.5179
+   ],
+   "zona": "Parioli · Villa Borghese · Nomentano"
+  },
+  {
    "date": "2026-12-07",
    "time": "10:00",
    "title": "Più libri più liberi: fiera della piccola e media editoria",
@@ -2296,6 +2389,29 @@
    "id": "r097",
    "key": "2026-12-07-piu-libri-piu-liberi-fiera-della-piccola-e-media",
    "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.831,
+    12.4719
+   ],
+   "zona": "EUR e sud"
+  },
+  {
+   "date": "2026-12-07",
+   "time": "18:30",
+   "title": "Ansia a mille: adolescenza, paure e libertà di scegliere",
+   "venue": "La Nuvola, Sala Venere (viale Asia 40)",
+   "cat": "salute",
+   "desc": "Presentazione Erickson a Più libri più liberi: come stare accanto ai ragazzi quando l'ansia prende il comando. Ingresso con biglietto della fiera.",
+   "url": "https://www.erickson.it/it/mondo-erickson/agenda",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "r117",
+   "key": "2026-12-07-ansia-a-mille-adolescenza-paure-e-liberta-di-sce",
+   "moods": [
+    "dentro",
     "pensare"
    ],
    "geo": [
@@ -2462,6 +2578,29 @@
    ],
    "zona": "Esquilino · Monti · San Lorenzo",
    "time": ""
+  },
+  {
+   "date": "2026-12-13",
+   "time": "10:00",
+   "title": "Essere e tempo: la vecchiaia, tra arte e psicoanalisi",
+   "venue": "MACRO (via Nizza 138)",
+   "cat": "filosofia",
+   "desc": "Proiezione di Passeggiata in Paradiso di Stefania Galegati e dialogo con lo psicoanalista Domenico Chianese su memoria, desiderio e tempo che passa.",
+   "url": "https://www.turismoroma.it/en/node/176693",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r118",
+   "key": "2026-12-13-essere-e-tempo-la-vecchiaia-tra-arte-e-psicoanal",
+   "moods": [
+    "dentro",
+    "pensare"
+   ],
+   "geo": [
+    41.9137,
+    12.5007
+   ],
+   "zona": "Parioli · Villa Borghese · Nomentano"
   },
   {
    "date": "2026-12-13",

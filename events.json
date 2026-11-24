@@ -1340,6 +1340,29 @@
   {
    "date": "2026-11-26",
    "time": "16:30",
+   "title": "Prenditi il domani: pensione e futuro, istruzioni per l'uso",
+   "venue": "Università Milano-Bicocca, Edificio U3 Bios, aula 09 (piazza della Scienza 2)",
+   "cat": "salute",
+   "desc": "Seminario aperto a tutti su come funziona la pensione, l'invecchiamento della popolazione e le scelte da fare per tempo, con domande dal pubblico.",
+   "url": "https://www.unimib.it/node/39125",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "e399",
+   "key": "2026-11-26-prenditi-il-domani-pensione-e-futuro-istruzioni-",
+   "moods": [
+    "dentro",
+    "pensare"
+   ],
+   "geo": [
+    45.5133,
+    9.2112
+   ],
+   "zona": "Fuori centro"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "16:30",
    "title": "Sonate e Ballate: i giovani del Conservatorio a Casa Verdi",
    "venue": "Casa di Riposo per Musicisti – Casa Verdi (piazza Buonarroti 29)",
    "cat": "classica",
@@ -5604,6 +5627,29 @@
     9.196
    ],
    "zona": "Centro"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "18:00",
+   "title": "Per una pace possibile: Adolfo Ceretti e Roberto Cornelli",
+   "venue": "BarBip (via Solari 22)",
+   "cat": "filosofia",
+   "desc": "Due criminologi presentano il loro libro su responsabilità, giustizia riparativa e cura delle ferite al tempo delle guerre.",
+   "url": "https://infoescapes.altervista.org/event/incontri-23/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "e400",
+   "key": "2026-12-02-per-una-pace-possibile-adolfo-ceretti-e-roberto-",
+   "moods": [
+    "dentro",
+    "pensare"
+   ],
+   "geo": [
+    45.4523,
+    9.166
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio"
   },
   {
    "date": "2026-12-02",

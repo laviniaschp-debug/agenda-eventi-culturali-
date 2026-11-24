@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-material-mente-umana-la-soggettivita-incarnata@acculturiamoc
  i.it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;TZID=Europe/Rome:20261124T163000
 DTEND;TZID=Europe/Rome:20261124T183000
 SUMMARY:Material-mente umana. La soggettività incarnata
@@ -40,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-carl-gustav-jung-attraverso-il-cinema-e-l-attual@acculturiam
  oci.it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Carl Gustav Jung attraverso il cinema e l'attualità
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-il-senno-sulla-luna-il-medioevo-di-doctor-virtua@acculturiam
  oci.it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;TZID=Europe/Rome:20261125T163000
 DTEND;TZID=Europe/Rome:20261125T183000
 SUMMARY:Il senno sulla luna: il Medioevo di Doctor Virtualis
@@ -65,7 +65,7 @@ CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-piacere-rousseau-ti-presento-dewey@acculturiamoci.it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;TZID=Europe/Rome:20261125T173000
 DTEND;TZID=Europe/Rome:20261125T193000
 SUMMARY:Piacere\, Rousseau. Ti presento Dewey
@@ -79,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-i-classici-non-hanno-mai-finito-di-dirci-cio-che@acculturiam
  oci.it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;TZID=Europe/Rome:20261125T180000
 DTEND;TZID=Europe/Rome:20261125T200000
 SUMMARY:I classici non hanno mai finito di dirci ciò che vogliono dire
@@ -92,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-la-messa-non-e-finita-il-sacro-all-epoca-del-dig@acculturiam
  oci.it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;TZID=Europe/Rome:20261126T083000
 DTEND;TZID=Europe/Rome:20261126T103000
 SUMMARY:La messa non è finita. Il sacro all'epoca del digitale
@@ -105,7 +105,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-umberto-galimberti-l-illusione-della-liberta@acculturiamoci.
  it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;TZID=Europe/Rome:20261127T183000
 DTEND;TZID=Europe/Rome:20261127T203000
 SUMMARY:Umberto Galimberti\, L'illusione della libertà
@@ -121,7 +121,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-oltre-la-punizione-riparare-riannodare-rigenerar@acculturiam
  oci.it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Oltre la punizione: riparare\, riannodare\, rigenerare
@@ -135,7 +135,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-codice-girard-giulio-milani-paolo-bianchi-e-ales@acculturiam
  oci.it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;TZID=Europe/Rome:20261128T110000
 DTEND;TZID=Europe/Rome:20261128T130000
 SUMMARY:Codice Girard: Giulio Milani\, Paolo Bianchi e Alessandro Gnocchi
@@ -149,7 +149,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-silvia-piccioli-i-meloni-di-cartesio-e-altri-ane@acculturiam
  oci.it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;TZID=Europe/Rome:20261128T140000
 DTEND;TZID=Europe/Rome:20261128T160000
 SUMMARY:Silvia Piccioli: I meloni di Cartesio e altri aneddoti
@@ -163,7 +163,7 @@ CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-roberto-escobar-mare-una-metafora-che-vive@acculturiamoci.it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;TZID=Europe/Rome:20261128T170000
 DTEND;TZID=Europe/Rome:20261128T190000
 SUMMARY:Roberto Escobar: Mare. Una metafora che vive
@@ -176,7 +176,7 @@ CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-filosofia-dell-amicizia@acculturiamoci.it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Filosofia dell'amicizia
@@ -191,7 +191,7 @@ CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-programma-philo-a-bookcity@acculturiamoci.it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Programma Philo a BookCity
@@ -199,6 +199,20 @@ LOCATION:Philo – Pratiche filosofiche (via Piranesi 12)
 DESCRIPTION:In presenza e su Zoom\, gratuito. https://www.scuolaphilo.it/ev
  ento-philo/bookcity2026_202610261835/
 URL:https://www.scuolaphilo.it/evento-philo/bookcity2026_202610261835/
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-per-una-pace-possibile-adolfo-ceretti-e-roberto-@acculturiam
+ oci.it
+DTSTAMP:20261124T230751Z
+DTSTART;TZID=Europe/Rome:20261202T180000
+DTEND;TZID=Europe/Rome:20261202T200000
+SUMMARY:Per una pace possibile: Adolfo Ceretti e Roberto Cornelli
+LOCATION:BarBip (via Solari 22)
+DESCRIPTION:Due criminologi presentano il loro libro su responsabilità\, g
+ iustizia riparativa e cura delle ferite al tempo delle guerre. https://inf
+ oescapes.altervista.org/event/incontri-23/
+URL:https://infoescapes.altervista.org/event/incontri-23/
 CATEGORIES:Filosofia
 END:VEVENT
 END:VCALENDAR

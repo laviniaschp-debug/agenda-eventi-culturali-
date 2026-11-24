@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-una-societa-piu-equa-e-anche-piu-sana@acculturiamoci.it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;TZID=Europe/Rome:20261124T110000
 DTEND;TZID=Europe/Rome:20261124T130000
 SUMMARY:Una società più equa è anche più sana?
@@ -38,7 +38,7 @@ CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-over-dance-milano-danza-e-longevita@acculturiamoci.it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;TZID=Europe/Rome:20261124T160000
 DTEND;TZID=Europe/Rome:20261124T180000
 SUMMARY:Over Dance Milano: danza e longevità
@@ -49,9 +49,24 @@ URL:https://fondazionefeltrinelli.it/en/participate/
 CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-26-prenditi-il-domani-pensione-e-futuro-istruzioni-@acculturiam
+ oci.it
+DTSTAMP:20261124T230751Z
+DTSTART;TZID=Europe/Rome:20261126T163000
+DTEND;TZID=Europe/Rome:20261126T183000
+SUMMARY:Prenditi il domani: pensione e futuro\, istruzioni per l'uso
+LOCATION:Università Milano-Bicocca\, Edificio U3 Bios\, aula 09 (piazza de
+ lla Scienza 2)
+DESCRIPTION:Seminario aperto a tutti su come funziona la pensione\, l'invec
+ chiamento della popolazione e le scelte da fare per tempo\, con domande da
+ l pubblico. https://www.unimib.it/node/39125
+URL:https://www.unimib.it/node/39125
+CATEGORIES:Psiche e salute
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-26-massimo-recalcati-acquaragia-confessioni-di-un-d@acculturiam
  oci.it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;TZID=Europe/Rome:20261126T183000
 DTEND;TZID=Europe/Rome:20261126T203000
 SUMMARY:Massimo Recalcati: Acquaragia. Confessioni di un disertore
@@ -66,7 +81,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-human-brains-adolescenza-capire-mente-corpo-e-sa@acculturiam
  oci.it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;TZID=Europe/Rome:20261126T200000
 DTEND;TZID=Europe/Rome:20261126T220000
 SUMMARY:Human Brains: Adolescenza\, capire mente\, corpo e salute
@@ -82,7 +97,7 @@ CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-milano-life-science-forum-prevenzione@acculturiamoci.it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;TZID=Europe/Rome:20261127T093000
 DTEND;TZID=Europe/Rome:20261127T113000
 SUMMARY:Milano Life Science Forum: prevenzione
@@ -99,7 +114,7 @@ CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-alberto-pellai-ti-faro-correre-in-salita@acculturiamoci.it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;TZID=Europe/Rome:20261128T150000
 DTEND;TZID=Europe/Rome:20261128T170000
 SUMMARY:Alberto Pellai: Ti farò correre in salita
@@ -113,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-quando-la-vita-non-risponde-il-coraggio-di-viver@acculturiam
  oci.it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Quando la vita non risponde: il coraggio di vivere in larghezza
@@ -129,7 +144,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-mio-fratello-e-un-cavaliere-jedi-autismo-e-amici@acculturiam
  oci.it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;TZID=Europe/Rome:20261128T203000
 DTEND;TZID=Europe/Rome:20261128T223000
 SUMMARY:Mio fratello è un cavaliere Jedi: autismo e amicizia
@@ -143,7 +158,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-gherardo-colombo-e-gianluca-marchesini-adolescen@acculturiam
  oci.it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;TZID=Europe/Rome:20261129T180000
 DTEND;TZID=Europe/Rome:20261129T200000
 SUMMARY:Gherardo Colombo e Gianluca Marchesini: Adolescenza\, guida per gen
@@ -158,7 +173,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-con-la-colpa-in-mente-tra-responsabilita-e-ripar@acculturiam
  oci.it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;TZID=Europe/Rome:20261202T203000
 DTEND;TZID=Europe/Rome:20261202T223000
 SUMMARY:Con la colpa in mente\, tra responsabilità e riparazione
@@ -174,7 +189,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-anni-di-vita-la-longevita-tra-sfide-e-opportunit@acculturiam
  oci.it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;TZID=Europe/Rome:20261203T093000
 DTEND;TZID=Europe/Rome:20261203T113000
 SUMMARY:Anni di vita: la longevità tra sfide e opportunità

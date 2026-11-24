@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-25-sartre-e-rossanda-una-ingombrante-intransigenza@acculturiamo
  ci.it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;TZID=Europe/Rome:20261125T163000
 DTEND;TZID=Europe/Rome:20261125T183000
 SUMMARY:Sartre e Rossanda: una ingombrante intransigenza
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-vito-mancuso-filosofia-e-scienza-per-essere-uman@acculturiam
  oci.it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;TZID=Europe/Rome:20261125T190000
 DTEND;TZID=Europe/Rome:20261125T210000
 SUMMARY:Vito Mancuso: Filosofia e scienza per essere umani migliori
@@ -61,7 +61,7 @@ CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-marco-vannini-quale-uomo-quale-dio@acculturiamoci.it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;TZID=Europe/Rome:20261127T190000
 DTEND;TZID=Europe/Rome:20261127T210000
 SUMMARY:Marco Vannini: Quale uomo\, quale Dio
@@ -75,7 +75,7 @@ CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-festival-di-filosofia-al-femminile@acculturiamoci.it
-DTSTAMP:20261124T230615Z
+DTSTAMP:20261124T230751Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Festival di Filosofia al Femminile
@@ -84,6 +84,45 @@ DESCRIPTION:Ultima giornata del festival della Società Filosofica Romana c
  on Roma Tre e Sapienza per la Giornata mondiale della filosofia: il pensie
  ro delle donne. https://www.turismoroma.it/fr/node/179745
 URL:https://www.turismoroma.it/fr/node/179745
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-si-puo-imparare-la-meraviglia-talk-con-gaia-terz@acculturiam
+ oci.it
+DTSTAMP:20261124T230751Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:Si può imparare la meraviglia? Talk con Gaia Terzulli
+LOCATION:Libreria Eli (viale Somalia 50/a)
+DESCRIPTION:Un incontro sul saper ancora stupirsi\, tra psicologia\, cresci
+ ta e sguardo sul mondo. https://libreriaeli.it/
+URL:https://libreriaeli.it/
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-il-desiderio-e-quel-che-resta@acculturiamoci.it
+DTSTAMP:20261124T230751Z
+DTSTART;TZID=Europe/Rome:20261129T173000
+DTEND;TZID=Europe/Rome:20261129T193000
+SUMMARY:Il desiderio\, e quel che resta
+LOCATION:Libreria Eli (viale Somalia 50/a)
+DESCRIPTION:Terzo capitolo di Dissolvenze & Bagliori con Stefano Pierpaoli 
+ ed Eva Sanna: parole e immagini sul desiderio. https://libreriaeli.it/
+URL:https://libreriaeli.it/
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-essere-e-tempo-la-vecchiaia-tra-arte-e-psicoanal@acculturiam
+ oci.it
+DTSTAMP:20261124T230751Z
+DTSTART;TZID=Europe/Rome:20261213T100000
+DTEND;TZID=Europe/Rome:20261213T120000
+SUMMARY:Essere e tempo: la vecchiaia\, tra arte e psicoanalisi
+LOCATION:MACRO (via Nizza 138)
+DESCRIPTION:Proiezione di Passeggiata in Paradiso di Stefania Galegati e di
+ alogo con lo psicoanalista Domenico Chianese su memoria\, desiderio e temp
+ o che passa. https://www.turismoroma.it/en/node/176693
+URL:https://www.turismoroma.it/en/node/176693
 CATEGORIES:Filosofia
 END:VEVENT
 END:VCALENDAR

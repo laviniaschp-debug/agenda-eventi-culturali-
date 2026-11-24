@@ -1,5 +1,17 @@
 [
  {
+  "match": "MACRO",
+  "lat": 41.9137,
+  "lng": 12.5007,
+  "zona": "Parioli · Villa Borghese · Nomentano"
+ },
+ {
+  "match": "Libreria Eli",
+  "lat": 41.9246,
+  "lng": 12.5179,
+  "zona": "Parioli · Villa Borghese · Nomentano"
+ },
+ {
   "match": "Cinema delle Provincie",
   "lat": 41.9118,
   "lng": 12.5212,
