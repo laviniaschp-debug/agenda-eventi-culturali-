@@ -63,6 +63,11 @@ def enrich(d, ven_path=VEN):
         else:
             seen[k] = 1
         e["key"] = k
+        # BookCity Milano: tutti gli eventi sono a ingresso libero fino a esaurimento posti, salvo diverse indicazioni
+        if e.get("free") is None and ("bookcity" in (e.get("tags") or []) or "bookcity" in f'{e["title"]} {e.get("desc","")} {e.get("url","")}'.lower()):
+            e["free"] = True
+            if "prenot" not in e.get("desc", "").lower():
+                e["desc"] = (e.get("desc", "").rstrip() + " BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.").strip()
         text = f'{e["title"]} {e.get("desc","")} {e.get("venue","")}'
         stext = f'{e["title"]} {e.get("desc","")}'
         if e.get("cat") not in ("famiglie", "tech", "filosofia") and SCIENCE.search(stext) and "ideologic" not in stext.lower():

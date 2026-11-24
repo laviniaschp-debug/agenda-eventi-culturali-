@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-salute-in-evoluzione-pievani-e-remuzzi@acculturiamoci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261124T170000
 DTEND;TZID=Europe/Rome:20261124T190000
 SUMMARY:Salute in evoluzione: Pievani e Remuzzi
@@ -38,15 +38,16 @@ CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-samantha-cristoforetti-il-senso-della-luna@acculturiamoci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261125T200000
 DTEND;TZID=Europe/Rome:20261125T220000
 SUMMARY:Samantha Cristoforetti: il senso della Luna
 LOCATION:Museo Scienza e Tecnologia
 DESCRIPTION:Un'astronauta\, la Luna e Leopardi nella stessa sera. Con Stefa
- no Sandrelli\, letture di Leopardi. https://www.mentelocale.it/milano/1464
- 78-bookcity-milano-2026-iniziative-e-incontri-al-museo-nazionale-scienza-e
- -tecnologia.htm
+ no Sandrelli\, letture di Leopardi. BookCity: ingresso libero fino a esaur
+ imento posti\, per alcuni incontri serve prenotare su bookcitymilano.it. h
+ ttps://www.mentelocale.it/milano/146478-bookcity-milano-2026-iniziative-e-
+ incontri-al-museo-nazionale-scienza-e-tecnologia.htm
 URL:https://www.mentelocale.it/milano/146478-bookcity-milano-2026-iniziativ
  e-e-incontri-al-museo-nazionale-scienza-e-tecnologia.htm
 CATEGORIES:Scienza
@@ -54,35 +55,37 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-e-tu-come-lo-sai-capire-la-scienza-per-decidere-@acculturiam
  oci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:E tu\, come lo sai? Capire la scienza per decidere insieme
 LOCATION:Museo Scienza e Tecnologia
-DESCRIPTION:Con Amalia Ercoli Finzi e Paola Dubini. https://www.mentelocale
- .it/milano/146478-bookcity-milano-2026-iniziative-e-incontri-al-museo-nazi
- onale-scienza-e-tecnologia.htm
+DESCRIPTION:Con Amalia Ercoli Finzi e Paola Dubini. BookCity: ingresso libe
+ ro fino a esaurimento posti\, per alcuni incontri serve prenotare su bookc
+ itymilano.it. https://www.mentelocale.it/milano/146478-bookcity-milano-202
+ 6-iniziative-e-incontri-al-museo-nazionale-scienza-e-tecnologia.htm
 URL:https://www.mentelocale.it/milano/146478-bookcity-milano-2026-iniziativ
  e-e-incontri-al-museo-nazionale-scienza-e-tecnologia.htm
 CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-la-forza-biologica-della-cultura@acculturiamoci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:La forza biologica della cultura
 LOCATION:Museo Scienza e Tecnologia
-DESCRIPTION:Modera Armando Massarenti. https://www.mentelocale.it/milano/14
- 6478-bookcity-milano-2026-iniziative-e-incontri-al-museo-nazionale-scienza
- -e-tecnologia.htm
+DESCRIPTION:Modera Armando Massarenti. BookCity: ingresso libero fino a esa
+ urimento posti\, per alcuni incontri serve prenotare su bookcitymilano.it.
+  https://www.mentelocale.it/milano/146478-bookcity-milano-2026-iniziative-
+ e-incontri-al-museo-nazionale-scienza-e-tecnologia.htm
 URL:https://www.mentelocale.it/milano/146478-bookcity-milano-2026-iniziativ
  e-e-incontri-al-museo-nazionale-scienza-e-tecnologia.htm
 CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-curae-2026-ai-will-shakespeare@acculturiamoci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Curae 2026: AI Will Shakespeare

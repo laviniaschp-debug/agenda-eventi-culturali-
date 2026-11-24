@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-daniel-pennac-apre-la-nuova-feltrinelli-centrale@acculturiam
  oci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261124T120000
 DTEND;TZID=Europe/Rome:20261124T140000
 SUMMARY:Daniel Pennac apre la nuova Feltrinelli Centrale
@@ -41,7 +41,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-otello-l-ultima-maschera-tragica@acculturiamoci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261124T150000
 DTEND;TZID=Europe/Rome:20261124T170000
 SUMMARY:Otello: l'ultima maschera tragica
@@ -53,34 +53,37 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-daniel-pennac-presenta-mallet@acculturiamoci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261124T183000
 DTEND;TZID=Europe/Rome:20261124T203000
 SUMMARY:Daniel Pennac presenta Mallet
 LOCATION:Fondazione San Fedele
-DESCRIPTION:Daniel Pennac dal vivo\, a Milano\, con il suo nuovo libro. htt
- ps://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospit
- i-temi-eventi-da-non-perdere.htm
+DESCRIPTION:Daniel Pennac dal vivo\, a Milano\, con il suo nuovo libro. Boo
+ kCity: ingresso libero fino a esaurimento posti\, per alcuni incontri serv
+ e prenotare su bookcitymilano.it. https://www.mentelocale.it/milano/145491
+ -bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm
 URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
  -ospiti-temi-eventi-da-non-perdere.htm
 CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-arturo-perez-reverte@acculturiamoci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261125T160000
 DTEND;TZID=Europe/Rome:20261125T180000
 SUMMARY:Arturo Pérez-Reverte
 LOCATION:Università Cattolica
-DESCRIPTION:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-p
- rogramma-ospiti-temi-eventi-da-non-perdere.htm
+DESCRIPTION:BookCity: ingresso libero fino a esaurimento posti\, per alcuni
+  incontri serve prenotare su bookcitymilano.it. https://www.mentelocale.it
+ /milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-pe
+ rdere.htm
 URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
  -ospiti-temi-eventi-da-non-perdere.htm
 CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-prima-delle-prime-otello@acculturiamoci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261125T180000
 DTEND;TZID=Europe/Rome:20261125T200000
 SUMMARY:Prima delle Prime: Otello
@@ -93,7 +96,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-letture-e-note-al-museo-guido-cantelli@acculturiamoci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261126T180000
 DTEND;TZID=Europe/Rome:20261126T200000
 SUMMARY:Letture e note al museo: Guido Cantelli
@@ -104,13 +107,15 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-fabio-volo-quando-l-amore-ti-sorprende@acculturiamoci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261126T200000
 DTEND;TZID=Europe/Rome:20261126T220000
 SUMMARY:Fabio Volo\, Quando l'amore ti sorprende
 LOCATION:Castello Sforzesco\, Sala Viscontea
-DESCRIPTION:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-p
- rogramma-ospiti-temi-eventi-da-non-perdere.htm
+DESCRIPTION:BookCity: ingresso libero fino a esaurimento posti\, per alcuni
+  incontri serve prenotare su bookcitymilano.it. https://www.mentelocale.it
+ /milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-pe
+ rdere.htm
 URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
  -ospiti-temi-eventi-da-non-perdere.htm
 CATEGORIES:Incontri e talk
@@ -118,18 +123,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-la-scala-dei-libri-francesco-filidei-e-silvia-le@acculturiam
  oci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261127T173000
 DTEND;TZID=Europe/Rome:20261127T193000
 SUMMARY:La Scala dei libri: Francesco Filidei e Silvia Lelli
 LOCATION:Teatro alla Scala
-DESCRIPTION:BookCity. https://www.teatroallascala.org/it/calendario.html
+DESCRIPTION:BookCity. BookCity: ingresso libero fino a esaurimento posti\, 
+ per alcuni incontri serve prenotare su bookcitymilano.it. https://www.teat
+ roallascala.org/it/calendario.html
 URL:https://www.teatroallascala.org/it/calendario.html
 CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-vincenzo-latronico-work-in-progress@acculturiamoci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261127T183000
 DTEND;TZID=Europe/Rome:20261127T203000
 SUMMARY:Vincenzo Latronico\, Work in progress
@@ -144,27 +151,30 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-ermanno-cavazzoni-saro-breve@acculturiamoci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261128T170000
 DTEND;TZID=Europe/Rome:20261128T190000
 SUMMARY:Ermanno Cavazzoni\, Sarò breve
 LOCATION:Ambrosius\, Oratorio della Passione
-DESCRIPTION:Lezione su come si scrive un racconto. https://www.mentelocale.
- it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-
- perdere.htm
+DESCRIPTION:Lezione su come si scrive un racconto. BookCity: ingresso liber
+ o fino a esaurimento posti\, per alcuni incontri serve prenotare su bookci
+ tymilano.it. https://www.mentelocale.it/milano/145491-bookcity-milano-2026
+ -programma-ospiti-temi-eventi-da-non-perdere.htm
 URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
  -ospiti-temi-eventi-da-non-perdere.htm
 CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-fernando-aramburu-presenta-maite@acculturiamoci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Fernando Aramburu presenta Maite
 LOCATION:Castello Sforzesco\, Sala Viscontea
-DESCRIPTION:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-p
- rogramma-ospiti-temi-eventi-da-non-perdere.htm
+DESCRIPTION:BookCity: ingresso libero fino a esaurimento posti\, per alcuni
+  incontri serve prenotare su bookcitymilano.it. https://www.mentelocale.it
+ /milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-pe
+ rdere.htm
 URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
  -ospiti-temi-eventi-da-non-perdere.htm
 CATEGORIES:Incontri e talk
@@ -172,18 +182,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-la-scala-dei-libri-a-dirci-le-cose-chiare-don-gi@acculturiam
  oci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:La Scala dei libri: A dirci le cose chiare\, Don Giovanni
 LOCATION:Teatro alla Scala
-DESCRIPTION:BookCity. https://www.teatroallascala.org/it/calendario.html
+DESCRIPTION:BookCity. BookCity: ingresso libero fino a esaurimento posti\, 
+ per alcuni incontri serve prenotare su bookcitymilano.it. https://www.teat
+ roallascala.org/it/calendario.html
 URL:https://www.teatroallascala.org/it/calendario.html
 CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-bff-books-friends-forever@acculturiamoci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:BFF – Books Friends Forever
@@ -197,14 +209,15 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-zerocalcare-dove-andiamo-da-qui-zero@acculturiamoci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261129T120000
 DTEND;TZID=Europe/Rome:20261129T140000
 SUMMARY:Zerocalcare\, Dove andiamo da qui\, Zero?
 LOCATION:Piccolo Teatro Strehler
-DESCRIPTION:Zerocalcare dal vivo: conviene arrivare presto. https://www.men
- telocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-event
- i-da-non-perdere.htm
+DESCRIPTION:Zerocalcare dal vivo: conviene arrivare presto. BookCity: ingre
+ sso libero fino a esaurimento posti\, per alcuni incontri serve prenotare 
+ su bookcitymilano.it. https://www.mentelocale.it/milano/145491-bookcity-mi
+ lano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm
 URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
  -ospiti-temi-eventi-da-non-perdere.htm
 CATEGORIES:Incontri e talk
@@ -212,13 +225,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-alicia-gimenez-bartlett-sotto-il-cielo-infernale@acculturiam
  oci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261129T163000
 DTEND;TZID=Europe/Rome:20261129T183000
 SUMMARY:Alicia Giménez-Bartlett\, Sotto il cielo infernale
 LOCATION:Castello Sforzesco\, Sala Viscontea
-DESCRIPTION:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-p
- rogramma-ospiti-temi-eventi-da-non-perdere.htm
+DESCRIPTION:BookCity: ingresso libero fino a esaurimento posti\, per alcuni
+  incontri serve prenotare su bookcitymilano.it. https://www.mentelocale.it
+ /milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-pe
+ rdere.htm
 URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
  -ospiti-temi-eventi-da-non-perdere.htm
 CATEGORIES:Incontri e talk
@@ -226,22 +241,23 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-chiusura-bookcity-samantha-harvey-e-paolo-giorda@acculturiam
  oci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261129T200000
 DTEND;TZID=Europe/Rome:20261129T220000
 SUMMARY:Chiusura BookCity: Samantha Harvey e Paolo Giordano
 LOCATION:Teatro Franco Parenti\, Sala Grande
 DESCRIPTION:Una vincitrice del Booker e Paolo Giordano chiudono BookCity. D
- allo spazio profondo al cuore della Terra. https://www.mentelocale.it/mila
- no/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere
- .htm
+ allo spazio profondo al cuore della Terra. BookCity: ingresso libero fino 
+ a esaurimento posti\, per alcuni incontri serve prenotare su bookcitymilan
+ o.it. https://www.mentelocale.it/milano/145491-bookcity-milano-2026-progra
+ mma-ospiti-temi-eventi-da-non-perdere.htm
 URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
  -ospiti-temi-eventi-da-non-perdere.htm
 CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-c-e-ancora-posto-per-l-universita@acculturiamoci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261202T173000
 DTEND;TZID=Europe/Rome:20261202T193000
 SUMMARY:C'è ancora posto per l'università?
@@ -256,7 +272,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-l-angelo-ribelle-e-il-dio-geloso@acculturiamoci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261203T180000
 DTEND;TZID=Europe/Rome:20261203T200000
 SUMMARY:L'angelo ribelle e il Dio geloso

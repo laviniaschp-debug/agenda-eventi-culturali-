@@ -26,21 +26,22 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-daniel-pennac-presenta-mallet@acculturiamoci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261124T183000
 DTEND;TZID=Europe/Rome:20261124T203000
 SUMMARY:Daniel Pennac presenta Mallet
 LOCATION:Fondazione San Fedele
-DESCRIPTION:Daniel Pennac dal vivo\, a Milano\, con il suo nuovo libro. htt
- ps://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospit
- i-temi-eventi-da-non-perdere.htm
+DESCRIPTION:Daniel Pennac dal vivo\, a Milano\, con il suo nuovo libro. Boo
+ kCity: ingresso libero fino a esaurimento posti\, per alcuni incontri serv
+ e prenotare su bookcitymilano.it. https://www.mentelocale.it/milano/145491
+ -bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm
 URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
  -ospiti-temi-eventi-da-non-perdere.htm
 CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-prima-delle-prime-otello@acculturiamoci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261125T180000
 DTEND;TZID=Europe/Rome:20261125T200000
 SUMMARY:Prima delle Prime: Otello
@@ -53,15 +54,16 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-samantha-cristoforetti-il-senso-della-luna@acculturiamoci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261125T200000
 DTEND;TZID=Europe/Rome:20261125T220000
 SUMMARY:Samantha Cristoforetti: il senso della Luna
 LOCATION:Museo Scienza e Tecnologia
 DESCRIPTION:Un'astronauta\, la Luna e Leopardi nella stessa sera. Con Stefa
- no Sandrelli\, letture di Leopardi. https://www.mentelocale.it/milano/1464
- 78-bookcity-milano-2026-iniziative-e-incontri-al-museo-nazionale-scienza-e
- -tecnologia.htm
+ no Sandrelli\, letture di Leopardi. BookCity: ingresso libero fino a esaur
+ imento posti\, per alcuni incontri serve prenotare su bookcitymilano.it. h
+ ttps://www.mentelocale.it/milano/146478-bookcity-milano-2026-iniziative-e-
+ incontri-al-museo-nazionale-scienza-e-tecnologia.htm
 URL:https://www.mentelocale.it/milano/146478-bookcity-milano-2026-iniziativ
  e-e-incontri-al-museo-nazionale-scienza-e-tecnologia.htm
 CATEGORIES:Scienza
@@ -69,7 +71,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-kahil-el-zabar-ethnic-heritage-ensemble-let-the-@acculturiam
  oci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261125T210000
 DTEND;TZID=Europe/Rome:20261125T230000
 SUMMARY:Kahil El Zabar Ethnic Heritage Ensemble: Let The Spirit Out
@@ -84,14 +86,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-milena-gabanelli-e-simona-ravizza-la-resa-dei-co@acculturiam
  oci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261126T183000
 DTEND;TZID=Europe/Rome:20261126T203000
 SUMMARY:Milena Gabanelli e Simona Ravizza\, La resa dei conti
 LOCATION:Castello Sforzesco\, Sala Viscontea
-DESCRIPTION:Due firme del giornalismo d'inchiesta sullo stesso palco. https
- ://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-
- temi-eventi-da-non-perdere.htm
+DESCRIPTION:Due firme del giornalismo d'inchiesta sullo stesso palco. BookC
+ ity: ingresso libero fino a esaurimento posti\, per alcuni incontri serve 
+ prenotare su bookcitymilano.it. https://www.mentelocale.it/milano/145491-b
+ ookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm
 URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
  -ospiti-temi-eventi-da-non-perdere.htm
 CATEGORIES:Geopolitica
@@ -99,21 +102,22 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-umberto-galimberti-l-illusione-della-liberta@acculturiamoci.
  it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261127T183000
 DTEND;TZID=Europe/Rome:20261127T203000
 SUMMARY:Umberto Galimberti\, L'illusione della libertà
 LOCATION:Fondazione San Fedele
-DESCRIPTION:Quanto siamo davvero liberi? Galimberti prova a rispondere. htt
- ps://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospit
- i-temi-eventi-da-non-perdere.htm
+DESCRIPTION:Quanto siamo davvero liberi? Galimberti prova a rispondere. Boo
+ kCity: ingresso libero fino a esaurimento posti\, per alcuni incontri serv
+ e prenotare su bookcitymilano.it. https://www.mentelocale.it/milano/145491
+ -bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm
 URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
  -ospiti-temi-eventi-da-non-perdere.htm
 CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-di-madre-in-figlia@acculturiamoci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:Di madre in figlia
@@ -126,42 +130,45 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-aldo-cazzullo-il-nostro-rinascimento@acculturiamoci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261128T110000
 DTEND;TZID=Europe/Rome:20261128T130000
 SUMMARY:Aldo Cazzullo\, Il nostro rinascimento
 LOCATION:Piccolo Teatro Strehler
-DESCRIPTION:La storia d'Italia raccontata come un romanzo. https://www.ment
- elocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi
- -da-non-perdere.htm
+DESCRIPTION:La storia d'Italia raccontata come un romanzo. BookCity: ingres
+ so libero fino a esaurimento posti\, per alcuni incontri serve prenotare s
+ u bookcitymilano.it. https://www.mentelocale.it/milano/145491-bookcity-mil
+ ano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm
 URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
  -ospiti-temi-eventi-da-non-perdere.htm
 CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-pupi-avati-il-gotico-padano-e-il-cinema@acculturiamoci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261129T110000
 DTEND;TZID=Europe/Rome:20261129T130000
 SUMMARY:Pupi Avati: il gotico padano e il cinema
 LOCATION:Anteo Palazzo del Cinema
-DESCRIPTION:Il maestro del gotico padano racconta il suo cinema. https://ww
- w.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-
- eventi-da-non-perdere.htm
+DESCRIPTION:Il maestro del gotico padano racconta il suo cinema. BookCity: 
+ ingresso libero fino a esaurimento posti\, per alcuni incontri serve preno
+ tare su bookcitymilano.it. https://www.mentelocale.it/milano/145491-bookci
+ ty-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm
 URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
  -ospiti-temi-eventi-da-non-perdere.htm
 CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-zerocalcare-dove-andiamo-da-qui-zero@acculturiamoci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261129T120000
 DTEND;TZID=Europe/Rome:20261129T140000
 SUMMARY:Zerocalcare\, Dove andiamo da qui\, Zero?
 LOCATION:Piccolo Teatro Strehler
-DESCRIPTION:Zerocalcare dal vivo: conviene arrivare presto. https://www.men
- telocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-event
- i-da-non-perdere.htm
+DESCRIPTION:Zerocalcare dal vivo: conviene arrivare presto. BookCity: ingre
+ sso libero fino a esaurimento posti\, per alcuni incontri serve prenotare 
+ su bookcitymilano.it. https://www.mentelocale.it/milano/145491-bookcity-mi
+ lano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm
 URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
  -ospiti-temi-eventi-da-non-perdere.htm
 CATEGORIES:Incontri e talk
@@ -169,15 +176,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-chiusura-bookcity-samantha-harvey-e-paolo-giorda@acculturiam
  oci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261129T200000
 DTEND;TZID=Europe/Rome:20261129T220000
 SUMMARY:Chiusura BookCity: Samantha Harvey e Paolo Giordano
 LOCATION:Teatro Franco Parenti\, Sala Grande
 DESCRIPTION:Una vincitrice del Booker e Paolo Giordano chiudono BookCity. D
- allo spazio profondo al cuore della Terra. https://www.mentelocale.it/mila
- no/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere
- .htm
+ allo spazio profondo al cuore della Terra. BookCity: ingresso libero fino 
+ a esaurimento posti\, per alcuni incontri serve prenotare su bookcitymilan
+ o.it. https://www.mentelocale.it/milano/145491-bookcity-milano-2026-progra
+ mma-ospiti-temi-eventi-da-non-perdere.htm
 URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
  -ospiti-temi-eventi-da-non-perdere.htm
 CATEGORIES:Incontri e talk
@@ -185,7 +193,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-noir-in-festival-the-blood-countess-di-ulrike-ot@acculturiam
  oci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261130T213000
 DTEND;TZID=Europe/Rome:20261130T233000
 SUMMARY:Noir in Festival: The Blood Countess di Ulrike Ottinger
@@ -201,7 +209,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-left-summit-questione-di-classe-con-schlein-cont@acculturiam
  oci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261202T183000
 DTEND;TZID=Europe/Rome:20261202T203000
 SUMMARY:Left Summit: Questione di classe\, con Schlein\, Conte e Fratoianni
@@ -216,7 +224,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-paul-lewis-mozart@acculturiamoci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261202T204500
 DTEND;TZID=Europe/Rome:20261202T224500
 SUMMARY:Paul Lewis\, Mozart+
@@ -230,7 +238,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-bilal-25-anni-di-1st-born-second@acculturiamoci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261203T210000
 DTEND;TZID=Europe/Rome:20261203T230000
 SUMMARY:Bilal: 25 anni di 1st Born Second
@@ -244,7 +252,7 @@ CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-otello-anteprima-under-30@acculturiamoci.it
-DTSTAMP:20261124T065515Z
+DTSTAMP:20261124T131605Z
 DTSTART;TZID=Europe/Rome:20261204T180000
 DTEND;TZID=Europe/Rome:20261204T200000
 SUMMARY:Otello: anteprima Under 30
