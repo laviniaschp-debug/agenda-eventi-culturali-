@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-una-societa-piu-equa-e-anche-piu-sana@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261124T110000
 DTEND;TZID=Europe/Rome:20261124T130000
 SUMMARY:Una società più equa è anche più sana?
@@ -38,7 +38,7 @@ CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-over-dance-milano-danza-e-longevita@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261124T160000
 DTEND;TZID=Europe/Rome:20261124T180000
 SUMMARY:Over Dance Milano: danza e longevità
@@ -49,9 +49,24 @@ URL:https://fondazionefeltrinelli.it/en/participate/
 CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-26-massimo-recalcati-acquaragia-confessioni-di-un-d@acculturiam
+ oci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261126T183000
+DTEND;TZID=Europe/Rome:20261126T203000
+SUMMARY:Massimo Recalcati: Acquaragia. Confessioni di un disertore
+LOCATION:Teatro Franco Parenti\, Sala Grande (via Pier Lombardo 14)
+DESCRIPTION:Lo psicoanalista racconta in prima persona fallimenti\, inquiet
+ udini e innamoramenti della sua vita. BookCity: ingresso libero fino a esa
+ urimento posti. https://teatrofrancoparenti.it/?post_type=spettacolo&p=534
+ 42
+URL:https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442
+CATEGORIES:Psiche e salute
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-26-human-brains-adolescenza-capire-mente-corpo-e-sa@acculturiam
  oci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261126T200000
 DTEND;TZID=Europe/Rome:20261126T220000
 SUMMARY:Human Brains: Adolescenza\, capire mente\, corpo e salute
@@ -67,7 +82,7 @@ CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-milano-life-science-forum-prevenzione@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261127T093000
 DTEND;TZID=Europe/Rome:20261127T113000
 SUMMARY:Milano Life Science Forum: prevenzione
@@ -83,9 +98,37 @@ URL:https://www.assolombarda.it/desk/life-sciences-desk-backup/appuntamenti
 CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-alberto-pellai-ti-faro-correre-in-salita@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261128T150000
+DTEND;TZID=Europe/Rome:20261128T170000
+SUMMARY:Alberto Pellai: Ti farò correre in salita
+LOCATION:Teatro Franco Parenti\, Sala APA Blu (via Pier Lombardo 14)
+DESCRIPTION:Lo psicoterapeuta contro l'iperprotezione: perché la fatica re
+ nde i ragazzi più liberi. BookCity: ingresso libero fino a esaurimento po
+ sti. https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442
+URL:https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442
+CATEGORIES:Psiche e salute
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-gherardo-colombo-e-gianluca-marchesini-adolescen@acculturiam
+ oci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261129T180000
+DTEND;TZID=Europe/Rome:20261129T200000
+SUMMARY:Gherardo Colombo e Gianluca Marchesini: Adolescenza\, guida per gen
+ itori
+LOCATION:Teatro Franco Parenti\, Biblioteca (via Pier Lombardo 14)
+DESCRIPTION:Come distinguere la normale crisi di crescita dal disagio dei r
+ agazzi. BookCity: ingresso libero fino a esaurimento posti. https://teatro
+ francoparenti.it/?post_type=spettacolo&p=53442
+URL:https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442
+CATEGORIES:Psiche e salute
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-02-con-la-colpa-in-mente-tra-responsabilita-e-ripar@acculturiam
  oci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261202T203000
 DTEND;TZID=Europe/Rome:20261202T223000
 SUMMARY:Con la colpa in mente\, tra responsabilità e riparazione
@@ -101,7 +144,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-anni-di-vita-la-longevita-tra-sfide-e-opportunit@acculturiam
  oci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261203T093000
 DTEND;TZID=Europe/Rome:20261203T113000
 SUMMARY:Anni di vita: la longevità tra sfide e opportunità

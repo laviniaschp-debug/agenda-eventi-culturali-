@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-la-ragione-di-orlando-come-il-medioevo-imparo-a-@acculturiam
  oci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261124T103000
 DTEND;TZID=Europe/Rome:20261124T123000
 SUMMARY:La ragione di Orlando. Come il Medioevo imparò a dare conto delle 
@@ -41,7 +41,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-una-risata-seppellira-la-violenza-euripide-e-ari@acculturiam
  oci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261124T123000
 DTEND;TZID=Europe/Rome:20261124T143000
 SUMMARY:Una risata seppellirà la violenza? Euripide e Aristofane
@@ -53,7 +53,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-dante-e-vivo@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261125T163000
 DTEND;TZID=Europe/Rome:20261125T183000
 SUMMARY:Dante è vivo
@@ -64,8 +64,24 @@ URL:https://work.unimi.it/eventir/registrazione?code=17586
 CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-25-furiose-silvia-romani-e-federica-fracassi-sull-i@acculturiam
+ oci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261125T180000
+DTEND;TZID=Europe/Rome:20261125T200000
+SUMMARY:Furiose: Silvia Romani e Federica Fracassi sull'ira delle donne nel
+  mito
+LOCATION:Teatro Franco Parenti\, Café Rouge (via Pier Lombardo 14)
+DESCRIPTION:Medea\, Clitemnestra\, Medusa e le altre: la grecista racconta 
+ le furie del mito classico\, con le letture di Federica Fracassi. BookCity
+ : ingresso libero fino a esaurimento posti. https://teatrofrancoparenti.it
+ /?post_type=spettacolo&p=53442
+URL:https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-25-jan-brokken-la-malinconia-del-viaggiatore@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261125T180000
 DTEND;TZID=Europe/Rome:20261125T200000
 SUMMARY:Jan Brokken\, La malinconia del viaggiatore
@@ -78,24 +94,8 @@ URL:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntam
 CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-25-silvia-romani-e-federica-fracassi-sul-mito-antic@acculturiam
- oci.it
-DTSTAMP:20261124T150947Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Silvia Romani e Federica Fracassi sul mito antico
-LOCATION:Teatro Franco Parenti
-DESCRIPTION:BookCity: ingresso libero fino a esaurimento posti\, per alcuni
-  incontri serve prenotare su bookcitymilano.it. https://www.mentelocale.it
- /milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-pe
- rdere.htm
-URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
- -ospiti-temi-eventi-da-non-perdere.htm
-CATEGORIES:Arte e storia
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-26-100-copertine-di-futuro@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261126T110000
 DTEND;TZID=Europe/Rome:20261126T130000
 SUMMARY:100 copertine di futuro
@@ -108,7 +108,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-anti-illuminismo-nella-storia-e-oggi@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261126T180000
 DTEND;TZID=Europe/Rome:20261126T200000
 SUMMARY:Anti-illuminismo: nella storia e oggi
@@ -120,7 +120,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-hello-stranger-mostra-di-poesia@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261126T183000
 DTEND;TZID=Europe/Rome:20261126T203000
 SUMMARY:Hello stranger\, mostra di poesia
@@ -135,7 +135,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-francesco-vezzoli-victoria-mater@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261127T180000
 DTEND;TZID=Europe/Rome:20261127T200000
 SUMMARY:Francesco Vezzoli\, Victoria Mater
@@ -148,7 +148,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-aldo-cazzullo-il-nostro-rinascimento@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261128T110000
 DTEND;TZID=Europe/Rome:20261128T130000
 SUMMARY:Aldo Cazzullo\, Il nostro rinascimento
@@ -164,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-laura-pepe-storia-non-convenzionale-delle-donne-@acculturiam
  oci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261128T113000
 DTEND;TZID=Europe/Rome:20261128T133000
 SUMMARY:Laura Pepe\, Storia non convenzionale delle donne di Grecia
@@ -179,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-dario-biagi-vita-di-cagnaccio-di-san-pietro@acculturiamoci.i
  t
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261128T150000
 DTEND;TZID=Europe/Rome:20261128T170000
 SUMMARY:Dario Biagi\, vita di Cagnaccio di San Pietro
@@ -192,7 +192,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-100-anni-di-allen-ginsberg@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:100 anni di Allen Ginsberg
@@ -206,8 +206,25 @@ URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
 CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-30-lettera-1-giulia-colussi-ed-elena-re-una-casa-ve@acculturiam
+ oci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261130T190000
+DTEND;TZID=Europe/Rome:20261130T210000
+SUMMARY:Lettera#1: Giulia Colussi ed Elena Re\, una casa veneziana diventat
+ a spazio d'arte
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Arte\, parole e la musica di Mauro Sambo per raccontare un prog
+ etto artistico indipendente. Biglietto cortesia 5 €. https://teatrofranc
+ oparenti.it/spettacolo/storia-di-una-casa-veneziana-divenuta-spazio-darte-
+ e-dialogo-fp/
+URL:https://teatrofrancoparenti.it/spettacolo/storia-di-una-casa-veneziana-
+ divenuta-spazio-darte-e-dialogo-fp/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-30-il-grande-gioco-dell-ai@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261130T203000
 DTEND;TZID=Europe/Rome:20261130T223000
 SUMMARY:Il grande gioco dell'AI
@@ -223,7 +240,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-la-bibbia-che-non-ti-aspetti-con-giorgio-marches@acculturiam
  oci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261201T203000
 DTEND;TZID=Europe/Rome:20261201T223000
 SUMMARY:La Bibbia che non ti aspetti\, con Giorgio Marchesi
@@ -237,7 +254,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-la-storia-a-processo-oriana-fallaci@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261201T203000
 DTEND;TZID=Europe/Rome:20261201T223000
 SUMMARY:La Storia a Processo: Oriana Fallaci
@@ -251,7 +268,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-aria-di-liberta-settembre-43-aprile-45@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261209T203000
 DTEND;TZID=Europe/Rome:20261209T223000
 SUMMARY:Aria di libertà (Settembre '43 / Aprile '45)
@@ -264,7 +281,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-aria-di-liberta-settembre-43-aprile-45@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261210T200000
 DTEND;TZID=Europe/Rome:20261210T220000
 SUMMARY:Aria di libertà (Settembre '43 / Aprile '45)
@@ -277,7 +294,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-aria-di-liberta-settembre-43-aprile-45@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261211T200000
 DTEND;TZID=Europe/Rome:20261211T220000
 SUMMARY:Aria di libertà (Settembre '43 / Aprile '45)
@@ -290,7 +307,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-aria-di-liberta-settembre-43-aprile-45@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261212T200000
 DTEND;TZID=Europe/Rome:20261212T220000
 SUMMARY:Aria di libertà (Settembre '43 / Aprile '45)
@@ -303,7 +320,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-aria-di-liberta-settembre-43-aprile-45@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261213T170000
 DTEND;TZID=Europe/Rome:20261213T190000
 SUMMARY:Aria di libertà (Settembre '43 / Aprile '45)
@@ -312,6 +329,22 @@ DESCRIPTION:Giancarlo Biffi racconta la generazione che\, uscita dalla ditt
  atura\, costruì la Repubblica. https://www.mentelocale.it/milano/137379-a
  ria-liberta.htm
 URL:https://www.mentelocale.it/milano/137379-aria-liberta.htm
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-il-tempo-dell-appartenenza-lotta-continua-con-li@acculturiam
+ oci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261214T183000
+DTEND;TZID=Europe/Rome:20261214T203000
+SUMMARY:Il tempo dell'appartenenza: Lotta Continua con Lidia Ravera\, Marin
+ o Sinibaldi e Guido Viale
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:A cinquant'anni dallo scioglimento\, una generazione racconta c
+ osa voleva dire sentirsi parte di qualcosa. Gratis\, prenotazione consigli
+ ata. https://teatrofrancoparenti.it/spettacolo/il-tempo-dellappartenenza-f
+ p/
+URL:https://teatrofrancoparenti.it/spettacolo/il-tempo-dellappartenenza-fp/
 CATEGORIES:Arte e storia
 END:VEVENT
 END:VCALENDAR

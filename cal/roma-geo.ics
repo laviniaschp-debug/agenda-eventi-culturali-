@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-un-americano-a-teheran@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261124T170000
 DTEND;TZID=Europe/Rome:20261124T190000
 SUMMARY:Un americano a Teheran
@@ -40,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-maurizio-massari-i-dieci-anni-che-hanno-sconvolt@acculturiam
  oci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261125T183000
 DTEND;TZID=Europe/Rome:20261125T203000
 SUMMARY:Maurizio Massari: I dieci anni che hanno sconvolto il mondo
@@ -54,7 +54,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-luiz-valerio-p-trindade-social-media-odio-online@acculturiam
  oci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261126T183000
 DTEND;TZID=Europe/Rome:20261126T203000
 SUMMARY:Luiz Valério P. Trindade: social media\, odio online ed eredità c
@@ -70,7 +70,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-automotive-tra-competitivita-e-autodistruzione@acculturiamoc
  i.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261201T170000
 DTEND;TZID=Europe/Rome:20261201T190000
 SUMMARY:Automotive: tra competitività e autodistruzione

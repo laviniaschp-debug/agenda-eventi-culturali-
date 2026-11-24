@@ -7,68 +7,6 @@
  "events": [
   {
    "date": "2026-11-24",
-   "time": "",
-   "title": "Carl Gustav Jung attraverso il cinema e l'attualità",
-   "venue": "Philo (su Zoom)",
-   "cat": "filosofia",
-   "desc": "Gratuito.",
-   "url": "https://www.scuolaphilo.it/evento-philo/jungcinema_202609241823/",
-   "free": true,
-   "tags": [],
-   "verify": true,
-   "id": "e021",
-   "key": "2026-11-24-carl-gustav-jung-attraverso-il-cinema-e-l-attual",
-   "moods": [
-    "gente",
-    "pensare"
-   ]
-  },
-  {
-   "date": "2026-11-24",
-   "time": "",
-   "title": "Celebrate Studio 54!",
-   "venue": "Blue Note (via Borsieri 37)",
-   "cat": "jazz",
-   "desc": "Serata dedicata alle atmosfere disco del leggendario club newyorkese.",
-   "url": "https://bluenotemilano.com/show/concerto-celebrate-studio-54-24-novembre-2026-milano/",
-   "free": false,
-   "tags": [],
-   "verify": true,
-   "id": "e022",
-   "key": "2026-11-24-celebrate-studio-54",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.4877,
-    9.1878
-   ],
-   "zona": "Brera · Garibaldi · Isola"
-  },
-  {
-   "date": "2026-11-24",
-   "time": "",
-   "title": "Iliade: la ballata di Tersite",
-   "venue": "Teatro Filodrammatici",
-   "cat": "teatro",
-   "desc": "Matinée: la guerra di Troia vista dal soldato più sgraziato dell'Iliade.",
-   "url": "https://teatrofilodrammatici.eu/spettacoli/iliade-la-ballata-di-tersite-matinee/",
-   "free": null,
-   "tags": [],
-   "verify": true,
-   "id": "e023",
-   "key": "2026-11-24-iliade-la-ballata-di-tersite",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.4677,
-    9.188
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-24",
    "time": "10:30",
    "title": "La ragione di Orlando. Come il Medioevo imparò a dare conto delle cose",
    "venue": "Statale, via Santa Sofia 9, aula M203",
@@ -396,6 +334,28 @@
   {
    "date": "2026-11-24",
    "time": "19:30",
+   "title": "Cost of living",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Premio Pulitzer di Martyna Majok, regia di Raphael Tobia Vogel, con Sara Bertelà e Pietro Micci: due coppie, disabilità e cura, chi aiuta chi. Da 28 €, under 30 20 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/cost-of-living/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e251",
+   "key": "2026-11-24-cost-of-living",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "19:30",
    "title": "Il rito del jazz: omaggio a Chick Corea",
    "venue": "Cascina Cuccagna (via Cuccagna 2/4)",
    "cat": "jazz",
@@ -463,6 +423,28 @@
   {
    "date": "2026-11-24",
    "time": "20:00",
+   "title": "Pazza, con Vanessa Gravina",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Dramma giudiziario di Tom Topor: una donna accusata di omicidio rischia di essere dichiarata incapace. Con Vanessa Gravina e Nicola Rignanese. Da 25 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/pazza/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e252",
+   "key": "2026-11-24-pazza-con-vanessa-gravina",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "20:00",
    "title": "Rompiamo il silenzio",
    "venue": "Società Umanitaria",
    "cat": "teatro",
@@ -481,6 +463,29 @@
     9.2
    ],
    "zona": "Centro"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "20:30",
+   "title": "Carlotta Spallino, Fill Pill e Cecilia Forastieri: stand-up Allo Sbagliato",
+   "venue": "Allo Sbagliato · Teatro Principe (viale Bligny 52)",
+   "cat": "teatro",
+   "desc": "Serata comica nel club off-line diretto da Marco Mengoni: telefoni chiusi in una custodia per tutta la sera. MC Pietro Sparacino.",
+   "url": "https://www.mentelocale.it/milano/141482-carlotta-spallino.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e238",
+   "key": "2026-11-24-carlotta-spallino-fill-pill-e-cecilia-forastieri",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.4521,
+    9.1965
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-11-24",
@@ -552,61 +557,56 @@
   {
    "date": "2026-11-24",
    "time": "20:30",
-   "title": "Carlotta Spallino, Fill Pill e Cecilia Forastieri: stand-up Allo Sbagliato",
-   "venue": "Allo Sbagliato · Teatro Principe (viale Bligny 52)",
+   "title": "Lu Santo Jullàre Françesco di Dario Fo",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
    "cat": "teatro",
-   "desc": "Serata comica nel club off-line diretto da Marco Mengoni: telefoni chiusi in una custodia per tutta la sera. MC Pietro Sparacino.",
-   "url": "https://www.mentelocale.it/milano/141482-carlotta-spallino.htm",
+   "desc": "Matthias Martelli porta in scena il San Francesco giullare di Dario Fo e Franca Rame, per i 100 anni dalla nascita di Fo. Da 20 €, under 30 da 16 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/lu-santo-jullare-francesco/",
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e238",
-   "key": "2026-11-24-carlotta-spallino-fill-pill-e-cecilia-forastieri",
-   "moods": [
-    "emozionarmi",
-    "ridere"
-   ],
-   "geo": [
-    45.4521,
-    9.1965
-   ],
-   "zona": "Porta Romana · Vittoria"
-  },
-  {
-   "date": "2026-11-25",
-   "time": "",
-   "title": "Bobby",
-   "venue": "Teatro Oscar",
-   "cat": "teatro",
-   "desc": "Regia di Giacomo Poretti.",
-   "url": "https://mentelocale.it/milano/eventi/",
-   "free": null,
-   "tags": [],
-   "verify": true,
-   "id": "e042",
-   "key": "2026-11-25-bobby",
+   "id": "e253",
+   "key": "2026-11-24-lu-santo-jullare-francesco-di-dario-fo",
    "moods": [
     "emozionarmi"
    ],
    "geo": [
-    45.456,
-    9.2215
+    45.453,
+    9.208
    ],
    "zona": "Porta Romana · Vittoria"
   },
   {
-   "date": "2026-11-25",
+   "date": "2026-11-24",
    "time": "",
-   "title": "LiV Warfield",
-   "venue": "Blue Note (via Borsieri 37)",
-   "cat": "jazz",
-   "desc": "La cantante soul-funk statunitense dal vivo.",
-   "url": "https://bluenotemilano.com/show/liv-warfield-25-novembre-2026-_-milano/",
-   "free": null,
+   "title": "Carl Gustav Jung attraverso il cinema e l'attualità",
+   "venue": "Philo (su Zoom)",
+   "cat": "filosofia",
+   "desc": "Gratuito.",
+   "url": "https://www.scuolaphilo.it/evento-philo/jungcinema_202609241823/",
+   "free": true,
    "tags": [],
    "verify": true,
-   "id": "e043",
-   "key": "2026-11-25-liv-warfield",
+   "id": "e021",
+   "key": "2026-11-24-carl-gustav-jung-attraverso-il-cinema-e-l-attual",
+   "moods": [
+    "gente",
+    "pensare"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "time": "",
+   "title": "Celebrate Studio 54!",
+   "venue": "Blue Note (via Borsieri 37)",
+   "cat": "jazz",
+   "desc": "Serata dedicata alle atmosfere disco del leggendario club newyorkese.",
+   "url": "https://bluenotemilano.com/show/concerto-celebrate-studio-54-24-novembre-2026-milano/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "e022",
+   "key": "2026-11-24-celebrate-studio-54",
    "moods": [
     "emozionarmi"
    ],
@@ -617,28 +617,26 @@
    "zona": "Brera · Garibaldi · Isola"
   },
   {
-   "date": "2026-11-25",
+   "date": "2026-11-24",
    "time": "",
-   "title": "Silvia Romani e Federica Fracassi sul mito antico",
-   "venue": "Teatro Franco Parenti",
-   "cat": "storia",
-   "desc": "BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
-   "url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
-   "free": true,
-   "tags": [
-    "bookcity"
-   ],
+   "title": "Iliade: la ballata di Tersite",
+   "venue": "Teatro Filodrammatici",
+   "cat": "teatro",
+   "desc": "Matinée: la guerra di Troia vista dal soldato più sgraziato dell'Iliade.",
+   "url": "https://teatrofilodrammatici.eu/spettacoli/iliade-la-ballata-di-tersite-matinee/",
+   "free": null,
+   "tags": [],
    "verify": true,
-   "id": "e044",
-   "key": "2026-11-25-silvia-romani-e-federica-fracassi-sul-mito-antic",
+   "id": "e023",
+   "key": "2026-11-24-iliade-la-ballata-di-tersite",
    "moods": [
-    "pensare"
+    "emozionarmi"
    ],
    "geo": [
-    45.453,
-    9.208
+    45.4677,
+    9.188
    ],
-   "zona": "Porta Romana · Vittoria"
+   "zona": "Centro"
   },
   {
    "date": "2026-11-25",
@@ -754,6 +752,30 @@
    "moods": [
     "pensare"
    ]
+  },
+  {
+   "date": "2026-11-25",
+   "time": "18:00",
+   "title": "Furiose: Silvia Romani e Federica Fracassi sull'ira delle donne nel mito",
+   "venue": "Teatro Franco Parenti, Café Rouge (via Pier Lombardo 14)",
+   "cat": "storia",
+   "desc": "Medea, Clitemnestra, Medusa e le altre: la grecista racconta le furie del mito classico, con le letture di Federica Fracassi. BookCity: ingresso libero fino a esaurimento posti.",
+   "url": "https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e348",
+   "key": "2026-11-25-furiose-silvia-romani-e-federica-fracassi-sull-i",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-11-25",
@@ -874,6 +896,28 @@
   },
   {
    "date": "2026-11-25",
+   "time": "19:15",
+   "title": "Lu Santo Jullàre Françesco di Dario Fo",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Matthias Martelli porta in scena il San Francesco giullare di Dario Fo e Franca Rame, per i 100 anni dalla nascita di Fo. Da 20 €, under 30 da 16 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/lu-santo-jullare-francesco/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e254",
+   "key": "2026-11-25-lu-santo-jullare-francesco-di-dario-fo",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-25",
    "time": "19:30",
    "title": "Io sono verticale",
    "venue": "Teatro Elfo Puccini, Sala Bausch",
@@ -919,6 +963,28 @@
   },
   {
    "date": "2026-11-25",
+   "time": "19:45",
+   "title": "Pazza, con Vanessa Gravina",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Dramma giudiziario di Tom Topor: una donna accusata di omicidio rischia di essere dichiarata incapace. Con Vanessa Gravina e Nicola Rignanese. Da 25 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/pazza/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e255",
+   "key": "2026-11-25-pazza-con-vanessa-gravina",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-25",
    "time": "20:00",
    "title": "Samantha Cristoforetti: il senso della Luna",
    "venue": "Museo Scienza e Tecnologia",
@@ -942,6 +1008,75 @@
     9.1707
    ],
    "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "20:00",
+   "title": "Tonino Carotone e Federico Traversa: Il Maestro dell'Ora Brava",
+   "venue": "Teatro Franco Parenti, Café Rouge (via Pier Lombardo 14)",
+   "cat": "talk",
+   "desc": "Il libro nato on the road tra Italia e Spagna con il cantautore di Me cago en el amor. BookCity: ingresso libero fino a esaurimento posti.",
+   "url": "https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e349",
+   "key": "2026-11-25-tonino-carotone-e-federico-traversa-il-maestro-d",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "20:15",
+   "title": "Paura, stand-up di Annalisa Aglioti",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Stand-up comedy sulle paure che ci complicano la vita, regia di Michela Andreozzi, con pianoforte dal vivo. 25 €, under 30 18 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/paura/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e256",
+   "key": "2026-11-25-paura-stand-up-di-annalisa-aglioti",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "20:30",
+   "title": "Cost of living",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Premio Pulitzer di Martyna Majok, regia di Raphael Tobia Vogel, con Sara Bertelà e Pietro Micci: due coppie, disabilità e cura, chi aiuta chi. Da 28 €, under 30 20 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/cost-of-living/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e257",
+   "key": "2026-11-25-cost-of-living",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-11-25",
@@ -1057,35 +1192,40 @@
    "zona": "Navigli · Tortona · S. Ambrogio"
   },
   {
-   "date": "2026-11-26",
+   "date": "2026-11-25",
    "time": "",
-   "title": "A flauto e cembalo (Milano Arte Musica)",
-   "venue": "Sala Capitolare del Bergognone",
-   "cat": "classica",
-   "desc": "Marco Scorticati e Davide Pozzi in un programma barocco per flauto e clavicembalo.",
-   "url": "https://www.mentelocale.it/milano/146894-flauto-cembalo.htm",
+   "title": "Bobby",
+   "venue": "Teatro Oscar",
+   "cat": "teatro",
+   "desc": "Regia di Giacomo Poretti.",
+   "url": "https://mentelocale.it/milano/eventi/",
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e065",
-   "key": "2026-11-26-a-flauto-e-cembalo-milano-arte-musica",
+   "id": "e042",
+   "key": "2026-11-25-bobby",
    "moods": [
     "emozionarmi"
-   ]
+   ],
+   "geo": [
+    45.456,
+    9.2215
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
-   "date": "2026-11-26",
+   "date": "2026-11-25",
    "time": "",
-   "title": "Luca Barbarossa",
+   "title": "LiV Warfield",
    "venue": "Blue Note (via Borsieri 37)",
    "cat": "jazz",
-   "desc": "Il cantautore romano in concerto in formato club.",
-   "url": "https://bluenotemilano.com/show/concerto-luca-barbarossa-26-novembre-2026-milano/",
-   "free": false,
+   "desc": "La cantante soul-funk statunitense dal vivo.",
+   "url": "https://bluenotemilano.com/show/liv-warfield-25-novembre-2026-_-milano/",
+   "free": null,
    "tags": [],
    "verify": true,
-   "id": "e066",
-   "key": "2026-11-26-luca-barbarossa",
+   "id": "e043",
+   "key": "2026-11-25-liv-warfield",
    "moods": [
     "emozionarmi"
    ],
@@ -1281,6 +1421,30 @@
   {
    "date": "2026-11-26",
    "time": "18:30",
+   "title": "Massimo Recalcati: Acquaragia. Confessioni di un disertore",
+   "venue": "Teatro Franco Parenti, Sala Grande (via Pier Lombardo 14)",
+   "cat": "salute",
+   "desc": "Lo psicoanalista racconta in prima persona fallimenti, inquietudini e innamoramenti della sua vita. BookCity: ingresso libero fino a esaurimento posti.",
+   "url": "https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e350",
+   "key": "2026-11-26-massimo-recalcati-acquaragia-confessioni-di-un-d",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "18:30",
    "title": "Milena Gabanelli e Simona Ravizza, La resa dei conti",
    "venue": "Castello Sforzesco, Sala Viscontea",
    "cat": "geo",
@@ -1303,6 +1467,30 @@
     9.1795
    ],
    "zona": "Centro"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "18:30",
+   "title": "Monica Maggioni: Il partito di Dio",
+   "venue": "Teatro Franco Parenti, Café Rouge (via Pier Lombardo 14)",
+   "cat": "geo",
+   "desc": "La giornalista presenta il suo nuovo libro. BookCity: ingresso libero fino a esaurimento posti.",
+   "url": "https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e351",
+   "key": "2026-11-26-monica-maggioni-il-partito-di-dio",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-11-26",
@@ -1369,6 +1557,28 @@
     9.1824
    ],
    "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "19:45",
+   "title": "Cost of living",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Premio Pulitzer di Martyna Majok, regia di Raphael Tobia Vogel, con Sara Bertelà e Pietro Micci: due coppie, disabilità e cura, chi aiuta chi. Da 28 €, under 30 20 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/cost-of-living/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e258",
+   "key": "2026-11-26-cost-of-living",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-11-26",
@@ -1462,6 +1672,28 @@
   },
   {
    "date": "2026-11-26",
+   "time": "20:15",
+   "title": "Lu Santo Jullàre Françesco di Dario Fo",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Matthias Martelli porta in scena il San Francesco giullare di Dario Fo e Franca Rame, per i 100 anni dalla nascita di Fo. Da 20 €, under 30 da 16 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/lu-santo-jullare-francesco/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e259",
+   "key": "2026-11-26-lu-santo-jullare-francesco-di-dario-fo",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-26",
    "time": "20:30",
    "title": "Adelchi con Roberto Trifirò",
    "venue": "Centro Culturale di Milano",
@@ -1529,6 +1761,51 @@
   },
   {
    "date": "2026-11-26",
+   "time": "20:30",
+   "title": "Paura, stand-up di Annalisa Aglioti",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Stand-up comedy sulle paure che ci complicano la vita, regia di Michela Andreozzi, con pianoforte dal vivo. 25 €, under 30 18 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/paura/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e260",
+   "key": "2026-11-26-paura-stand-up-di-annalisa-aglioti",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "21:00",
+   "title": "Pazza, con Vanessa Gravina",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Dramma giudiziario di Tom Topor: una donna accusata di omicidio rischia di essere dichiarata incapace. Con Vanessa Gravina e Nicola Rignanese. Da 25 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/pazza/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e261",
+   "key": "2026-11-26-pazza-con-vanessa-gravina",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-26",
    "time": "21:00",
    "title": "Raffy Bushman trio: New Life + Cecilia Barra",
    "venue": "Arci Biko (via Ettore Ponti 40)",
@@ -1550,90 +1827,35 @@
    "zona": "Navigli · Tortona · S. Ambrogio"
   },
   {
-   "date": "2026-11-27",
+   "date": "2026-11-26",
    "time": "",
-   "title": "E tu, come lo sai? Capire la scienza per decidere insieme",
-   "venue": "Museo Scienza e Tecnologia",
-   "cat": "scienza",
-   "desc": "Con Amalia Ercoli Finzi e Paola Dubini. BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
-   "url": "https://www.mentelocale.it/milano/146478-bookcity-milano-2026-iniziative-e-incontri-al-museo-nazionale-scienza-e-tecnologia.htm",
-   "free": true,
-   "tags": [
-    "bookcity"
-   ],
-   "verify": true,
-   "id": "e086",
-   "key": "2026-11-27-e-tu-come-lo-sai-capire-la-scienza-per-decidere-",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    45.4628,
-    9.1707
-   ],
-   "zona": "Navigli · Tortona · S. Ambrogio"
-  },
-  {
-   "date": "2026-11-27",
-   "time": "",
-   "title": "Oltre la punizione: riparare, riannodare, rigenerare",
-   "venue": "Fondazione Feltrinelli",
-   "cat": "filosofia",
-   "desc": "Adolfo Ceretti sulla giustizia riparativa. BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
-   "url": "https://fondazionefeltrinelli.it/en/participate/",
-   "free": true,
-   "tags": [
-    "bookcity"
-   ],
-   "verify": true,
-   "id": "e087",
-   "key": "2026-11-27-oltre-la-punizione-riparare-riannodare-rigenerar",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    45.4825,
-    9.184
-   ],
-   "zona": "Brera · Garibaldi · Isola"
-  },
-  {
-   "date": "2026-11-27",
-   "time": "",
-   "title": "Scrivere per resistere: Premio PEN Inge Feltrinelli",
-   "venue": "Fondazione Feltrinelli",
-   "cat": "geo",
-   "desc": "Con Burhan Sönmez e Paola Caridi. BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
-   "url": "https://fondazionefeltrinelli.it/en/participate/",
-   "free": true,
-   "tags": [
-    "bookcity"
-   ],
-   "verify": true,
-   "id": "e088",
-   "key": "2026-11-27-scrivere-per-resistere-premio-pen-inge-feltrinel",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    45.4825,
-    9.184
-   ],
-   "zona": "Brera · Garibaldi · Isola"
-  },
-  {
-   "date": "2026-11-27",
-   "time": "",
-   "title": "The Legendary Johnny O'Neal Trio",
-   "venue": "Blue Note (via Borsieri 37)",
-   "cat": "jazz",
-   "desc": "Il veterano del piano jazz americano in trio.",
-   "url": "https://bluenotemilano.com/show/the-legendary-johnny-o-neal-trio-27-novembre-2026-milano/",
+   "title": "A flauto e cembalo (Milano Arte Musica)",
+   "venue": "Sala Capitolare del Bergognone",
+   "cat": "classica",
+   "desc": "Marco Scorticati e Davide Pozzi in un programma barocco per flauto e clavicembalo.",
+   "url": "https://www.mentelocale.it/milano/146894-flauto-cembalo.htm",
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e089",
-   "key": "2026-11-27-the-legendary-johnny-o-neal-trio",
+   "id": "e065",
+   "key": "2026-11-26-a-flauto-e-cembalo-milano-arte-musica",
+   "moods": [
+    "emozionarmi"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "time": "",
+   "title": "Luca Barbarossa",
+   "venue": "Blue Note (via Borsieri 37)",
+   "cat": "jazz",
+   "desc": "Il cantautore romano in concerto in formato club.",
+   "url": "https://bluenotemilano.com/show/concerto-luca-barbarossa-26-novembre-2026-milano/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "e066",
+   "key": "2026-11-26-luca-barbarossa",
    "moods": [
     "emozionarmi"
    ],
@@ -1832,6 +2054,73 @@
   },
   {
    "date": "2026-11-27",
+   "time": "19:00",
+   "title": "Paura, stand-up di Annalisa Aglioti",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Stand-up comedy sulle paure che ci complicano la vita, regia di Michela Andreozzi, con pianoforte dal vivo. 25 €, under 30 18 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/paura/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e262",
+   "key": "2026-11-27-paura-stand-up-di-annalisa-aglioti",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "19:15",
+   "title": "Lu Santo Jullàre Françesco di Dario Fo",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Matthias Martelli porta in scena il San Francesco giullare di Dario Fo e Franca Rame, per i 100 anni dalla nascita di Fo. Da 20 €, under 30 da 16 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/lu-santo-jullare-francesco/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e263",
+   "key": "2026-11-27-lu-santo-jullare-francesco-di-dario-fo",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "19:45",
+   "title": "Pazza, con Vanessa Gravina",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Dramma giudiziario di Tom Topor: una donna accusata di omicidio rischia di essere dichiarata incapace. Con Vanessa Gravina e Nicola Rignanese. Da 25 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/pazza/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e264",
+   "key": "2026-11-27-pazza-con-vanessa-gravina",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-27",
    "time": "20:00",
    "title": "Beethoven Triplo concerto / Musorgskij Quadri",
    "venue": "Auditorium di Milano (largo Mahler)",
@@ -1873,6 +2162,28 @@
     9.1937
    ],
    "zona": "Fuori centro"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "20:15",
+   "title": "Cost of living",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Premio Pulitzer di Martyna Majok, regia di Raphael Tobia Vogel, con Sara Bertelà e Pietro Micci: due coppie, disabilità e cura, chi aiuta chi. Da 28 €, under 30 20 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/cost-of-living/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e265",
+   "key": "2026-11-27-cost-of-living",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-11-27",
@@ -2069,6 +2380,934 @@
    "verify": false,
    "id": "e085",
    "key": "2026-11-27-toni-zeno-gentle-t-zeboh-brattini",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4448,
+    9.156
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "",
+   "title": "E tu, come lo sai? Capire la scienza per decidere insieme",
+   "venue": "Museo Scienza e Tecnologia",
+   "cat": "scienza",
+   "desc": "Con Amalia Ercoli Finzi e Paola Dubini. BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
+   "url": "https://www.mentelocale.it/milano/146478-bookcity-milano-2026-iniziative-e-incontri-al-museo-nazionale-scienza-e-tecnologia.htm",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": true,
+   "id": "e086",
+   "key": "2026-11-27-e-tu-come-lo-sai-capire-la-scienza-per-decidere-",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4628,
+    9.1707
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "",
+   "title": "Oltre la punizione: riparare, riannodare, rigenerare",
+   "venue": "Fondazione Feltrinelli",
+   "cat": "filosofia",
+   "desc": "Adolfo Ceretti sulla giustizia riparativa. BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
+   "url": "https://fondazionefeltrinelli.it/en/participate/",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": true,
+   "id": "e087",
+   "key": "2026-11-27-oltre-la-punizione-riparare-riannodare-rigenerar",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4825,
+    9.184
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "",
+   "title": "Scrivere per resistere: Premio PEN Inge Feltrinelli",
+   "venue": "Fondazione Feltrinelli",
+   "cat": "geo",
+   "desc": "Con Burhan Sönmez e Paola Caridi. BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
+   "url": "https://fondazionefeltrinelli.it/en/participate/",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": true,
+   "id": "e088",
+   "key": "2026-11-27-scrivere-per-resistere-premio-pen-inge-feltrinel",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4825,
+    9.184
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "",
+   "title": "The Legendary Johnny O'Neal Trio",
+   "venue": "Blue Note (via Borsieri 37)",
+   "cat": "jazz",
+   "desc": "Il veterano del piano jazz americano in trio.",
+   "url": "https://bluenotemilano.com/show/the-legendary-johnny-o-neal-trio-27-novembre-2026-milano/",
+   "free": null,
+   "tags": [],
+   "verify": true,
+   "id": "e089",
+   "key": "2026-11-27-the-legendary-johnny-o-neal-trio",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4877,
+    9.1878
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "09:30",
+   "title": "80 anni dopo: l'astensionismo elettorale e come contrastarlo",
+   "venue": "Casa della Cultura (via Borgogna 3)",
+   "cat": "geo",
+   "desc": "Mattinata di studio sul calo della partecipazione al voto, organizzata con ANPI, Istituto Parri e Istituto Cervi.",
+   "url": "https://www.casadellacultura.it",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "e090",
+   "key": "2026-11-28-80-anni-dopo-l-astensionismo-elettorale-e-come-c",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4655,
+    9.199
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "10:00",
+   "title": "Masterclass con Laura Citarella",
+   "venue": "Auditorium San Fedele",
+   "cat": "cinema",
+   "desc": "La regista argentina di El Pampero Cine racconta il suo modo di fare cinema.",
+   "url": "https://www.sanfedele.net/progetti/laura-citarella/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "e091",
+   "key": "2026-11-28-masterclass-con-laura-citarella",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.467,
+    9.1915
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "10:30",
+   "title": "È andata così: lezione di cinema",
+   "venue": "Anteo Palazzo del Cinema",
+   "cat": "cinema",
+   "desc": "Gianni Zanasi con Michele Riondino e Valentina Lodovini raccontano il film.",
+   "url": "https://www.spaziocinema.info/milano/eventi-e-rassegne/e-andata-cosi-lezione-di-cinema-con-il-regista-gianni-zanasi-michele-riondino-e-valentina-lodovini",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "e092",
+   "key": "2026-11-28-e-andata-cosi-lezione-di-cinema",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.481,
+    9.187
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "11:00",
+   "title": "Aldo Cazzullo, Il nostro rinascimento",
+   "venue": "Piccolo Teatro Strehler",
+   "cat": "storia",
+   "desc": "BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
+   "url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+   "free": true,
+   "tags": [
+    "bookcity",
+    "imperdibile"
+   ],
+   "verify": false,
+   "id": "e093",
+   "key": "2026-11-28-aldo-cazzullo-il-nostro-rinascimento",
+   "why": "La storia d'Italia raccontata come un romanzo.",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4723,
+    9.1824
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "11:00",
+   "title": "Beppe Severgnini: L'arte di sopravvivere poeticamente",
+   "venue": "Teatro Franco Parenti, Sala APA Blu (via Pier Lombardo 14)",
+   "cat": "talk",
+   "desc": "Partendo da una magnolia e da un nanetto da giardino, una dozzina di consigli per portare la poesia nella vita di tutti i giorni, con i versi di cinquanta poeti italiani del Novecento. BookCity: ingresso libero fino a esaurimento posti.",
+   "url": "https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442",
+   "free": true,
+   "tags": [
+    "bookcity",
+    "imperdibile"
+   ],
+   "verify": false,
+   "id": "e352",
+   "why": "Un'ora di sabato mattina per uscire con una manciata di poesie in tasca, gratis.",
+   "key": "2026-11-28-beppe-severgnini-l-arte-di-sopravvivere-poeticam",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "11:00",
+   "title": "Codice Girard: Giulio Milani, Paolo Bianchi e Alessandro Gnocchi",
+   "venue": "Teatro Franco Parenti, Biblioteca (via Pier Lombardo 14)",
+   "cat": "filosofia",
+   "desc": "Il pensiero di René Girard per leggere polarizzazioni, guerra e intelligenza artificiale. BookCity: ingresso libero fino a esaurimento posti.",
+   "url": "https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e353",
+   "key": "2026-11-28-codice-girard-giulio-milani-paolo-bianchi-e-ales",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "11:30",
+   "title": "Laura Pepe, Storia non convenzionale delle donne di Grecia",
+   "venue": "Fondazione Luigi Rovati",
+   "cat": "storia",
+   "desc": "BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
+   "url": "https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntamenti/bookcity-milano-2026-4/",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e094",
+   "key": "2026-11-28-laura-pepe-storia-non-convenzionale-delle-donne-",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4746,
+    9.2033
+   ],
+   "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "11:30",
+   "title": "Saba che danza la speranza: Saba Poori con Federico Taddia",
+   "venue": "Teatro Franco Parenti, Café Rouge (via Pier Lombardo 14)",
+   "cat": "talk",
+   "desc": "La storia vera di una ragazza iraniana che ha fatto della danza un atto di resistenza. BookCity: ingresso libero fino a esaurimento posti.",
+   "url": "https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e354",
+   "key": "2026-11-28-saba-che-danza-la-speranza-saba-poori-con-federi",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "12:30",
+   "title": "Matteo Bussola: Il sole nelle pozzanghere",
+   "venue": "Teatro Franco Parenti, Sala APA Blu (via Pier Lombardo 14)",
+   "cat": "talk",
+   "desc": "Il nuovo romanzo su un uomo che sa ascoltare la voce degli oggetti e il nostro bisogno di legami. BookCity: ingresso libero fino a esaurimento posti.",
+   "url": "https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e355",
+   "key": "2026-11-28-matteo-bussola-il-sole-nelle-pozzanghere",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "15:00",
+   "title": "Alberto Pellai: Ti farò correre in salita",
+   "venue": "Teatro Franco Parenti, Sala APA Blu (via Pier Lombardo 14)",
+   "cat": "salute",
+   "desc": "Lo psicoterapeuta contro l'iperprotezione: perché la fatica rende i ragazzi più liberi. BookCity: ingresso libero fino a esaurimento posti.",
+   "url": "https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e356",
+   "key": "2026-11-28-alberto-pellai-ti-faro-correre-in-salita",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "15:00",
+   "title": "Alessandro Perissinotto: Il gioco del gatto",
+   "venue": "Teatro Franco Parenti, Café Rouge (via Pier Lombardo 14)",
+   "cat": "talk",
+   "desc": "Un nuovo legal thriller con l'avvocato Meroni, in dialogo con Piero d'Ettorre. BookCity: ingresso libero fino a esaurimento posti.",
+   "url": "https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e357",
+   "key": "2026-11-28-alessandro-perissinotto-il-gioco-del-gatto",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "15:00",
+   "title": "Dario Biagi, vita di Cagnaccio di San Pietro",
+   "venue": "Fondazione Luigi Rovati",
+   "cat": "storia",
+   "desc": "",
+   "url": "https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntamenti/bookcity-milano-2026-5/",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e095",
+   "key": "2026-11-28-dario-biagi-vita-di-cagnaccio-di-san-pietro",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4746,
+    9.2033
+   ],
+   "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "16:30",
+   "title": "Circoluna, circo-teatro d'ombre (2-5 anni)",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "famiglie",
+   "desc": "Teatro Gioco Vita: l'unico circo fatto di ombre, per bambini dai 2 ai 5 anni. 15 €, bambini 12 €, famiglia 36 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/circoluna/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e266",
+   "key": "2026-11-28-circoluna-circo-teatro-d-ombre-2-5-anni",
+   "moods": [
+    "bambini"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "16:30",
+   "title": "Marco Malvaldi e Samantha Bruzzone: La scala di seta",
+   "venue": "Teatro Franco Parenti, Café Rouge (via Pier Lombardo 14)",
+   "cat": "talk",
+   "desc": "Giallo a quattro mani e pieno di umorismo, con Massimo Cirri di Caterpillar. BookCity: ingresso libero fino a esaurimento posti.",
+   "url": "https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e358",
+   "key": "2026-11-28-marco-malvaldi-e-samantha-bruzzone-la-scala-di-s",
+   "moods": [
+    "pensare",
+    "ridere"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "16:30",
+   "title": "Nun komm der Heiden Heiland: Bach e Lotti in San Satiro",
+   "venue": "Basilica di Santa Maria presso San Satiro (via Torino 17/19)",
+   "cat": "classica",
+   "desc": "Concerto spirituale d'Avvento (rassegna Parola e musica in Avvento) del Coro Glass Armonico diretto da Anita Dordoni, Matteo Galli all'organo. Ingresso libero fino a esaurimento posti.",
+   "url": "https://www.mi-lorenteggio.com/2026/11/11/concerto-nun-komm-der-heiden-heiland-in-santa-maria-presso-san-satiro/",
+   "free": true,
+   "tags": [
+    "chiese"
+   ],
+   "verify": false,
+   "id": "e239",
+   "key": "2026-11-28-nun-komm-der-heiden-heiland-bach-e-lotti-in-san-",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.4628,
+    9.1873
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "17:00",
+   "title": "Ermanno Cavazzoni, Sarò breve",
+   "venue": "Ambrosius, Oratorio della Passione",
+   "cat": "talk",
+   "desc": "Lezione su come si scrive un racconto. BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
+   "url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e096",
+   "key": "2026-11-28-ermanno-cavazzoni-saro-breve",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.462,
+    9.1755
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "17:00",
+   "title": "Roberto Escobar: Mare. Una metafora che vive",
+   "venue": "Teatro Franco Parenti, Biblioteca (via Pier Lombardo 14)",
+   "cat": "filosofia",
+   "desc": "Il mare tra letteratura, filosofia e ricordi personali. BookCity: ingresso libero fino a esaurimento posti.",
+   "url": "https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e359",
+   "key": "2026-11-28-roberto-escobar-mare-una-metafora-che-vive",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "18:00",
+   "title": "Andrea Vitali: Parola di perpetua",
+   "venue": "Teatro Franco Parenti, Café Rouge (via Pier Lombardo 14)",
+   "cat": "talk",
+   "desc": "Il maresciallo Maccadò alle prese con una storia nerissima tra la Svizzera e Bellano. BookCity: ingresso libero fino a esaurimento posti.",
+   "url": "https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e360",
+   "key": "2026-11-28-andrea-vitali-parola-di-perpetua",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "18:00",
+   "title": "Fernando Aramburu presenta Maite",
+   "venue": "Castello Sforzesco, Sala Viscontea",
+   "cat": "talk",
+   "desc": "BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
+   "url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e097",
+   "key": "2026-11-28-fernando-aramburu-presenta-maite",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4705,
+    9.1795
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "18:00",
+   "title": "Filosofia dell'amicizia",
+   "venue": "Fondazione Feltrinelli, Sala Lettura",
+   "cat": "filosofia",
+   "desc": "BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
+   "url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e098",
+   "key": "2026-11-28-filosofia-dell-amicizia",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4825,
+    9.184
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "18:00",
+   "title": "Inaugurazione anno accademico del Conservatorio",
+   "venue": "Conservatorio, Sala Verdi",
+   "cat": "classica",
+   "desc": "Concerto orchestrale.",
+   "url": "https://www.consmi.it/en/events/page/5/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "e099",
+   "key": "2026-11-28-inaugurazione-anno-accademico-del-conservatorio",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4655,
+    9.201
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "18:00",
+   "title": "La Scala dei libri: A dirci le cose chiare, Don Giovanni",
+   "venue": "Teatro alla Scala",
+   "cat": "talk",
+   "desc": "BookCity. BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
+   "url": "https://www.teatroallascala.org/it/calendario.html",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e100",
+   "key": "2026-11-28-la-scala-dei-libri-a-dirci-le-cose-chiare-don-gi",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4674,
+    9.1895
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "19:00",
+   "title": "Paura, stand-up di Annalisa Aglioti",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Stand-up comedy sulle paure che ci complicano la vita, regia di Michela Andreozzi, con pianoforte dal vivo. 25 €, under 30 18 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/paura/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e267",
+   "key": "2026-11-28-paura-stand-up-di-annalisa-aglioti",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "19:15",
+   "title": "Lu Santo Jullàre Françesco di Dario Fo",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Matthias Martelli porta in scena il San Francesco giullare di Dario Fo e Franca Rame, per i 100 anni dalla nascita di Fo. Da 20 €, under 30 da 16 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/lu-santo-jullare-francesco/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e268",
+   "key": "2026-11-28-lu-santo-jullare-francesco-di-dario-fo",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "19:30",
+   "title": "Cost of living",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Premio Pulitzer di Martyna Majok, regia di Raphael Tobia Vogel, con Sara Bertelà e Pietro Micci: due coppie, disabilità e cura, chi aiuta chi. Da 28 €, under 30 20 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/cost-of-living/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e269",
+   "key": "2026-11-28-cost-of-living",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "19:30",
+   "title": "Di madre in figlia",
+   "venue": "Piccolo Teatro Grassi",
+   "cat": "teatro",
+   "desc": "Concita De Gregorio in scena con tre generazioni di donne; regia di Gaia Saitta. Prima assoluta.",
+   "url": "https://www.piccoloteatro.org/it/2026-2027/di-madre-in-figlia",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "e101",
+   "key": "2026-11-28-di-madre-in-figlia",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4664,
+    9.1846
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "19:30",
+   "title": "Io sono verticale",
+   "venue": "Teatro Elfo Puccini, Sala Bausch",
+   "cat": "teatro",
+   "desc": "Francesca Astrei racconta la depressione da dentro e da chi sta accanto.",
+   "url": "https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "e102",
+   "key": "2026-11-28-io-sono-verticale",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.479,
+    9.2105
+   ],
+   "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "19:30",
+   "title": "L'amante di Harold Pinter",
+   "venue": "Teatro Fontana (via Boltraffio 21)",
+   "cat": "teatro",
+   "desc": "Pinter sul desiderio e la ferocia della coppia: Giorgio Marchesi e Simonetta Solder, coppia anche nella vita. Regia di Veronica Cruciani.",
+   "url": "https://www.mentelocale.it/milano/120246-l-amante.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e103",
+   "key": "2026-11-28-l-amante-di-harold-pinter",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4896,
+    9.1887
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "19:30",
+   "title": "Una delle ultime sere di carnovale",
+   "venue": "Piccolo Teatro Strehler",
+   "cat": "teatro",
+   "desc": "Goldoni diretto da Valerio Binasco: il congedo del commediografo da Venezia.",
+   "url": "https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-carnovale",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "e104",
+   "key": "2026-11-28-una-delle-ultime-sere-di-carnovale",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4723,
+    9.1824
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "19:45",
+   "title": "Pazza, con Vanessa Gravina",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Dramma giudiziario di Tom Topor: una donna accusata di omicidio rischia di essere dichiarata incapace. Con Vanessa Gravina e Nicola Rignanese. Da 25 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/pazza/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e270",
+   "key": "2026-11-28-pazza-con-vanessa-gravina",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "20:00",
+   "title": "Bravissime",
+   "venue": "Teatro della Cooperativa (via Hermada 8)",
+   "cat": "teatro",
+   "desc": "Atir porta in scena le bambine schiacciate dall'imperativo della perfezione: dove finisce la disciplina e inizia l'abuso?",
+   "url": "https://www.mentelocale.it/milano/137381-bravissime.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e105",
+   "key": "2026-11-28-bravissime",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.5162,
+    9.1937
+   ],
+   "zona": "Fuori centro"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "20:30",
+   "title": "La caccia al tesoro",
+   "venue": "Teatro Filodrammatici",
+   "cat": "teatro",
+   "desc": "Commedia satirica di Bruno Fornasari: dei fratelli scoprono che la badante della madre è stata adottata ed è ora erede. Intero €25, ridotti da €9.",
+   "url": "https://www.mentelocale.it/milano/129404-la-caccia-al-tesoro-la-commedia-la-satirica-di-bruno-fornasari-al-teatro-filodrammatici-di-milano.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e106",
+   "key": "2026-11-28-la-caccia-al-tesoro",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.4677,
+    9.188
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "20:30",
+   "title": "La rivolta",
+   "venue": "Teatro Leonardo (via Ampère 1)",
+   "cat": "teatro",
+   "desc": "Scritto e diretto da Corrado d'Elia.",
+   "url": "https://www.mentelocale.it/milano/139866-rivolta.htm",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "e107",
+   "key": "2026-11-28-la-rivolta",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.48,
+    9.228
+   ],
+   "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "20:30",
+   "title": "Stai zitta!",
+   "venue": "Teatro Carcano",
+   "cat": "teatro",
+   "desc": "Dal libro di Michela Murgia, con Antonella Questa, Valentina Melis, Letizia Bravi.",
+   "url": "https://www.mentelocale.it/milano/129771-stai-zitta.htm",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "e108",
+   "key": "2026-11-28-stai-zitta",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4547,
+    9.1966
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "20:30",
+   "title": "XX variazioni a tre",
+   "venue": "Teatro Litta (corso Magenta 24)",
+   "cat": "teatro",
+   "desc": "Danza: tre interpreti in uno spazio chiuso esplorano i ruoli di madre, sorella e figlia. Coreografia e regia di Susanna Baccari.",
+   "url": "https://www.mentelocale.it/milano/132095-xx-variazioni-a-tre.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e109",
+   "key": "2026-11-28-xx-variazioni-a-tre",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4652,
+    9.1772
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "21:30",
+   "title": "Materazi Future Club: The Italian Job",
+   "venue": "Arci Biko (via Ettore Ponti 40)",
+   "cat": "jazz",
+   "desc": "Post-punk ed elettronica, presentazione live del nuovo album. 14,30 €. Ingresso con tessera ARCI.",
+   "url": "https://www.bikoclub.net/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e110",
+   "key": "2026-11-28-materazi-future-club-the-italian-job",
    "moods": [
     "emozionarmi"
    ],
@@ -2290,554 +3529,6 @@
    "zona": "Centro"
   },
   {
-   "date": "2026-11-28",
-   "time": "09:30",
-   "title": "80 anni dopo: l'astensionismo elettorale e come contrastarlo",
-   "venue": "Casa della Cultura (via Borgogna 3)",
-   "cat": "geo",
-   "desc": "Mattinata di studio sul calo della partecipazione al voto, organizzata con ANPI, Istituto Parri e Istituto Cervi.",
-   "url": "https://www.casadellacultura.it",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e090",
-   "key": "2026-11-28-80-anni-dopo-l-astensionismo-elettorale-e-come-c",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    45.4655,
-    9.199
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "10:00",
-   "title": "Masterclass con Laura Citarella",
-   "venue": "Auditorium San Fedele",
-   "cat": "cinema",
-   "desc": "La regista argentina di El Pampero Cine racconta il suo modo di fare cinema.",
-   "url": "https://www.sanfedele.net/progetti/laura-citarella/",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e091",
-   "key": "2026-11-28-masterclass-con-laura-citarella",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.467,
-    9.1915
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "10:30",
-   "title": "È andata così: lezione di cinema",
-   "venue": "Anteo Palazzo del Cinema",
-   "cat": "cinema",
-   "desc": "Gianni Zanasi con Michele Riondino e Valentina Lodovini raccontano il film.",
-   "url": "https://www.spaziocinema.info/milano/eventi-e-rassegne/e-andata-cosi-lezione-di-cinema-con-il-regista-gianni-zanasi-michele-riondino-e-valentina-lodovini",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e092",
-   "key": "2026-11-28-e-andata-cosi-lezione-di-cinema",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.481,
-    9.187
-   ],
-   "zona": "Brera · Garibaldi · Isola"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "11:00",
-   "title": "Aldo Cazzullo, Il nostro rinascimento",
-   "venue": "Piccolo Teatro Strehler",
-   "cat": "storia",
-   "desc": "BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
-   "url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
-   "free": true,
-   "tags": [
-    "bookcity",
-    "imperdibile"
-   ],
-   "verify": false,
-   "id": "e093",
-   "key": "2026-11-28-aldo-cazzullo-il-nostro-rinascimento",
-   "why": "La storia d'Italia raccontata come un romanzo.",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    45.4723,
-    9.1824
-   ],
-   "zona": "Brera · Garibaldi · Isola"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "11:30",
-   "title": "Laura Pepe, Storia non convenzionale delle donne di Grecia",
-   "venue": "Fondazione Luigi Rovati",
-   "cat": "storia",
-   "desc": "BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
-   "url": "https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntamenti/bookcity-milano-2026-4/",
-   "free": true,
-   "tags": [
-    "bookcity"
-   ],
-   "verify": false,
-   "id": "e094",
-   "key": "2026-11-28-laura-pepe-storia-non-convenzionale-delle-donne-",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    45.4746,
-    9.2033
-   ],
-   "zona": "Porta Venezia · Città Studi"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "15:00",
-   "title": "Dario Biagi, vita di Cagnaccio di San Pietro",
-   "venue": "Fondazione Luigi Rovati",
-   "cat": "storia",
-   "desc": "",
-   "url": "https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntamenti/bookcity-milano-2026-5/",
-   "free": true,
-   "tags": [
-    "bookcity"
-   ],
-   "verify": false,
-   "id": "e095",
-   "key": "2026-11-28-dario-biagi-vita-di-cagnaccio-di-san-pietro",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    45.4746,
-    9.2033
-   ],
-   "zona": "Porta Venezia · Città Studi"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "16:30",
-   "title": "Nun komm der Heiden Heiland: Bach e Lotti in San Satiro",
-   "venue": "Basilica di Santa Maria presso San Satiro (via Torino 17/19)",
-   "cat": "classica",
-   "desc": "Concerto spirituale d'Avvento (rassegna Parola e musica in Avvento) del Coro Glass Armonico diretto da Anita Dordoni, Matteo Galli all'organo. Ingresso libero fino a esaurimento posti.",
-   "url": "https://www.mi-lorenteggio.com/2026/11/11/concerto-nun-komm-der-heiden-heiland-in-santa-maria-presso-san-satiro/",
-   "free": true,
-   "tags": [
-    "chiese"
-   ],
-   "verify": false,
-   "id": "e239",
-   "key": "2026-11-28-nun-komm-der-heiden-heiland-bach-e-lotti-in-san-",
-   "moods": [
-    "emozionarmi",
-    "ridere"
-   ],
-   "geo": [
-    45.4628,
-    9.1873
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "17:00",
-   "title": "Ermanno Cavazzoni, Sarò breve",
-   "venue": "Ambrosius, Oratorio della Passione",
-   "cat": "talk",
-   "desc": "Lezione su come si scrive un racconto. BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
-   "url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
-   "free": true,
-   "tags": [
-    "bookcity"
-   ],
-   "verify": false,
-   "id": "e096",
-   "key": "2026-11-28-ermanno-cavazzoni-saro-breve",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    45.462,
-    9.1755
-   ],
-   "zona": "Navigli · Tortona · S. Ambrogio"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "18:00",
-   "title": "Fernando Aramburu presenta Maite",
-   "venue": "Castello Sforzesco, Sala Viscontea",
-   "cat": "talk",
-   "desc": "BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
-   "url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
-   "free": true,
-   "tags": [
-    "bookcity"
-   ],
-   "verify": false,
-   "id": "e097",
-   "key": "2026-11-28-fernando-aramburu-presenta-maite",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    45.4705,
-    9.1795
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "18:00",
-   "title": "Filosofia dell'amicizia",
-   "venue": "Fondazione Feltrinelli, Sala Lettura",
-   "cat": "filosofia",
-   "desc": "BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
-   "url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
-   "free": true,
-   "tags": [
-    "bookcity"
-   ],
-   "verify": false,
-   "id": "e098",
-   "key": "2026-11-28-filosofia-dell-amicizia",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    45.4825,
-    9.184
-   ],
-   "zona": "Brera · Garibaldi · Isola"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "18:00",
-   "title": "Inaugurazione anno accademico del Conservatorio",
-   "venue": "Conservatorio, Sala Verdi",
-   "cat": "classica",
-   "desc": "Concerto orchestrale.",
-   "url": "https://www.consmi.it/en/events/page/5/",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e099",
-   "key": "2026-11-28-inaugurazione-anno-accademico-del-conservatorio",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.4655,
-    9.201
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "18:00",
-   "title": "La Scala dei libri: A dirci le cose chiare, Don Giovanni",
-   "venue": "Teatro alla Scala",
-   "cat": "talk",
-   "desc": "BookCity. BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
-   "url": "https://www.teatroallascala.org/it/calendario.html",
-   "free": true,
-   "tags": [
-    "bookcity"
-   ],
-   "verify": false,
-   "id": "e100",
-   "key": "2026-11-28-la-scala-dei-libri-a-dirci-le-cose-chiare-don-gi",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    45.4674,
-    9.1895
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "19:30",
-   "title": "Di madre in figlia",
-   "venue": "Piccolo Teatro Grassi",
-   "cat": "teatro",
-   "desc": "Concita De Gregorio in scena con tre generazioni di donne; regia di Gaia Saitta. Prima assoluta.",
-   "url": "https://www.piccoloteatro.org/it/2026-2027/di-madre-in-figlia",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e101",
-   "key": "2026-11-28-di-madre-in-figlia",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.4664,
-    9.1846
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "19:30",
-   "title": "Io sono verticale",
-   "venue": "Teatro Elfo Puccini, Sala Bausch",
-   "cat": "teatro",
-   "desc": "Francesca Astrei racconta la depressione da dentro e da chi sta accanto.",
-   "url": "https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e102",
-   "key": "2026-11-28-io-sono-verticale",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.479,
-    9.2105
-   ],
-   "zona": "Porta Venezia · Città Studi"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "19:30",
-   "title": "L'amante di Harold Pinter",
-   "venue": "Teatro Fontana (via Boltraffio 21)",
-   "cat": "teatro",
-   "desc": "Pinter sul desiderio e la ferocia della coppia: Giorgio Marchesi e Simonetta Solder, coppia anche nella vita. Regia di Veronica Cruciani.",
-   "url": "https://www.mentelocale.it/milano/120246-l-amante.htm",
-   "free": false,
-   "tags": [],
-   "verify": false,
-   "id": "e103",
-   "key": "2026-11-28-l-amante-di-harold-pinter",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.4896,
-    9.1887
-   ],
-   "zona": "Brera · Garibaldi · Isola"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "19:30",
-   "title": "Una delle ultime sere di carnovale",
-   "venue": "Piccolo Teatro Strehler",
-   "cat": "teatro",
-   "desc": "Goldoni diretto da Valerio Binasco: il congedo del commediografo da Venezia.",
-   "url": "https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-carnovale",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e104",
-   "key": "2026-11-28-una-delle-ultime-sere-di-carnovale",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.4723,
-    9.1824
-   ],
-   "zona": "Brera · Garibaldi · Isola"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "20:00",
-   "title": "Bravissime",
-   "venue": "Teatro della Cooperativa (via Hermada 8)",
-   "cat": "teatro",
-   "desc": "Atir porta in scena le bambine schiacciate dall'imperativo della perfezione: dove finisce la disciplina e inizia l'abuso?",
-   "url": "https://www.mentelocale.it/milano/137381-bravissime.htm",
-   "free": false,
-   "tags": [],
-   "verify": false,
-   "id": "e105",
-   "key": "2026-11-28-bravissime",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.5162,
-    9.1937
-   ],
-   "zona": "Fuori centro"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "20:30",
-   "title": "La caccia al tesoro",
-   "venue": "Teatro Filodrammatici",
-   "cat": "teatro",
-   "desc": "Commedia satirica di Bruno Fornasari: dei fratelli scoprono che la badante della madre è stata adottata ed è ora erede. Intero €25, ridotti da €9.",
-   "url": "https://www.mentelocale.it/milano/129404-la-caccia-al-tesoro-la-commedia-la-satirica-di-bruno-fornasari-al-teatro-filodrammatici-di-milano.htm",
-   "free": false,
-   "tags": [],
-   "verify": false,
-   "id": "e106",
-   "key": "2026-11-28-la-caccia-al-tesoro",
-   "moods": [
-    "emozionarmi",
-    "ridere"
-   ],
-   "geo": [
-    45.4677,
-    9.188
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "20:30",
-   "title": "La rivolta",
-   "venue": "Teatro Leonardo (via Ampère 1)",
-   "cat": "teatro",
-   "desc": "Scritto e diretto da Corrado d'Elia.",
-   "url": "https://www.mentelocale.it/milano/139866-rivolta.htm",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e107",
-   "key": "2026-11-28-la-rivolta",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.48,
-    9.228
-   ],
-   "zona": "Porta Venezia · Città Studi"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "20:30",
-   "title": "Stai zitta!",
-   "venue": "Teatro Carcano",
-   "cat": "teatro",
-   "desc": "Dal libro di Michela Murgia, con Antonella Questa, Valentina Melis, Letizia Bravi.",
-   "url": "https://www.mentelocale.it/milano/129771-stai-zitta.htm",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e108",
-   "key": "2026-11-28-stai-zitta",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.4547,
-    9.1966
-   ],
-   "zona": "Porta Romana · Vittoria"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "20:30",
-   "title": "XX variazioni a tre",
-   "venue": "Teatro Litta (corso Magenta 24)",
-   "cat": "teatro",
-   "desc": "Danza: tre interpreti in uno spazio chiuso esplorano i ruoli di madre, sorella e figlia. Coreografia e regia di Susanna Baccari.",
-   "url": "https://www.mentelocale.it/milano/132095-xx-variazioni-a-tre.htm",
-   "free": false,
-   "tags": [],
-   "verify": false,
-   "id": "e109",
-   "key": "2026-11-28-xx-variazioni-a-tre",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.4652,
-    9.1772
-   ],
-   "zona": "Navigli · Tortona · S. Ambrogio"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "21:30",
-   "title": "Materazi Future Club: The Italian Job",
-   "venue": "Arci Biko (via Ettore Ponti 40)",
-   "cat": "jazz",
-   "desc": "Post-punk ed elettronica, presentazione live del nuovo album. 14,30 €. Ingresso con tessera ARCI.",
-   "url": "https://www.bikoclub.net/",
-   "free": false,
-   "tags": [],
-   "verify": false,
-   "id": "e110",
-   "key": "2026-11-28-materazi-future-club-the-italian-job",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.4448,
-    9.156
-   ],
-   "zona": "Navigli · Tortona · S. Ambrogio"
-  },
-  {
-   "date": "2026-11-29",
-   "time": "",
-   "title": "Gli elfi di Babbo Natale",
-   "venue": "Teatro Carcano",
-   "cat": "famiglie",
-   "desc": "Spettacolo natalizio per bambini della rassegna Fantateatro.",
-   "url": "https://www.teatrocarcano.com/eventi/2026-2027/gli-elfi-di-babbo-natale-2627.htm",
-   "free": null,
-   "tags": [],
-   "verify": true,
-   "id": "e142",
-   "key": "2026-11-29-gli-elfi-di-babbo-natale",
-   "moods": [
-    "bambini"
-   ],
-   "geo": [
-    45.4547,
-    9.1966
-   ],
-   "zona": "Porta Romana · Vittoria"
-  },
-  {
-   "date": "2026-11-29",
-   "time": "",
-   "title": "Tom's Family – Back in Town!",
-   "venue": "Blue Note (via Borsieri 37)",
-   "cat": "jazz",
-   "desc": "Ritorno sul palco di via Borsieri per la band Tom's Family.",
-   "url": "https://bluenotemilano.com/show/concerto-toms-family-29-novembre-2026-milano/",
-   "free": false,
-   "tags": [],
-   "verify": true,
-   "id": "e143",
-   "key": "2026-11-29-tom-s-family-back-in-town",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.4877,
-    9.1878
-   ],
-   "zona": "Brera · Garibaldi · Isola"
-  },
-  {
    "date": "2026-11-29",
    "time": "11:00",
    "title": "BookCity 0-6",
@@ -2886,6 +3577,30 @@
     9.187
    ],
    "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "11:00",
+   "title": "Sicilia: storie di donne. Santina Cosetta e Milena Palminteri",
+   "venue": "Teatro Franco Parenti, Sala APA Blu (via Pier Lombardo 14)",
+   "cat": "talk",
+   "desc": "Due scrittrici siciliane raccontano donne in cerca della propria strada, con Eleonora Molisani. BookCity: ingresso libero fino a esaurimento posti.",
+   "url": "https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e361",
+   "key": "2026-11-29-sicilia-storie-di-donne-santina-cosetta-e-milena",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-11-29",
@@ -2984,6 +3699,102 @@
   },
   {
    "date": "2026-11-29",
+   "time": "12:30",
+   "title": "Lorenzo Marone: Stile napoletano",
+   "venue": "Teatro Franco Parenti, Sala APA Blu (via Pier Lombardo 14)",
+   "cat": "talk",
+   "desc": "Una saga familiare dentro una sartoria napoletana. BookCity: ingresso libero fino a esaurimento posti.",
+   "url": "https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e363",
+   "key": "2026-11-29-lorenzo-marone-stile-napoletano",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "12:30",
+   "title": "Massimo Gramellini: Beato il popolo che ha bisogno di eroi",
+   "venue": "Teatro Franco Parenti, Sala Grande (via Pier Lombardo 14)",
+   "cat": "talk",
+   "desc": "Cinquantadue storie di eroi imperfetti, dall'infanzia alla vecchiaia. BookCity: ingresso libero fino a esaurimento posti.",
+   "url": "https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e362",
+   "key": "2026-11-29-massimo-gramellini-beato-il-popolo-che-ha-bisogn",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "14:00",
+   "title": "Sull'Astolfo e sulla Luna: lettura teatrale",
+   "venue": "Teatro Franco Parenti, Biblioteca (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Carlo Arrigoni e Mattia Cattaneo leggono l'Orlando Furioso di Calvino e pagine sulla Luna di Dante, Leopardi e Volponi. BookCity: ingresso libero fino a esaurimento posti.",
+   "url": "https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e364",
+   "key": "2026-11-29-sull-astolfo-e-sulla-luna-lettura-teatrale",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "15:00",
+   "title": "Bruno Morchio: Un velo sul cuore",
+   "venue": "Teatro Franco Parenti, Café Rouge (via Pier Lombardo 14)",
+   "cat": "talk",
+   "desc": "Il detective Bacci Pagano torna nei carruggi di Genova. BookCity: ingresso libero fino a esaurimento posti.",
+   "url": "https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e365",
+   "key": "2026-11-29-bruno-morchio-un-velo-sul-cuore",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-29",
    "time": "15:15",
    "title": "Ciak, si gira con lo smartphone! (laboratorio 8-16 anni)",
    "venue": "STEP FuturAbility District (piazza Adriano Olivetti 1)",
@@ -3026,6 +3837,50 @@
     9.2105
    ],
    "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "15:45",
+   "title": "Lu Santo Jullàre Françesco di Dario Fo",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Matthias Martelli porta in scena il San Francesco giullare di Dario Fo e Franca Rame, per i 100 anni dalla nascita di Fo. Da 20 €, under 30 da 16 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/lu-santo-jullare-francesco/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e272",
+   "key": "2026-11-29-lu-santo-jullare-francesco-di-dario-fo",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "15:45",
+   "title": "Pazza, con Vanessa Gravina",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Dramma giudiziario di Tom Topor: una donna accusata di omicidio rischia di essere dichiarata incapace. Con Vanessa Gravina e Nicola Rignanese. Da 25 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/pazza/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e271",
+   "key": "2026-11-29-pazza-con-vanessa-gravina",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-11-29",
@@ -3165,6 +4020,52 @@
   {
    "date": "2026-11-29",
    "time": "16:30",
+   "title": "Circoluna, circo-teatro d'ombre (2-5 anni)",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "famiglie",
+   "desc": "Teatro Gioco Vita: l'unico circo fatto di ombre, per bambini dai 2 ai 5 anni. 15 €, bambini 12 €, famiglia 36 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/circoluna/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e274",
+   "key": "2026-11-29-circoluna-circo-teatro-d-ombre-2-5-anni",
+   "moods": [
+    "bambini"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "16:30",
+   "title": "Diego De Silva: Malinconico blues",
+   "venue": "Teatro Franco Parenti, Café Rouge (via Pier Lombardo 14)",
+   "cat": "talk",
+   "desc": "Il nuovo romanzo con l'avvocato Vincenzo Malinconico. BookCity: ingresso libero fino a esaurimento posti.",
+   "url": "https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e366",
+   "key": "2026-11-29-diego-de-silva-malinconico-blues",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "16:30",
    "title": "La rivolta",
    "venue": "Teatro Leonardo (via Ampère 1)",
    "cat": "teatro",
@@ -3183,6 +4084,29 @@
     9.228
    ],
    "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "16:30",
+   "title": "Paura, stand-up di Annalisa Aglioti",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Stand-up comedy sulle paure che ci complicano la vita, regia di Michela Andreozzi, con pianoforte dal vivo. 25 €, under 30 18 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/paura/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e273",
+   "key": "2026-11-29-paura-stand-up-di-annalisa-aglioti",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-11-29",
@@ -3274,6 +4198,54 @@
   },
   {
    "date": "2026-11-29",
+   "time": "18:00",
+   "title": "Gherardo Colombo e Gianluca Marchesini: Adolescenza, guida per genitori",
+   "venue": "Teatro Franco Parenti, Biblioteca (via Pier Lombardo 14)",
+   "cat": "salute",
+   "desc": "Come distinguere la normale crisi di crescita dal disagio dei ragazzi. BookCity: ingresso libero fino a esaurimento posti.",
+   "url": "https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e368",
+   "key": "2026-11-29-gherardo-colombo-e-gianluca-marchesini-adolescen",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "18:00",
+   "title": "Paolo Di Paolo: Tremare",
+   "venue": "Teatro Franco Parenti, Café Rouge (via Pier Lombardo 14)",
+   "cat": "talk",
+   "desc": "Il nuovo romanzo su giovinezza, desiderio e fallimento. BookCity: ingresso libero fino a esaurimento posti.",
+   "url": "https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e367",
+   "key": "2026-11-29-paolo-di-paolo-tremare",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-29",
    "time": "20:00",
    "title": "Chiusura BookCity: Samantha Harvey e Paolo Giordano",
    "venue": "Teatro Franco Parenti, Sala Grande",
@@ -3343,26 +4315,48 @@
    "zona": "Navigli · Tortona · S. Ambrogio"
   },
   {
-   "date": "2026-11-30",
+   "date": "2026-11-29",
    "time": "",
-   "title": "Curae 2026: Non ti pago (apertura)",
-   "venue": "Teatro Puntozero Beccaria (via Calchi Taeggi 20)",
-   "cat": "teatro",
-   "desc": "Si apre il festival delle arti performative nate negli istituti penali minorili: Eduardo recitato dai ragazzi dell'IPM di Catanzaro.",
-   "url": "https://www.mentelocale.it/milano/147779-curae-2026-a-milano-il-festival-di-arti-performative-sviluppate-negli-istituti-penali-per-i-minorenni.htm",
+   "title": "Gli elfi di Babbo Natale",
+   "venue": "Teatro Carcano",
+   "cat": "famiglie",
+   "desc": "Spettacolo natalizio per bambini della rassegna Fantateatro.",
+   "url": "https://www.teatrocarcano.com/eventi/2026-2027/gli-elfi-di-babbo-natale-2627.htm",
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e155",
-   "key": "2026-11-30-curae-2026-non-ti-pago-apertura",
+   "id": "e142",
+   "key": "2026-11-29-gli-elfi-di-babbo-natale",
+   "moods": [
+    "bambini"
+   ],
+   "geo": [
+    45.4547,
+    9.1966
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "",
+   "title": "Tom's Family – Back in Town!",
+   "venue": "Blue Note (via Borsieri 37)",
+   "cat": "jazz",
+   "desc": "Ritorno sul palco di via Borsieri per la band Tom's Family.",
+   "url": "https://bluenotemilano.com/show/concerto-toms-family-29-novembre-2026-milano/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "e143",
+   "key": "2026-11-29-tom-s-family-back-in-town",
    "moods": [
     "emozionarmi"
    ],
    "geo": [
-    45.4512,
-    9.103
+    45.4877,
+    9.1878
    ],
-   "zona": "Fuori centro"
+   "zona": "Brera · Garibaldi · Isola"
   },
   {
    "date": "2026-11-30",
@@ -3430,6 +4424,28 @@
     9.187
    ],
    "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "tags": [],
+   "verify": false,
+   "date": "2026-11-30",
+   "time": "19:00",
+   "title": "Lettera#1: Giulia Colussi ed Elena Re, una casa veneziana diventata spazio d'arte",
+   "cat": "storia",
+   "desc": "Arte, parole e la musica di Mauro Sambo per raccontare un progetto artistico indipendente. Biglietto cortesia 5 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/storia-di-una-casa-veneziana-divenuta-spazio-darte-e-dialogo-fp/",
+   "free": false,
+   "id": "e369",
+   "key": "2026-11-30-lettera-1-giulia-colussi-ed-elena-re-una-casa-ve",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-11-30",
@@ -3516,6 +4532,28 @@
    "geo": [
     45.4547,
     9.1966
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "tags": [],
+   "verify": false,
+   "date": "2026-11-30",
+   "time": "20:30",
+   "title": "Nedo, un italiano: il film di Ruggero Gabbai su Nedo Fiano",
+   "cat": "cinema",
+   "desc": "Documentario con Marcello Pezzetti, saluti di Andrée Ruth Shammah ed Emanuele Fiano. Gratis con prenotazione obbligatoria.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/nedo-un-italiano/",
+   "free": true,
+   "id": "e370",
+   "key": "2026-11-30-nedo-un-italiano-il-film-di-ruggero-gabbai-su-ne",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
    ],
    "zona": "Porta Romana · Vittoria"
   },
@@ -3611,68 +4649,24 @@
    "zona": "Brera · Garibaldi · Isola"
   },
   {
-   "date": "2026-12-01",
+   "date": "2026-11-30",
    "time": "",
-   "title": "Curae 2026: AI Will Shakespeare",
+   "title": "Curae 2026: Non ti pago (apertura)",
    "venue": "Teatro Puntozero Beccaria (via Calchi Taeggi 20)",
-   "cat": "scienza",
-   "desc": "La Compagnia Puntozero presenta il primo studio di un lavoro che incrocia Shakespeare e intelligenza artificiale.",
+   "cat": "teatro",
+   "desc": "Si apre il festival delle arti performative nate negli istituti penali minorili: Eduardo recitato dai ragazzi dell'IPM di Catanzaro.",
    "url": "https://www.mentelocale.it/milano/147779-curae-2026-a-milano-il-festival-di-arti-performative-sviluppate-negli-istituti-penali-per-i-minorenni.htm",
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e167",
-   "key": "2026-12-01-curae-2026-ai-will-shakespeare",
+   "id": "e155",
+   "key": "2026-11-30-curae-2026-non-ti-pago-apertura",
    "moods": [
-    "pensare"
+    "emozionarmi"
    ],
    "geo": [
     45.4512,
     9.103
-   ],
-   "zona": "Fuori centro"
-  },
-  {
-   "date": "2026-12-01",
-   "time": "",
-   "title": "Don Milani. La parola che nutre",
-   "venue": "Teatro Franco Parenti",
-   "cat": "teatro",
-   "desc": "Spettacolo dedicato al priore di Barbiana e alla sua idea di scuola come riscatto; in scena fino al 12 dicembre.",
-   "url": "https://teatrofrancoparenti.it/calendario-spettacoli/",
-   "free": false,
-   "tags": [],
-   "verify": true,
-   "id": "e168",
-   "key": "2026-12-01-don-milani-la-parola-che-nutre",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.453,
-    9.208
-   ],
-   "zona": "Porta Romana · Vittoria"
-  },
-  {
-   "date": "2026-12-01",
-   "time": "",
-   "title": "Spose del vento",
-   "venue": "Pacta Salone (via Ulisse Dini 7)",
-   "cat": "teatro",
-   "desc": "Elisa Baio e Giuseppe Guerrieri in scena.",
-   "url": "https://www.mentelocale.it/milano/139807-spose-vento.htm",
-   "free": null,
-   "tags": [],
-   "verify": true,
-   "id": "e169",
-   "key": "2026-12-01-spose-del-vento",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.429,
-    9.194
    ],
    "zona": "Fuori centro"
   },
@@ -3835,6 +4829,74 @@
   },
   {
    "date": "2026-12-01",
+   "time": "20:00",
+   "title": "Le belle notti di Gianni Clementi",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Commedia corale con diciassette giovani attori, regia di Claudio Boccaccini. Da 20,50 €, under 30 da 15 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/le-belle-notti/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e275",
+   "key": "2026-12-01-le-belle-notti-di-gianni-clementi",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-01",
+   "time": "20:15",
+   "title": "Bullet Catch",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Un illusionista deve afferrare un proiettile con i denti, con l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond, con Alex Cendron. 25 €, under 30 18 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/bullet-catch/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e276",
+   "key": "2026-12-01-bullet-catch",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-01",
+   "time": "20:30",
+   "title": "Don Milani. La parola che nutre",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Reading teatrale di e con Fausto Cabra sugli scritti di Don Milani, con le musiche dal vivo di Mimosa Campironi. Da 15 €, under 30 da 12 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/don-milani/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e277",
+   "key": "2026-12-01-don-milani-la-parola-che-nutre",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-01",
    "time": "20:30",
    "title": "Ettore Pagano e Maximilian Kromer",
    "venue": "Conservatorio, Sala Verdi",
@@ -3922,24 +4984,46 @@
    "zona": "Brera · Garibaldi · Isola"
   },
   {
-   "date": "2026-12-02",
+   "date": "2026-12-01",
    "time": "",
-   "title": "Curae 2026: Portami là fuori",
+   "title": "Curae 2026: AI Will Shakespeare",
    "venue": "Teatro Puntozero Beccaria (via Calchi Taeggi 20)",
-   "cat": "teatro",
-   "desc": "Teatro e musica con giovani degli IPM di Acireale, Airola e Quartucciu.",
+   "cat": "scienza",
+   "desc": "La Compagnia Puntozero presenta il primo studio di un lavoro che incrocia Shakespeare e intelligenza artificiale.",
    "url": "https://www.mentelocale.it/milano/147779-curae-2026-a-milano-il-festival-di-arti-performative-sviluppate-negli-istituti-penali-per-i-minorenni.htm",
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e179",
-   "key": "2026-12-02-curae-2026-portami-la-fuori",
+   "id": "e167",
+   "key": "2026-12-01-curae-2026-ai-will-shakespeare",
    "moods": [
-    "emozionarmi"
+    "pensare"
    ],
    "geo": [
     45.4512,
     9.103
+   ],
+   "zona": "Fuori centro"
+  },
+  {
+   "date": "2026-12-01",
+   "time": "",
+   "title": "Spose del vento",
+   "venue": "Pacta Salone (via Ulisse Dini 7)",
+   "cat": "teatro",
+   "desc": "Elisa Baio e Giuseppe Guerrieri in scena.",
+   "url": "https://www.mentelocale.it/milano/139807-spose-vento.htm",
+   "free": null,
+   "tags": [],
+   "verify": true,
+   "id": "e169",
+   "key": "2026-12-01-spose-del-vento",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.429,
+    9.194
    ],
    "zona": "Fuori centro"
   },
@@ -4033,6 +5117,96 @@
     9.187
    ],
    "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "19:15",
+   "title": "Don Milani. La parola che nutre",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Reading teatrale di e con Fausto Cabra sugli scritti di Don Milani, con le musiche dal vivo di Mimosa Campironi. Da 15 €, under 30 da 12 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/don-milani/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e278",
+   "key": "2026-12-02-don-milani-la-parola-che-nutre",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "19:45",
+   "title": "Le belle notti di Gianni Clementi",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Commedia corale con diciassette giovani attori, regia di Claudio Boccaccini. Da 20,50 €, under 30 da 15 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/le-belle-notti/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e279",
+   "key": "2026-12-02-le-belle-notti-di-gianni-clementi",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "20:15",
+   "title": "Bullet Catch",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Un illusionista deve afferrare un proiettile con i denti, con l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond, con Alex Cendron. 25 €, under 30 18 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/bullet-catch/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e280",
+   "key": "2026-12-02-bullet-catch",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "20:30",
+   "title": "Chi come me",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Adolescenti in un centro di salute mentale ritrovano se stessi grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah, nella nuova Sala A2A.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/chi-come-me/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e281",
+   "key": "2026-12-02-chi-come-me",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-12-02",
@@ -4148,26 +5322,26 @@
    "zona": "Brera · Garibaldi · Isola"
   },
   {
-   "date": "2026-12-03",
+   "date": "2026-12-02",
    "time": "",
-   "title": "Giuseppe: il padre putativo",
-   "venue": "Teatro Elfo Puccini, Sala Bausch",
+   "title": "Curae 2026: Portami là fuori",
+   "venue": "Teatro Puntozero Beccaria (via Calchi Taeggi 20)",
    "cat": "teatro",
-   "desc": "Michele Di Giacomo porta in scena il testo di Luca Cardetta su san Giuseppe, padre che non è padre. Repliche fino al 6 dicembre.",
-   "url": "https://www.elfo.org",
-   "free": false,
+   "desc": "Teatro e musica con giovani degli IPM di Acireale, Airola e Quartucciu.",
+   "url": "https://www.mentelocale.it/milano/147779-curae-2026-a-milano-il-festival-di-arti-performative-sviluppate-negli-istituti-penali-per-i-minorenni.htm",
+   "free": null,
    "tags": [],
    "verify": true,
-   "id": "e185",
-   "key": "2026-12-03-giuseppe-il-padre-putativo",
+   "id": "e179",
+   "key": "2026-12-02-curae-2026-portami-la-fuori",
    "moods": [
     "emozionarmi"
    ],
    "geo": [
-    45.479,
-    9.2105
+    45.4512,
+    9.103
    ],
-   "zona": "Porta Venezia · Città Studi"
+   "zona": "Fuori centro"
   },
   {
    "date": "2026-12-03",
@@ -4236,6 +5410,28 @@
    "zona": "Brera · Garibaldi · Isola"
   },
   {
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "tags": [],
+   "verify": false,
+   "date": "2026-12-03",
+   "time": "18:00",
+   "title": "Paolo Ruffini presenta Sono io",
+   "cat": "talk",
+   "desc": "Il romanzo su un ragazzo cresciuto sotto gli occhi dei follower che scappa dai social. Gratis, prenotazione consigliata.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/incontro-con-paolo-ruffini-fp/",
+   "free": true,
+   "id": "e371",
+   "key": "2026-12-03-paolo-ruffini-presenta-sono-io",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
    "date": "2026-12-03",
    "time": "18:30",
    "title": "Data center: la casa dell'AI anche in Italia?",
@@ -4256,6 +5452,73 @@
     9.1835
    ],
    "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "19:45",
+   "title": "Chi come me",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Adolescenti in un centro di salute mentale ritrovano se stessi grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah, nella nuova Sala A2A.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/chi-come-me/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e282",
+   "key": "2026-12-03-chi-come-me",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "20:15",
+   "title": "Don Milani. La parola che nutre",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Reading teatrale di e con Fausto Cabra sugli scritti di Don Milani, con le musiche dal vivo di Mimosa Campironi. Da 15 €, under 30 da 12 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/don-milani/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e283",
+   "key": "2026-12-03-don-milani-la-parola-che-nutre",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "20:30",
+   "title": "Bullet Catch",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Un illusionista deve afferrare un proiettile con i denti, con l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond, con Alex Cendron. 25 €, under 30 18 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/bullet-catch/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e284",
+   "key": "2026-12-03-bullet-catch",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-12-03",
@@ -4283,6 +5546,51 @@
    "zona": "Navigli · Tortona · S. Ambrogio"
   },
   {
+   "date": "2026-12-03",
+   "time": "21:00",
+   "title": "Le belle notti di Gianni Clementi",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Commedia corale con diciassette giovani attori, regia di Claudio Boccaccini. Da 20,50 €, under 30 da 15 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/le-belle-notti/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e285",
+   "key": "2026-12-03-le-belle-notti-di-gianni-clementi",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "",
+   "title": "Giuseppe: il padre putativo",
+   "venue": "Teatro Elfo Puccini, Sala Bausch",
+   "cat": "teatro",
+   "desc": "Michele Di Giacomo porta in scena il testo di Luca Cardetta su san Giuseppe, padre che non è padre. Repliche fino al 6 dicembre.",
+   "url": "https://www.elfo.org",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "e185",
+   "key": "2026-12-03-giuseppe-il-padre-putativo",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.479,
+    9.2105
+   ],
+   "zona": "Porta Venezia · Città Studi"
+  },
+  {
    "date": "2026-12-04",
    "time": "18:00",
    "title": "Otello: anteprima Under 30",
@@ -4308,6 +5616,51 @@
   },
   {
    "date": "2026-12-04",
+   "time": "19:00",
+   "title": "Bullet Catch",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Un illusionista deve afferrare un proiettile con i denti, con l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond, con Alex Cendron. 25 €, under 30 18 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/bullet-catch/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e286",
+   "key": "2026-12-04-bullet-catch",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "19:15",
+   "title": "Don Milani. La parola che nutre",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Reading teatrale di e con Fausto Cabra sugli scritti di Don Milani, con le musiche dal vivo di Mimosa Campironi. Da 15 €, under 30 da 12 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/don-milani/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e287",
+   "key": "2026-12-04-don-milani-la-parola-che-nutre",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-04",
    "time": "19:30",
    "title": "Lady Day (Billie Holiday)",
    "venue": "Teatro Carcano",
@@ -4325,6 +5678,29 @@
    "geo": [
     45.4547,
     9.1966
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "19:45",
+   "title": "Le belle notti di Gianni Clementi",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Commedia corale con diciassette giovani attori, regia di Claudio Boccaccini. Da 20,50 €, under 30 da 15 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/le-belle-notti/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e288",
+   "key": "2026-12-04-le-belle-notti-di-gianni-clementi",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.453,
+    9.208
    ],
    "zona": "Porta Romana · Vittoria"
   },
@@ -4351,6 +5727,28 @@
     9.1708
    ],
    "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "20:15",
+   "title": "Chi come me",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Adolescenti in un centro di salute mentale ritrovano se stessi grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah, nella nuova Sala A2A.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/chi-come-me/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e289",
+   "key": "2026-12-04-chi-come-me",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-12-04",
@@ -4398,6 +5796,28 @@
   },
   {
    "date": "2026-12-05",
+   "time": "15:45",
+   "title": "Chi come me",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Adolescenti in un centro di salute mentale ritrovano se stessi grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah, nella nuova Sala A2A. Replica anche alle 19:30.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/chi-come-me/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e290",
+   "key": "2026-12-05-chi-come-me",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-05",
    "time": "16:30",
    "title": "Concerto spirituale d'Avvento in San Satiro",
    "venue": "Basilica di Santa Maria presso San Satiro (via Torino 17/19)",
@@ -4420,6 +5840,51 @@
     9.1873
    ],
    "zona": "Centro"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "19:00",
+   "title": "Bullet Catch",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Un illusionista deve afferrare un proiettile con i denti, con l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond, con Alex Cendron. 25 €, under 30 18 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/bullet-catch/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e291",
+   "key": "2026-12-05-bullet-catch",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "19:15",
+   "title": "Don Milani. La parola che nutre",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Reading teatrale di e con Fausto Cabra sugli scritti di Don Milani, con le musiche dal vivo di Mimosa Campironi. Da 15 €, under 30 da 12 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/don-milani/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e292",
+   "key": "2026-12-05-don-milani-la-parola-che-nutre",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-12-05",
@@ -4467,6 +5932,51 @@
   },
   {
    "date": "2026-12-06",
+   "time": "15:45",
+   "title": "Don Milani. La parola che nutre",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Reading teatrale di e con Fausto Cabra sugli scritti di Don Milani, con le musiche dal vivo di Mimosa Campironi. Da 15 €, under 30 da 12 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/don-milani/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e293",
+   "key": "2026-12-06-don-milani-la-parola-che-nutre",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-06",
+   "time": "16:30",
+   "title": "Bullet Catch",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Un illusionista deve afferrare un proiettile con i denti, con l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond, con Alex Cendron. 25 €, under 30 18 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/bullet-catch/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e294",
+   "key": "2026-12-06-bullet-catch",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-06",
    "time": "16:30",
    "title": "Lady Day (Billie Holiday)",
    "venue": "Teatro Carcano",
@@ -4484,6 +5994,51 @@
    "geo": [
     45.4547,
     9.1966
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-06",
+   "time": "17:00",
+   "title": "Chi come me",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Adolescenti in un centro di salute mentale ritrovano se stessi grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah, nella nuova Sala A2A.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/chi-come-me/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e295",
+   "key": "2026-12-06-chi-come-me",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-07",
+   "time": "16:30",
+   "title": "Controvento, bolle di sapone e clownerie (da 3 anni)",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "famiglie",
+   "desc": "Michele Cafaggi senza parole tra vento, nuvole e bolle di sapone giganti. Per bambini da 3 anni.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/controvento/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e296",
+   "key": "2026-12-07-controvento-bolle-di-sapone-e-clownerie-da-3-ann",
+   "moods": [
+    "bambini",
+    "ridere"
+   ],
+   "geo": [
+    45.453,
+    9.208
    ],
    "zona": "Porta Romana · Vittoria"
   },
@@ -4508,6 +6063,163 @@
     9.1895
    ],
    "zona": "Centro"
+  },
+  {
+   "date": "2026-12-08",
+   "time": "16:30",
+   "title": "Controvento, bolle di sapone e clownerie (da 3 anni)",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "famiglie",
+   "desc": "Michele Cafaggi senza parole tra vento, nuvole e bolle di sapone giganti. Per bambini da 3 anni.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/controvento/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e297",
+   "key": "2026-12-08-controvento-bolle-di-sapone-e-clownerie-da-3-ann",
+   "moods": [
+    "bambini",
+    "ridere"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-08",
+   "time": "18:00",
+   "title": "Chi come me",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Adolescenti in un centro di salute mentale ritrovano se stessi grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah, nella nuova Sala A2A.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/chi-come-me/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e298",
+   "key": "2026-12-08-chi-come-me",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-08",
+   "time": "18:30",
+   "title": "Bullet Catch",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Un illusionista deve afferrare un proiettile con i denti, con l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond, con Alex Cendron. 25 €, under 30 18 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/bullet-catch/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e299",
+   "key": "2026-12-08-bullet-catch",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-08",
+   "time": "19:00",
+   "title": "Don Milani. La parola che nutre",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Reading teatrale di e con Fausto Cabra sugli scritti di Don Milani, con le musiche dal vivo di Mimosa Campironi. Da 15 €, under 30 da 12 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/don-milani/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e300",
+   "key": "2026-12-08-don-milani-la-parola-che-nutre",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "19:15",
+   "title": "Don Milani. La parola che nutre",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Reading teatrale di e con Fausto Cabra sugli scritti di Don Milani, con le musiche dal vivo di Mimosa Campironi. Da 15 €, under 30 da 12 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/don-milani/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e301",
+   "key": "2026-12-09-don-milani-la-parola-che-nutre",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "19:45",
+   "title": "Tutti gli uomini che non sono, con Paolo Calabresi",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Paolo Calabresi racconta le sue imprese da impostore, da finto Nicolas Cage a San Siro in poi, con Carolina Di Domenico. Da 25 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/tutti-gli-uomini-che-non-sono/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e302",
+   "key": "2026-12-09-tutti-gli-uomini-che-non-sono-con-paolo-calabres",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "20:15",
+   "title": "Bullet Catch",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Un illusionista deve afferrare un proiettile con i denti, con l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond, con Alex Cendron. 25 €, under 30 18 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/bullet-catch/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e303",
+   "key": "2026-12-09-bullet-catch",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-12-09",
@@ -4556,6 +6268,28 @@
   {
    "date": "2026-12-09",
    "time": "20:30",
+   "title": "Chi come me",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Adolescenti in un centro di salute mentale ritrovano se stessi grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah, nella nuova Sala A2A.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/chi-come-me/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e304",
+   "key": "2026-12-09-chi-come-me",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "20:30",
    "title": "Stefano Rapone Allo Sbagliato",
    "venue": "Allo Sbagliato · Teatro Principe (viale Bligny 52)",
    "cat": "teatro",
@@ -4599,6 +6333,28 @@
    "zona": "Navigli · Tortona · S. Ambrogio"
   },
   {
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "tags": [],
+   "verify": false,
+   "date": "2026-12-10",
+   "time": "18:30",
+   "title": "Mannheimer e Pasquino: cosa pensano gli italiani del mondo",
+   "cat": "geo",
+   "desc": "Il libro sulle percezioni degli italiani in politica internazionale, con Maurizio Molinari. Biglietto cortesia 5 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/incontro-con-renato-mannheimer-e-pasquale-pasquino-fp/",
+   "free": false,
+   "id": "e372",
+   "key": "2026-12-10-mannheimer-e-pasquino-cosa-pensano-gli-italiani-",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
    "date": "2026-12-10",
    "time": "19:30",
    "title": "Il viale del tramonto",
@@ -4617,6 +6373,28 @@
    "geo": [
     45.4547,
     9.1966
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-10",
+   "time": "19:45",
+   "title": "Chi come me",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Adolescenti in un centro di salute mentale ritrovano se stessi grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah, nella nuova Sala A2A.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/chi-come-me/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e305",
+   "key": "2026-12-10-chi-come-me",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
    ],
    "zona": "Porta Romana · Vittoria"
   },
@@ -4641,6 +6419,51 @@
     9.1937
    ],
    "zona": "Fuori centro"
+  },
+  {
+   "date": "2026-12-10",
+   "time": "20:15",
+   "title": "Don Milani. La parola che nutre",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Reading teatrale di e con Fausto Cabra sugli scritti di Don Milani, con le musiche dal vivo di Mimosa Campironi. Da 15 €, under 30 da 12 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/don-milani/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e306",
+   "key": "2026-12-10-don-milani-la-parola-che-nutre",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-10",
+   "time": "20:30",
+   "title": "Bullet Catch",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Un illusionista deve afferrare un proiettile con i denti, con l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond, con Alex Cendron. 25 €, under 30 18 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/bullet-catch/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e307",
+   "key": "2026-12-10-bullet-catch",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-12-10",
@@ -4709,6 +6532,95 @@
    "zona": "Navigli · Tortona · S. Ambrogio"
   },
   {
+   "date": "2026-12-10",
+   "time": "21:00",
+   "title": "Tutti gli uomini che non sono, con Paolo Calabresi",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Paolo Calabresi racconta le sue imprese da impostore, da finto Nicolas Cage a San Siro in poi, con Carolina Di Domenico. Da 25 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/tutti-gli-uomini-che-non-sono/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e308",
+   "key": "2026-12-10-tutti-gli-uomini-che-non-sono-con-paolo-calabres",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "tags": [],
+   "verify": false,
+   "date": "2026-12-11",
+   "time": "18:30",
+   "title": "Lidia Bramani: Don Giovanni, Mozart massone e illuminista",
+   "cat": "classica",
+   "desc": "Il capolavoro di Mozart riletto dentro le idee del suo tempo, con Paolo Besana e Vittorio Lingiardi. Biglietto cortesia 5 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/incontro-con-lidia-bramani-fp/",
+   "free": false,
+   "id": "e373",
+   "key": "2026-12-11-lidia-bramani-don-giovanni-mozart-massone-e-illu",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-11",
+   "time": "19:00",
+   "title": "Bullet Catch",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Un illusionista deve afferrare un proiettile con i denti, con l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond, con Alex Cendron. 25 €, under 30 18 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/bullet-catch/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e309",
+   "key": "2026-12-11-bullet-catch",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-11",
+   "time": "19:15",
+   "title": "Don Milani. La parola che nutre",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Reading teatrale di e con Fausto Cabra sugli scritti di Don Milani, con le musiche dal vivo di Mimosa Campironi. Da 15 €, under 30 da 12 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/don-milani/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e310",
+   "key": "2026-12-11-don-milani-la-parola-che-nutre",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
    "date": "2026-12-11",
    "time": "19:30",
    "title": "Il viale del tramonto",
@@ -4727,6 +6639,28 @@
    "geo": [
     45.4547,
     9.1966
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-11",
+   "time": "19:45",
+   "title": "Tutti gli uomini che non sono, con Paolo Calabresi",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Paolo Calabresi racconta le sue imprese da impostore, da finto Nicolas Cage a San Siro in poi, con Carolina Di Domenico. Da 25 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/tutti-gli-uomini-che-non-sono/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e311",
+   "key": "2026-12-11-tutti-gli-uomini-che-non-sono-con-paolo-calabres",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
    ],
    "zona": "Porta Romana · Vittoria"
   },
@@ -4775,6 +6709,28 @@
     9.1934
    ],
    "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-12-11",
+   "time": "20:15",
+   "title": "Chi come me",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Adolescenti in un centro di salute mentale ritrovano se stessi grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah, nella nuova Sala A2A.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/chi-come-me/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e312",
+   "key": "2026-12-11-chi-come-me",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-12-11",
@@ -4867,6 +6823,28 @@
   },
   {
    "date": "2026-12-12",
+   "time": "15:45",
+   "title": "Chi come me",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Adolescenti in un centro di salute mentale ritrovano se stessi grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah, nella nuova Sala A2A. Replica anche alle 19:30.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/chi-come-me/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e313",
+   "key": "2026-12-12-chi-come-me",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-12",
    "time": "16:30",
    "title": "Concerto spirituale d'Avvento in San Satiro",
    "venue": "Basilica di Santa Maria presso San Satiro (via Torino 17/19)",
@@ -4889,6 +6867,95 @@
     9.1873
    ],
    "zona": "Centro"
+  },
+  {
+   "date": "2026-12-12",
+   "time": "16:30",
+   "title": "Hanà e Momò (3-8 anni)",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "famiglie",
+   "desc": "Due bambine, un cerchio di sabbia e tanti giochi: da una storia di Hesse, la rivalità che diventa amicizia.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/hana-e-momo/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e314",
+   "key": "2026-12-12-hana-e-momo-3-8-anni",
+   "moods": [
+    "bambini"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-12",
+   "time": "19:00",
+   "title": "Bullet Catch",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Un illusionista deve afferrare un proiettile con i denti, con l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond, con Alex Cendron. 25 €, under 30 18 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/bullet-catch/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e315",
+   "key": "2026-12-12-bullet-catch",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-12",
+   "time": "19:15",
+   "title": "Don Milani. La parola che nutre",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Reading teatrale di e con Fausto Cabra sugli scritti di Don Milani, con le musiche dal vivo di Mimosa Campironi. Da 15 €, under 30 da 12 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/don-milani/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e316",
+   "key": "2026-12-12-don-milani-la-parola-che-nutre",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-12",
+   "time": "19:45",
+   "title": "Tutti gli uomini che non sono, con Paolo Calabresi",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Paolo Calabresi racconta le sue imprese da impostore, da finto Nicolas Cage a San Siro in poi, con Carolina Di Domenico. Da 25 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/tutti-gli-uomini-che-non-sono/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e317",
+   "key": "2026-12-12-tutti-gli-uomini-che-non-sono-con-paolo-calabres",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-12-12",
@@ -5091,6 +7158,72 @@
   },
   {
    "date": "2026-12-13",
+   "time": "16:15",
+   "title": "Tutti gli uomini che non sono, con Paolo Calabresi",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Paolo Calabresi racconta le sue imprese da impostore, da finto Nicolas Cage a San Siro in poi, con Carolina Di Domenico. Da 25 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/tutti-gli-uomini-che-non-sono/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e318",
+   "key": "2026-12-13-tutti-gli-uomini-che-non-sono-con-paolo-calabres",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-13",
+   "time": "16:30",
+   "title": "Bullet Catch",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Un illusionista deve afferrare un proiettile con i denti, con l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond, con Alex Cendron. 25 €, under 30 18 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/bullet-catch/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e319",
+   "key": "2026-12-13-bullet-catch",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-13",
+   "time": "16:30",
+   "title": "Hanà e Momò (3-8 anni)",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "famiglie",
+   "desc": "Due bambine, un cerchio di sabbia e tanti giochi: da una storia di Hesse, la rivalità che diventa amicizia.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/hana-e-momo/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e320",
+   "key": "2026-12-13-hana-e-momo-3-8-anni",
+   "moods": [
+    "bambini"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-13",
    "time": "16:30",
    "title": "Il viale del tramonto",
    "venue": "Teatro Carcano",
@@ -5134,6 +7267,94 @@
    "zona": "Fuori centro"
   },
   {
+   "date": "2026-12-13",
+   "time": "17:00",
+   "title": "Chi come me",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Adolescenti in un centro di salute mentale ritrovano se stessi grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah, nella nuova Sala A2A.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/chi-come-me/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e321",
+   "key": "2026-12-13-chi-come-me",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "tags": [],
+   "verify": false,
+   "date": "2026-12-14",
+   "time": "18:30",
+   "title": "Il tempo dell'appartenenza: Lotta Continua con Lidia Ravera, Marino Sinibaldi e Guido Viale",
+   "cat": "storia",
+   "desc": "A cinquant'anni dallo scioglimento, una generazione racconta cosa voleva dire sentirsi parte di qualcosa. Gratis, prenotazione consigliata.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/il-tempo-dellappartenenza-fp/",
+   "free": true,
+   "id": "e374",
+   "key": "2026-12-14-il-tempo-dell-appartenenza-lotta-continua-con-li",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-14",
+   "time": "20:00",
+   "title": "Odysseia: I suoni di Ulisse (Teatro Patologico)",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Ultimo capitolo della trilogia di Dario D'Ambrosi con la compagnia di attori disabili del Teatro Patologico. Da 15 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/trilogia-di-dario-dambrosi/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e322",
+   "key": "2026-12-14-odysseia-i-suoni-di-ulisse-teatro-patologico",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-15",
+   "time": "19:30",
+   "title": "Chi come me",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Adolescenti in un centro di salute mentale ritrovano se stessi grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah, nella nuova Sala A2A.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/chi-come-me/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e323",
+   "key": "2026-12-15-chi-come-me",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
    "date": "2026-12-15",
    "time": "20:00",
    "title": "Don Chisciotte senza Mancia",
@@ -5154,6 +7375,96 @@
     9.1937
    ],
    "zona": "Fuori centro"
+  },
+  {
+   "date": "2026-12-15",
+   "time": "20:00",
+   "title": "La Reginetta di Leenane, con Ambra Angiolini e Ivana Monti",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Il testo feroce di Martin McDonagh su una madre e una figlia, regia di Raphael Tobia Vogel. Da 25 €, under 30 da 18 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/la-reginetta-di-leenane-con-ambra-angiolini-e-ivana-monti/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e324",
+   "key": "2026-12-15-la-reginetta-di-leenane-con-ambra-angiolini-e-iv",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-15",
+   "time": "20:15",
+   "title": "Bullet Catch",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Un illusionista deve afferrare un proiettile con i denti, con l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond, con Alex Cendron. 25 €, under 30 18 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/bullet-catch/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e325",
+   "key": "2026-12-15-bullet-catch",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-15",
+   "time": "20:30",
+   "title": "Luca Ravenna Allo Sbagliato",
+   "venue": "Allo Sbagliato · Teatro Principe (viale Bligny 52)",
+   "cat": "teatro",
+   "desc": "Stand-up tra attualità e racconto personale, nel club off-line senza telefoni.",
+   "url": "https://www.mentelocale.it/milano/141485-luca-ravenna.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e246",
+   "key": "2026-12-15-luca-ravenna-allo-sbagliato",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.4521,
+    9.1965
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-15",
+   "time": "20:30",
+   "title": "Maria Cassi e Leonardo Brizzi: Recital, 40 anni di teatro comico musicale",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Lo storico duo comico-musicale fiorentino festeggia quarant'anni di palcoscenici. Da 15 €, under 30 da 12 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/recital-i-nostri-primi-40-anni-di-teatro-comico-musicale/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e326",
+   "key": "2026-12-15-maria-cassi-e-leonardo-brizzi-recital-40-anni-di",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-12-15",
@@ -5178,25 +7489,91 @@
    "zona": "Porta Venezia · Città Studi"
   },
   {
-   "date": "2026-12-15",
-   "time": "20:30",
-   "title": "Luca Ravenna Allo Sbagliato",
-   "venue": "Allo Sbagliato · Teatro Principe (viale Bligny 52)",
+   "date": "2026-12-16",
+   "time": "19:15",
+   "title": "Maria Cassi e Leonardo Brizzi: Recital, 40 anni di teatro comico musicale",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
    "cat": "teatro",
-   "desc": "Stand-up tra attualità e racconto personale, nel club off-line senza telefoni.",
-   "url": "https://www.mentelocale.it/milano/141485-luca-ravenna.htm",
+   "desc": "Lo storico duo comico-musicale fiorentino festeggia quarant'anni di palcoscenici. Da 15 €, under 30 da 12 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/recital-i-nostri-primi-40-anni-di-teatro-comico-musicale/",
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e246",
-   "key": "2026-12-15-luca-ravenna-allo-sbagliato",
+   "id": "e327",
+   "key": "2026-12-16-maria-cassi-e-leonardo-brizzi-recital-40-anni-di",
    "moods": [
     "emozionarmi",
     "ridere"
    ],
    "geo": [
-    45.4521,
-    9.1965
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-16",
+   "time": "19:45",
+   "title": "La Reginetta di Leenane, con Ambra Angiolini e Ivana Monti",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Il testo feroce di Martin McDonagh su una madre e una figlia, regia di Raphael Tobia Vogel. Da 25 €, under 30 da 18 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/la-reginetta-di-leenane-con-ambra-angiolini-e-ivana-monti/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e328",
+   "key": "2026-12-16-la-reginetta-di-leenane-con-ambra-angiolini-e-iv",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-16",
+   "time": "20:15",
+   "title": "Bullet Catch",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Un illusionista deve afferrare un proiettile con i denti, con l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond, con Alex Cendron. 25 €, under 30 18 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/bullet-catch/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e329",
+   "key": "2026-12-16-bullet-catch",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-16",
+   "time": "20:30",
+   "title": "Chi come me",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Adolescenti in un centro di salute mentale ritrovano se stessi grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah, nella nuova Sala A2A.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/chi-come-me/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e330",
+   "key": "2026-12-16-chi-come-me",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
    ],
    "zona": "Porta Romana · Vittoria"
   },
@@ -5312,6 +7689,51 @@
   },
   {
    "date": "2026-12-17",
+   "time": "20:15",
+   "title": "Maria Cassi e Leonardo Brizzi: Recital, 40 anni di teatro comico musicale",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Lo storico duo comico-musicale fiorentino festeggia quarant'anni di palcoscenici. Da 15 €, under 30 da 12 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/recital-i-nostri-primi-40-anni-di-teatro-comico-musicale/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e331",
+   "key": "2026-12-17-maria-cassi-e-leonardo-brizzi-recital-40-anni-di",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-17",
+   "time": "20:30",
+   "title": "Bullet Catch",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Un illusionista deve afferrare un proiettile con i denti, con l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond, con Alex Cendron. 25 €, under 30 18 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/bullet-catch/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e332",
+   "key": "2026-12-17-bullet-catch",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-17",
    "time": "20:30",
    "title": "Uno, nessuno e centomila",
    "venue": "Teatro Leonardo (via Ampère 1)",
@@ -5331,6 +7753,28 @@
     9.228
    ],
    "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-12-17",
+   "time": "21:00",
+   "title": "La Reginetta di Leenane, con Ambra Angiolini e Ivana Monti",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Il testo feroce di Martin McDonagh su una madre e una figlia, regia di Raphael Tobia Vogel. Da 25 €, under 30 da 18 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/la-reginetta-di-leenane-con-ambra-angiolini-e-ivana-monti/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e333",
+   "key": "2026-12-17-la-reginetta-di-leenane-con-ambra-angiolini-e-iv",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-12-17",
@@ -5356,6 +7800,51 @@
   },
   {
    "date": "2026-12-18",
+   "time": "19:00",
+   "title": "Bullet Catch",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Un illusionista deve afferrare un proiettile con i denti, con l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond, con Alex Cendron. 25 €, under 30 18 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/bullet-catch/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e334",
+   "key": "2026-12-18-bullet-catch",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-18",
+   "time": "19:15",
+   "title": "Maria Cassi e Leonardo Brizzi: Recital, 40 anni di teatro comico musicale",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Lo storico duo comico-musicale fiorentino festeggia quarant'anni di palcoscenici. Da 15 €, under 30 da 12 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/recital-i-nostri-primi-40-anni-di-teatro-comico-musicale/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e335",
+   "key": "2026-12-18-maria-cassi-e-leonardo-brizzi-recital-40-anni-di",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-18",
    "time": "19:30",
    "title": "C'è chi dice no: Renzo, Lucia, i giovani",
    "venue": "Teatro Carcano",
@@ -5373,6 +7862,28 @@
    "geo": [
     45.4547,
     9.1966
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-18",
+   "time": "19:45",
+   "title": "La Reginetta di Leenane, con Ambra Angiolini e Ivana Monti",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Il testo feroce di Martin McDonagh su una madre e una figlia, regia di Raphael Tobia Vogel. Da 25 €, under 30 da 18 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/la-reginetta-di-leenane-con-ambra-angiolini-e-ivana-monti/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e336",
+   "key": "2026-12-18-la-reginetta-di-leenane-con-ambra-angiolini-e-iv",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
    ],
    "zona": "Porta Romana · Vittoria"
   },
@@ -5421,6 +7932,28 @@
     9.1706
    ],
    "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-12-18",
+   "time": "20:15",
+   "title": "Chi come me",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Adolescenti in un centro di salute mentale ritrovano se stessi grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah, nella nuova Sala A2A.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/chi-come-me/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e337",
+   "key": "2026-12-18-chi-come-me",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-12-18",
@@ -5494,6 +8027,50 @@
   },
   {
    "date": "2026-12-19",
+   "time": "15:45",
+   "title": "Chi come me",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Adolescenti in un centro di salute mentale ritrovano se stessi grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah, nella nuova Sala A2A. Replica anche alle 19:30.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/chi-come-me/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e338",
+   "key": "2026-12-19-chi-come-me",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-19",
+   "time": "16:30",
+   "title": "Cappuccetto Rosso. Nella pancia del Lupo (da 5 anni)",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "famiglie",
+   "desc": "Cappuccetto inghiottita dal lupo deve trovare l'uscita con l'aiuto dei bambini in sala. 15 €, bambini 12 €, famiglia 36 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/cappuccetto-rosso-nella-pancia-del-lupo/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e339",
+   "key": "2026-12-19-cappuccetto-rosso-nella-pancia-del-lupo-da-5-ann",
+   "moods": [
+    "bambini"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-19",
    "time": "16:30",
    "title": "Concerto spirituale d'Avvento in San Satiro (ultimo della rassegna)",
    "venue": "Basilica di Santa Maria presso San Satiro (via Torino 17/19)",
@@ -5516,6 +8093,73 @@
     9.1873
    ],
    "zona": "Centro"
+  },
+  {
+   "date": "2026-12-19",
+   "time": "19:00",
+   "title": "Bullet Catch",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Un illusionista deve afferrare un proiettile con i denti, con l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond, con Alex Cendron. 25 €, under 30 18 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/bullet-catch/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e340",
+   "key": "2026-12-19-bullet-catch",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-19",
+   "time": "19:15",
+   "title": "Maria Cassi e Leonardo Brizzi: Recital, 40 anni di teatro comico musicale",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Lo storico duo comico-musicale fiorentino festeggia quarant'anni di palcoscenici. Da 15 €, under 30 da 12 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/recital-i-nostri-primi-40-anni-di-teatro-comico-musicale/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e341",
+   "key": "2026-12-19-maria-cassi-e-leonardo-brizzi-recital-40-anni-di",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-19",
+   "time": "19:45",
+   "title": "La Reginetta di Leenane, con Ambra Angiolini e Ivana Monti",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Il testo feroce di Martin McDonagh su una madre e una figlia, regia di Raphael Tobia Vogel. Da 25 €, under 30 da 18 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/la-reginetta-di-leenane-con-ambra-angiolini-e-ivana-monti/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e342",
+   "key": "2026-12-19-la-reginetta-di-leenane-con-ambra-angiolini-e-iv",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-12-19",
@@ -5631,6 +8275,29 @@
   },
   {
    "date": "2026-12-20",
+   "time": "15:45",
+   "title": "Maria Cassi e Leonardo Brizzi: Recital, 40 anni di teatro comico musicale",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Lo storico duo comico-musicale fiorentino festeggia quarant'anni di palcoscenici. Da 15 €, under 30 da 12 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/recital-i-nostri-primi-40-anni-di-teatro-comico-musicale/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e343",
+   "key": "2026-12-20-maria-cassi-e-leonardo-brizzi-recital-40-anni-di",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-20",
    "time": "16:00",
    "title": "Uno, nessuno e centomila",
    "venue": "Teatro Leonardo (via Ampère 1)",
@@ -5653,6 +8320,50 @@
   },
   {
    "date": "2026-12-20",
+   "time": "16:15",
+   "title": "La Reginetta di Leenane, con Ambra Angiolini e Ivana Monti",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Il testo feroce di Martin McDonagh su una madre e una figlia, regia di Raphael Tobia Vogel. Da 25 €, under 30 da 18 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/la-reginetta-di-leenane-con-ambra-angiolini-e-ivana-monti/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e344",
+   "key": "2026-12-20-la-reginetta-di-leenane-con-ambra-angiolini-e-iv",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-20",
+   "time": "16:30",
+   "title": "Bullet Catch",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Un illusionista deve afferrare un proiettile con i denti, con l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond, con Alex Cendron. 25 €, under 30 18 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/bullet-catch/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e345",
+   "key": "2026-12-20-bullet-catch",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-20",
    "time": "16:30",
    "title": "C'è chi dice no: Renzo, Lucia, i giovani",
    "venue": "Teatro Carcano",
@@ -5670,6 +8381,50 @@
    "geo": [
     45.4547,
     9.1966
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-20",
+   "time": "16:30",
+   "title": "Cappuccetto Rosso. Nella pancia del Lupo (da 5 anni)",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "famiglie",
+   "desc": "Cappuccetto inghiottita dal lupo deve trovare l'uscita con l'aiuto dei bambini in sala. 15 €, bambini 12 €, famiglia 36 €.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/cappuccetto-rosso-nella-pancia-del-lupo/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e346",
+   "key": "2026-12-20-cappuccetto-rosso-nella-pancia-del-lupo-da-5-ann",
+   "moods": [
+    "bambini"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-20",
+   "time": "17:00",
+   "title": "Chi come me",
+   "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
+   "cat": "teatro",
+   "desc": "Adolescenti in un centro di salute mentale ritrovano se stessi grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah, nella nuova Sala A2A.",
+   "url": "https://teatrofrancoparenti.it/spettacolo/chi-come-me/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e347",
+   "key": "2026-12-20-chi-come-me",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
    ],
    "zona": "Porta Romana · Vittoria"
   },

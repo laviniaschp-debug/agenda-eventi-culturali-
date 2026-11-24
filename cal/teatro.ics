@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-teatro-dietro-l-angolo-laboratorio-con-diana-man@acculturiam
  oci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261124T180000
 DTEND;TZID=Europe/Rome:20261124T200000
 SUMMARY:Teatro dietro l'angolo: laboratorio con Diana Manea
@@ -41,8 +41,22 @@ URL:https://www.piccoloteatro.org/it/pages/teatro-dietro-l-angolo-scuola-di
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-24-cost-of-living@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261124T193000
+DTEND;TZID=Europe/Rome:20261124T213000
+SUMMARY:Cost of living
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Premio Pulitzer di Martyna Majok\, regia di Raphael Tobia Vogel
+ \, con Sara Bertelà e Pietro Micci: due coppie\, disabilità e cura\, chi
+  aiuta chi. Da 28 €\, under 30 20 €. https://teatrofrancoparenti.it/sp
+ ettacolo/cost-of-living/
+URL:https://teatrofrancoparenti.it/spettacolo/cost-of-living/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-24-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261124T193000
 DTEND;TZID=Europe/Rome:20261124T213000
 SUMMARY:Io sono verticale
@@ -54,7 +68,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261124T193000
 DTEND;TZID=Europe/Rome:20261124T213000
 SUMMARY:Una delle ultime sere di carnovale
@@ -67,8 +81,21 @@ URL:https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-car
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-24-pazza-con-vanessa-gravina@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261124T200000
+DTEND;TZID=Europe/Rome:20261124T220000
+SUMMARY:Pazza\, con Vanessa Gravina
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Dramma giudiziario di Tom Topor: una donna accusata di omicidio
+  rischia di essere dichiarata incapace. Con Vanessa Gravina e Nicola Rigna
+ nese. Da 25 €. https://teatrofrancoparenti.it/spettacolo/pazza/
+URL:https://teatrofrancoparenti.it/spettacolo/pazza/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-24-rompiamo-il-silenzio@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261124T200000
 DTEND;TZID=Europe/Rome:20261124T220000
 SUMMARY:Rompiamo il silenzio
@@ -80,8 +107,23 @@ URL:https://www.comune.milano.it/web/milano-citta-delle-donne/eventi
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-24-carlotta-spallino-fill-pill-e-cecilia-forastieri@acculturiam
+ oci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261124T203000
+DTEND;TZID=Europe/Rome:20261124T223000
+SUMMARY:Carlotta Spallino\, Fill Pill e Cecilia Forastieri: stand-up Allo S
+ bagliato
+LOCATION:Allo Sbagliato · Teatro Principe (viale Bligny 52)
+DESCRIPTION:Serata comica nel club off-line diretto da Marco Mengoni: telef
+ oni chiusi in una custodia per tutta la sera. MC Pietro Sparacino. https:/
+ /www.mentelocale.it/milano/141482-carlotta-spallino.htm
+URL:https://www.mentelocale.it/milano/141482-carlotta-spallino.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-24-i-monologhi-della-vagina@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261124T203000
 DTEND;TZID=Europe/Rome:20261124T223000
 SUMMARY:I monologhi della vagina
@@ -94,7 +136,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-la-caccia-al-tesoro@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261124T203000
 DTEND;TZID=Europe/Rome:20261124T223000
 SUMMARY:La caccia al tesoro
@@ -110,7 +152,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-la-rivolta@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261124T203000
 DTEND;TZID=Europe/Rome:20261124T223000
 SUMMARY:La rivolta
@@ -121,23 +163,22 @@ URL:https://www.mentelocale.it/milano/139866-rivolta.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-24-carlotta-spallino-fill-pill-e-cecilia-forastieri@acculturiam
- oci.it
-DTSTAMP:20261124T150947Z
+UID:2026-11-24-lu-santo-jullare-francesco-di-dario-fo@acculturiamoci.it
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261124T203000
 DTEND;TZID=Europe/Rome:20261124T223000
-SUMMARY:Carlotta Spallino\, Fill Pill e Cecilia Forastieri: stand-up Allo S
- bagliato
-LOCATION:Allo Sbagliato · Teatro Principe (viale Bligny 52)
-DESCRIPTION:Serata comica nel club off-line diretto da Marco Mengoni: telef
- oni chiusi in una custodia per tutta la sera. MC Pietro Sparacino. https:/
- /www.mentelocale.it/milano/141482-carlotta-spallino.htm
-URL:https://www.mentelocale.it/milano/141482-carlotta-spallino.htm
+SUMMARY:Lu Santo Jullàre Françesco di Dario Fo
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Matthias Martelli porta in scena il San Francesco giullare di D
+ ario Fo e Franca Rame\, per i 100 anni dalla nascita di Fo. Da 20 €\, un
+ der 30 da 16 €. https://teatrofrancoparenti.it/spettacolo/lu-santo-julla
+ re-francesco/
+URL:https://teatrofrancoparenti.it/spettacolo/lu-santo-jullare-francesco/
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-iliade-la-ballata-di-tersite@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Iliade: la ballata di Tersite
@@ -150,8 +191,22 @@ URL:https://teatrofilodrammatici.eu/spettacoli/iliade-la-ballata-di-tersite
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-25-lu-santo-jullare-francesco-di-dario-fo@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261125T191500
+DTEND;TZID=Europe/Rome:20261125T211500
+SUMMARY:Lu Santo Jullàre Françesco di Dario Fo
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Matthias Martelli porta in scena il San Francesco giullare di D
+ ario Fo e Franca Rame\, per i 100 anni dalla nascita di Fo. Da 20 €\, un
+ der 30 da 16 €. https://teatrofrancoparenti.it/spettacolo/lu-santo-julla
+ re-francesco/
+URL:https://teatrofrancoparenti.it/spettacolo/lu-santo-jullare-francesco/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-25-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261125T193000
 DTEND;TZID=Europe/Rome:20261125T213000
 SUMMARY:Io sono verticale
@@ -163,7 +218,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-la-caccia-al-tesoro@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261125T193000
 DTEND;TZID=Europe/Rome:20261125T213000
 SUMMARY:La caccia al tesoro
@@ -178,8 +233,48 @@ URL:https://www.mentelocale.it/milano/129404-la-caccia-al-tesoro-la-commedi
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-25-pazza-con-vanessa-gravina@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261125T194500
+DTEND;TZID=Europe/Rome:20261125T214500
+SUMMARY:Pazza\, con Vanessa Gravina
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Dramma giudiziario di Tom Topor: una donna accusata di omicidio
+  rischia di essere dichiarata incapace. Con Vanessa Gravina e Nicola Rigna
+ nese. Da 25 €. https://teatrofrancoparenti.it/spettacolo/pazza/
+URL:https://teatrofrancoparenti.it/spettacolo/pazza/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-paura-stand-up-di-annalisa-aglioti@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261125T201500
+DTEND;TZID=Europe/Rome:20261125T221500
+SUMMARY:Paura\, stand-up di Annalisa Aglioti
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Stand-up comedy sulle paure che ci complicano la vita\, regia d
+ i Michela Andreozzi\, con pianoforte dal vivo. 25 €\, under 30 18 €. h
+ ttps://teatrofrancoparenti.it/spettacolo/paura/
+URL:https://teatrofrancoparenti.it/spettacolo/paura/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-cost-of-living@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261125T203000
+DTEND;TZID=Europe/Rome:20261125T223000
+SUMMARY:Cost of living
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Premio Pulitzer di Martyna Majok\, regia di Raphael Tobia Vogel
+ \, con Sara Bertelà e Pietro Micci: due coppie\, disabilità e cura\, chi
+  aiuta chi. Da 28 €\, under 30 20 €. https://teatrofrancoparenti.it/sp
+ ettacolo/cost-of-living/
+URL:https://teatrofrancoparenti.it/spettacolo/cost-of-living/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-25-la-rivolta@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261125T203000
 DTEND;TZID=Europe/Rome:20261125T223000
 SUMMARY:La rivolta
@@ -191,7 +286,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261125T203000
 DTEND;TZID=Europe/Rome:20261125T223000
 SUMMARY:Una delle ultime sere di carnovale
@@ -206,7 +301,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-uomini-si-diventa-nella-mente-di-un-femminicida@acculturiamo
  ci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261125T203000
 DTEND;TZID=Europe/Rome:20261125T223000
 SUMMARY:Uomini si diventa. Nella mente di un femminicida
@@ -218,7 +313,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-bobby@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Bobby
@@ -229,7 +324,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-teatro-dietro-l-angolo-la-drammaturgia@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261126T180000
 DTEND;TZID=Europe/Rome:20261126T200000
 SUMMARY:Teatro dietro l'angolo: la drammaturgia
@@ -244,7 +339,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261126T193000
 DTEND;TZID=Europe/Rome:20261126T213000
 SUMMARY:Io sono verticale
@@ -256,7 +351,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261126T193000
 DTEND;TZID=Europe/Rome:20261126T213000
 SUMMARY:Una delle ultime sere di carnovale
@@ -269,8 +364,22 @@ URL:https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-car
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-26-cost-of-living@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261126T194500
+DTEND;TZID=Europe/Rome:20261126T214500
+SUMMARY:Cost of living
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Premio Pulitzer di Martyna Majok\, regia di Raphael Tobia Vogel
+ \, con Sara Bertelà e Pietro Micci: due coppie\, disabilità e cura\, chi
+  aiuta chi. Da 28 €\, under 30 20 €. https://teatrofrancoparenti.it/sp
+ ettacolo/cost-of-living/
+URL:https://teatrofrancoparenti.it/spettacolo/cost-of-living/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-26-bravissime@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261126T200000
 DTEND;TZID=Europe/Rome:20261126T220000
 SUMMARY:Bravissime
@@ -282,8 +391,22 @@ URL:https://www.mentelocale.it/milano/137381-bravissime.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-26-lu-santo-jullare-francesco-di-dario-fo@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261126T201500
+DTEND;TZID=Europe/Rome:20261126T221500
+SUMMARY:Lu Santo Jullàre Françesco di Dario Fo
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Matthias Martelli porta in scena il San Francesco giullare di D
+ ario Fo e Franca Rame\, per i 100 anni dalla nascita di Fo. Da 20 €\, un
+ der 30 da 16 €. https://teatrofrancoparenti.it/spettacolo/lu-santo-julla
+ re-francesco/
+URL:https://teatrofrancoparenti.it/spettacolo/lu-santo-jullare-francesco/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-26-adelchi-con-roberto-trifiro@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261126T203000
 DTEND;TZID=Europe/Rome:20261126T223000
 SUMMARY:Adelchi con Roberto Trifirò
@@ -297,7 +420,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-la-caccia-al-tesoro@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261126T203000
 DTEND;TZID=Europe/Rome:20261126T223000
 SUMMARY:La caccia al tesoro
@@ -313,7 +436,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-la-rivolta@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261126T203000
 DTEND;TZID=Europe/Rome:20261126T223000
 SUMMARY:La rivolta
@@ -324,8 +447,34 @@ URL:https://www.mentelocale.it/milano/139866-rivolta.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-26-paura-stand-up-di-annalisa-aglioti@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261126T203000
+DTEND;TZID=Europe/Rome:20261126T223000
+SUMMARY:Paura\, stand-up di Annalisa Aglioti
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Stand-up comedy sulle paure che ci complicano la vita\, regia d
+ i Michela Andreozzi\, con pianoforte dal vivo. 25 €\, under 30 18 €. h
+ ttps://teatrofrancoparenti.it/spettacolo/paura/
+URL:https://teatrofrancoparenti.it/spettacolo/paura/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-pazza-con-vanessa-gravina@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261126T210000
+DTEND;TZID=Europe/Rome:20261126T230000
+SUMMARY:Pazza\, con Vanessa Gravina
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Dramma giudiziario di Tom Topor: una donna accusata di omicidio
+  rischia di essere dichiarata incapace. Con Vanessa Gravina e Nicola Rigna
+ nese. Da 25 €. https://teatrofrancoparenti.it/spettacolo/pazza/
+URL:https://teatrofrancoparenti.it/spettacolo/pazza/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261127T190000
 DTEND;TZID=Europe/Rome:20261127T210000
 SUMMARY:Io sono verticale
@@ -336,8 +485,48 @@ URL:https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-paura-stand-up-di-annalisa-aglioti@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261127T190000
+DTEND;TZID=Europe/Rome:20261127T210000
+SUMMARY:Paura\, stand-up di Annalisa Aglioti
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Stand-up comedy sulle paure che ci complicano la vita\, regia d
+ i Michela Andreozzi\, con pianoforte dal vivo. 25 €\, under 30 18 €. h
+ ttps://teatrofrancoparenti.it/spettacolo/paura/
+URL:https://teatrofrancoparenti.it/spettacolo/paura/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-lu-santo-jullare-francesco-di-dario-fo@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261127T191500
+DTEND;TZID=Europe/Rome:20261127T211500
+SUMMARY:Lu Santo Jullàre Françesco di Dario Fo
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Matthias Martelli porta in scena il San Francesco giullare di D
+ ario Fo e Franca Rame\, per i 100 anni dalla nascita di Fo. Da 20 €\, un
+ der 30 da 16 €. https://teatrofrancoparenti.it/spettacolo/lu-santo-julla
+ re-francesco/
+URL:https://teatrofrancoparenti.it/spettacolo/lu-santo-jullare-francesco/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-pazza-con-vanessa-gravina@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261127T194500
+DTEND;TZID=Europe/Rome:20261127T214500
+SUMMARY:Pazza\, con Vanessa Gravina
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Dramma giudiziario di Tom Topor: una donna accusata di omicidio
+  rischia di essere dichiarata incapace. Con Vanessa Gravina e Nicola Rigna
+ nese. Da 25 €. https://teatrofrancoparenti.it/spettacolo/pazza/
+URL:https://teatrofrancoparenti.it/spettacolo/pazza/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-bravissime@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261127T200000
 DTEND;TZID=Europe/Rome:20261127T220000
 SUMMARY:Bravissime
@@ -349,8 +538,22 @@ URL:https://www.mentelocale.it/milano/137381-bravissime.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-cost-of-living@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261127T201500
+DTEND;TZID=Europe/Rome:20261127T221500
+SUMMARY:Cost of living
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Premio Pulitzer di Martyna Majok\, regia di Raphael Tobia Vogel
+ \, con Sara Bertelà e Pietro Micci: due coppie\, disabilità e cura\, chi
+  aiuta chi. Da 28 €\, under 30 20 €. https://teatrofrancoparenti.it/sp
+ ettacolo/cost-of-living/
+URL:https://teatrofrancoparenti.it/spettacolo/cost-of-living/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-adelchi-con-roberto-trifiro@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:Adelchi con Roberto Trifirò
@@ -364,7 +567,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-di-madre-in-figlia@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:Di madre in figlia
@@ -377,7 +580,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-l-amante-di-harold-pinter@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:L'amante di Harold Pinter
@@ -390,7 +593,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-la-caccia-al-tesoro@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:La caccia al tesoro
@@ -406,7 +609,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-la-rivolta@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:La rivolta
@@ -418,7 +621,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:Una delle ultime sere di carnovale
@@ -432,7 +635,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-xx-variazioni-a-tre@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:XX variazioni a tre
@@ -444,8 +647,49 @@ URL:https://www.mentelocale.it/milano/132095-xx-variazioni-a-tre.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-paura-stand-up-di-annalisa-aglioti@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261128T190000
+DTEND;TZID=Europe/Rome:20261128T210000
+SUMMARY:Paura\, stand-up di Annalisa Aglioti
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Stand-up comedy sulle paure che ci complicano la vita\, regia d
+ i Michela Andreozzi\, con pianoforte dal vivo. 25 €\, under 30 18 €. h
+ ttps://teatrofrancoparenti.it/spettacolo/paura/
+URL:https://teatrofrancoparenti.it/spettacolo/paura/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-lu-santo-jullare-francesco-di-dario-fo@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261128T191500
+DTEND;TZID=Europe/Rome:20261128T211500
+SUMMARY:Lu Santo Jullàre Françesco di Dario Fo
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Matthias Martelli porta in scena il San Francesco giullare di D
+ ario Fo e Franca Rame\, per i 100 anni dalla nascita di Fo. Da 20 €\, un
+ der 30 da 16 €. https://teatrofrancoparenti.it/spettacolo/lu-santo-julla
+ re-francesco/
+URL:https://teatrofrancoparenti.it/spettacolo/lu-santo-jullare-francesco/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-cost-of-living@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261128T193000
+DTEND;TZID=Europe/Rome:20261128T213000
+SUMMARY:Cost of living
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Premio Pulitzer di Martyna Majok\, regia di Raphael Tobia Vogel
+ \, con Sara Bertelà e Pietro Micci: due coppie\, disabilità e cura\, chi
+  aiuta chi. Da 28 €\, under 30 20 €. https://teatrofrancoparenti.it/sp
+ ettacolo/cost-of-living/
+URL:https://teatrofrancoparenti.it/spettacolo/cost-of-living/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-di-madre-in-figlia@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261128T193000
 DTEND;TZID=Europe/Rome:20261128T213000
 SUMMARY:Di madre in figlia
@@ -458,7 +702,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261128T193000
 DTEND;TZID=Europe/Rome:20261128T213000
 SUMMARY:Io sono verticale
@@ -470,7 +714,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-l-amante-di-harold-pinter@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261128T193000
 DTEND;TZID=Europe/Rome:20261128T213000
 SUMMARY:L'amante di Harold Pinter
@@ -483,7 +727,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261128T193000
 DTEND;TZID=Europe/Rome:20261128T213000
 SUMMARY:Una delle ultime sere di carnovale
@@ -496,8 +740,21 @@ URL:https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-car
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-pazza-con-vanessa-gravina@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261128T194500
+DTEND;TZID=Europe/Rome:20261128T214500
+SUMMARY:Pazza\, con Vanessa Gravina
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Dramma giudiziario di Tom Topor: una donna accusata di omicidio
+  rischia di essere dichiarata incapace. Con Vanessa Gravina e Nicola Rigna
+ nese. Da 25 €. https://teatrofrancoparenti.it/spettacolo/pazza/
+URL:https://teatrofrancoparenti.it/spettacolo/pazza/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-bravissime@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261128T200000
 DTEND;TZID=Europe/Rome:20261128T220000
 SUMMARY:Bravissime
@@ -510,7 +767,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-la-caccia-al-tesoro@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261128T203000
 DTEND;TZID=Europe/Rome:20261128T223000
 SUMMARY:La caccia al tesoro
@@ -526,7 +783,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-la-rivolta@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261128T203000
 DTEND;TZID=Europe/Rome:20261128T223000
 SUMMARY:La rivolta
@@ -538,7 +795,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-stai-zitta@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261128T203000
 DTEND;TZID=Europe/Rome:20261128T223000
 SUMMARY:Stai zitta!
@@ -551,7 +808,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-xx-variazioni-a-tre@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261128T203000
 DTEND;TZID=Europe/Rome:20261128T223000
 SUMMARY:XX variazioni a tre
@@ -563,8 +820,22 @@ URL:https://www.mentelocale.it/milano/132095-xx-variazioni-a-tre.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-sull-astolfo-e-sulla-luna-lettura-teatrale@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261129T140000
+DTEND;TZID=Europe/Rome:20261129T160000
+SUMMARY:Sull'Astolfo e sulla Luna: lettura teatrale
+LOCATION:Teatro Franco Parenti\, Biblioteca (via Pier Lombardo 14)
+DESCRIPTION:Carlo Arrigoni e Mattia Cattaneo leggono l'Orlando Furioso di C
+ alvino e pagine sulla Luna di Dante\, Leopardi e Volponi. BookCity: ingres
+ so libero fino a esaurimento posti. https://teatrofrancoparenti.it/?post_t
+ ype=spettacolo&p=53442
+URL:https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261129T153000
 DTEND;TZID=Europe/Rome:20261129T173000
 SUMMARY:Io sono verticale
@@ -575,8 +846,35 @@ URL:https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-lu-santo-jullare-francesco-di-dario-fo@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261129T154500
+DTEND;TZID=Europe/Rome:20261129T174500
+SUMMARY:Lu Santo Jullàre Françesco di Dario Fo
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Matthias Martelli porta in scena il San Francesco giullare di D
+ ario Fo e Franca Rame\, per i 100 anni dalla nascita di Fo. Da 20 €\, un
+ der 30 da 16 €. https://teatrofrancoparenti.it/spettacolo/lu-santo-julla
+ re-francesco/
+URL:https://teatrofrancoparenti.it/spettacolo/lu-santo-jullare-francesco/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-pazza-con-vanessa-gravina@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261129T154500
+DTEND;TZID=Europe/Rome:20261129T174500
+SUMMARY:Pazza\, con Vanessa Gravina
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Dramma giudiziario di Tom Topor: una donna accusata di omicidio
+  rischia di essere dichiarata incapace. Con Vanessa Gravina e Nicola Rigna
+ nese. Da 25 €. https://teatrofrancoparenti.it/spettacolo/pazza/
+URL:https://teatrofrancoparenti.it/spettacolo/pazza/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-di-madre-in-figlia@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261129T160000
 DTEND;TZID=Europe/Rome:20261129T180000
 SUMMARY:Di madre in figlia
@@ -589,7 +887,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-l-amante-di-harold-pinter@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261129T160000
 DTEND;TZID=Europe/Rome:20261129T180000
 SUMMARY:L'amante di Harold Pinter
@@ -602,7 +900,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-la-caccia-al-tesoro@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261129T160000
 DTEND;TZID=Europe/Rome:20261129T180000
 SUMMARY:La caccia al tesoro
@@ -618,7 +916,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261129T160000
 DTEND;TZID=Europe/Rome:20261129T180000
 SUMMARY:Una delle ultime sere di carnovale
@@ -632,7 +930,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-la-rivolta@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261129T163000
 DTEND;TZID=Europe/Rome:20261129T183000
 SUMMARY:La rivolta
@@ -643,8 +941,21 @@ URL:https://www.mentelocale.it/milano/139866-rivolta.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-paura-stand-up-di-annalisa-aglioti@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261129T163000
+DTEND;TZID=Europe/Rome:20261129T183000
+SUMMARY:Paura\, stand-up di Annalisa Aglioti
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Stand-up comedy sulle paure che ci complicano la vita\, regia d
+ i Michela Andreozzi\, con pianoforte dal vivo. 25 €\, under 30 18 €. h
+ ttps://teatrofrancoparenti.it/spettacolo/paura/
+URL:https://teatrofrancoparenti.it/spettacolo/paura/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-stai-zitta@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261129T163000
 DTEND;TZID=Europe/Rome:20261129T183000
 SUMMARY:Stai zitta!
@@ -656,7 +967,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-xx-variazioni-a-tre@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261129T163000
 DTEND;TZID=Europe/Rome:20261129T183000
 SUMMARY:XX variazioni a tre
@@ -669,7 +980,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-bravissime@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261129T170000
 DTEND;TZID=Europe/Rome:20261129T190000
 SUMMARY:Bravissime
@@ -683,7 +994,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-teatro-dietro-l-angolo-laboratorio-con-diana-man@acculturiam
  oci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261130T180000
 DTEND;TZID=Europe/Rome:20261130T200000
 SUMMARY:Teatro dietro l'angolo: laboratorio con Diana Manea
@@ -698,7 +1009,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-alessandro-cattelan-benvenuto-nell-ai@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261130T210000
 DTEND;TZID=Europe/Rome:20261130T230000
 SUMMARY:Alessandro Cattelan\, Benvenuto nell'AI!
@@ -711,7 +1022,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-curae-2026-non-ti-pago-apertura@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Curae 2026: Non ti pago (apertura)
@@ -728,7 +1039,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-teatro-dietro-l-angolo-laboratorio-con-diana-man@acculturiam
  oci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261201T180000
 DTEND;TZID=Europe/Rome:20261201T200000
 SUMMARY:Teatro dietro l'angolo: laboratorio con Diana Manea
@@ -743,7 +1054,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-di-madre-in-figlia@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261201T193000
 DTEND;TZID=Europe/Rome:20261201T213000
 SUMMARY:Di madre in figlia
@@ -757,7 +1068,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-giuseppe-il-padre-putativo-anteprima-under-30@acculturiamoci
  .it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261201T193000
 DTEND;TZID=Europe/Rome:20261201T213000
 SUMMARY:Giuseppe: il padre putativo (anteprima under 30)
@@ -770,21 +1081,48 @@ URL:https://www.elfo.org/spettacoli/2026-2027/giuseppe-padre-putativo-under
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-01-le-belle-notti-di-gianni-clementi@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261201T200000
+DTEND;TZID=Europe/Rome:20261201T220000
+SUMMARY:Le belle notti di Gianni Clementi
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Commedia corale con diciassette giovani attori\, regia di Claud
+ io Boccaccini. Da 20\,50 €\, under 30 da 15 €. https://teatrofrancopar
+ enti.it/spettacolo/le-belle-notti/
+URL:https://teatrofrancoparenti.it/spettacolo/le-belle-notti/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-bullet-catch@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261201T201500
+DTEND;TZID=Europe/Rome:20261201T221500
+SUMMARY:Bullet Catch
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Un illusionista deve afferrare un proiettile con i denti\, con 
+ l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond\, con 
+ Alex Cendron. 25 €\, under 30 18 €. https://teatrofrancoparenti.it/spe
+ ttacolo/bullet-catch/
+URL:https://teatrofrancoparenti.it/spettacolo/bullet-catch/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-01-don-milani-la-parola-che-nutre@acculturiamoci.it
-DTSTAMP:20261124T150947Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261201T203000
+DTEND;TZID=Europe/Rome:20261201T223000
 SUMMARY:Don Milani. La parola che nutre
-LOCATION:Teatro Franco Parenti
-DESCRIPTION:Spettacolo dedicato al priore di Barbiana e alla sua idea di sc
- uola come riscatto\; in scena fino al 12 dicembre. https://teatrofrancopar
- enti.it/calendario-spettacoli/
-URL:https://teatrofrancoparenti.it/calendario-spettacoli/
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Reading teatrale di e con Fausto Cabra sugli scritti di Don Mil
+ ani\, con le musiche dal vivo di Mimosa Campironi. Da 15 €\, under 30 da
+  12 €. https://teatrofrancoparenti.it/spettacolo/don-milani/
+URL:https://teatrofrancoparenti.it/spettacolo/don-milani/
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-spose-del-vento@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Spose del vento
@@ -795,8 +1133,62 @@ URL:https://www.mentelocale.it/milano/139807-spose-vento.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-02-don-milani-la-parola-che-nutre@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261202T191500
+DTEND;TZID=Europe/Rome:20261202T211500
+SUMMARY:Don Milani. La parola che nutre
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Reading teatrale di e con Fausto Cabra sugli scritti di Don Mil
+ ani\, con le musiche dal vivo di Mimosa Campironi. Da 15 €\, under 30 da
+  12 €. https://teatrofrancoparenti.it/spettacolo/don-milani/
+URL:https://teatrofrancoparenti.it/spettacolo/don-milani/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-le-belle-notti-di-gianni-clementi@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261202T194500
+DTEND;TZID=Europe/Rome:20261202T214500
+SUMMARY:Le belle notti di Gianni Clementi
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Commedia corale con diciassette giovani attori\, regia di Claud
+ io Boccaccini. Da 20\,50 €\, under 30 da 15 €. https://teatrofrancopar
+ enti.it/spettacolo/le-belle-notti/
+URL:https://teatrofrancoparenti.it/spettacolo/le-belle-notti/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-bullet-catch@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261202T201500
+DTEND;TZID=Europe/Rome:20261202T221500
+SUMMARY:Bullet Catch
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Un illusionista deve afferrare un proiettile con i denti\, con 
+ l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond\, con 
+ Alex Cendron. 25 €\, under 30 18 €. https://teatrofrancoparenti.it/spe
+ ttacolo/bullet-catch/
+URL:https://teatrofrancoparenti.it/spettacolo/bullet-catch/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-chi-come-me@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261202T203000
+DTEND;TZID=Europe/Rome:20261202T223000
+SUMMARY:Chi come me
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Adolescenti in un centro di salute mentale ritrovano se stessi 
+ grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah\, n
+ ella nuova Sala A2A. https://teatrofrancoparenti.it/spettacolo/chi-come-me
+ /
+URL:https://teatrofrancoparenti.it/spettacolo/chi-come-me/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-02-curae-2026-portami-la-fuori@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Curae 2026: Portami là fuori
@@ -811,8 +1203,62 @@ URL:https://www.mentelocale.it/milano/147779-curae-2026-a-milano-il-festiva
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-03-chi-come-me@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261203T194500
+DTEND;TZID=Europe/Rome:20261203T214500
+SUMMARY:Chi come me
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Adolescenti in un centro di salute mentale ritrovano se stessi 
+ grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah\, n
+ ella nuova Sala A2A. https://teatrofrancoparenti.it/spettacolo/chi-come-me
+ /
+URL:https://teatrofrancoparenti.it/spettacolo/chi-come-me/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-don-milani-la-parola-che-nutre@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261203T201500
+DTEND;TZID=Europe/Rome:20261203T221500
+SUMMARY:Don Milani. La parola che nutre
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Reading teatrale di e con Fausto Cabra sugli scritti di Don Mil
+ ani\, con le musiche dal vivo di Mimosa Campironi. Da 15 €\, under 30 da
+  12 €. https://teatrofrancoparenti.it/spettacolo/don-milani/
+URL:https://teatrofrancoparenti.it/spettacolo/don-milani/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-bullet-catch@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261203T203000
+DTEND;TZID=Europe/Rome:20261203T223000
+SUMMARY:Bullet Catch
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Un illusionista deve afferrare un proiettile con i denti\, con 
+ l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond\, con 
+ Alex Cendron. 25 €\, under 30 18 €. https://teatrofrancoparenti.it/spe
+ ttacolo/bullet-catch/
+URL:https://teatrofrancoparenti.it/spettacolo/bullet-catch/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-le-belle-notti-di-gianni-clementi@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261203T210000
+DTEND;TZID=Europe/Rome:20261203T230000
+SUMMARY:Le belle notti di Gianni Clementi
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Commedia corale con diciassette giovani attori\, regia di Claud
+ io Boccaccini. Da 20\,50 €\, under 30 da 15 €. https://teatrofrancopar
+ enti.it/spettacolo/le-belle-notti/
+URL:https://teatrofrancoparenti.it/spettacolo/le-belle-notti/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-03-giuseppe-il-padre-putativo@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Giuseppe: il padre putativo
@@ -824,8 +1270,35 @@ URL:https://www.elfo.org
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-04-bullet-catch@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261204T190000
+DTEND;TZID=Europe/Rome:20261204T210000
+SUMMARY:Bullet Catch
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Un illusionista deve afferrare un proiettile con i denti\, con 
+ l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond\, con 
+ Alex Cendron. 25 €\, under 30 18 €. https://teatrofrancoparenti.it/spe
+ ttacolo/bullet-catch/
+URL:https://teatrofrancoparenti.it/spettacolo/bullet-catch/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-don-milani-la-parola-che-nutre@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261204T191500
+DTEND;TZID=Europe/Rome:20261204T211500
+SUMMARY:Don Milani. La parola che nutre
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Reading teatrale di e con Fausto Cabra sugli scritti di Don Mil
+ ani\, con le musiche dal vivo di Mimosa Campironi. Da 15 €\, under 30 da
+  12 €. https://teatrofrancoparenti.it/spettacolo/don-milani/
+URL:https://teatrofrancoparenti.it/spettacolo/don-milani/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-04-lady-day-billie-holiday@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261204T193000
 DTEND;TZID=Europe/Rome:20261204T213000
 SUMMARY:Lady Day (Billie Holiday)
@@ -838,8 +1311,76 @@ URL:https://www.mentelocale.it/milano/129798-chi-ha-paura-di-virginia-woolf
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-04-le-belle-notti-di-gianni-clementi@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261204T194500
+DTEND;TZID=Europe/Rome:20261204T214500
+SUMMARY:Le belle notti di Gianni Clementi
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Commedia corale con diciassette giovani attori\, regia di Claud
+ io Boccaccini. Da 20\,50 €\, under 30 da 15 €. https://teatrofrancopar
+ enti.it/spettacolo/le-belle-notti/
+URL:https://teatrofrancoparenti.it/spettacolo/le-belle-notti/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-chi-come-me@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261204T201500
+DTEND;TZID=Europe/Rome:20261204T221500
+SUMMARY:Chi come me
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Adolescenti in un centro di salute mentale ritrovano se stessi 
+ grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah\, n
+ ella nuova Sala A2A. https://teatrofrancoparenti.it/spettacolo/chi-come-me
+ /
+URL:https://teatrofrancoparenti.it/spettacolo/chi-come-me/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-chi-come-me@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261205T154500
+DTEND;TZID=Europe/Rome:20261205T174500
+SUMMARY:Chi come me
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Adolescenti in un centro di salute mentale ritrovano se stessi 
+ grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah\, n
+ ella nuova Sala A2A. Replica anche alle 19:30. https://teatrofrancoparenti
+ .it/spettacolo/chi-come-me/
+URL:https://teatrofrancoparenti.it/spettacolo/chi-come-me/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-bullet-catch@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261205T190000
+DTEND;TZID=Europe/Rome:20261205T210000
+SUMMARY:Bullet Catch
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Un illusionista deve afferrare un proiettile con i denti\, con 
+ l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond\, con 
+ Alex Cendron. 25 €\, under 30 18 €. https://teatrofrancoparenti.it/spe
+ ttacolo/bullet-catch/
+URL:https://teatrofrancoparenti.it/spettacolo/bullet-catch/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-don-milani-la-parola-che-nutre@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261205T191500
+DTEND;TZID=Europe/Rome:20261205T211500
+SUMMARY:Don Milani. La parola che nutre
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Reading teatrale di e con Fausto Cabra sugli scritti di Don Mil
+ ani\, con le musiche dal vivo di Mimosa Campironi. Da 15 €\, under 30 da
+  12 €. https://teatrofrancoparenti.it/spettacolo/don-milani/
+URL:https://teatrofrancoparenti.it/spettacolo/don-milani/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-05-lady-day-billie-holiday@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261205T203000
 DTEND;TZID=Europe/Rome:20261205T223000
 SUMMARY:Lady Day (Billie Holiday)
@@ -852,8 +1393,35 @@ URL:https://www.mentelocale.it/milano/129798-chi-ha-paura-di-virginia-woolf
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-06-don-milani-la-parola-che-nutre@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261206T154500
+DTEND;TZID=Europe/Rome:20261206T174500
+SUMMARY:Don Milani. La parola che nutre
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Reading teatrale di e con Fausto Cabra sugli scritti di Don Mil
+ ani\, con le musiche dal vivo di Mimosa Campironi. Da 15 €\, under 30 da
+  12 €. https://teatrofrancoparenti.it/spettacolo/don-milani/
+URL:https://teatrofrancoparenti.it/spettacolo/don-milani/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-bullet-catch@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261206T163000
+DTEND;TZID=Europe/Rome:20261206T183000
+SUMMARY:Bullet Catch
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Un illusionista deve afferrare un proiettile con i denti\, con 
+ l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond\, con 
+ Alex Cendron. 25 €\, under 30 18 €. https://teatrofrancoparenti.it/spe
+ ttacolo/bullet-catch/
+URL:https://teatrofrancoparenti.it/spettacolo/bullet-catch/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-06-lady-day-billie-holiday@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261206T163000
 DTEND;TZID=Europe/Rome:20261206T183000
 SUMMARY:Lady Day (Billie Holiday)
@@ -866,8 +1434,105 @@ URL:https://www.mentelocale.it/milano/129798-chi-ha-paura-di-virginia-woolf
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-06-chi-come-me@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261206T170000
+DTEND;TZID=Europe/Rome:20261206T190000
+SUMMARY:Chi come me
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Adolescenti in un centro di salute mentale ritrovano se stessi 
+ grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah\, n
+ ella nuova Sala A2A. https://teatrofrancoparenti.it/spettacolo/chi-come-me
+ /
+URL:https://teatrofrancoparenti.it/spettacolo/chi-come-me/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-chi-come-me@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261208T180000
+DTEND;TZID=Europe/Rome:20261208T200000
+SUMMARY:Chi come me
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Adolescenti in un centro di salute mentale ritrovano se stessi 
+ grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah\, n
+ ella nuova Sala A2A. https://teatrofrancoparenti.it/spettacolo/chi-come-me
+ /
+URL:https://teatrofrancoparenti.it/spettacolo/chi-come-me/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-bullet-catch@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261208T183000
+DTEND;TZID=Europe/Rome:20261208T203000
+SUMMARY:Bullet Catch
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Un illusionista deve afferrare un proiettile con i denti\, con 
+ l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond\, con 
+ Alex Cendron. 25 €\, under 30 18 €. https://teatrofrancoparenti.it/spe
+ ttacolo/bullet-catch/
+URL:https://teatrofrancoparenti.it/spettacolo/bullet-catch/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-don-milani-la-parola-che-nutre@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261208T190000
+DTEND;TZID=Europe/Rome:20261208T210000
+SUMMARY:Don Milani. La parola che nutre
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Reading teatrale di e con Fausto Cabra sugli scritti di Don Mil
+ ani\, con le musiche dal vivo di Mimosa Campironi. Da 15 €\, under 30 da
+  12 €. https://teatrofrancoparenti.it/spettacolo/don-milani/
+URL:https://teatrofrancoparenti.it/spettacolo/don-milani/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-don-milani-la-parola-che-nutre@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261209T191500
+DTEND;TZID=Europe/Rome:20261209T211500
+SUMMARY:Don Milani. La parola che nutre
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Reading teatrale di e con Fausto Cabra sugli scritti di Don Mil
+ ani\, con le musiche dal vivo di Mimosa Campironi. Da 15 €\, under 30 da
+  12 €. https://teatrofrancoparenti.it/spettacolo/don-milani/
+URL:https://teatrofrancoparenti.it/spettacolo/don-milani/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-tutti-gli-uomini-che-non-sono-con-paolo-calabres@acculturiam
+ oci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261209T194500
+DTEND;TZID=Europe/Rome:20261209T214500
+SUMMARY:Tutti gli uomini che non sono\, con Paolo Calabresi
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Paolo Calabresi racconta le sue imprese da impostore\, da finto
+  Nicolas Cage a San Siro in poi\, con Carolina Di Domenico. Da 25 €. htt
+ ps://teatrofrancoparenti.it/spettacolo/tutti-gli-uomini-che-non-sono/
+URL:https://teatrofrancoparenti.it/spettacolo/tutti-gli-uomini-che-non-sono
+ /
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-bullet-catch@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261209T201500
+DTEND;TZID=Europe/Rome:20261209T221500
+SUMMARY:Bullet Catch
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Un illusionista deve afferrare un proiettile con i denti\, con 
+ l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond\, con 
+ Alex Cendron. 25 €\, under 30 18 €. https://teatrofrancoparenti.it/spe
+ ttacolo/bullet-catch/
+URL:https://teatrofrancoparenti.it/spettacolo/bullet-catch/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-09-bubaro-dei-bubari@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261209T203000
 DTEND;TZID=Europe/Rome:20261209T223000
 SUMMARY:Bùbaro dei Bùbari
@@ -880,8 +1545,22 @@ URL:https://www.mentelocale.it/milano/132103-b-baro-dei-b-bari.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-09-chi-come-me@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261209T203000
+DTEND;TZID=Europe/Rome:20261209T223000
+SUMMARY:Chi come me
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Adolescenti in un centro di salute mentale ritrovano se stessi 
+ grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah\, n
+ ella nuova Sala A2A. https://teatrofrancoparenti.it/spettacolo/chi-come-me
+ /
+URL:https://teatrofrancoparenti.it/spettacolo/chi-come-me/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-09-stefano-rapone-allo-sbagliato@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261209T203000
 DTEND;TZID=Europe/Rome:20261209T223000
 SUMMARY:Stefano Rapone Allo Sbagliato
@@ -894,7 +1573,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-il-viale-del-tramonto@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261210T193000
 DTEND;TZID=Europe/Rome:20261210T213000
 SUMMARY:Il viale del tramonto
@@ -905,8 +1584,49 @@ URL:https://www.mentelocale.it/milano/130644-9z37j18mgunne5i.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-10-chi-come-me@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261210T194500
+DTEND;TZID=Europe/Rome:20261210T214500
+SUMMARY:Chi come me
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Adolescenti in un centro di salute mentale ritrovano se stessi 
+ grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah\, n
+ ella nuova Sala A2A. https://teatrofrancoparenti.it/spettacolo/chi-come-me
+ /
+URL:https://teatrofrancoparenti.it/spettacolo/chi-come-me/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-don-milani-la-parola-che-nutre@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261210T201500
+DTEND;TZID=Europe/Rome:20261210T221500
+SUMMARY:Don Milani. La parola che nutre
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Reading teatrale di e con Fausto Cabra sugli scritti di Don Mil
+ ani\, con le musiche dal vivo di Mimosa Campironi. Da 15 €\, under 30 da
+  12 €. https://teatrofrancoparenti.it/spettacolo/don-milani/
+URL:https://teatrofrancoparenti.it/spettacolo/don-milani/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-bullet-catch@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261210T203000
+DTEND;TZID=Europe/Rome:20261210T223000
+SUMMARY:Bullet Catch
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Un illusionista deve afferrare un proiettile con i denti\, con 
+ l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond\, con 
+ Alex Cendron. 25 €\, under 30 18 €. https://teatrofrancoparenti.it/spe
+ ttacolo/bullet-catch/
+URL:https://teatrofrancoparenti.it/spettacolo/bullet-catch/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-10-bubaro-dei-bubari@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261210T203000
 DTEND;TZID=Europe/Rome:20261210T223000
 SUMMARY:Bùbaro dei Bùbari
@@ -920,7 +1640,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-uno-nessuno-e-centomila@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261210T203000
 DTEND;TZID=Europe/Rome:20261210T223000
 SUMMARY:Uno\, nessuno e centomila
@@ -932,8 +1652,50 @@ URL:https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-10-tutti-gli-uomini-che-non-sono-con-paolo-calabres@acculturiam
+ oci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261210T210000
+DTEND;TZID=Europe/Rome:20261210T230000
+SUMMARY:Tutti gli uomini che non sono\, con Paolo Calabresi
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Paolo Calabresi racconta le sue imprese da impostore\, da finto
+  Nicolas Cage a San Siro in poi\, con Carolina Di Domenico. Da 25 €. htt
+ ps://teatrofrancoparenti.it/spettacolo/tutti-gli-uomini-che-non-sono/
+URL:https://teatrofrancoparenti.it/spettacolo/tutti-gli-uomini-che-non-sono
+ /
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-bullet-catch@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261211T190000
+DTEND;TZID=Europe/Rome:20261211T210000
+SUMMARY:Bullet Catch
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Un illusionista deve afferrare un proiettile con i denti\, con 
+ l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond\, con 
+ Alex Cendron. 25 €\, under 30 18 €. https://teatrofrancoparenti.it/spe
+ ttacolo/bullet-catch/
+URL:https://teatrofrancoparenti.it/spettacolo/bullet-catch/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-don-milani-la-parola-che-nutre@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261211T191500
+DTEND;TZID=Europe/Rome:20261211T211500
+SUMMARY:Don Milani. La parola che nutre
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Reading teatrale di e con Fausto Cabra sugli scritti di Don Mil
+ ani\, con le musiche dal vivo di Mimosa Campironi. Da 15 €\, under 30 da
+  12 €. https://teatrofrancoparenti.it/spettacolo/don-milani/
+URL:https://teatrofrancoparenti.it/spettacolo/don-milani/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-11-il-viale-del-tramonto@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261211T193000
 DTEND;TZID=Europe/Rome:20261211T213000
 SUMMARY:Il viale del tramonto
@@ -944,8 +1706,37 @@ URL:https://www.mentelocale.it/milano/130644-9z37j18mgunne5i.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-11-tutti-gli-uomini-che-non-sono-con-paolo-calabres@acculturiam
+ oci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261211T194500
+DTEND;TZID=Europe/Rome:20261211T214500
+SUMMARY:Tutti gli uomini che non sono\, con Paolo Calabresi
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Paolo Calabresi racconta le sue imprese da impostore\, da finto
+  Nicolas Cage a San Siro in poi\, con Carolina Di Domenico. Da 25 €. htt
+ ps://teatrofrancoparenti.it/spettacolo/tutti-gli-uomini-che-non-sono/
+URL:https://teatrofrancoparenti.it/spettacolo/tutti-gli-uomini-che-non-sono
+ /
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-chi-come-me@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261211T201500
+DTEND;TZID=Europe/Rome:20261211T221500
+SUMMARY:Chi come me
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Adolescenti in un centro di salute mentale ritrovano se stessi 
+ grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah\, n
+ ella nuova Sala A2A. https://teatrofrancoparenti.it/spettacolo/chi-come-me
+ /
+URL:https://teatrofrancoparenti.it/spettacolo/chi-come-me/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-11-bubaro-dei-bubari@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261211T203000
 DTEND;TZID=Europe/Rome:20261211T223000
 SUMMARY:Bùbaro dei Bùbari
@@ -960,7 +1751,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-come-una-specie-di-vertigine-il-nano-calvino-la-@acculturiam
  oci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261211T203000
 DTEND;TZID=Europe/Rome:20261211T223000
 SUMMARY:Come una specie di vertigine (il nano\, Calvino\, la libertà)
@@ -974,7 +1765,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-uno-nessuno-e-centomila@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261211T203000
 DTEND;TZID=Europe/Rome:20261211T223000
 SUMMARY:Uno\, nessuno e centomila
@@ -986,8 +1777,64 @@ URL:https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-12-chi-come-me@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261212T154500
+DTEND;TZID=Europe/Rome:20261212T174500
+SUMMARY:Chi come me
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Adolescenti in un centro di salute mentale ritrovano se stessi 
+ grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah\, n
+ ella nuova Sala A2A. Replica anche alle 19:30. https://teatrofrancoparenti
+ .it/spettacolo/chi-come-me/
+URL:https://teatrofrancoparenti.it/spettacolo/chi-come-me/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-bullet-catch@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261212T190000
+DTEND;TZID=Europe/Rome:20261212T210000
+SUMMARY:Bullet Catch
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Un illusionista deve afferrare un proiettile con i denti\, con 
+ l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond\, con 
+ Alex Cendron. 25 €\, under 30 18 €. https://teatrofrancoparenti.it/spe
+ ttacolo/bullet-catch/
+URL:https://teatrofrancoparenti.it/spettacolo/bullet-catch/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-don-milani-la-parola-che-nutre@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261212T191500
+DTEND;TZID=Europe/Rome:20261212T211500
+SUMMARY:Don Milani. La parola che nutre
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Reading teatrale di e con Fausto Cabra sugli scritti di Don Mil
+ ani\, con le musiche dal vivo di Mimosa Campironi. Da 15 €\, under 30 da
+  12 €. https://teatrofrancoparenti.it/spettacolo/don-milani/
+URL:https://teatrofrancoparenti.it/spettacolo/don-milani/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-tutti-gli-uomini-che-non-sono-con-paolo-calabres@acculturiam
+ oci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261212T194500
+DTEND;TZID=Europe/Rome:20261212T214500
+SUMMARY:Tutti gli uomini che non sono\, con Paolo Calabresi
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Paolo Calabresi racconta le sue imprese da impostore\, da finto
+  Nicolas Cage a San Siro in poi\, con Carolina Di Domenico. Da 25 €. htt
+ ps://teatrofrancoparenti.it/spettacolo/tutti-gli-uomini-che-non-sono/
+URL:https://teatrofrancoparenti.it/spettacolo/tutti-gli-uomini-che-non-sono
+ /
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-12-bubaro-dei-bubari@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261212T203000
 DTEND;TZID=Europe/Rome:20261212T223000
 SUMMARY:Bùbaro dei Bùbari
@@ -1002,7 +1849,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-come-una-specie-di-vertigine-il-nano-calvino-la-@acculturiam
  oci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261212T203000
 DTEND;TZID=Europe/Rome:20261212T223000
 SUMMARY:Come una specie di vertigine (il nano\, Calvino\, la libertà)
@@ -1016,7 +1863,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-il-viale-del-tramonto@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261212T203000
 DTEND;TZID=Europe/Rome:20261212T223000
 SUMMARY:Il viale del tramonto
@@ -1028,7 +1875,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-uno-nessuno-e-centomila@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261212T203000
 DTEND;TZID=Europe/Rome:20261212T223000
 SUMMARY:Uno\, nessuno e centomila
@@ -1041,7 +1888,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-bubaro-dei-bubari@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261213T160000
 DTEND;TZID=Europe/Rome:20261213T180000
 SUMMARY:Bùbaro dei Bùbari
@@ -1056,7 +1903,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-come-una-specie-di-vertigine-il-nano-calvino-la-@acculturiam
  oci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261213T160000
 DTEND;TZID=Europe/Rome:20261213T180000
 SUMMARY:Come una specie di vertigine (il nano\, Calvino\, la libertà)
@@ -1070,7 +1917,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-uno-nessuno-e-centomila@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261213T160000
 DTEND;TZID=Europe/Rome:20261213T180000
 SUMMARY:Uno\, nessuno e centomila
@@ -1082,8 +1929,37 @@ URL:https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-13-tutti-gli-uomini-che-non-sono-con-paolo-calabres@acculturiam
+ oci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261213T161500
+DTEND;TZID=Europe/Rome:20261213T181500
+SUMMARY:Tutti gli uomini che non sono\, con Paolo Calabresi
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Paolo Calabresi racconta le sue imprese da impostore\, da finto
+  Nicolas Cage a San Siro in poi\, con Carolina Di Domenico. Da 25 €. htt
+ ps://teatrofrancoparenti.it/spettacolo/tutti-gli-uomini-che-non-sono/
+URL:https://teatrofrancoparenti.it/spettacolo/tutti-gli-uomini-che-non-sono
+ /
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-bullet-catch@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261213T163000
+DTEND;TZID=Europe/Rome:20261213T183000
+SUMMARY:Bullet Catch
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Un illusionista deve afferrare un proiettile con i denti\, con 
+ l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond\, con 
+ Alex Cendron. 25 €\, under 30 18 €. https://teatrofrancoparenti.it/spe
+ ttacolo/bullet-catch/
+URL:https://teatrofrancoparenti.it/spettacolo/bullet-catch/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-13-il-viale-del-tramonto@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261213T163000
 DTEND;TZID=Europe/Rome:20261213T183000
 SUMMARY:Il viale del tramonto
@@ -1094,8 +1970,50 @@ URL:https://www.mentelocale.it/milano/130644-9z37j18mgunne5i.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-13-chi-come-me@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261213T170000
+DTEND;TZID=Europe/Rome:20261213T190000
+SUMMARY:Chi come me
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Adolescenti in un centro di salute mentale ritrovano se stessi 
+ grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah\, n
+ ella nuova Sala A2A. https://teatrofrancoparenti.it/spettacolo/chi-come-me
+ /
+URL:https://teatrofrancoparenti.it/spettacolo/chi-come-me/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-odysseia-i-suoni-di-ulisse-teatro-patologico@acculturiamoci.
+ it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261214T200000
+DTEND;TZID=Europe/Rome:20261214T220000
+SUMMARY:Odysseia: I suoni di Ulisse (Teatro Patologico)
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Ultimo capitolo della trilogia di Dario D'Ambrosi con la compag
+ nia di attori disabili del Teatro Patologico. Da 15 €. https://teatrofra
+ ncoparenti.it/spettacolo/trilogia-di-dario-dambrosi/
+URL:https://teatrofrancoparenti.it/spettacolo/trilogia-di-dario-dambrosi/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-chi-come-me@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261215T193000
+DTEND;TZID=Europe/Rome:20261215T213000
+SUMMARY:Chi come me
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Adolescenti in un centro di salute mentale ritrovano se stessi 
+ grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah\, n
+ ella nuova Sala A2A. https://teatrofrancoparenti.it/spettacolo/chi-come-me
+ /
+URL:https://teatrofrancoparenti.it/spettacolo/chi-come-me/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-15-don-chisciotte-senza-mancia@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261215T200000
 DTEND;TZID=Europe/Rome:20261215T220000
 SUMMARY:Don Chisciotte senza Mancia
@@ -1107,21 +2025,38 @@ URL:https://www.mentelocale.it/milano/137383-don-chisciotte-senza-mancia.ht
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-15-uno-nessuno-e-centomila@acculturiamoci.it
-DTSTAMP:20261124T150947Z
-DTSTART;TZID=Europe/Rome:20261215T203000
-DTEND;TZID=Europe/Rome:20261215T223000
-SUMMARY:Uno\, nessuno e centomila
-LOCATION:Teatro Leonardo (via Ampère 1)
-DESCRIPTION:Pirandello e la crisi d'identità di Vitangelo Moscarda\, in un
- a versione pensata soprattutto per i giovani. https://www.mentelocale.it/m
- ilano/132940-uno-nessuno-e-centomila.htm
-URL:https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm
+UID:2026-12-15-la-reginetta-di-leenane-con-ambra-angiolini-e-iv@acculturiam
+ oci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261215T200000
+DTEND;TZID=Europe/Rome:20261215T220000
+SUMMARY:La Reginetta di Leenane\, con Ambra Angiolini e Ivana Monti
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Il testo feroce di Martin McDonagh su una madre e una figlia\, 
+ regia di Raphael Tobia Vogel. Da 25 €\, under 30 da 18 €. https://teat
+ rofrancoparenti.it/spettacolo/la-reginetta-di-leenane-con-ambra-angiolini-
+ e-ivana-monti/
+URL:https://teatrofrancoparenti.it/spettacolo/la-reginetta-di-leenane-con-a
+ mbra-angiolini-e-ivana-monti/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-bullet-catch@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261215T201500
+DTEND;TZID=Europe/Rome:20261215T221500
+SUMMARY:Bullet Catch
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Un illusionista deve afferrare un proiettile con i denti\, con 
+ l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond\, con 
+ Alex Cendron. 25 €\, under 30 18 €. https://teatrofrancoparenti.it/spe
+ ttacolo/bullet-catch/
+URL:https://teatrofrancoparenti.it/spettacolo/bullet-catch/
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-luca-ravenna-allo-sbagliato@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261215T203000
 DTEND;TZID=Europe/Rome:20261215T223000
 SUMMARY:Luca Ravenna Allo Sbagliato
@@ -1133,8 +2068,99 @@ URL:https://www.mentelocale.it/milano/141485-luca-ravenna.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-15-maria-cassi-e-leonardo-brizzi-recital-40-anni-di@acculturiam
+ oci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261215T203000
+DTEND;TZID=Europe/Rome:20261215T223000
+SUMMARY:Maria Cassi e Leonardo Brizzi: Recital\, 40 anni di teatro comico m
+ usicale
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Lo storico duo comico-musicale fiorentino festeggia quarant'ann
+ i di palcoscenici. Da 15 €\, under 30 da 12 €. https://teatrofrancopar
+ enti.it/spettacolo/recital-i-nostri-primi-40-anni-di-teatro-comico-musical
+ e/
+URL:https://teatrofrancoparenti.it/spettacolo/recital-i-nostri-primi-40-ann
+ i-di-teatro-comico-musicale/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-uno-nessuno-e-centomila@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261215T203000
+DTEND;TZID=Europe/Rome:20261215T223000
+SUMMARY:Uno\, nessuno e centomila
+LOCATION:Teatro Leonardo (via Ampère 1)
+DESCRIPTION:Pirandello e la crisi d'identità di Vitangelo Moscarda\, in un
+ a versione pensata soprattutto per i giovani. https://www.mentelocale.it/m
+ ilano/132940-uno-nessuno-e-centomila.htm
+URL:https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-maria-cassi-e-leonardo-brizzi-recital-40-anni-di@acculturiam
+ oci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261216T191500
+DTEND;TZID=Europe/Rome:20261216T211500
+SUMMARY:Maria Cassi e Leonardo Brizzi: Recital\, 40 anni di teatro comico m
+ usicale
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Lo storico duo comico-musicale fiorentino festeggia quarant'ann
+ i di palcoscenici. Da 15 €\, under 30 da 12 €. https://teatrofrancopar
+ enti.it/spettacolo/recital-i-nostri-primi-40-anni-di-teatro-comico-musical
+ e/
+URL:https://teatrofrancoparenti.it/spettacolo/recital-i-nostri-primi-40-ann
+ i-di-teatro-comico-musicale/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-la-reginetta-di-leenane-con-ambra-angiolini-e-iv@acculturiam
+ oci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261216T194500
+DTEND;TZID=Europe/Rome:20261216T214500
+SUMMARY:La Reginetta di Leenane\, con Ambra Angiolini e Ivana Monti
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Il testo feroce di Martin McDonagh su una madre e una figlia\, 
+ regia di Raphael Tobia Vogel. Da 25 €\, under 30 da 18 €. https://teat
+ rofrancoparenti.it/spettacolo/la-reginetta-di-leenane-con-ambra-angiolini-
+ e-ivana-monti/
+URL:https://teatrofrancoparenti.it/spettacolo/la-reginetta-di-leenane-con-a
+ mbra-angiolini-e-ivana-monti/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-bullet-catch@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261216T201500
+DTEND;TZID=Europe/Rome:20261216T221500
+SUMMARY:Bullet Catch
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Un illusionista deve afferrare un proiettile con i denti\, con 
+ l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond\, con 
+ Alex Cendron. 25 €\, under 30 18 €. https://teatrofrancoparenti.it/spe
+ ttacolo/bullet-catch/
+URL:https://teatrofrancoparenti.it/spettacolo/bullet-catch/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-chi-come-me@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261216T203000
+DTEND;TZID=Europe/Rome:20261216T223000
+SUMMARY:Chi come me
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Adolescenti in un centro di salute mentale ritrovano se stessi 
+ grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah\, n
+ ella nuova Sala A2A. https://teatrofrancoparenti.it/spettacolo/chi-come-me
+ /
+URL:https://teatrofrancoparenti.it/spettacolo/chi-come-me/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-16-don-chisciotte-senza-mancia@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261216T203000
 DTEND;TZID=Europe/Rome:20261216T223000
 SUMMARY:Don Chisciotte senza Mancia
@@ -1147,7 +2173,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-uno-nessuno-e-centomila@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261216T203000
 DTEND;TZID=Europe/Rome:20261216T223000
 SUMMARY:Uno\, nessuno e centomila
@@ -1160,7 +2186,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-c-e-chi-dice-no-renzo-lucia-i-giovani@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261217T193000
 DTEND;TZID=Europe/Rome:20261217T213000
 SUMMARY:C'è chi dice no: Renzo\, Lucia\, i giovani
@@ -1174,7 +2200,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-don-chisciotte-senza-mancia@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261217T200000
 DTEND;TZID=Europe/Rome:20261217T220000
 SUMMARY:Don Chisciotte senza Mancia
@@ -1186,8 +2212,39 @@ URL:https://www.mentelocale.it/milano/137383-don-chisciotte-senza-mancia.ht
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-17-maria-cassi-e-leonardo-brizzi-recital-40-anni-di@acculturiam
+ oci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261217T201500
+DTEND;TZID=Europe/Rome:20261217T221500
+SUMMARY:Maria Cassi e Leonardo Brizzi: Recital\, 40 anni di teatro comico m
+ usicale
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Lo storico duo comico-musicale fiorentino festeggia quarant'ann
+ i di palcoscenici. Da 15 €\, under 30 da 12 €. https://teatrofrancopar
+ enti.it/spettacolo/recital-i-nostri-primi-40-anni-di-teatro-comico-musical
+ e/
+URL:https://teatrofrancoparenti.it/spettacolo/recital-i-nostri-primi-40-ann
+ i-di-teatro-comico-musicale/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-bullet-catch@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261217T203000
+DTEND;TZID=Europe/Rome:20261217T223000
+SUMMARY:Bullet Catch
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Un illusionista deve afferrare un proiettile con i denti\, con 
+ l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond\, con 
+ Alex Cendron. 25 €\, under 30 18 €. https://teatrofrancoparenti.it/spe
+ ttacolo/bullet-catch/
+URL:https://teatrofrancoparenti.it/spettacolo/bullet-catch/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-17-uno-nessuno-e-centomila@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261217T203000
 DTEND;TZID=Europe/Rome:20261217T223000
 SUMMARY:Uno\, nessuno e centomila
@@ -1199,8 +2256,55 @@ URL:https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-17-la-reginetta-di-leenane-con-ambra-angiolini-e-iv@acculturiam
+ oci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261217T210000
+DTEND;TZID=Europe/Rome:20261217T230000
+SUMMARY:La Reginetta di Leenane\, con Ambra Angiolini e Ivana Monti
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Il testo feroce di Martin McDonagh su una madre e una figlia\, 
+ regia di Raphael Tobia Vogel. Da 25 €\, under 30 da 18 €. https://teat
+ rofrancoparenti.it/spettacolo/la-reginetta-di-leenane-con-ambra-angiolini-
+ e-ivana-monti/
+URL:https://teatrofrancoparenti.it/spettacolo/la-reginetta-di-leenane-con-a
+ mbra-angiolini-e-ivana-monti/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-bullet-catch@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261218T190000
+DTEND;TZID=Europe/Rome:20261218T210000
+SUMMARY:Bullet Catch
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Un illusionista deve afferrare un proiettile con i denti\, con 
+ l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond\, con 
+ Alex Cendron. 25 €\, under 30 18 €. https://teatrofrancoparenti.it/spe
+ ttacolo/bullet-catch/
+URL:https://teatrofrancoparenti.it/spettacolo/bullet-catch/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-maria-cassi-e-leonardo-brizzi-recital-40-anni-di@acculturiam
+ oci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261218T191500
+DTEND;TZID=Europe/Rome:20261218T211500
+SUMMARY:Maria Cassi e Leonardo Brizzi: Recital\, 40 anni di teatro comico m
+ usicale
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Lo storico duo comico-musicale fiorentino festeggia quarant'ann
+ i di palcoscenici. Da 15 €\, under 30 da 12 €. https://teatrofrancopar
+ enti.it/spettacolo/recital-i-nostri-primi-40-anni-di-teatro-comico-musical
+ e/
+URL:https://teatrofrancoparenti.it/spettacolo/recital-i-nostri-primi-40-ann
+ i-di-teatro-comico-musicale/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-18-c-e-chi-dice-no-renzo-lucia-i-giovani@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261218T193000
 DTEND;TZID=Europe/Rome:20261218T213000
 SUMMARY:C'è chi dice no: Renzo\, Lucia\, i giovani
@@ -1213,8 +2317,24 @@ URL:https://www.mentelocale.it/milano/130645-c-chi-dice-no-renzo-lucia-i-gi
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-18-la-reginetta-di-leenane-con-ambra-angiolini-e-iv@acculturiam
+ oci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261218T194500
+DTEND;TZID=Europe/Rome:20261218T214500
+SUMMARY:La Reginetta di Leenane\, con Ambra Angiolini e Ivana Monti
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Il testo feroce di Martin McDonagh su una madre e una figlia\, 
+ regia di Raphael Tobia Vogel. Da 25 €\, under 30 da 18 €. https://teat
+ rofrancoparenti.it/spettacolo/la-reginetta-di-leenane-con-ambra-angiolini-
+ e-ivana-monti/
+URL:https://teatrofrancoparenti.it/spettacolo/la-reginetta-di-leenane-con-a
+ mbra-angiolini-e-ivana-monti/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-18-don-chisciotte-senza-mancia@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261218T200000
 DTEND;TZID=Europe/Rome:20261218T220000
 SUMMARY:Don Chisciotte senza Mancia
@@ -1226,8 +2346,22 @@ URL:https://www.mentelocale.it/milano/137383-don-chisciotte-senza-mancia.ht
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-18-chi-come-me@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261218T201500
+DTEND;TZID=Europe/Rome:20261218T221500
+SUMMARY:Chi come me
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Adolescenti in un centro di salute mentale ritrovano se stessi 
+ grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah\, n
+ ella nuova Sala A2A. https://teatrofrancoparenti.it/spettacolo/chi-come-me
+ /
+URL:https://teatrofrancoparenti.it/spettacolo/chi-come-me/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-18-uno-nessuno-e-centomila@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261218T203000
 DTEND;TZID=Europe/Rome:20261218T223000
 SUMMARY:Uno\, nessuno e centomila
@@ -1239,8 +2373,69 @@ URL:https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-19-chi-come-me@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261219T154500
+DTEND;TZID=Europe/Rome:20261219T174500
+SUMMARY:Chi come me
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Adolescenti in un centro di salute mentale ritrovano se stessi 
+ grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah\, n
+ ella nuova Sala A2A. Replica anche alle 19:30. https://teatrofrancoparenti
+ .it/spettacolo/chi-come-me/
+URL:https://teatrofrancoparenti.it/spettacolo/chi-come-me/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-bullet-catch@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261219T190000
+DTEND;TZID=Europe/Rome:20261219T210000
+SUMMARY:Bullet Catch
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Un illusionista deve afferrare un proiettile con i denti\, con 
+ l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond\, con 
+ Alex Cendron. 25 €\, under 30 18 €. https://teatrofrancoparenti.it/spe
+ ttacolo/bullet-catch/
+URL:https://teatrofrancoparenti.it/spettacolo/bullet-catch/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-maria-cassi-e-leonardo-brizzi-recital-40-anni-di@acculturiam
+ oci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261219T191500
+DTEND;TZID=Europe/Rome:20261219T211500
+SUMMARY:Maria Cassi e Leonardo Brizzi: Recital\, 40 anni di teatro comico m
+ usicale
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Lo storico duo comico-musicale fiorentino festeggia quarant'ann
+ i di palcoscenici. Da 15 €\, under 30 da 12 €. https://teatrofrancopar
+ enti.it/spettacolo/recital-i-nostri-primi-40-anni-di-teatro-comico-musical
+ e/
+URL:https://teatrofrancoparenti.it/spettacolo/recital-i-nostri-primi-40-ann
+ i-di-teatro-comico-musicale/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-la-reginetta-di-leenane-con-ambra-angiolini-e-iv@acculturiam
+ oci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261219T194500
+DTEND;TZID=Europe/Rome:20261219T214500
+SUMMARY:La Reginetta di Leenane\, con Ambra Angiolini e Ivana Monti
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Il testo feroce di Martin McDonagh su una madre e una figlia\, 
+ regia di Raphael Tobia Vogel. Da 25 €\, under 30 da 18 €. https://teat
+ rofrancoparenti.it/spettacolo/la-reginetta-di-leenane-con-ambra-angiolini-
+ e-ivana-monti/
+URL:https://teatrofrancoparenti.it/spettacolo/la-reginetta-di-leenane-con-a
+ mbra-angiolini-e-ivana-monti/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-19-don-chisciotte-senza-mancia@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261219T200000
 DTEND;TZID=Europe/Rome:20261219T220000
 SUMMARY:Don Chisciotte senza Mancia
@@ -1253,7 +2448,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-c-e-chi-dice-no-renzo-lucia-i-giovani@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261219T203000
 DTEND;TZID=Europe/Rome:20261219T223000
 SUMMARY:C'è chi dice no: Renzo\, Lucia\, i giovani
@@ -1267,7 +2462,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-uno-nessuno-e-centomila@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261219T203000
 DTEND;TZID=Europe/Rome:20261219T223000
 SUMMARY:Uno\, nessuno e centomila
@@ -1279,8 +2474,25 @@ URL:https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-20-maria-cassi-e-leonardo-brizzi-recital-40-anni-di@acculturiam
+ oci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261220T154500
+DTEND;TZID=Europe/Rome:20261220T174500
+SUMMARY:Maria Cassi e Leonardo Brizzi: Recital\, 40 anni di teatro comico m
+ usicale
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Lo storico duo comico-musicale fiorentino festeggia quarant'ann
+ i di palcoscenici. Da 15 €\, under 30 da 12 €. https://teatrofrancopar
+ enti.it/spettacolo/recital-i-nostri-primi-40-anni-di-teatro-comico-musical
+ e/
+URL:https://teatrofrancoparenti.it/spettacolo/recital-i-nostri-primi-40-ann
+ i-di-teatro-comico-musicale/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-20-uno-nessuno-e-centomila@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261220T160000
 DTEND;TZID=Europe/Rome:20261220T180000
 SUMMARY:Uno\, nessuno e centomila
@@ -1292,8 +2504,38 @@ URL:https://www.mentelocale.it/milano/132940-uno-nessuno-e-centomila.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-20-la-reginetta-di-leenane-con-ambra-angiolini-e-iv@acculturiam
+ oci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261220T161500
+DTEND;TZID=Europe/Rome:20261220T181500
+SUMMARY:La Reginetta di Leenane\, con Ambra Angiolini e Ivana Monti
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Il testo feroce di Martin McDonagh su una madre e una figlia\, 
+ regia di Raphael Tobia Vogel. Da 25 €\, under 30 da 18 €. https://teat
+ rofrancoparenti.it/spettacolo/la-reginetta-di-leenane-con-ambra-angiolini-
+ e-ivana-monti/
+URL:https://teatrofrancoparenti.it/spettacolo/la-reginetta-di-leenane-con-a
+ mbra-angiolini-e-ivana-monti/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-20-bullet-catch@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261220T163000
+DTEND;TZID=Europe/Rome:20261220T183000
+SUMMARY:Bullet Catch
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Un illusionista deve afferrare un proiettile con i denti\, con 
+ l'aiuto di uno spettatore: teatro e magia dal testo di Rob Drummond\, con 
+ Alex Cendron. 25 €\, under 30 18 €. https://teatrofrancoparenti.it/spe
+ ttacolo/bullet-catch/
+URL:https://teatrofrancoparenti.it/spettacolo/bullet-catch/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-20-c-e-chi-dice-no-renzo-lucia-i-giovani@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261220T163000
 DTEND;TZID=Europe/Rome:20261220T183000
 SUMMARY:C'è chi dice no: Renzo\, Lucia\, i giovani
@@ -1306,8 +2548,22 @@ URL:https://www.mentelocale.it/milano/130645-c-chi-dice-no-renzo-lucia-i-gi
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-20-chi-come-me@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261220T170000
+DTEND;TZID=Europe/Rome:20261220T190000
+SUMMARY:Chi come me
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Adolescenti in un centro di salute mentale ritrovano se stessi 
+ grazie al teatro: il testo di Roy Chen diretto da Andrée Ruth Shammah\, n
+ ella nuova Sala A2A. https://teatrofrancoparenti.it/spettacolo/chi-come-me
+ /
+URL:https://teatrofrancoparenti.it/spettacolo/chi-come-me/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-20-don-chisciotte-senza-mancia@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261220T170000
 DTEND;TZID=Europe/Rome:20261220T190000
 SUMMARY:Don Chisciotte senza Mancia

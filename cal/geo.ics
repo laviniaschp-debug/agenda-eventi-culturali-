@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-l-universo-ideologico-di-trump@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261124T163000
 DTEND;TZID=Europe/Rome:20261124T183000
 SUMMARY:L'universo ideologico di Trump
@@ -39,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-la-democrazia-partecipativa-tra-crisi-della-rapp@acculturiam
  oci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261124T163000
 DTEND;TZID=Europe/Rome:20261124T183000
 SUMMARY:La democrazia partecipativa tra crisi della rappresentanza e stato 
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-oltre-la-rappresaglia-la-repressione-nazista-in-@acculturiam
  oci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261125T123000
 DTEND;TZID=Europe/Rome:20261125T143000
 SUMMARY:Oltre la rappresaglia: la repressione nazista in Boemia e Moravia
@@ -65,7 +65,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-era-tanto-un-bravo-ragazzo@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261125T183000
 DTEND;TZID=Europe/Rome:20261125T203000
 SUMMARY:Era tanto un bravo ragazzo
@@ -79,7 +79,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-le-sparizioni-forzate-in-america-latina@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261126T090000
 DTEND;TZID=Europe/Rome:20261126T110000
 SUMMARY:Le sparizioni forzate in America Latina
@@ -92,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-milena-gabanelli-e-simona-ravizza-la-resa-dei-co@acculturiam
  oci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261126T183000
 DTEND;TZID=Europe/Rome:20261126T203000
 SUMMARY:Milena Gabanelli e Simona Ravizza\, La resa dei conti
@@ -106,9 +106,22 @@ URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
 CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-26-monica-maggioni-il-partito-di-dio@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261126T183000
+DTEND;TZID=Europe/Rome:20261126T203000
+SUMMARY:Monica Maggioni: Il partito di Dio
+LOCATION:Teatro Franco Parenti\, Café Rouge (via Pier Lombardo 14)
+DESCRIPTION:La giornalista presenta il suo nuovo libro. BookCity: ingresso 
+ libero fino a esaurimento posti. https://teatrofrancoparenti.it/?post_type
+ =spettacolo&p=53442
+URL:https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-campi-celle-ceneri-la-scrittura-palestinese@acculturiamoci.i
  t
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261127T163000
 DTEND;TZID=Europe/Rome:20261127T183000
 SUMMARY:Campi\, celle\, ceneri: la scrittura palestinese
@@ -120,7 +133,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-una-legge-elettorale-inaccettabile@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261127T180000
 DTEND;TZID=Europe/Rome:20261127T200000
 SUMMARY:Una legge elettorale inaccettabile
@@ -134,7 +147,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-scrivere-per-resistere-premio-pen-inge-feltrinel@acculturiam
  oci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Scrivere per resistere: Premio PEN Inge Feltrinelli
@@ -148,7 +161,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-80-anni-dopo-l-astensionismo-elettorale-e-come-c@acculturiam
  oci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261128T093000
 DTEND;TZID=Europe/Rome:20261128T113000
 SUMMARY:80 anni dopo: l'astensionismo elettorale e come contrastarlo
@@ -161,7 +174,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-il-verde-e-il-nero@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Il verde e il nero
@@ -175,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-capitalismo-e-democrazia-nuovi-poteri-economici-@acculturiam
  oci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261130T173000
 DTEND;TZID=Europe/Rome:20261130T193000
 SUMMARY:Capitalismo e democrazia: nuovi poteri economici globali
@@ -189,7 +202,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-left-summit-questione-di-classe-con-schlein-cont@acculturiam
  oci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261202T183000
 DTEND;TZID=Europe/Rome:20261202T203000
 SUMMARY:Left Summit: Questione di classe\, con Schlein\, Conte e Fratoianni
@@ -205,7 +218,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-left-summit-ritrovare-la-forza-del-collettivo@acculturiamoci
  .it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261203T180000
 DTEND;TZID=Europe/Rome:20261203T200000
 SUMMARY:Left Summit: Ritrovare la forza del collettivo
@@ -216,6 +229,22 @@ DESCRIPTION:Seconda giornata: linguaggi\, agenda e organizzazione della sin
  it-seconda-giornata/
 URL:https://fondazionefeltrinelli.it/partecipa/left-summit-seconda-giornata
  /
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-mannheimer-e-pasquino-cosa-pensano-gli-italiani-@acculturiam
+ oci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261210T183000
+DTEND;TZID=Europe/Rome:20261210T203000
+SUMMARY:Mannheimer e Pasquino: cosa pensano gli italiani del mondo
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Il libro sulle percezioni degli italiani in politica internazio
+ nale\, con Maurizio Molinari. Biglietto cortesia 5 €. https://teatrofran
+ coparenti.it/spettacolo/incontro-con-renato-mannheimer-e-pasquale-pasquino
+ -fp/
+URL:https://teatrofrancoparenti.it/spettacolo/incontro-con-renato-mannheime
+ r-e-pasquale-pasquino-fp/
 CATEGORIES:Geopolitica
 END:VEVENT
 END:VCALENDAR

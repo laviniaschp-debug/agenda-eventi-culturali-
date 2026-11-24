@@ -25,8 +25,21 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-11-28-circoluna-circo-teatro-d-ombre-2-5-anni@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261128T163000
+DTEND;TZID=Europe/Rome:20261128T183000
+SUMMARY:Circoluna\, circo-teatro d'ombre (2-5 anni)
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Teatro Gioco Vita: l'unico circo fatto di ombre\, per bambini d
+ ai 2 ai 5 anni. 15 €\, bambini 12 €\, famiglia 36 €. https://teatrof
+ rancoparenti.it/spettacolo/circoluna/
+URL:https://teatrofrancoparenti.it/spettacolo/circoluna/
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-visite-e-laboratori-per-famiglie@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Visite e laboratori per famiglie
@@ -37,7 +50,7 @@ CATEGORIES:Famiglie
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-bookcity-0-6@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261129T110000
 DTEND;TZID=Europe/Rome:20261129T130000
 SUMMARY:BookCity 0-6
@@ -51,7 +64,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-avatar-tra-anime-e-manga-laboratorio-8-16-anni@acculturiamoc
  i.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261129T111500
 DTEND;TZID=Europe/Rome:20261129T131500
 SUMMARY:Avatar: tra anime e manga (laboratorio 8-16 anni)
@@ -64,7 +77,7 @@ CATEGORIES:Famiglie
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-buon-compleanno-gus@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261129T113000
 DTEND;TZID=Europe/Rome:20261129T133000
 SUMMARY:Buon compleanno Gus!
@@ -78,7 +91,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-ciak-si-gira-con-lo-smartphone-laboratorio-8-16-@acculturiam
  oci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261129T151500
 DTEND;TZID=Europe/Rome:20261129T171500
 SUMMARY:Ciak\, si gira con lo smartphone! (laboratorio 8-16 anni)
@@ -91,8 +104,21 @@ URL:https://www.steptothefuture.it/it/agenda/ciak-si-gira-con-lo-smartphone
 CATEGORIES:Famiglie
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-circoluna-circo-teatro-d-ombre-2-5-anni@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261129T163000
+DTEND;TZID=Europe/Rome:20261129T183000
+SUMMARY:Circoluna\, circo-teatro d'ombre (2-5 anni)
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Teatro Gioco Vita: l'unico circo fatto di ombre\, per bambini d
+ ai 2 ai 5 anni. 15 €\, bambini 12 €\, famiglia 36 €. https://teatrof
+ rancoparenti.it/spettacolo/circoluna/
+URL:https://teatrofrancoparenti.it/spettacolo/circoluna/
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-gli-elfi-di-babbo-natale@acculturiamoci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Gli elfi di Babbo Natale
@@ -102,6 +128,92 @@ DESCRIPTION:Spettacolo natalizio per bambini della rassegna Fantateatro. ht
  .htm
 URL:https://www.teatrocarcano.com/eventi/2026-2027/gli-elfi-di-babbo-natale
  -2627.htm
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-controvento-bolle-di-sapone-e-clownerie-da-3-ann@acculturiam
+ oci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261207T163000
+DTEND;TZID=Europe/Rome:20261207T183000
+SUMMARY:Controvento\, bolle di sapone e clownerie (da 3 anni)
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Michele Cafaggi senza parole tra vento\, nuvole e bolle di sapo
+ ne giganti. Per bambini da 3 anni. https://teatrofrancoparenti.it/spettaco
+ lo/controvento/
+URL:https://teatrofrancoparenti.it/spettacolo/controvento/
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-controvento-bolle-di-sapone-e-clownerie-da-3-ann@acculturiam
+ oci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261208T163000
+DTEND;TZID=Europe/Rome:20261208T183000
+SUMMARY:Controvento\, bolle di sapone e clownerie (da 3 anni)
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Michele Cafaggi senza parole tra vento\, nuvole e bolle di sapo
+ ne giganti. Per bambini da 3 anni. https://teatrofrancoparenti.it/spettaco
+ lo/controvento/
+URL:https://teatrofrancoparenti.it/spettacolo/controvento/
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-hana-e-momo-3-8-anni@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261212T163000
+DTEND;TZID=Europe/Rome:20261212T183000
+SUMMARY:Hanà e Momò (3-8 anni)
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Due bambine\, un cerchio di sabbia e tanti giochi: da una stori
+ a di Hesse\, la rivalità che diventa amicizia. https://teatrofrancoparent
+ i.it/spettacolo/hana-e-momo/
+URL:https://teatrofrancoparenti.it/spettacolo/hana-e-momo/
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-hana-e-momo-3-8-anni@acculturiamoci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261213T163000
+DTEND;TZID=Europe/Rome:20261213T183000
+SUMMARY:Hanà e Momò (3-8 anni)
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Due bambine\, un cerchio di sabbia e tanti giochi: da una stori
+ a di Hesse\, la rivalità che diventa amicizia. https://teatrofrancoparent
+ i.it/spettacolo/hana-e-momo/
+URL:https://teatrofrancoparenti.it/spettacolo/hana-e-momo/
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-cappuccetto-rosso-nella-pancia-del-lupo-da-5-ann@acculturiam
+ oci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261219T163000
+DTEND;TZID=Europe/Rome:20261219T183000
+SUMMARY:Cappuccetto Rosso. Nella pancia del Lupo (da 5 anni)
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Cappuccetto inghiottita dal lupo deve trovare l'uscita con l'ai
+ uto dei bambini in sala. 15 €\, bambini 12 €\, famiglia 36 €. https:
+ //teatrofrancoparenti.it/spettacolo/cappuccetto-rosso-nella-pancia-del-lup
+ o/
+URL:https://teatrofrancoparenti.it/spettacolo/cappuccetto-rosso-nella-panci
+ a-del-lupo/
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-20-cappuccetto-rosso-nella-pancia-del-lupo-da-5-ann@acculturiam
+ oci.it
+DTSTAMP:20261124T151450Z
+DTSTART;TZID=Europe/Rome:20261220T163000
+DTEND;TZID=Europe/Rome:20261220T183000
+SUMMARY:Cappuccetto Rosso. Nella pancia del Lupo (da 5 anni)
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Cappuccetto inghiottita dal lupo deve trovare l'uscita con l'ai
+ uto dei bambini in sala. 15 €\, bambini 12 €\, famiglia 36 €. https:
+ //teatrofrancoparenti.it/spettacolo/cappuccetto-rosso-nella-pancia-del-lup
+ o/
+URL:https://teatrofrancoparenti.it/spettacolo/cappuccetto-rosso-nella-panci
+ a-del-lupo/
 CATEGORIES:Famiglie
 END:VEVENT
 END:VCALENDAR

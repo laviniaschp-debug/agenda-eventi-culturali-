@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-27-monica-calcagni-il-mio-viaggio-al-fianco-delle-d@acculturiam
  oci.it
-DTSTAMP:20261124T150947Z
+DTSTAMP:20261124T151450Z
 DTSTART;TZID=Europe/Rome:20261127T160000
 DTEND;TZID=Europe/Rome:20261127T180000
 SUMMARY:Monica Calcagni: Il mio viaggio al fianco delle donne
