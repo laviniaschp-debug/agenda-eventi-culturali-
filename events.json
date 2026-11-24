@@ -1331,6 +1331,28 @@
   {
    "date": "2026-11-26",
    "time": "18:00",
+   "title": "La nuova legge elettorale: riflessioni sulla riforma",
+   "venue": "Fondazione Corriere della Sera, Sala Buzzati (via Balzan 3)",
+   "cat": "geo",
+   "desc": "Un confronto sulla riforma della legge elettorale e su cosa cambia per chi vota. Ingresso libero con prenotazione obbligatoria su fondazionecorriere.corriere.it.",
+   "url": "https://www.fondazionecorriere.corriere.it/iniziative/la-nuova-legge-elettorale/",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "e376",
+   "key": "2026-11-26-la-nuova-legge-elettorale-riflessioni-sulla-rifo",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4775,
+    9.187
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "18:00",
    "title": "Letture e note al museo: Guido Cantelli",
    "venue": "Museo Teatrale alla Scala",
    "cat": "talk",
@@ -1889,6 +1911,30 @@
   },
   {
    "date": "2026-11-27",
+   "time": "11:00",
+   "title": "L'età dei social: quando entrare, come proteggersi, cosa non perdere",
+   "venue": "Fondazione Corriere della Sera, Sala Buzzati (via Balzan 3)",
+   "cat": "tech",
+   "desc": "Istituzioni, esperti e studenti sui ragazzi e i social, con Ferruccio de Bortoli. BookCity: gratis, prenotazione obbligatoria.",
+   "url": "https://www.fondazionecorriere.corriere.it/iniziative/",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e377",
+   "key": "2026-11-27-l-eta-dei-social-quando-entrare-come-proteggersi",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4775,
+    9.187
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-27",
    "time": "16:30",
    "title": "Campi, celle, ceneri: la scrittura palestinese",
    "venue": "Statale, via Festa del Perdono 3, aula 109",
@@ -1911,6 +1957,30 @@
     9.1945
    ],
    "zona": "Centro"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "17:00",
+   "title": "Cristina Dell'Acqua: Il dono del mito",
+   "venue": "Fondazione Corriere della Sera, Sala Buzzati (via Balzan 3)",
+   "cat": "storia",
+   "desc": "Quello che gli antichi sapevano di noi: la grecista presenta il suo nuovo libro. BookCity: gratis, prenotazione obbligatoria.",
+   "url": "https://www.fondazionecorriere.corriere.it/iniziative/il-dono-del-mito/",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e378",
+   "key": "2026-11-27-cristina-dell-acqua-il-dono-del-mito",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4775,
+    9.187
+   ],
+   "zona": "Brera · Garibaldi · Isola"
   },
   {
    "date": "2026-11-27",
@@ -1981,6 +2051,30 @@
     9.199
    ],
    "zona": "Centro"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "18:30",
+   "title": "Federico Fubini: Imperi allo specchio",
+   "venue": "Fondazione Corriere della Sera, Sala Buzzati (via Balzan 3)",
+   "cat": "geo",
+   "desc": "Il giornalista economico del Corriere presenta il libro con Maria Serena Natale. BookCity: gratis, prenotazione obbligatoria.",
+   "url": "https://www.fondazionecorriere.corriere.it/iniziative/",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e379",
+   "key": "2026-11-27-federico-fubini-imperi-allo-specchio",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4775,
+    9.187
+   ],
+   "zona": "Brera · Garibaldi · Isola"
   },
   {
    "date": "2026-11-27",
@@ -2188,6 +2282,31 @@
   {
    "date": "2026-11-27",
    "time": "20:30",
+   "title": "150 anni Corriere della Sera. Il racconto dell'Italia: proiezione",
+   "venue": "Fondazione Corriere della Sera, Sala Buzzati (via Balzan 3)",
+   "cat": "cinema",
+   "desc": "Con Neri Marcorè. BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
+   "url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e079",
+   "key": "2026-11-27-150-anni-corriere-della-sera-il-racconto-dell-it",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4775,
+    9.187
+   ],
+   "zona": "Brera · Garibaldi · Isola",
+   "status": "esaurito"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "20:30",
    "title": "Adelchi con Roberto Trifirò",
    "venue": "Centro Culturale di Milano",
    "cat": "teatro",
@@ -2231,30 +2350,6 @@
     9.1846
    ],
    "zona": "Centro"
-  },
-  {
-   "date": "2026-11-27",
-   "time": "20:30",
-   "title": "Docufilm sui 150 anni del Corriere",
-   "venue": "Fondazione Corriere della Sera",
-   "cat": "cinema",
-   "desc": "Con Neri Marcorè. BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
-   "url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
-   "free": true,
-   "tags": [
-    "bookcity"
-   ],
-   "verify": false,
-   "id": "e079",
-   "key": "2026-11-27-docufilm-sui-150-anni-del-corriere",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.4775,
-    9.187
-   ],
-   "zona": "Brera · Garibaldi · Isola"
   },
   {
    "date": "2026-11-27",
@@ -2604,6 +2699,31 @@
   {
    "date": "2026-11-28",
    "time": "11:00",
+   "title": "Bruno Vespa e Paolo Mieli: Storia della Seconda Repubblica",
+   "venue": "Fondazione Corriere della Sera, Sala Buzzati (via Balzan 3)",
+   "cat": "storia",
+   "desc": "Trent'anni di politica italiana raccontati da Vespa in dialogo con Mieli. BookCity: gratis, prenotazione obbligatoria.",
+   "url": "https://www.fondazionecorriere.corriere.it/iniziative/storia-della-seconda-repubblica/",
+   "free": true,
+   "tags": [
+    "bookcity",
+    "imperdibile"
+   ],
+   "verify": false,
+   "id": "e380",
+   "key": "2026-11-28-bruno-vespa-e-paolo-mieli-storia-della-seconda-r",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4775,
+    9.187
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "11:00",
    "title": "Codice Girard: Giulio Milani, Paolo Bianchi e Alessandro Gnocchi",
    "venue": "Teatro Franco Parenti, Biblioteca (via Pier Lombardo 14)",
    "cat": "filosofia",
@@ -2771,6 +2891,30 @@
   },
   {
    "date": "2026-11-28",
+   "time": "15:30",
+   "title": "Il voto di Anna. 2 giugno 1946: proiezione",
+   "venue": "Fondazione Corriere della Sera, Sala Buzzati (via Balzan 3)",
+   "cat": "cinema",
+   "desc": "Docufilm di Simona Risi sugli 80 anni del voto alle donne, musiche di Remo Anzovino. BookCity: gratis, prenotazione obbligatoria.",
+   "url": "https://www.fondazionecorriere.corriere.it/iniziative/il-voto-di-anna-2-giugno-1946/",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e381",
+   "key": "2026-11-28-il-voto-di-anna-2-giugno-1946-proiezione",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4775,
+    9.187
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-28",
    "time": "16:30",
    "title": "Circoluna, circo-teatro d'ombre (2-5 anni)",
    "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
@@ -2912,6 +3056,32 @@
     9.208
    ],
    "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "18:00",
+   "title": "Angelo Panebianco: Ordine e disordine nella politica internazionale",
+   "venue": "Fondazione Corriere della Sera, Sala Buzzati (via Balzan 3)",
+   "cat": "geo",
+   "desc": "Il politologo ed editorialista del Corriere presenta il suo libro (il Mulino) con Maurizio Ferrera, Giuseppe Sarcina e Maria Serena Natale. BookCity: gratis, prenotazione obbligatoria.",
+   "url": "https://www.fondazionecorriere.corriere.it/iniziative/ordine-e-disordine-nella-politica-internazionale/",
+   "free": true,
+   "tags": [
+    "bookcity",
+    "imperdibile"
+   ],
+   "verify": false,
+   "id": "e382",
+   "why": "Per capire il disordine del mondo di oggi con uno dei politologi più letti d'Italia, gratis.",
+   "key": "2026-11-28-angelo-panebianco-ordine-e-disordine-nella-polit",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4775,
+    9.187
+   ],
+   "zona": "Brera · Garibaldi · Isola"
   },
   {
    "date": "2026-11-28",
@@ -3254,6 +3424,30 @@
   {
    "date": "2026-11-28",
    "time": "20:30",
+   "title": "Mio fratello è un cavaliere Jedi: autismo e amicizia",
+   "venue": "Fondazione Corriere della Sera, Sala Buzzati (via Balzan 3)",
+   "cat": "salute",
+   "desc": "Nico Acampora di PizzAut con Elisabetta Soglio, dal pregiudizio all'inclusione. BookCity: gratis, prenotazione obbligatoria.",
+   "url": "https://www.fondazionecorriere.corriere.it/iniziative/",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e383",
+   "key": "2026-11-28-mio-fratello-e-un-cavaliere-jedi-autismo-e-amici",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4775,
+    9.187
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "20:30",
    "title": "Stai zitta!",
    "venue": "Teatro Carcano",
    "cat": "teatro",
@@ -3551,6 +3745,31 @@
     9.2033
    ],
    "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "11:00",
+   "title": "Oriana Fallaci. Una donna",
+   "venue": "Fondazione Corriere della Sera, Sala Buzzati (via Balzan 3)",
+   "cat": "storia",
+   "desc": "Con Ferruccio de Bortoli, Vittorio Feltri, Alessandro Cannavò ed Edoardo Perazzi, modera Andrea Cangini. BookCity, gratis.",
+   "url": "https://www.fondazionecorriere.corriere.it/iniziative/oriana-fallaci-4/",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e384",
+   "status": "esaurito",
+   "key": "2026-11-29-oriana-fallaci-una-donna",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4775,
+    9.187
+   ],
+   "zona": "Brera · Garibaldi · Isola"
   },
   {
    "date": "2026-11-29",
@@ -3945,6 +4164,31 @@
    "geo": [
     45.4896,
     9.1887
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "16:00",
+   "title": "La Lettura: #amore(dis)amore",
+   "venue": "Fondazione Corriere della Sera, Sala Buzzati (via Balzan 3)",
+   "cat": "talk",
+   "desc": "La festa annuale dell'inserto culturale del Corriere, quest'anno sull'amore e il disamore. BookCity: gratis, prenotazione obbligatoria.",
+   "url": "https://www.fondazionecorriere.corriere.it/iniziative/la-lettura-6/",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e385",
+   "key": "2026-11-29-la-lettura-amore-dis-amore",
+   "moods": [
+    "gente",
+    "pensare"
+   ],
+   "geo": [
+    45.4775,
+    9.187
    ],
    "zona": "Brera · Garibaldi · Isola"
   },
@@ -4715,6 +4959,28 @@
     9.1965
    ],
    "zona": "Centro"
+  },
+  {
+   "date": "2026-12-01",
+   "time": "18:00",
+   "title": "Lezioni di poesia: Giuseppe Gioachino Belli, il plebeo metafisico",
+   "venue": "Fondazione Corriere della Sera, Sala Buzzati (via Balzan 3)",
+   "cat": "talk",
+   "desc": "Una lezione sul poeta dei sonetti romaneschi. Ingresso libero con prenotazione obbligatoria su fondazionecorriere.corriere.it.",
+   "url": "https://www.fondazionecorriere.corriere.it/iniziative/lezioni-di-poesia-belli/",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "e386",
+   "key": "2026-12-01-lezioni-di-poesia-giuseppe-gioachino-belli-il-pl",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4775,
+    9.187
+   ],
+   "zona": "Brera · Garibaldi · Isola"
   },
   {
    "date": "2026-12-01",
