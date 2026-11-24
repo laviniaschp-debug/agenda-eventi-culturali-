@@ -178,5 +178,29 @@
   "lat": 41.848,
   "lng": 12.495,
   "zona": "EUR e sud"
+ },
+ {
+  "match": "Santa Cecilia in Trastevere",
+  "lat": 41.8871,
+  "lng": 12.4766,
+  "zona": "Trastevere · Testaccio · Ostiense"
+ },
+ {
+  "match": "Pantheon",
+  "lat": 41.8986,
+  "lng": 12.4769,
+  "zona": "Centro storico"
+ },
+ {
+  "match": "San Paolo entro le Mura",
+  "lat": 41.9011,
+  "lng": 12.4939,
+  "zona": "Esquilino · Monti · San Lorenzo"
+ },
+ {
+  "match": "San Giovanni in Laterano",
+  "lat": 41.8858,
+  "lng": 12.5057,
+  "zona": "Esquilino · Monti · San Lorenzo"
  }
 ]

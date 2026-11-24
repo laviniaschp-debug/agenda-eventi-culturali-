@@ -7,6 +7,68 @@
  "events": [
   {
    "date": "2026-11-24",
+   "time": "",
+   "title": "Carl Gustav Jung attraverso il cinema e l'attualità",
+   "venue": "Philo (su Zoom)",
+   "cat": "filosofia",
+   "desc": "Gratuito.",
+   "url": "https://www.scuolaphilo.it/evento-philo/jungcinema_202609241823/",
+   "free": true,
+   "tags": [],
+   "verify": true,
+   "id": "e021",
+   "key": "2026-11-24-carl-gustav-jung-attraverso-il-cinema-e-l-attual",
+   "moods": [
+    "gente",
+    "pensare"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "time": "",
+   "title": "Celebrate Studio 54!",
+   "venue": "Blue Note (via Borsieri 37)",
+   "cat": "jazz",
+   "desc": "Serata dedicata alle atmosfere disco del leggendario club newyorkese.",
+   "url": "https://bluenotemilano.com/show/concerto-celebrate-studio-54-24-novembre-2026-milano/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "e022",
+   "key": "2026-11-24-celebrate-studio-54",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4877,
+    9.1878
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "",
+   "title": "Iliade: la ballata di Tersite",
+   "venue": "Teatro Filodrammatici",
+   "cat": "teatro",
+   "desc": "Matinée: la guerra di Troia vista dal soldato più sgraziato dell'Iliade.",
+   "url": "https://teatrofilodrammatici.eu/spettacoli/iliade-la-ballata-di-tersite-matinee/",
+   "free": null,
+   "tags": [],
+   "verify": true,
+   "id": "e023",
+   "key": "2026-11-24-iliade-la-ballata-di-tersite",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4677,
+    9.188
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-11-24",
    "time": "10:30",
    "title": "La ragione di Orlando. Come il Medioevo imparò a dare conto delle cose",
    "venue": "Statale, via Santa Sofia 9, aula M203",
@@ -489,35 +551,62 @@
   },
   {
    "date": "2026-11-24",
-   "time": "",
-   "title": "Carl Gustav Jung attraverso il cinema e l'attualità",
-   "venue": "Philo (su Zoom)",
-   "cat": "filosofia",
-   "desc": "Gratuito.",
-   "url": "https://www.scuolaphilo.it/evento-philo/jungcinema_202609241823/",
-   "free": true,
-   "tags": [],
-   "verify": true,
-   "id": "e021",
-   "key": "2026-11-24-carl-gustav-jung-attraverso-il-cinema-e-l-attual",
-   "moods": [
-    "gente",
-    "pensare"
-   ]
-  },
-  {
-   "date": "2026-11-24",
-   "time": "",
-   "title": "Celebrate Studio 54!",
-   "venue": "Blue Note (via Borsieri 37)",
-   "cat": "jazz",
-   "desc": "Serata dedicata alle atmosfere disco del leggendario club newyorkese.",
-   "url": "https://bluenotemilano.com/show/concerto-celebrate-studio-54-24-novembre-2026-milano/",
+   "time": "20:30",
+   "title": "Carlotta Spallino, Fill Pill e Cecilia Forastieri: stand-up Allo Sbagliato",
+   "venue": "Allo Sbagliato · Teatro Principe (viale Bligny 52)",
+   "cat": "teatro",
+   "desc": "Serata comica nel club off-line diretto da Marco Mengoni: telefoni chiusi in una custodia per tutta la sera. MC Pietro Sparacino.",
+   "url": "https://www.mentelocale.it/milano/141482-carlotta-spallino.htm",
    "free": false,
    "tags": [],
+   "verify": false,
+   "id": "e238",
+   "key": "2026-11-24-carlotta-spallino-fill-pill-e-cecilia-forastieri",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.4521,
+    9.1965
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "",
+   "title": "Bobby",
+   "venue": "Teatro Oscar",
+   "cat": "teatro",
+   "desc": "Regia di Giacomo Poretti.",
+   "url": "https://mentelocale.it/milano/eventi/",
+   "free": null,
+   "tags": [],
    "verify": true,
-   "id": "e022",
-   "key": "2026-11-24-celebrate-studio-54",
+   "id": "e042",
+   "key": "2026-11-25-bobby",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.456,
+    9.2215
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "",
+   "title": "LiV Warfield",
+   "venue": "Blue Note (via Borsieri 37)",
+   "cat": "jazz",
+   "desc": "La cantante soul-funk statunitense dal vivo.",
+   "url": "https://bluenotemilano.com/show/liv-warfield-25-novembre-2026-_-milano/",
+   "free": null,
+   "tags": [],
+   "verify": true,
+   "id": "e043",
+   "key": "2026-11-25-liv-warfield",
    "moods": [
     "emozionarmi"
    ],
@@ -528,26 +617,28 @@
    "zona": "Brera · Garibaldi · Isola"
   },
   {
-   "date": "2026-11-24",
+   "date": "2026-11-25",
    "time": "",
-   "title": "Iliade: la ballata di Tersite",
-   "venue": "Teatro Filodrammatici",
-   "cat": "teatro",
-   "desc": "Matinée: la guerra di Troia vista dal soldato più sgraziato dell'Iliade.",
-   "url": "https://teatrofilodrammatici.eu/spettacoli/iliade-la-ballata-di-tersite-matinee/",
-   "free": null,
-   "tags": [],
+   "title": "Silvia Romani e Federica Fracassi sul mito antico",
+   "venue": "Teatro Franco Parenti",
+   "cat": "storia",
+   "desc": "BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
+   "url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
    "verify": true,
-   "id": "e023",
-   "key": "2026-11-24-iliade-la-ballata-di-tersite",
+   "id": "e044",
+   "key": "2026-11-25-silvia-romani-e-federica-fracassi-sul-mito-antic",
    "moods": [
-    "emozionarmi"
+    "pensare"
    ],
    "geo": [
-    45.4677,
-    9.188
+    45.453,
+    9.208
    ],
-   "zona": "Centro"
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-11-25",
@@ -966,40 +1057,35 @@
    "zona": "Navigli · Tortona · S. Ambrogio"
   },
   {
-   "date": "2026-11-25",
+   "date": "2026-11-26",
    "time": "",
-   "title": "Bobby",
-   "venue": "Teatro Oscar",
-   "cat": "teatro",
-   "desc": "Regia di Giacomo Poretti.",
-   "url": "https://mentelocale.it/milano/eventi/",
+   "title": "A flauto e cembalo (Milano Arte Musica)",
+   "venue": "Sala Capitolare del Bergognone",
+   "cat": "classica",
+   "desc": "Marco Scorticati e Davide Pozzi in un programma barocco per flauto e clavicembalo.",
+   "url": "https://www.mentelocale.it/milano/146894-flauto-cembalo.htm",
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e042",
-   "key": "2026-11-25-bobby",
+   "id": "e065",
+   "key": "2026-11-26-a-flauto-e-cembalo-milano-arte-musica",
    "moods": [
     "emozionarmi"
-   ],
-   "geo": [
-    45.456,
-    9.2215
-   ],
-   "zona": "Porta Romana · Vittoria"
+   ]
   },
   {
-   "date": "2026-11-25",
+   "date": "2026-11-26",
    "time": "",
-   "title": "LiV Warfield",
+   "title": "Luca Barbarossa",
    "venue": "Blue Note (via Borsieri 37)",
    "cat": "jazz",
-   "desc": "La cantante soul-funk statunitense dal vivo.",
-   "url": "https://bluenotemilano.com/show/liv-warfield-25-novembre-2026-_-milano/",
-   "free": null,
+   "desc": "Il cantautore romano in concerto in formato club.",
+   "url": "https://bluenotemilano.com/show/concerto-luca-barbarossa-26-novembre-2026-milano/",
+   "free": false,
    "tags": [],
    "verify": true,
-   "id": "e043",
-   "key": "2026-11-25-liv-warfield",
+   "id": "e066",
+   "key": "2026-11-26-luca-barbarossa",
    "moods": [
     "emozionarmi"
    ],
@@ -1008,30 +1094,6 @@
     9.1878
    ],
    "zona": "Brera · Garibaldi · Isola"
-  },
-  {
-   "date": "2026-11-25",
-   "time": "",
-   "title": "Silvia Romani e Federica Fracassi sul mito antico",
-   "venue": "Teatro Franco Parenti",
-   "cat": "storia",
-   "desc": "BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
-   "url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
-   "free": true,
-   "tags": [
-    "bookcity"
-   ],
-   "verify": true,
-   "id": "e044",
-   "key": "2026-11-25-silvia-romani-e-federica-fracassi-sul-mito-antic",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    45.453,
-    9.208
-   ],
-   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-11-26",
@@ -1328,7 +1390,7 @@
     45.5162,
     9.1937
    ],
-   "zona": "Niguarda"
+   "zona": "Fuori centro"
   },
   {
    "date": "2026-11-26",
@@ -1488,35 +1550,90 @@
    "zona": "Navigli · Tortona · S. Ambrogio"
   },
   {
-   "date": "2026-11-26",
+   "date": "2026-11-27",
    "time": "",
-   "title": "A flauto e cembalo (Milano Arte Musica)",
-   "venue": "Sala Capitolare del Bergognone",
-   "cat": "classica",
-   "desc": "Marco Scorticati e Davide Pozzi in un programma barocco per flauto e clavicembalo.",
-   "url": "https://www.mentelocale.it/milano/146894-flauto-cembalo.htm",
+   "title": "E tu, come lo sai? Capire la scienza per decidere insieme",
+   "venue": "Museo Scienza e Tecnologia",
+   "cat": "scienza",
+   "desc": "Con Amalia Ercoli Finzi e Paola Dubini. BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
+   "url": "https://www.mentelocale.it/milano/146478-bookcity-milano-2026-iniziative-e-incontri-al-museo-nazionale-scienza-e-tecnologia.htm",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": true,
+   "id": "e086",
+   "key": "2026-11-27-e-tu-come-lo-sai-capire-la-scienza-per-decidere-",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4628,
+    9.1707
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "",
+   "title": "Oltre la punizione: riparare, riannodare, rigenerare",
+   "venue": "Fondazione Feltrinelli",
+   "cat": "filosofia",
+   "desc": "Adolfo Ceretti sulla giustizia riparativa. BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
+   "url": "https://fondazionefeltrinelli.it/en/participate/",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": true,
+   "id": "e087",
+   "key": "2026-11-27-oltre-la-punizione-riparare-riannodare-rigenerar",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4825,
+    9.184
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "",
+   "title": "Scrivere per resistere: Premio PEN Inge Feltrinelli",
+   "venue": "Fondazione Feltrinelli",
+   "cat": "geo",
+   "desc": "Con Burhan Sönmez e Paola Caridi. BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
+   "url": "https://fondazionefeltrinelli.it/en/participate/",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": true,
+   "id": "e088",
+   "key": "2026-11-27-scrivere-per-resistere-premio-pen-inge-feltrinel",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4825,
+    9.184
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "",
+   "title": "The Legendary Johnny O'Neal Trio",
+   "venue": "Blue Note (via Borsieri 37)",
+   "cat": "jazz",
+   "desc": "Il veterano del piano jazz americano in trio.",
+   "url": "https://bluenotemilano.com/show/the-legendary-johnny-o-neal-trio-27-novembre-2026-milano/",
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e065",
-   "key": "2026-11-26-a-flauto-e-cembalo-milano-arte-musica",
-   "moods": [
-    "emozionarmi"
-   ]
-  },
-  {
-   "date": "2026-11-26",
-   "time": "",
-   "title": "Luca Barbarossa",
-   "venue": "Blue Note (via Borsieri 37)",
-   "cat": "jazz",
-   "desc": "Il cantautore romano in concerto in formato club.",
-   "url": "https://bluenotemilano.com/show/concerto-luca-barbarossa-26-novembre-2026-milano/",
-   "free": false,
-   "tags": [],
-   "verify": true,
-   "id": "e066",
-   "key": "2026-11-26-luca-barbarossa",
+   "id": "e089",
+   "key": "2026-11-27-the-legendary-johnny-o-neal-trio",
    "moods": [
     "emozionarmi"
    ],
@@ -1755,7 +1872,7 @@
     45.5162,
     9.1937
    ],
-   "zona": "Niguarda"
+   "zona": "Fuori centro"
   },
   {
    "date": "2026-11-27",
@@ -1848,7 +1965,7 @@
     45.4896,
     9.1887
    ],
-   "zona": "Isola"
+   "zona": "Brera · Garibaldi · Isola"
   },
   {
    "date": "2026-11-27",
@@ -1937,7 +2054,7 @@
     45.4652,
     9.1772
    ],
-   "zona": "Magenta · Sant'Ambrogio"
+   "zona": "Navigli · Tortona · S. Ambrogio"
   },
   {
    "date": "2026-11-27",
@@ -1952,579 +2069,6 @@
    "verify": false,
    "id": "e085",
    "key": "2026-11-27-toni-zeno-gentle-t-zeboh-brattini",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.4448,
-    9.156
-   ],
-   "zona": "Navigli · Tortona · S. Ambrogio"
-  },
-  {
-   "date": "2026-11-27",
-   "time": "",
-   "title": "E tu, come lo sai? Capire la scienza per decidere insieme",
-   "venue": "Museo Scienza e Tecnologia",
-   "cat": "scienza",
-   "desc": "Con Amalia Ercoli Finzi e Paola Dubini. BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
-   "url": "https://www.mentelocale.it/milano/146478-bookcity-milano-2026-iniziative-e-incontri-al-museo-nazionale-scienza-e-tecnologia.htm",
-   "free": true,
-   "tags": [
-    "bookcity"
-   ],
-   "verify": true,
-   "id": "e086",
-   "key": "2026-11-27-e-tu-come-lo-sai-capire-la-scienza-per-decidere-",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    45.4628,
-    9.1707
-   ],
-   "zona": "Navigli · Tortona · S. Ambrogio"
-  },
-  {
-   "date": "2026-11-27",
-   "time": "",
-   "title": "Oltre la punizione: riparare, riannodare, rigenerare",
-   "venue": "Fondazione Feltrinelli",
-   "cat": "filosofia",
-   "desc": "Adolfo Ceretti sulla giustizia riparativa. BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
-   "url": "https://fondazionefeltrinelli.it/en/participate/",
-   "free": true,
-   "tags": [
-    "bookcity"
-   ],
-   "verify": true,
-   "id": "e087",
-   "key": "2026-11-27-oltre-la-punizione-riparare-riannodare-rigenerar",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    45.4825,
-    9.184
-   ],
-   "zona": "Brera · Garibaldi · Isola"
-  },
-  {
-   "date": "2026-11-27",
-   "time": "",
-   "title": "Scrivere per resistere: Premio PEN Inge Feltrinelli",
-   "venue": "Fondazione Feltrinelli",
-   "cat": "geo",
-   "desc": "Con Burhan Sönmez e Paola Caridi. BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
-   "url": "https://fondazionefeltrinelli.it/en/participate/",
-   "free": true,
-   "tags": [
-    "bookcity"
-   ],
-   "verify": true,
-   "id": "e088",
-   "key": "2026-11-27-scrivere-per-resistere-premio-pen-inge-feltrinel",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    45.4825,
-    9.184
-   ],
-   "zona": "Brera · Garibaldi · Isola"
-  },
-  {
-   "date": "2026-11-27",
-   "time": "",
-   "title": "The Legendary Johnny O'Neal Trio",
-   "venue": "Blue Note (via Borsieri 37)",
-   "cat": "jazz",
-   "desc": "Il veterano del piano jazz americano in trio.",
-   "url": "https://bluenotemilano.com/show/the-legendary-johnny-o-neal-trio-27-novembre-2026-milano/",
-   "free": null,
-   "tags": [],
-   "verify": true,
-   "id": "e089",
-   "key": "2026-11-27-the-legendary-johnny-o-neal-trio",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.4877,
-    9.1878
-   ],
-   "zona": "Brera · Garibaldi · Isola"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "09:30",
-   "title": "80 anni dopo: l'astensionismo elettorale e come contrastarlo",
-   "venue": "Casa della Cultura (via Borgogna 3)",
-   "cat": "geo",
-   "desc": "Mattinata di studio sul calo della partecipazione al voto, organizzata con ANPI, Istituto Parri e Istituto Cervi.",
-   "url": "https://www.casadellacultura.it",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e090",
-   "key": "2026-11-28-80-anni-dopo-l-astensionismo-elettorale-e-come-c",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    45.4655,
-    9.199
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "10:00",
-   "title": "Masterclass con Laura Citarella",
-   "venue": "Auditorium San Fedele",
-   "cat": "cinema",
-   "desc": "La regista argentina di El Pampero Cine racconta il suo modo di fare cinema.",
-   "url": "https://www.sanfedele.net/progetti/laura-citarella/",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e091",
-   "key": "2026-11-28-masterclass-con-laura-citarella",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.467,
-    9.1915
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "10:30",
-   "title": "È andata così: lezione di cinema",
-   "venue": "Anteo Palazzo del Cinema",
-   "cat": "cinema",
-   "desc": "Gianni Zanasi con Michele Riondino e Valentina Lodovini raccontano il film.",
-   "url": "https://www.spaziocinema.info/milano/eventi-e-rassegne/e-andata-cosi-lezione-di-cinema-con-il-regista-gianni-zanasi-michele-riondino-e-valentina-lodovini",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e092",
-   "key": "2026-11-28-e-andata-cosi-lezione-di-cinema",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.481,
-    9.187
-   ],
-   "zona": "Brera · Garibaldi · Isola"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "11:00",
-   "title": "Aldo Cazzullo, Il nostro rinascimento",
-   "venue": "Piccolo Teatro Strehler",
-   "cat": "storia",
-   "desc": "BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
-   "url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
-   "free": true,
-   "tags": [
-    "bookcity",
-    "imperdibile"
-   ],
-   "verify": false,
-   "id": "e093",
-   "key": "2026-11-28-aldo-cazzullo-il-nostro-rinascimento",
-   "why": "La storia d'Italia raccontata come un romanzo.",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    45.4723,
-    9.1824
-   ],
-   "zona": "Brera · Garibaldi · Isola"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "11:30",
-   "title": "Laura Pepe, Storia non convenzionale delle donne di Grecia",
-   "venue": "Fondazione Luigi Rovati",
-   "cat": "storia",
-   "desc": "BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
-   "url": "https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntamenti/bookcity-milano-2026-4/",
-   "free": true,
-   "tags": [
-    "bookcity"
-   ],
-   "verify": false,
-   "id": "e094",
-   "key": "2026-11-28-laura-pepe-storia-non-convenzionale-delle-donne-",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    45.4746,
-    9.2033
-   ],
-   "zona": "Porta Venezia · Città Studi"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "15:00",
-   "title": "Dario Biagi, vita di Cagnaccio di San Pietro",
-   "venue": "Fondazione Luigi Rovati",
-   "cat": "storia",
-   "desc": "",
-   "url": "https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntamenti/bookcity-milano-2026-5/",
-   "free": true,
-   "tags": [
-    "bookcity"
-   ],
-   "verify": false,
-   "id": "e095",
-   "key": "2026-11-28-dario-biagi-vita-di-cagnaccio-di-san-pietro",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    45.4746,
-    9.2033
-   ],
-   "zona": "Porta Venezia · Città Studi"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "17:00",
-   "title": "Ermanno Cavazzoni, Sarò breve",
-   "venue": "Ambrosius, Oratorio della Passione",
-   "cat": "talk",
-   "desc": "Lezione su come si scrive un racconto. BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
-   "url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
-   "free": true,
-   "tags": [
-    "bookcity"
-   ],
-   "verify": false,
-   "id": "e096",
-   "key": "2026-11-28-ermanno-cavazzoni-saro-breve",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    45.462,
-    9.1755
-   ],
-   "zona": "Navigli · Tortona · S. Ambrogio"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "18:00",
-   "title": "Fernando Aramburu presenta Maite",
-   "venue": "Castello Sforzesco, Sala Viscontea",
-   "cat": "talk",
-   "desc": "BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
-   "url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
-   "free": true,
-   "tags": [
-    "bookcity"
-   ],
-   "verify": false,
-   "id": "e097",
-   "key": "2026-11-28-fernando-aramburu-presenta-maite",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    45.4705,
-    9.1795
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "18:00",
-   "title": "Filosofia dell'amicizia",
-   "venue": "Fondazione Feltrinelli, Sala Lettura",
-   "cat": "filosofia",
-   "desc": "BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
-   "url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
-   "free": true,
-   "tags": [
-    "bookcity"
-   ],
-   "verify": false,
-   "id": "e098",
-   "key": "2026-11-28-filosofia-dell-amicizia",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    45.4825,
-    9.184
-   ],
-   "zona": "Brera · Garibaldi · Isola"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "18:00",
-   "title": "Inaugurazione anno accademico del Conservatorio",
-   "venue": "Conservatorio, Sala Verdi",
-   "cat": "classica",
-   "desc": "Concerto orchestrale.",
-   "url": "https://www.consmi.it/en/events/page/5/",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e099",
-   "key": "2026-11-28-inaugurazione-anno-accademico-del-conservatorio",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.4655,
-    9.201
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "18:00",
-   "title": "La Scala dei libri: A dirci le cose chiare, Don Giovanni",
-   "venue": "Teatro alla Scala",
-   "cat": "talk",
-   "desc": "BookCity. BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
-   "url": "https://www.teatroallascala.org/it/calendario.html",
-   "free": true,
-   "tags": [
-    "bookcity"
-   ],
-   "verify": false,
-   "id": "e100",
-   "key": "2026-11-28-la-scala-dei-libri-a-dirci-le-cose-chiare-don-gi",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    45.4674,
-    9.1895
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "19:30",
-   "title": "Di madre in figlia",
-   "venue": "Piccolo Teatro Grassi",
-   "cat": "teatro",
-   "desc": "Concita De Gregorio in scena con tre generazioni di donne; regia di Gaia Saitta. Prima assoluta.",
-   "url": "https://www.piccoloteatro.org/it/2026-2027/di-madre-in-figlia",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e101",
-   "key": "2026-11-28-di-madre-in-figlia",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.4664,
-    9.1846
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "19:30",
-   "title": "Io sono verticale",
-   "venue": "Teatro Elfo Puccini, Sala Bausch",
-   "cat": "teatro",
-   "desc": "Francesca Astrei racconta la depressione da dentro e da chi sta accanto.",
-   "url": "https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e102",
-   "key": "2026-11-28-io-sono-verticale",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.479,
-    9.2105
-   ],
-   "zona": "Porta Venezia · Città Studi"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "19:30",
-   "title": "L'amante di Harold Pinter",
-   "venue": "Teatro Fontana (via Boltraffio 21)",
-   "cat": "teatro",
-   "desc": "Pinter sul desiderio e la ferocia della coppia: Giorgio Marchesi e Simonetta Solder, coppia anche nella vita. Regia di Veronica Cruciani.",
-   "url": "https://www.mentelocale.it/milano/120246-l-amante.htm",
-   "free": false,
-   "tags": [],
-   "verify": false,
-   "id": "e103",
-   "key": "2026-11-28-l-amante-di-harold-pinter",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.4896,
-    9.1887
-   ],
-   "zona": "Isola"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "19:30",
-   "title": "Una delle ultime sere di carnovale",
-   "venue": "Piccolo Teatro Strehler",
-   "cat": "teatro",
-   "desc": "Goldoni diretto da Valerio Binasco: il congedo del commediografo da Venezia.",
-   "url": "https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-carnovale",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e104",
-   "key": "2026-11-28-una-delle-ultime-sere-di-carnovale",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.4723,
-    9.1824
-   ],
-   "zona": "Brera · Garibaldi · Isola"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "20:00",
-   "title": "Bravissime",
-   "venue": "Teatro della Cooperativa (via Hermada 8)",
-   "cat": "teatro",
-   "desc": "Atir porta in scena le bambine schiacciate dall'imperativo della perfezione: dove finisce la disciplina e inizia l'abuso?",
-   "url": "https://www.mentelocale.it/milano/137381-bravissime.htm",
-   "free": false,
-   "tags": [],
-   "verify": false,
-   "id": "e105",
-   "key": "2026-11-28-bravissime",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.5162,
-    9.1937
-   ],
-   "zona": "Niguarda"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "20:30",
-   "title": "La caccia al tesoro",
-   "venue": "Teatro Filodrammatici",
-   "cat": "teatro",
-   "desc": "Commedia satirica di Bruno Fornasari: dei fratelli scoprono che la badante della madre è stata adottata ed è ora erede. Intero €25, ridotti da €9.",
-   "url": "https://www.mentelocale.it/milano/129404-la-caccia-al-tesoro-la-commedia-la-satirica-di-bruno-fornasari-al-teatro-filodrammatici-di-milano.htm",
-   "free": false,
-   "tags": [],
-   "verify": false,
-   "id": "e106",
-   "key": "2026-11-28-la-caccia-al-tesoro",
-   "moods": [
-    "emozionarmi",
-    "ridere"
-   ],
-   "geo": [
-    45.4677,
-    9.188
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "20:30",
-   "title": "La rivolta",
-   "venue": "Teatro Leonardo (via Ampère 1)",
-   "cat": "teatro",
-   "desc": "Scritto e diretto da Corrado d'Elia.",
-   "url": "https://www.mentelocale.it/milano/139866-rivolta.htm",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e107",
-   "key": "2026-11-28-la-rivolta",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.48,
-    9.228
-   ],
-   "zona": "Porta Venezia · Città Studi"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "20:30",
-   "title": "Stai zitta!",
-   "venue": "Teatro Carcano",
-   "cat": "teatro",
-   "desc": "Dal libro di Michela Murgia, con Antonella Questa, Valentina Melis, Letizia Bravi.",
-   "url": "https://www.mentelocale.it/milano/129771-stai-zitta.htm",
-   "free": null,
-   "tags": [],
-   "verify": false,
-   "id": "e108",
-   "key": "2026-11-28-stai-zitta",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.4547,
-    9.1966
-   ],
-   "zona": "Porta Romana · Vittoria"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "20:30",
-   "title": "XX variazioni a tre",
-   "venue": "Teatro Litta (corso Magenta 24)",
-   "cat": "teatro",
-   "desc": "Danza: tre interpreti in uno spazio chiuso esplorano i ruoli di madre, sorella e figlia. Coreografia e regia di Susanna Baccari.",
-   "url": "https://www.mentelocale.it/milano/132095-xx-variazioni-a-tre.htm",
-   "free": false,
-   "tags": [],
-   "verify": false,
-   "id": "e109",
-   "key": "2026-11-28-xx-variazioni-a-tre",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.4652,
-    9.1772
-   ],
-   "zona": "Magenta · Sant'Ambrogio"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "21:30",
-   "title": "Materazi Future Club: The Italian Job",
-   "venue": "Arci Biko (via Ettore Ponti 40)",
-   "cat": "jazz",
-   "desc": "Post-punk ed elettronica, presentazione live del nuovo album. 14,30 €. Ingresso con tessera ARCI.",
-   "url": "https://www.bikoclub.net/",
-   "free": false,
-   "tags": [],
-   "verify": false,
-   "id": "e110",
-   "key": "2026-11-28-materazi-future-club-the-italian-job",
    "moods": [
     "emozionarmi"
    ],
@@ -2744,6 +2288,554 @@
     9.1955
    ],
    "zona": "Centro"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "09:30",
+   "title": "80 anni dopo: l'astensionismo elettorale e come contrastarlo",
+   "venue": "Casa della Cultura (via Borgogna 3)",
+   "cat": "geo",
+   "desc": "Mattinata di studio sul calo della partecipazione al voto, organizzata con ANPI, Istituto Parri e Istituto Cervi.",
+   "url": "https://www.casadellacultura.it",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "e090",
+   "key": "2026-11-28-80-anni-dopo-l-astensionismo-elettorale-e-come-c",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4655,
+    9.199
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "10:00",
+   "title": "Masterclass con Laura Citarella",
+   "venue": "Auditorium San Fedele",
+   "cat": "cinema",
+   "desc": "La regista argentina di El Pampero Cine racconta il suo modo di fare cinema.",
+   "url": "https://www.sanfedele.net/progetti/laura-citarella/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "e091",
+   "key": "2026-11-28-masterclass-con-laura-citarella",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.467,
+    9.1915
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "10:30",
+   "title": "È andata così: lezione di cinema",
+   "venue": "Anteo Palazzo del Cinema",
+   "cat": "cinema",
+   "desc": "Gianni Zanasi con Michele Riondino e Valentina Lodovini raccontano il film.",
+   "url": "https://www.spaziocinema.info/milano/eventi-e-rassegne/e-andata-cosi-lezione-di-cinema-con-il-regista-gianni-zanasi-michele-riondino-e-valentina-lodovini",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "e092",
+   "key": "2026-11-28-e-andata-cosi-lezione-di-cinema",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.481,
+    9.187
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "11:00",
+   "title": "Aldo Cazzullo, Il nostro rinascimento",
+   "venue": "Piccolo Teatro Strehler",
+   "cat": "storia",
+   "desc": "BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
+   "url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+   "free": true,
+   "tags": [
+    "bookcity",
+    "imperdibile"
+   ],
+   "verify": false,
+   "id": "e093",
+   "key": "2026-11-28-aldo-cazzullo-il-nostro-rinascimento",
+   "why": "La storia d'Italia raccontata come un romanzo.",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4723,
+    9.1824
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "11:30",
+   "title": "Laura Pepe, Storia non convenzionale delle donne di Grecia",
+   "venue": "Fondazione Luigi Rovati",
+   "cat": "storia",
+   "desc": "BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
+   "url": "https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntamenti/bookcity-milano-2026-4/",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e094",
+   "key": "2026-11-28-laura-pepe-storia-non-convenzionale-delle-donne-",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4746,
+    9.2033
+   ],
+   "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "15:00",
+   "title": "Dario Biagi, vita di Cagnaccio di San Pietro",
+   "venue": "Fondazione Luigi Rovati",
+   "cat": "storia",
+   "desc": "",
+   "url": "https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntamenti/bookcity-milano-2026-5/",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e095",
+   "key": "2026-11-28-dario-biagi-vita-di-cagnaccio-di-san-pietro",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4746,
+    9.2033
+   ],
+   "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "16:30",
+   "title": "Nun komm der Heiden Heiland: Bach e Lotti in San Satiro",
+   "venue": "Basilica di Santa Maria presso San Satiro (via Torino 17/19)",
+   "cat": "classica",
+   "desc": "Concerto spirituale d'Avvento (rassegna Parola e musica in Avvento) del Coro Glass Armonico diretto da Anita Dordoni, Matteo Galli all'organo. Ingresso libero fino a esaurimento posti.",
+   "url": "https://www.mi-lorenteggio.com/2026/11/11/concerto-nun-komm-der-heiden-heiland-in-santa-maria-presso-san-satiro/",
+   "free": true,
+   "tags": [
+    "chiese"
+   ],
+   "verify": false,
+   "id": "e239",
+   "key": "2026-11-28-nun-komm-der-heiden-heiland-bach-e-lotti-in-san-",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.4628,
+    9.1873
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "17:00",
+   "title": "Ermanno Cavazzoni, Sarò breve",
+   "venue": "Ambrosius, Oratorio della Passione",
+   "cat": "talk",
+   "desc": "Lezione su come si scrive un racconto. BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
+   "url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e096",
+   "key": "2026-11-28-ermanno-cavazzoni-saro-breve",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.462,
+    9.1755
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "18:00",
+   "title": "Fernando Aramburu presenta Maite",
+   "venue": "Castello Sforzesco, Sala Viscontea",
+   "cat": "talk",
+   "desc": "BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
+   "url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e097",
+   "key": "2026-11-28-fernando-aramburu-presenta-maite",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4705,
+    9.1795
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "18:00",
+   "title": "Filosofia dell'amicizia",
+   "venue": "Fondazione Feltrinelli, Sala Lettura",
+   "cat": "filosofia",
+   "desc": "BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
+   "url": "https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e098",
+   "key": "2026-11-28-filosofia-dell-amicizia",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4825,
+    9.184
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "18:00",
+   "title": "Inaugurazione anno accademico del Conservatorio",
+   "venue": "Conservatorio, Sala Verdi",
+   "cat": "classica",
+   "desc": "Concerto orchestrale.",
+   "url": "https://www.consmi.it/en/events/page/5/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "e099",
+   "key": "2026-11-28-inaugurazione-anno-accademico-del-conservatorio",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4655,
+    9.201
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "18:00",
+   "title": "La Scala dei libri: A dirci le cose chiare, Don Giovanni",
+   "venue": "Teatro alla Scala",
+   "cat": "talk",
+   "desc": "BookCity. BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
+   "url": "https://www.teatroallascala.org/it/calendario.html",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e100",
+   "key": "2026-11-28-la-scala-dei-libri-a-dirci-le-cose-chiare-don-gi",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4674,
+    9.1895
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "19:30",
+   "title": "Di madre in figlia",
+   "venue": "Piccolo Teatro Grassi",
+   "cat": "teatro",
+   "desc": "Concita De Gregorio in scena con tre generazioni di donne; regia di Gaia Saitta. Prima assoluta.",
+   "url": "https://www.piccoloteatro.org/it/2026-2027/di-madre-in-figlia",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "e101",
+   "key": "2026-11-28-di-madre-in-figlia",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4664,
+    9.1846
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "19:30",
+   "title": "Io sono verticale",
+   "venue": "Teatro Elfo Puccini, Sala Bausch",
+   "cat": "teatro",
+   "desc": "Francesca Astrei racconta la depressione da dentro e da chi sta accanto.",
+   "url": "https://www.elfo.org/spettacoli/2026-2027/io-sono-verticale.htm",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "e102",
+   "key": "2026-11-28-io-sono-verticale",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.479,
+    9.2105
+   ],
+   "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "19:30",
+   "title": "L'amante di Harold Pinter",
+   "venue": "Teatro Fontana (via Boltraffio 21)",
+   "cat": "teatro",
+   "desc": "Pinter sul desiderio e la ferocia della coppia: Giorgio Marchesi e Simonetta Solder, coppia anche nella vita. Regia di Veronica Cruciani.",
+   "url": "https://www.mentelocale.it/milano/120246-l-amante.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e103",
+   "key": "2026-11-28-l-amante-di-harold-pinter",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4896,
+    9.1887
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "19:30",
+   "title": "Una delle ultime sere di carnovale",
+   "venue": "Piccolo Teatro Strehler",
+   "cat": "teatro",
+   "desc": "Goldoni diretto da Valerio Binasco: il congedo del commediografo da Venezia.",
+   "url": "https://www.piccoloteatro.org/it/2026-2027/una-delle-ultime-sere-di-carnovale",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "e104",
+   "key": "2026-11-28-una-delle-ultime-sere-di-carnovale",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4723,
+    9.1824
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "20:00",
+   "title": "Bravissime",
+   "venue": "Teatro della Cooperativa (via Hermada 8)",
+   "cat": "teatro",
+   "desc": "Atir porta in scena le bambine schiacciate dall'imperativo della perfezione: dove finisce la disciplina e inizia l'abuso?",
+   "url": "https://www.mentelocale.it/milano/137381-bravissime.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e105",
+   "key": "2026-11-28-bravissime",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.5162,
+    9.1937
+   ],
+   "zona": "Fuori centro"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "20:30",
+   "title": "La caccia al tesoro",
+   "venue": "Teatro Filodrammatici",
+   "cat": "teatro",
+   "desc": "Commedia satirica di Bruno Fornasari: dei fratelli scoprono che la badante della madre è stata adottata ed è ora erede. Intero €25, ridotti da €9.",
+   "url": "https://www.mentelocale.it/milano/129404-la-caccia-al-tesoro-la-commedia-la-satirica-di-bruno-fornasari-al-teatro-filodrammatici-di-milano.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e106",
+   "key": "2026-11-28-la-caccia-al-tesoro",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.4677,
+    9.188
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "20:30",
+   "title": "La rivolta",
+   "venue": "Teatro Leonardo (via Ampère 1)",
+   "cat": "teatro",
+   "desc": "Scritto e diretto da Corrado d'Elia.",
+   "url": "https://www.mentelocale.it/milano/139866-rivolta.htm",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "e107",
+   "key": "2026-11-28-la-rivolta",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.48,
+    9.228
+   ],
+   "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "20:30",
+   "title": "Stai zitta!",
+   "venue": "Teatro Carcano",
+   "cat": "teatro",
+   "desc": "Dal libro di Michela Murgia, con Antonella Questa, Valentina Melis, Letizia Bravi.",
+   "url": "https://www.mentelocale.it/milano/129771-stai-zitta.htm",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "e108",
+   "key": "2026-11-28-stai-zitta",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4547,
+    9.1966
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "20:30",
+   "title": "XX variazioni a tre",
+   "venue": "Teatro Litta (corso Magenta 24)",
+   "cat": "teatro",
+   "desc": "Danza: tre interpreti in uno spazio chiuso esplorano i ruoli di madre, sorella e figlia. Coreografia e regia di Susanna Baccari.",
+   "url": "https://www.mentelocale.it/milano/132095-xx-variazioni-a-tre.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e109",
+   "key": "2026-11-28-xx-variazioni-a-tre",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4652,
+    9.1772
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "21:30",
+   "title": "Materazi Future Club: The Italian Job",
+   "venue": "Arci Biko (via Ettore Ponti 40)",
+   "cat": "jazz",
+   "desc": "Post-punk ed elettronica, presentazione live del nuovo album. 14,30 €. Ingresso con tessera ARCI.",
+   "url": "https://www.bikoclub.net/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e110",
+   "key": "2026-11-28-materazi-future-club-the-italian-job",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4448,
+    9.156
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "",
+   "title": "Gli elfi di Babbo Natale",
+   "venue": "Teatro Carcano",
+   "cat": "famiglie",
+   "desc": "Spettacolo natalizio per bambini della rassegna Fantateatro.",
+   "url": "https://www.teatrocarcano.com/eventi/2026-2027/gli-elfi-di-babbo-natale-2627.htm",
+   "free": null,
+   "tags": [],
+   "verify": true,
+   "id": "e142",
+   "key": "2026-11-29-gli-elfi-di-babbo-natale",
+   "moods": [
+    "bambini"
+   ],
+   "geo": [
+    45.4547,
+    9.1966
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "",
+   "title": "Tom's Family – Back in Town!",
+   "venue": "Blue Note (via Borsieri 37)",
+   "cat": "jazz",
+   "desc": "Ritorno sul palco di via Borsieri per la band Tom's Family.",
+   "url": "https://bluenotemilano.com/show/concerto-toms-family-29-novembre-2026-milano/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "e143",
+   "key": "2026-11-29-tom-s-family-back-in-town",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4877,
+    9.1878
+   ],
+   "zona": "Brera · Garibaldi · Isola"
   },
   {
    "date": "2026-11-29",
@@ -2999,7 +3091,7 @@
     45.4896,
     9.1887
    ],
-   "zona": "Isola"
+   "zona": "Brera · Garibaldi · Isola"
   },
   {
    "date": "2026-11-29",
@@ -3134,7 +3226,7 @@
     45.4652,
     9.1772
    ],
-   "zona": "Magenta · Sant'Ambrogio"
+   "zona": "Navigli · Tortona · S. Ambrogio"
   },
   {
    "date": "2026-11-29",
@@ -3156,7 +3248,7 @@
     45.5162,
     9.1937
    ],
-   "zona": "Niguarda"
+   "zona": "Fuori centro"
   },
   {
    "date": "2026-11-29",
@@ -3251,48 +3343,26 @@
    "zona": "Navigli · Tortona · S. Ambrogio"
   },
   {
-   "date": "2026-11-29",
+   "date": "2026-11-30",
    "time": "",
-   "title": "Gli elfi di Babbo Natale",
-   "venue": "Teatro Carcano",
-   "cat": "famiglie",
-   "desc": "Spettacolo natalizio per bambini della rassegna Fantateatro.",
-   "url": "https://www.teatrocarcano.com/eventi/2026-2027/gli-elfi-di-babbo-natale-2627.htm",
+   "title": "Curae 2026: Non ti pago (apertura)",
+   "venue": "Teatro Puntozero Beccaria (via Calchi Taeggi 20)",
+   "cat": "teatro",
+   "desc": "Si apre il festival delle arti performative nate negli istituti penali minorili: Eduardo recitato dai ragazzi dell'IPM di Catanzaro.",
+   "url": "https://www.mentelocale.it/milano/147779-curae-2026-a-milano-il-festival-di-arti-performative-sviluppate-negli-istituti-penali-per-i-minorenni.htm",
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e142",
-   "key": "2026-11-29-gli-elfi-di-babbo-natale",
-   "moods": [
-    "bambini"
-   ],
-   "geo": [
-    45.4547,
-    9.1966
-   ],
-   "zona": "Porta Romana · Vittoria"
-  },
-  {
-   "date": "2026-11-29",
-   "time": "",
-   "title": "Tom's Family – Back in Town!",
-   "venue": "Blue Note (via Borsieri 37)",
-   "cat": "jazz",
-   "desc": "Ritorno sul palco di via Borsieri per la band Tom's Family.",
-   "url": "https://bluenotemilano.com/show/concerto-toms-family-29-novembre-2026-milano/",
-   "free": false,
-   "tags": [],
-   "verify": true,
-   "id": "e143",
-   "key": "2026-11-29-tom-s-family-back-in-town",
+   "id": "e155",
+   "key": "2026-11-30-curae-2026-non-ti-pago-apertura",
    "moods": [
     "emozionarmi"
    ],
    "geo": [
-    45.4877,
-    9.1878
+    45.4512,
+    9.103
    ],
-   "zona": "Brera · Garibaldi · Isola"
+   "zona": "Fuori centro"
   },
   {
    "date": "2026-11-30",
@@ -3541,24 +3611,68 @@
    "zona": "Brera · Garibaldi · Isola"
   },
   {
-   "date": "2026-11-30",
+   "date": "2026-12-01",
    "time": "",
-   "title": "Curae 2026: Non ti pago (apertura)",
+   "title": "Curae 2026: AI Will Shakespeare",
    "venue": "Teatro Puntozero Beccaria (via Calchi Taeggi 20)",
-   "cat": "teatro",
-   "desc": "Si apre il festival delle arti performative nate negli istituti penali minorili: Eduardo recitato dai ragazzi dell'IPM di Catanzaro.",
+   "cat": "scienza",
+   "desc": "La Compagnia Puntozero presenta il primo studio di un lavoro che incrocia Shakespeare e intelligenza artificiale.",
    "url": "https://www.mentelocale.it/milano/147779-curae-2026-a-milano-il-festival-di-arti-performative-sviluppate-negli-istituti-penali-per-i-minorenni.htm",
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e155",
-   "key": "2026-11-30-curae-2026-non-ti-pago-apertura",
+   "id": "e167",
+   "key": "2026-12-01-curae-2026-ai-will-shakespeare",
    "moods": [
-    "emozionarmi"
+    "pensare"
    ],
    "geo": [
     45.4512,
     9.103
+   ],
+   "zona": "Fuori centro"
+  },
+  {
+   "date": "2026-12-01",
+   "time": "",
+   "title": "Don Milani. La parola che nutre",
+   "venue": "Teatro Franco Parenti",
+   "cat": "teatro",
+   "desc": "Spettacolo dedicato al priore di Barbiana e alla sua idea di scuola come riscatto; in scena fino al 12 dicembre.",
+   "url": "https://teatrofrancoparenti.it/calendario-spettacoli/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "e168",
+   "key": "2026-12-01-don-milani-la-parola-che-nutre",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.453,
+    9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-01",
+   "time": "",
+   "title": "Spose del vento",
+   "venue": "Pacta Salone (via Ulisse Dini 7)",
+   "cat": "teatro",
+   "desc": "Elisa Baio e Giuseppe Guerrieri in scena.",
+   "url": "https://www.mentelocale.it/milano/139807-spose-vento.htm",
+   "free": null,
+   "tags": [],
+   "verify": true,
+   "id": "e169",
+   "key": "2026-12-01-spose-del-vento",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.429,
+    9.194
    ],
    "zona": "Fuori centro"
   },
@@ -3808,68 +3922,24 @@
    "zona": "Brera · Garibaldi · Isola"
   },
   {
-   "date": "2026-12-01",
+   "date": "2026-12-02",
    "time": "",
-   "title": "Curae 2026: AI Will Shakespeare",
+   "title": "Curae 2026: Portami là fuori",
    "venue": "Teatro Puntozero Beccaria (via Calchi Taeggi 20)",
-   "cat": "scienza",
-   "desc": "La Compagnia Puntozero presenta il primo studio di un lavoro che incrocia Shakespeare e intelligenza artificiale.",
+   "cat": "teatro",
+   "desc": "Teatro e musica con giovani degli IPM di Acireale, Airola e Quartucciu.",
    "url": "https://www.mentelocale.it/milano/147779-curae-2026-a-milano-il-festival-di-arti-performative-sviluppate-negli-istituti-penali-per-i-minorenni.htm",
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e167",
-   "key": "2026-12-01-curae-2026-ai-will-shakespeare",
+   "id": "e179",
+   "key": "2026-12-02-curae-2026-portami-la-fuori",
    "moods": [
-    "pensare"
+    "emozionarmi"
    ],
    "geo": [
     45.4512,
     9.103
-   ],
-   "zona": "Fuori centro"
-  },
-  {
-   "date": "2026-12-01",
-   "time": "",
-   "title": "Don Milani. La parola che nutre",
-   "venue": "Teatro Franco Parenti",
-   "cat": "teatro",
-   "desc": "Spettacolo dedicato al priore di Barbiana e alla sua idea di scuola come riscatto; in scena fino al 12 dicembre.",
-   "url": "https://teatrofrancoparenti.it/calendario-spettacoli/",
-   "free": false,
-   "tags": [],
-   "verify": true,
-   "id": "e168",
-   "key": "2026-12-01-don-milani-la-parola-che-nutre",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.453,
-    9.208
-   ],
-   "zona": "Porta Romana · Vittoria"
-  },
-  {
-   "date": "2026-12-01",
-   "time": "",
-   "title": "Spose del vento",
-   "venue": "Pacta Salone (via Ulisse Dini 7)",
-   "cat": "teatro",
-   "desc": "Elisa Baio e Giuseppe Guerrieri in scena.",
-   "url": "https://www.mentelocale.it/milano/139807-spose-vento.htm",
-   "free": null,
-   "tags": [],
-   "verify": true,
-   "id": "e169",
-   "key": "2026-12-01-spose-del-vento",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.429,
-    9.194
    ],
    "zona": "Fuori centro"
   },
@@ -4078,26 +4148,26 @@
    "zona": "Brera · Garibaldi · Isola"
   },
   {
-   "date": "2026-12-02",
+   "date": "2026-12-03",
    "time": "",
-   "title": "Curae 2026: Portami là fuori",
-   "venue": "Teatro Puntozero Beccaria (via Calchi Taeggi 20)",
+   "title": "Giuseppe: il padre putativo",
+   "venue": "Teatro Elfo Puccini, Sala Bausch",
    "cat": "teatro",
-   "desc": "Teatro e musica con giovani degli IPM di Acireale, Airola e Quartucciu.",
-   "url": "https://www.mentelocale.it/milano/147779-curae-2026-a-milano-il-festival-di-arti-performative-sviluppate-negli-istituti-penali-per-i-minorenni.htm",
-   "free": null,
+   "desc": "Michele Di Giacomo porta in scena il testo di Luca Cardetta su san Giuseppe, padre che non è padre. Repliche fino al 6 dicembre.",
+   "url": "https://www.elfo.org",
+   "free": false,
    "tags": [],
    "verify": true,
-   "id": "e179",
-   "key": "2026-12-02-curae-2026-portami-la-fuori",
+   "id": "e185",
+   "key": "2026-12-03-giuseppe-il-padre-putativo",
    "moods": [
     "emozionarmi"
    ],
    "geo": [
-    45.4512,
-    9.103
+    45.479,
+    9.2105
    ],
-   "zona": "Fuori centro"
+   "zona": "Porta Venezia · Città Studi"
   },
   {
    "date": "2026-12-03",
@@ -4213,28 +4283,6 @@
    "zona": "Navigli · Tortona · S. Ambrogio"
   },
   {
-   "date": "2026-12-03",
-   "time": "",
-   "title": "Giuseppe: il padre putativo",
-   "venue": "Teatro Elfo Puccini, Sala Bausch",
-   "cat": "teatro",
-   "desc": "Michele Di Giacomo porta in scena il testo di Luca Cardetta su san Giuseppe, padre che non è padre. Repliche fino al 6 dicembre.",
-   "url": "https://www.elfo.org",
-   "free": false,
-   "tags": [],
-   "verify": true,
-   "id": "e185",
-   "key": "2026-12-03-giuseppe-il-padre-putativo",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.479,
-    9.2105
-   ],
-   "zona": "Porta Venezia · Città Studi"
-  },
-  {
    "date": "2026-12-04",
    "time": "18:00",
    "title": "Otello: anteprima Under 30",
@@ -4282,6 +4330,30 @@
   },
   {
    "date": "2026-12-04",
+   "time": "20:00",
+   "title": "Boosta (Subsonica) suona Pianorama in chiesa",
+   "venue": "Chiesa di San Vincenzo in Prato (via Daniele Crespi 6)",
+   "cat": "jazz",
+   "desc": "Apre la 30ª edizione de La Musica dei Cieli: il tastierista dei Subsonica al pianoforte, da solo, in una basilica romanica.",
+   "url": "https://www.mentelocale.it/milano/146783-davide-boosta-dileo-concerto-musica-cieli-2026.htm",
+   "free": false,
+   "tags": [
+    "chiese"
+   ],
+   "verify": false,
+   "id": "e243",
+   "key": "2026-12-04-boosta-subsonica-suona-pianorama-in-chiesa",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.456,
+    9.1708
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-12-04",
    "time": "20:45",
    "title": "Freddy Kempf, pianoforte",
    "venue": "Conservatorio, Sala Puccini",
@@ -4323,6 +4395,31 @@
     9.156
    ],
    "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "16:30",
+   "title": "Concerto spirituale d'Avvento in San Satiro",
+   "venue": "Basilica di Santa Maria presso San Satiro (via Torino 17/19)",
+   "cat": "classica",
+   "desc": "Ogni sabato d'Avvento alle 16.30 un breve concerto nella chiesa del Bramante con la finta prospettiva dell'abside, prima della messa delle 18. Ingresso libero. Programma del giorno su chiesadimilano.it.",
+   "url": "https://www.centroculturaledellebasiliche.it/parola-e-musica-in-avvento-6/",
+   "free": true,
+   "tags": [
+    "chiese"
+   ],
+   "verify": true,
+   "id": "e240",
+   "key": "2026-12-05-concerto-spirituale-d-avvento-in-san-satiro",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.4628,
+    9.1873
+   ],
+   "zona": "Centro"
   },
   {
    "date": "2026-12-05",
@@ -4432,7 +4529,7 @@
     45.5162,
     9.1937
    ],
-   "zona": "Niguarda"
+   "zona": "Fuori centro"
   },
   {
    "date": "2026-12-09",
@@ -4454,7 +4551,30 @@
     45.4652,
     9.1772
    ],
-   "zona": "Magenta · Sant'Ambrogio"
+   "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "20:30",
+   "title": "Stefano Rapone Allo Sbagliato",
+   "venue": "Allo Sbagliato · Teatro Principe (viale Bligny 52)",
+   "cat": "teatro",
+   "desc": "Stand-up nel club off-line di Marco Mengoni al Teatro Principe, senza telefoni.",
+   "url": "https://www.mentelocale.it/milano/141488-stefano-rapone.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e244",
+   "key": "2026-12-09-stefano-rapone-allo-sbagliato",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.4521,
+    9.1965
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-12-09",
@@ -4520,7 +4640,7 @@
     45.5162,
     9.1937
    ],
-   "zona": "Niguarda"
+   "zona": "Fuori centro"
   },
   {
    "date": "2026-12-10",
@@ -4542,7 +4662,7 @@
     45.4652,
     9.1772
    ],
-   "zona": "Magenta · Sant'Ambrogio"
+   "zona": "Navigli · Tortona · S. Ambrogio"
   },
   {
    "date": "2026-12-10",
@@ -4630,7 +4750,31 @@
     45.5162,
     9.1937
    ],
-   "zona": "Niguarda"
+   "zona": "Fuori centro"
+  },
+  {
+   "date": "2026-12-11",
+   "time": "20:00",
+   "title": "Enzo Avitabile e Peppe Servillo: Duet",
+   "venue": "Chiesa dei Santi Gervaso e Protaso (via Marco De Marchi 9)",
+   "cat": "jazz",
+   "desc": "La Musica dei Cieli 2026: due voci del Sud in acustico, tra memoria e identità.",
+   "url": "https://www.mentelocale.it/milano/146786-duet-enzo-avitabile-peppe-servillo-concerto-musica-cieli-2026.htm",
+   "free": false,
+   "tags": [
+    "chiese"
+   ],
+   "verify": false,
+   "id": "e245",
+   "key": "2026-12-11-enzo-avitabile-e-peppe-servillo-duet",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4753,
+    9.1934
+   ],
+   "zona": "Brera · Garibaldi · Isola"
   },
   {
    "date": "2026-12-11",
@@ -4652,7 +4796,7 @@
     45.4652,
     9.1772
    ],
-   "zona": "Magenta · Sant'Ambrogio"
+   "zona": "Navigli · Tortona · S. Ambrogio"
   },
   {
    "date": "2026-12-11",
@@ -4723,6 +4867,31 @@
   },
   {
    "date": "2026-12-12",
+   "time": "16:30",
+   "title": "Concerto spirituale d'Avvento in San Satiro",
+   "venue": "Basilica di Santa Maria presso San Satiro (via Torino 17/19)",
+   "cat": "classica",
+   "desc": "Ogni sabato d'Avvento alle 16.30 un breve concerto nella chiesa del Bramante, prima della messa delle 18. Ingresso libero. Programma del giorno su chiesadimilano.it.",
+   "url": "https://www.centroculturaledellebasiliche.it/parola-e-musica-in-avvento-6/",
+   "free": true,
+   "tags": [
+    "chiese"
+   ],
+   "verify": true,
+   "id": "e241",
+   "key": "2026-12-12-concerto-spirituale-d-avvento-in-san-satiro",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.4628,
+    9.1873
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-12",
    "time": "20:00",
    "title": "Aria di libertà (Settembre '43 / Aprile '45)",
    "venue": "Teatro della Cooperativa (via Hermada 8)",
@@ -4741,7 +4910,7 @@
     45.5162,
     9.1937
    ],
-   "zona": "Niguarda"
+   "zona": "Fuori centro"
   },
   {
    "date": "2026-12-12",
@@ -4763,7 +4932,7 @@
     45.4652,
     9.1772
    ],
-   "zona": "Magenta · Sant'Ambrogio"
+   "zona": "Navigli · Tortona · S. Ambrogio"
   },
   {
    "date": "2026-12-12",
@@ -4874,7 +5043,7 @@
     45.4652,
     9.1772
    ],
-   "zona": "Magenta · Sant'Ambrogio"
+   "zona": "Navigli · Tortona · S. Ambrogio"
   },
   {
    "date": "2026-12-13",
@@ -4962,7 +5131,7 @@
     45.5162,
     9.1937
    ],
-   "zona": "Niguarda"
+   "zona": "Fuori centro"
   },
   {
    "date": "2026-12-15",
@@ -4984,7 +5153,7 @@
     45.5162,
     9.1937
    ],
-   "zona": "Niguarda"
+   "zona": "Fuori centro"
   },
   {
    "date": "2026-12-15",
@@ -5009,6 +5178,29 @@
    "zona": "Porta Venezia · Città Studi"
   },
   {
+   "date": "2026-12-15",
+   "time": "20:30",
+   "title": "Luca Ravenna Allo Sbagliato",
+   "venue": "Allo Sbagliato · Teatro Principe (viale Bligny 52)",
+   "cat": "teatro",
+   "desc": "Stand-up tra attualità e racconto personale, nel club off-line senza telefoni.",
+   "url": "https://www.mentelocale.it/milano/141485-luca-ravenna.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e246",
+   "key": "2026-12-15-luca-ravenna-allo-sbagliato",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.4521,
+    9.1965
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
    "date": "2026-12-16",
    "time": "20:30",
    "title": "Don Chisciotte senza Mancia",
@@ -5028,7 +5220,7 @@
     45.5162,
     9.1937
    ],
-   "zona": "Niguarda"
+   "zona": "Fuori centro"
   },
   {
    "date": "2026-12-16",
@@ -5116,7 +5308,7 @@
     45.5162,
     9.1937
    ],
-   "zona": "Niguarda"
+   "zona": "Fuori centro"
   },
   {
    "date": "2026-12-17",
@@ -5204,7 +5396,31 @@
     45.5162,
     9.1937
    ],
-   "zona": "Niguarda"
+   "zona": "Fuori centro"
+  },
+  {
+   "date": "2026-12-18",
+   "time": "20:00",
+   "title": "Moni Ovadia legge la Laudato si'",
+   "venue": "Basilica di San Vittore al Corpo (via San Vittore 25)",
+   "cat": "talk",
+   "desc": "Lettura e commento dell'enciclica di Papa Francesco, con le musiche dal vivo di Stefano Albarello. La Musica dei Cieli 2026.",
+   "url": "https://www.mentelocale.it/milano/146787-laudato-si-moni-ovadia-legge-enciclica-papa-francesco-musica-cieli-2026.htm",
+   "free": false,
+   "tags": [
+    "chiese"
+   ],
+   "verify": false,
+   "id": "e247",
+   "key": "2026-12-18-moni-ovadia-legge-la-laudato-si",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4627,
+    9.1706
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio"
   },
   {
    "date": "2026-12-18",
@@ -5229,6 +5445,79 @@
    "zona": "Porta Venezia · Città Studi"
   },
   {
+   "date": "2026-12-18",
+   "time": "21:00",
+   "title": "Baltimora Gospel Singers a San Gregorio",
+   "venue": "Chiesa di San Gregorio Magno (via San Gregorio 24)",
+   "cat": "jazz",
+   "desc": "Gospel natalizio a sostegno delle persone senza dimora. Replica sabato 19.",
+   "url": "https://www.mentelocale.it/milano/129644-baltimora-gospel-singers.htm",
+   "free": null,
+   "tags": [
+    "chiese"
+   ],
+   "verify": true,
+   "id": "e248",
+   "key": "2026-12-18-baltimora-gospel-singers-a-san-gregorio",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4805,
+    9.2063
+   ],
+   "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-12-19",
+   "time": "14:30",
+   "title": "Giovanni Lindo Ferretti: Percuotendo, in cadenza",
+   "venue": "Basilica di San Vittore al Corpo (via San Vittore 25)",
+   "cat": "jazz",
+   "desc": "L'ex voce di CCCP e CSI chiude La Musica dei Cieli tra parola, canto e suono, con testi poetici e autobiografici.",
+   "url": "https://www.mentelocale.it/milano/146789-giovanni-lindo-ferretti-concerto-musica-cieli-2026.htm",
+   "free": false,
+   "tags": [
+    "chiese"
+   ],
+   "verify": false,
+   "id": "e250",
+   "key": "2026-12-19-giovanni-lindo-ferretti-percuotendo-in-cadenza",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4627,
+    9.1706
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-12-19",
+   "time": "16:30",
+   "title": "Concerto spirituale d'Avvento in San Satiro (ultimo della rassegna)",
+   "venue": "Basilica di Santa Maria presso San Satiro (via Torino 17/19)",
+   "cat": "classica",
+   "desc": "Chiude la rassegna Parola e musica in Avvento. Ingresso libero fino a esaurimento posti.",
+   "url": "https://www.centroculturaledellebasiliche.it/parola-e-musica-in-avvento-6/",
+   "free": true,
+   "tags": [
+    "chiese"
+   ],
+   "verify": true,
+   "id": "e242",
+   "key": "2026-12-19-concerto-spirituale-d-avvento-in-san-satiro-ulti",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.4628,
+    9.1873
+   ],
+   "zona": "Centro"
+  },
+  {
    "date": "2026-12-19",
    "time": "20:00",
    "title": "Don Chisciotte senza Mancia",
@@ -5248,7 +5537,7 @@
     45.5162,
     9.1937
    ],
-   "zona": "Niguarda"
+   "zona": "Fuori centro"
   },
   {
    "date": "2026-12-19",
@@ -5291,6 +5580,30 @@
    "geo": [
     45.48,
     9.228
+   ],
+   "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-12-19",
+   "time": "21:00",
+   "title": "Baltimora Gospel Singers a San Gregorio",
+   "venue": "Chiesa di San Gregorio Magno (via San Gregorio 24)",
+   "cat": "jazz",
+   "desc": "Gospel natalizio a sostegno delle persone senza dimora.",
+   "url": "https://www.mentelocale.it/milano/129644-baltimora-gospel-singers.htm",
+   "free": null,
+   "tags": [
+    "chiese"
+   ],
+   "verify": true,
+   "id": "e249",
+   "key": "2026-12-19-baltimora-gospel-singers-a-san-gregorio",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4805,
+    9.2063
    ],
    "zona": "Porta Venezia · Città Studi"
   },
@@ -5380,7 +5693,7 @@
     45.5162,
     9.1937
    ],
-   "zona": "Niguarda"
+   "zona": "Fuori centro"
   }
  ],
  "mostre": [

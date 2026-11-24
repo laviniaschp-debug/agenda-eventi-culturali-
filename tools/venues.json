@@ -369,18 +369,54 @@
   "match": "Teatro Litta",
   "lat": 45.4652,
   "lng": 9.1772,
-  "zona": "Magenta · Sant'Ambrogio"
+  "zona": "Navigli · Tortona · S. Ambrogio"
  },
  {
   "match": "Teatro Fontana",
   "lat": 45.4896,
   "lng": 9.1887,
-  "zona": "Isola"
+  "zona": "Brera · Garibaldi · Isola"
  },
  {
   "match": "Teatro della Cooperativa",
   "lat": 45.5162,
   "lng": 9.1937,
-  "zona": "Niguarda"
+  "zona": "Fuori centro"
+ },
+ {
+  "match": "Teatro Principe",
+  "lat": 45.4521,
+  "lng": 9.1965,
+  "zona": "Porta Romana · Vittoria"
+ },
+ {
+  "match": "San Satiro",
+  "lat": 45.4628,
+  "lng": 9.1873,
+  "zona": "Centro"
+ },
+ {
+  "match": "San Vittore al Corpo",
+  "lat": 45.4627,
+  "lng": 9.1706,
+  "zona": "Navigli · Tortona · S. Ambrogio"
+ },
+ {
+  "match": "San Vincenzo in Prato",
+  "lat": 45.456,
+  "lng": 9.1708,
+  "zona": "Navigli · Tortona · S. Ambrogio"
+ },
+ {
+  "match": "Gervaso e Protaso",
+  "lat": 45.4753,
+  "lng": 9.1934,
+  "zona": "Brera · Garibaldi · Isola"
+ },
+ {
+  "match": "San Gregorio Magno",
+  "lat": 45.4805,
+  "lng": 9.2063,
+  "zona": "Porta Venezia · Città Studi"
  }
 ]

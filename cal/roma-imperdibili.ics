@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-25-nicola-lagioia-santa-barbara@acculturiamoci.it
-DTSTAMP:20261124T131605Z
+DTSTAMP:20261124T150947Z
 DTSTART;TZID=Europe/Rome:20261125T180000
 DTEND;TZID=Europe/Rome:20261125T200000
 SUMMARY:Nicola Lagioia: Santa Barbara
@@ -42,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-vito-mancuso-filosofia-e-scienza-per-essere-uman@acculturiam
  oci.it
-DTSTAMP:20261124T131605Z
+DTSTAMP:20261124T150947Z
 DTSTART;TZID=Europe/Rome:20261125T190000
 DTEND;TZID=Europe/Rome:20261125T210000
 SUMMARY:Vito Mancuso: Filosofia e scienza per essere umani migliori
@@ -60,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-lezioni-di-storia-gennaro-carillo-la-repubblica-@acculturiam
  oci.it
-DTSTAMP:20261124T131605Z
+DTSTAMP:20261124T150947Z
 DTSTART;TZID=Europe/Rome:20261125T200000
 DTEND;TZID=Europe/Rome:20261125T220000
 SUMMARY:Lezioni di Storia · Gennaro Carillo: La Repubblica di Platone\, il
@@ -75,7 +75,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-stefano-mancuso-la-citta-vivente@acculturiamoci.it
-DTSTAMP:20261124T131605Z
+DTSTAMP:20261124T150947Z
 DTSTART;TZID=Europe/Rome:20261126T173000
 DTEND;TZID=Europe/Rome:20261126T193000
 SUMMARY:Stefano Mancuso: La città vivente
@@ -89,7 +89,7 @@ CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-che-dolore-terribile-e-l-amore@acculturiamoci.it
-DTSTAMP:20261124T131605Z
+DTSTAMP:20261124T150947Z
 DTSTART;TZID=Europe/Rome:20261126T200000
 DTEND;TZID=Europe/Rome:20261126T220000
 SUMMARY:Che dolore terribile è l'amore
@@ -106,7 +106,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-anohni-wilderness@acculturiamoci.it
-DTSTAMP:20261124T131605Z
+DTSTAMP:20261124T150947Z
 DTSTART;TZID=Europe/Rome:20261129T200000
 DTEND;TZID=Europe/Rome:20261129T220000
 SUMMARY:ANOHNI: Wilderness
@@ -120,7 +120,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-piu-libri-piu-liberi-fiera-della-piccola-e-media@acculturiam
  oci.it
-DTSTAMP:20261124T131605Z
+DTSTAMP:20261124T150947Z
 DTSTART;TZID=Europe/Rome:20261204T100000
 DTEND;TZID=Europe/Rome:20261204T120000
 SUMMARY:Più libri più liberi: fiera della piccola e media editoria
@@ -133,7 +133,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-laurie-anderson-a-hole-in-the-sky@acculturiamoci.it
-DTSTAMP:20261124T131605Z
+DTSTAMP:20261124T150947Z
 DTSTART;TZID=Europe/Rome:20261205T190000
 DTEND;TZID=Europe/Rome:20261205T210000
 SUMMARY:Laurie Anderson: A Hole in the Sky

@@ -3,9 +3,75 @@
  "updated": "2026-11-24T07:55:00+01:00",
  "range": [
   "2026-11-24",
-  "2026-12-10"
+  "2026-12-20"
  ],
  "events": [
+  {
+   "date": "2026-11-24",
+   "time": "",
+   "title": "Otello",
+   "venue": "Teatro Argentina",
+   "cat": "teatro",
+   "desc": "Shakespeare ambientato in un Sud coloniale, nel cartellone del Teatro di Roma. Ultime repliche, fino al 29 novembre.",
+   "url": "https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-argentina/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r003",
+   "key": "2026-11-24-otello",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8955,
+    12.4762
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "",
+   "title": "Ri-generare con creatività: Forum nazionale sulla rigenerazione urbana",
+   "venue": "Ex Mattatoio di Testaccio (piazza Orazio Giustiniani 4)",
+   "cat": "talk",
+   "desc": "Cinque giorni di incontri tra architetti, artisti, curatori e amministratori su come la cultura trasforma le città. Ingresso gratuito.",
+   "url": "https://www.romaedintorninotizie.it/notizie-dalla-rete/roma-al-via-il-forum-nazionale-sulla-rigenerazione-urbana-cinque-giorni-di-incontri-tra-cultura-arte-e-trasformazione-delle-citta/",
+   "free": true,
+   "tags": [],
+   "verify": true,
+   "id": "r004",
+   "key": "2026-11-24-ri-generare-con-creativita-forum-nazionale-sulla",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.876,
+    12.475
+   ],
+   "zona": "Trastevere · Testaccio · Ostiense"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "",
+   "title": "Voci dal silenzio",
+   "venue": "Teatro Valle",
+   "cat": "teatro",
+   "desc": "Serata al Teatro Valle, casa della nuova drammaturgia.",
+   "url": "https://www.teatrodiroma.net/calendario/",
+   "free": null,
+   "tags": [],
+   "verify": true,
+   "id": "r005",
+   "key": "2026-11-24-voci-dal-silenzio",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8985,
+    12.475
+   ],
+   "zona": "Centro storico"
+  },
   {
    "date": "2026-11-24",
    "time": "17:00",
@@ -73,7 +139,51 @@
    "zona": "Esquilino · Monti · San Lorenzo"
   },
   {
-   "date": "2026-11-24",
+   "date": "2026-11-25",
+   "time": "",
+   "title": "Eugenio in Via Di Gioia",
+   "venue": "Atlantico (viale dell'Oceano Atlantico 271)",
+   "cat": "jazz",
+   "desc": "Concerto della band torinese.",
+   "url": "https://www.romapop.it/cosa-fare-a-roma-questa-settimana-gli-eventi-dal-23-al-29-novembre-2026/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r018",
+   "key": "2026-11-25-eugenio-in-via-di-gioia",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.827,
+    12.48
+   ],
+   "zona": "EUR e sud"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "",
+   "title": "I am the Wind",
+   "venue": "Teatro India",
+   "cat": "teatro",
+   "desc": "Spettacolo della stagione del Teatro di Roma al Teatro India.",
+   "url": "https://www.teatrodiroma.net/calendario/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r019",
+   "key": "2026-11-25-i-am-the-wind",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.869,
+    12.471
+   ],
+   "zona": "Trastevere · Testaccio · Ostiense"
+  },
+  {
+   "date": "2026-11-25",
    "time": "",
    "title": "Otello",
    "venue": "Teatro Argentina",
@@ -83,8 +193,8 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r003",
-   "key": "2026-11-24-otello",
+   "id": "r020",
+   "key": "2026-11-25-otello",
    "moods": [
     "emozionarmi"
    ],
@@ -95,7 +205,7 @@
    "zona": "Centro storico"
   },
   {
-   "date": "2026-11-24",
+   "date": "2026-11-25",
    "time": "",
    "title": "Ri-generare con creatività: Forum nazionale sulla rigenerazione urbana",
    "venue": "Ex Mattatoio di Testaccio (piazza Orazio Giustiniani 4)",
@@ -105,8 +215,8 @@
    "free": true,
    "tags": [],
    "verify": true,
-   "id": "r004",
-   "key": "2026-11-24-ri-generare-con-creativita-forum-nazionale-sulla",
+   "id": "r021",
+   "key": "2026-11-25-ri-generare-con-creativita-forum-nazionale-sulla",
    "moods": [
     "pensare"
    ],
@@ -117,26 +227,27 @@
    "zona": "Trastevere · Testaccio · Ostiense"
   },
   {
-   "date": "2026-11-24",
+   "date": "2026-11-25",
    "time": "",
-   "title": "Voci dal silenzio",
-   "venue": "Teatro Valle",
+   "title": "Venerdì 13",
+   "venue": "Teatro Parioli Costanzo",
    "cat": "teatro",
-   "desc": "Serata al Teatro Valle, casa della nuova drammaturgia.",
-   "url": "https://www.teatrodiroma.net/calendario/",
-   "free": null,
+   "desc": "Commedia in atto unico tra equivoci e colpi di scena, regia di Roberto Ciufoli.",
+   "url": "https://www.ilparioli.it/events/venerdi-13/",
+   "free": false,
    "tags": [],
    "verify": true,
-   "id": "r005",
-   "key": "2026-11-24-voci-dal-silenzio",
+   "id": "r022",
+   "key": "2026-11-25-venerdi-13",
    "moods": [
-    "emozionarmi"
+    "emozionarmi",
+    "ridere"
    ],
    "geo": [
-    41.8985,
-    12.475
+    41.9262,
+    12.488
    ],
-   "zona": "Centro storico"
+   "zona": "Parioli · Villa Borghese · Nomentano"
   },
   {
    "date": "2026-11-25",
@@ -323,6 +434,30 @@
   },
   {
    "date": "2026-11-25",
+   "time": "19:30",
+   "title": "Organum Multiplum: Heinali, Saienko e Lindwall a Santa Cecilia",
+   "venue": "Basilica di Santa Cecilia in Trastevere (piazza di Santa Cecilia 22)",
+   "cat": "classica",
+   "desc": "Organo antico e musica contemporanea nella rassegna di Villa Lontana. Gratis con prenotazione.",
+   "url": "https://www.turismoroma.it/it/node/178678",
+   "free": true,
+   "tags": [
+    "chiese"
+   ],
+   "verify": false,
+   "id": "r101",
+   "key": "2026-11-25-organum-multiplum-heinali-saienko-e-lindwall-a-s",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8871,
+    12.4766
+   ],
+   "zona": "Trastevere · Testaccio · Ostiense"
+  },
+  {
+   "date": "2026-11-25",
    "time": "20:00",
    "title": "Lezioni di Storia · Gennaro Carillo: La Repubblica di Platone, il potere delle idee",
    "venue": "Auditorium Parco della Musica · Sala Sinopoli",
@@ -413,29 +548,7 @@
    "zona": "Esquilino · Monti · San Lorenzo"
   },
   {
-   "date": "2026-11-25",
-   "time": "",
-   "title": "Eugenio in Via Di Gioia",
-   "venue": "Atlantico (viale dell'Oceano Atlantico 271)",
-   "cat": "jazz",
-   "desc": "Concerto della band torinese.",
-   "url": "https://www.romapop.it/cosa-fare-a-roma-questa-settimana-gli-eventi-dal-23-al-29-novembre-2026/",
-   "free": false,
-   "tags": [],
-   "verify": true,
-   "id": "r018",
-   "key": "2026-11-25-eugenio-in-via-di-gioia",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    41.827,
-    12.48
-   ],
-   "zona": "EUR e sud"
-  },
-  {
-   "date": "2026-11-25",
+   "date": "2026-11-26",
    "time": "",
    "title": "I am the Wind",
    "venue": "Teatro India",
@@ -445,8 +558,8 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r019",
-   "key": "2026-11-25-i-am-the-wind",
+   "id": "r030",
+   "key": "2026-11-26-i-am-the-wind",
    "moods": [
     "emozionarmi"
    ],
@@ -457,7 +570,7 @@
    "zona": "Trastevere · Testaccio · Ostiense"
   },
   {
-   "date": "2026-11-25",
+   "date": "2026-11-26",
    "time": "",
    "title": "Otello",
    "venue": "Teatro Argentina",
@@ -467,8 +580,8 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r020",
-   "key": "2026-11-25-otello",
+   "id": "r031",
+   "key": "2026-11-26-otello",
    "moods": [
     "emozionarmi"
    ],
@@ -479,7 +592,7 @@
    "zona": "Centro storico"
   },
   {
-   "date": "2026-11-25",
+   "date": "2026-11-26",
    "time": "",
    "title": "Ri-generare con creatività: Forum nazionale sulla rigenerazione urbana",
    "venue": "Ex Mattatoio di Testaccio (piazza Orazio Giustiniani 4)",
@@ -489,8 +602,8 @@
    "free": true,
    "tags": [],
    "verify": true,
-   "id": "r021",
-   "key": "2026-11-25-ri-generare-con-creativita-forum-nazionale-sulla",
+   "id": "r032",
+   "key": "2026-11-26-ri-generare-con-creativita-forum-nazionale-sulla",
    "moods": [
     "pensare"
    ],
@@ -501,7 +614,7 @@
    "zona": "Trastevere · Testaccio · Ostiense"
   },
   {
-   "date": "2026-11-25",
+   "date": "2026-11-26",
    "time": "",
    "title": "Venerdì 13",
    "venue": "Teatro Parioli Costanzo",
@@ -511,8 +624,8 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r022",
-   "key": "2026-11-25-venerdi-13",
+   "id": "r033",
+   "key": "2026-11-26-venerdi-13",
    "moods": [
     "emozionarmi",
     "ridere"
@@ -679,7 +792,51 @@
    "zona": "Esquilino · Monti · San Lorenzo"
   },
   {
-   "date": "2026-11-26",
+   "date": "2026-11-27",
+   "time": "",
+   "title": "Ditonellapiaga",
+   "venue": "Atlantico (viale dell'Oceano Atlantico 271)",
+   "cat": "jazz",
+   "desc": "Concerto della cantautrice romana.",
+   "url": "https://www.romapop.it/cosa-fare-a-roma-questa-settimana-gli-eventi-dal-23-al-29-novembre-2026/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r041",
+   "key": "2026-11-27-ditonellapiaga",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.827,
+    12.48
+   ],
+   "zona": "EUR e sud"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "",
+   "title": "Esperide · Fantasie barocche: Sant'Ivo alla Sapienza e Sant'Agnese in Agone",
+   "venue": "Sant'Ivo alla Sapienza (corso del Rinascimento 40)",
+   "cat": "storia",
+   "desc": "Visita guidata ai capolavori di Borromini con l'associazione Esperide. Prenotazione: info@esperide.it.",
+   "url": "https://esperide.it/attivita/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r042",
+   "key": "2026-11-27-esperide-fantasie-barocche-sant-ivo-alla-sapienz",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.8986,
+    12.4745
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-11-27",
    "time": "",
    "title": "I am the Wind",
    "venue": "Teatro India",
@@ -689,8 +846,8 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r030",
-   "key": "2026-11-26-i-am-the-wind",
+   "id": "r043",
+   "key": "2026-11-27-i-am-the-wind",
    "moods": [
     "emozionarmi"
    ],
@@ -701,7 +858,29 @@
    "zona": "Trastevere · Testaccio · Ostiense"
   },
   {
-   "date": "2026-11-26",
+   "date": "2026-11-27",
+   "time": "",
+   "title": "Masterclass: i segreti della Tosca",
+   "venue": "Campidoglio, Sala della Promoteca",
+   "cat": "classica",
+   "desc": "Una masterclass per scoprire l'opera di Puccini da dentro.",
+   "url": "https://www.romatoday.it/eventi/",
+   "free": null,
+   "tags": [],
+   "verify": true,
+   "id": "r044",
+   "key": "2026-11-27-masterclass-i-segreti-della-tosca",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8933,
+    12.4828
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-11-27",
    "time": "",
    "title": "Otello",
    "venue": "Teatro Argentina",
@@ -711,8 +890,8 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r031",
-   "key": "2026-11-26-otello",
+   "id": "r045",
+   "key": "2026-11-27-otello",
    "moods": [
     "emozionarmi"
    ],
@@ -723,7 +902,29 @@
    "zona": "Centro storico"
   },
   {
-   "date": "2026-11-26",
+   "date": "2026-11-27",
+   "time": "",
+   "title": "Pinocchia, adolescente di legno",
+   "venue": "Teatro India",
+   "cat": "famiglie",
+   "desc": "Una rilettura al femminile di Pinocchio, per ragazzi.",
+   "url": "https://www.teatrodiroma.net/calendario/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r046",
+   "key": "2026-11-27-pinocchia-adolescente-di-legno",
+   "moods": [
+    "bambini"
+   ],
+   "geo": [
+    41.869,
+    12.471
+   ],
+   "zona": "Trastevere · Testaccio · Ostiense"
+  },
+  {
+   "date": "2026-11-27",
    "time": "",
    "title": "Ri-generare con creatività: Forum nazionale sulla rigenerazione urbana",
    "venue": "Ex Mattatoio di Testaccio (piazza Orazio Giustiniani 4)",
@@ -733,8 +934,8 @@
    "free": true,
    "tags": [],
    "verify": true,
-   "id": "r032",
-   "key": "2026-11-26-ri-generare-con-creativita-forum-nazionale-sulla",
+   "id": "r047",
+   "key": "2026-11-27-ri-generare-con-creativita-forum-nazionale-sulla",
    "moods": [
     "pensare"
    ],
@@ -743,29 +944,6 @@
     12.475
    ],
    "zona": "Trastevere · Testaccio · Ostiense"
-  },
-  {
-   "date": "2026-11-26",
-   "time": "",
-   "title": "Venerdì 13",
-   "venue": "Teatro Parioli Costanzo",
-   "cat": "teatro",
-   "desc": "Commedia in atto unico tra equivoci e colpi di scena, regia di Roberto Ciufoli.",
-   "url": "https://www.ilparioli.it/events/venerdi-13/",
-   "free": false,
-   "tags": [],
-   "verify": true,
-   "id": "r033",
-   "key": "2026-11-26-venerdi-13",
-   "moods": [
-    "emozionarmi",
-    "ridere"
-   ],
-   "geo": [
-    41.9262,
-    12.488
-   ],
-   "zona": "Parioli · Villa Borghese · Nomentano"
   },
   {
    "date": "2026-11-27",
@@ -922,51 +1100,29 @@
    "zona": "Esquilino · Monti · San Lorenzo"
   },
   {
-   "date": "2026-11-27",
+   "date": "2026-11-28",
    "time": "",
-   "title": "Ditonellapiaga",
-   "venue": "Atlantico (viale dell'Oceano Atlantico 271)",
-   "cat": "jazz",
-   "desc": "Concerto della cantautrice romana.",
-   "url": "https://www.romapop.it/cosa-fare-a-roma-questa-settimana-gli-eventi-dal-23-al-29-novembre-2026/",
-   "free": false,
-   "tags": [],
-   "verify": true,
-   "id": "r041",
-   "key": "2026-11-27-ditonellapiaga",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    41.827,
-    12.48
-   ],
-   "zona": "EUR e sud"
-  },
-  {
-   "date": "2026-11-27",
-   "time": "",
-   "title": "Esperide · Fantasie barocche: Sant'Ivo alla Sapienza e Sant'Agnese in Agone",
-   "venue": "Sant'Ivo alla Sapienza (corso del Rinascimento 40)",
+   "title": "Esperide · Visita all'Abbazia delle Tre Fontane",
+   "venue": "Abbazia delle Tre Fontane (via Acque Salvie 1)",
    "cat": "storia",
-   "desc": "Visita guidata ai capolavori di Borromini con l'associazione Esperide. Prenotazione: info@esperide.it.",
+   "desc": "Visita guidata con l'associazione Esperide. Prenotazione: info@esperide.it.",
    "url": "https://esperide.it/attivita/",
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r042",
-   "key": "2026-11-27-esperide-fantasie-barocche-sant-ivo-alla-sapienz",
+   "id": "r059",
+   "key": "2026-11-28-esperide-visita-all-abbazia-delle-tre-fontane",
    "moods": [
     "pensare"
    ],
    "geo": [
-    41.8986,
-    12.4745
+    41.834,
+    12.484
    ],
-   "zona": "Centro storico"
+   "zona": "EUR e sud"
   },
   {
-   "date": "2026-11-27",
+   "date": "2026-11-28",
    "time": "",
    "title": "I am the Wind",
    "venue": "Teatro India",
@@ -976,8 +1132,8 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r043",
-   "key": "2026-11-27-i-am-the-wind",
+   "id": "r060",
+   "key": "2026-11-28-i-am-the-wind",
    "moods": [
     "emozionarmi"
    ],
@@ -988,29 +1144,7 @@
    "zona": "Trastevere · Testaccio · Ostiense"
   },
   {
-   "date": "2026-11-27",
-   "time": "",
-   "title": "Masterclass: i segreti della Tosca",
-   "venue": "Campidoglio, Sala della Promoteca",
-   "cat": "classica",
-   "desc": "Una masterclass per scoprire l'opera di Puccini da dentro.",
-   "url": "https://www.romatoday.it/eventi/",
-   "free": null,
-   "tags": [],
-   "verify": true,
-   "id": "r044",
-   "key": "2026-11-27-masterclass-i-segreti-della-tosca",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    41.8933,
-    12.4828
-   ],
-   "zona": "Centro storico"
-  },
-  {
-   "date": "2026-11-27",
+   "date": "2026-11-28",
    "time": "",
    "title": "Otello",
    "venue": "Teatro Argentina",
@@ -1020,8 +1154,8 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r045",
-   "key": "2026-11-27-otello",
+   "id": "r061",
+   "key": "2026-11-28-otello",
    "moods": [
     "emozionarmi"
    ],
@@ -1032,7 +1166,7 @@
    "zona": "Centro storico"
   },
   {
-   "date": "2026-11-27",
+   "date": "2026-11-28",
    "time": "",
    "title": "Pinocchia, adolescente di legno",
    "venue": "Teatro India",
@@ -1042,8 +1176,8 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r046",
-   "key": "2026-11-27-pinocchia-adolescente-di-legno",
+   "id": "r062",
+   "key": "2026-11-28-pinocchia-adolescente-di-legno",
    "moods": [
     "bambini"
    ],
@@ -1054,20 +1188,20 @@
    "zona": "Trastevere · Testaccio · Ostiense"
   },
   {
-   "date": "2026-11-27",
+   "date": "2026-11-28",
    "time": "",
-   "title": "Ri-generare con creatività: Forum nazionale sulla rigenerazione urbana",
+   "title": "The Shape of Sound: Liquid Conversation",
    "venue": "Ex Mattatoio di Testaccio (piazza Orazio Giustiniani 4)",
-   "cat": "talk",
-   "desc": "Cinque giorni di incontri tra architetti, artisti, curatori e amministratori su come la cultura trasforma le città. Ingresso gratuito.",
-   "url": "https://www.romaedintorninotizie.it/notizie-dalla-rete/roma-al-via-il-forum-nazionale-sulla-rigenerazione-urbana-cinque-giorni-di-incontri-tra-cultura-arte-e-trasformazione-delle-citta/",
-   "free": true,
+   "cat": "classica",
+   "desc": "Installazione sonora del Festival di Nuova Consonanza, fino al 20 dicembre.",
+   "url": "https://www.mattatoioroma.it/evento/the-shape-of-sound-liquid-conversation",
+   "free": null,
    "tags": [],
    "verify": true,
-   "id": "r047",
-   "key": "2026-11-27-ri-generare-con-creativita-forum-nazionale-sulla",
+   "id": "r063",
+   "key": "2026-11-28-the-shape-of-sound-liquid-conversation",
    "moods": [
-    "pensare"
+    "emozionarmi"
    ],
    "geo": [
     41.876,
@@ -1308,29 +1442,29 @@
    "zona": "Prati · Aurelio · Flaminio"
   },
   {
-   "date": "2026-11-28",
+   "date": "2026-11-29",
    "time": "",
-   "title": "Esperide · Visita all'Abbazia delle Tre Fontane",
-   "venue": "Abbazia delle Tre Fontane (via Acque Salvie 1)",
+   "title": "Esperide · Visita alla Casa dei Cavalieri di Rodi",
+   "venue": "Casa dei Cavalieri di Rodi (piazza del Grillo 1)",
    "cat": "storia",
-   "desc": "Visita guidata con l'associazione Esperide. Prenotazione: info@esperide.it.",
+   "desc": "Visita guidata sopra il Foro di Augusto con l'associazione Esperide. Prenotazione: info@esperide.it.",
    "url": "https://esperide.it/attivita/",
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r059",
-   "key": "2026-11-28-esperide-visita-all-abbazia-delle-tre-fontane",
+   "id": "r071",
+   "key": "2026-11-29-esperide-visita-alla-casa-dei-cavalieri-di-rodi",
    "moods": [
     "pensare"
    ],
    "geo": [
-    41.834,
-    12.484
+    41.8947,
+    12.487
    ],
-   "zona": "EUR e sud"
+   "zona": "Centro storico"
   },
   {
-   "date": "2026-11-28",
+   "date": "2026-11-29",
    "time": "",
    "title": "I am the Wind",
    "venue": "Teatro India",
@@ -1340,8 +1474,8 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r060",
-   "key": "2026-11-28-i-am-the-wind",
+   "id": "r072",
+   "key": "2026-11-29-i-am-the-wind",
    "moods": [
     "emozionarmi"
    ],
@@ -1352,7 +1486,51 @@
    "zona": "Trastevere · Testaccio · Ostiense"
   },
   {
-   "date": "2026-11-28",
+   "date": "2026-11-29",
+   "time": "",
+   "title": "Il ballo, reading con Laura Morante ed Eugenia Costantini",
+   "venue": "Teatro Palladium",
+   "cat": "teatro",
+   "desc": "Reading musicale con Antonello D'Onofrio al pianoforte.",
+   "url": "https://www.oggiroma.it/eventi/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r073",
+   "key": "2026-11-29-il-ballo-reading-con-laura-morante-ed-eugenia-co",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.864,
+    12.479
+   ],
+   "zona": "Trastevere · Testaccio · Ostiense"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "",
+   "title": "Lezioni di Storia · Francesca Cenerini: gli Annali di Tacito",
+   "venue": "Auditorium Parco della Musica",
+   "cat": "storia",
+   "desc": "Il potere degli uomini sulle donne, letto attraverso Tacito.",
+   "url": "https://www.auditorium.com/it/rassegne/lezioni-di-storia-2026-2027-il-potere-dei-classici/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r074",
+   "key": "2026-11-29-lezioni-di-storia-francesca-cenerini-gli-annali-",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.929,
+    12.474
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
+  },
+  {
+   "date": "2026-11-29",
    "time": "",
    "title": "Otello",
    "venue": "Teatro Argentina",
@@ -1362,8 +1540,8 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r061",
-   "key": "2026-11-28-otello",
+   "id": "r075",
+   "key": "2026-11-29-otello",
    "moods": [
     "emozionarmi"
    ],
@@ -1374,7 +1552,7 @@
    "zona": "Centro storico"
   },
   {
-   "date": "2026-11-28",
+   "date": "2026-11-29",
    "time": "",
    "title": "Pinocchia, adolescente di legno",
    "venue": "Teatro India",
@@ -1384,36 +1562,14 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r062",
-   "key": "2026-11-28-pinocchia-adolescente-di-legno",
+   "id": "r076",
+   "key": "2026-11-29-pinocchia-adolescente-di-legno",
    "moods": [
     "bambini"
    ],
    "geo": [
     41.869,
     12.471
-   ],
-   "zona": "Trastevere · Testaccio · Ostiense"
-  },
-  {
-   "date": "2026-11-28",
-   "time": "",
-   "title": "The Shape of Sound: Liquid Conversation",
-   "venue": "Ex Mattatoio di Testaccio (piazza Orazio Giustiniani 4)",
-   "cat": "classica",
-   "desc": "Installazione sonora del Festival di Nuova Consonanza, fino al 20 dicembre.",
-   "url": "https://www.mattatoioroma.it/evento/the-shape-of-sound-liquid-conversation",
-   "free": null,
-   "tags": [],
-   "verify": true,
-   "id": "r063",
-   "key": "2026-11-28-the-shape-of-sound-liquid-conversation",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    41.876,
-    12.475
    ],
    "zona": "Trastevere · Testaccio · Ostiense"
   },
@@ -1576,138 +1732,6 @@
    "zona": "Parioli · Villa Borghese · Nomentano"
   },
   {
-   "date": "2026-11-29",
-   "time": "",
-   "title": "Esperide · Visita alla Casa dei Cavalieri di Rodi",
-   "venue": "Casa dei Cavalieri di Rodi (piazza del Grillo 1)",
-   "cat": "storia",
-   "desc": "Visita guidata sopra il Foro di Augusto con l'associazione Esperide. Prenotazione: info@esperide.it.",
-   "url": "https://esperide.it/attivita/",
-   "free": false,
-   "tags": [],
-   "verify": true,
-   "id": "r071",
-   "key": "2026-11-29-esperide-visita-alla-casa-dei-cavalieri-di-rodi",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    41.8947,
-    12.487
-   ],
-   "zona": "Centro storico"
-  },
-  {
-   "date": "2026-11-29",
-   "time": "",
-   "title": "I am the Wind",
-   "venue": "Teatro India",
-   "cat": "teatro",
-   "desc": "Spettacolo della stagione del Teatro di Roma al Teatro India.",
-   "url": "https://www.teatrodiroma.net/calendario/",
-   "free": false,
-   "tags": [],
-   "verify": true,
-   "id": "r072",
-   "key": "2026-11-29-i-am-the-wind",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    41.869,
-    12.471
-   ],
-   "zona": "Trastevere · Testaccio · Ostiense"
-  },
-  {
-   "date": "2026-11-29",
-   "time": "",
-   "title": "Il ballo, reading con Laura Morante ed Eugenia Costantini",
-   "venue": "Teatro Palladium",
-   "cat": "teatro",
-   "desc": "Reading musicale con Antonello D'Onofrio al pianoforte.",
-   "url": "https://www.oggiroma.it/eventi/",
-   "free": false,
-   "tags": [],
-   "verify": true,
-   "id": "r073",
-   "key": "2026-11-29-il-ballo-reading-con-laura-morante-ed-eugenia-co",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    41.864,
-    12.479
-   ],
-   "zona": "Trastevere · Testaccio · Ostiense"
-  },
-  {
-   "date": "2026-11-29",
-   "time": "",
-   "title": "Lezioni di Storia · Francesca Cenerini: gli Annali di Tacito",
-   "venue": "Auditorium Parco della Musica",
-   "cat": "storia",
-   "desc": "Il potere degli uomini sulle donne, letto attraverso Tacito.",
-   "url": "https://www.auditorium.com/it/rassegne/lezioni-di-storia-2026-2027-il-potere-dei-classici/",
-   "free": false,
-   "tags": [],
-   "verify": true,
-   "id": "r074",
-   "key": "2026-11-29-lezioni-di-storia-francesca-cenerini-gli-annali-",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    41.929,
-    12.474
-   ],
-   "zona": "Prati · Aurelio · Flaminio"
-  },
-  {
-   "date": "2026-11-29",
-   "time": "",
-   "title": "Otello",
-   "venue": "Teatro Argentina",
-   "cat": "teatro",
-   "desc": "Shakespeare ambientato in un Sud coloniale, nel cartellone del Teatro di Roma. Ultime repliche, fino al 29 novembre.",
-   "url": "https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-argentina/",
-   "free": false,
-   "tags": [],
-   "verify": true,
-   "id": "r075",
-   "key": "2026-11-29-otello",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    41.8955,
-    12.4762
-   ],
-   "zona": "Centro storico"
-  },
-  {
-   "date": "2026-11-29",
-   "time": "",
-   "title": "Pinocchia, adolescente di legno",
-   "venue": "Teatro India",
-   "cat": "famiglie",
-   "desc": "Una rilettura al femminile di Pinocchio, per ragazzi.",
-   "url": "https://www.teatrodiroma.net/calendario/",
-   "free": false,
-   "tags": [],
-   "verify": true,
-   "id": "r076",
-   "key": "2026-11-29-pinocchia-adolescente-di-legno",
-   "moods": [
-    "bambini"
-   ],
-   "geo": [
-    41.869,
-    12.471
-   ],
-   "zona": "Trastevere · Testaccio · Ostiense"
-  },
-  {
    "date": "2026-11-30",
    "time": "15:30",
    "title": "Esperide · Corso sul Rinascimento: Donatello",
@@ -1755,6 +1779,28 @@
   },
   {
    "date": "2026-12-01",
+   "time": "",
+   "title": "Che dolore terribile è l'amore",
+   "venue": "Teatro Valle",
+   "cat": "teatro",
+   "desc": "Daria Deflorian adatta Non dico addio di Han Kang: due amiche e la memoria della strage di Jeju del 1948. Con Deflorian, Mandruzzato e Piseddu, 80 minuti.",
+   "url": "https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-valle/che-dolore-terribile-e-lamore/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r080",
+   "key": "2026-12-01-che-dolore-terribile-e-l-amore",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8985,
+    12.475
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-12-01",
    "time": "17:00",
    "title": "Automotive: tra competitività e autodistruzione",
    "venue": "Centro Studi Americani (via Michelangelo Caetani 32)",
@@ -1777,23 +1823,47 @@
   },
   {
    "date": "2026-12-01",
-   "time": "",
-   "title": "Che dolore terribile è l'amore",
-   "venue": "Teatro Valle",
-   "cat": "teatro",
-   "desc": "Daria Deflorian adatta Non dico addio di Han Kang: due amiche e la memoria della strage di Jeju del 1948. Con Deflorian, Mandruzzato e Piseddu, 80 minuti.",
-   "url": "https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-valle/che-dolore-terribile-e-lamore/",
-   "free": false,
-   "tags": [],
-   "verify": true,
-   "id": "r080",
-   "key": "2026-12-01-che-dolore-terribile-e-l-amore",
+   "time": "21:00",
+   "title": "Steve Reich al Pantheon (Organum Multiplum)",
+   "venue": "Pantheon · Basilica di Santa Maria ad Martyres (piazza della Rotonda)",
+   "cat": "classica",
+   "desc": "Il capitolo finale di Organum Multiplum porta la musica di Steve Reich sotto la cupola del Pantheon. Gratis con prenotazione: i posti finiscono in fretta.",
+   "url": "https://www.turismoroma.it/de/node/179515",
+   "free": true,
+   "tags": [
+    "chiese"
+   ],
+   "verify": false,
+   "id": "r102",
+   "key": "2026-12-01-steve-reich-al-pantheon-organum-multiplum",
    "moods": [
     "emozionarmi"
    ],
    "geo": [
-    41.8985,
-    12.475
+    41.8986,
+    12.4769
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "",
+   "title": "Peccato che fosse una sgualdrina",
+   "venue": "Teatro Argentina",
+   "cat": "teatro",
+   "desc": "La tragedia di John Ford nel cartellone del Teatro di Roma (2-13 dicembre).",
+   "url": "https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-argentina/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r083",
+   "key": "2026-12-02-peccato-che-fosse-una-sgualdrina",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8955,
+    12.4762
    ],
    "zona": "Centro storico"
   },
@@ -1842,7 +1912,7 @@
    "zona": "Centro storico"
   },
   {
-   "date": "2026-12-02",
+   "date": "2026-12-03",
    "time": "",
    "title": "Peccato che fosse una sgualdrina",
    "venue": "Teatro Argentina",
@@ -1852,8 +1922,8 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r083",
-   "key": "2026-12-02-peccato-che-fosse-una-sgualdrina",
+   "id": "r087",
+   "key": "2026-12-03-peccato-che-fosse-una-sgualdrina",
    "moods": [
     "emozionarmi"
    ],
@@ -1930,18 +2000,18 @@
    "zona": "Parioli · Villa Borghese · Nomentano"
   },
   {
-   "date": "2026-12-03",
+   "date": "2026-12-04",
    "time": "",
    "title": "Peccato che fosse una sgualdrina",
    "venue": "Teatro Argentina",
    "cat": "teatro",
-   "desc": "La tragedia di John Ford nel cartellone del Teatro di Roma (2-13 dicembre).",
-   "url": "https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-argentina/",
+   "desc": "La tragedia elisabettiana di John Ford in scena all'Argentina fino al 13 dicembre.",
+   "url": "https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-argentina/peccato-che-fosse-una-sgualdrina/",
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r087",
-   "key": "2026-12-03-peccato-che-fosse-una-sgualdrina",
+   "id": "r093",
+   "key": "2026-12-04-peccato-che-fosse-una-sgualdrina",
    "moods": [
     "emozionarmi"
    ],
@@ -2063,28 +2133,6 @@
     12.5115
    ],
    "zona": "Parioli · Villa Borghese · Nomentano"
-  },
-  {
-   "date": "2026-12-04",
-   "time": "",
-   "title": "Peccato che fosse una sgualdrina",
-   "venue": "Teatro Argentina",
-   "cat": "teatro",
-   "desc": "La tragedia elisabettiana di John Ford in scena all'Argentina fino al 13 dicembre.",
-   "url": "https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-argentina/peccato-che-fosse-una-sgualdrina/",
-   "free": false,
-   "tags": [],
-   "verify": true,
-   "id": "r093",
-   "key": "2026-12-04-peccato-che-fosse-una-sgualdrina",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    41.8955,
-    12.4762
-   ],
-   "zona": "Centro storico"
   },
   {
    "date": "2026-12-05",
@@ -2243,6 +2291,77 @@
     12.4778
    ],
    "zona": "Centro storico"
+  },
+  {
+   "date": "2026-12-11",
+   "title": "From Vivaldi to Traditionals: King's School a San Paolo entro le Mura",
+   "venue": "Chiesa di San Paolo entro le Mura (via Nazionale 16/A)",
+   "cat": "classica",
+   "desc": "Concerto gratuito di un coro e orchestra scolastica australiana nella chiesa anglicana con i mosaici di Burne-Jones.",
+   "url": "https://www.romatoday.it/eventi/tipo/concerti/",
+   "free": true,
+   "tags": [
+    "chiese"
+   ],
+   "verify": true,
+   "id": "r103",
+   "key": "2026-12-11-from-vivaldi-to-traditionals-king-s-school-a-san",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.9011,
+    12.4939
+   ],
+   "zona": "Esquilino · Monti · San Lorenzo"
+  },
+  {
+   "date": "2026-12-13",
+   "time": "20:30",
+   "title": "42° Concerto di Natale in Cattedrale con Marco Frisina",
+   "venue": "Basilica di San Giovanni in Laterano (piazza di San Giovanni in Laterano 4)",
+   "cat": "classica",
+   "desc": "Coro della Diocesi di Roma e Nova Opera Orchestra diretti da Mons. Marco Frisina. Ingresso libero e gratuito, porte dalle 19: arriva presto per i controlli.",
+   "url": "https://www.concertodinataleincattedrale.it/",
+   "free": true,
+   "tags": [
+    "chiese"
+   ],
+   "verify": false,
+   "id": "r104",
+   "key": "2026-12-13-42-concerto-di-natale-in-cattedrale-con-marco-fr",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8858,
+    12.5057
+   ],
+   "zona": "Esquilino · Monti · San Lorenzo"
+  },
+  {
+   "date": "2026-12-17",
+   "time": "20:30",
+   "title": "Concerto di Natale: Mozart, Mendelssohn e Händel a San Paolo entro le Mura",
+   "venue": "Chiesa di San Paolo entro le Mura (via Nazionale 16/A)",
+   "cat": "classica",
+   "desc": "Il soprano Anastasiia Demchenko e il tenore Francesco Fortes tra brani natalizi e repertorio classico. Biglietti da 25 €.",
+   "url": "https://www.turismoroma.it/it/eventi/concerto-di-natale-roma",
+   "free": false,
+   "tags": [
+    "chiese"
+   ],
+   "verify": false,
+   "id": "r105",
+   "key": "2026-12-17-concerto-di-natale-mozart-mendelssohn-e-handel-a",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.9011,
+    12.4939
+   ],
+   "zona": "Esquilino · Monti · San Lorenzo"
   }
  ],
  "mostre": []

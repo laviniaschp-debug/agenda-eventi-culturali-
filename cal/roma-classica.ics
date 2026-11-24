@@ -25,8 +25,22 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-11-25-organum-multiplum-heinali-saienko-e-lindwall-a-s@acculturiam
+ oci.it
+DTSTAMP:20261124T150947Z
+DTSTART;TZID=Europe/Rome:20261125T193000
+DTEND;TZID=Europe/Rome:20261125T213000
+SUMMARY:Organum Multiplum: Heinali\, Saienko e Lindwall a Santa Cecilia
+LOCATION:Basilica di Santa Cecilia in Trastevere (piazza di Santa Cecilia 2
+ 2)
+DESCRIPTION:Organo antico e musica contemporanea nella rassegna di Villa Lo
+ ntana. Gratis con prenotazione. https://www.turismoroma.it/it/node/178678
+URL:https://www.turismoroma.it/it/node/178678
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-25-sol-gabetta-e-bertrand-chamayou@acculturiamoci.it
-DTSTAMP:20261124T131605Z
+DTSTAMP:20261124T150947Z
 DTSTART;TZID=Europe/Rome:20261125T200000
 DTEND;TZID=Europe/Rome:20261125T220000
 SUMMARY:Sol Gabetta e Bertrand Chamayou
@@ -38,7 +52,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-daniel-harding-dirige-brahms-e-strauss@acculturiamoci.it
-DTSTAMP:20261124T131605Z
+DTSTAMP:20261124T150947Z
 DTSTART;TZID=Europe/Rome:20261126T193000
 DTEND;TZID=Europe/Rome:20261126T213000
 SUMMARY:Daniel Harding dirige Brahms e Strauss
@@ -50,7 +64,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-daniel-harding-dirige-brahms-e-strauss@acculturiamoci.it
-DTSTAMP:20261124T131605Z
+DTSTAMP:20261124T150947Z
 DTSTART;TZID=Europe/Rome:20261127T200000
 DTEND;TZID=Europe/Rome:20261127T220000
 SUMMARY:Daniel Harding dirige Brahms e Strauss
@@ -62,7 +76,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-masterclass-i-segreti-della-tosca@acculturiamoci.it
-DTSTAMP:20261124T131605Z
+DTSTAMP:20261124T150947Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Masterclass: i segreti della Tosca
@@ -74,7 +88,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-daniel-harding-dirige-brahms-e-strauss@acculturiamoci.it
-DTSTAMP:20261124T131605Z
+DTSTAMP:20261124T150947Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Daniel Harding dirige Brahms e Strauss
@@ -86,7 +100,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-the-shape-of-sound-liquid-conversation@acculturiamoci.it
-DTSTAMP:20261124T131605Z
+DTSTAMP:20261124T150947Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:The Shape of Sound: Liquid Conversation
@@ -96,6 +110,65 @@ DESCRIPTION:Installazione sonora del Festival di Nuova Consonanza\, fino al
  d-conversation
 URL:https://www.mattatoioroma.it/evento/the-shape-of-sound-liquid-conversat
  ion
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-steve-reich-al-pantheon-organum-multiplum@acculturiamoci.it
+DTSTAMP:20261124T150947Z
+DTSTART;TZID=Europe/Rome:20261201T210000
+DTEND;TZID=Europe/Rome:20261201T230000
+SUMMARY:Steve Reich al Pantheon (Organum Multiplum)
+LOCATION:Pantheon · Basilica di Santa Maria ad Martyres (piazza della Roto
+ nda)
+DESCRIPTION:Il capitolo finale di Organum Multiplum porta la musica di Stev
+ e Reich sotto la cupola del Pantheon. Gratis con prenotazione: i posti fin
+ iscono in fretta. https://www.turismoroma.it/de/node/179515
+URL:https://www.turismoroma.it/de/node/179515
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-from-vivaldi-to-traditionals-king-s-school-a-san@acculturiam
+ oci.it
+DTSTAMP:20261124T150947Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:From Vivaldi to Traditionals: King's School a San Paolo entro le Mu
+ ra
+LOCATION:Chiesa di San Paolo entro le Mura (via Nazionale 16/A)
+DESCRIPTION:Concerto gratuito di un coro e orchestra scolastica australiana
+  nella chiesa anglicana con i mosaici di Burne-Jones. https://www.romatoda
+ y.it/eventi/tipo/concerti/
+URL:https://www.romatoday.it/eventi/tipo/concerti/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-42-concerto-di-natale-in-cattedrale-con-marco-fr@acculturiam
+ oci.it
+DTSTAMP:20261124T150947Z
+DTSTART;TZID=Europe/Rome:20261213T203000
+DTEND;TZID=Europe/Rome:20261213T223000
+SUMMARY:42° Concerto di Natale in Cattedrale con Marco Frisina
+LOCATION:Basilica di San Giovanni in Laterano (piazza di San Giovanni in La
+ terano 4)
+DESCRIPTION:Coro della Diocesi di Roma e Nova Opera Orchestra diretti da Mo
+ ns. Marco Frisina. Ingresso libero e gratuito\, porte dalle 19: arriva pre
+ sto per i controlli. https://www.concertodinataleincattedrale.it/
+URL:https://www.concertodinataleincattedrale.it/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-concerto-di-natale-mozart-mendelssohn-e-handel-a@acculturiam
+ oci.it
+DTSTAMP:20261124T150947Z
+DTSTART;TZID=Europe/Rome:20261217T203000
+DTEND;TZID=Europe/Rome:20261217T223000
+SUMMARY:Concerto di Natale: Mozart\, Mendelssohn e Händel a San Paolo entr
+ o le Mura
+LOCATION:Chiesa di San Paolo entro le Mura (via Nazionale 16/A)
+DESCRIPTION:Il soprano Anastasiia Demchenko e il tenore Francesco Fortes tr
+ a brani natalizi e repertorio classico. Biglietti da 25 €. https://www.t
+ urismoroma.it/it/eventi/concerto-di-natale-roma
+URL:https://www.turismoroma.it/it/eventi/concerto-di-natale-roma
 CATEGORIES:Classica e chiese
 END:VEVENT
 END:VCALENDAR
