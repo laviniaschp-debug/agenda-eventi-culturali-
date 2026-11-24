@@ -1,0 +1,861 @@
+{
+ "city": "firenze",
+ "updated": "2026-11-24T23:59:00+01:00",
+ "range": [
+  "2026-11-24",
+  "2026-12-07"
+ ],
+ "mostre": [],
+ "events": [
+  {
+   "date": "2026-11-25",
+   "time": "19:00",
+   "title": "Lo Zar, di e con Stefano Massini",
+   "venue": "Teatro della Pergola (via della Pergola 12/32)",
+   "cat": "teatro",
+   "desc": "Stefano Massini racconta da solo in scena l'ascesa al potere di un anonimo funzionario del KGB, tra materiali storici e interviste.",
+   "url": "https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettacoli-da-non-perdere/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "f000",
+   "key": "2026-11-25-lo-zar-di-e-con-stefano-massini",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    43.7727,
+    11.261
+   ],
+   "zona": "Santa Croce · Sant'Ambrogio"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "21:00",
+   "title": "Ivan e i cani, con Federica Rosellini",
+   "venue": "Teatro Puccini (via delle Cascine 41)",
+   "cat": "teatro",
+   "desc": "Monologo su un bambino che sopravvive per strada nella Mosca degli anni Novanta, accolto da un branco di cani.",
+   "url": "https://www.ticketone.it/eventseries/abbonamenti-teatro-puccini-3416466/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "f001",
+   "key": "2026-11-25-ivan-e-i-cani-con-federica-rosellini",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    43.7849,
+    11.2291
+   ],
+   "zona": "Cascine · Rifredi · Novoli"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "",
+   "title": "Che fai tu, Luna, in ciel? Leopardi e il cielo",
+   "venue": "Fondazione Scienza e Tecnica (via Giusti 29)",
+   "cat": "scienza",
+   "desc": "Serata al museo tra poesia e astronomia.",
+   "url": "https://www.mentelocale.it/firenze/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "f002",
+   "key": "2026-11-25-che-fai-tu-luna-in-ciel-leopardi-e-il-cielo",
+   "moods": [
+    "dentro",
+    "pensare"
+   ],
+   "geo": [
+    43.7772,
+    11.264
+   ],
+   "zona": "Santa Croce · Sant'Ambrogio"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "19:00",
+   "title": "Lo Zar, di e con Stefano Massini",
+   "venue": "Teatro della Pergola (via della Pergola 12/32)",
+   "cat": "teatro",
+   "desc": "Stefano Massini racconta da solo in scena l'ascesa al potere di un anonimo funzionario del KGB, tra materiali storici e interviste.",
+   "url": "https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettacoli-da-non-perdere/",
+   "free": false,
+   "tags": [
+    "imperdibile"
+   ],
+   "verify": false,
+   "id": "f003",
+   "key": "2026-11-26-lo-zar-di-e-con-stefano-massini",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    43.7727,
+    11.261
+   ],
+   "zona": "Santa Croce · Sant'Ambrogio"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "17:00",
+   "title": "La musica del mio picchio: presentazione con letture",
+   "venue": "Biblioteca Dino Pieraccioni (via Nicolodi 2)",
+   "cat": "talk",
+   "desc": "Il libro di Yulia Sidneva con Stefano Garzonio e altri ospiti, letture del Teatro Tredici. Dialoghi urbani, ingresso libero.",
+   "url": "https://cultura.comune.fi.it/system/files/2026-09/web-a5-programma_Dialoghi-urbani_2026_programma.pdf",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "f004",
+   "key": "2026-11-27-la-musica-del-mio-picchio-presentazione-con-lett",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    43.7897,
+    11.2731
+   ],
+   "zona": "Campo di Marte · Coverciano"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "18:00",
+   "title": "Limes: la tempesta americana e la fine dei tabù",
+   "venue": "Biblioteca Ragionieri, Sala Meucci (piazza della Biblioteca 4, Sesto Fiorentino)",
+   "cat": "geo",
+   "desc": "Giuseppe De Ruvo e Agnese Rossi, modera Fabrizio Maronta. Giorni di Storia Festival, con la rivista Limes. Ingresso gratuito, prenotazione su bibliosesto.it.",
+   "url": "https://www.tempoliberotoscana.it/event/giorni-di-storia-festival-di-incontri-conferenze-spettacoli-e-letture/",
+   "free": true,
+   "tags": [
+    "imperdibile"
+   ],
+   "verify": false,
+   "id": "f005",
+   "key": "2026-11-27-limes-la-tempesta-americana-e-la-fine-dei-tabu",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    43.8318,
+    11.199
+   ],
+   "zona": "Fuori Firenze"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "18:30",
+   "title": "Le cose che portiamo con noi: storie e letture",
+   "venue": "Cib'aria (via San Giovanni 42)",
+   "cat": "talk",
+   "desc": "Serata di racconti e oggetti che custodiscono storie. Dialoghi urbani, prenotazione su Instagram @cibaria_firenze.",
+   "url": "https://cultura.comune.fi.it/system/files/2026-09/web-a5-programma_Dialoghi-urbani_2026_programma.pdf",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "f006",
+   "key": "2026-11-27-le-cose-che-portiamo-con-noi-storie-e-letture",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    43.7686,
+    11.2441
+   ],
+   "zona": "Oltrarno · Santo Spirito"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "",
+   "title": "Lo Zar, di e con Stefano Massini",
+   "venue": "Teatro della Pergola (via della Pergola 12/32)",
+   "cat": "teatro",
+   "desc": "Stefano Massini racconta da solo in scena l'ascesa al potere di un anonimo funzionario del KGB, tra materiali storici e interviste.",
+   "url": "https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettacoli-da-non-perdere/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "f007",
+   "key": "2026-11-27-lo-zar-di-e-con-stefano-massini",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    43.7727,
+    11.261
+   ],
+   "zona": "Santa Croce · Sant'Ambrogio"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "10:30",
+   "title": "Limes: il mondo ingolfato",
+   "venue": "Biblioteca Ragionieri, Sala Meucci (piazza della Biblioteca 4, Sesto Fiorentino)",
+   "cat": "geo",
+   "desc": "Daniele Santoro e Lorenzo Trombetta sul Golfo e il Medio Oriente. Giorni di Storia Festival, con la rivista Limes. Ingresso gratuito, prenotazione su bibliosesto.it.",
+   "url": "https://www.tempoliberotoscana.it/event/giorni-di-storia-festival-di-incontri-conferenze-spettacoli-e-letture/",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "f008",
+   "key": "2026-11-28-limes-il-mondo-ingolfato",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    43.8318,
+    11.199
+   ],
+   "zona": "Fuori Firenze"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "16:00",
+   "title": "Lukas Sternath, pianoforte",
+   "venue": "Teatro della Pergola (via della Pergola 12/32)",
+   "cat": "classica",
+   "desc": "Recital del giovane pianista viennese, ex Piccolo Cantore di Vienna e New Generation Artist della BBC. Stagione Amici della Musica.",
+   "url": "https://mentelocale.it/firenze/135517-lukas-sternath-pianoforte.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "f009",
+   "key": "2026-11-28-lukas-sternath-pianoforte",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    43.7727,
+    11.261
+   ],
+   "zona": "Santa Croce · Sant'Ambrogio"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "16:30",
+   "title": "Limes: Ucraina anno zero",
+   "venue": "Biblioteca Ragionieri, Sala Meucci (piazza della Biblioteca 4, Sesto Fiorentino)",
+   "cat": "geo",
+   "desc": "Mirko Mussetti e la cartografa Laura Canali. Giorni di Storia Festival, con la rivista Limes. Ingresso gratuito, prenotazione su bibliosesto.it.",
+   "url": "https://www.tempoliberotoscana.it/event/giorni-di-storia-festival-di-incontri-conferenze-spettacoli-e-letture/",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "f010",
+   "key": "2026-11-28-limes-ucraina-anno-zero",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    43.8318,
+    11.199
+   ],
+   "zona": "Fuori Firenze"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "18:00",
+   "title": "Limes: l'Italia nell'arco delle crisi, con Alessandro Aresu",
+   "venue": "Biblioteca Ragionieri, Sala Meucci (piazza della Biblioteca 4, Sesto Fiorentino)",
+   "cat": "geo",
+   "desc": "Fabrizio Maronta e Alessandro Aresu. Giorni di Storia Festival, con la rivista Limes. Ingresso gratuito, prenotazione su bibliosesto.it.",
+   "url": "https://www.tempoliberotoscana.it/event/giorni-di-storia-festival-di-incontri-conferenze-spettacoli-e-letture/",
+   "free": true,
+   "tags": [
+    "imperdibile"
+   ],
+   "verify": false,
+   "id": "f011",
+   "key": "2026-11-28-limes-l-italia-nell-arco-delle-crisi-con-alessan",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    43.8318,
+    11.199
+   ],
+   "zona": "Fuori Firenze"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "20:30",
+   "title": "L'analfabeta: Federica Fracassi è Agota Kristof",
+   "venue": "Nuovo Rifredi Scena Aperta (via Vittorio Emanuele II 303)",
+   "cat": "teatro",
+   "desc": "Fanny & Alexander portano in scena il racconto autobiografico di Kristof: la fuga, l'esilio, una lingua da imparare da capo.",
+   "url": "https://www.mentelocale.it/firenze/130759-nuovo-rifredi-10-spettacoli-turno-a-2026-2027.htm",
+   "free": false,
+   "tags": [
+    "imperdibile"
+   ],
+   "verify": false,
+   "id": "f012",
+   "key": "2026-11-28-l-analfabeta-federica-fracassi-e-agota-kristof",
+   "moods": [
+    "dentro",
+    "emozionarmi"
+   ],
+   "geo": [
+    43.7973,
+    11.2396
+   ],
+   "zona": "Cascine · Rifredi · Novoli"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "20:30",
+   "title": "Lo Zar, di e con Stefano Massini",
+   "venue": "Teatro della Pergola (via della Pergola 12/32)",
+   "cat": "teatro",
+   "desc": "Stefano Massini racconta da solo in scena l'ascesa al potere di un anonimo funzionario del KGB, tra materiali storici e interviste.",
+   "url": "https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettacoli-da-non-perdere/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "f013",
+   "key": "2026-11-28-lo-zar-di-e-con-stefano-massini",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    43.7727,
+    11.261
+   ],
+   "zona": "Santa Croce · Sant'Ambrogio"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "21:30",
+   "title": "Caccia 'l Drago, di Daniele Timpano",
+   "venue": "Ridotto del Teatro Puccini (via delle Cascine 41)",
+   "cat": "teatro",
+   "desc": "Fiaba in musica ispirata a Tolkien, tra voce, pianoforte, elettronica e sax: ironica e per adulti.",
+   "url": "https://www.ticketone.it/en/eventseries/caccia-l-drago-4165302/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "f014",
+   "key": "2026-11-28-caccia-l-drago-di-daniele-timpano",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    43.7849,
+    11.2291
+   ],
+   "zona": "Cascine · Rifredi · Novoli"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "",
+   "title": "Christophe Rousset al Teatro del Maggio",
+   "venue": "Teatro del Maggio (piazza Vittorio Gui 1)",
+   "cat": "classica",
+   "desc": "Il clavicembalista e direttore francese, tra i grandi nomi della musica barocca.",
+   "url": "https://www.mentelocale.it/firenze/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "f015",
+   "key": "2026-11-28-christophe-rousset-al-teatro-del-maggio",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    43.7796,
+    11.241
+   ],
+   "zona": "Cascine · Rifredi · Novoli"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "18:45",
+   "title": "Caccia 'l Drago, di Daniele Timpano",
+   "venue": "Ridotto del Teatro Puccini (via delle Cascine 41)",
+   "cat": "teatro",
+   "desc": "Fiaba in musica ispirata a Tolkien, tra voce, pianoforte, elettronica e sax: ironica e per adulti.",
+   "url": "https://www.ticketone.it/en/eventseries/caccia-l-drago-4165302/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "f016",
+   "key": "2026-11-29-caccia-l-drago-di-daniele-timpano",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    43.7849,
+    11.2291
+   ],
+   "zona": "Cascine · Rifredi · Novoli"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "21:00",
+   "title": "Figlie del secolo, cento anni negli sguardi delle donne",
+   "venue": "Teatro della Limonaia (via Gramsci 426, Sesto Fiorentino)",
+   "cat": "teatro",
+   "desc": "Spettacolo corale di Quinte Instabili. Giorni di Storia, gratis con prenotazione su bibliosesto.it.",
+   "url": "https://www.tempoliberotoscana.it/event/giorni-di-storia-festival-di-incontri-conferenze-spettacoli-e-letture/",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "f017",
+   "key": "2026-11-29-figlie-del-secolo-cento-anni-negli-sguardi-delle",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    43.8318,
+    11.199
+   ],
+   "zona": "Fuori Firenze"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "",
+   "title": "Lo Zar, di e con Stefano Massini",
+   "venue": "Teatro della Pergola (via della Pergola 12/32)",
+   "cat": "teatro",
+   "desc": "Stefano Massini racconta da solo in scena l'ascesa al potere di un anonimo funzionario del KGB, tra materiali storici e interviste.",
+   "url": "https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettacoli-da-non-perdere/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "f018",
+   "key": "2026-11-29-lo-zar-di-e-con-stefano-massini",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    43.7727,
+    11.261
+   ],
+   "zona": "Santa Croce · Sant'Ambrogio"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "",
+   "title": "Reading Party: si legge insieme, senza telefono",
+   "venue": "The Social Hub Firenze Belfiore (viale Belfiore 1)",
+   "cat": "talk",
+   "desc": "Libri Sottolineati: un pomeriggio per leggere in silenzio e poi parlarne con sconosciuti, sulla terrazza panoramica. 10 €, su prenotazione.",
+   "url": "https://www.firenzetoday.it/eventi/reading-party-the-social-hub-29-novembre-2026.html",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "f019",
+   "key": "2026-11-29-reading-party-si-legge-insieme-senza-telefono",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    43.7836,
+    11.242
+   ],
+   "zona": "Cascine · Rifredi · Novoli"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "",
+   "title": "The Dark Side of the... Light: l'inquinamento luminoso",
+   "venue": "Fondazione Scienza e Tecnica (via Giusti 29)",
+   "cat": "scienza",
+   "desc": "Incontro su come la luce artificiale ci sta rubando il cielo stellato.",
+   "url": "https://www.mentelocale.it/firenze/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "f020",
+   "key": "2026-11-29-the-dark-side-of-the-light-l-inquinamento-lumino",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    43.7772,
+    11.264
+   ],
+   "zona": "Santa Croce · Sant'Ambrogio"
+  },
+  {
+   "date": "2026-12-01",
+   "time": "18:30",
+   "title": "Paolo Ciampi: Libertà delle panchine",
+   "venue": "Libreria Claudiana (via dei Serragli 51)",
+   "cat": "talk",
+   "desc": "Le panchine come spazio di libertà e di vita urbana. Dialoghi urbani, ingresso libero (meglio prenotare).",
+   "url": "https://cultura.comune.fi.it/system/files/2026-09/web-a5-programma_Dialoghi-urbani_2026_programma.pdf",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "f021",
+   "key": "2026-12-01-paolo-ciampi-liberta-delle-panchine",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    43.7653,
+    11.2459
+   ],
+   "zona": "Oltrarno · Santo Spirito"
+  },
+  {
+   "date": "2026-12-01",
+   "time": "",
+   "title": "Anna Prohaska e Isabelle Faust",
+   "venue": "Teatro Niccolini (via Ricasoli 3)",
+   "cat": "classica",
+   "desc": "Soprano e violino insieme: un duo raro della stagione Amici della Musica.",
+   "url": "https://www.mentelocale.it/firenze/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "f022",
+   "key": "2026-12-01-anna-prohaska-e-isabelle-faust",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    43.7746,
+    11.2568
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-12-01",
+   "time": "",
+   "title": "Lo Zar, di e con Stefano Massini",
+   "venue": "Teatro della Pergola (via della Pergola 12/32)",
+   "cat": "teatro",
+   "desc": "Stefano Massini racconta da solo in scena l'ascesa al potere di un anonimo funzionario del KGB, tra materiali storici e interviste.",
+   "url": "https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettacoli-da-non-perdere/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "f023",
+   "key": "2026-12-01-lo-zar-di-e-con-stefano-massini",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    43.7727,
+    11.261
+   ],
+   "zona": "Santa Croce · Sant'Ambrogio"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "17:30",
+   "title": "Ricordando Ernesto Ragionieri, cento anni dopo",
+   "venue": "Biblioteca Ragionieri, Sala Meucci (piazza della Biblioteca 4, Sesto Fiorentino)",
+   "cat": "storia",
+   "desc": "Simonetta Soldani e Marco Palla sullo storico sestese. Giorni di Storia, gratis con prenotazione.",
+   "url": "https://www.tempoliberotoscana.it/event/giorni-di-storia-festival-di-incontri-conferenze-spettacoli-e-letture/",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "f024",
+   "key": "2026-12-02-ricordando-ernesto-ragionieri-cento-anni-dopo",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    43.8318,
+    11.199
+   ],
+   "zona": "Fuori Firenze"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "19:00",
+   "title": "Lo Zar, di e con Stefano Massini",
+   "venue": "Teatro della Pergola (via della Pergola 12/32)",
+   "cat": "teatro",
+   "desc": "Stefano Massini racconta da solo in scena l'ascesa al potere di un anonimo funzionario del KGB, tra materiali storici e interviste.",
+   "url": "https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettacoli-da-non-perdere/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "f025",
+   "key": "2026-12-02-lo-zar-di-e-con-stefano-massini",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    43.7727,
+    11.261
+   ],
+   "zona": "Santa Croce · Sant'Ambrogio"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "",
+   "title": "Il cielo del mese",
+   "venue": "Fondazione Scienza e Tecnica (via Giusti 29)",
+   "cat": "scienza",
+   "desc": "Guida al cielo di dicembre: pianeti, stelle e costellazioni da riconoscere a occhio nudo.",
+   "url": "https://www.mentelocale.it/firenze/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "f026",
+   "key": "2026-12-02-il-cielo-del-mese",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    43.7772,
+    11.264
+   ],
+   "zona": "Santa Croce · Sant'Ambrogio"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "19:00",
+   "title": "Lo Zar, di e con Stefano Massini",
+   "venue": "Teatro della Pergola (via della Pergola 12/32)",
+   "cat": "teatro",
+   "desc": "Stefano Massini racconta da solo in scena l'ascesa al potere di un anonimo funzionario del KGB, tra materiali storici e interviste.",
+   "url": "https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettacoli-da-non-perdere/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "f027",
+   "key": "2026-12-03-lo-zar-di-e-con-stefano-massini",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    43.7727,
+    11.261
+   ],
+   "zona": "Santa Croce · Sant'Ambrogio"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "19:00",
+   "title": "Specchio riflesso: conferenza-spettacolo di Luca Scarlini",
+   "venue": "Biblioteca Ragionieri, Sala Meucci (piazza della Biblioteca 4, Sesto Fiorentino)",
+   "cat": "storia",
+   "desc": "Storie e Storia di Sesto Fiorentino tra Ragionieri e gli archivi del Comune. Gratis con prenotazione.",
+   "url": "https://www.tempoliberotoscana.it/event/giorni-di-storia-festival-di-incontri-conferenze-spettacoli-e-letture/",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "f028",
+   "key": "2026-12-03-specchio-riflesso-conferenza-spettacolo-di-luca-",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    43.8318,
+    11.199
+   ],
+   "zona": "Fuori Firenze"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "",
+   "title": "Lo Zar, di e con Stefano Massini",
+   "venue": "Teatro della Pergola (via della Pergola 12/32)",
+   "cat": "teatro",
+   "desc": "Stefano Massini racconta da solo in scena l'ascesa al potere di un anonimo funzionario del KGB, tra materiali storici e interviste.",
+   "url": "https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettacoli-da-non-perdere/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "f029",
+   "key": "2026-12-04-lo-zar-di-e-con-stefano-massini",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    43.7727,
+    11.261
+   ],
+   "zona": "Santa Croce · Sant'Ambrogio"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "",
+   "title": "Tu mi sognavi, io non dormivo: Achmatova e Modigliani",
+   "venue": "Teatro Cantiere Florida (via Pisana 111R)",
+   "cat": "teatro",
+   "desc": "La storia d'amore segreta tra la poetessa russa e il pittore livornese nella Parigi bohémien del 1910.",
+   "url": "https://www.mentelocale.it/firenze/124121-tu-mi-sognavi-io-non-dormivo-la-storia-d-amore-segreta-tra-anna-achmatova-e-amedeo-modigliani.htm",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "f030",
+   "key": "2026-12-04-tu-mi-sognavi-io-non-dormivo-achmatova-e-modigli",
+   "moods": [
+    "dentro",
+    "emozionarmi"
+   ],
+   "geo": [
+    43.7655,
+    11.2296
+   ],
+   "zona": "Oltrarno · Santo Spirito"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "11:00",
+   "title": "Woke, cancel culture e decolonizzazione",
+   "venue": "Biblioteca Ragionieri, Sala Meucci (piazza della Biblioteca 4, Sesto Fiorentino)",
+   "cat": "filosofia",
+   "desc": "Conferenza di Pietro Restaneo (CNR) sul vocabolario dei nuovi conflitti culturali. Gratis con prenotazione.",
+   "url": "https://www.tempoliberotoscana.it/event/giorni-di-storia-festival-di-incontri-conferenze-spettacoli-e-letture/",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "f031",
+   "key": "2026-12-05-woke-cancel-culture-e-decolonizzazione",
+   "moods": [
+    "dentro",
+    "pensare"
+   ],
+   "geo": [
+    43.8318,
+    11.199
+   ],
+   "zona": "Fuori Firenze"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "19:00",
+   "title": "Reading alla Living: il romanzo lo sceglie il pubblico",
+   "venue": "Santo Spirito Living Room (piazza Santo Spirito 25)",
+   "cat": "teatro",
+   "desc": "Compagnia I Nuovi legge un romanzo scelto dagli spettatori. Dialoghi urbani, prenotazione su inuoviteatro.it.",
+   "url": "https://cultura.comune.fi.it/system/files/2026-09/web-a5-programma_Dialoghi-urbani_2026_programma.pdf",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "f032",
+   "key": "2026-12-05-reading-alla-living-il-romanzo-lo-sceglie-il-pub",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    43.7671,
+    11.2476
+   ],
+   "zona": "Oltrarno · Santo Spirito"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "20:30",
+   "title": "Lo Zar, di e con Stefano Massini",
+   "venue": "Teatro della Pergola (via della Pergola 12/32)",
+   "cat": "teatro",
+   "desc": "Stefano Massini racconta da solo in scena l'ascesa al potere di un anonimo funzionario del KGB, tra materiali storici e interviste.",
+   "url": "https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettacoli-da-non-perdere/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "f033",
+   "key": "2026-12-05-lo-zar-di-e-con-stefano-massini",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    43.7727,
+    11.261
+   ],
+   "zona": "Santa Croce · Sant'Ambrogio"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "",
+   "title": "Arsenii Moon, pianoforte",
+   "venue": "Teatro della Pergola (via della Pergola 12/32)",
+   "cat": "classica",
+   "desc": "Recital del giovane pianista nella stagione Amici della Musica.",
+   "url": "https://www.mentelocale.it/firenze/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "f034",
+   "key": "2026-12-05-arsenii-moon-pianoforte",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    43.7727,
+    11.261
+   ],
+   "zona": "Santa Croce · Sant'Ambrogio"
+  },
+  {
+   "date": "2026-12-06",
+   "time": "18:00",
+   "title": "Concerto di Natale al Teatro del Maggio",
+   "venue": "Teatro del Maggio (piazza Vittorio Gui 1)",
+   "cat": "classica",
+   "desc": "Il tradizionale concerto natalizio nella Sala Grande.",
+   "url": "https://www.maggiofiorentino.com/en/calendario/2026/12",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "f035",
+   "key": "2026-12-06-concerto-di-natale-al-teatro-del-maggio",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    43.7796,
+    11.241
+   ],
+   "zona": "Cascine · Rifredi · Novoli"
+  },
+  {
+   "date": "2026-12-06",
+   "time": "",
+   "title": "Emanuele Arciuli, pianoforte",
+   "venue": "Teatro Niccolini (via Ricasoli 3)",
+   "cat": "classica",
+   "desc": "Il pianista pugliese tra musica e libertà, per gli Amici della Musica.",
+   "url": "https://www.mentelocale.it/firenze/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "f036",
+   "key": "2026-12-06-emanuele-arciuli-pianoforte",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    43.7746,
+    11.2568
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-12-06",
+   "time": "",
+   "title": "Lo Zar, di e con Stefano Massini",
+   "venue": "Teatro della Pergola (via della Pergola 12/32)",
+   "cat": "teatro",
+   "desc": "Stefano Massini racconta da solo in scena l'ascesa al potere di un anonimo funzionario del KGB, tra materiali storici e interviste.",
+   "url": "https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettacoli-da-non-perdere/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "f037",
+   "key": "2026-12-06-lo-zar-di-e-con-stefano-massini",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    43.7727,
+    11.261
+   ],
+   "zona": "Santa Croce · Sant'Ambrogio"
+  }
+ ]
+}

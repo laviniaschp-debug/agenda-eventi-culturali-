@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci Firenze · Filosofia
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-05-woke-cancel-culture-e-decolonizzazione@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261205T110000
+DTEND;TZID=Europe/Rome:20261205T130000
+SUMMARY:Woke\, cancel culture e decolonizzazione
+LOCATION:Biblioteca Ragionieri\, Sala Meucci (piazza della Biblioteca 4\, S
+ esto Fiorentino)
+DESCRIPTION:Conferenza di Pietro Restaneo (CNR) sul vocabolario dei nuovi c
+ onflitti culturali. Gratis con prenotazione. https://www.tempoliberotoscan
+ a.it/event/giorni-di-storia-festival-di-incontri-conferenze-spettacoli-e-l
+ etture/
+URL:https://www.tempoliberotoscana.it/event/giorni-di-storia-festival-di-in
+ contri-conferenze-spettacoli-e-letture/
+CATEGORIES:Filosofia
+END:VEVENT
+END:VCALENDAR

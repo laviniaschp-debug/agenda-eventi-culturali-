@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci Firenze · Incontri e talk
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-27-la-musica-del-mio-picchio-presentazione-con-lett@acculturiam
+ oci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261127T170000
+DTEND;TZID=Europe/Rome:20261127T190000
+SUMMARY:La musica del mio picchio: presentazione con letture
+LOCATION:Biblioteca Dino Pieraccioni (via Nicolodi 2)
+DESCRIPTION:Il libro di Yulia Sidneva con Stefano Garzonio e altri ospiti\,
+  letture del Teatro Tredici. Dialoghi urbani\, ingresso libero. https://cu
+ ltura.comune.fi.it/system/files/2026-09/web-a5-programma_Dialoghi-urbani_2
+ 026_programma.pdf
+URL:https://cultura.comune.fi.it/system/files/2026-09/web-a5-programma_Dial
+ oghi-urbani_2026_programma.pdf
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-le-cose-che-portiamo-con-noi-storie-e-letture@acculturiamoci
+ .it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261127T183000
+DTEND;TZID=Europe/Rome:20261127T203000
+SUMMARY:Le cose che portiamo con noi: storie e letture
+LOCATION:Cib'aria (via San Giovanni 42)
+DESCRIPTION:Serata di racconti e oggetti che custodiscono storie. Dialoghi 
+ urbani\, prenotazione su Instagram @cibaria_firenze. https://cultura.comun
+ e.fi.it/system/files/2026-09/web-a5-programma_Dialoghi-urbani_2026_program
+ ma.pdf
+URL:https://cultura.comune.fi.it/system/files/2026-09/web-a5-programma_Dial
+ oghi-urbani_2026_programma.pdf
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-reading-party-si-legge-insieme-senza-telefono@acculturiamoci
+ .it
+DTSTAMP:20261124T225717Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Reading Party: si legge insieme\, senza telefono
+LOCATION:The Social Hub Firenze Belfiore (viale Belfiore 1)
+DESCRIPTION:Libri Sottolineati: un pomeriggio per leggere in silenzio e poi
+  parlarne con sconosciuti\, sulla terrazza panoramica. 10 €\, su prenota
+ zione. https://www.firenzetoday.it/eventi/reading-party-the-social-hub-29-
+ novembre-2026.html
+URL:https://www.firenzetoday.it/eventi/reading-party-the-social-hub-29-nove
+ mbre-2026.html
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-paolo-ciampi-liberta-delle-panchine@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261201T183000
+DTEND;TZID=Europe/Rome:20261201T203000
+SUMMARY:Paolo Ciampi: Libertà delle panchine
+LOCATION:Libreria Claudiana (via dei Serragli 51)
+DESCRIPTION:Le panchine come spazio di libertà e di vita urbana. Dialoghi 
+ urbani\, ingresso libero (meglio prenotare). https://cultura.comune.fi.it/
+ system/files/2026-09/web-a5-programma_Dialoghi-urbani_2026_programma.pdf
+URL:https://cultura.comune.fi.it/system/files/2026-09/web-a5-programma_Dial
+ oghi-urbani_2026_programma.pdf
+CATEGORIES:Incontri e talk
+END:VEVENT
+END:VCALENDAR

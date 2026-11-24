@@ -1,0 +1,583 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci · Firenze
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-25-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261125T190000
+DTEND;TZID=Europe/Rome:20261125T210000
+SUMMARY:Lo Zar\, di e con Stefano Massini
+LOCATION:Teatro della Pergola (via della Pergola 12/32)
+DESCRIPTION:Stefano Massini racconta da solo in scena l'ascesa al potere di
+  un anonimo funzionario del KGB\, tra materiali storici e interviste. http
+ s://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettaco
+ li-da-non-perdere/
+URL:https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-s
+ pettacoli-da-non-perdere/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-ivan-e-i-cani-con-federica-rosellini@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261125T210000
+DTEND;TZID=Europe/Rome:20261125T230000
+SUMMARY:Ivan e i cani\, con Federica Rosellini
+LOCATION:Teatro Puccini (via delle Cascine 41)
+DESCRIPTION:Monologo su un bambino che sopravvive per strada nella Mosca de
+ gli anni Novanta\, accolto da un branco di cani. https://www.ticketone.it/
+ eventseries/abbonamenti-teatro-puccini-3416466/
+URL:https://www.ticketone.it/eventseries/abbonamenti-teatro-puccini-3416466
+ /
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-che-fai-tu-luna-in-ciel-leopardi-e-il-cielo@acculturiamoci.i
+ t
+DTSTAMP:20261124T225717Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Che fai tu\, Luna\, in ciel? Leopardi e il cielo
+LOCATION:Fondazione Scienza e Tecnica (via Giusti 29)
+DESCRIPTION:Serata al museo tra poesia e astronomia. https://www.mentelocal
+ e.it/firenze/
+URL:https://www.mentelocale.it/firenze/
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261126T190000
+DTEND;TZID=Europe/Rome:20261126T210000
+SUMMARY:Lo Zar\, di e con Stefano Massini
+LOCATION:Teatro della Pergola (via della Pergola 12/32)
+DESCRIPTION:Stefano Massini racconta da solo in scena l'ascesa al potere di
+  un anonimo funzionario del KGB\, tra materiali storici e interviste. http
+ s://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettaco
+ li-da-non-perdere/
+URL:https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-s
+ pettacoli-da-non-perdere/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-la-musica-del-mio-picchio-presentazione-con-lett@acculturiam
+ oci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261127T170000
+DTEND;TZID=Europe/Rome:20261127T190000
+SUMMARY:La musica del mio picchio: presentazione con letture
+LOCATION:Biblioteca Dino Pieraccioni (via Nicolodi 2)
+DESCRIPTION:Il libro di Yulia Sidneva con Stefano Garzonio e altri ospiti\,
+  letture del Teatro Tredici. Dialoghi urbani\, ingresso libero. https://cu
+ ltura.comune.fi.it/system/files/2026-09/web-a5-programma_Dialoghi-urbani_2
+ 026_programma.pdf
+URL:https://cultura.comune.fi.it/system/files/2026-09/web-a5-programma_Dial
+ oghi-urbani_2026_programma.pdf
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-limes-la-tempesta-americana-e-la-fine-dei-tabu@acculturiamoc
+ i.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261127T180000
+DTEND;TZID=Europe/Rome:20261127T200000
+SUMMARY:Limes: la tempesta americana e la fine dei tabù
+LOCATION:Biblioteca Ragionieri\, Sala Meucci (piazza della Biblioteca 4\, S
+ esto Fiorentino)
+DESCRIPTION:Giuseppe De Ruvo e Agnese Rossi\, modera Fabrizio Maronta. Gior
+ ni di Storia Festival\, con la rivista Limes. Ingresso gratuito\, prenotaz
+ ione su bibliosesto.it. https://www.tempoliberotoscana.it/event/giorni-di-
+ storia-festival-di-incontri-conferenze-spettacoli-e-letture/
+URL:https://www.tempoliberotoscana.it/event/giorni-di-storia-festival-di-in
+ contri-conferenze-spettacoli-e-letture/
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-le-cose-che-portiamo-con-noi-storie-e-letture@acculturiamoci
+ .it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261127T183000
+DTEND;TZID=Europe/Rome:20261127T203000
+SUMMARY:Le cose che portiamo con noi: storie e letture
+LOCATION:Cib'aria (via San Giovanni 42)
+DESCRIPTION:Serata di racconti e oggetti che custodiscono storie. Dialoghi 
+ urbani\, prenotazione su Instagram @cibaria_firenze. https://cultura.comun
+ e.fi.it/system/files/2026-09/web-a5-programma_Dialoghi-urbani_2026_program
+ ma.pdf
+URL:https://cultura.comune.fi.it/system/files/2026-09/web-a5-programma_Dial
+ oghi-urbani_2026_programma.pdf
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Lo Zar\, di e con Stefano Massini
+LOCATION:Teatro della Pergola (via della Pergola 12/32)
+DESCRIPTION:Stefano Massini racconta da solo in scena l'ascesa al potere di
+  un anonimo funzionario del KGB\, tra materiali storici e interviste. http
+ s://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettaco
+ li-da-non-perdere/
+URL:https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-s
+ pettacoli-da-non-perdere/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-limes-il-mondo-ingolfato@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261128T103000
+DTEND;TZID=Europe/Rome:20261128T123000
+SUMMARY:Limes: il mondo ingolfato
+LOCATION:Biblioteca Ragionieri\, Sala Meucci (piazza della Biblioteca 4\, S
+ esto Fiorentino)
+DESCRIPTION:Daniele Santoro e Lorenzo Trombetta sul Golfo e il Medio Orient
+ e. Giorni di Storia Festival\, con la rivista Limes. Ingresso gratuito\, p
+ renotazione su bibliosesto.it. https://www.tempoliberotoscana.it/event/gio
+ rni-di-storia-festival-di-incontri-conferenze-spettacoli-e-letture/
+URL:https://www.tempoliberotoscana.it/event/giorni-di-storia-festival-di-in
+ contri-conferenze-spettacoli-e-letture/
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-lukas-sternath-pianoforte@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261128T160000
+DTEND;TZID=Europe/Rome:20261128T180000
+SUMMARY:Lukas Sternath\, pianoforte
+LOCATION:Teatro della Pergola (via della Pergola 12/32)
+DESCRIPTION:Recital del giovane pianista viennese\, ex Piccolo Cantore di V
+ ienna e New Generation Artist della BBC. Stagione Amici della Musica. http
+ s://mentelocale.it/firenze/135517-lukas-sternath-pianoforte.htm
+URL:https://mentelocale.it/firenze/135517-lukas-sternath-pianoforte.htm
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-limes-ucraina-anno-zero@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261128T163000
+DTEND;TZID=Europe/Rome:20261128T183000
+SUMMARY:Limes: Ucraina anno zero
+LOCATION:Biblioteca Ragionieri\, Sala Meucci (piazza della Biblioteca 4\, S
+ esto Fiorentino)
+DESCRIPTION:Mirko Mussetti e la cartografa Laura Canali. Giorni di Storia F
+ estival\, con la rivista Limes. Ingresso gratuito\, prenotazione su biblio
+ sesto.it. https://www.tempoliberotoscana.it/event/giorni-di-storia-festiva
+ l-di-incontri-conferenze-spettacoli-e-letture/
+URL:https://www.tempoliberotoscana.it/event/giorni-di-storia-festival-di-in
+ contri-conferenze-spettacoli-e-letture/
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-limes-l-italia-nell-arco-delle-crisi-con-alessan@acculturiam
+ oci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:Limes: l'Italia nell'arco delle crisi\, con Alessandro Aresu
+LOCATION:Biblioteca Ragionieri\, Sala Meucci (piazza della Biblioteca 4\, S
+ esto Fiorentino)
+DESCRIPTION:Fabrizio Maronta e Alessandro Aresu. Giorni di Storia Festival\
+ , con la rivista Limes. Ingresso gratuito\, prenotazione su bibliosesto.it
+ . https://www.tempoliberotoscana.it/event/giorni-di-storia-festival-di-inc
+ ontri-conferenze-spettacoli-e-letture/
+URL:https://www.tempoliberotoscana.it/event/giorni-di-storia-festival-di-in
+ contri-conferenze-spettacoli-e-letture/
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-l-analfabeta-federica-fracassi-e-agota-kristof@acculturiamoc
+ i.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261128T203000
+DTEND;TZID=Europe/Rome:20261128T223000
+SUMMARY:L'analfabeta: Federica Fracassi è Agota Kristof
+LOCATION:Nuovo Rifredi Scena Aperta (via Vittorio Emanuele II 303)
+DESCRIPTION:Fanny & Alexander portano in scena il racconto autobiografico d
+ i Kristof: la fuga\, l'esilio\, una lingua da imparare da capo. https://ww
+ w.mentelocale.it/firenze/130759-nuovo-rifredi-10-spettacoli-turno-a-2026-2
+ 027.htm
+URL:https://www.mentelocale.it/firenze/130759-nuovo-rifredi-10-spettacoli-t
+ urno-a-2026-2027.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261128T203000
+DTEND;TZID=Europe/Rome:20261128T223000
+SUMMARY:Lo Zar\, di e con Stefano Massini
+LOCATION:Teatro della Pergola (via della Pergola 12/32)
+DESCRIPTION:Stefano Massini racconta da solo in scena l'ascesa al potere di
+  un anonimo funzionario del KGB\, tra materiali storici e interviste. http
+ s://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettaco
+ li-da-non-perdere/
+URL:https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-s
+ pettacoli-da-non-perdere/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-caccia-l-drago-di-daniele-timpano@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261128T213000
+DTEND;TZID=Europe/Rome:20261128T233000
+SUMMARY:Caccia 'l Drago\, di Daniele Timpano
+LOCATION:Ridotto del Teatro Puccini (via delle Cascine 41)
+DESCRIPTION:Fiaba in musica ispirata a Tolkien\, tra voce\, pianoforte\, el
+ ettronica e sax: ironica e per adulti. https://www.ticketone.it/en/eventse
+ ries/caccia-l-drago-4165302/
+URL:https://www.ticketone.it/en/eventseries/caccia-l-drago-4165302/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-christophe-rousset-al-teatro-del-maggio@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Christophe Rousset al Teatro del Maggio
+LOCATION:Teatro del Maggio (piazza Vittorio Gui 1)
+DESCRIPTION:Il clavicembalista e direttore francese\, tra i grandi nomi del
+ la musica barocca. https://www.mentelocale.it/firenze/
+URL:https://www.mentelocale.it/firenze/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-caccia-l-drago-di-daniele-timpano@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261129T184500
+DTEND;TZID=Europe/Rome:20261129T204500
+SUMMARY:Caccia 'l Drago\, di Daniele Timpano
+LOCATION:Ridotto del Teatro Puccini (via delle Cascine 41)
+DESCRIPTION:Fiaba in musica ispirata a Tolkien\, tra voce\, pianoforte\, el
+ ettronica e sax: ironica e per adulti. https://www.ticketone.it/en/eventse
+ ries/caccia-l-drago-4165302/
+URL:https://www.ticketone.it/en/eventseries/caccia-l-drago-4165302/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-figlie-del-secolo-cento-anni-negli-sguardi-delle@acculturiam
+ oci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261129T210000
+DTEND;TZID=Europe/Rome:20261129T230000
+SUMMARY:Figlie del secolo\, cento anni negli sguardi delle donne
+LOCATION:Teatro della Limonaia (via Gramsci 426\, Sesto Fiorentino)
+DESCRIPTION:Spettacolo corale di Quinte Instabili. Giorni di Storia\, grati
+ s con prenotazione su bibliosesto.it. https://www.tempoliberotoscana.it/ev
+ ent/giorni-di-storia-festival-di-incontri-conferenze-spettacoli-e-letture/
+URL:https://www.tempoliberotoscana.it/event/giorni-di-storia-festival-di-in
+ contri-conferenze-spettacoli-e-letture/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Lo Zar\, di e con Stefano Massini
+LOCATION:Teatro della Pergola (via della Pergola 12/32)
+DESCRIPTION:Stefano Massini racconta da solo in scena l'ascesa al potere di
+  un anonimo funzionario del KGB\, tra materiali storici e interviste. http
+ s://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettaco
+ li-da-non-perdere/
+URL:https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-s
+ pettacoli-da-non-perdere/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-reading-party-si-legge-insieme-senza-telefono@acculturiamoci
+ .it
+DTSTAMP:20261124T225717Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Reading Party: si legge insieme\, senza telefono
+LOCATION:The Social Hub Firenze Belfiore (viale Belfiore 1)
+DESCRIPTION:Libri Sottolineati: un pomeriggio per leggere in silenzio e poi
+  parlarne con sconosciuti\, sulla terrazza panoramica. 10 €\, su prenota
+ zione. https://www.firenzetoday.it/eventi/reading-party-the-social-hub-29-
+ novembre-2026.html
+URL:https://www.firenzetoday.it/eventi/reading-party-the-social-hub-29-nove
+ mbre-2026.html
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-the-dark-side-of-the-light-l-inquinamento-lumino@acculturiam
+ oci.it
+DTSTAMP:20261124T225717Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:The Dark Side of the... Light: l'inquinamento luminoso
+LOCATION:Fondazione Scienza e Tecnica (via Giusti 29)
+DESCRIPTION:Incontro su come la luce artificiale ci sta rubando il cielo st
+ ellato. https://www.mentelocale.it/firenze/
+URL:https://www.mentelocale.it/firenze/
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-paolo-ciampi-liberta-delle-panchine@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261201T183000
+DTEND;TZID=Europe/Rome:20261201T203000
+SUMMARY:Paolo Ciampi: Libertà delle panchine
+LOCATION:Libreria Claudiana (via dei Serragli 51)
+DESCRIPTION:Le panchine come spazio di libertà e di vita urbana. Dialoghi 
+ urbani\, ingresso libero (meglio prenotare). https://cultura.comune.fi.it/
+ system/files/2026-09/web-a5-programma_Dialoghi-urbani_2026_programma.pdf
+URL:https://cultura.comune.fi.it/system/files/2026-09/web-a5-programma_Dial
+ oghi-urbani_2026_programma.pdf
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-anna-prohaska-e-isabelle-faust@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Anna Prohaska e Isabelle Faust
+LOCATION:Teatro Niccolini (via Ricasoli 3)
+DESCRIPTION:Soprano e violino insieme: un duo raro della stagione Amici del
+ la Musica. https://www.mentelocale.it/firenze/
+URL:https://www.mentelocale.it/firenze/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Lo Zar\, di e con Stefano Massini
+LOCATION:Teatro della Pergola (via della Pergola 12/32)
+DESCRIPTION:Stefano Massini racconta da solo in scena l'ascesa al potere di
+  un anonimo funzionario del KGB\, tra materiali storici e interviste. http
+ s://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettaco
+ li-da-non-perdere/
+URL:https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-s
+ pettacoli-da-non-perdere/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-ricordando-ernesto-ragionieri-cento-anni-dopo@acculturiamoci
+ .it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261202T173000
+DTEND;TZID=Europe/Rome:20261202T193000
+SUMMARY:Ricordando Ernesto Ragionieri\, cento anni dopo
+LOCATION:Biblioteca Ragionieri\, Sala Meucci (piazza della Biblioteca 4\, S
+ esto Fiorentino)
+DESCRIPTION:Simonetta Soldani e Marco Palla sullo storico sestese. Giorni d
+ i Storia\, gratis con prenotazione. https://www.tempoliberotoscana.it/even
+ t/giorni-di-storia-festival-di-incontri-conferenze-spettacoli-e-letture/
+URL:https://www.tempoliberotoscana.it/event/giorni-di-storia-festival-di-in
+ contri-conferenze-spettacoli-e-letture/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261202T190000
+DTEND;TZID=Europe/Rome:20261202T210000
+SUMMARY:Lo Zar\, di e con Stefano Massini
+LOCATION:Teatro della Pergola (via della Pergola 12/32)
+DESCRIPTION:Stefano Massini racconta da solo in scena l'ascesa al potere di
+  un anonimo funzionario del KGB\, tra materiali storici e interviste. http
+ s://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettaco
+ li-da-non-perdere/
+URL:https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-s
+ pettacoli-da-non-perdere/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-il-cielo-del-mese@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Il cielo del mese
+LOCATION:Fondazione Scienza e Tecnica (via Giusti 29)
+DESCRIPTION:Guida al cielo di dicembre: pianeti\, stelle e costellazioni da
+  riconoscere a occhio nudo. https://www.mentelocale.it/firenze/
+URL:https://www.mentelocale.it/firenze/
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261203T190000
+DTEND;TZID=Europe/Rome:20261203T210000
+SUMMARY:Lo Zar\, di e con Stefano Massini
+LOCATION:Teatro della Pergola (via della Pergola 12/32)
+DESCRIPTION:Stefano Massini racconta da solo in scena l'ascesa al potere di
+  un anonimo funzionario del KGB\, tra materiali storici e interviste. http
+ s://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettaco
+ li-da-non-perdere/
+URL:https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-s
+ pettacoli-da-non-perdere/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-specchio-riflesso-conferenza-spettacolo-di-luca-@acculturiam
+ oci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261203T190000
+DTEND;TZID=Europe/Rome:20261203T210000
+SUMMARY:Specchio riflesso: conferenza-spettacolo di Luca Scarlini
+LOCATION:Biblioteca Ragionieri\, Sala Meucci (piazza della Biblioteca 4\, S
+ esto Fiorentino)
+DESCRIPTION:Storie e Storia di Sesto Fiorentino tra Ragionieri e gli archiv
+ i del Comune. Gratis con prenotazione. https://www.tempoliberotoscana.it/e
+ vent/giorni-di-storia-festival-di-incontri-conferenze-spettacoli-e-letture
+ /
+URL:https://www.tempoliberotoscana.it/event/giorni-di-storia-festival-di-in
+ contri-conferenze-spettacoli-e-letture/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Lo Zar\, di e con Stefano Massini
+LOCATION:Teatro della Pergola (via della Pergola 12/32)
+DESCRIPTION:Stefano Massini racconta da solo in scena l'ascesa al potere di
+  un anonimo funzionario del KGB\, tra materiali storici e interviste. http
+ s://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettaco
+ li-da-non-perdere/
+URL:https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-s
+ pettacoli-da-non-perdere/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-tu-mi-sognavi-io-non-dormivo-achmatova-e-modigli@acculturiam
+ oci.it
+DTSTAMP:20261124T225717Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Tu mi sognavi\, io non dormivo: Achmatova e Modigliani
+LOCATION:Teatro Cantiere Florida (via Pisana 111R)
+DESCRIPTION:La storia d'amore segreta tra la poetessa russa e il pittore li
+ vornese nella Parigi bohémien del 1910. https://www.mentelocale.it/firenz
+ e/124121-tu-mi-sognavi-io-non-dormivo-la-storia-d-amore-segreta-tra-anna-a
+ chmatova-e-amedeo-modigliani.htm
+URL:https://www.mentelocale.it/firenze/124121-tu-mi-sognavi-io-non-dormivo-
+ la-storia-d-amore-segreta-tra-anna-achmatova-e-amedeo-modigliani.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-woke-cancel-culture-e-decolonizzazione@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261205T110000
+DTEND;TZID=Europe/Rome:20261205T130000
+SUMMARY:Woke\, cancel culture e decolonizzazione
+LOCATION:Biblioteca Ragionieri\, Sala Meucci (piazza della Biblioteca 4\, S
+ esto Fiorentino)
+DESCRIPTION:Conferenza di Pietro Restaneo (CNR) sul vocabolario dei nuovi c
+ onflitti culturali. Gratis con prenotazione. https://www.tempoliberotoscan
+ a.it/event/giorni-di-storia-festival-di-incontri-conferenze-spettacoli-e-l
+ etture/
+URL:https://www.tempoliberotoscana.it/event/giorni-di-storia-festival-di-in
+ contri-conferenze-spettacoli-e-letture/
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-reading-alla-living-il-romanzo-lo-sceglie-il-pub@acculturiam
+ oci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261205T190000
+DTEND;TZID=Europe/Rome:20261205T210000
+SUMMARY:Reading alla Living: il romanzo lo sceglie il pubblico
+LOCATION:Santo Spirito Living Room (piazza Santo Spirito 25)
+DESCRIPTION:Compagnia I Nuovi legge un romanzo scelto dagli spettatori. Dia
+ loghi urbani\, prenotazione su inuoviteatro.it. https://cultura.comune.fi.
+ it/system/files/2026-09/web-a5-programma_Dialoghi-urbani_2026_programma.pd
+ f
+URL:https://cultura.comune.fi.it/system/files/2026-09/web-a5-programma_Dial
+ oghi-urbani_2026_programma.pdf
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261205T203000
+DTEND;TZID=Europe/Rome:20261205T223000
+SUMMARY:Lo Zar\, di e con Stefano Massini
+LOCATION:Teatro della Pergola (via della Pergola 12/32)
+DESCRIPTION:Stefano Massini racconta da solo in scena l'ascesa al potere di
+  un anonimo funzionario del KGB\, tra materiali storici e interviste. http
+ s://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettaco
+ li-da-non-perdere/
+URL:https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-s
+ pettacoli-da-non-perdere/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-arsenii-moon-pianoforte@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Arsenii Moon\, pianoforte
+LOCATION:Teatro della Pergola (via della Pergola 12/32)
+DESCRIPTION:Recital del giovane pianista nella stagione Amici della Musica.
+  https://www.mentelocale.it/firenze/
+URL:https://www.mentelocale.it/firenze/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-concerto-di-natale-al-teatro-del-maggio@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261206T180000
+DTEND;TZID=Europe/Rome:20261206T200000
+SUMMARY:Concerto di Natale al Teatro del Maggio
+LOCATION:Teatro del Maggio (piazza Vittorio Gui 1)
+DESCRIPTION:Il tradizionale concerto natalizio nella Sala Grande. https://w
+ ww.maggiofiorentino.com/en/calendario/2026/12
+URL:https://www.maggiofiorentino.com/en/calendario/2026/12
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-emanuele-arciuli-pianoforte@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Emanuele Arciuli\, pianoforte
+LOCATION:Teatro Niccolini (via Ricasoli 3)
+DESCRIPTION:Il pianista pugliese tra musica e libertà\, per gli Amici dell
+ a Musica. https://www.mentelocale.it/firenze/
+URL:https://www.mentelocale.it/firenze/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Lo Zar\, di e con Stefano Massini
+LOCATION:Teatro della Pergola (via della Pergola 12/32)
+DESCRIPTION:Stefano Massini racconta da solo in scena l'ascesa al potere di
+  un anonimo funzionario del KGB\, tra materiali storici e interviste. http
+ s://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettaco
+ li-da-non-perdere/
+URL:https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-s
+ pettacoli-da-non-perdere/
+CATEGORIES:Teatro
+END:VEVENT
+END:VCALENDAR

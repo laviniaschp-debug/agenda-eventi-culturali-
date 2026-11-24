@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci Firenze · Scienza
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-25-che-fai-tu-luna-in-ciel-leopardi-e-il-cielo@acculturiamoci.i
+ t
+DTSTAMP:20261124T225717Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Che fai tu\, Luna\, in ciel? Leopardi e il cielo
+LOCATION:Fondazione Scienza e Tecnica (via Giusti 29)
+DESCRIPTION:Serata al museo tra poesia e astronomia. https://www.mentelocal
+ e.it/firenze/
+URL:https://www.mentelocale.it/firenze/
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-the-dark-side-of-the-light-l-inquinamento-lumino@acculturiam
+ oci.it
+DTSTAMP:20261124T225717Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:The Dark Side of the... Light: l'inquinamento luminoso
+LOCATION:Fondazione Scienza e Tecnica (via Giusti 29)
+DESCRIPTION:Incontro su come la luce artificiale ci sta rubando il cielo st
+ ellato. https://www.mentelocale.it/firenze/
+URL:https://www.mentelocale.it/firenze/
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-il-cielo-del-mese@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Il cielo del mese
+LOCATION:Fondazione Scienza e Tecnica (via Giusti 29)
+DESCRIPTION:Guida al cielo di dicembre: pianeti\, stelle e costellazioni da
+  riconoscere a occhio nudo. https://www.mentelocale.it/firenze/
+URL:https://www.mentelocale.it/firenze/
+CATEGORIES:Scienza
+END:VEVENT
+END:VCALENDAR

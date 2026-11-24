@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci Firenze · Arte e storia
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-02-ricordando-ernesto-ragionieri-cento-anni-dopo@acculturiamoci
+ .it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261202T173000
+DTEND;TZID=Europe/Rome:20261202T193000
+SUMMARY:Ricordando Ernesto Ragionieri\, cento anni dopo
+LOCATION:Biblioteca Ragionieri\, Sala Meucci (piazza della Biblioteca 4\, S
+ esto Fiorentino)
+DESCRIPTION:Simonetta Soldani e Marco Palla sullo storico sestese. Giorni d
+ i Storia\, gratis con prenotazione. https://www.tempoliberotoscana.it/even
+ t/giorni-di-storia-festival-di-incontri-conferenze-spettacoli-e-letture/
+URL:https://www.tempoliberotoscana.it/event/giorni-di-storia-festival-di-in
+ contri-conferenze-spettacoli-e-letture/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-specchio-riflesso-conferenza-spettacolo-di-luca-@acculturiam
+ oci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261203T190000
+DTEND;TZID=Europe/Rome:20261203T210000
+SUMMARY:Specchio riflesso: conferenza-spettacolo di Luca Scarlini
+LOCATION:Biblioteca Ragionieri\, Sala Meucci (piazza della Biblioteca 4\, S
+ esto Fiorentino)
+DESCRIPTION:Storie e Storia di Sesto Fiorentino tra Ragionieri e gli archiv
+ i del Comune. Gratis con prenotazione. https://www.tempoliberotoscana.it/e
+ vent/giorni-di-storia-festival-di-incontri-conferenze-spettacoli-e-letture
+ /
+URL:https://www.tempoliberotoscana.it/event/giorni-di-storia-festival-di-in
+ contri-conferenze-spettacoli-e-letture/
+CATEGORIES:Arte e storia
+END:VEVENT
+END:VCALENDAR

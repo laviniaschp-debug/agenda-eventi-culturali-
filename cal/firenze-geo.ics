@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci Firenze · Geopolitica
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-27-limes-la-tempesta-americana-e-la-fine-dei-tabu@acculturiamoc
+ i.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261127T180000
+DTEND;TZID=Europe/Rome:20261127T200000
+SUMMARY:Limes: la tempesta americana e la fine dei tabù
+LOCATION:Biblioteca Ragionieri\, Sala Meucci (piazza della Biblioteca 4\, S
+ esto Fiorentino)
+DESCRIPTION:Giuseppe De Ruvo e Agnese Rossi\, modera Fabrizio Maronta. Gior
+ ni di Storia Festival\, con la rivista Limes. Ingresso gratuito\, prenotaz
+ ione su bibliosesto.it. https://www.tempoliberotoscana.it/event/giorni-di-
+ storia-festival-di-incontri-conferenze-spettacoli-e-letture/
+URL:https://www.tempoliberotoscana.it/event/giorni-di-storia-festival-di-in
+ contri-conferenze-spettacoli-e-letture/
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-limes-il-mondo-ingolfato@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261128T103000
+DTEND;TZID=Europe/Rome:20261128T123000
+SUMMARY:Limes: il mondo ingolfato
+LOCATION:Biblioteca Ragionieri\, Sala Meucci (piazza della Biblioteca 4\, S
+ esto Fiorentino)
+DESCRIPTION:Daniele Santoro e Lorenzo Trombetta sul Golfo e il Medio Orient
+ e. Giorni di Storia Festival\, con la rivista Limes. Ingresso gratuito\, p
+ renotazione su bibliosesto.it. https://www.tempoliberotoscana.it/event/gio
+ rni-di-storia-festival-di-incontri-conferenze-spettacoli-e-letture/
+URL:https://www.tempoliberotoscana.it/event/giorni-di-storia-festival-di-in
+ contri-conferenze-spettacoli-e-letture/
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-limes-ucraina-anno-zero@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261128T163000
+DTEND;TZID=Europe/Rome:20261128T183000
+SUMMARY:Limes: Ucraina anno zero
+LOCATION:Biblioteca Ragionieri\, Sala Meucci (piazza della Biblioteca 4\, S
+ esto Fiorentino)
+DESCRIPTION:Mirko Mussetti e la cartografa Laura Canali. Giorni di Storia F
+ estival\, con la rivista Limes. Ingresso gratuito\, prenotazione su biblio
+ sesto.it. https://www.tempoliberotoscana.it/event/giorni-di-storia-festiva
+ l-di-incontri-conferenze-spettacoli-e-letture/
+URL:https://www.tempoliberotoscana.it/event/giorni-di-storia-festival-di-in
+ contri-conferenze-spettacoli-e-letture/
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-limes-l-italia-nell-arco-delle-crisi-con-alessan@acculturiam
+ oci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:Limes: l'Italia nell'arco delle crisi\, con Alessandro Aresu
+LOCATION:Biblioteca Ragionieri\, Sala Meucci (piazza della Biblioteca 4\, S
+ esto Fiorentino)
+DESCRIPTION:Fabrizio Maronta e Alessandro Aresu. Giorni di Storia Festival\
+ , con la rivista Limes. Ingresso gratuito\, prenotazione su bibliosesto.it
+ . https://www.tempoliberotoscana.it/event/giorni-di-storia-festival-di-inc
+ ontri-conferenze-spettacoli-e-letture/
+URL:https://www.tempoliberotoscana.it/event/giorni-di-storia-festival-di-in
+ contri-conferenze-spettacoli-e-letture/
+CATEGORIES:Geopolitica
+END:VEVENT
+END:VCALENDAR

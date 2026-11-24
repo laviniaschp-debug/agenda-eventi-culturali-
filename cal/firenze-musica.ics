@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci Firenze · Musica e concerti
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-28-lukas-sternath-pianoforte@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261128T160000
+DTEND;TZID=Europe/Rome:20261128T180000
+SUMMARY:Lukas Sternath\, pianoforte
+LOCATION:Teatro della Pergola (via della Pergola 12/32)
+DESCRIPTION:Recital del giovane pianista viennese\, ex Piccolo Cantore di V
+ ienna e New Generation Artist della BBC. Stagione Amici della Musica. http
+ s://mentelocale.it/firenze/135517-lukas-sternath-pianoforte.htm
+URL:https://mentelocale.it/firenze/135517-lukas-sternath-pianoforte.htm
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-christophe-rousset-al-teatro-del-maggio@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Christophe Rousset al Teatro del Maggio
+LOCATION:Teatro del Maggio (piazza Vittorio Gui 1)
+DESCRIPTION:Il clavicembalista e direttore francese\, tra i grandi nomi del
+ la musica barocca. https://www.mentelocale.it/firenze/
+URL:https://www.mentelocale.it/firenze/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-anna-prohaska-e-isabelle-faust@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Anna Prohaska e Isabelle Faust
+LOCATION:Teatro Niccolini (via Ricasoli 3)
+DESCRIPTION:Soprano e violino insieme: un duo raro della stagione Amici del
+ la Musica. https://www.mentelocale.it/firenze/
+URL:https://www.mentelocale.it/firenze/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-arsenii-moon-pianoforte@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Arsenii Moon\, pianoforte
+LOCATION:Teatro della Pergola (via della Pergola 12/32)
+DESCRIPTION:Recital del giovane pianista nella stagione Amici della Musica.
+  https://www.mentelocale.it/firenze/
+URL:https://www.mentelocale.it/firenze/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-concerto-di-natale-al-teatro-del-maggio@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261206T180000
+DTEND;TZID=Europe/Rome:20261206T200000
+SUMMARY:Concerto di Natale al Teatro del Maggio
+LOCATION:Teatro del Maggio (piazza Vittorio Gui 1)
+DESCRIPTION:Il tradizionale concerto natalizio nella Sala Grande. https://w
+ ww.maggiofiorentino.com/en/calendario/2026/12
+URL:https://www.maggiofiorentino.com/en/calendario/2026/12
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-emanuele-arciuli-pianoforte@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Emanuele Arciuli\, pianoforte
+LOCATION:Teatro Niccolini (via Ricasoli 3)
+DESCRIPTION:Il pianista pugliese tra musica e libertà\, per gli Amici dell
+ a Musica. https://www.mentelocale.it/firenze/
+URL:https://www.mentelocale.it/firenze/
+CATEGORIES:Classica e chiese
+END:VEVENT
+END:VCALENDAR

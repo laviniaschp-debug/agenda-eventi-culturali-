@@ -1,0 +1,295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci Firenze · Teatro
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-25-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261125T190000
+DTEND;TZID=Europe/Rome:20261125T210000
+SUMMARY:Lo Zar\, di e con Stefano Massini
+LOCATION:Teatro della Pergola (via della Pergola 12/32)
+DESCRIPTION:Stefano Massini racconta da solo in scena l'ascesa al potere di
+  un anonimo funzionario del KGB\, tra materiali storici e interviste. http
+ s://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettaco
+ li-da-non-perdere/
+URL:https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-s
+ pettacoli-da-non-perdere/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-ivan-e-i-cani-con-federica-rosellini@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261125T210000
+DTEND;TZID=Europe/Rome:20261125T230000
+SUMMARY:Ivan e i cani\, con Federica Rosellini
+LOCATION:Teatro Puccini (via delle Cascine 41)
+DESCRIPTION:Monologo su un bambino che sopravvive per strada nella Mosca de
+ gli anni Novanta\, accolto da un branco di cani. https://www.ticketone.it/
+ eventseries/abbonamenti-teatro-puccini-3416466/
+URL:https://www.ticketone.it/eventseries/abbonamenti-teatro-puccini-3416466
+ /
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261126T190000
+DTEND;TZID=Europe/Rome:20261126T210000
+SUMMARY:Lo Zar\, di e con Stefano Massini
+LOCATION:Teatro della Pergola (via della Pergola 12/32)
+DESCRIPTION:Stefano Massini racconta da solo in scena l'ascesa al potere di
+  un anonimo funzionario del KGB\, tra materiali storici e interviste. http
+ s://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettaco
+ li-da-non-perdere/
+URL:https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-s
+ pettacoli-da-non-perdere/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Lo Zar\, di e con Stefano Massini
+LOCATION:Teatro della Pergola (via della Pergola 12/32)
+DESCRIPTION:Stefano Massini racconta da solo in scena l'ascesa al potere di
+  un anonimo funzionario del KGB\, tra materiali storici e interviste. http
+ s://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettaco
+ li-da-non-perdere/
+URL:https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-s
+ pettacoli-da-non-perdere/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-l-analfabeta-federica-fracassi-e-agota-kristof@acculturiamoc
+ i.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261128T203000
+DTEND;TZID=Europe/Rome:20261128T223000
+SUMMARY:L'analfabeta: Federica Fracassi è Agota Kristof
+LOCATION:Nuovo Rifredi Scena Aperta (via Vittorio Emanuele II 303)
+DESCRIPTION:Fanny & Alexander portano in scena il racconto autobiografico d
+ i Kristof: la fuga\, l'esilio\, una lingua da imparare da capo. https://ww
+ w.mentelocale.it/firenze/130759-nuovo-rifredi-10-spettacoli-turno-a-2026-2
+ 027.htm
+URL:https://www.mentelocale.it/firenze/130759-nuovo-rifredi-10-spettacoli-t
+ urno-a-2026-2027.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261128T203000
+DTEND;TZID=Europe/Rome:20261128T223000
+SUMMARY:Lo Zar\, di e con Stefano Massini
+LOCATION:Teatro della Pergola (via della Pergola 12/32)
+DESCRIPTION:Stefano Massini racconta da solo in scena l'ascesa al potere di
+  un anonimo funzionario del KGB\, tra materiali storici e interviste. http
+ s://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettaco
+ li-da-non-perdere/
+URL:https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-s
+ pettacoli-da-non-perdere/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-caccia-l-drago-di-daniele-timpano@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261128T213000
+DTEND;TZID=Europe/Rome:20261128T233000
+SUMMARY:Caccia 'l Drago\, di Daniele Timpano
+LOCATION:Ridotto del Teatro Puccini (via delle Cascine 41)
+DESCRIPTION:Fiaba in musica ispirata a Tolkien\, tra voce\, pianoforte\, el
+ ettronica e sax: ironica e per adulti. https://www.ticketone.it/en/eventse
+ ries/caccia-l-drago-4165302/
+URL:https://www.ticketone.it/en/eventseries/caccia-l-drago-4165302/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-caccia-l-drago-di-daniele-timpano@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261129T184500
+DTEND;TZID=Europe/Rome:20261129T204500
+SUMMARY:Caccia 'l Drago\, di Daniele Timpano
+LOCATION:Ridotto del Teatro Puccini (via delle Cascine 41)
+DESCRIPTION:Fiaba in musica ispirata a Tolkien\, tra voce\, pianoforte\, el
+ ettronica e sax: ironica e per adulti. https://www.ticketone.it/en/eventse
+ ries/caccia-l-drago-4165302/
+URL:https://www.ticketone.it/en/eventseries/caccia-l-drago-4165302/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-figlie-del-secolo-cento-anni-negli-sguardi-delle@acculturiam
+ oci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261129T210000
+DTEND;TZID=Europe/Rome:20261129T230000
+SUMMARY:Figlie del secolo\, cento anni negli sguardi delle donne
+LOCATION:Teatro della Limonaia (via Gramsci 426\, Sesto Fiorentino)
+DESCRIPTION:Spettacolo corale di Quinte Instabili. Giorni di Storia\, grati
+ s con prenotazione su bibliosesto.it. https://www.tempoliberotoscana.it/ev
+ ent/giorni-di-storia-festival-di-incontri-conferenze-spettacoli-e-letture/
+URL:https://www.tempoliberotoscana.it/event/giorni-di-storia-festival-di-in
+ contri-conferenze-spettacoli-e-letture/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Lo Zar\, di e con Stefano Massini
+LOCATION:Teatro della Pergola (via della Pergola 12/32)
+DESCRIPTION:Stefano Massini racconta da solo in scena l'ascesa al potere di
+  un anonimo funzionario del KGB\, tra materiali storici e interviste. http
+ s://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettaco
+ li-da-non-perdere/
+URL:https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-s
+ pettacoli-da-non-perdere/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Lo Zar\, di e con Stefano Massini
+LOCATION:Teatro della Pergola (via della Pergola 12/32)
+DESCRIPTION:Stefano Massini racconta da solo in scena l'ascesa al potere di
+  un anonimo funzionario del KGB\, tra materiali storici e interviste. http
+ s://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettaco
+ li-da-non-perdere/
+URL:https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-s
+ pettacoli-da-non-perdere/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261202T190000
+DTEND;TZID=Europe/Rome:20261202T210000
+SUMMARY:Lo Zar\, di e con Stefano Massini
+LOCATION:Teatro della Pergola (via della Pergola 12/32)
+DESCRIPTION:Stefano Massini racconta da solo in scena l'ascesa al potere di
+  un anonimo funzionario del KGB\, tra materiali storici e interviste. http
+ s://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettaco
+ li-da-non-perdere/
+URL:https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-s
+ pettacoli-da-non-perdere/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261203T190000
+DTEND;TZID=Europe/Rome:20261203T210000
+SUMMARY:Lo Zar\, di e con Stefano Massini
+LOCATION:Teatro della Pergola (via della Pergola 12/32)
+DESCRIPTION:Stefano Massini racconta da solo in scena l'ascesa al potere di
+  un anonimo funzionario del KGB\, tra materiali storici e interviste. http
+ s://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettaco
+ li-da-non-perdere/
+URL:https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-s
+ pettacoli-da-non-perdere/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Lo Zar\, di e con Stefano Massini
+LOCATION:Teatro della Pergola (via della Pergola 12/32)
+DESCRIPTION:Stefano Massini racconta da solo in scena l'ascesa al potere di
+  un anonimo funzionario del KGB\, tra materiali storici e interviste. http
+ s://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettaco
+ li-da-non-perdere/
+URL:https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-s
+ pettacoli-da-non-perdere/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-tu-mi-sognavi-io-non-dormivo-achmatova-e-modigli@acculturiam
+ oci.it
+DTSTAMP:20261124T225717Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Tu mi sognavi\, io non dormivo: Achmatova e Modigliani
+LOCATION:Teatro Cantiere Florida (via Pisana 111R)
+DESCRIPTION:La storia d'amore segreta tra la poetessa russa e il pittore li
+ vornese nella Parigi bohémien del 1910. https://www.mentelocale.it/firenz
+ e/124121-tu-mi-sognavi-io-non-dormivo-la-storia-d-amore-segreta-tra-anna-a
+ chmatova-e-amedeo-modigliani.htm
+URL:https://www.mentelocale.it/firenze/124121-tu-mi-sognavi-io-non-dormivo-
+ la-storia-d-amore-segreta-tra-anna-achmatova-e-amedeo-modigliani.htm
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-reading-alla-living-il-romanzo-lo-sceglie-il-pub@acculturiam
+ oci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261205T190000
+DTEND;TZID=Europe/Rome:20261205T210000
+SUMMARY:Reading alla Living: il romanzo lo sceglie il pubblico
+LOCATION:Santo Spirito Living Room (piazza Santo Spirito 25)
+DESCRIPTION:Compagnia I Nuovi legge un romanzo scelto dagli spettatori. Dia
+ loghi urbani\, prenotazione su inuoviteatro.it. https://cultura.comune.fi.
+ it/system/files/2026-09/web-a5-programma_Dialoghi-urbani_2026_programma.pd
+ f
+URL:https://cultura.comune.fi.it/system/files/2026-09/web-a5-programma_Dial
+ oghi-urbani_2026_programma.pdf
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;TZID=Europe/Rome:20261205T203000
+DTEND;TZID=Europe/Rome:20261205T223000
+SUMMARY:Lo Zar\, di e con Stefano Massini
+LOCATION:Teatro della Pergola (via della Pergola 12/32)
+DESCRIPTION:Stefano Massini racconta da solo in scena l'ascesa al potere di
+  un anonimo funzionario del KGB\, tra materiali storici e interviste. http
+ s://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettaco
+ li-da-non-perdere/
+URL:https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-s
+ pettacoli-da-non-perdere/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
+DTSTAMP:20261124T225717Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Lo Zar\, di e con Stefano Massini
+LOCATION:Teatro della Pergola (via della Pergola 12/32)
+DESCRIPTION:Stefano Massini racconta da solo in scena l'ascesa al potere di
+  un anonimo funzionario del KGB\, tra materiali storici e interviste. http
+ s://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-spettaco
+ li-da-non-perdere/
+URL:https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-s
+ pettacoli-da-non-perdere/
+CATEGORIES:Teatro
+END:VEVENT
+END:VCALENDAR

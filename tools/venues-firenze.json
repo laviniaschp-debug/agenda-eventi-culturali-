@@ -1,0 +1,98 @@
+[
+ {
+  "match": "Pergola",
+  "lat": 43.7727,
+  "lng": 11.261,
+  "zona": "Santa Croce · Sant'Ambrogio"
+ },
+ {
+  "match": "Niccolini",
+  "lat": 43.7746,
+  "lng": 11.2568,
+  "zona": "Centro storico"
+ },
+ {
+  "match": "Ridotto del Teatro Puccini",
+  "lat": 43.7849,
+  "lng": 11.2291,
+  "zona": "Cascine · Rifredi · Novoli"
+ },
+ {
+  "match": "Teatro Puccini",
+  "lat": 43.7849,
+  "lng": 11.2291,
+  "zona": "Cascine · Rifredi · Novoli"
+ },
+ {
+  "match": "Rifredi",
+  "lat": 43.7973,
+  "lng": 11.2396,
+  "zona": "Cascine · Rifredi · Novoli"
+ },
+ {
+  "match": "Teatro del Maggio",
+  "lat": 43.7796,
+  "lng": 11.241,
+  "zona": "Cascine · Rifredi · Novoli"
+ },
+ {
+  "match": "Cantiere Florida",
+  "lat": 43.7655,
+  "lng": 11.2296,
+  "zona": "Oltrarno · Santo Spirito"
+ },
+ {
+  "match": "Scienza e Tecnica",
+  "lat": 43.7772,
+  "lng": 11.264,
+  "zona": "Santa Croce · Sant'Ambrogio"
+ },
+ {
+  "match": "Pieraccioni",
+  "lat": 43.7897,
+  "lng": 11.2731,
+  "zona": "Campo di Marte · Coverciano"
+ },
+ {
+  "match": "Cib'aria",
+  "lat": 43.7686,
+  "lng": 11.2441,
+  "zona": "Oltrarno · Santo Spirito"
+ },
+ {
+  "match": "Claudiana",
+  "lat": 43.7653,
+  "lng": 11.2459,
+  "zona": "Oltrarno · Santo Spirito"
+ },
+ {
+  "match": "Santo Spirito",
+  "lat": 43.7671,
+  "lng": 11.2476,
+  "zona": "Oltrarno · Santo Spirito"
+ },
+ {
+  "match": "Social Hub",
+  "lat": 43.7836,
+  "lng": 11.242,
+  "zona": "Cascine · Rifredi · Novoli"
+ },
+ {
+  "match": "Sesto Fiorentino",
+  "lat": 43.8318,
+  "lng": 11.199,
+  "zona": "Fuori Firenze"
+ },
+ {
+  "match": "Strozzi",
+  "lat": 43.7713,
+  "lng": 11.2518,
+  "zona": "Centro storico"
+ },
+ {
+  "match": "Oblate",
+  "lat": 43.7731,
+  "lng": 11.259,
+  "zona": "Centro storico"
+ }
+]
