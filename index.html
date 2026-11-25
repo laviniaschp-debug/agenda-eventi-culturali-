@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Acculturiamoci</title>
-<meta name="description" content="Eventi culturali a Milano e Roma: talk, teatro, concerti e lezioni aperte, dal vivo. Esci di casa. Torna diverso.">
+<meta name="description" content="Eventi culturali a Milano e Roma: talk, filosofia, psicoanalisi, teatro e lezioni aperte, dal vivo. Esci di casa. Torna diverso.">
 <meta property="og:title" content="Acculturiamoci · Esci di casa. Torna diverso.">
 <meta property="og:description" content="Tutti gli eventi della tua città per pensare ed emozionarsi, dal vivo.">
 <meta name="theme-color" content="#ffffff">
@@ -187,6 +187,15 @@ body.lock .fab{display:none}
 .org p{margin:0;font-size:16px}
 .org ul{margin:16px 0 0;padding:0;list-style:none;display:grid;gap:8px;font-weight:600}
 .org ul li::before{content:"✦";color:#b8432a;margin-right:10px}
+.org.ins{background:#fbe6dc}
+.org.ins .kick{color:#b8432a}
+.insbox{display:flex;flex-direction:column;gap:12px}
+.insev{background:#fff;border-radius:24px;padding:18px 20px;cursor:pointer}
+.insev .d{font-size:12px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;color:#b8432a}
+.insev .t{font-weight:800;font-size:18px;margin:4px 0 2px;line-height:1.25}
+.insev .v{color:var(--muted);font-size:14px}
+.insev .r{margin-top:8px;font-size:14px}
+.insnext{background:#fff;border-radius:24px;padding:18px 20px;font-size:15px}
 .orgf{display:grid;grid-template-columns:1fr 1fr;gap:12px;background:#fff;border-radius:24px;padding:22px}
 .orgf label{display:flex;flex-direction:column;gap:5px;font-size:12.5px;font-weight:800;color:#444}
 .orgf .full{grid-column:1/-1}
@@ -411,6 +420,7 @@ footer p{margin:0}
 .sheet .tags{display:flex;gap:6px;flex-wrap:wrap;position:relative;padding-right:40px}
 .sheet h2{margin:12px 0 0;font-size:26px;line-height:1.12;letter-spacing:-.025em;font-weight:800;position:relative;max-width:20ch}
 .sheet .whyl{font-family:var(--round);font-weight:500;font-size:18px;line-height:1.3;margin:10px 0 0;position:relative;color:var(--c);filter:brightness(.78)}
+.sheet .whyl small{display:block;font-family:inherit;font-size:11.5px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;opacity:.75;margin-bottom:3px}
 .sheet .bd{padding:18px 22px 24px}
 .facts{display:grid;gap:10px}
 .fact{display:flex;gap:12px;align-items:flex-start}
@@ -586,7 +596,7 @@ footer p{margin:0}
   <div class="wrap">
     <p class="kick" id="heroKick">Eventi culturali a Milano</p>
     <h1>Esci di casa. <span class="hl">Torna diverso.</span></h1>
-    <p>Talk, teatro, concerti e lezioni aperte, dal vivo. Per chi vuole uscire dalla solita serata, capire un po' di più e tornare a casa con qualcosa da raccontare.</p>
+    <p id="heroLead"><b>Stanchi di lavoro-aperitivo-Netflix?</b> Ecco le serate per pensare a <span data-cityname>Milano</span> questa settimana: talk, filosofia, psicoanalisi, teatro e lezioni aperte, dal vivo.</p>
     <div class="search" role="search">
       <button class="seg" id="segCity"><b>Dove</b><span id="segCityV">Milano</span></button>
       <div class="sep"></div>
@@ -606,7 +616,7 @@ footer p{margin:0}
     <div id="chi"><h5>Chi siamo</h5><p>Acculturiamoci sceglie incontri, spettacoli, concerti e lezioni aperte nella tua città: dai grandi teatri alle librerie, alle fondazioni, alle chiese.</p></div>
     <div><h5>Prima di andare</h5><p>Orari e prenotazioni cambiano: ogni evento porta alla pagina dell'organizzatore, che fa fede. I preferiti restano su questo dispositivo, senza bisogno di account.</p></div>
     <div><h5>Organizzi eventi?</h5><p>Associazioni, librerie, spazi, privati: <a href="#organizzatori">segnalaci il tuo evento</a>, è gratis.</p></div>
-    <div><h5>Seguici</h5><p><a href="https://www.instagram.com/acculturiamoci_official/" target="_blank" rel="noopener">Instagram · @acculturiamoci_official</a><br>Le nostre scelte per le tue serate.</p></div>
+    <div><h5>Seguici</h5><p><a href="https://www.instagram.com/acculturiamoci_official/" target="_blank" rel="noopener">Instagram · @acculturiamoci_official</a><br>Le nostre scelte per le tue serate.<br><a href="#insieme">Vieni con noi: Acculturiamoci insieme</a></p></div>
   </div>
 </footer>
 
@@ -656,18 +666,31 @@ const THEMES = [
 ];
 const THEME_OF = {}; THEMES.forEach(t => t.cats.forEach(c => THEME_OF[c] = t));
 const EXPS = [
-  { id:"emozionarmi", label:"Emozionarmi", sub:"concerti, teatro, cinema", em:"✨", c:"#f7d3e3" },
-  { id:"pensare", label:"Capire il mondo", sub:"talk, idee, tech, lezioni aperte", em:"💡", c:"#e6ddfa" },
-  { id:"dentro", label:"Guardarmi dentro", sub:"psicologia, filosofia, poesia, spiritualità", em:"🌙", c:"#dfe8d4" },
-  { id:"ridere", label:"Farmi una risata", sub:"comicità e ironia", em:"😄", c:"#fce3c2" },
-  { id:"gente", label:"Conoscere persone", sub:"laboratori, dibattiti, feste", em:"🥂", c:"#cfede6" }
+  { id:"me", label:"Capire me stesso", sub:"psicoanalisi, psicologia, relazioni", em:"🌙", c:"#dfe8d4" },
+  { id:"domande", label:"Farmi grandi domande", sub:"filosofia, spiritualità, poesia", em:"🧭", c:"#e9e1cf" },
+  { id:"emozionarmi", label:"Emozionarmi", sub:"teatro, concerti, letture", em:"✨", c:"#f7d3e3" },
+  { id:"gente", label:"Conoscere gente curiosa", sub:"dibattiti, laboratori, aperitivi", em:"🥂", c:"#cfede6" },
+  { id:"pensare", label:"Capire il mondo", sub:"attualità, scienza, storia, geopolitica", em:"💡", c:"#e6ddfa" },
+  { id:"ridere", label:"Farmi una risata", sub:"comicità e ironia", em:"😄", c:"#fce3c2" }
 ];
+/* "dentro" (dai dati) si divide in due bisogni: capire se stessi / farsi grandi domande */
+const ME_RX = /psicolog|psicoanal|psicoterap|psichiatr|ansia|fragilit|identit|relazion|amore|amoros|innamor|coppia|adolescen|genitori|maternit|paternit|figli|lutto|autobiograf|confession|crescita personale|recalcati|lingiardi|pellai|desideri|emozion|trauma|cura di s/i;
+const DOMANDE_RX = /filosof|spiritual|mistic|\bdio\b|sacro|religion|teolog|meditaz|mindful|anima\b|felicit|coscienza|senso della vita|tempo che passa|morte|libert|giustizia|poesia|poeti|poet|galimberti|vito mancuso|cartesio|sartre|girard|parola e musica|concerti? spirituali|avvento|quaresima|meraviglia/i;
 const PRACT = [
   { id:"gratis", label:"Gratis" },
   { id:"dopolavoro", label:"Dopo il lavoro" },
   { id:"bambini", label:"Con i bambini" }
 ];
 const LOGO = `<circle cx="20" cy="20" r="20" fill="#f3ecdc"/><path d="M7 25 A13 13 0 0 1 33 25" fill="none" stroke="#b8432a" stroke-width="2.3"/><path d="M10 25 A10 10 0 0 1 30 25" fill="none" stroke="#f2a91c" stroke-width="2.3"/><path d="M13 25 A7 7 0 0 1 27 25" fill="none" stroke="#b8432a" stroke-width="2.3"/><path d="M16 25 A4 4 0 0 1 24 25" fill="none" stroke="#f2a91c" stroke-width="2.3"/><circle cx="20" cy="25" r="1.6" fill="#b8432a"/><path d="M5 26.5C10 25 15.5 25.6 20 28.4 24.5 25.6 30 25 35 26.5V30C30 28.6 24.5 29.2 20 32 15.5 29.2 10 28.6 5 30Z" fill="#4e6440"/>`;
+/* Acculturiamoci insieme: un evento al mese da vivere in gruppo.
+   Per annunciarlo, metti la chiave dell'evento (campo "key" in events.json / roma.json) e il punto di ritrovo.
+   Esempio: milano: { key:"2026-12-12-...", ritrovo:"All'ingresso, 20 minuti prima" }
+   Con null la sezione raccoglie i contatti di chi vuole essere avvisato. */
+const INSIEME = {
+  milano: null,
+  roma: null,
+  firenze: null
+};
 const IG_URL = "https://www.instagram.com/acculturiamoci_official/";
 const CONTACT_EMAIL = "";
 const DOW = ["dom","lun","mar","mer","gio","ven","sab"];
@@ -714,10 +737,21 @@ const inRange = s => DATA && s >= DATA.range[0] && s <= DATA.range[1];
 const isPast = e => e.date !== today() ? e.date < today() : (!!e.time && e.time < nowHM());
 const minsTo = e => { if (e.date !== today() || !e.time) return null; const [h,m] = e.time.split(":").map(Number); const n = new Date(); return h*60+m - (n.getHours()*60+n.getMinutes()); };
 function soonText(e){ const m = minsTo(e); if (m == null || m <= 0 || m > 180) return ""; return m < 60 ? `tra ${m} min` : `tra ${Math.floor(m/60)} h${m%60 ? " " + (m%60) + " min" : ""}`; }
-function moodsOf(e){
+function baseMoods(e){
   if (Array.isArray(e.moods)) return e.moods;
   const m = []; if (["talk","filosofia","geo","storia","scienza","salute","tech"].includes(e.cat)) m.push("pensare");
   if (["classica","jazz","teatro","cinema"].includes(e.cat)) m.push("emozionarmi"); if (e.cat === "famiglie") m.push("bambini"); if (["filosofia","salute"].includes(e.cat)) m.push("dentro"); return m;
+}
+function moodsOf(e){
+  if (e._m) return e._m;
+  const m = [...baseMoods(e)];
+  if (m.includes("dentro")){
+    const txt = `${e.title} ${e.desc||""} ${e.why||""}`;
+    const me = e.cat === "salute" || ME_RX.test(txt), dom = e.cat === "filosofia" || DOMANDE_RX.test(txt);
+    if (me) m.push("me");
+    if (dom || !me) m.push("domande");
+  }
+  return (e._m = m);
 }
 function hasMood(e, id){
   if (id === "gratis") return e.free === true;
@@ -867,6 +901,7 @@ function pickCard(e){
 function render(){
   renderCityDD(); updateBadge();
   if ($("#heroKick")) $("#heroKick").textContent = "Eventi culturali a " + cityName();
+  $$("[data-cityname]").forEach(el => el.textContent = cityName());
   const city = CITIES.find(c => c.id === S.city);
   if (!city.live){
     $("#main").innerHTML = `<div class="soonbox"><h2>${esc(city.name)}</h2><p>Stiamo arrivando: stiamo scegliendo i teatri, le librerie e le fondazioni da seguire. Nel frattempo, Milano è già qui.</p><p style="margin-top:20px"><button class="chip" id="toMi">Vai a Milano</button></p></div>`;
@@ -931,6 +966,7 @@ function render(){
   const subs = [["tutto","Tutta " + cityName(),null],["imperdibili","Solo imperdibili",null], ...THEMES.filter(th => themeCount(th)).map(th => [th.id, th.label, th])];
 
   const todayLeft = upcomingAll.filter(e => e.date === t).length;
+  const ins = INSIEME[S.city], insEv = ins && BYKEY[ins.key] && !isPast(BYKEY[ins.key]) ? BYKEY[ins.key] : null;
   $("#main").innerHTML = `
     <section class="mihero" aria-label="Sei a ${esc(cityName())}">
       <svg viewBox="0 0 1000 480" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
@@ -950,7 +986,7 @@ function render(){
     </section>
 
     <section class="sec" id="esperienza">
-      <h3>Che esperienza cerchi?</h3>
+      <h3>Di cosa hai bisogno? <small>scegli e ti mostriamo le serate giuste</small></h3>
       <div class="exps">
         ${EXPS.map(m => ({...m, n:moodCount(m.id)})).filter(m => m.n).map(m => `<button class="exp" style="--mc:${m.c}" data-mood="${m.id}" aria-pressed="${S.mood===m.id}"><i>${m.em}</i><span><b>${m.label}</b><small>${m.sub}</small></span></button>`).join("")}
         <button class="exp sur" data-surprise><i>🎲</i><span><b>Lasciarmi sorprendere</b><small>scegliamo noi, a caso</small></span></button>
@@ -990,6 +1026,25 @@ function render(){
       ${zones.length > 1 ? `<div class="zones" role="group" aria-label="Quartiere"><span class="zl">Zona</span><button class="chip sm" data-zona="" aria-pressed="${!S.zona}">Tutta ${esc(cityName())}</button>${zones.map(z => `<button class="chip sm" data-zona="${esc(z)}" aria-pressed="${S.zona===z}">${esc(z)}</button>`).join("")}</div>` : ""}
       <div class="resbar" aria-live="polite"><b>${nRes} ${nRes === 1 ? "evento" : "eventi"} ${whenTxt}</b>${act.map(([k,l]) => `<button class="fchip" data-clear="${esc(k)}" aria-label="Togli il filtro ${esc(l)}">${esc(l)} <span aria-hidden="true">✕</span></button>`).join("")}${act.length ? `<button class="clearall" data-clear="all">Azzera filtri</button>` : ""}</div>
       <div id="detail">${detail}</div>
+    </section>
+
+    <section class="sec org ins" id="insieme">
+      <div class="orgtx">
+        <span class="kick">Acculturiamoci insieme</span>
+        <h3>Non ti va di andarci da solo? Vieni con noi.</h3>
+        <p>Una volta al mese scegliamo un evento a ${esc(cityName())} e ci andiamo in gruppo: ci si trova all'ingresso, si entra insieme e dopo, per chi vuole, si resta a parlarne.</p>
+        <ul><li>Un evento al mese, scelto tra i migliori in calendario</li><li>Perfetto se sei nuovo in città o se i tuoi amici non sono "tipi da conferenza"</li><li>Il gruppo è gratis: l'eventuale biglietto dell'evento è a parte</li></ul>
+      </div>
+      <div class="insbox">
+        ${insEv ? `<div class="insev" data-open="${esc(insEv.key)}" role="button" tabindex="0"><span class="d">Prossimo appuntamento · ${esc(dayWord(insEv.date))}${insEv.time ? " · " + esc(insEv.time) : ""}</span><div class="t">${esc(insEv.title)}</div><div class="v">${esc(insEv.venue)}</div>${ins.ritrovo ? `<div class="r"><b>Ritrovo:</b> ${esc(ins.ritrovo)}</div>` : ""}</div>`
+                : `<div class="insnext"><b>Il primo appuntamento a ${esc(cityName())} sta per arrivare.</b> Lasciaci un contatto: ti avvisiamo prima di annunciarlo su Instagram.</div>`}
+        <form class="orgf" id="insForm">
+          <label>Come ti chiami<input name="nome" required placeholder="Nome"></label>
+          <label>Come ti avvisiamo<input name="contatto" required placeholder="Email, @instagram o WhatsApp"></label>
+          <label class="full">Cosa ti piacerebbe (facoltativo)<input name="pref" placeholder="Es. filosofia, psicoanalisi, teatro…"></label>
+          <div class="full orgbtns"><button class="btn hot" type="submit">${insEv ? "Ci sono anch'io" : "Avvisami"}</button><span class="hint">Il testo viene copiato: incollalo nel messaggio che si apre.</span></div>
+        </form>
+      </div>
     </section>
 
     <section class="sec" id="segui">
@@ -1041,6 +1096,7 @@ function render(){
   $("#pw").onclick = () => { const p = add(S.weekStart,-7); S.weekStart = p < DATA.range[0] ? DATA.range[0] : p; render(); };
   $("#nw").onclick = () => { S.weekStart = add(S.weekStart,7); render(); };
   $("#orgForm").onsubmit = sendOrg;
+  $("#insForm").onsubmit = sendInsieme;
   $$("[data-past]").forEach(b => b.onclick = () => { S.showPast = !S.showPast; render(); });
   bindSerate();
   if (S.view === "map") drawMap(vis.filter(e => sel.has(e.date)));
@@ -1069,6 +1125,19 @@ async function sendOrg(ev){
   const box = ev.target.querySelector(".orgbtns");
   box.innerHTML = `<a class="btn dark" href="https://ig.me/m/acculturiamoci_official" target="_blank" rel="noopener">Apri Instagram e incolla il messaggio</a><span class="hint">${copied ? "✓ Testo copiato." : "Copia il testo qui sotto."} Ti rispondiamo appena possibile.</span><textarea class="full" rows="7" readonly>${esc(text)}</textarea>`;
   toast(copied ? "Testo copiato ✦" : "Copia il testo della segnalazione");
+}
+
+/* ---------- Acculturiamoci insieme ---------- */
+async function sendInsieme(ev){
+  ev.preventDefault();
+  const f = new FormData(ev.target), g = k => (f.get(k) || "").toString().trim();
+  const ins = INSIEME[S.city], e = ins && BYKEY[ins.key];
+  const text = `Ciao Acculturiamoci! ${e ? `Vengo anch'io ad Acculturiamoci insieme: ${e.title} (${dayWord(e.date)}${e.time ? ", " + e.time : ""}).` : `Avvisatemi per il prossimo Acculturiamoci insieme a ${cityName()}.`}\n\nNome: ${g("nome")}\nContatto: ${g("contatto")}${g("pref") ? "\nMi piacerebbe: " + g("pref") : ""}`;
+  let copied = false; try { await navigator.clipboard.writeText(text); copied = true; } catch(_) {}
+  if (CONTACT_EMAIL){ location.href = `mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent("Acculturiamoci insieme · " + cityName())}&body=${encodeURIComponent(text)}`; return; }
+  const box = ev.target.querySelector(".orgbtns");
+  box.innerHTML = `<a class="btn dark" href="https://ig.me/m/acculturiamoci_official" target="_blank" rel="noopener">Apri Instagram e incolla il messaggio</a><span class="hint">${copied ? "✓ Testo copiato." : "Copia il testo qui sotto."} Ti rispondiamo appena possibile.</span><textarea class="full" rows="5" readonly>${esc(text)}</textarea>`;
+  toast(copied ? "Testo copiato ✦" : "Copia il messaggio");
 }
 
 /* ---------- calendario a comparsa in "Quando" ---------- */
@@ -1151,7 +1220,7 @@ function openSheet(key){
       <button class="x" id="shX" aria-label="Chiudi">✕</button>
       <div class="tags">${tagsHTML(e)}${(e.tags||[]).includes("bookcity") ? '<span class="tag">BookCity</span>' : ""}${e.free === true ? '<span class="tag">Gratis</span>' : ""}</div>
       <h2 id="shTitle">${esc(e.title)}</h2>
-      ${e.why ? `<p class="whyl">${esc(e.why)}</p>` : ""}
+      ${e.why ? `<p class="whyl"><small>Perché andarci</small>${esc(e.why)}</p>` : ""}
     </div>
     <div class="bd">
       <div class="facts">
@@ -1352,17 +1421,27 @@ async function switchCity(id, openKey){
   if (openKey) openSheet(openKey);
 }
 async function load(){
-  // #roma, #roma/e=KEY, #e=KEY (vecchi link: Milano)
+  // #roma, #roma/e=KEY, #e=KEY (vecchi link: Milano), #milano/b=me (bisogno), #insieme, #milano/insieme
   const h = decodeURIComponent(location.hash.replace("#",""));
-  let city = "milano", key = null;
-  const m = h.match(/^([a-z]+)(?:\/e=(.+))?$/);
-  if (m && CITIES.some(c => c.id === m[1])){ city = m[1]; key = m[2] || null; }
+  let city = "milano", key = null, need = null, sec = null;
+  const m = h.match(/^([a-z]+)(?:\/(e|b)=(.+)|\/(insieme))?$/);
+  if (m && CITIES.some(c => c.id === m[1])){ city = m[1]; if (m[2] === "e") key = m[3]; else if (m[2] === "b") need = m[3]; else if (m[4]) sec = m[4]; }
   else if (h.startsWith("e=")) key = h.slice(2);
+  else if (h.startsWith("b=")) need = h.slice(2);
+  else if (h === "insieme") sec = "insieme";
   await switchCity(city, key);
+  if (need) applyNeed(need);
+  else if (sec) setTimeout(() => document.getElementById(sec)?.scrollIntoView({behavior:"smooth", block:"start"}), 60);
+}
+function applyNeed(id){
+  if (!EXPS.some(x => x.id === id) || !DATA) return;
+  S.mood = id; widen(); render(); toDetail();
 }
 // link interni o tasto indietro: #roma, #milano/e=KEY (gli ancoraggi tipo #serate restano normali)
 window.addEventListener("hashchange", () => {
   const h = decodeURIComponent(location.hash.replace("#",""));
+  const nb = h.match(/^(?:([a-z]+)\/)?b=(.+)$/);
+  if (nb){ const c = nb[1] && CITIES.some(x => x.id === nb[1]) ? nb[1] : S.city; if (c !== S.city) switchCity(c).then(() => applyNeed(nb[2])); else applyNeed(nb[2]); return; }
   const m = h.match(/^([a-z]+)(?:\/e=(.+))?$/);
   let city = null, key = null;
   if (m && CITIES.some(c => c.id === m[1])){ city = m[1]; key = m[2] || null; }

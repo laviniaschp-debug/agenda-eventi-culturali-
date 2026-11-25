@@ -758,7 +758,8 @@
    "moods": [
     "dentro",
     "pensare"
-   ]
+   ],
+   "why": "Come si impara davvero? Rousseau e Dewey a confronto."
   },
   {
    "date": "2026-11-25",
@@ -805,7 +806,8 @@
     45.4655,
     9.199
    ],
-   "zona": "Centro"
+   "zona": "Centro",
+   "why": "Perché rileggere i classici quando sembra che non abbiano più niente da dirci."
   },
   {
    "date": "2026-11-25",
@@ -1289,7 +1291,8 @@
     45.4605,
     9.1945
    ],
-   "zona": "Centro"
+   "zona": "Centro",
+   "why": "Che fine fa il sacro quando la vita passa da uno schermo?"
   },
   {
    "date": "2026-11-26",
@@ -1358,7 +1361,8 @@
     45.5133,
     9.2112
    ],
-   "zona": "Fuori centro"
+   "zona": "Fuori centro",
+   "why": "Pensi alla pensione solo quando è tardi? Qui spiegano le scelte da fare per tempo."
   },
   {
    "date": "2026-11-26",
@@ -1540,7 +1544,8 @@
     45.453,
     9.208
    ],
-   "zona": "Porta Romana · Vittoria"
+   "zona": "Porta Romana · Vittoria",
+   "why": "Recalcati, per una volta, parla di sé: fallimenti, inquietudini, innamoramenti."
   },
   {
    "date": "2026-11-26",
@@ -1747,7 +1752,8 @@
     45.4705,
     9.1795
    ],
-   "zona": "Centro"
+   "zona": "Centro",
+   "why": "Per chi pensa di aver già capito tutto sull'amore."
   },
   {
    "date": "2026-11-26",
@@ -1770,7 +1776,8 @@
     45.4445,
     9.2045
    ],
-   "zona": "Porta Romana · Vittoria"
+   "zona": "Porta Romana · Vittoria",
+   "why": "Cosa succede nella mente e nel corpo di un adolescente, con un film e un pediatra."
   },
   {
    "date": "2026-11-26",
@@ -2613,7 +2620,8 @@
     45.4825,
     9.184
    ],
-   "zona": "Brera · Garibaldi · Isola"
+   "zona": "Brera · Garibaldi · Isola",
+   "why": "Si può riparare un torto invece di punirlo? Ceretti racconta la giustizia riparativa."
   },
   {
    "date": "2026-11-27",
@@ -2828,7 +2836,8 @@
     45.453,
     9.208
    ],
-   "zona": "Porta Romana · Vittoria"
+   "zona": "Porta Romana · Vittoria",
+   "why": "Perché ci polarizziamo così tanto? Una chiave per capirlo arriva da Girard."
   },
   {
    "date": "2026-11-28",
@@ -2901,7 +2910,8 @@
     45.453,
     9.208
    ],
-   "zona": "Porta Romana · Vittoria"
+   "zona": "Porta Romana · Vittoria",
+   "why": "Sommersi dalle cose: la poesia che racconta il nostro rapporto con gli oggetti."
   },
   {
    "date": "2026-11-28",
@@ -2950,7 +2960,8 @@
     45.453,
     9.208
    ],
-   "zona": "Porta Romana · Vittoria"
+   "zona": "Porta Romana · Vittoria",
+   "why": "La filosofia raccontata con gli aneddoti: si entra senza paura, si esce con delle domande."
   },
   {
    "date": "2026-11-28",
@@ -2975,7 +2986,8 @@
     45.453,
     9.208
    ],
-   "zona": "Porta Romana · Vittoria"
+   "zona": "Porta Romana · Vittoria",
+   "why": "Proteggere i figli da tutto li aiuta davvero? Pellai spiega perché la fatica li rende liberi."
   },
   {
    "date": "2026-11-28",
@@ -3144,7 +3156,8 @@
     45.4628,
     9.1873
    ],
-   "zona": "Centro"
+   "zona": "Centro",
+   "why": "Fermarsi prima di Natale: Bach e Lotti per coro e organo, in San Satiro."
   },
   {
    "date": "2026-11-28",
@@ -3193,7 +3206,8 @@
     45.453,
     9.208
    ],
-   "zona": "Porta Romana · Vittoria"
+   "zona": "Porta Romana · Vittoria",
+   "why": "Il mare come metafora della vita, tra filosofia, letteratura e ricordi."
   },
   {
    "date": "2026-11-28",
@@ -3292,7 +3306,8 @@
     45.4825,
     9.184
    ],
-   "zona": "Brera · Garibaldi · Isola"
+   "zona": "Brera · Garibaldi · Isola",
+   "why": "Cosa rende un amico un amico? Una sera per pensarci."
   },
   {
    "date": "2026-11-28",
@@ -3388,7 +3403,8 @@
     45.453,
     9.208
    ],
-   "zona": "Porta Romana · Vittoria"
+   "zona": "Porta Romana · Vittoria",
+   "why": "Quando un lavoro finisce e non ti riconosci più: come si ricomincia."
   },
   {
    "date": "2026-11-28",
@@ -3657,7 +3673,8 @@
     45.4775,
     9.187
    ],
-   "zona": "Brera · Garibaldi · Isola"
+   "zona": "Brera · Garibaldi · Isola",
+   "why": "Dal pregiudizio all'inclusione, raccontato da chi ha creato PizzAut."
   },
   {
    "date": "2026-11-28",
@@ -4479,7 +4496,8 @@
     45.4775,
     9.187
    ],
-   "zona": "Brera · Garibaldi · Isola"
+   "zona": "Brera · Garibaldi · Isola",
+   "why": "Perché l'amore finisce? La festa della Lettura prova a rispondere."
   },
   {
    "date": "2026-11-29",
@@ -4752,7 +4770,8 @@
     45.453,
     9.208
    ],
-   "zona": "Porta Romana · Vittoria"
+   "zona": "Porta Romana · Vittoria",
+   "why": "Crisi di crescita o disagio vero? Come capire la differenza nei ragazzi."
   },
   {
    "date": "2026-11-29",
@@ -5271,7 +5290,8 @@
     45.4775,
     9.187
    ],
-   "zona": "Brera · Garibaldi · Isola"
+   "zona": "Brera · Garibaldi · Isola",
+   "why": "Il poeta dei sonetti romaneschi, plebeo e metafisico: una lezione per riscoprirlo."
   },
   {
    "date": "2026-12-01",

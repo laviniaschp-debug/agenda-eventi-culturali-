@@ -6,7 +6,10 @@ Uso (dalla cartella del sito):  python3 tools/enrich.py
 Cosa fa, senza mai cancellare dati già presenti:
   - key      chiave stabile (data + titolo), utile per preferiti e link
   - cat      sposta in "scienza" gli eventi chiaramente scientifici
-  - why      una riga editoriale "perché andarci" per gli imperdibili
+  - why      una riga editoriale "perché andarci": in tools/why.json, per chiave
+             evento (es. "2026-11-28-filosofia-dell-amicizia") su qualsiasi evento,
+             o per frammento del titolo sugli imperdibili. Scrivila come un bisogno
+             o una domanda della vita, non come descrizione dell'evento.
   - moods    ridere / pensare / emozionarmi / gente / bambini
   - geo,zona coordinate indicative e quartiere, da tools/venues.json
   - status   lasciato com'è se presente (ultimi posti, esaurito)
@@ -51,6 +54,9 @@ MOOD_BY_CAT = {
 }
 
 
+KEYLIKE = re.compile(r"^\d{4}-\d{2}-\d{2}-")
+
+
 def slug(s):
     s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower()
     return re.sub(r"[^a-z0-9]+", "-", s).strip("-")[:48]
@@ -77,9 +83,14 @@ def enrich(d, ven_path=VEN):
         stext = f'{e["title"]} {e.get("desc","")}'
         if e.get("cat") not in ("famiglie", "tech", "filosofia") and SCIENCE.search(stext) and "ideologic" not in stext.lower():
             e["cat"] = "scienza"
+        # "perché andarci": chiave esatta dell'evento (qualsiasi evento) oppure frammento del titolo (solo imperdibili)
+        if not e.get("why") and e["key"] in why:
+            e["why"] = why[e["key"]]
         if not e.get("why") and "imperdibile" in e.get("tags", []):
             low = e["title"].lower()
             for frag, line in why.items():
+                if KEYLIKE.match(frag):
+                    continue
                 if frag.lower() in low:
                     e["why"] = line
                     break
