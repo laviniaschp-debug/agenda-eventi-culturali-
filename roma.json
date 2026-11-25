@@ -186,6 +186,31 @@
   },
   {
    "date": "2026-11-25",
+   "time": "17:30",
+   "title": "Il Campidoglio si illumina con il 1522",
+   "venue": "Campidoglio, piazza del Campidoglio",
+   "cat": "geo",
+   "desc": "Per la Giornata contro la violenza sulle donne, dalle 17:30 alle 23 la facciata del Campidoglio mostra il 1522, il numero antiviolenza gratuito e attivo 24 ore su 24.",
+   "url": "https://www.ilfaroonline.it/2026/11/23/25-novembre-a-roma-cosa-fare-e-dove-andare-tutti-gli-eventi-contro-la-violenza-sulle-donne/659839",
+   "free": true,
+   "tags": [
+    "25novembre"
+   ],
+   "verify": false,
+   "why": "Passarci stasera e fotografarlo: un modo semplice per far girare il numero.",
+   "id": "r127",
+   "key": "2026-11-25-il-campidoglio-si-illumina-con-il-1522",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.8933,
+    12.4828
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-11-25",
    "time": "18:00",
    "title": "Andrea Scarpa: Mettetevi comodi (il libro-intervista a Renzo Arbore)",
    "venue": "Feltrinelli Piazza Pio XI",

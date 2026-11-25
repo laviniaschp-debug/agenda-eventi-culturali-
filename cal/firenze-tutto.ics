@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-25-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;TZID=Europe/Rome:20261125T190000
 DTEND;TZID=Europe/Rome:20261125T210000
 SUMMARY:Lo Zar\, di e con Stefano Massini
@@ -40,8 +40,26 @@ URL:https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-s
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-25-la-liberta-di-essere-teatro-e-arte-contro-la-vio@acculturiam
+ oci.it
+DTSTAMP:20261125T095404Z
+DTSTART;TZID=Europe/Rome:20261125T200000
+DTEND;TZID=Europe/Rome:20261125T220000
+SUMMARY:La libertà di essere: teatro e arte contro la violenza sulle donne
+LOCATION:Teatro 13 (via Nicolodi 2)
+DESCRIPTION:Una sera per ricordarsi che essere libere è il punto di parten
+ za\, non un premio. Recital a cura di Pietro Bartolini con gli allievi del
+ l'Accademia Teatrale di Firenze e mostra di pittura diretta da Tiziana Aco
+ manni. Gratis con prenotazione obbligatoria. https://www.comune.firenze.it
+ /novita/area-stampa/comunicati-stampa/la-liberta-di-essere-teatro-e-arte-l
+ eliminazione-della
+URL:https://www.comune.firenze.it/novita/area-stampa/comunicati-stampa/la-l
+ iberta-di-essere-teatro-e-arte-leliminazione-della
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-25-ivan-e-i-cani-con-federica-rosellini@acculturiamoci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;TZID=Europe/Rome:20261125T210000
 DTEND;TZID=Europe/Rome:20261125T230000
 SUMMARY:Ivan e i cani\, con Federica Rosellini
@@ -56,7 +74,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-che-fai-tu-luna-in-ciel-leopardi-e-il-cielo@acculturiamoci.i
  t
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Che fai tu\, Luna\, in ciel? Leopardi e il cielo
@@ -68,7 +86,7 @@ CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;TZID=Europe/Rome:20261126T190000
 DTEND;TZID=Europe/Rome:20261126T210000
 SUMMARY:Lo Zar\, di e con Stefano Massini
@@ -84,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-la-musica-del-mio-picchio-presentazione-con-lett@acculturiam
  oci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;TZID=Europe/Rome:20261127T170000
 DTEND;TZID=Europe/Rome:20261127T190000
 SUMMARY:La musica del mio picchio: presentazione con letture
@@ -100,7 +118,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-limes-la-tempesta-americana-e-la-fine-dei-tabu@acculturiamoc
  i.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;TZID=Europe/Rome:20261127T180000
 DTEND;TZID=Europe/Rome:20261127T200000
 SUMMARY:Limes: la tempesta americana e la fine dei tabù
@@ -117,7 +135,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-le-cose-che-portiamo-con-noi-storie-e-letture@acculturiamoci
  .it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;TZID=Europe/Rome:20261127T183000
 DTEND;TZID=Europe/Rome:20261127T203000
 SUMMARY:Le cose che portiamo con noi: storie e letture
@@ -132,7 +150,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Lo Zar\, di e con Stefano Massini
@@ -147,7 +165,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-limes-il-mondo-ingolfato@acculturiamoci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;TZID=Europe/Rome:20261128T103000
 DTEND;TZID=Europe/Rome:20261128T123000
 SUMMARY:Limes: il mondo ingolfato
@@ -163,7 +181,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-lukas-sternath-pianoforte@acculturiamoci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;TZID=Europe/Rome:20261128T160000
 DTEND;TZID=Europe/Rome:20261128T180000
 SUMMARY:Lukas Sternath\, pianoforte
@@ -176,7 +194,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-limes-ucraina-anno-zero@acculturiamoci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;TZID=Europe/Rome:20261128T163000
 DTEND;TZID=Europe/Rome:20261128T183000
 SUMMARY:Limes: Ucraina anno zero
@@ -193,7 +211,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-limes-l-italia-nell-arco-delle-crisi-con-alessan@acculturiam
  oci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Limes: l'Italia nell'arco delle crisi\, con Alessandro Aresu
@@ -210,7 +228,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-l-analfabeta-federica-fracassi-e-agota-kristof@acculturiamoc
  i.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;TZID=Europe/Rome:20261128T203000
 DTEND;TZID=Europe/Rome:20261128T223000
 SUMMARY:L'analfabeta: Federica Fracassi è Agota Kristof
@@ -225,7 +243,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;TZID=Europe/Rome:20261128T203000
 DTEND;TZID=Europe/Rome:20261128T223000
 SUMMARY:Lo Zar\, di e con Stefano Massini
@@ -240,7 +258,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-caccia-l-drago-di-daniele-timpano@acculturiamoci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;TZID=Europe/Rome:20261128T213000
 DTEND;TZID=Europe/Rome:20261128T233000
 SUMMARY:Caccia 'l Drago\, di Daniele Timpano
@@ -253,7 +271,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-christophe-rousset-al-teatro-del-maggio@acculturiamoci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Christophe Rousset al Teatro del Maggio
@@ -266,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-reading-party-si-legge-insieme-senza-telefono@acculturiamoci
  .it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;TZID=Europe/Rome:20261129T170000
 DTEND;TZID=Europe/Rome:20261129T190000
 SUMMARY:Reading Party: si legge insieme\, senza telefono
@@ -283,7 +301,7 @@ CATEGORIES:Silent reading
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-caccia-l-drago-di-daniele-timpano@acculturiamoci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;TZID=Europe/Rome:20261129T184500
 DTEND;TZID=Europe/Rome:20261129T204500
 SUMMARY:Caccia 'l Drago\, di Daniele Timpano
@@ -297,7 +315,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-figlie-del-secolo-cento-anni-negli-sguardi-delle@acculturiam
  oci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;TZID=Europe/Rome:20261129T210000
 DTEND;TZID=Europe/Rome:20261129T230000
 SUMMARY:Figlie del secolo\, cento anni negli sguardi delle donne
@@ -311,7 +329,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Lo Zar\, di e con Stefano Massini
@@ -327,7 +345,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-the-dark-side-of-the-light-l-inquinamento-lumino@acculturiam
  oci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:The Dark Side of the... Light: l'inquinamento luminoso
@@ -339,7 +357,7 @@ CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-paolo-ciampi-liberta-delle-panchine@acculturiamoci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;TZID=Europe/Rome:20261201T183000
 DTEND;TZID=Europe/Rome:20261201T203000
 SUMMARY:Paolo Ciampi: Libertà delle panchine
@@ -353,7 +371,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-anna-prohaska-e-isabelle-faust@acculturiamoci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Anna Prohaska e Isabelle Faust
@@ -365,7 +383,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Lo Zar\, di e con Stefano Massini
@@ -381,7 +399,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-ricordando-ernesto-ragionieri-cento-anni-dopo@acculturiamoci
  .it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;TZID=Europe/Rome:20261202T173000
 DTEND;TZID=Europe/Rome:20261202T193000
 SUMMARY:Ricordando Ernesto Ragionieri\, cento anni dopo
@@ -396,7 +414,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;TZID=Europe/Rome:20261202T190000
 DTEND;TZID=Europe/Rome:20261202T210000
 SUMMARY:Lo Zar\, di e con Stefano Massini
@@ -411,7 +429,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-il-cielo-del-mese@acculturiamoci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Il cielo del mese
@@ -423,7 +441,7 @@ CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;TZID=Europe/Rome:20261203T190000
 DTEND;TZID=Europe/Rome:20261203T210000
 SUMMARY:Lo Zar\, di e con Stefano Massini
@@ -439,7 +457,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-specchio-riflesso-conferenza-spettacolo-di-luca-@acculturiam
  oci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;TZID=Europe/Rome:20261203T190000
 DTEND;TZID=Europe/Rome:20261203T210000
 SUMMARY:Specchio riflesso: conferenza-spettacolo di Luca Scarlini
@@ -455,7 +473,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-open-mic-stand-up-comedy-night@acculturiamoci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;TZID=Europe/Rome:20261204T210000
 DTEND;TZID=Europe/Rome:20261204T230000
 SUMMARY:Open Mic: Stand Up Comedy Night
@@ -470,7 +488,7 @@ CATEGORIES:Stand-up comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Lo Zar\, di e con Stefano Massini
@@ -486,7 +504,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-tu-mi-sognavi-io-non-dormivo-achmatova-e-modigli@acculturiam
  oci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Tu mi sognavi\, io non dormivo: Achmatova e Modigliani
@@ -501,7 +519,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-woke-cancel-culture-e-decolonizzazione@acculturiamoci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;TZID=Europe/Rome:20261205T110000
 DTEND;TZID=Europe/Rome:20261205T130000
 SUMMARY:Woke\, cancel culture e decolonizzazione
@@ -518,7 +536,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-reading-alla-living-il-romanzo-lo-sceglie-il-pub@acculturiam
  oci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;TZID=Europe/Rome:20261205T190000
 DTEND;TZID=Europe/Rome:20261205T210000
 SUMMARY:Reading alla Living: il romanzo lo sceglie il pubblico
@@ -533,7 +551,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;TZID=Europe/Rome:20261205T203000
 DTEND;TZID=Europe/Rome:20261205T223000
 SUMMARY:Lo Zar\, di e con Stefano Massini
@@ -548,7 +566,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-arsenii-moon-pianoforte@acculturiamoci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Arsenii Moon\, pianoforte
@@ -560,7 +578,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-concerto-di-natale-al-teatro-del-maggio@acculturiamoci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;TZID=Europe/Rome:20261206T180000
 DTEND;TZID=Europe/Rome:20261206T200000
 SUMMARY:Concerto di Natale al Teatro del Maggio
@@ -572,7 +590,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-emanuele-arciuli-pianoforte@acculturiamoci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Emanuele Arciuli\, pianoforte
@@ -584,7 +602,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Lo Zar\, di e con Stefano Massini
@@ -599,7 +617,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-jonathan-canini-te-lo-giuro-sul-tuo-ex@acculturiamoci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;TZID=Europe/Rome:20261214T210000
 DTEND;TZID=Europe/Rome:20261214T230000
 SUMMARY:Jonathan Canini: Te lo giuro sul tuo ex
@@ -612,7 +630,7 @@ CATEGORIES:Stand-up comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-jonathan-canini-te-lo-giuro-sul-tuo-ex@acculturiamoci.it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;TZID=Europe/Rome:20261215T210000
 DTEND;TZID=Europe/Rome:20261215T230000
 SUMMARY:Jonathan Canini: Te lo giuro sul tuo ex

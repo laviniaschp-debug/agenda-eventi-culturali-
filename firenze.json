@@ -31,6 +31,26 @@
   },
   {
    "date": "2026-11-25",
+   "time": "20:00",
+   "title": "La libertà di essere: teatro e arte contro la violenza sulle donne",
+   "venue": "Teatro 13 (via Nicolodi 2)",
+   "cat": "teatro",
+   "desc": "Recital a cura di Pietro Bartolini con gli allievi dell'Accademia Teatrale di Firenze e mostra di pittura diretta da Tiziana Acomanni. Gratis con prenotazione obbligatoria.",
+   "url": "https://www.comune.firenze.it/novita/area-stampa/comunicati-stampa/la-liberta-di-essere-teatro-e-arte-leliminazione-della",
+   "free": true,
+   "tags": [
+    "25novembre"
+   ],
+   "verify": false,
+   "why": "Una sera per ricordarsi che essere libere è il punto di partenza, non un premio.",
+   "id": "f041",
+   "key": "2026-11-25-la-liberta-di-essere-teatro-e-arte-contro-la-vio",
+   "moods": [
+    "emozionarmi"
+   ]
+  },
+  {
+   "date": "2026-11-25",
    "time": "21:00",
    "title": "Ivan e i cani, con Federica Rosellini",
    "venue": "Teatro Puccini (via delle Cascine 41)",
@@ -372,6 +392,32 @@
   },
   {
    "date": "2026-11-29",
+   "time": "17:00",
+   "title": "Reading Party: si legge insieme, senza telefono",
+   "venue": "The Social Hub Firenze Belfiore, Penthouse Rooftop (viale Belfiore 55)",
+   "cat": "silent",
+   "desc": "Libri Sottolineati: un pomeriggio per leggere in silenzio e poi parlarne con sconosciuti, sulla terrazza panoramica. 10 €, su prenotazione.",
+   "url": "https://www.firenzetoday.it/eventi/reading-party-the-social-hub-29-novembre-2026.html",
+   "free": false,
+   "tags": [
+    "silentreading"
+   ],
+   "verify": false,
+   "id": "f019",
+   "key": "2026-11-29-reading-party-si-legge-insieme-senza-telefono",
+   "moods": [
+    "gente",
+    "pensare"
+   ],
+   "geo": [
+    43.7836,
+    11.242
+   ],
+   "zona": "Cascine · Rifredi · Novoli",
+   "why": "Porti il tuo libro, leggi in silenzio, poi conosci chi stava leggendo accanto a te."
+  },
+  {
+   "date": "2026-11-29",
    "time": "18:45",
    "title": "Caccia 'l Drago, di Daniele Timpano",
    "venue": "Ridotto del Teatro Puccini (via delle Cascine 41)",
@@ -436,32 +482,6 @@
     11.261
    ],
    "zona": "Santa Croce · Sant'Ambrogio"
-  },
-  {
-   "date": "2026-11-29",
-   "time": "17:00",
-   "title": "Reading Party: si legge insieme, senza telefono",
-   "venue": "The Social Hub Firenze Belfiore, Penthouse Rooftop (viale Belfiore 55)",
-   "cat": "silent",
-   "desc": "Libri Sottolineati: un pomeriggio per leggere in silenzio e poi parlarne con sconosciuti, sulla terrazza panoramica. 10 €, su prenotazione.",
-   "url": "https://www.firenzetoday.it/eventi/reading-party-the-social-hub-29-novembre-2026.html",
-   "free": false,
-   "tags": [
-    "silentreading"
-   ],
-   "verify": false,
-   "id": "f019",
-   "key": "2026-11-29-reading-party-si-legge-insieme-senza-telefono",
-   "moods": [
-    "gente",
-    "pensare"
-   ],
-   "geo": [
-    43.7836,
-    11.242
-   ],
-   "zona": "Cascine · Rifredi · Novoli",
-   "why": "Porti il tuo libro, leggi in silenzio, poi conosci chi stava leggendo accanto a te."
   },
   {
    "date": "2026-11-29",

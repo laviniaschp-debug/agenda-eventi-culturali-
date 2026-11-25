@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-29-reading-party-si-legge-insieme-senza-telefono@acculturiamoci
  .it
-DTSTAMP:20261125T091715Z
+DTSTAMP:20261125T095404Z
 DTSTART;TZID=Europe/Rome:20261129T170000
 DTEND;TZID=Europe/Rome:20261129T190000
 SUMMARY:Reading Party: si legge insieme\, senza telefono
