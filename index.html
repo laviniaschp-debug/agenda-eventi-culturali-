@@ -31,6 +31,7 @@
 }
 [data-cat="teatro"]{--c:#d9573b;--pc:#fbd9cf}
 [data-cat="comedy"]{--c:#d63a74;--pc:#fde0ea}
+[data-cat="silent"]{--c:#5b6b8c;--pc:#e3e8f3}
 [data-cat="talk"]{--c:#2f6fdf;--pc:#d9e7fb}
 [data-cat="filosofia"]{--c:#7b4fd1;--pc:#e6ddfa}
 [data-cat="storia"]{--c:#a8741f;--pc:#f8ebc2}
@@ -634,12 +635,13 @@ const CITIES = [
   { id:"roma", name:"Roma", live:true, file:"roma.json", cal:"roma-", center:[41.8986, 12.4823] }, { id:"torino", name:"Torino" }, { id:"bologna", name:"Bologna" }, { id:"napoli", name:"Napoli" }
 ];
 const CATS = {
-  teatro:"Teatro", comedy:"Stand-up comedy", talk:"Talk e incontri", filosofia:"Filosofia e psicologia", storia:"Storia e arte",
+  teatro:"Teatro", comedy:"Stand-up comedy", silent:"Silent reading", talk:"Talk e incontri", filosofia:"Filosofia e psicologia", storia:"Storia e arte",
   geo:"Geopolitica e società", scienza:"Scienza", salute:"Salute", classica:"Musica classica", jazz:"Jazz e concerti",
   cinema:"Cinema", famiglie:"Famiglie", tech:"Tech e digitale"
 };
 const ICON = {
   teatro:'<path d="M3 4h18M5 4v16M19 4v16M5 4c3.5 4 3.5 8 0 12M19 4c-3.5 4-3.5 8 0 12"/>',
+  silent:'<path d="M12 6.5C10 5 7 4.5 3.5 5v13c3.5-.5 6.5 0 8.5 1.5 2-1.5 5-2 8.5-1.5V5C17 4.5 14 5 12 6.5zM12 6.5v13"/>',
   comedy:'<rect x="9" y="2.5" width="6" height="11" rx="3"/><path d="M5.5 11a6.5 6.5 0 0 0 13 0M12 17.5V21M8.5 21h7"/>',
   talk:'<path d="M4 5h16v10H10l-5 4v-4H4z"/>',
   filosofia:'<path d="M9 18h6M10 21h4M12 3a6 6 0 0 0-4 10.5V16h8v-2.5A6 6 0 0 0 12 3z"/>',
@@ -656,6 +658,7 @@ const ICON = {
 const THEMES = [
   { id:"teatro", label:"Teatro", cats:["teatro"] },
   { id:"comedy", label:"Stand-up comedy", cats:["comedy"] },
+  { id:"silent", label:"Silent reading", cats:["silent"] },
   { id:"musica", label:"Musica e concerti", cats:["classica","jazz"], icon:"classica" },
   { id:"talk", label:"Talk e incontri", cats:["talk"] },
   { id:"filosofia", label:"Filosofia e psicologia", cats:["filosofia"] },
@@ -672,7 +675,7 @@ const EXPS = [
   { id:"me", label:"Capire me stesso", sub:"psicoanalisi, psicologia, relazioni", em:"🌙", c:"#dfe8d4" },
   { id:"domande", label:"Farmi grandi domande", sub:"filosofia, spiritualità, poesia", em:"🧭", c:"#e9e1cf" },
   { id:"emozionarmi", label:"Emozionarmi", sub:"teatro, concerti, letture", em:"✨", c:"#f7d3e3" },
-  { id:"gente", label:"Conoscere gente curiosa", sub:"dibattiti, laboratori, aperitivi", em:"🥂", c:"#cfede6" },
+  { id:"gente", label:"Conoscere gente curiosa", sub:"dibattiti, silent reading, aperitivi", em:"🥂", c:"#cfede6" },
   { id:"pensare", label:"Capire il mondo", sub:"attualità, scienza, storia, geopolitica", em:"💡", c:"#e6ddfa" },
   { id:"ridere", label:"Farmi una risata", sub:"comicità e ironia", em:"😄", c:"#fce3c2" }
 ];
@@ -743,7 +746,7 @@ function soonText(e){ const m = minsTo(e); if (m == null || m <= 0 || m > 180) r
 function baseMoods(e){
   if (Array.isArray(e.moods)) return e.moods;
   const m = []; if (["talk","filosofia","geo","storia","scienza","salute","tech"].includes(e.cat)) m.push("pensare");
-  if (["classica","jazz","teatro","cinema"].includes(e.cat)) m.push("emozionarmi"); if (e.cat === "famiglie") m.push("bambini"); if (e.cat === "comedy") m.push("ridere"); if (["filosofia","salute"].includes(e.cat)) m.push("dentro"); return m;
+  if (["classica","jazz","teatro","cinema"].includes(e.cat)) m.push("emozionarmi"); if (e.cat === "famiglie") m.push("bambini"); if (e.cat === "comedy") m.push("ridere"); if (e.cat === "silent") m.push("gente"); if (["filosofia","salute"].includes(e.cat)) m.push("dentro"); return m;
 }
 function moodsOf(e){
   if (e._m) return e._m;

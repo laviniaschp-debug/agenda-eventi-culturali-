@@ -442,5 +442,11 @@
   "lat": 45.4857,
   "lng": 9.1719,
   "zona": "Sempione · CityLife"
+ },
+ {
+  "match": "Poldi Pezzoli",
+  "lat": 45.4687,
+  "lng": 9.1916,
+  "zona": "Brera · Garibaldi · Isola"
  }
 ]

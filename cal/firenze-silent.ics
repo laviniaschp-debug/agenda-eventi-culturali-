@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci Firenze · Silent reading
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-29-reading-party-si-legge-insieme-senza-telefono@acculturiamoci
+ .it
+DTSTAMP:20261125T091715Z
+DTSTART;TZID=Europe/Rome:20261129T170000
+DTEND;TZID=Europe/Rome:20261129T190000
+SUMMARY:Reading Party: si legge insieme\, senza telefono
+LOCATION:The Social Hub Firenze Belfiore\, Penthouse Rooftop (viale Belfior
+ e 55)
+DESCRIPTION:Porti il tuo libro\, leggi in silenzio\, poi conosci chi stava 
+ leggendo accanto a te. Libri Sottolineati: un pomeriggio per leggere in si
+ lenzio e poi parlarne con sconosciuti\, sulla terrazza panoramica. 10 €\
+ , su prenotazione. https://www.firenzetoday.it/eventi/reading-party-the-so
+ cial-hub-29-novembre-2026.html
+URL:https://www.firenzetoday.it/eventi/reading-party-the-social-hub-29-nove
+ mbre-2026.html
+CATEGORIES:Silent reading
+END:VEVENT
+END:VCALENDAR

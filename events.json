@@ -2282,6 +2282,32 @@
   },
   {
    "date": "2026-11-27",
+   "time": "19:30",
+   "title": "Silent Book Party Under 35 al Museo Poldi Pezzoli",
+   "venue": "Museo Poldi Pezzoli (via Manzoni 12)",
+   "desc": "Si legge insieme, in silenzio, nelle sale del museo: porta il tuo libro. Gratuito, riservato agli under 35, per BookCity.",
+   "url": "https://museopoldipezzoli.it/scopri/mostre-ed-eventi/",
+   "free": true,
+   "tags": [
+    "bookcity",
+    "silentreading"
+   ],
+   "verify": false,
+   "cat": "silent",
+   "moods": [
+    "gente"
+   ],
+   "id": "e407",
+   "key": "2026-11-27-silent-book-party-under-35-al-museo-poldi-pezzol",
+   "why": "Tre ore a leggere in un museo, senza telefono, tra persone che amano i libri come te.",
+   "geo": [
+    45.4687,
+    9.1916
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-27",
    "time": "19:45",
    "title": "Pazza, con Vanessa Gravina",
    "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
@@ -2838,6 +2864,27 @@
    ],
    "zona": "Porta Romana · Vittoria",
    "why": "Perché ci polarizziamo così tanto? Una chiave per capirlo arriva da Girard."
+  },
+  {
+   "date": "2026-11-28",
+   "time": "11:00",
+   "title": "Silent reading con Jean Marie Del Bo",
+   "venue": "Biblioteca Ostinata",
+   "desc": "Lettura silenziosa condivisa del Sole 24 Ore, condotta da Jean Marie Del Bo, per BookCity.",
+   "url": "https://www.illibraio.it/news/editoria/bookcity-milano-2026-programma-1510670/",
+   "free": true,
+   "tags": [
+    "bookcity",
+    "silentreading"
+   ],
+   "verify": false,
+   "cat": "silent",
+   "moods": [
+    "gente"
+   ],
+   "id": "e408",
+   "key": "2026-11-28-silent-reading-con-jean-marie-del-bo",
+   "why": "Leggere in silenzio, insieme ad altri: il modo più semplice per staccare."
   },
   {
    "date": "2026-11-28",

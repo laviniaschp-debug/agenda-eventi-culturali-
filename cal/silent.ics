@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci Milano · Silent reading
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-27-silent-book-party-under-35-al-museo-poldi-pezzol@acculturiam
+ oci.it
+DTSTAMP:20261125T091715Z
+DTSTART;TZID=Europe/Rome:20261127T193000
+DTEND;TZID=Europe/Rome:20261127T213000
+SUMMARY:Silent Book Party Under 35 al Museo Poldi Pezzoli
+LOCATION:Museo Poldi Pezzoli (via Manzoni 12)
+DESCRIPTION:Tre ore a leggere in un museo\, senza telefono\, tra persone ch
+ e amano i libri come te. Si legge insieme\, in silenzio\, nelle sale del m
+ useo: porta il tuo libro. Gratuito\, riservato agli under 35\, per BookCit
+ y. https://museopoldipezzoli.it/scopri/mostre-ed-eventi/
+URL:https://museopoldipezzoli.it/scopri/mostre-ed-eventi/
+CATEGORIES:Silent reading
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-silent-reading-con-jean-marie-del-bo@acculturiamoci.it
+DTSTAMP:20261125T091715Z
+DTSTART;TZID=Europe/Rome:20261128T110000
+DTEND;TZID=Europe/Rome:20261128T130000
+SUMMARY:Silent reading con Jean Marie Del Bo
+LOCATION:Biblioteca Ostinata
+DESCRIPTION:Leggere in silenzio\, insieme ad altri: il modo più semplice p
+ er staccare. Lettura silenziosa condivisa del Sole 24 Ore\, condotta da Je
+ an Marie Del Bo\, per BookCity. https://www.illibraio.it/news/editoria/boo
+ kcity-milano-2026-programma-1510670/
+URL:https://www.illibraio.it/news/editoria/bookcity-milano-2026-programma-1
+ 510670/
+CATEGORIES:Silent reading
+END:VEVENT
+END:VCALENDAR

@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-ri-generare-con-creativita-forum-nazionale-sulla@acculturiam
  oci.it
-DTSTAMP:20261125T084812Z
+DTSTAMP:20261125T091715Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Ri-generare con creatività: Forum nazionale sulla rigenerazione ur
@@ -45,7 +45,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-monica-cristina-storini-leggere-deledda@acculturiamoci.it
-DTSTAMP:20261125T084812Z
+DTSTAMP:20261125T091715Z
 DTSTART;TZID=Europe/Rome:20261125T173000
 DTEND;TZID=Europe/Rome:20261125T193000
 SUMMARY:Monica Cristina Storini: Leggere Deledda
@@ -60,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-andrea-scarpa-mettetevi-comodi-il-libro-intervis@acculturiam
  oci.it
-DTSTAMP:20261125T084812Z
+DTSTAMP:20261125T091715Z
 DTSTART;TZID=Europe/Rome:20261125T180000
 DTEND;TZID=Europe/Rome:20261125T200000
 SUMMARY:Andrea Scarpa: Mettetevi comodi (il libro-intervista a Renzo Arbore
@@ -75,7 +75,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-nicola-lagioia-santa-barbara@acculturiamoci.it
-DTSTAMP:20261125T084812Z
+DTSTAMP:20261125T091715Z
 DTSTART;TZID=Europe/Rome:20261125T180000
 DTEND;TZID=Europe/Rome:20261125T200000
 SUMMARY:Nicola Lagioia: Santa Barbara
@@ -91,7 +91,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-ri-generare-con-creativita-forum-nazionale-sulla@acculturiam
  oci.it
-DTSTAMP:20261125T084812Z
+DTSTAMP:20261125T091715Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Ri-generare con creatività: Forum nazionale sulla rigenerazione ur
@@ -109,7 +109,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-cesare-pavese-poesie-del-disamore@acculturiamoci.it
-DTSTAMP:20261125T084812Z
+DTSTAMP:20261125T091715Z
 DTSTART;TZID=Europe/Rome:20261126T180000
 DTEND;TZID=Europe/Rome:20261126T200000
 SUMMARY:Cesare Pavese: Poesie del disamore
@@ -124,7 +124,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-giovanna-cuce-la-storia-di-rita-atria@acculturiamoci.it
-DTSTAMP:20261125T084812Z
+DTSTAMP:20261125T091715Z
 DTSTART;TZID=Europe/Rome:20261126T180000
 DTEND;TZID=Europe/Rome:20261126T200000
 SUMMARY:Giovanna Cucè: la storia di Rita Atria
@@ -139,7 +139,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-ri-generare-con-creativita-forum-nazionale-sulla@acculturiam
  oci.it
-DTSTAMP:20261125T084812Z
+DTSTAMP:20261125T091715Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Ri-generare con creatività: Forum nazionale sulla rigenerazione ur
@@ -158,7 +158,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-ri-generare-con-creativita-forum-nazionale-sulla@acculturiam
  oci.it
-DTSTAMP:20261125T084812Z
+DTSTAMP:20261125T091715Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Ri-generare con creatività: Forum nazionale sulla rigenerazione ur
@@ -176,7 +176,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-csaba-dalla-zorza-io-sono-adele@acculturiamoci.it
-DTSTAMP:20261125T084812Z
+DTSTAMP:20261125T091715Z
 DTSTART;TZID=Europe/Rome:20261129T170000
 DTEND;TZID=Europe/Rome:20261129T190000
 SUMMARY:Csaba dalla Zorza: Io sono Adele
@@ -190,7 +190,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-piu-libri-piu-liberi-fiera-della-piccola-e-media@acculturiam
  oci.it
-DTSTAMP:20261125T084812Z
+DTSTAMP:20261125T091715Z
 DTSTART;TZID=Europe/Rome:20261204T100000
 DTEND;TZID=Europe/Rome:20261204T120000
 SUMMARY:Più libri più liberi: fiera della piccola e media editoria
@@ -204,7 +204,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-piu-libri-piu-liberi-fiera-della-piccola-e-media@acculturiam
  oci.it
-DTSTAMP:20261125T084812Z
+DTSTAMP:20261125T091715Z
 DTSTART;TZID=Europe/Rome:20261205T100000
 DTEND;TZID=Europe/Rome:20261205T120000
 SUMMARY:Più libri più liberi: fiera della piccola e media editoria
@@ -217,7 +217,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-piu-libri-piu-liberi-fiera-della-piccola-e-media@acculturiam
  oci.it
-DTSTAMP:20261125T084812Z
+DTSTAMP:20261125T091715Z
 DTSTART;TZID=Europe/Rome:20261206T100000
 DTEND;TZID=Europe/Rome:20261206T120000
 SUMMARY:Più libri più liberi: fiera della piccola e media editoria
@@ -230,7 +230,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-piu-libri-piu-liberi-fiera-della-piccola-e-media@acculturiam
  oci.it
-DTSTAMP:20261125T084812Z
+DTSTAMP:20261125T091715Z
 DTSTART;TZID=Europe/Rome:20261207T100000
 DTEND;TZID=Europe/Rome:20261207T120000
 SUMMARY:Più libri più liberi: fiera della piccola e media editoria
@@ -243,7 +243,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-piu-libri-piu-liberi-fiera-della-piccola-e-media@acculturiam
  oci.it
-DTSTAMP:20261125T084812Z
+DTSTAMP:20261125T091715Z
 DTSTART;TZID=Europe/Rome:20261208T100000
 DTEND;TZID=Europe/Rome:20261208T120000
 SUMMARY:Più libri più liberi: fiera della piccola e media editoria

@@ -439,25 +439,29 @@
   },
   {
    "date": "2026-11-29",
-   "time": "",
+   "time": "17:00",
    "title": "Reading Party: si legge insieme, senza telefono",
-   "venue": "The Social Hub Firenze Belfiore (viale Belfiore 1)",
-   "cat": "talk",
+   "venue": "The Social Hub Firenze Belfiore, Penthouse Rooftop (viale Belfiore 55)",
+   "cat": "silent",
    "desc": "Libri Sottolineati: un pomeriggio per leggere in silenzio e poi parlarne con sconosciuti, sulla terrazza panoramica. 10 €, su prenotazione.",
    "url": "https://www.firenzetoday.it/eventi/reading-party-the-social-hub-29-novembre-2026.html",
    "free": false,
-   "tags": [],
-   "verify": true,
+   "tags": [
+    "silentreading"
+   ],
+   "verify": false,
    "id": "f019",
    "key": "2026-11-29-reading-party-si-legge-insieme-senza-telefono",
    "moods": [
+    "gente",
     "pensare"
    ],
    "geo": [
     43.7836,
     11.242
    ],
-   "zona": "Cascine · Rifredi · Novoli"
+   "zona": "Cascine · Rifredi · Novoli",
+   "why": "Porti il tuo libro, leggi in silenzio, poi conosci chi stava leggendo accanto a te."
   },
   {
    "date": "2026-11-29",
@@ -670,7 +674,7 @@
    "tags": [
     "standup"
    ],
-   "id": "e038",
+   "id": "f038",
    "key": "2026-12-04-open-mic-stand-up-comedy-night",
    "moods": [
     "ridere"
@@ -889,7 +893,7 @@
    "tags": [
     "standup"
    ],
-   "id": "e039",
+   "id": "f039",
    "key": "2026-12-14-jonathan-canini-te-lo-giuro-sul-tuo-ex",
    "moods": [
     "ridere"
@@ -913,7 +917,7 @@
    "tags": [
     "standup"
    ],
-   "id": "e040",
+   "id": "f040",
    "key": "2026-12-15-jonathan-canini-te-lo-giuro-sul-tuo-ex",
    "moods": [
     "ridere"

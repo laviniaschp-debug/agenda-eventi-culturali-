@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-27-la-musica-del-mio-picchio-presentazione-con-lett@acculturiam
  oci.it
-DTSTAMP:20261125T084812Z
+DTSTAMP:20261125T091715Z
 DTSTART;TZID=Europe/Rome:20261127T170000
 DTEND;TZID=Europe/Rome:20261127T190000
 SUMMARY:La musica del mio picchio: presentazione con letture
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-le-cose-che-portiamo-con-noi-storie-e-letture@acculturiamoci
  .it
-DTSTAMP:20261125T084812Z
+DTSTAMP:20261125T091715Z
 DTSTART;TZID=Europe/Rome:20261127T183000
 DTEND;TZID=Europe/Rome:20261127T203000
 SUMMARY:Le cose che portiamo con noi: storie e letture
@@ -57,24 +57,8 @@ URL:https://cultura.comune.fi.it/system/files/2026-09/web-a5-programma_Dial
 CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-29-reading-party-si-legge-insieme-senza-telefono@acculturiamoci
- .it
-DTSTAMP:20261125T084812Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-SUMMARY:Reading Party: si legge insieme\, senza telefono
-LOCATION:The Social Hub Firenze Belfiore (viale Belfiore 1)
-DESCRIPTION:Libri Sottolineati: un pomeriggio per leggere in silenzio e poi
-  parlarne con sconosciuti\, sulla terrazza panoramica. 10 €\, su prenota
- zione. https://www.firenzetoday.it/eventi/reading-party-the-social-hub-29-
- novembre-2026.html
-URL:https://www.firenzetoday.it/eventi/reading-party-the-social-hub-29-nove
- mbre-2026.html
-CATEGORIES:Incontri e talk
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-12-01-paolo-ciampi-liberta-delle-panchine@acculturiamoci.it
-DTSTAMP:20261125T084812Z
+DTSTAMP:20261125T091715Z
 DTSTART;TZID=Europe/Rome:20261201T183000
 DTEND;TZID=Europe/Rome:20261201T203000
 SUMMARY:Paolo Ciampi: Libertà delle panchine

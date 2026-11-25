@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-25-mamma-mia-guida-senza-patente-per-un-amore-sfren@acculturiam
  oci.it
-DTSTAMP:20261125T084812Z
+DTSTAMP:20261125T091715Z
 DTSTART;TZID=Europe/Rome:20261125T180000
 DTEND;TZID=Europe/Rome:20261125T200000
 SUMMARY:Mamma mia! Guida senza patente per un amore sfrenato
@@ -41,7 +41,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-monica-calcagni-il-mio-viaggio-al-fianco-delle-d@acculturiam
  oci.it
-DTSTAMP:20261125T084812Z
+DTSTAMP:20261125T091715Z
 DTSTART;TZID=Europe/Rome:20261127T160000
 DTEND;TZID=Europe/Rome:20261127T180000
 SUMMARY:Monica Calcagni: Il mio viaggio al fianco delle donne
@@ -56,7 +56,7 @@ CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-lo-stetoscopio-parlante-arte-e-malattia@acculturiamoci.it
-DTSTAMP:20261125T084812Z
+DTSTAMP:20261125T091715Z
 DTSTART;TZID=Europe/Rome:20261206T110000
 DTEND;TZID=Europe/Rome:20261206T130000
 SUMMARY:Lo stetoscopio parlante: arte e malattia
@@ -69,7 +69,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-ansia-a-mille-adolescenza-paure-e-liberta-di-sce@acculturiam
  oci.it
-DTSTAMP:20261125T084812Z
+DTSTAMP:20261125T091715Z
 DTSTART;TZID=Europe/Rome:20261207T183000
 DTEND;TZID=Europe/Rome:20261207T203000
 SUMMARY:Ansia a mille: adolescenza\, paure e libertà di scegliere
