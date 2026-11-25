@@ -238,5 +238,23 @@
   "lat": 41.8858,
   "lng": 12.5057,
   "zona": "Esquilino · Monti · San Lorenzo"
+ },
+ {
+  "match": "Teatro Olimpico",
+  "lat": 41.9297,
+  "lng": 12.4683,
+  "zona": "Prati · Aurelio · Flaminio"
+ },
+ {
+  "match": "Teatro Centrale",
+  "lat": 41.8966,
+  "lng": 12.4797,
+  "zona": "Centro storico"
+ },
+ {
+  "match": "Brancaleone",
+  "lat": 41.9303,
+  "lng": 12.5326,
+  "zona": "Parioli · Villa Borghese · Nomentano"
  }
 ]

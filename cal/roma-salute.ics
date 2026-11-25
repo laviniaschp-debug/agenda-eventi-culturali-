@@ -27,34 +27,36 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-25-mamma-mia-guida-senza-patente-per-un-amore-sfren@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261125T180000
 DTEND;TZID=Europe/Rome:20261125T200000
 SUMMARY:Mamma mia! Guida senza patente per un amore sfrenato
 LOCATION:Libreria Eli (viale Somalia 50/a)
-DESCRIPTION:Laura Cervellione presenta il suo libro sulla maternità vissut
- a senza manuali\, tra amore\, dubbi e ironia. https://libreriaeli.it/
+DESCRIPTION:La maternità senza manuali\, tra amore\, dubbi e ironia. Laura
+  Cervellione presenta il suo libro sulla maternità vissuta senza manuali\
+ , tra amore\, dubbi e ironia. https://libreriaeli.it/
 URL:https://libreriaeli.it/
 CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-monica-calcagni-il-mio-viaggio-al-fianco-delle-d@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261127T160000
 DTEND;TZID=Europe/Rome:20261127T180000
 SUMMARY:Monica Calcagni: Il mio viaggio al fianco delle donne
 LOCATION:Spazio Sette (via dei Barbieri 7)
-DESCRIPTION:Una ginecologa racconta il suo lavoro con le donne\, per Librid
- ine. https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-2
- 1-29-novembre-2026.html
+DESCRIPTION:Una ginecologa racconta il suo lavoro al fianco delle donne. Un
+ a ginecologa racconta il suo lavoro con le donne\, per Libridine. https://
+ www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-29-novembre
+ -2026.html
 URL:https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-
  29-novembre-2026.html
 CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-lo-stetoscopio-parlante-arte-e-malattia@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261206T110000
 DTEND;TZID=Europe/Rome:20261206T130000
 SUMMARY:Lo stetoscopio parlante: arte e malattia
@@ -67,7 +69,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-ansia-a-mille-adolescenza-paure-e-liberta-di-sce@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261207T183000
 DTEND;TZID=Europe/Rome:20261207T203000
 SUMMARY:Ansia a mille: adolescenza\, paure e libertà di scegliere

@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-una-societa-piu-equa-e-anche-piu-sana@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261124T110000
 DTEND;TZID=Europe/Rome:20261124T130000
 SUMMARY:Una società più equa è anche più sana?
@@ -38,7 +38,7 @@ CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-over-dance-milano-danza-e-longevita@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261124T160000
 DTEND;TZID=Europe/Rome:20261124T180000
 SUMMARY:Over Dance Milano: danza e longevità
@@ -51,45 +51,48 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-prenditi-il-domani-pensione-e-futuro-istruzioni-@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261126T163000
 DTEND;TZID=Europe/Rome:20261126T183000
 SUMMARY:Prenditi il domani: pensione e futuro\, istruzioni per l'uso
 LOCATION:Università Milano-Bicocca\, Edificio U3 Bios\, aula 09 (piazza de
  lla Scienza 2)
-DESCRIPTION:Seminario aperto a tutti su come funziona la pensione\, l'invec
- chiamento della popolazione e le scelte da fare per tempo\, con domande da
- l pubblico. https://www.unimib.it/node/39125
+DESCRIPTION:Pensi alla pensione solo quando è tardi? Qui spiegano le scelt
+ e da fare per tempo. Seminario aperto a tutti su come funziona la pensione
+ \, l'invecchiamento della popolazione e le scelte da fare per tempo\, con 
+ domande dal pubblico. https://www.unimib.it/node/39125
 URL:https://www.unimib.it/node/39125
 CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-massimo-recalcati-acquaragia-confessioni-di-un-d@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261126T183000
 DTEND;TZID=Europe/Rome:20261126T203000
 SUMMARY:Massimo Recalcati: Acquaragia. Confessioni di un disertore
 LOCATION:Teatro Franco Parenti\, Sala Grande (via Pier Lombardo 14)
-DESCRIPTION:Lo psicoanalista racconta in prima persona fallimenti\, inquiet
- udini e innamoramenti della sua vita. BookCity: ingresso libero fino a esa
- urimento posti. https://teatrofrancoparenti.it/?post_type=spettacolo&p=534
- 42
+DESCRIPTION:Recalcati\, per una volta\, parla di sé: fallimenti\, inquietu
+ dini\, innamoramenti. Lo psicoanalista racconta in prima persona falliment
+ i\, inquietudini e innamoramenti della sua vita. BookCity: ingresso libero
+  fino a esaurimento posti. https://teatrofrancoparenti.it/?post_type=spett
+ acolo&p=53442
 URL:https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442
 CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-human-brains-adolescenza-capire-mente-corpo-e-sa@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261126T200000
 DTEND;TZID=Europe/Rome:20261126T220000
 SUMMARY:Human Brains: Adolescenza\, capire mente\, corpo e salute
 LOCATION:Cinema Godard\, Fondazione Prada
-DESCRIPTION:Documentario Teenage Life Interrupted e lecture di un pediatra 
- su mente e corpo. https://www.mentelocale.it/milano/139227-human-brains-sc
- reen-talk-al-cinema-godard-incontri-e-proiezioni-su-neuroscienze-e-studi-s
- ul-cervello-umano.htm
+DESCRIPTION:Cosa succede nella mente e nel corpo di un adolescente\, con un
+  film e un pediatra. Documentario Teenage Life Interrupted e lecture di un
+  pediatra su mente e corpo. https://www.mentelocale.it/milano/139227-human
+ -brains-screen-talk-al-cinema-godard-incontri-e-proiezioni-su-neuroscienze
+ -e-studi-sul-cervello-umano.htm
 URL:https://www.mentelocale.it/milano/139227-human-brains-screen-talk-al-ci
  nema-godard-incontri-e-proiezioni-su-neuroscienze-e-studi-sul-cervello-uma
  no.htm
@@ -97,7 +100,7 @@ CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-milano-life-science-forum-prevenzione@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261127T093000
 DTEND;TZID=Europe/Rome:20261127T113000
 SUMMARY:Milano Life Science Forum: prevenzione
@@ -114,29 +117,32 @@ CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-alberto-pellai-ti-faro-correre-in-salita@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261128T150000
 DTEND;TZID=Europe/Rome:20261128T170000
 SUMMARY:Alberto Pellai: Ti farò correre in salita
 LOCATION:Teatro Franco Parenti\, Sala APA Blu (via Pier Lombardo 14)
-DESCRIPTION:Lo psicoterapeuta contro l'iperprotezione: perché la fatica re
- nde i ragazzi più liberi. BookCity: ingresso libero fino a esaurimento po
- sti. https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442
+DESCRIPTION:Proteggere i figli da tutto li aiuta davvero? Pellai spiega per
+ ché la fatica li rende liberi. Lo psicoterapeuta contro l'iperprotezione:
+  perché la fatica rende i ragazzi più liberi. BookCity: ingresso libero 
+ fino a esaurimento posti. https://teatrofrancoparenti.it/?post_type=spetta
+ colo&p=53442
 URL:https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442
 CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-quando-la-vita-non-risponde-il-coraggio-di-viver@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Quando la vita non risponde: il coraggio di vivere in larghezza
 LOCATION:Teatro Franco Parenti\, Biblioteca (via Pier Lombardo 14)
-DESCRIPTION:Giustiniano La Vecchia con Pietro Gherardi e Gianni Gaude: cosa
-  fare quando un lavoro finisce\, una certezza crolla e non ci si riconosce
-  più. BookCity\, ingresso libero. https://teatrofrancoparenti.it/spettaco
- lo/bookcity-milano-al-parenti-fp/
+DESCRIPTION:Quando un lavoro finisce e non ti riconosci più: come si ricom
+ incia. Giustiniano La Vecchia con Pietro Gherardi e Gianni Gaude: cosa far
+ e quando un lavoro finisce\, una certezza crolla e non ci si riconosce pi
+ ù. BookCity\, ingresso libero. https://teatrofrancoparenti.it/spettacolo/
+ bookcity-milano-al-parenti-fp/
 URL:https://teatrofrancoparenti.it/spettacolo/bookcity-milano-al-parenti-fp
  /
 CATEGORIES:Psiche e salute
@@ -144,36 +150,38 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-mio-fratello-e-un-cavaliere-jedi-autismo-e-amici@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261128T203000
 DTEND;TZID=Europe/Rome:20261128T223000
 SUMMARY:Mio fratello è un cavaliere Jedi: autismo e amicizia
 LOCATION:Fondazione Corriere della Sera\, Sala Buzzati (via Balzan 3)
-DESCRIPTION:Nico Acampora di PizzAut con Elisabetta Soglio\, dal pregiudizi
- o all'inclusione. BookCity: gratis\, prenotazione obbligatoria. https://ww
- w.fondazionecorriere.corriere.it/iniziative/
+DESCRIPTION:Dal pregiudizio all'inclusione\, raccontato da chi ha creato Pi
+ zzAut. Nico Acampora di PizzAut con Elisabetta Soglio\, dal pregiudizio al
+ l'inclusione. BookCity: gratis\, prenotazione obbligatoria. https://www.fo
+ ndazionecorriere.corriere.it/iniziative/
 URL:https://www.fondazionecorriere.corriere.it/iniziative/
 CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-gherardo-colombo-e-gianluca-marchesini-adolescen@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261129T180000
 DTEND;TZID=Europe/Rome:20261129T200000
 SUMMARY:Gherardo Colombo e Gianluca Marchesini: Adolescenza\, guida per gen
  itori
 LOCATION:Teatro Franco Parenti\, Biblioteca (via Pier Lombardo 14)
-DESCRIPTION:Come distinguere la normale crisi di crescita dal disagio dei r
- agazzi. BookCity: ingresso libero fino a esaurimento posti. https://teatro
- francoparenti.it/?post_type=spettacolo&p=53442
+DESCRIPTION:Crisi di crescita o disagio vero? Come capire la differenza nei
+  ragazzi. Come distinguere la normale crisi di crescita dal disagio dei ra
+ gazzi. BookCity: ingresso libero fino a esaurimento posti. https://teatrof
+ rancoparenti.it/?post_type=spettacolo&p=53442
 URL:https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442
 CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-con-la-colpa-in-mente-tra-responsabilita-e-ripar@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261202T203000
 DTEND;TZID=Europe/Rome:20261202T223000
 SUMMARY:Con la colpa in mente\, tra responsabilità e riparazione
@@ -189,7 +197,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-anni-di-vita-la-longevita-tra-sfide-e-opportunit@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261203T093000
 DTEND;TZID=Europe/Rome:20261203T113000
 SUMMARY:Anni di vita: la longevità tra sfide e opportunità

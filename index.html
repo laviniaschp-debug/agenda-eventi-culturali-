@@ -30,6 +30,7 @@
   color-scheme:light;
 }
 [data-cat="teatro"]{--c:#d9573b;--pc:#fbd9cf}
+[data-cat="comedy"]{--c:#d63a74;--pc:#fde0ea}
 [data-cat="talk"]{--c:#2f6fdf;--pc:#d9e7fb}
 [data-cat="filosofia"]{--c:#7b4fd1;--pc:#e6ddfa}
 [data-cat="storia"]{--c:#a8741f;--pc:#f8ebc2}
@@ -633,12 +634,13 @@ const CITIES = [
   { id:"roma", name:"Roma", live:true, file:"roma.json", cal:"roma-", center:[41.8986, 12.4823] }, { id:"torino", name:"Torino" }, { id:"bologna", name:"Bologna" }, { id:"napoli", name:"Napoli" }
 ];
 const CATS = {
-  teatro:"Teatro", talk:"Talk e incontri", filosofia:"Filosofia e psicologia", storia:"Storia e arte",
+  teatro:"Teatro", comedy:"Stand-up comedy", talk:"Talk e incontri", filosofia:"Filosofia e psicologia", storia:"Storia e arte",
   geo:"Geopolitica e società", scienza:"Scienza", salute:"Salute", classica:"Musica classica", jazz:"Jazz e concerti",
   cinema:"Cinema", famiglie:"Famiglie", tech:"Tech e digitale"
 };
 const ICON = {
   teatro:'<path d="M3 4h18M5 4v16M19 4v16M5 4c3.5 4 3.5 8 0 12M19 4c-3.5 4-3.5 8 0 12"/>',
+  comedy:'<rect x="9" y="2.5" width="6" height="11" rx="3"/><path d="M5.5 11a6.5 6.5 0 0 0 13 0M12 17.5V21M8.5 21h7"/>',
   talk:'<path d="M4 5h16v10H10l-5 4v-4H4z"/>',
   filosofia:'<path d="M9 18h6M10 21h4M12 3a6 6 0 0 0-4 10.5V16h8v-2.5A6 6 0 0 0 12 3z"/>',
   storia:'<path d="M4 20h16M6 20V10M10 20V10M14 20V10M18 20V10M3 10h18L12 4z"/>',
@@ -653,6 +655,7 @@ const ICON = {
 };
 const THEMES = [
   { id:"teatro", label:"Teatro", cats:["teatro"] },
+  { id:"comedy", label:"Stand-up comedy", cats:["comedy"] },
   { id:"musica", label:"Musica e concerti", cats:["classica","jazz"], icon:"classica" },
   { id:"talk", label:"Talk e incontri", cats:["talk"] },
   { id:"filosofia", label:"Filosofia e psicologia", cats:["filosofia"] },
@@ -740,7 +743,7 @@ function soonText(e){ const m = minsTo(e); if (m == null || m <= 0 || m > 180) r
 function baseMoods(e){
   if (Array.isArray(e.moods)) return e.moods;
   const m = []; if (["talk","filosofia","geo","storia","scienza","salute","tech"].includes(e.cat)) m.push("pensare");
-  if (["classica","jazz","teatro","cinema"].includes(e.cat)) m.push("emozionarmi"); if (e.cat === "famiglie") m.push("bambini"); if (["filosofia","salute"].includes(e.cat)) m.push("dentro"); return m;
+  if (["classica","jazz","teatro","cinema"].includes(e.cat)) m.push("emozionarmi"); if (e.cat === "famiglie") m.push("bambini"); if (e.cat === "comedy") m.push("ridere"); if (["filosofia","salute"].includes(e.cat)) m.push("dentro"); return m;
 }
 function moodsOf(e){
   if (e._m) return e._m;
@@ -974,7 +977,7 @@ function render(){
         <rect width="1000" height="480" fill="#f2b02a"/>
         <g fill="#e89a1c" opacity=".6"><rect y="70" width="1000" height="20"/><rect y="125" width="1000" height="20"/><rect y="180" width="1000" height="20"/></g>
         <circle class="misun" cx="690" cy="235" r="168" fill="#c8372d"/>
-        <text x="38" y="408" font-family="Fredoka, Nunito, Arial Rounded MT Bold, sans-serif" font-weight="600" font-size="226" fill="#fdf3dc" letter-spacing="-6">${esc(cityName().toLowerCase())}</text>
+        <text x="38" y="408" font-family="Fredoka, Nunito, Arial Rounded MT Bold, sans-serif" font-weight="600" font-size="226" fill="#fdf3dc" letter-spacing="-6">${esc(cityName())}</text>
         <rect width="1000" height="480" filter="url(#grain)"/>
       </svg>
       <div class="mipills"><span>📍 Sei a ${esc(cityName())}</span>${todayLeft ? `<span><b>${todayLeft}</b> ancora oggi</span>` : ""}</div>

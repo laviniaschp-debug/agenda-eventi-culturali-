@@ -436,5 +436,11 @@
   "lat": 45.4805,
   "lng": 9.2063,
   "zona": "Porta Venezia · Città Studi"
+ },
+ {
+  "match": "Fabbrica del Vapore",
+  "lat": 45.4857,
+  "lng": 9.1719,
+  "zona": "Sempione · CityLife"
  }
 ]

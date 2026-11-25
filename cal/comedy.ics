@@ -1,0 +1,216 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci Milano · Stand-up comedy
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-24-carlotta-spallino-fill-pill-e-cecilia-forastieri@acculturiam
+ oci.it
+DTSTAMP:20261125T084812Z
+DTSTART;TZID=Europe/Rome:20261124T203000
+DTEND;TZID=Europe/Rome:20261124T223000
+SUMMARY:Carlotta Spallino\, Fill Pill e Cecilia Forastieri: stand-up Allo S
+ bagliato
+LOCATION:Allo Sbagliato · Teatro Principe (viale Bligny 52)
+DESCRIPTION:Serata comica nel club off-line diretto da Marco Mengoni: telef
+ oni chiusi in una custodia per tutta la sera. MC Pietro Sparacino. https:/
+ /www.mentelocale.it/milano/141482-carlotta-spallino.htm
+URL:https://www.mentelocale.it/milano/141482-carlotta-spallino.htm
+CATEGORIES:Stand-up comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-paura-stand-up-di-annalisa-aglioti@acculturiamoci.it
+DTSTAMP:20261125T084812Z
+DTSTART;TZID=Europe/Rome:20261125T201500
+DTEND;TZID=Europe/Rome:20261125T221500
+SUMMARY:Paura\, stand-up di Annalisa Aglioti
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Stand-up comedy sulle paure che ci complicano la vita\, regia d
+ i Michela Andreozzi\, con pianoforte dal vivo. 25 €\, under 30 18 €. h
+ ttps://teatrofrancoparenti.it/spettacolo/paura/
+URL:https://teatrofrancoparenti.it/spettacolo/paura/
+CATEGORIES:Stand-up comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-paura-stand-up-di-annalisa-aglioti@acculturiamoci.it
+DTSTAMP:20261125T084812Z
+DTSTART;TZID=Europe/Rome:20261126T203000
+DTEND;TZID=Europe/Rome:20261126T223000
+SUMMARY:Paura\, stand-up di Annalisa Aglioti
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Stand-up comedy sulle paure che ci complicano la vita\, regia d
+ i Michela Andreozzi\, con pianoforte dal vivo. 25 €\, under 30 18 €. h
+ ttps://teatrofrancoparenti.it/spettacolo/paura/
+URL:https://teatrofrancoparenti.it/spettacolo/paura/
+CATEGORIES:Stand-up comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-paura-stand-up-di-annalisa-aglioti@acculturiamoci.it
+DTSTAMP:20261125T084812Z
+DTSTART;TZID=Europe/Rome:20261127T190000
+DTEND;TZID=Europe/Rome:20261127T210000
+SUMMARY:Paura\, stand-up di Annalisa Aglioti
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Stand-up comedy sulle paure che ci complicano la vita\, regia d
+ i Michela Andreozzi\, con pianoforte dal vivo. 25 €\, under 30 18 €. h
+ ttps://teatrofrancoparenti.it/spettacolo/paura/
+URL:https://teatrofrancoparenti.it/spettacolo/paura/
+CATEGORIES:Stand-up comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-paura-stand-up-di-annalisa-aglioti@acculturiamoci.it
+DTSTAMP:20261125T084812Z
+DTSTART;TZID=Europe/Rome:20261128T190000
+DTEND;TZID=Europe/Rome:20261128T210000
+SUMMARY:Paura\, stand-up di Annalisa Aglioti
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Stand-up comedy sulle paure che ci complicano la vita\, regia d
+ i Michela Andreozzi\, con pianoforte dal vivo. 25 €\, under 30 18 €. h
+ ttps://teatrofrancoparenti.it/spettacolo/paura/
+URL:https://teatrofrancoparenti.it/spettacolo/paura/
+CATEGORIES:Stand-up comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-paura-stand-up-di-annalisa-aglioti@acculturiamoci.it
+DTSTAMP:20261125T084812Z
+DTSTART;TZID=Europe/Rome:20261129T163000
+DTEND;TZID=Europe/Rome:20261129T183000
+SUMMARY:Paura\, stand-up di Annalisa Aglioti
+LOCATION:Teatro Franco Parenti (via Pier Lombardo 14)
+DESCRIPTION:Stand-up comedy sulle paure che ci complicano la vita\, regia d
+ i Michela Andreozzi\, con pianoforte dal vivo. 25 €\, under 30 18 €. h
+ ttps://teatrofrancoparenti.it/spettacolo/paura/
+URL:https://teatrofrancoparenti.it/spettacolo/paura/
+CATEGORIES:Stand-up comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-alessandro-cattelan-benvenuto-nell-ai@acculturiamoci.it
+DTSTAMP:20261125T084812Z
+DTSTART;TZID=Europe/Rome:20261130T210000
+DTEND;TZID=Europe/Rome:20261130T230000
+SUMMARY:Alessandro Cattelan\, Benvenuto nell'AI!
+LOCATION:Teatro Lirico Giorgio Gaber (via Larga 14)
+DESCRIPTION:One man show. https://www.mentelocale.it/milano/133146-alessand
+ ro-cattelan-benvenuto-nell-ai.htm
+URL:https://www.mentelocale.it/milano/133146-alessandro-cattelan-benvenuto-
+ nell-ai.htm
+CATEGORIES:Stand-up comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-giulia-torelli-e-claudio-pavese-non-ho-mai-live@acculturiamo
+ ci.it
+DTSTAMP:20261125T084812Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Giulia Torelli e Claudio Pavese: Non ho mai Live
+LOCATION:Fabbrica del Vapore\, Cattedrale (via Procaccini 4)
+DESCRIPTION:La versione dal vivo di "Non ho mai"\, tra confessioni e risate
+  con il pubblico. Orario e biglietti sulla pagina dell'evento. https://ple
+ asestandup.it/serate/giulia-torelli-claudio-pavese-non-ho-mai-live-milano-
+ 1-dicembre-2026/
+URL:https://pleasestandup.it/serate/giulia-torelli-claudio-pavese-non-ho-ma
+ i-live-milano-1-dicembre-2026/
+CATEGORIES:Stand-up comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-ghemon-la-prima-volta-l-ultima-volta-l-unica-vol@acculturiam
+ oci.it
+DTSTAMP:20261125T084812Z
+DTSTART;TZID=Europe/Rome:20261202T210000
+DTEND;TZID=Europe/Rome:20261202T230000
+SUMMARY:Ghemon: La prima volta\, l'ultima volta\, l'unica volta
+LOCATION:Teatro Lirico Giorgio Gaber (via Larga 14)
+DESCRIPTION:Il secondo spettacolo di stand-up del rapper Ghemon: un raccont
+ o comico molto personale\, senza rete. Da 25 euro. https://pleasestandup.i
+ t/serate/ghemon-la-prima-volta-lultima-volta-lunica-volta-milano-2-dicembr
+ e-2026/
+URL:https://pleasestandup.it/serate/ghemon-la-prima-volta-lultima-volta-lun
+ ica-volta-milano-2-dicembre-2026/
+CATEGORIES:Stand-up comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-mercomedy-serata-di-stand-up@acculturiamoci.it
+DTSTAMP:20261125T084812Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Mercomedy: serata di stand-up
+LOCATION:Ghe Pensi Mi
+DESCRIPTION:La serata collettiva del mercoledì: più comici sullo stesso p
+ alco. Orario sulla pagina dell'evento. https://pleasestandup.it/serate/mer
+ comedy-02-dicembre-2026/
+URL:https://pleasestandup.it/serate/mercomedy-02-dicembre-2026/
+CATEGORIES:Stand-up comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-raul-and-ram-stand-up-comedy-in-english@acculturiamoci.it
+DTSTAMP:20261125T084812Z
+DTSTART;TZID=Europe/Rome:20261203T200000
+DTEND;TZID=Europe/Rome:20261203T220000
+SUMMARY:Raul and Ram: stand-up comedy in English
+LOCATION:Slow Mill
+DESCRIPTION:Una serata di stand-up in inglese. 17 euro. https://allevents.i
+ n/milano/comedy
+URL:https://allevents.in/milano/comedy
+CATEGORIES:Stand-up comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-stefano-rapone-allo-sbagliato@acculturiamoci.it
+DTSTAMP:20261125T084812Z
+DTSTART;TZID=Europe/Rome:20261209T203000
+DTEND;TZID=Europe/Rome:20261209T223000
+SUMMARY:Stefano Rapone Allo Sbagliato
+LOCATION:Allo Sbagliato · Teatro Principe (viale Bligny 52)
+DESCRIPTION:Stand-up nel club off-line di Marco Mengoni al Teatro Principe\
+ , senza telefoni. https://www.mentelocale.it/milano/141488-stefano-rapone.
+ htm
+URL:https://www.mentelocale.it/milano/141488-stefano-rapone.htm
+CATEGORIES:Stand-up comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-francesca-reggiani-e-chiara-becchimanzi-a-noi-gl@acculturiam
+ oci.it
+DTSTAMP:20261125T084812Z
+DTSTART;TZID=Europe/Rome:20261209T203000
+DTEND;TZID=Europe/Rome:20261209T223000
+SUMMARY:Francesca Reggiani e Chiara Becchimanzi: A noi gli occhi por favor
+LOCATION:Teatro Carcano (corso di Porta Romana 63)
+DESCRIPTION:Due comiche\, due generazioni\, uno spettacolo insieme. https:/
+ /iltaccodibacco.it/lombardia/cabaret/
+URL:https://iltaccodibacco.it/lombardia/cabaret/
+CATEGORIES:Stand-up comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-luca-ravenna-allo-sbagliato@acculturiamoci.it
+DTSTAMP:20261125T084812Z
+DTSTART;TZID=Europe/Rome:20261215T203000
+DTEND;TZID=Europe/Rome:20261215T223000
+SUMMARY:Luca Ravenna Allo Sbagliato
+LOCATION:Allo Sbagliato · Teatro Principe (viale Bligny 52)
+DESCRIPTION:Stand-up tra attualità e racconto personale\, nel club off-lin
+ e senza telefoni. https://www.mentelocale.it/milano/141485-luca-ravenna.ht
+ m
+URL:https://www.mentelocale.it/milano/141485-luca-ravenna.htm
+CATEGORIES:Stand-up comedy
+END:VEVENT
+END:VCALENDAR

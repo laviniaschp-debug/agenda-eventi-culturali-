@@ -24,7 +24,7 @@ WHY = os.path.join(ROOT, "tools", "why.json")
 CAL = os.path.join(ROOT, "cal")
 
 CAT_NAMES = {
-    "teatro": "Teatro", "talk": "Incontri e talk", "filosofia": "Filosofia",
+    "teatro": "Teatro", "comedy": "Stand-up comedy", "talk": "Incontri e talk", "filosofia": "Filosofia",
     "storia": "Arte e storia", "geo": "Geopolitica", "salute": "Psiche e salute",
     "scienza": "Scienza", "classica": "Classica e chiese", "jazz": "Jazz e live",
     "cinema": "Cinema", "famiglie": "Famiglie", "tech": "Tech e digitale",
@@ -51,6 +51,7 @@ MOOD_BY_CAT = {
     "pensare": {"talk", "filosofia", "geo", "storia", "scienza", "salute", "tech"},
     "emozionarmi": {"classica", "jazz", "teatro", "cinema"},
     "bambini": {"famiglie"},
+    "ridere": {"comedy"},
 }
 
 

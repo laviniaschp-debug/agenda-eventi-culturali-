@@ -473,7 +473,7 @@
    "time": "20:30",
    "title": "Carlotta Spallino, Fill Pill e Cecilia Forastieri: stand-up Allo Sbagliato",
    "venue": "Allo Sbagliato · Teatro Principe (viale Bligny 52)",
-   "cat": "teatro",
+   "cat": "comedy",
    "desc": "Serata comica nel club off-line diretto da Marco Mengoni: telefoni chiusi in una custodia per tutta la sera. MC Pietro Sparacino.",
    "url": "https://www.mentelocale.it/milano/141482-carlotta-spallino.htm",
    "free": false,
@@ -1048,7 +1048,7 @@
    "time": "20:15",
    "title": "Paura, stand-up di Annalisa Aglioti",
    "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
-   "cat": "teatro",
+   "cat": "comedy",
    "desc": "Stand-up comedy sulle paure che ci complicano la vita, regia di Michela Andreozzi, con pianoforte dal vivo. 25 €, under 30 18 €.",
    "url": "https://teatrofrancoparenti.it/spettacolo/paura/",
    "free": false,
@@ -1873,7 +1873,7 @@
    "time": "20:30",
    "title": "Paura, stand-up di Annalisa Aglioti",
    "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
-   "cat": "teatro",
+   "cat": "comedy",
    "desc": "Stand-up comedy sulle paure che ci complicano la vita, regia di Michela Andreozzi, con pianoforte dal vivo. 25 €, under 30 18 €.",
    "url": "https://teatrofrancoparenti.it/spettacolo/paura/",
    "free": false,
@@ -2240,7 +2240,7 @@
    "time": "19:00",
    "title": "Paura, stand-up di Annalisa Aglioti",
    "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
-   "cat": "teatro",
+   "cat": "comedy",
    "desc": "Stand-up comedy sulle paure che ci complicano la vita, regia di Michela Andreozzi, con pianoforte dal vivo. 25 €, under 30 18 €.",
    "url": "https://teatrofrancoparenti.it/spettacolo/paura/",
    "free": false,
@@ -3411,7 +3411,7 @@
    "time": "19:00",
    "title": "Paura, stand-up di Annalisa Aglioti",
    "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
-   "cat": "teatro",
+   "cat": "comedy",
    "desc": "Stand-up comedy sulle paure che ci complicano la vita, regia di Michela Andreozzi, con pianoforte dal vivo. 25 €, under 30 18 €.",
    "url": "https://teatrofrancoparenti.it/spettacolo/paura/",
    "free": false,
@@ -4641,7 +4641,7 @@
    "time": "16:30",
    "title": "Paura, stand-up di Annalisa Aglioti",
    "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
-   "cat": "teatro",
+   "cat": "comedy",
    "desc": "Stand-up comedy sulle paure che ci complicano la vita, regia di Michela Andreozzi, con pianoforte dal vivo. 25 €, under 30 18 €.",
    "url": "https://teatrofrancoparenti.it/spettacolo/paura/",
    "free": false,
@@ -5159,7 +5159,7 @@
    "time": "21:00",
    "title": "Alessandro Cattelan, Benvenuto nell'AI!",
    "venue": "Teatro Lirico Giorgio Gaber (via Larga 14)",
-   "cat": "teatro",
+   "cat": "comedy",
    "desc": "One man show.",
    "url": "https://www.mentelocale.it/milano/133146-alessandro-cattelan-benvenuto-nell-ai.htm",
    "free": null,
@@ -5168,7 +5168,8 @@
    "id": "e153",
    "key": "2026-11-30-alessandro-cattelan-benvenuto-nell-ai",
    "moods": [
-    "emozionarmi"
+    "emozionarmi",
+    "ridere"
    ],
    "geo": [
     45.4615,
@@ -5605,6 +5606,31 @@
    "zona": "Fuori centro"
   },
   {
+   "date": "2026-12-01",
+   "time": "",
+   "title": "Giulia Torelli e Claudio Pavese: Non ho mai Live",
+   "venue": "Fabbrica del Vapore, Cattedrale (via Procaccini 4)",
+   "desc": "La versione dal vivo di \"Non ho mai\", tra confessioni e risate con il pubblico. Orario e biglietti sulla pagina dell'evento.",
+   "url": "https://pleasestandup.it/serate/giulia-torelli-claudio-pavese-non-ho-mai-live-milano-1-dicembre-2026/",
+   "free": false,
+   "verify": true,
+   "cat": "comedy",
+   "tags": [
+    "standup"
+   ],
+   "id": "e402",
+   "key": "2026-12-01-giulia-torelli-e-claudio-pavese-non-ho-mai-live",
+   "moods": [
+    "dentro",
+    "ridere"
+   ],
+   "geo": [
+    45.4857,
+    9.1719
+   ],
+   "zona": "Sempione · CityLife"
+  },
+  {
    "date": "2026-12-02",
    "time": "17:00",
    "title": "Federico Nicoletta, Ti va di ballare?",
@@ -5903,6 +5929,30 @@
   },
   {
    "date": "2026-12-02",
+   "time": "21:00",
+   "title": "Ghemon: La prima volta, l'ultima volta, l'unica volta",
+   "venue": "Teatro Lirico Giorgio Gaber (via Larga 14)",
+   "desc": "Il secondo spettacolo di stand-up del rapper Ghemon: un racconto comico molto personale, senza rete. Da 25 euro.",
+   "url": "https://pleasestandup.it/serate/ghemon-la-prima-volta-lultima-volta-lunica-volta-milano-2-dicembre-2026/",
+   "free": false,
+   "verify": false,
+   "cat": "comedy",
+   "tags": [
+    "standup"
+   ],
+   "id": "e403",
+   "key": "2026-12-02-ghemon-la-prima-volta-l-ultima-volta-l-unica-vol",
+   "moods": [
+    "ridere"
+   ],
+   "geo": [
+    45.4615,
+    9.1925
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-02",
    "time": "21:30",
    "title": "Noir in Festival: Furies di Rami Kodeih",
    "venue": "Anteo Palazzo del Cinema",
@@ -5944,6 +5994,25 @@
     9.103
    ],
    "zona": "Fuori centro"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "",
+   "title": "Mercomedy: serata di stand-up",
+   "venue": "Ghe Pensi Mi",
+   "desc": "La serata collettiva del mercoledì: più comici sullo stesso palco. Orario sulla pagina dell'evento.",
+   "url": "https://pleasestandup.it/serate/mercomedy-02-dicembre-2026/",
+   "free": false,
+   "verify": true,
+   "cat": "comedy",
+   "tags": [
+    "standup"
+   ],
+   "id": "e404",
+   "key": "2026-12-02-mercomedy-serata-di-stand-up",
+   "moods": [
+    "ridere"
+   ]
   },
   {
    "date": "2026-12-03",
@@ -6100,6 +6169,25 @@
     9.208
    ],
    "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "20:00",
+   "title": "Raul and Ram: stand-up comedy in English",
+   "venue": "Slow Mill",
+   "desc": "Una serata di stand-up in inglese. 17 euro.",
+   "url": "https://allevents.in/milano/comedy",
+   "free": false,
+   "verify": false,
+   "cat": "comedy",
+   "tags": [
+    "standup"
+   ],
+   "id": "e405",
+   "key": "2026-12-03-raul-and-ram-stand-up-comedy-in-english",
+   "moods": [
+    "ridere"
+   ]
   },
   {
    "date": "2026-12-03",
@@ -6946,7 +7034,7 @@
    "time": "20:30",
    "title": "Stefano Rapone Allo Sbagliato",
    "venue": "Allo Sbagliato · Teatro Principe (viale Bligny 52)",
-   "cat": "teatro",
+   "cat": "comedy",
    "desc": "Stand-up nel club off-line di Marco Mengoni al Teatro Principe, senza telefoni.",
    "url": "https://www.mentelocale.it/milano/141488-stefano-rapone.htm",
    "free": false,
@@ -6961,6 +7049,30 @@
    "geo": [
     45.4521,
     9.1965
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "20:30",
+   "title": "Francesca Reggiani e Chiara Becchimanzi: A noi gli occhi por favor",
+   "venue": "Teatro Carcano (corso di Porta Romana 63)",
+   "desc": "Due comiche, due generazioni, uno spettacolo insieme.",
+   "url": "https://iltaccodibacco.it/lombardia/cabaret/",
+   "free": false,
+   "verify": false,
+   "cat": "comedy",
+   "tags": [
+    "standup"
+   ],
+   "id": "e406",
+   "key": "2026-12-09-francesca-reggiani-e-chiara-becchimanzi-a-noi-gl",
+   "moods": [
+    "ridere"
+   ],
+   "geo": [
+    45.4547,
+    9.1966
    ],
    "zona": "Porta Romana · Vittoria"
   },
@@ -8090,7 +8202,7 @@
    "time": "20:30",
    "title": "Luca Ravenna Allo Sbagliato",
    "venue": "Allo Sbagliato · Teatro Principe (viale Bligny 52)",
-   "cat": "teatro",
+   "cat": "comedy",
    "desc": "Stand-up tra attualità e racconto personale, nel club off-line senza telefoni.",
    "url": "https://www.mentelocale.it/milano/141485-luca-ravenna.htm",
    "free": false,

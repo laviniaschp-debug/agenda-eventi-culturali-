@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-25-lezioni-di-ascolto-valvole-contro-transistor@acculturiamoci.
  it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261125T200000
 DTEND;TZID=Europe/Rome:20261125T220000
 SUMMARY:Lezioni di ascolto: valvole contro transistor
@@ -40,7 +40,7 @@ CATEGORIES:Tech e digitale
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-il-lavoro-informatico-e-l-ai-quale-futuro@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261203T093000
 DTEND;TZID=Europe/Rome:20261203T113000
 SUMMARY:Il lavoro informatico e l'AI: quale futuro?

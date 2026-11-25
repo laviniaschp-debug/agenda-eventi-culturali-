@@ -441,6 +441,25 @@
   },
   {
    "date": "2026-11-25",
+   "time": "21:30",
+   "title": "Stand-up comedy al B-Folk",
+   "venue": "B-Folk (via dei Faggi 129/A)",
+   "desc": "Ogni mercoledì il B-Folk apre il palco alla stand-up. 5 euro con tessera.",
+   "url": "https://pleasestandup.it/serate/stand-up-comedy-roma-25-novembre-2026/",
+   "free": false,
+   "verify": false,
+   "cat": "comedy",
+   "tags": [
+    "standup"
+   ],
+   "id": "e119",
+   "key": "2026-11-25-stand-up-comedy-al-b-folk",
+   "moods": [
+    "ridere"
+   ]
+  },
+  {
+   "date": "2026-11-25",
    "time": "",
    "title": "Eugenio in Via Di Gioia",
    "venue": "Atlantico (viale dell'Oceano Atlantico 271)",
@@ -1549,6 +1568,30 @@
   },
   {
    "date": "2026-11-29",
+   "time": "12:00",
+   "title": "Comedian per Gaza: una giornata di stand-up",
+   "venue": "C.S. Brancaleone",
+   "desc": "Sei turni di stand-up dalle 12 alle 22, con tra gli altri Daniele Fabbri, Velia Lalli, Carlotta Spallino, Beatrice Rigillo e Xhuliano Dule.",
+   "url": "https://pleasestandup.it/serate/comedian-per-gaza-roma-1200-headliner-giulio-armeni-luca-zesi-eduardo-mattiozzi-mc-leo-masti/",
+   "free": false,
+   "verify": false,
+   "cat": "comedy",
+   "tags": [
+    "standup"
+   ],
+   "id": "e123",
+   "key": "2026-11-29-comedian-per-gaza-una-giornata-di-stand-up",
+   "moods": [
+    "ridere"
+   ],
+   "geo": [
+    41.9303,
+    12.5326
+   ],
+   "zona": "Parioli · Villa Borghese · Nomentano"
+  },
+  {
+   "date": "2026-11-29",
    "time": "16:30",
    "title": "Cercasi Elfo: lettura e laboratorio",
    "venue": "Una Montagnola di Storie (via Fonte Buono 33)",
@@ -2050,6 +2093,25 @@
   },
   {
    "date": "2026-12-02",
+   "time": "21:30",
+   "title": "Stand-up comedy al B-Folk",
+   "venue": "B-Folk (via dei Faggi 129/A)",
+   "desc": "Ogni mercoledì il B-Folk apre il palco alla stand-up. 5 euro con tessera.",
+   "url": "https://zero.eu/en/eventi/377059-stand-up-comedy-roma-2026-12,roma/",
+   "free": false,
+   "verify": false,
+   "cat": "comedy",
+   "tags": [
+    "standup"
+   ],
+   "id": "e120",
+   "key": "2026-12-02-stand-up-comedy-al-b-folk",
+   "moods": [
+    "ridere"
+   ]
+  },
+  {
+   "date": "2026-12-02",
    "time": "",
    "title": "Peccato che fosse una sgualdrina",
    "venue": "Teatro Argentina",
@@ -2136,6 +2198,30 @@
     12.5115
    ],
    "zona": "Parioli · Villa Borghese · Nomentano"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "20:30",
+   "title": "Maurizio Lastrico: Sul Lastrico",
+   "venue": "Teatro Olimpico (piazza Gentile da Fabriano 17)",
+   "desc": "Teatro, cabaret e stand-up: la comicità di Lastrico costruita sul linguaggio e sulla vita di tutti i giorni.",
+   "url": "https://pleasestandup.it/serate/maurizio-lastrico-sul-lastrico-roma-3-dicembre-2026/",
+   "free": false,
+   "verify": false,
+   "cat": "comedy",
+   "tags": [
+    "standup"
+   ],
+   "id": "e124",
+   "key": "2026-12-03-maurizio-lastrico-sul-lastrico",
+   "moods": [
+    "ridere"
+   ],
+   "geo": [
+    41.9297,
+    12.4683
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
   },
   {
    "date": "2026-12-03",
@@ -2479,6 +2565,25 @@
    "zona": "Prati · Aurelio · Flaminio"
   },
   {
+   "date": "2026-12-09",
+   "time": "21:30",
+   "title": "Stand-up comedy al B-Folk",
+   "venue": "B-Folk (via dei Faggi 129/A)",
+   "desc": "Ogni mercoledì il B-Folk apre il palco alla stand-up. 5 euro con tessera.",
+   "url": "https://zero.eu/en/eventi/377060-stand-up-comedy-roma-2026-13,roma/",
+   "free": false,
+   "verify": false,
+   "cat": "comedy",
+   "tags": [
+    "standup"
+   ],
+   "id": "e121",
+   "key": "2026-12-09-stand-up-comedy-al-b-folk",
+   "moods": [
+    "ridere"
+   ]
+  },
+  {
    "date": "2026-12-10",
    "time": "16:00",
    "title": "Esperide · Lazio medievale: il Sacro Speco di Subiaco",
@@ -2592,6 +2697,30 @@
    "time": ""
   },
   {
+   "date": "2026-12-11",
+   "time": "",
+   "title": "An Idiot's Guide to Wine: stand-up e degustazione",
+   "venue": "Teatro Centrale (via Celsa 6)",
+   "desc": "Stand-up comedy con degustazione di vino, in italiano, circa 70 minuti. Solo maggiorenni, da 32 euro. Orario sulla pagina dei biglietti.",
+   "url": "https://www.roma-events.it/2026/11/12/risate-e-serate-comiche-spettacoli-da-vedere-nei-prossimi-mesi/",
+   "free": false,
+   "verify": true,
+   "cat": "comedy",
+   "tags": [
+    "standup"
+   ],
+   "id": "e125",
+   "key": "2026-12-11-an-idiot-s-guide-to-wine-stand-up-e-degustazione",
+   "moods": [
+    "ridere"
+   ],
+   "geo": [
+    41.8966,
+    12.4797
+   ],
+   "zona": "Centro storico"
+  },
+  {
    "date": "2026-12-13",
    "time": "10:00",
    "title": "Essere e tempo: la vecchiaia, tra arte e psicoanalisi",
@@ -2639,6 +2768,25 @@
    "zona": "Esquilino · Monti · San Lorenzo"
   },
   {
+   "date": "2026-12-16",
+   "time": "21:30",
+   "title": "Stand-up comedy al B-Folk",
+   "venue": "B-Folk (via dei Faggi 129/A)",
+   "desc": "Ogni mercoledì il B-Folk apre il palco alla stand-up. 5 euro con tessera.",
+   "url": "https://zero.eu/en/eventi/377061-stand-up-comedy-roma-2026-14,roma/",
+   "free": false,
+   "verify": false,
+   "cat": "comedy",
+   "tags": [
+    "standup"
+   ],
+   "id": "e122",
+   "key": "2026-12-16-stand-up-comedy-al-b-folk",
+   "moods": [
+    "ridere"
+   ]
+  },
+  {
    "date": "2026-12-17",
    "time": "20:30",
    "title": "Concerto di Natale: Mozart, Mendelssohn e Händel a San Paolo entro le Mura",
@@ -2661,6 +2809,30 @@
     12.4939
    ],
    "zona": "Esquilino · Monti · San Lorenzo"
+  },
+  {
+   "date": "2026-12-18",
+   "time": "",
+   "title": "An Idiot's Guide to Wine: stand-up e degustazione",
+   "venue": "Teatro Centrale (via Celsa 6)",
+   "desc": "Stand-up comedy con degustazione di vino, in italiano, circa 70 minuti. Solo maggiorenni, da 32 euro. Orario sulla pagina dei biglietti.",
+   "url": "https://www.roma-events.it/2026/11/12/risate-e-serate-comiche-spettacoli-da-vedere-nei-prossimi-mesi/",
+   "free": false,
+   "verify": true,
+   "cat": "comedy",
+   "tags": [
+    "standup"
+   ],
+   "id": "e126",
+   "key": "2026-12-18-an-idiot-s-guide-to-wine-stand-up-e-degustazione",
+   "moods": [
+    "ridere"
+   ],
+   "geo": [
+    41.8966,
+    12.4797
+   ],
+   "zona": "Centro storico"
   }
  ],
  "mostre": []

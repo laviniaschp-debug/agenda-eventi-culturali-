@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-daniel-pennac-apre-la-nuova-feltrinelli-centrale@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261124T120000
 DTEND;TZID=Europe/Rome:20261124T140000
 SUMMARY:Daniel Pennac apre la nuova Feltrinelli Centrale
@@ -41,7 +41,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-otello-l-ultima-maschera-tragica@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261124T150000
 DTEND;TZID=Europe/Rome:20261124T170000
 SUMMARY:Otello: l'ultima maschera tragica
@@ -53,7 +53,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-daniel-pennac-presenta-mallet@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261124T183000
 DTEND;TZID=Europe/Rome:20261124T203000
 SUMMARY:Daniel Pennac presenta Mallet
@@ -68,7 +68,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-arturo-perez-reverte@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261125T160000
 DTEND;TZID=Europe/Rome:20261125T180000
 SUMMARY:Arturo Pérez-Reverte
@@ -83,7 +83,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-prima-delle-prime-otello@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261125T180000
 DTEND;TZID=Europe/Rome:20261125T200000
 SUMMARY:Prima delle Prime: Otello
@@ -97,7 +97,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-tonino-carotone-e-federico-traversa-il-maestro-d@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261125T200000
 DTEND;TZID=Europe/Rome:20261125T220000
 SUMMARY:Tonino Carotone e Federico Traversa: Il Maestro dell'Ora Brava
@@ -110,7 +110,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-letture-e-note-al-museo-guido-cantelli@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261126T180000
 DTEND;TZID=Europe/Rome:20261126T200000
 SUMMARY:Letture e note al museo: Guido Cantelli
@@ -121,15 +121,15 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-fabio-volo-quando-l-amore-ti-sorprende@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261126T200000
 DTEND;TZID=Europe/Rome:20261126T220000
 SUMMARY:Fabio Volo\, Quando l'amore ti sorprende
 LOCATION:Castello Sforzesco\, Sala Viscontea
-DESCRIPTION:BookCity: ingresso libero fino a esaurimento posti\, per alcuni
-  incontri serve prenotare su bookcitymilano.it. https://www.mentelocale.it
- /milano/145491-bookcity-milano-2026-programma-ospiti-temi-eventi-da-non-pe
- rdere.htm
+DESCRIPTION:Per chi pensa di aver già capito tutto sull'amore. BookCity: i
+ ngresso libero fino a esaurimento posti\, per alcuni incontri serve prenot
+ are su bookcitymilano.it. https://www.mentelocale.it/milano/145491-bookcit
+ y-milano-2026-programma-ospiti-temi-eventi-da-non-perdere.htm
 URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
  -ospiti-temi-eventi-da-non-perdere.htm
 CATEGORIES:Incontri e talk
@@ -137,7 +137,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-la-scala-dei-libri-francesco-filidei-e-silvia-le@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261127T173000
 DTEND;TZID=Europe/Rome:20261127T193000
 SUMMARY:La Scala dei libri: Francesco Filidei e Silvia Lelli
@@ -150,7 +150,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-vincenzo-latronico-work-in-progress@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261127T183000
 DTEND;TZID=Europe/Rome:20261127T203000
 SUMMARY:Vincenzo Latronico\, Work in progress
@@ -166,7 +166,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-beppe-severgnini-l-arte-di-sopravvivere-poeticam@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261128T110000
 DTEND;TZID=Europe/Rome:20261128T130000
 SUMMARY:Beppe Severgnini: L'arte di sopravvivere poeticamente
@@ -183,7 +183,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-saba-che-danza-la-speranza-saba-poori-con-federi@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261128T113000
 DTEND;TZID=Europe/Rome:20261128T133000
 SUMMARY:Saba che danza la speranza: Saba Poori con Federico Taddia
@@ -197,22 +197,23 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-il-realismo-terminale-poesia-e-mondo-degli-ogget@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261128T123000
 DTEND;TZID=Europe/Rome:20261128T143000
 SUMMARY:Il realismo terminale: poesia e mondo degli oggetti
 LOCATION:Teatro Franco Parenti\, Biblioteca (via Pier Lombardo 14)
-DESCRIPTION:Guido Oldani con Pierangelo Dacrema e Luca Grancini sul movimen
- to poetico che racconta un'umanità sommersa dalle cose. BookCity\, ingres
- so libero. https://teatrofrancoparenti.it/spettacolo/bookcity-milano-al-pa
- renti-fp/
+DESCRIPTION:Sommersi dalle cose: la poesia che racconta il nostro rapporto 
+ con gli oggetti. Guido Oldani con Pierangelo Dacrema e Luca Grancini sul m
+ ovimento poetico che racconta un'umanità sommersa dalle cose. BookCity\, 
+ ingresso libero. https://teatrofrancoparenti.it/spettacolo/bookcity-milano
+ -al-parenti-fp/
 URL:https://teatrofrancoparenti.it/spettacolo/bookcity-milano-al-parenti-fp
  /
 CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-matteo-bussola-il-sole-nelle-pozzanghere@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261128T123000
 DTEND;TZID=Europe/Rome:20261128T143000
 SUMMARY:Matteo Bussola: Il sole nelle pozzanghere
@@ -225,7 +226,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-alessandro-perissinotto-il-gioco-del-gatto@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261128T150000
 DTEND;TZID=Europe/Rome:20261128T170000
 SUMMARY:Alessandro Perissinotto: Il gioco del gatto
@@ -239,7 +240,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-marco-malvaldi-e-samantha-bruzzone-la-scala-di-s@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261128T163000
 DTEND;TZID=Europe/Rome:20261128T183000
 SUMMARY:Marco Malvaldi e Samantha Bruzzone: La scala di seta
@@ -252,7 +253,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-ermanno-cavazzoni-saro-breve@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261128T170000
 DTEND;TZID=Europe/Rome:20261128T190000
 SUMMARY:Ermanno Cavazzoni\, Sarò breve
@@ -267,7 +268,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-andrea-vitali-parola-di-perpetua@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Andrea Vitali: Parola di perpetua
@@ -280,7 +281,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-fernando-aramburu-presenta-maite@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Fernando Aramburu presenta Maite
@@ -295,7 +296,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-jean-echenoz-a-bookcity@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Jean Echenoz a BookCity
@@ -309,7 +310,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-la-scala-dei-libri-a-dirci-le-cose-chiare-don-gi@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:La Scala dei libri: A dirci le cose chiare\, Don Giovanni
@@ -322,7 +323,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-bff-books-friends-forever@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:BFF – Books Friends Forever
@@ -337,7 +338,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-sicilia-storie-di-donne-santina-cosetta-e-milena@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261129T110000
 DTEND;TZID=Europe/Rome:20261129T130000
 SUMMARY:Sicilia: storie di donne. Santina Cosetta e Milena Palminteri
@@ -351,7 +352,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-alice-basso-e-rossella-carboni-evelina-non-e-paz@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261129T113000
 DTEND;TZID=Europe/Rome:20261129T133000
 SUMMARY:Alice Basso e Rossella Carboni: Evelina non è pazza per niente
@@ -365,7 +366,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-zerocalcare-dove-andiamo-da-qui-zero@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261129T120000
 DTEND;TZID=Europe/Rome:20261129T140000
 SUMMARY:Zerocalcare\, Dove andiamo da qui\, Zero?
@@ -380,7 +381,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-lorenzo-marone-stile-napoletano@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261129T123000
 DTEND;TZID=Europe/Rome:20261129T143000
 SUMMARY:Lorenzo Marone: Stile napoletano
@@ -394,7 +395,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-massimo-gramellini-beato-il-popolo-che-ha-bisogn@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261129T123000
 DTEND;TZID=Europe/Rome:20261129T143000
 SUMMARY:Massimo Gramellini: Beato il popolo che ha bisogno di eroi
@@ -407,7 +408,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-rosa-matteucci-a-bookcity@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261129T123000
 DTEND;TZID=Europe/Rome:20261129T143000
 SUMMARY:Rosa Matteucci a BookCity
@@ -419,7 +420,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-bruno-morchio-un-velo-sul-cuore@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261129T150000
 DTEND;TZID=Europe/Rome:20261129T170000
 SUMMARY:Bruno Morchio: Un velo sul cuore
@@ -433,7 +434,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-mario-fortunato-l-arte-di-non-perdere-il-colpevo@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261129T153000
 DTEND;TZID=Europe/Rome:20261129T173000
 SUMMARY:Mario Fortunato: L'arte di non perdere il colpevole
@@ -447,21 +448,22 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-la-lettura-amore-dis-amore@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261129T160000
 DTEND;TZID=Europe/Rome:20261129T180000
 SUMMARY:La Lettura: #amore(dis)amore
 LOCATION:Fondazione Corriere della Sera\, Sala Buzzati (via Balzan 3)
-DESCRIPTION:La festa annuale dell'inserto culturale del Corriere\, quest'an
- no sull'amore e il disamore. BookCity: gratis\, prenotazione obbligatoria.
-  https://www.fondazionecorriere.corriere.it/iniziative/la-lettura-6/
+DESCRIPTION:Perché l'amore finisce? La festa della Lettura prova a rispond
+ ere. La festa annuale dell'inserto culturale del Corriere\, quest'anno sul
+ l'amore e il disamore. BookCity: gratis\, prenotazione obbligatoria. https
+ ://www.fondazionecorriere.corriere.it/iniziative/la-lettura-6/
 URL:https://www.fondazionecorriere.corriere.it/iniziative/la-lettura-6/
 CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-alicia-gimenez-bartlett-sotto-il-cielo-infernale@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261129T163000
 DTEND;TZID=Europe/Rome:20261129T183000
 SUMMARY:Alicia Giménez-Bartlett\, Sotto il cielo infernale
@@ -476,7 +478,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-diego-de-silva-malinconico-blues@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261129T163000
 DTEND;TZID=Europe/Rome:20261129T183000
 SUMMARY:Diego De Silva: Malinconico blues
@@ -489,7 +491,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-paolo-di-paolo-tremare@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261129T180000
 DTEND;TZID=Europe/Rome:20261129T200000
 SUMMARY:Paolo Di Paolo: Tremare
@@ -503,7 +505,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-chiusura-bookcity-samantha-harvey-e-paolo-giorda@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261129T200000
 DTEND;TZID=Europe/Rome:20261129T220000
 SUMMARY:Chiusura BookCity: Samantha Harvey e Paolo Giordano
@@ -520,21 +522,23 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-lezioni-di-poesia-giuseppe-gioachino-belli-il-pl@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261201T180000
 DTEND;TZID=Europe/Rome:20261201T200000
 SUMMARY:Lezioni di poesia: Giuseppe Gioachino Belli\, il plebeo metafisico
 LOCATION:Fondazione Corriere della Sera\, Sala Buzzati (via Balzan 3)
-DESCRIPTION:Una lezione sul poeta dei sonetti romaneschi. Ingresso libero c
- on prenotazione obbligatoria su fondazionecorriere.corriere.it. https://ww
- w.fondazionecorriere.corriere.it/iniziative/lezioni-di-poesia-belli/
+DESCRIPTION:Il poeta dei sonetti romaneschi\, plebeo e metafisico: una lezi
+ one per riscoprirlo. Una lezione sul poeta dei sonetti romaneschi. Ingress
+ o libero con prenotazione obbligatoria su fondazionecorriere.corriere.it. 
+ https://www.fondazionecorriere.corriere.it/iniziative/lezioni-di-poesia-be
+ lli/
 URL:https://www.fondazionecorriere.corriere.it/iniziative/lezioni-di-poesia
  -belli/
 CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-c-e-ancora-posto-per-l-universita@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261202T173000
 DTEND;TZID=Europe/Rome:20261202T193000
 SUMMARY:C'è ancora posto per l'università?
@@ -549,7 +553,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-l-angelo-ribelle-e-il-dio-geloso@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261203T180000
 DTEND;TZID=Europe/Rome:20261203T200000
 SUMMARY:L'angelo ribelle e il Dio geloso
@@ -562,7 +566,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-paolo-ruffini-presenta-sono-io@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261203T180000
 DTEND;TZID=Europe/Rome:20261203T200000
 SUMMARY:Paolo Ruffini presenta Sono io
@@ -576,7 +580,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-milva-e-la-storia-di-dischi-ricordi@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261209T183000
 DTEND;TZID=Europe/Rome:20261209T203000
 SUMMARY:Milva e la storia di Dischi Ricordi
@@ -589,7 +593,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-moni-ovadia-legge-la-laudato-si@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261218T200000
 DTEND;TZID=Europe/Rome:20261218T220000
 SUMMARY:Moni Ovadia legge la Laudato si'

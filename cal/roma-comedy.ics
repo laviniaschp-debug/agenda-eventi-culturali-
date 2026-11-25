@@ -1,0 +1,140 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci Roma · Stand-up comedy
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-25-stand-up-comedy-al-b-folk@acculturiamoci.it
+DTSTAMP:20261125T084812Z
+DTSTART;TZID=Europe/Rome:20261125T213000
+DTEND;TZID=Europe/Rome:20261125T233000
+SUMMARY:Stand-up comedy al B-Folk
+LOCATION:B-Folk (via dei Faggi 129/A)
+DESCRIPTION:Ogni mercoledì il B-Folk apre il palco alla stand-up. 5 euro c
+ on tessera. https://pleasestandup.it/serate/stand-up-comedy-roma-25-novemb
+ re-2026/
+URL:https://pleasestandup.it/serate/stand-up-comedy-roma-25-novembre-2026/
+CATEGORIES:Stand-up comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-comedian-per-gaza-una-giornata-di-stand-up@acculturiamoci.it
+DTSTAMP:20261125T084812Z
+DTSTART;TZID=Europe/Rome:20261129T120000
+DTEND;TZID=Europe/Rome:20261129T140000
+SUMMARY:Comedian per Gaza: una giornata di stand-up
+LOCATION:C.S. Brancaleone
+DESCRIPTION:Sei turni di stand-up dalle 12 alle 22\, con tra gli altri Dani
+ ele Fabbri\, Velia Lalli\, Carlotta Spallino\, Beatrice Rigillo e Xhuliano
+  Dule. https://pleasestandup.it/serate/comedian-per-gaza-roma-1200-headlin
+ er-giulio-armeni-luca-zesi-eduardo-mattiozzi-mc-leo-masti/
+URL:https://pleasestandup.it/serate/comedian-per-gaza-roma-1200-headliner-g
+ iulio-armeni-luca-zesi-eduardo-mattiozzi-mc-leo-masti/
+CATEGORIES:Stand-up comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-stand-up-comedy-al-b-folk@acculturiamoci.it
+DTSTAMP:20261125T084812Z
+DTSTART;TZID=Europe/Rome:20261202T213000
+DTEND;TZID=Europe/Rome:20261202T233000
+SUMMARY:Stand-up comedy al B-Folk
+LOCATION:B-Folk (via dei Faggi 129/A)
+DESCRIPTION:Ogni mercoledì il B-Folk apre il palco alla stand-up. 5 euro c
+ on tessera. https://zero.eu/en/eventi/377059-stand-up-comedy-roma-2026-12\
+ ,roma/
+URL:https://zero.eu/en/eventi/377059-stand-up-comedy-roma-2026-12,roma/
+CATEGORIES:Stand-up comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-maurizio-lastrico-sul-lastrico@acculturiamoci.it
+DTSTAMP:20261125T084812Z
+DTSTART;TZID=Europe/Rome:20261203T203000
+DTEND;TZID=Europe/Rome:20261203T223000
+SUMMARY:Maurizio Lastrico: Sul Lastrico
+LOCATION:Teatro Olimpico (piazza Gentile da Fabriano 17)
+DESCRIPTION:Teatro\, cabaret e stand-up: la comicità di Lastrico costruita
+  sul linguaggio e sulla vita di tutti i giorni. https://pleasestandup.it/s
+ erate/maurizio-lastrico-sul-lastrico-roma-3-dicembre-2026/
+URL:https://pleasestandup.it/serate/maurizio-lastrico-sul-lastrico-roma-3-d
+ icembre-2026/
+CATEGORIES:Stand-up comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-stand-up-comedy-al-b-folk@acculturiamoci.it
+DTSTAMP:20261125T084812Z
+DTSTART;TZID=Europe/Rome:20261209T213000
+DTEND;TZID=Europe/Rome:20261209T233000
+SUMMARY:Stand-up comedy al B-Folk
+LOCATION:B-Folk (via dei Faggi 129/A)
+DESCRIPTION:Ogni mercoledì il B-Folk apre il palco alla stand-up. 5 euro c
+ on tessera. https://zero.eu/en/eventi/377060-stand-up-comedy-roma-2026-13\
+ ,roma/
+URL:https://zero.eu/en/eventi/377060-stand-up-comedy-roma-2026-13,roma/
+CATEGORIES:Stand-up comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-an-idiot-s-guide-to-wine-stand-up-e-degustazione@acculturiam
+ oci.it
+DTSTAMP:20261125T084812Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:An Idiot's Guide to Wine: stand-up e degustazione
+LOCATION:Teatro Centrale (via Celsa 6)
+DESCRIPTION:Stand-up comedy con degustazione di vino\, in italiano\, circa 
+ 70 minuti. Solo maggiorenni\, da 32 euro. Orario sulla pagina dei bigliett
+ i. https://www.roma-events.it/2026/11/12/risate-e-serate-comiche-spettacol
+ i-da-vedere-nei-prossimi-mesi/
+URL:https://www.roma-events.it/2026/11/12/risate-e-serate-comiche-spettacol
+ i-da-vedere-nei-prossimi-mesi/
+CATEGORIES:Stand-up comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-stand-up-comedy-al-b-folk@acculturiamoci.it
+DTSTAMP:20261125T084812Z
+DTSTART;TZID=Europe/Rome:20261216T213000
+DTEND;TZID=Europe/Rome:20261216T233000
+SUMMARY:Stand-up comedy al B-Folk
+LOCATION:B-Folk (via dei Faggi 129/A)
+DESCRIPTION:Ogni mercoledì il B-Folk apre il palco alla stand-up. 5 euro c
+ on tessera. https://zero.eu/en/eventi/377061-stand-up-comedy-roma-2026-14\
+ ,roma/
+URL:https://zero.eu/en/eventi/377061-stand-up-comedy-roma-2026-14,roma/
+CATEGORIES:Stand-up comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-an-idiot-s-guide-to-wine-stand-up-e-degustazione@acculturiam
+ oci.it
+DTSTAMP:20261125T084812Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:An Idiot's Guide to Wine: stand-up e degustazione
+LOCATION:Teatro Centrale (via Celsa 6)
+DESCRIPTION:Stand-up comedy con degustazione di vino\, in italiano\, circa 
+ 70 minuti. Solo maggiorenni\, da 32 euro. Orario sulla pagina dei bigliett
+ i. https://www.roma-events.it/2026/11/12/risate-e-serate-comiche-spettacol
+ i-da-vedere-nei-prossimi-mesi/
+URL:https://www.roma-events.it/2026/11/12/risate-e-serate-comiche-spettacol
+ i-da-vedere-nei-prossimi-mesi/
+CATEGORIES:Stand-up comedy
+END:VEVENT
+END:VCALENDAR

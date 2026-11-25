@@ -3,7 +3,7 @@
  "updated": "2026-11-24T23:59:00+01:00",
  "range": [
   "2026-11-24",
-  "2026-12-07"
+  "2026-12-15"
  ],
  "mostre": [],
  "events": [
@@ -659,6 +659,25 @@
   },
   {
    "date": "2026-12-04",
+   "time": "21:00",
+   "title": "Open Mic: Stand Up Comedy Night",
+   "venue": "Binomio Firenze",
+   "desc": "Comici professionisti e nuovi talenti provano materiale inedito, presenta Marcello Pastore. Gratis con biglietto, porte alle 20:30.",
+   "url": "https://www.eventbrite.it/e/open-mic-stand-up-comedy-night-firenze-tickets-2002497154896",
+   "free": true,
+   "verify": false,
+   "cat": "comedy",
+   "tags": [
+    "standup"
+   ],
+   "id": "e038",
+   "key": "2026-12-04-open-mic-stand-up-comedy-night",
+   "moods": [
+    "ridere"
+   ]
+  },
+  {
+   "date": "2026-12-04",
    "time": "",
    "title": "Lo Zar, di e con Stefano Massini",
    "venue": "Teatro della Pergola (via della Pergola 12/32)",
@@ -856,6 +875,54 @@
     11.261
    ],
    "zona": "Santa Croce · Sant'Ambrogio"
+  },
+  {
+   "date": "2026-12-14",
+   "time": "21:00",
+   "title": "Jonathan Canini: Te lo giuro sul tuo ex",
+   "venue": "Teatro Puccini (via delle Cascine 41)",
+   "desc": "Il nuovo spettacolo comico di Jonathan Canini. Da 17 euro.",
+   "url": "https://www.ticketone.it/city/firenze-220/teatro-58/stand-up-comedy-3037/",
+   "free": false,
+   "verify": false,
+   "cat": "comedy",
+   "tags": [
+    "standup"
+   ],
+   "id": "e039",
+   "key": "2026-12-14-jonathan-canini-te-lo-giuro-sul-tuo-ex",
+   "moods": [
+    "ridere"
+   ],
+   "geo": [
+    43.7849,
+    11.2291
+   ],
+   "zona": "Cascine · Rifredi · Novoli"
+  },
+  {
+   "date": "2026-12-15",
+   "time": "21:00",
+   "title": "Jonathan Canini: Te lo giuro sul tuo ex",
+   "venue": "Teatro Puccini (via delle Cascine 41)",
+   "desc": "Il nuovo spettacolo comico di Jonathan Canini. Da 17 euro.",
+   "url": "https://www.ticketone.it/city/firenze-220/teatro-58/stand-up-comedy-3037/",
+   "free": false,
+   "verify": false,
+   "cat": "comedy",
+   "tags": [
+    "standup"
+   ],
+   "id": "e040",
+   "key": "2026-12-15-jonathan-canini-te-lo-giuro-sul-tuo-ex",
+   "moods": [
+    "ridere"
+   ],
+   "geo": [
+    43.7849,
+    11.2291
+   ],
+   "zona": "Cascine · Rifredi · Novoli"
   }
  ]
 }

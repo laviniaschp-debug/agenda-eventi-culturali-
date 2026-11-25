@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-25-solisti-aquilani-con-anna-tifu@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261125T204500
 DTEND;TZID=Europe/Rome:20261125T224500
 SUMMARY:Solisti Aquilani con Anna Tifu
@@ -39,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-sonate-e-ballate-i-giovani-del-conservatorio-a-c@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261126T163000
 DTEND;TZID=Europe/Rome:20261126T183000
 SUMMARY:Sonate e Ballate: i giovani del Conservatorio a Casa Verdi
@@ -52,7 +52,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-concerto-civile-giorgio-ambrosoli@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261126T200000
 DTEND;TZID=Europe/Rome:20261126T220000
 SUMMARY:Concerto civile Giorgio Ambrosoli
@@ -64,7 +64,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-a-flauto-e-cembalo-milano-arte-musica@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:A flauto e cembalo (Milano Arte Musica)
@@ -78,7 +78,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-beethoven-triplo-concerto-musorgskij-quadri@acculturiamoci.i
  t
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261127T200000
 DTEND;TZID=Europe/Rome:20261127T220000
 SUMMARY:Beethoven Triplo concerto / Musorgskij Quadri
@@ -91,12 +91,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-nun-komm-der-heiden-heiland-bach-e-lotti-in-san-@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261128T163000
 DTEND;TZID=Europe/Rome:20261128T183000
 SUMMARY:Nun komm der Heiden Heiland: Bach e Lotti in San Satiro
 LOCATION:Basilica di Santa Maria presso San Satiro (via Torino 17/19)
-DESCRIPTION:Concerto spirituale d'Avvento (rassegna Parola e musica in Avve
+DESCRIPTION:Fermarsi prima di Natale: Bach e Lotti per coro e organo\, in S
+ an Satiro. Concerto spirituale d'Avvento (rassegna Parola e musica in Avve
  nto) del Coro Glass Armonico diretto da Anita Dordoni\, Matteo Galli all'o
  rgano. Ingresso libero fino a esaurimento posti. https://www.mi-lorenteggi
  o.com/2026/11/11/concerto-nun-komm-der-heiden-heiland-in-santa-maria-press
@@ -108,7 +109,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-inaugurazione-anno-accademico-del-conservatorio@acculturiamo
  ci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Inaugurazione anno accademico del Conservatorio
@@ -119,7 +120,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-saint-nicolas-di-britten@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Saint Nicolas di Britten
@@ -131,7 +132,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-trio-david-con-emanuele-orsini@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Trio David con Emanuele Orsini
@@ -144,7 +145,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-tjeknavorian-e-i-solisti-della-sinfonica-bartok-@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261129T110000
 DTEND;TZID=Europe/Rome:20261129T130000
 SUMMARY:Tjeknavorian e i Solisti della Sinfonica: Bartók\, Schubert
@@ -157,7 +158,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-beethoven-triplo-concerto-musorgskij-quadri@acculturiamoci.i
  t
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261129T160000
 DTEND;TZID=Europe/Rome:20261129T180000
 SUMMARY:Beethoven Triplo concerto / Musorgskij Quadri
@@ -169,7 +170,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-don-giovanni-in-versione-opera-breve@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261129T170000
 DTEND;TZID=Europe/Rome:20261129T190000
 SUMMARY:Don Giovanni in versione Opera Breve
@@ -185,7 +186,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-filarmonica-della-scala-dir-timothy-brock@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261129T200000
 DTEND;TZID=Europe/Rome:20261129T220000
 SUMMARY:Filarmonica della Scala\, dir. Timothy Brock
@@ -196,7 +197,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-il-canto-di-orfeo-inner-spaces@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261130T203000
 DTEND;TZID=Europe/Rome:20261130T223000
 SUMMARY:Il canto di Orfeo (INNER_SPACES)
@@ -210,7 +211,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-orchestra-dell-universita-bicocca-vivaldi-bach-p@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261130T203000
 DTEND;TZID=Europe/Rome:20261130T223000
 SUMMARY:Orchestra dell'Università Bicocca: Vivaldi\, Bach\, Pleyel
@@ -222,7 +223,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-fabrizio-meloni-e-mari-fujino@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261130T204500
 DTEND;TZID=Europe/Rome:20261130T224500
 SUMMARY:Fabrizio Meloni e Mari Fujino
@@ -236,7 +237,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-ettore-pagano-e-maximilian-kromer@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261201T203000
 DTEND;TZID=Europe/Rome:20261201T223000
 SUMMARY:Ettore Pagano e Maximilian Kromer
@@ -250,7 +251,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-federico-nicoletta-ti-va-di-ballare@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261202T170000
 DTEND;TZID=Europe/Rome:20261202T190000
 SUMMARY:Federico Nicoletta\, Ti va di ballare?
@@ -263,7 +264,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-paul-lewis-mozart@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261202T204500
 DTEND;TZID=Europe/Rome:20261202T224500
 SUMMARY:Paul Lewis\, Mozart+
@@ -277,7 +278,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-i-virtuosi-del-teatro-alla-scala-per-vidas@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261202T210000
 DTEND;TZID=Europe/Rome:20261202T230000
 SUMMARY:I Virtuosi del Teatro alla Scala per Vidas
@@ -291,7 +292,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-trii-di-schumann-e-mendelssohn-a-casa-verdi@acculturiamoci.i
  t
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261203T163000
 DTEND;TZID=Europe/Rome:20261203T183000
 SUMMARY:Trii di Schumann e Mendelssohn a Casa Verdi
@@ -304,7 +305,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-otello-anteprima-under-30@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261204T180000
 DTEND;TZID=Europe/Rome:20261204T200000
 SUMMARY:Otello: anteprima Under 30
@@ -317,7 +318,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-freddy-kempf-pianoforte@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261204T204500
 DTEND;TZID=Europe/Rome:20261204T224500
 SUMMARY:Freddy Kempf\, pianoforte
@@ -330,7 +331,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-concerto-spirituale-d-avvento-in-san-satiro@acculturiamoci.i
  t
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261205T163000
 DTEND;TZID=Europe/Rome:20261205T183000
 SUMMARY:Concerto spirituale d'Avvento in San Satiro
@@ -345,7 +346,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-otello-la-prima-della-scala@acculturiamoci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261207T180000
 DTEND;TZID=Europe/Rome:20261207T200000
 SUMMARY:Otello: la Prima della Scala
@@ -358,7 +359,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-lidia-bramani-don-giovanni-mozart-massone-e-illu@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261211T183000
 DTEND;TZID=Europe/Rome:20261211T203000
 SUMMARY:Lidia Bramani: Don Giovanni\, Mozart massone e illuminista
@@ -373,7 +374,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-concerto-spirituale-d-avvento-in-san-satiro@acculturiamoci.i
  t
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261212T163000
 DTEND;TZID=Europe/Rome:20261212T183000
 SUMMARY:Concerto spirituale d'Avvento in San Satiro
@@ -389,7 +390,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-concerto-spirituale-d-avvento-in-san-satiro-ulti@acculturiam
  oci.it
-DTSTAMP:20261124T230751Z
+DTSTAMP:20261125T084812Z
 DTSTART;TZID=Europe/Rome:20261219T163000
 DTEND;TZID=Europe/Rome:20261219T183000
 SUMMARY:Concerto spirituale d'Avvento in San Satiro (ultimo della rassegna)
