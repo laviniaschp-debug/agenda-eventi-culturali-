@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-26-paolo-di-paolo-tremare@acculturiamoci.it
-DTSTAMP:20261126T080456Z
+DTSTAMP:20261126T084637Z
 DTSTART;TZID=Europe/Rome:20261126T210000
 DTEND;TZID=Europe/Rome:20261126T230000
 SUMMARY:Paolo Di Paolo: Tremare
@@ -39,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-ersilia-vaudo-una-storia-cosmica-di-luce-e-oscur@acculturiam
  oci.it
-DTSTAMP:20261126T080456Z
+DTSTAMP:20261126T084637Z
 DTSTART;TZID=Europe/Rome:20261127T183000
 DTEND;TZID=Europe/Rome:20261127T203000
 SUMMARY:Ersilia Vaudo: una storia cosmica di luce e oscurità
@@ -52,7 +52,7 @@ CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-vizi-stravizi-e-invenzioni-letterarie@acculturiamoci.it
-DTSTAMP:20261126T080456Z
+DTSTAMP:20261126T084637Z
 DTSTART;TZID=Europe/Rome:20261127T210000
 DTEND;TZID=Europe/Rome:20261127T230000
 SUMMARY:Vizi\, stravizi e invenzioni letterarie
@@ -64,7 +64,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-gli-archetti-del-polo-2-5-anni@acculturiamoci.it
-DTSTAMP:20261126T080456Z
+DTSTAMP:20261126T084637Z
 DTSTART;TZID=Europe/Rome:20261128T163000
 DTEND;TZID=Europe/Rome:20261128T183000
 SUMMARY:Gli archetti del Polo (2-5 anni)
@@ -77,7 +77,7 @@ CATEGORIES:Famiglie
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-donatella-di-pietrantonio-lasciarsi-tardi@acculturiamoci.it
-DTSTAMP:20261126T080456Z
+DTSTAMP:20261126T084637Z
 DTSTART;TZID=Europe/Rome:20261201T210000
 DTEND;TZID=Europe/Rome:20261201T230000
 SUMMARY:Donatella Di Pietrantonio: Lasciarsi tardi
@@ -91,7 +91,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-belle-lettere@acculturiamoci.it
-DTSTAMP:20261126T080456Z
+DTSTAMP:20261126T084637Z
 DTSTART;TZID=Europe/Rome:20261202T190000
 DTEND;TZID=Europe/Rome:20261202T210000
 SUMMARY:Belle lettere
@@ -104,7 +104,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-osn-rai-daniele-rustioni-e-roman-simovic@acculturiamoci.it
-DTSTAMP:20261126T080456Z
+DTSTAMP:20261126T084637Z
 DTSTART;TZID=Europe/Rome:20261203T203000
 DTEND;TZID=Europe/Rome:20261203T223000
 SUMMARY:OSN Rai: Daniele Rustioni e Roman Simovic
@@ -119,7 +119,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-osn-rai-daniele-rustioni-e-roman-simovic@acculturiamoci.it
-DTSTAMP:20261126T080456Z
+DTSTAMP:20261126T084637Z
 DTSTART;TZID=Europe/Rome:20261204T200000
 DTEND;TZID=Europe/Rome:20261204T220000
 SUMMARY:OSN Rai: Daniele Rustioni e Roman Simovic
@@ -134,7 +134,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-festival-del-classico-alberto-angela-apre-polite@acculturiam
  oci.it
-DTSTAMP:20261126T080456Z
+DTSTAMP:20261126T084637Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Festival del Classico: Alberto Angela apre Politeia/Convivenze
@@ -151,7 +151,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-osn-rai-michele-mariotti-dirige-schubert-e-strau@acculturiam
  oci.it
-DTSTAMP:20261126T080456Z
+DTSTAMP:20261126T084637Z
 DTSTART;TZID=Europe/Rome:20261210T203000
 DTEND;TZID=Europe/Rome:20261210T223000
 SUMMARY:OSN Rai: Michele Mariotti dirige Schubert e Strauss
@@ -167,7 +167,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-festival-del-classico-dialogo-sulla-pace-con-zup@acculturiam
  oci.it
-DTSTAMP:20261126T080456Z
+DTSTAMP:20261126T084637Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Festival del Classico: dialogo sulla pace con Zuppi\, Caracciolo e 
@@ -184,7 +184,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-osn-rai-michele-mariotti-dirige-schubert-e-strau@acculturiam
  oci.it
-DTSTAMP:20261126T080456Z
+DTSTAMP:20261126T084637Z
 DTSTART;TZID=Europe/Rome:20261211T200000
 DTEND;TZID=Europe/Rome:20261211T220000
 SUMMARY:OSN Rai: Michele Mariotti dirige Schubert e Strauss
@@ -199,7 +199,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-cinema-e-psicoanalisi-i-nuovi-teatri-dell-isteri@acculturiam
  oci.it
-DTSTAMP:20261126T080456Z
+DTSTAMP:20261126T084637Z
 DTSTART;TZID=Europe/Rome:20261216T210000
 DTEND;TZID=Europe/Rome:20261216T230000
 SUMMARY:Cinema e psicoanalisi: i (nuovi) teatri dell'isteria
@@ -213,7 +213,7 @@ CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-osn-rai-ravel-e-la-symphonie-fantastique@acculturiamoci.it
-DTSTAMP:20261126T080456Z
+DTSTAMP:20261126T084637Z
 DTSTART;TZID=Europe/Rome:20261217T203000
 DTEND;TZID=Europe/Rome:20261217T223000
 SUMMARY:OSN Rai: Ravel e la Symphonie fantastique
@@ -228,7 +228,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-osn-rai-ravel-e-la-symphonie-fantastique@acculturiamoci.it
-DTSTAMP:20261126T080456Z
+DTSTAMP:20261126T084637Z
 DTSTART;TZID=Europe/Rome:20261218T200000
 DTEND;TZID=Europe/Rome:20261218T220000
 SUMMARY:OSN Rai: Ravel e la Symphonie fantastique
@@ -243,7 +243,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-concerto-di-natale-fabio-luisi-dirige-la-nona-di@acculturiam
  oci.it
-DTSTAMP:20261126T080456Z
+DTSTAMP:20261126T084637Z
 DTSTART;TZID=Europe/Rome:20261222T203000
 DTEND;TZID=Europe/Rome:20261222T223000
 SUMMARY:Concerto di Natale: Fabio Luisi dirige la Nona di Beethoven

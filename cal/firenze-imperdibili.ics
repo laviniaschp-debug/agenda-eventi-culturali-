@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-26-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
-DTSTAMP:20261126T080456Z
+DTSTAMP:20261126T084637Z
 DTSTART;TZID=Europe/Rome:20261126T190000
 DTEND;TZID=Europe/Rome:20261126T210000
 SUMMARY:Lo Zar\, di e con Stefano Massini
@@ -42,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-limes-la-tempesta-americana-e-la-fine-dei-tabu@acculturiamoc
  i.it
-DTSTAMP:20261126T080456Z
+DTSTAMP:20261126T084637Z
 DTSTART;TZID=Europe/Rome:20261127T180000
 DTEND;TZID=Europe/Rome:20261127T200000
 SUMMARY:Limes: la tempesta americana e la fine dei tabù
@@ -59,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-da-notre-dame-a-santa-croce-vincent-dubois-all-o@acculturiam
  oci.it
-DTSTAMP:20261126T080456Z
+DTSTAMP:20261126T084637Z
 DTSTART;TZID=Europe/Rome:20261127T210000
 DTEND;TZID=Europe/Rome:20261127T230000
 SUMMARY:Da Notre-Dame a Santa Croce: Vincent Dubois all'organo
@@ -78,7 +78,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-limes-l-italia-nell-arco-delle-crisi-con-alessan@acculturiam
  oci.it
-DTSTAMP:20261126T080456Z
+DTSTAMP:20261126T084637Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Limes: l'Italia nell'arco delle crisi\, con Alessandro Aresu
@@ -95,7 +95,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-l-analfabeta-federica-fracassi-e-agota-kristof@acculturiamoc
  i.it
-DTSTAMP:20261126T080456Z
+DTSTAMP:20261126T084637Z
 DTSTART;TZID=Europe/Rome:20261128T203000
 DTEND;TZID=Europe/Rome:20261128T223000
 SUMMARY:L'analfabeta: Federica Fracassi è Agota Kristof

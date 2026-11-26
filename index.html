@@ -189,6 +189,36 @@ body.lock .fab{display:none}
 .org p{margin:0;font-size:16px}
 .org ul{margin:16px 0 0;padding:0;list-style:none;display:grid;gap:8px;font-weight:600}
 .org ul li::before{content:"✦";color:#b8432a;margin-right:10px}
+.club{position:relative;overflow:hidden;isolation:isolate;background:var(--oxblood);color:var(--butter);border-radius:32px;padding:48px;display:grid;grid-template-columns:1.1fr .9fr;gap:40px;align-items:start}
+.club::before{content:"";position:absolute;z-index:-1;width:560px;height:560px;right:-160px;top:-200px;border-radius:50%;background:radial-gradient(closest-side,rgba(232,80,91,.55),transparent);filter:blur(20px);animation:float2 24s ease-in-out infinite alternate}
+.club .kick{display:inline-block;font-size:12.5px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--rose);margin-bottom:14px}
+.club h3{display:block;font-size:clamp(38px,4.8vw,64px);line-height:1;letter-spacing:-.035em;margin:0 0 18px;color:#fdf3dc}
+.club h3 em{font-style:normal;color:var(--rose)}
+.club .lead{color:var(--butter);opacity:.9;font-size:17px;max-width:46ch;margin:0}
+.clubpts{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:28px}
+.clubpts div{border-top:1px solid rgba(247,233,181,.35);padding-top:12px;display:flex;flex-direction:column;gap:4px}
+.clubpts b{color:#fdf3dc;font-size:15.5px}
+.clubpts span{font-size:14px;opacity:.8}
+.clubside{display:flex;flex-direction:column;gap:12px}
+.clubsoon{background:rgba(253,243,220,.08);border:1px solid rgba(247,233,181,.25);border-radius:20px;padding:18px 20px;font-size:15.5px;line-height:1.45}
+.clubsoon b{color:#fdf3dc}
+.clubev{display:flex;gap:16px;background:#fdf3dc;color:var(--ink);border-radius:22px;padding:18px}
+.clubev .cd{flex:0 0 74px;display:flex;flex-direction:column;align-items:center;justify-content:center;background:var(--oxblood);color:var(--butter);border-radius:16px;padding:10px 6px;text-align:center}
+.clubev .cd b{font-size:14px;line-height:1.15}
+.clubev .cd span{font-size:13px;opacity:.85;margin-top:4px}
+.clubev .ct{font-weight:800;font-size:18px;line-height:1.2}
+.clubev .cs{font-size:14.5px;margin-top:3px}
+.clubev .cp{font-size:13.5px;color:var(--muted);margin:6px 0 10px}
+.clubf{display:grid;grid-template-columns:1fr 1fr;gap:12px;background:#fdf3dc;color:var(--ink);border-radius:22px;padding:20px}
+.clubf label{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:700}
+.clubf label i{font-weight:500;color:var(--muted);font-style:normal}
+.clubf input{font:inherit;font-size:15px;border:1px solid var(--line);border-radius:12px;padding:11px 12px;background:#fff}
+.clubf .full{grid-column:1/-1}
+@media (max-width:860px){ .club{grid-template-columns:1fr;padding:30px 22px;border-radius:26px;gap:26px} .clubpts{grid-template-columns:1fr;gap:10px} .clubf{grid-template-columns:1fr} }
+#club .lead{color:#f7e9b5;opacity:1;font-size:17px;line-height:1.55}
+#club h3{font-size:clamp(38px,4.8vw,64px);line-height:1;color:#fdf3dc}
+#club .clubf label{display:block}
+#club .clubf label input{display:block;width:100%;box-sizing:border-box;margin-top:6px}
 .org.ins{background:#fbe6dc}
 .org.ins .kick{color:#b8432a}
 .insbox{display:flex;flex-direction:column;gap:12px}
@@ -608,7 +638,7 @@ footer p{margin:0}
     </div>
     <div class="spacer"></div>
     <nav class="nav" aria-label="Sezioni">
-      <a href="#stasera">Stasera</a><a href="#calendario">Calendario</a><a href="#segui">Segui i temi</a><a href="#organizzatori" class="orgl">Organizzi eventi?</a>
+      <a href="#stasera">Stasera</a><a href="#calendario">Calendario</a><a href="#segui">Segui i temi</a><a href="#club" class="clubl">Club</a><a href="#organizzatori" class="orgl">Organizzi eventi?</a>
     </nav>
     <a class="iglink" href="https://www.instagram.com/acculturiamoci_official/" target="_blank" rel="noopener" aria-label="Instagram di Acculturiamoci"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4.2"/><circle cx="17.4" cy="6.6" r="1" fill="currentColor" stroke="none"/></svg></a>
     <button type="button" class="planlink" data-favs aria-label="I miei preferiti"><span class="h">♥</span><span class="pl-t">Preferiti</span><span class="badge zero" id="savedN">0</span></button>
@@ -647,7 +677,7 @@ footer p{margin:0}
     <div id="chi"><h5>Chi siamo</h5><p>Acculturiamoci sceglie incontri, spettacoli, concerti e lezioni aperte nella tua città: dai grandi teatri alle librerie, alle fondazioni, alle chiese.</p></div>
     <div><h5>Prima di andare</h5><p>Orari e prenotazioni cambiano: ogni evento porta alla pagina dell'organizzatore, che fa fede. I preferiti restano su questo dispositivo, senza bisogno di account.</p></div>
     <div><h5>Organizzi eventi?</h5><p>Associazioni, librerie, spazi, privati: <a href="#organizzatori">segnalaci il tuo evento</a>, è gratis.</p></div>
-    <div><h5>Seguici</h5><p><a href="https://www.instagram.com/acculturiamoci_official/" target="_blank" rel="noopener">Instagram · @acculturiamoci_official</a><br>Le nostre scelte per le tue serate.<br><a href="#insieme">Vieni con noi: Acculturiamoci insieme</a></p></div>
+    <div><h5>Seguici</h5><p><a href="https://www.instagram.com/acculturiamoci_official/" target="_blank" rel="noopener">Instagram · @acculturiamoci_official</a><br>Le nostre scelte per le tue serate.<br><a href="#club">Entra nell'Acculturiamoci Club</a></p></div>
   </div>
 </footer>
 
@@ -718,15 +748,17 @@ const PRACT = [
   { id:"bambini", label:"Con i bambini" }
 ];
 const LOGO = `<circle cx="20" cy="20" r="20" fill="#f3ecdc"/><path d="M7 25 A13 13 0 0 1 33 25" fill="none" stroke="#b8432a" stroke-width="2.3"/><path d="M10 25 A10 10 0 0 1 30 25" fill="none" stroke="#f2a91c" stroke-width="2.3"/><path d="M13 25 A7 7 0 0 1 27 25" fill="none" stroke="#b8432a" stroke-width="2.3"/><path d="M16 25 A4 4 0 0 1 24 25" fill="none" stroke="#f2a91c" stroke-width="2.3"/><circle cx="20" cy="25" r="1.6" fill="#b8432a"/><path d="M5 26.5C10 25 15.5 25.6 20 28.4 24.5 25.6 30 25 35 26.5V30C30 28.6 24.5 29.2 20 32 15.5 29.2 10 28.6 5 30Z" fill="#4e6440"/>`;
-/* Acculturiamoci insieme: un evento al mese da vivere in gruppo.
-   Per annunciarlo, metti la chiave dell'evento (campo "key" in events.json / roma.json) e il punto di ritrovo.
-   Esempio: milano: { key:"2026-12-12-...", ritrovo:"All'ingresso, 20 minuti prima" }
-   Con null la sezione raccoglie i contatti di chi vuole essere avvisato. */
-const INSIEME = {
-  milano: null,
-  roma: null,
-  firenze: null,
-  torino: null
+/* Acculturiamoci Club: le nostre serate, a numero chiuso.
+   Per pubblicare una serata aggiungila alla lista della città. Esempio:
+   { date:"2027-01-21", time:"19:30", title:"Perché ci innamoriamo delle persone sbagliate",
+     speaker:"Nome Cognome, psicoanalista", place:"Nome del locale (via …)", seats:35,
+     price:"12 € con un drink", book:"https://link-ai-biglietti" }
+   Se "book" è vuoto, si prenota con il modulo del Club. */
+const CLUB = {
+  milano: [],
+  roma: [],
+  firenze: [],
+  torino: []
 };
 const IG_URL = "https://www.instagram.com/acculturiamoci_official/";
 const CONTACT_EMAIL = "";
@@ -1003,7 +1035,7 @@ function render(){
   const subs = [["tutto","Tutta " + cityName(),null],["imperdibili","Solo imperdibili",null], ...THEMES.filter(th => themeCount(th)).map(th => [th.id, th.label, th])];
 
   const todayLeft = upcomingAll.filter(e => e.date === t).length;
-  const ins = INSIEME[S.city], insEv = ins && BYKEY[ins.key] && !isPast(BYKEY[ins.key]) ? BYKEY[ins.key] : null;
+  const clubList = (CLUB[S.city] || []).filter(c => c.date >= t).sort((a,b) => (a.date+(a.time||"")).localeCompare(b.date+(b.time||"")));
   $("#main").innerHTML = `
     <section class="mihero" aria-label="Sei a ${esc(cityName())}">
       <svg viewBox="0 0 1000 480" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
@@ -1027,6 +1059,33 @@ function render(){
       <div class="exps">
         ${EXPS.map(m => ({...m, n:moodCount(m.id)})).filter(m => m.n).map(m => `<button class="exp" style="--mc:${m.c}" data-mood="${m.id}" aria-pressed="${S.mood===m.id}"><i>${m.em}</i><span><b>${m.label}</b><small>${m.sub}</small></span></button>`).join("")}
         <button class="exp sur" data-surprise><i>🎲</i><span><b>Lasciarmi sorprendere</b><small>scegliamo noi, a caso</small></span></button>
+      </div>
+    </section>
+
+    <section class="sec club" id="club">
+      <div class="clubin">
+        <span class="kick">Acculturiamoci Club</span>
+        <h3>Lezioni dal vivo.<br><em>A numero chiuso.</em></h3>
+        <p class="lead">Una sera al mese portiamo un esperto vero fuori dall'aula, in un posto piccolo di ${esc(cityName())}. Una lezione breve su una domanda che riguarda tutti, poi le vostre domande, poi si resta a parlare con un bicchiere in mano. E chi è nel Club riceve anche gli inviti alle uscite di gruppo agli eventi più belli in calendario.</p>
+        <div class="clubpts">
+          <div><b>Un esperto vero</b><span>Psicoanalisti, filosofi, storici, scienziati.</span></div>
+          <div><b>Pochi posti</b><span>Una sala piccola, per guardarsi in faccia.</span></div>
+          <div><b>Mai da solo</b><span>Nuovo in città o amici che non sono "tipi da conferenza"? Qui trovi chi ha le tue stesse domande.</span></div>
+        </div>
+      </div>
+      <div class="clubside">
+        ${clubList.length ? clubList.map((c, i) => `<article class="clubev">
+          <div class="cd"><b>${esc(dayWord(c.date))}</b>${c.time ? `<span>${esc(c.time)}</span>` : ""}</div>
+          <div class="cb"><div class="ct">${esc(c.title)}</div>${c.speaker ? `<div class="cs">${esc(c.speaker)}</div>` : ""}<div class="cp">${esc(c.place || "")}${c.seats ? ` · <b>${esc(String(c.seats))} posti</b>` : ""}${c.price ? ` · ${esc(c.price)}` : ""}</div>
+          ${c.book ? `<a class="btn hot" href="${esc(c.book)}" target="_blank" rel="noopener">Prenota il posto</a>` : `<button class="btn hot" type="button" data-clubpick="${i}">Prenota il posto</button>`}</div>
+        </article>`).join("") : `<div class="clubsoon"><b>La prima serata del Club a ${esc(cityName())} è in preparazione.</b> Entra nel Club: chi è dentro riceve l'invito e prenota prima di tutti.</div>`}
+        <form class="clubf" id="clubForm">
+          <input type="hidden" name="serata" value="">
+          <label>Come ti chiami<input name="nome" required placeholder="Nome"></label>
+          <label>Come ti scriviamo<input name="contatto" required placeholder="Email, @instagram o WhatsApp"></label>
+          <label class="full">Di cosa vorresti sentir parlare? <i>(facoltativo)</i><input name="pref" placeholder="Es. amore, ansia, lavoro, filosofia, storia…"></label>
+          <div class="full orgbtns"><button class="btn dark" type="submit" id="clubBtn">Entra nel Club</button><span class="hint">Il testo viene copiato: incollalo nel messaggio che si apre.</span></div>
+        </form>
       </div>
     </section>
 
@@ -1063,25 +1122,6 @@ function render(){
       ${zones.length > 1 ? `<div class="zones" role="group" aria-label="Quartiere"><span class="zl">Zona</span><button class="chip sm" data-zona="" aria-pressed="${!S.zona}">Tutta ${esc(cityName())}</button>${zones.map(z => `<button class="chip sm" data-zona="${esc(z)}" aria-pressed="${S.zona===z}">${esc(z)}</button>`).join("")}</div>` : ""}
       <div class="resbar" aria-live="polite"><b>${nRes} ${nRes === 1 ? "evento" : "eventi"} ${whenTxt}</b>${act.map(([k,l]) => `<button class="fchip" data-clear="${esc(k)}" aria-label="Togli il filtro ${esc(l)}">${esc(l)} <span aria-hidden="true">✕</span></button>`).join("")}${act.length ? `<button class="clearall" data-clear="all">Azzera filtri</button>` : ""}</div>
       <div id="detail">${detail}</div>
-    </section>
-
-    <section class="sec org ins" id="insieme">
-      <div class="orgtx">
-        <span class="kick">Acculturiamoci insieme</span>
-        <h3>Non ti va di andarci da solo? Vieni con noi.</h3>
-        <p>Una volta al mese scegliamo un evento a ${esc(cityName())} e ci andiamo in gruppo: ci si trova all'ingresso, si entra insieme e dopo, per chi vuole, si resta a parlarne.</p>
-        <ul><li>Un evento al mese, scelto tra i migliori in calendario</li><li>Perfetto se sei nuovo in città o se i tuoi amici non sono "tipi da conferenza"</li><li>Il gruppo è gratis: l'eventuale biglietto dell'evento è a parte</li></ul>
-      </div>
-      <div class="insbox">
-        ${insEv ? `<div class="insev" data-open="${esc(insEv.key)}" role="button" tabindex="0"><span class="d">Prossimo appuntamento · ${esc(dayWord(insEv.date))}${insEv.time ? " · " + esc(insEv.time) : ""}</span><div class="t">${esc(insEv.title)}</div><div class="v">${esc(insEv.venue)}</div>${ins.ritrovo ? `<div class="r"><b>Ritrovo:</b> ${esc(ins.ritrovo)}</div>` : ""}</div>`
-                : `<div class="insnext"><b>Il primo appuntamento a ${esc(cityName())} sta per arrivare.</b> Lasciaci un contatto: ti avvisiamo prima di annunciarlo su Instagram.</div>`}
-        <form class="orgf" id="insForm">
-          <label>Come ti chiami<input name="nome" required placeholder="Nome"></label>
-          <label>Come ti avvisiamo<input name="contatto" required placeholder="Email, @instagram o WhatsApp"></label>
-          <label class="full">Cosa ti piacerebbe (facoltativo)<input name="pref" placeholder="Es. filosofia, psicoanalisi, teatro…"></label>
-          <div class="full orgbtns"><button class="btn hot" type="submit">${insEv ? "Ci sono anch'io" : "Avvisami"}</button><span class="hint">Il testo viene copiato: incollalo nel messaggio che si apre.</span></div>
-        </form>
-      </div>
     </section>
 
     <section class="sec" id="segui">
@@ -1133,7 +1173,8 @@ function render(){
   $("#pw").onclick = () => { const p = add(S.weekStart,-7); S.weekStart = p < DATA.range[0] ? DATA.range[0] : p; render(); };
   $("#nw").onclick = () => { S.weekStart = add(S.weekStart,7); render(); };
   $("#orgForm").onsubmit = sendOrg;
-  $("#insForm").onsubmit = sendInsieme;
+  $("#clubForm").onsubmit = sendClub;
+  $$("[data-clubpick]").forEach(b => b.onclick = () => { const c = clubList[+b.dataset.clubpick], f = $("#clubForm"); f.serata.value = `${c.title} (${dayWord(c.date)}${c.time ? ", " + c.time : ""})`; $("#clubBtn").textContent = "Prenota: " + c.title.slice(0, 40); f.nome.focus(); f.scrollIntoView({behavior:"smooth", block:"center"}); });
   revealOnScroll();
   $$("[data-past]").forEach(b => b.onclick = () => { S.showPast = !S.showPast; render(); });
   bindSerate();
@@ -1178,14 +1219,13 @@ function revealOnScroll(){
   });
 }
 
-/* ---------- Acculturiamoci insieme ---------- */
-async function sendInsieme(ev){
+/* ---------- Acculturiamoci Club ---------- */
+async function sendClub(ev){
   ev.preventDefault();
   const f = new FormData(ev.target), g = k => (f.get(k) || "").toString().trim();
-  const ins = INSIEME[S.city], e = ins && BYKEY[ins.key];
-  const text = `Ciao Acculturiamoci! ${e ? `Vengo anch'io ad Acculturiamoci insieme: ${e.title} (${dayWord(e.date)}${e.time ? ", " + e.time : ""}).` : `Avvisatemi per il prossimo Acculturiamoci insieme a ${cityName()}.`}\n\nNome: ${g("nome")}\nContatto: ${g("contatto")}${g("pref") ? "\nMi piacerebbe: " + g("pref") : ""}`;
+  const text = `Ciao Acculturiamoci! ${g("serata") ? `Vorrei prenotare un posto al Club: ${g("serata")}.` : `Vorrei entrare nell'Acculturiamoci Club a ${cityName()}.`}\n\nNome: ${g("nome")}\nContatto: ${g("contatto")}${g("pref") ? "\nMi piacerebbe sentir parlare di: " + g("pref") : ""}`;
   let copied = false; try { await navigator.clipboard.writeText(text); copied = true; } catch(_) {}
-  if (CONTACT_EMAIL){ location.href = `mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent("Acculturiamoci insieme · " + cityName())}&body=${encodeURIComponent(text)}`; return; }
+  if (CONTACT_EMAIL){ location.href = `mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent("Acculturiamoci Club · " + cityName())}&body=${encodeURIComponent(text)}`; return; }
   const box = ev.target.querySelector(".orgbtns");
   box.innerHTML = `<a class="btn dark" href="https://ig.me/m/acculturiamoci_official" target="_blank" rel="noopener">Apri Instagram e incolla il messaggio</a><span class="hint">${copied ? "✓ Testo copiato." : "Copia il testo qui sotto."} Ti rispondiamo appena possibile.</span><textarea class="full" rows="5" readonly>${esc(text)}</textarea>`;
   toast(copied ? "Testo copiato ✦" : "Copia il messaggio");
@@ -1475,11 +1515,11 @@ async function load(){
   // #roma, #roma/e=KEY, #e=KEY (vecchi link: Milano), #milano/b=me (bisogno), #insieme, #milano/insieme
   const h = decodeURIComponent(location.hash.replace("#",""));
   let city = "milano", key = null, need = null, sec = null;
-  const m = h.match(/^([a-z]+)(?:\/(e|b)=(.+)|\/(insieme))?$/);
-  if (m && CITIES.some(c => c.id === m[1])){ city = m[1]; if (m[2] === "e") key = m[3]; else if (m[2] === "b") need = m[3]; else if (m[4]) sec = m[4]; }
+  const m = h.match(/^([a-z]+)(?:\/(e|b)=(.+)|\/(insieme|club))?$/);
+  if (m && CITIES.some(c => c.id === m[1])){ city = m[1]; if (m[2] === "e") key = m[3]; else if (m[2] === "b") need = m[3]; else if (m[4]) sec = "club"; }
   else if (h.startsWith("e=")) key = h.slice(2);
   else if (h.startsWith("b=")) need = h.slice(2);
-  else if (h === "insieme") sec = "insieme";
+  else if (h === "insieme" || h === "club") sec = "club";
   await switchCity(city, key);
   if (need) applyNeed(need);
   else if (sec) setTimeout(() => document.getElementById(sec)?.scrollIntoView({behavior:"smooth", block:"start"}), 60);
