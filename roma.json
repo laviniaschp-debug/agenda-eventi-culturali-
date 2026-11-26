@@ -1,6 +1,6 @@
 {
  "city": "roma",
- "updated": "2026-11-24T07:55:00+01:00",
+ "updated": "2026-11-26T10:00:00+01:00",
  "range": [
   "2026-11-24",
   "2026-12-20"
@@ -165,28 +165,6 @@
   {
    "date": "2026-11-25",
    "time": "17:30",
-   "title": "Monica Cristina Storini: Leggere Deledda",
-   "venue": "Mondadori Bookstore (piazza Vittorio Emanuele 108)",
-   "cat": "talk",
-   "desc": "Incontro sulla scrittrice premio Nobel, per Libridine.",
-   "url": "https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-29-novembre-2026.html",
-   "free": true,
-   "tags": [],
-   "verify": false,
-   "id": "r007",
-   "key": "2026-11-25-monica-cristina-storini-leggere-deledda",
-   "moods": [
-    "pensare"
-   ],
-   "geo": [
-    41.8946,
-    12.5045
-   ],
-   "zona": "Esquilino · Monti · San Lorenzo"
-  },
-  {
-   "date": "2026-11-25",
-   "time": "17:30",
    "title": "Il Campidoglio si illumina con il 1522",
    "venue": "Campidoglio, piazza del Campidoglio",
    "cat": "geo",
@@ -198,7 +176,7 @@
    ],
    "verify": false,
    "why": "Passarci stasera e fotografarlo: un modo semplice per far girare il numero.",
-   "id": "r127",
+   "id": "r007",
    "key": "2026-11-25-il-campidoglio-si-illumina-con-il-1522",
    "moods": [
     "pensare"
@@ -211,6 +189,28 @@
   },
   {
    "date": "2026-11-25",
+   "time": "17:30",
+   "title": "Monica Cristina Storini: Leggere Deledda",
+   "venue": "Mondadori Bookstore (piazza Vittorio Emanuele 108)",
+   "cat": "talk",
+   "desc": "Incontro sulla scrittrice premio Nobel, per Libridine.",
+   "url": "https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-29-novembre-2026.html",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "r008",
+   "key": "2026-11-25-monica-cristina-storini-leggere-deledda",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.8946,
+    12.5045
+   ],
+   "zona": "Esquilino · Monti · San Lorenzo"
+  },
+  {
+   "date": "2026-11-25",
    "time": "18:00",
    "title": "Andrea Scarpa: Mettetevi comodi (il libro-intervista a Renzo Arbore)",
    "venue": "Feltrinelli Piazza Pio XI",
@@ -220,7 +220,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "r008",
+   "id": "r009",
    "key": "2026-11-25-andrea-scarpa-mettetevi-comodi-il-libro-intervis",
    "moods": [
     "pensare"
@@ -242,7 +242,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r113",
+   "id": "r010",
    "key": "2026-11-25-mamma-mia-guida-senza-patente-per-un-amore-sfren",
    "moods": [
     "dentro",
@@ -270,7 +270,7 @@
    ],
    "verify": false,
    "why": "Lagioia racconta il suo nuovo romanzo corale: una serata da lettori veri.",
-   "id": "r009",
+   "id": "r011",
    "key": "2026-11-25-nicola-lagioia-santa-barbara",
    "moods": [
     "pensare"
@@ -292,7 +292,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r010",
+   "id": "r012",
    "key": "2026-11-25-sibyl-von-der-schulenburg-lo-sguardo-di-napoleon",
    "moods": [
     "pensare"
@@ -314,7 +314,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r011",
+   "id": "r013",
    "key": "2026-11-25-maurizio-massari-i-dieci-anni-che-hanno-sconvolt",
    "moods": [
     "pensare"
@@ -336,7 +336,7 @@
    "free": true,
    "tags": [],
    "verify": true,
-   "id": "r012",
+   "id": "r014",
    "key": "2026-11-25-saperi-in-fermento-aperitivo-di-biodiversita",
    "moods": [
     "gente",
@@ -362,7 +362,7 @@
    ],
    "verify": false,
    "why": "Filosofia e scienza insieme, tra i calchi delle statue antiche: come diventare persone migliori.",
-   "id": "r013",
+   "id": "r015",
    "key": "2026-11-25-vito-mancuso-filosofia-e-scienza-per-essere-uman",
    "moods": [
     "dentro",
@@ -387,7 +387,7 @@
     "chiese"
    ],
    "verify": false,
-   "id": "r101",
+   "id": "r016",
    "key": "2026-11-25-organum-multiplum-heinali-saienko-e-lindwall-a-s",
    "moods": [
     "emozionarmi"
@@ -409,7 +409,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r015",
+   "id": "r017",
    "key": "2026-11-25-lezioni-di-ascolto-valvole-contro-transistor",
    "moods": [
     "pensare"
@@ -431,7 +431,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "r016",
+   "id": "r018",
    "key": "2026-11-25-sol-gabetta-e-bertrand-chamayou",
    "moods": [
     "emozionarmi"
@@ -453,7 +453,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r017",
+   "id": "r019",
    "key": "2026-11-25-sudori-freddi-il-club-dei-39",
    "moods": [
     "emozionarmi"
@@ -477,7 +477,7 @@
    "tags": [
     "standup"
    ],
-   "id": "r119",
+   "id": "r020",
    "key": "2026-11-25-stand-up-comedy-al-b-folk",
    "moods": [
     "ridere"
@@ -494,7 +494,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r018",
+   "id": "r021",
    "key": "2026-11-25-eugenio-in-via-di-gioia",
    "moods": [
     "emozionarmi"
@@ -516,7 +516,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r019",
+   "id": "r022",
    "key": "2026-11-25-i-am-the-wind",
    "moods": [
     "emozionarmi"
@@ -538,7 +538,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r020",
+   "id": "r023",
    "key": "2026-11-25-otello",
    "moods": [
     "emozionarmi"
@@ -560,7 +560,7 @@
    "free": true,
    "tags": [],
    "verify": true,
-   "id": "r021",
+   "id": "r024",
    "key": "2026-11-25-ri-generare-con-creativita-forum-nazionale-sulla",
    "moods": [
     "pensare"
@@ -582,7 +582,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r022",
+   "id": "r025",
    "key": "2026-11-25-venerdi-13",
    "moods": [
     "emozionarmi",
@@ -608,7 +608,7 @@
    ],
    "verify": false,
    "why": "Il botanico più amato d'Italia spiega cosa le piante possono insegnare alle città.",
-   "id": "r023",
+   "id": "r026",
    "key": "2026-11-26-stefano-mancuso-la-citta-vivente",
    "moods": [
     "pensare"
@@ -630,7 +630,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r024",
+   "id": "r027",
    "key": "2026-11-26-cesare-pavese-poesie-del-disamore",
    "moods": [
     "dentro",
@@ -654,7 +654,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "r025",
+   "id": "r028",
    "key": "2026-11-26-giovanna-cuce-la-storia-di-rita-atria",
    "moods": [
     "pensare"
@@ -671,7 +671,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "r026",
+   "id": "r029",
    "key": "2026-11-26-luiz-valerio-p-trindade-social-media-odio-online",
    "moods": [
     "pensare"
@@ -693,7 +693,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "r027",
+   "id": "r030",
    "key": "2026-11-26-daniel-harding-dirige-brahms-e-strauss",
    "moods": [
     "emozionarmi"
@@ -718,7 +718,7 @@
    ],
    "verify": true,
    "why": "Il romanzo del premio Nobel Han Kang portato in scena da Daria Deflorian.",
-   "id": "r028",
+   "id": "r031",
    "key": "2026-11-26-che-dolore-terribile-e-l-amore",
    "moods": [
     "dentro",
@@ -741,7 +741,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r029",
+   "id": "r032",
    "key": "2026-11-26-sudori-freddi-la-signora-scompare",
    "moods": [
     "emozionarmi"
@@ -763,7 +763,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r030",
+   "id": "r033",
    "key": "2026-11-26-i-am-the-wind",
    "moods": [
     "emozionarmi"
@@ -785,7 +785,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r031",
+   "id": "r034",
    "key": "2026-11-26-otello",
    "moods": [
     "emozionarmi"
@@ -807,7 +807,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r106",
+   "id": "r035",
    "key": "2026-11-26-qui-non-c-e-nessuna-donna-il-film-su-ingeborg-ba",
    "moods": [
     "emozionarmi"
@@ -829,7 +829,7 @@
    "free": true,
    "tags": [],
    "verify": true,
-   "id": "r032",
+   "id": "r036",
    "key": "2026-11-26-ri-generare-con-creativita-forum-nazionale-sulla",
    "moods": [
     "pensare"
@@ -851,7 +851,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r033",
+   "id": "r037",
    "key": "2026-11-26-venerdi-13",
    "moods": [
     "emozionarmi",
@@ -874,7 +874,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "r034",
+   "id": "r038",
    "key": "2026-11-27-monica-calcagni-il-mio-viaggio-al-fianco-delle-d",
    "moods": [
     "dentro",
@@ -898,7 +898,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r035",
+   "id": "r039",
    "key": "2026-11-27-marinetti-l-uomo-che-invento-il-futuro-talk-film",
    "moods": [
     "pensare"
@@ -920,7 +920,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "r036",
+   "id": "r040",
    "key": "2026-11-27-marco-vannini-quale-uomo-quale-dio",
    "moods": [
     "dentro",
@@ -944,7 +944,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r037",
+   "id": "r041",
    "key": "2026-11-27-sotto-le-stelle-del-jazz-the-scoop-jazz-band",
    "moods": [
     "emozionarmi"
@@ -966,7 +966,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r038",
+   "id": "r042",
    "key": "2026-11-27-che-dolore-terribile-e-l-amore",
    "moods": [
     "dentro",
@@ -990,7 +990,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "r039",
+   "id": "r043",
    "key": "2026-11-27-daniel-harding-dirige-brahms-e-strauss",
    "moods": [
     "emozionarmi"
@@ -1012,7 +1012,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r040",
+   "id": "r044",
    "key": "2026-11-27-sudori-freddi-rebecca-la-prima-moglie",
    "moods": [
     "emozionarmi"
@@ -1034,7 +1034,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r041",
+   "id": "r045",
    "key": "2026-11-27-ditonellapiaga",
    "moods": [
     "emozionarmi"
@@ -1056,7 +1056,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r042",
+   "id": "r046",
    "key": "2026-11-27-esperide-fantasie-barocche-sant-ivo-alla-sapienz",
    "moods": [
     "pensare"
@@ -1078,7 +1078,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "r107",
+   "id": "r047",
    "key": "2026-11-27-festival-di-filosofia-al-femminile",
    "moods": [
     "dentro",
@@ -1102,7 +1102,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r043",
+   "id": "r048",
    "key": "2026-11-27-i-am-the-wind",
    "moods": [
     "emozionarmi"
@@ -1124,7 +1124,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "r044",
+   "id": "r049",
    "key": "2026-11-27-masterclass-i-segreti-della-tosca",
    "moods": [
     "emozionarmi"
@@ -1146,7 +1146,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r045",
+   "id": "r050",
    "key": "2026-11-27-otello",
    "moods": [
     "emozionarmi"
@@ -1168,7 +1168,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r046",
+   "id": "r051",
    "key": "2026-11-27-pinocchia-adolescente-di-legno",
    "moods": [
     "bambini"
@@ -1190,7 +1190,7 @@
    "free": true,
    "tags": [],
    "verify": true,
-   "id": "r047",
+   "id": "r052",
    "key": "2026-11-27-ri-generare-con-creativita-forum-nazionale-sulla",
    "moods": [
     "pensare"
@@ -1212,7 +1212,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r048",
+   "id": "r053",
    "key": "2026-11-28-francesco-ai-santi-apostoli-visita-racconto-e-co",
    "moods": [
     "pensare"
@@ -1234,7 +1234,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r049",
+   "id": "r054",
    "key": "2026-11-28-il-corpo-gioca-e-il-gioco-riunisce-5-11-anni",
    "moods": [
     "bambini"
@@ -1256,7 +1256,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "r050",
+   "id": "r055",
    "key": "2026-11-28-baby-sound-0-2-anni-e-donne-in-gravidanza",
    "moods": [
     "bambini"
@@ -1278,7 +1278,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "r051",
+   "id": "r056",
    "key": "2026-11-28-esperide-gli-appartamenti-segreti-doria-pamphilj",
    "moods": [
     "pensare"
@@ -1300,7 +1300,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "r052",
+   "id": "r057",
    "key": "2026-11-28-daniel-harding-dirige-brahms-e-strauss",
    "moods": [
     "emozionarmi"
@@ -1322,7 +1322,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r053",
+   "id": "r058",
    "key": "2026-11-28-la-buena-letra-di-celia-rico-clavellino-scoprir",
    "moods": [
     "emozionarmi"
@@ -1344,7 +1344,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r114",
+   "id": "r059",
    "key": "2026-11-28-si-puo-imparare-la-meraviglia-talk-con-gaia-terz",
    "moods": [
     "dentro",
@@ -1368,7 +1368,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "r054",
+   "id": "r060",
    "key": "2026-11-28-umberto-guidoni-ascensore-per-marte",
    "moods": [
     "pensare"
@@ -1385,7 +1385,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "r055",
+   "id": "r061",
    "key": "2026-11-28-lorenzo-pinna-cento-anni-in-compagnia-dell-atomo",
    "moods": [
     "pensare"
@@ -1402,7 +1402,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r056",
+   "id": "r062",
    "key": "2026-11-28-che-dolore-terribile-e-l-amore",
    "moods": [
     "dentro",
@@ -1426,7 +1426,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r057",
+   "id": "r063",
    "key": "2026-11-28-massimo-staich-con-la-febbre-tra-le-ali",
    "moods": [
     "emozionarmi"
@@ -1448,7 +1448,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "r058",
+   "id": "r064",
    "key": "2026-11-28-buenos-aires-tango-musica-y-danza-en-concierto",
    "moods": [
     "emozionarmi"
@@ -1470,7 +1470,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r059",
+   "id": "r065",
    "key": "2026-11-28-esperide-visita-all-abbazia-delle-tre-fontane",
    "moods": [
     "pensare"
@@ -1492,7 +1492,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r060",
+   "id": "r066",
    "key": "2026-11-28-i-am-the-wind",
    "moods": [
     "emozionarmi"
@@ -1514,7 +1514,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r061",
+   "id": "r067",
    "key": "2026-11-28-otello",
    "moods": [
     "emozionarmi"
@@ -1536,7 +1536,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r062",
+   "id": "r068",
    "key": "2026-11-28-pinocchia-adolescente-di-legno",
    "moods": [
     "bambini"
@@ -1558,7 +1558,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "r063",
+   "id": "r069",
    "key": "2026-11-28-the-shape-of-sound-liquid-conversation",
    "moods": [
     "emozionarmi"
@@ -1580,7 +1580,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r064",
+   "id": "r070",
    "key": "2026-11-29-visita-per-ragazzi-alla-mostra-di-richard-avedon",
    "moods": [
     "bambini"
@@ -1604,7 +1604,7 @@
    "tags": [
     "standup"
    ],
-   "id": "r120",
+   "id": "r071",
    "key": "2026-11-29-comedian-per-gaza-una-giornata-di-stand-up",
    "moods": [
     "ridere"
@@ -1626,7 +1626,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "r065",
+   "id": "r072",
    "key": "2026-11-29-cercasi-elfo-lettura-e-laboratorio",
    "moods": [
     "bambini",
@@ -1649,7 +1649,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r066",
+   "id": "r073",
    "key": "2026-11-29-che-dolore-terribile-e-l-amore",
    "moods": [
     "dentro",
@@ -1673,7 +1673,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "r067",
+   "id": "r074",
    "key": "2026-11-29-csaba-dalla-zorza-io-sono-adele",
    "moods": [
     "pensare"
@@ -1695,7 +1695,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r115",
+   "id": "r075",
    "key": "2026-11-29-il-desiderio-e-quel-che-resta",
    "moods": [
     "dentro",
@@ -1710,6 +1710,29 @@
   },
   {
    "date": "2026-11-29",
+   "time": "17:30",
+   "title": "Lezione concerto: Erik Bertsch suona Saariaho, Benjamin e Kurtág",
+   "venue": "Accademia Filarmonica Romana (via Flaminia 118)",
+   "cat": "classica",
+   "desc": "Lezione concerto del pianista Erik Bertsch sulla musica d'oggi, nella stagione della Filarmonica Romana.",
+   "url": "https://www.classicalive.it/it/rassegne/accademia-filarmonica-romana/2026-2027",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r076",
+   "key": "2026-11-29-lezione-concerto-erik-bertsch-suona-saariaho-ben",
+   "moods": [
+    "emozionarmi",
+    "gente"
+   ],
+   "geo": [
+    41.9236,
+    12.4712
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
+  },
+  {
+   "date": "2026-11-29",
    "time": "18:00",
    "title": "Nazarín di Luis Buñuel",
    "venue": "Casa del Cinema · Sala Cinecittà",
@@ -1719,7 +1742,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "r068",
+   "id": "r077",
    "key": "2026-11-29-nazarin-di-luis-bunuel",
    "moods": [
     "emozionarmi"
@@ -1744,7 +1767,7 @@
    ],
    "verify": false,
    "why": "Una delle voci più emozionanti della musica di oggi, in una sala da brividi.",
-   "id": "r069",
+   "id": "r078",
    "key": "2026-11-29-anohni-wilderness",
    "moods": [
     "emozionarmi"
@@ -1766,7 +1789,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "r070",
+   "id": "r079",
    "key": "2026-11-29-quell-oscuro-oggetto-del-desiderio-di-luis-bunue",
    "moods": [
     "emozionarmi"
@@ -1788,7 +1811,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r071",
+   "id": "r080",
    "key": "2026-11-29-esperide-visita-alla-casa-dei-cavalieri-di-rodi",
    "moods": [
     "pensare"
@@ -1810,7 +1833,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r072",
+   "id": "r081",
    "key": "2026-11-29-i-am-the-wind",
    "moods": [
     "emozionarmi"
@@ -1832,7 +1855,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r073",
+   "id": "r082",
    "key": "2026-11-29-il-ballo-reading-con-laura-morante-ed-eugenia-co",
    "moods": [
     "emozionarmi"
@@ -1854,7 +1877,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r074",
+   "id": "r083",
    "key": "2026-11-29-lezioni-di-storia-francesca-cenerini-gli-annali-",
    "moods": [
     "pensare"
@@ -1876,7 +1899,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r075",
+   "id": "r084",
    "key": "2026-11-29-otello",
    "moods": [
     "emozionarmi"
@@ -1898,7 +1921,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r076",
+   "id": "r085",
    "key": "2026-11-29-pinocchia-adolescente-di-legno",
    "moods": [
     "bambini"
@@ -1920,7 +1943,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "r077",
+   "id": "r086",
    "key": "2026-11-30-esperide-corso-sul-rinascimento-donatello",
    "moods": [
     "pensare",
@@ -1943,7 +1966,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "r078",
+   "id": "r087",
    "key": "2026-11-30-il-fascino-discreto-della-borghesia-di-luis-bunu",
    "moods": [
     "emozionarmi",
@@ -1966,7 +1989,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r079",
+   "id": "r088",
    "key": "2026-12-01-automotive-tra-competitivita-e-autodistruzione",
    "moods": [
     "pensare"
@@ -1974,6 +1997,30 @@
    "geo": [
     41.8945,
     12.4778
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-12-01",
+   "time": "17:45",
+   "title": "Love Cello Duet: Chopin e Beethoven a piazza Navona",
+   "venue": "Sant'Agnese in Agone, Sacrestia del Borromini (piazza Navona)",
+   "cat": "classica",
+   "desc": "Violoncello e pianoforte con Marco Algenti e Lisa Francese nella sacrestia barocca del Borromini. Un'ora, da circa 23 euro.",
+   "url": "https://www.classictic.com/it/city/roma-t14/concierti-a-roma-a-dicembre/",
+   "free": false,
+   "tags": [
+    "chiese"
+   ],
+   "verify": false,
+   "id": "r089",
+   "key": "2026-12-01-love-cello-duet-chopin-e-beethoven-a-piazza-navo",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8988,
+    12.4726
    ],
    "zona": "Centro storico"
   },
@@ -1990,7 +2037,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "r108",
+   "id": "r090",
    "key": "2026-12-01-miles-davis-100-l-arte-del-cambiamento",
    "moods": [
     "emozionarmi"
@@ -2014,7 +2061,7 @@
     "chiese"
    ],
    "verify": false,
-   "id": "r102",
+   "id": "r091",
    "key": "2026-12-01-steve-reich-al-pantheon-organum-multiplum",
    "moods": [
     "emozionarmi"
@@ -2036,7 +2083,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r080",
+   "id": "r092",
    "key": "2026-12-01-che-dolore-terribile-e-l-amore",
    "moods": [
     "dentro",
@@ -2050,6 +2097,28 @@
    "why": "Amicizia e memoria di una strage: Han Kang a teatro, con Daria Deflorian."
   },
   {
+   "date": "2026-12-01",
+   "time": "",
+   "title": "Festival Beautiful Minds: l'innovazione che fa bene a tutti",
+   "venue": "MAXXI (via Guido Reni 4a)",
+   "cat": "scienza",
+   "desc": "Tre giorni con premi Nobel, scienziati e innovatori sull'innovazione che migliora la vita delle persone e del pianeta. Programma e orari sul sito del MAXXI.",
+   "url": "https://www.maxxi.art/",
+   "free": null,
+   "tags": [],
+   "verify": true,
+   "id": "r093",
+   "key": "2026-12-01-festival-beautiful-minds-l-innovazione-che-fa-be",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.9283,
+    12.4668
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
+  },
+  {
    "date": "2026-12-02",
    "time": "17:00",
    "title": "Raffaella Rumiati: invecchiare bene e la riserva cognitiva",
@@ -2060,7 +2129,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r109",
+   "id": "r094",
    "key": "2026-12-02-raffaella-rumiati-invecchiare-bene-e-la-riserva-",
    "moods": [
     "pensare"
@@ -2082,7 +2151,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "r081",
+   "id": "r095",
    "key": "2026-12-02-luca-berretta-nell-ombra-del-nilo",
    "moods": [
     "pensare"
@@ -2104,7 +2173,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r082",
+   "id": "r096",
    "key": "2026-12-02-che-dolore-terribile-e-l-amore",
    "moods": [
     "dentro",
@@ -2129,11 +2198,33 @@
    "tags": [
     "standup"
    ],
-   "id": "r121",
+   "id": "r097",
    "key": "2026-12-02-stand-up-comedy-al-b-folk",
    "moods": [
     "ridere"
    ]
+  },
+  {
+   "date": "2026-12-02",
+   "time": "",
+   "title": "Festival Beautiful Minds: l'innovazione che fa bene a tutti",
+   "venue": "MAXXI (via Guido Reni 4a)",
+   "cat": "scienza",
+   "desc": "Seconda giornata del festival con premi Nobel, scienziati e innovatori. Programma e orari sul sito del MAXXI.",
+   "url": "https://www.maxxi.art/",
+   "free": null,
+   "tags": [],
+   "verify": true,
+   "id": "r098",
+   "key": "2026-12-02-festival-beautiful-minds-l-innovazione-che-fa-be",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.9283,
+    12.4668
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
   },
   {
    "date": "2026-12-02",
@@ -2146,7 +2237,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r083",
+   "id": "r099",
    "key": "2026-12-02-peccato-che-fosse-una-sgualdrina",
    "moods": [
     "emozionarmi"
@@ -2168,7 +2259,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r084",
+   "id": "r100",
    "key": "2026-12-03-il-lavoro-informatico-e-l-ai-quale-futuro",
    "moods": [
     "pensare"
@@ -2181,6 +2272,30 @@
   },
   {
    "date": "2026-12-03",
+   "time": "17:45",
+   "title": "Capriccio Italiano Festival: pianoforte nella Sacrestia del Borromini",
+   "venue": "Sant'Agnese in Agone, Sacrestia del Borromini (piazza Navona)",
+   "cat": "classica",
+   "desc": "Beethoven, Schubert, Liszt e Chopin in un recital per pianoforte di un'ora, a due passi da piazza Navona.",
+   "url": "https://www.eventbrite.it/e/piano-concert-in-borrominis-sacristy-piazza-navona-rome-tickets-2004435703146",
+   "free": false,
+   "tags": [
+    "chiese"
+   ],
+   "verify": false,
+   "id": "r101",
+   "key": "2026-12-03-capriccio-italiano-festival-pianoforte-nella-sac",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8988,
+    12.4726
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-12-03",
    "time": "19:00",
    "title": "Che dolore terribile è l'amore",
    "venue": "Teatro Valle",
@@ -2190,7 +2305,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r085",
+   "id": "r102",
    "key": "2026-12-03-che-dolore-terribile-e-l-amore",
    "moods": [
     "dentro",
@@ -2213,7 +2328,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "r086",
+   "id": "r103",
    "key": "2026-12-03-racconti-romani-il-ladro-dei-lumi-e-altri-raccon",
    "moods": [
     "emozionarmi"
@@ -2237,7 +2352,7 @@
    "tags": [
     "standup"
    ],
-   "id": "r122",
+   "id": "r104",
    "key": "2026-12-03-maurizio-lastrico-sul-lastrico",
    "moods": [
     "ridere"
@@ -2245,6 +2360,28 @@
    "geo": [
     41.9297,
     12.4683
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "",
+   "title": "Festival Beautiful Minds: l'innovazione che fa bene a tutti",
+   "venue": "MAXXI (via Guido Reni 4a)",
+   "cat": "scienza",
+   "desc": "Ultima giornata del festival con premi Nobel, scienziati e innovatori. Programma e orari sul sito del MAXXI.",
+   "url": "https://www.maxxi.art/",
+   "free": null,
+   "tags": [],
+   "verify": true,
+   "id": "r105",
+   "key": "2026-12-03-festival-beautiful-minds-l-innovazione-che-fa-be",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.9283,
+    12.4668
    ],
    "zona": "Prati · Aurelio · Flaminio"
   },
@@ -2259,7 +2396,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r087",
+   "id": "r106",
    "key": "2026-12-03-peccato-che-fosse-una-sgualdrina",
    "moods": [
     "emozionarmi"
@@ -2284,7 +2421,7 @@
    ],
    "verify": false,
    "why": "La festa dei libri indipendenti: centinaia di editori e incontri in un solo posto.",
-   "id": "r088",
+   "id": "r107",
    "key": "2026-12-04-piu-libri-piu-liberi-fiera-della-piccola-e-media",
    "moods": [
     "pensare"
@@ -2306,7 +2443,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r089",
+   "id": "r108",
    "key": "2026-12-04-sergio-garavini-cent-anni-dopo-cultura-e-politic",
    "moods": [
     "pensare"
@@ -2328,7 +2465,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "r090",
+   "id": "r109",
    "key": "2026-12-04-e-d-u-a-enciclopedia-di-un-attore",
    "moods": [
     "emozionarmi"
@@ -2350,7 +2487,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r091",
+   "id": "r110",
    "key": "2026-12-04-che-dolore-terribile-e-l-amore",
    "moods": [
     "dentro",
@@ -2373,7 +2510,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "r092",
+   "id": "r111",
    "key": "2026-12-04-racconti-romani-il-ladro-dei-lumi-e-altri-raccon",
    "moods": [
     "emozionarmi"
@@ -2395,7 +2532,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r093",
+   "id": "r112",
    "key": "2026-12-04-peccato-che-fosse-una-sgualdrina",
    "moods": [
     "emozionarmi"
@@ -2405,6 +2542,28 @@
     12.4762
    ],
    "zona": "Centro storico"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "",
+   "title": "Ritrovarsi: il nuovo allestimento della Collezione MAXXI",
+   "venue": "MAXXI (via Guido Reni 4a)",
+   "cat": "storia",
+   "desc": "Apre la nuova collezione del museo a cura di Luigia Lonardelli, in galleria 3: opere fragili come brani di tessuto da ricucire insieme. Fino al 5 settembre 2027.",
+   "url": "https://www.maxxi.art/events/collezione-maxxi-ritrovarsi/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r113",
+   "key": "2026-12-04-ritrovarsi-il-nuovo-allestimento-della-collezion",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.9283,
+    12.4668
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
   },
   {
    "date": "2026-12-05",
@@ -2417,7 +2576,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r094",
+   "id": "r114",
    "key": "2026-12-05-piu-libri-piu-liberi-fiera-della-piccola-e-media",
    "moods": [
     "pensare"
@@ -2442,7 +2601,7 @@
    ],
    "verify": false,
    "why": "Laurie Anderson dal vivo: una leggenda dell'arte e della musica, a pochi metri.",
-   "id": "r095",
+   "id": "r115",
    "key": "2026-12-05-laurie-anderson-a-hole-in-the-sky",
    "moods": [
     "emozionarmi"
@@ -2464,7 +2623,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r096",
+   "id": "r116",
    "key": "2026-12-06-piu-libri-piu-liberi-fiera-della-piccola-e-media",
    "moods": [
     "pensare"
@@ -2486,7 +2645,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r116",
+   "id": "r117",
    "key": "2026-12-06-lo-stetoscopio-parlante-arte-e-malattia",
    "moods": [
     "dentro",
@@ -2509,7 +2668,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r097",
+   "id": "r118",
    "key": "2026-12-07-piu-libri-piu-liberi-fiera-della-piccola-e-media",
    "moods": [
     "pensare"
@@ -2531,7 +2690,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "r117",
+   "id": "r119",
    "key": "2026-12-07-ansia-a-mille-adolescenza-paure-e-liberta-di-sce",
    "moods": [
     "dentro",
@@ -2554,7 +2713,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r098",
+   "id": "r120",
    "key": "2026-12-08-piu-libri-piu-liberi-fiera-della-piccola-e-media",
    "moods": [
     "pensare"
@@ -2578,8 +2737,32 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "r110",
+   "id": "r121",
    "key": "2026-12-09-jordi-savall-magnificat-e-gloria-di-vivaldi",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.929,
+    12.474
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "20:00",
+   "title": "Jordi Savall: Vivaldi",
+   "venue": "Auditorium Parco della Musica · Sala Sinopoli",
+   "cat": "classica",
+   "desc": "Il maestro catalano della musica antica dirige una serata dedicata a Vivaldi, per l'Accademia di Santa Cecilia.",
+   "url": "https://www.wantedinrome.com/whatson/rome-accademia-nazionale-di-santa-cecilia-concerts.html",
+   "free": false,
+   "tags": [
+    "imperdibile"
+   ],
+   "verify": false,
+   "id": "r122",
+   "key": "2026-12-09-jordi-savall-vivaldi",
    "moods": [
     "emozionarmi"
    ],
@@ -2619,7 +2802,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "r099",
+   "id": "r124",
    "key": "2026-12-10-esperide-lazio-medievale-il-sacro-speco-di-subia",
    "moods": [
     "pensare",
@@ -2642,7 +2825,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r100",
+   "id": "r125",
    "key": "2026-12-10-le-olimpiadi-del-1944",
    "moods": [
     "pensare"
@@ -2664,7 +2847,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "r111",
+   "id": "r126",
    "key": "2026-12-10-oratorio-di-natale-di-bach-con-enrico-onofri",
    "moods": [
     "emozionarmi"
@@ -2686,7 +2869,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "r112",
+   "id": "r127",
    "key": "2026-12-10-trio-concept-dumky-di-dvorak-e-trio-di-cajkovski",
    "moods": [
     "emozionarmi"
@@ -2694,6 +2877,74 @@
    "geo": [
     41.8955,
     12.4762
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-12-10",
+   "time": "21:00",
+   "title": "Trio Concept: Dvořák e Čajkovskij",
+   "venue": "Teatro Argentina (largo di Torre Argentina 52)",
+   "cat": "classica",
+   "desc": "Il giovane trio con pianoforte, nominato Rising Star dalle grandi sale europee, suona il trio \"Dumky\" di Dvořák e il Trio op. 50 di Čajkovskij. Stagione della Filarmonica Romana.",
+   "url": "https://www.trioconcept.it/show/accademia-filarmonica-romana/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "r128",
+   "key": "2026-12-10-trio-concept-dvorak-e-cajkovskij",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8955,
+    12.4762
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-12-11",
+   "time": "20:00",
+   "title": "Oratorio di Natale di Bach con Enrico Onofri",
+   "venue": "Auditorium Parco della Musica · Sala Santa Cecilia",
+   "cat": "classica",
+   "desc": "Orchestra e Coro dell'Accademia di Santa Cecilia diretti da Enrico Onofri nell'Oratorio di Natale di Bach.",
+   "url": "https://santacecilia.it/stagione/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "r129",
+   "key": "2026-12-11-oratorio-di-natale-di-bach-con-enrico-onofri",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.929,
+    12.474
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
+  },
+  {
+   "date": "2026-12-11",
+   "time": "",
+   "title": "An Idiot's Guide to Wine: stand-up e degustazione",
+   "venue": "Teatro Centrale (via Celsa 6)",
+   "desc": "Stand-up comedy con degustazione di vino, in italiano, circa 70 minuti. Solo maggiorenni, da 32 euro. Orario sulla pagina dei biglietti.",
+   "url": "https://www.roma-events.it/2026/11/12/risate-e-serate-comiche-spettacoli-da-vedere-nei-prossimi-mesi/",
+   "free": false,
+   "verify": true,
+   "cat": "comedy",
+   "tags": [
+    "standup"
+   ],
+   "id": "r130",
+   "key": "2026-12-11-an-idiot-s-guide-to-wine-stand-up-e-degustazione",
+   "moods": [
+    "ridere"
+   ],
+   "geo": [
+    41.8966,
+    12.4797
    ],
    "zona": "Centro storico"
   },
@@ -2709,7 +2960,7 @@
     "chiese"
    ],
    "verify": true,
-   "id": "r103",
+   "id": "r131",
    "key": "2026-12-11-from-vivaldi-to-traditionals-king-s-school-a-san",
    "moods": [
     "emozionarmi"
@@ -2722,28 +2973,26 @@
    "time": ""
   },
   {
-   "date": "2026-12-11",
-   "time": "",
-   "title": "An Idiot's Guide to Wine: stand-up e degustazione",
-   "venue": "Teatro Centrale (via Celsa 6)",
-   "desc": "Stand-up comedy con degustazione di vino, in italiano, circa 70 minuti. Solo maggiorenni, da 32 euro. Orario sulla pagina dei biglietti.",
-   "url": "https://www.roma-events.it/2026/11/12/risate-e-serate-comiche-spettacoli-da-vedere-nei-prossimi-mesi/",
+   "date": "2026-12-12",
+   "time": "18:00",
+   "title": "Oratorio di Natale di Bach con Enrico Onofri",
+   "venue": "Auditorium Parco della Musica · Sala Santa Cecilia",
+   "cat": "classica",
+   "desc": "Ultima replica dell'Oratorio di Natale di Bach con Orchestra e Coro di Santa Cecilia diretti da Enrico Onofri.",
+   "url": "https://santacecilia.it/stagione/",
    "free": false,
-   "verify": true,
-   "cat": "comedy",
-   "tags": [
-    "standup"
-   ],
-   "id": "r124",
-   "key": "2026-12-11-an-idiot-s-guide-to-wine-stand-up-e-degustazione",
+   "tags": [],
+   "verify": false,
+   "id": "r132",
+   "key": "2026-12-12-oratorio-di-natale-di-bach-con-enrico-onofri",
    "moods": [
-    "ridere"
+    "emozionarmi"
    ],
    "geo": [
-    41.8966,
-    12.4797
+    41.929,
+    12.474
    ],
-   "zona": "Centro storico"
+   "zona": "Prati · Aurelio · Flaminio"
   },
   {
    "date": "2026-12-13",
@@ -2756,7 +3005,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "r118",
+   "id": "r133",
    "key": "2026-12-13-essere-e-tempo-la-vecchiaia-tra-arte-e-psicoanal",
    "moods": [
     "dentro",
@@ -2781,7 +3030,7 @@
     "chiese"
    ],
    "verify": false,
-   "id": "r104",
+   "id": "r134",
    "key": "2026-12-13-42-concerto-di-natale-in-cattedrale-con-marco-fr",
    "moods": [
     "emozionarmi"
@@ -2805,11 +3054,57 @@
    "tags": [
     "standup"
    ],
-   "id": "r125",
+   "id": "r135",
    "key": "2026-12-16-stand-up-comedy-al-b-folk",
    "moods": [
     "ridere"
    ]
+  },
+  {
+   "date": "2026-12-17",
+   "time": "17:45",
+   "title": "Verdi, Wagner e Musorgskij nella Sacrestia del Borromini",
+   "venue": "Sant'Agnese in Agone, Sacrestia del Borromini (piazza Navona)",
+   "cat": "classica",
+   "desc": "Recital per pianoforte del Capriccio Italiano Festival, un'ora di musica romantica nel gioiello barocco di piazza Navona.",
+   "url": "https://www.eventbrite.it/e/piano-concert-in-borrominis-sacristy-piazza-navona-rome-tickets-2004441812419",
+   "free": false,
+   "tags": [
+    "chiese"
+   ],
+   "verify": false,
+   "id": "r136",
+   "key": "2026-12-17-verdi-wagner-e-musorgskij-nella-sacrestia-del-bo",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.8988,
+    12.4726
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-12-17",
+   "time": "19:30",
+   "title": "Juraj Valčuha ed Ettore Pagano con l'Orchestra di Santa Cecilia",
+   "venue": "Auditorium Parco della Musica · Sala Santa Cecilia",
+   "cat": "classica",
+   "desc": "Concerto sinfonico diretto da Juraj Valčuha con il giovane violoncellista Ettore Pagano.",
+   "url": "https://santacecilia.it/stagione/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "r137",
+   "key": "2026-12-17-juraj-valcuha-ed-ettore-pagano-con-l-orchestra-d",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.929,
+    12.474
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
   },
   {
    "date": "2026-12-17",
@@ -2824,7 +3119,7 @@
     "chiese"
    ],
    "verify": false,
-   "id": "r105",
+   "id": "r138",
    "key": "2026-12-17-concerto-di-natale-mozart-mendelssohn-e-handel-a",
    "moods": [
     "emozionarmi"
@@ -2834,6 +3129,28 @@
     12.4939
    ],
    "zona": "Esquilino · Monti · San Lorenzo"
+  },
+  {
+   "date": "2026-12-18",
+   "time": "20:00",
+   "title": "Juraj Valčuha ed Ettore Pagano con l'Orchestra di Santa Cecilia",
+   "venue": "Auditorium Parco della Musica · Sala Santa Cecilia",
+   "cat": "classica",
+   "desc": "Replica del concerto diretto da Juraj Valčuha con il violoncellista Ettore Pagano.",
+   "url": "https://santacecilia.it/stagione/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "r139",
+   "key": "2026-12-18-juraj-valcuha-ed-ettore-pagano-con-l-orchestra-d",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.929,
+    12.474
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
   },
   {
    "date": "2026-12-18",
@@ -2848,7 +3165,7 @@
    "tags": [
     "standup"
    ],
-   "id": "r126",
+   "id": "r140",
    "key": "2026-12-18-an-idiot-s-guide-to-wine-stand-up-e-degustazione",
    "moods": [
     "ridere"
@@ -2858,6 +3175,50 @@
     12.4797
    ],
    "zona": "Centro storico"
+  },
+  {
+   "date": "2026-12-19",
+   "time": "18:00",
+   "title": "Juraj Valčuha ed Ettore Pagano con l'Orchestra di Santa Cecilia",
+   "venue": "Auditorium Parco della Musica · Sala Santa Cecilia",
+   "cat": "classica",
+   "desc": "Ultima replica del concerto diretto da Juraj Valčuha con il violoncellista Ettore Pagano.",
+   "url": "https://santacecilia.it/stagione/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "r141",
+   "key": "2026-12-19-juraj-valcuha-ed-ettore-pagano-con-l-orchestra-d",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.929,
+    12.474
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
+  },
+  {
+   "date": "2026-12-20",
+   "time": "17:30",
+   "title": "I Pastori di Betlemme di Kapsberger",
+   "venue": "Accademia Filarmonica Romana",
+   "cat": "classica",
+   "desc": "Un \"dialogo in musica\" natalizio del liutista Kapsberger, protagonista del primo Barocco romano. Sede e biglietti sul sito della Filarmonica.",
+   "url": "https://www.controluce.it/la-stagione-2026-27-dellaccademia-filarmonica-romana/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "r142",
+   "key": "2026-12-20-i-pastori-di-betlemme-di-kapsberger",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    41.9236,
+    12.4712
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
   }
  ],
  "mostre": []

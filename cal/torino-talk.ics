@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci Torino · Incontri e talk
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-26-paolo-di-paolo-tremare@acculturiamoci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261126T210000
+DTEND;TZID=Europe/Rome:20261126T230000
+SUMMARY:Paolo Di Paolo: Tremare
+LOCATION:il Circolo dei lettori (via Bogino 9)
+DESCRIPTION:Lo scrittore presenta il suo nuovo libro (La nave di Teseo). ht
+ tps://torino.circololettori.it/
+URL:https://torino.circololettori.it/
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-vizi-stravizi-e-invenzioni-letterarie@acculturiamoci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261127T210000
+DTEND;TZID=Europe/Rome:20261127T230000
+SUMMARY:Vizi\, stravizi e invenzioni letterarie
+LOCATION:il Circolo dei lettori (via Bogino 9)
+DESCRIPTION:Serata con Paolo Albani e Paolo Pergola tra stranezze e giochi 
+ della letteratura. https://torino.circololettori.it/
+URL:https://torino.circololettori.it/
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-donatella-di-pietrantonio-lasciarsi-tardi@acculturiamoci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261201T210000
+DTEND;TZID=Europe/Rome:20261201T230000
+SUMMARY:Donatella Di Pietrantonio: Lasciarsi tardi
+LOCATION:il Circolo dei lettori (via Bogino 9)
+DESCRIPTION:Una storia su cosa resta di noi quando un amore lungo finisce. 
+ La scrittrice presenta il nuovo romanzo Einaudi: dopo trent'anni insieme\,
+  una donna viene lasciata e torna a fare i conti con l'abbandono materno. 
+ https://torino.circololettori.it/lasciarsi-tardi/
+URL:https://torino.circololettori.it/lasciarsi-tardi/
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-belle-lettere@acculturiamoci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261202T190000
+DTEND;TZID=Europe/Rome:20261202T210000
+SUMMARY:Belle lettere
+LOCATION:il Circolo dei lettori (via Bogino 9)
+DESCRIPTION:Presentazione di tredici racconti sul confine tra verità e men
+ zogna\, e su come costruiamo chi siamo con ricordi e storie inventate. htt
+ ps://torino.circololettori.it/belle-lettere/
+URL:https://torino.circololettori.it/belle-lettere/
+CATEGORIES:Incontri e talk
+END:VEVENT
+END:VCALENDAR

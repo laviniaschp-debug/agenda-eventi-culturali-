@@ -1,5 +1,23 @@
 [
  {
+  "match": "Biblioteca Ostinata",
+  "lat": 45.459,
+  "lng": 9.1918,
+  "zona": "Porta Romana · Vittoria"
+ },
+ {
+  "match": "Palazzo Morando",
+  "lat": 45.4693,
+  "lng": 9.1963,
+  "zona": "Centro"
+ },
+ {
+  "match": "Festa del Perdono",
+  "lat": 45.4602,
+  "lng": 9.1947,
+  "zona": "Centro"
+ },
+ {
   "match": "BarBip",
   "lat": 45.4523,
   "lng": 9.166,

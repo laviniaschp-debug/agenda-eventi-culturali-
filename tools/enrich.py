@@ -192,6 +192,7 @@ CITIES = [  # file eventi, file luoghi, prefisso calendari, nome
     ("events.json", "venues.json", "", "Milano"),
     ("roma.json", "venues-roma.json", "roma-", "Roma"),
     ("firenze.json", "venues-firenze.json", "firenze-", "Firenze"),
+    ("torino.json", "venues-torino.json", "torino-", "Torino"),
 ]
 
 

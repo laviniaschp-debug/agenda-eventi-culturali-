@@ -1,0 +1,372 @@
+{
+ "range": [
+  "2026-11-26",
+  "2026-12-22"
+ ],
+ "updated": "2026-11-26T10:00:00+01:00",
+ "events": [
+  {
+   "date": "2026-11-26",
+   "time": "21:00",
+   "title": "Paolo Di Paolo: Tremare",
+   "venue": "il Circolo dei lettori (via Bogino 9)",
+   "cat": "talk",
+   "desc": "Lo scrittore presenta il suo nuovo libro (La nave di Teseo).",
+   "url": "https://torino.circololettori.it/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "t000",
+   "key": "2026-11-26-paolo-di-paolo-tremare",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.0668,
+    7.6881
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "18:30",
+   "title": "Ersilia Vaudo: una storia cosmica di luce e oscurità",
+   "venue": "Museo Regionale di Scienze Naturali (via Accademia Albertina 15)",
+   "cat": "scienza",
+   "desc": "Lectio dell'astrofisica Ersilia Vaudo, a cura del Circolo dei lettori.",
+   "url": "https://torino.circololettori.it/",
+   "free": null,
+   "tags": [
+    "imperdibile"
+   ],
+   "verify": false,
+   "why": "L'universo raccontato da chi ha passato la vita all'Agenzia Spaziale Europea.",
+   "id": "t001",
+   "key": "2026-11-27-ersilia-vaudo-una-storia-cosmica-di-luce-e-oscur",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.061,
+    7.6866
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "21:00",
+   "title": "Vizi, stravizi e invenzioni letterarie",
+   "venue": "il Circolo dei lettori (via Bogino 9)",
+   "cat": "talk",
+   "desc": "Serata con Paolo Albani e Paolo Pergola tra stranezze e giochi della letteratura.",
+   "url": "https://torino.circololettori.it/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "t002",
+   "key": "2026-11-27-vizi-stravizi-e-invenzioni-letterarie",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.0668,
+    7.6881
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "16:30",
+   "title": "Gli archetti del Polo (2-5 anni)",
+   "venue": "Polo del '900 (via del Carmine 14)",
+   "cat": "famiglie",
+   "desc": "Laboratorio musicale con gli strumenti ad arco per bambini dai 2 ai 5 anni. A pagamento.",
+   "url": "https://www.torinobimbi.it/indirizzi-utili/polo-del-900.html",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "t003",
+   "key": "2026-11-28-gli-archetti-del-polo-2-5-anni",
+   "moods": [
+    "bambini",
+    "gente"
+   ],
+   "geo": [
+    45.075,
+    7.6781
+   ],
+   "zona": "Quadrilatero · Porta Palazzo"
+  },
+  {
+   "date": "2026-12-01",
+   "time": "21:00",
+   "title": "Donatella Di Pietrantonio: Lasciarsi tardi",
+   "venue": "il Circolo dei lettori (via Bogino 9)",
+   "cat": "talk",
+   "desc": "La scrittrice presenta il nuovo romanzo Einaudi: dopo trent'anni insieme, una donna viene lasciata e torna a fare i conti con l'abbandono materno.",
+   "url": "https://torino.circololettori.it/lasciarsi-tardi/",
+   "free": null,
+   "tags": [
+    "imperdibile"
+   ],
+   "verify": false,
+   "why": "Una storia su cosa resta di noi quando un amore lungo finisce.",
+   "id": "t004",
+   "key": "2026-12-01-donatella-di-pietrantonio-lasciarsi-tardi",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.0668,
+    7.6881
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "19:00",
+   "title": "Belle lettere",
+   "venue": "il Circolo dei lettori (via Bogino 9)",
+   "cat": "talk",
+   "desc": "Presentazione di tredici racconti sul confine tra verità e menzogna, e su come costruiamo chi siamo con ricordi e storie inventate.",
+   "url": "https://torino.circololettori.it/belle-lettere/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "t005",
+   "key": "2026-12-02-belle-lettere",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.0668,
+    7.6881
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "20:30",
+   "title": "OSN Rai: Daniele Rustioni e Roman Simovic",
+   "venue": "Auditorium Rai Arturo Toscanini (via Rossini 15)",
+   "cat": "classica",
+   "desc": "L'Orchestra Sinfonica Nazionale della Rai con Rustioni sul podio e Simovic al violino: Liszt, Rózsa e Dvořák.",
+   "url": "https://concertisticlassica.com/torino-orchestra-sinfonica-nazionale-della-rai-stagione-2026-2027/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "t006",
+   "key": "2026-12-03-osn-rai-daniele-rustioni-e-roman-simovic",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.0712,
+    7.6948
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "20:00",
+   "title": "OSN Rai: Daniele Rustioni e Roman Simovic",
+   "venue": "Auditorium Rai Arturo Toscanini (via Rossini 15)",
+   "cat": "classica",
+   "desc": "Replica del concerto con Rustioni e Simovic: Liszt, Rózsa e Dvořák.",
+   "url": "https://concertisticlassica.com/torino-orchestra-sinfonica-nazionale-della-rai-stagione-2026-2027/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "t007",
+   "key": "2026-12-04-osn-rai-daniele-rustioni-e-roman-simovic",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.0712,
+    7.6948
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "",
+   "title": "Festival del Classico: Alberto Angela apre Politeia/Convivenze",
+   "venue": "Conservatorio Giuseppe Verdi (piazza Bodoni)",
+   "cat": "storia",
+   "desc": "Apertura del Festival del Classico: Alberto Angela parla di Giulio Cesare e del rapporto tra potere personale e vita collettiva. Orari e prenotazioni sul sito del festival.",
+   "url": "https://www.sbircialanotizia.it/articoli/2026/11/18/festival-classico-lxum4/",
+   "free": null,
+   "tags": [
+    "imperdibile"
+   ],
+   "verify": true,
+   "why": "Duemila anni dopo Cesare, la domanda è la stessa: come si vive insieme?",
+   "id": "t008",
+   "key": "2026-12-09-festival-del-classico-alberto-angela-apre-polite",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.063,
+    7.6812
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-10",
+   "time": "20:30",
+   "title": "OSN Rai: Michele Mariotti dirige Schubert e Strauss",
+   "venue": "Auditorium Rai Arturo Toscanini (via Rossini 15)",
+   "cat": "classica",
+   "desc": "Primo concerto di Mariotti da direttore principale: la Nona \"La Grande\" di Schubert e i Quattro ultimi Lieder di Strauss con il soprano Miah Persson.",
+   "url": "https://www.tpnews.it/2026/07/stagione-2026-2027-orchestra-rai-torino-programma-e-biglietti/",
+   "free": false,
+   "tags": [
+    "imperdibile"
+   ],
+   "verify": false,
+   "id": "t009",
+   "key": "2026-12-10-osn-rai-michele-mariotti-dirige-schubert-e-strau",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.0712,
+    7.6948
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-10",
+   "time": "",
+   "title": "Festival del Classico: dialogo sulla pace con Zuppi, Caracciolo e Dionigi",
+   "venue": "Torino (sede sul sito del festival)",
+   "cat": "filosofia",
+   "desc": "Il cardinale Matteo Maria Zuppi, il direttore di Limes Lucio Caracciolo e il latinista Ivano Dionigi dialogano sulla pace. Sede e orario sul sito del Festival del Classico.",
+   "url": "https://www.sbircialanotizia.it/articoli/2026/11/18/festival-classico-lxum4/",
+   "free": null,
+   "tags": [],
+   "verify": true,
+   "id": "t010",
+   "key": "2026-12-10-festival-del-classico-dialogo-sulla-pace-con-zup",
+   "moods": [
+    "dentro",
+    "pensare"
+   ]
+  },
+  {
+   "date": "2026-12-11",
+   "time": "20:00",
+   "title": "OSN Rai: Michele Mariotti dirige Schubert e Strauss",
+   "venue": "Auditorium Rai Arturo Toscanini (via Rossini 15)",
+   "cat": "classica",
+   "desc": "Replica: la Nona di Schubert e i Quattro ultimi Lieder di Strauss con Miah Persson.",
+   "url": "https://www.tpnews.it/2026/07/stagione-2026-2027-orchestra-rai-torino-programma-e-biglietti/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "t011",
+   "key": "2026-12-11-osn-rai-michele-mariotti-dirige-schubert-e-strau",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.0712,
+    7.6948
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-16",
+   "time": "21:00",
+   "title": "Cinema e psicoanalisi: i (nuovi) teatri dell'isteria",
+   "venue": "Cinema Massimo (via Verdi 18)",
+   "cat": "filosofia",
+   "desc": "Ultimo appuntamento 2026 della rassegna del Centro Torinese di Psicoanalisi e del Museo del Cinema: un film presentato da una psicoanalista e discusso con il pubblico. Titolo sul sito del Centro.",
+   "url": "https://www.spiweb.it/upcoming-events/",
+   "free": false,
+   "tags": [],
+   "verify": true,
+   "id": "t012",
+   "key": "2026-12-16-cinema-e-psicoanalisi-i-nuovi-teatri-dell-isteri",
+   "moods": [
+    "dentro",
+    "pensare"
+   ],
+   "geo": [
+    45.0694,
+    7.6951
+   ],
+   "zona": "Vanchiglia · Borgo Po"
+  },
+  {
+   "date": "2026-12-17",
+   "time": "20:30",
+   "title": "OSN Rai: Ravel e la Symphonie fantastique",
+   "venue": "Auditorium Rai Arturo Toscanini (via Rossini 15)",
+   "cat": "classica",
+   "desc": "Ana María Patiño-Osorio dirige la Symphonie fantastique di Berlioz; Marie-Ange Nguci suona il Concerto in sol di Ravel.",
+   "url": "https://concertisticlassica.com/torino-orchestra-sinfonica-nazionale-della-rai-stagione-2026-2027/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "t013",
+   "key": "2026-12-17-osn-rai-ravel-e-la-symphonie-fantastique",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.0712,
+    7.6948
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-18",
+   "time": "20:00",
+   "title": "OSN Rai: Ravel e la Symphonie fantastique",
+   "venue": "Auditorium Rai Arturo Toscanini (via Rossini 15)",
+   "cat": "classica",
+   "desc": "Replica: Berlioz e il Concerto in sol di Ravel con Marie-Ange Nguci.",
+   "url": "https://concertisticlassica.com/torino-orchestra-sinfonica-nazionale-della-rai-stagione-2026-2027/",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "t014",
+   "key": "2026-12-18-osn-rai-ravel-e-la-symphonie-fantastique",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.0712,
+    7.6948
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-22",
+   "time": "20:30",
+   "title": "Concerto di Natale: Fabio Luisi dirige la Nona di Beethoven",
+   "venue": "Auditorium Rai Arturo Toscanini (via Rossini 15)",
+   "cat": "classica",
+   "desc": "Il direttore emerito torna sul podio dell'OSN Rai con il Coro del Teatro Regio per la Nona Sinfonia, nel bicentenario della morte di Beethoven.",
+   "url": "https://www.tpnews.it/2026/07/stagione-2026-2027-orchestra-rai-torino-programma-e-biglietti/",
+   "free": false,
+   "tags": [
+    "imperdibile"
+   ],
+   "verify": false,
+   "id": "t015",
+   "key": "2026-12-22-concerto-di-natale-fabio-luisi-dirige-la-nona-di",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.0712,
+    7.6948
+   ],
+   "zona": "Centro"
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci Torino · Musica e concerti
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-03-osn-rai-daniele-rustioni-e-roman-simovic@acculturiamoci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261203T203000
+DTEND;TZID=Europe/Rome:20261203T223000
+SUMMARY:OSN Rai: Daniele Rustioni e Roman Simovic
+LOCATION:Auditorium Rai Arturo Toscanini (via Rossini 15)
+DESCRIPTION:L'Orchestra Sinfonica Nazionale della Rai con Rustioni sul podi
+ o e Simovic al violino: Liszt\, Rózsa e Dvořák. https://concertisticlas
+ sica.com/torino-orchestra-sinfonica-nazionale-della-rai-stagione-2026-2027
+ /
+URL:https://concertisticlassica.com/torino-orchestra-sinfonica-nazionale-de
+ lla-rai-stagione-2026-2027/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-osn-rai-daniele-rustioni-e-roman-simovic@acculturiamoci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261204T200000
+DTEND;TZID=Europe/Rome:20261204T220000
+SUMMARY:OSN Rai: Daniele Rustioni e Roman Simovic
+LOCATION:Auditorium Rai Arturo Toscanini (via Rossini 15)
+DESCRIPTION:Replica del concerto con Rustioni e Simovic: Liszt\, Rózsa e D
+ vořák. https://concertisticlassica.com/torino-orchestra-sinfonica-nazion
+ ale-della-rai-stagione-2026-2027/
+URL:https://concertisticlassica.com/torino-orchestra-sinfonica-nazionale-de
+ lla-rai-stagione-2026-2027/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-osn-rai-michele-mariotti-dirige-schubert-e-strau@acculturiam
+ oci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261210T203000
+DTEND;TZID=Europe/Rome:20261210T223000
+SUMMARY:OSN Rai: Michele Mariotti dirige Schubert e Strauss
+LOCATION:Auditorium Rai Arturo Toscanini (via Rossini 15)
+DESCRIPTION:Primo concerto di Mariotti da direttore principale: la Nona "La
+  Grande" di Schubert e i Quattro ultimi Lieder di Strauss con il soprano M
+ iah Persson. https://www.tpnews.it/2026/07/stagione-2026-2027-orchestra-ra
+ i-torino-programma-e-biglietti/
+URL:https://www.tpnews.it/2026/07/stagione-2026-2027-orchestra-rai-torino-p
+ rogramma-e-biglietti/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-osn-rai-michele-mariotti-dirige-schubert-e-strau@acculturiam
+ oci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261211T200000
+DTEND;TZID=Europe/Rome:20261211T220000
+SUMMARY:OSN Rai: Michele Mariotti dirige Schubert e Strauss
+LOCATION:Auditorium Rai Arturo Toscanini (via Rossini 15)
+DESCRIPTION:Replica: la Nona di Schubert e i Quattro ultimi Lieder di Strau
+ ss con Miah Persson. https://www.tpnews.it/2026/07/stagione-2026-2027-orch
+ estra-rai-torino-programma-e-biglietti/
+URL:https://www.tpnews.it/2026/07/stagione-2026-2027-orchestra-rai-torino-p
+ rogramma-e-biglietti/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-osn-rai-ravel-e-la-symphonie-fantastique@acculturiamoci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261217T203000
+DTEND;TZID=Europe/Rome:20261217T223000
+SUMMARY:OSN Rai: Ravel e la Symphonie fantastique
+LOCATION:Auditorium Rai Arturo Toscanini (via Rossini 15)
+DESCRIPTION:Ana María Patiño-Osorio dirige la Symphonie fantastique di Be
+ rlioz\; Marie-Ange Nguci suona il Concerto in sol di Ravel. https://concer
+ tisticlassica.com/torino-orchestra-sinfonica-nazionale-della-rai-stagione-
+ 2026-2027/
+URL:https://concertisticlassica.com/torino-orchestra-sinfonica-nazionale-de
+ lla-rai-stagione-2026-2027/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-osn-rai-ravel-e-la-symphonie-fantastique@acculturiamoci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261218T200000
+DTEND;TZID=Europe/Rome:20261218T220000
+SUMMARY:OSN Rai: Ravel e la Symphonie fantastique
+LOCATION:Auditorium Rai Arturo Toscanini (via Rossini 15)
+DESCRIPTION:Replica: Berlioz e il Concerto in sol di Ravel con Marie-Ange N
+ guci. https://concertisticlassica.com/torino-orchestra-sinfonica-nazionale
+ -della-rai-stagione-2026-2027/
+URL:https://concertisticlassica.com/torino-orchestra-sinfonica-nazionale-de
+ lla-rai-stagione-2026-2027/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-concerto-di-natale-fabio-luisi-dirige-la-nona-di@acculturiam
+ oci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261222T203000
+DTEND;TZID=Europe/Rome:20261222T223000
+SUMMARY:Concerto di Natale: Fabio Luisi dirige la Nona di Beethoven
+LOCATION:Auditorium Rai Arturo Toscanini (via Rossini 15)
+DESCRIPTION:Il direttore emerito torna sul podio dell'OSN Rai con il Coro d
+ el Teatro Regio per la Nona Sinfonia\, nel bicentenario della morte di Bee
+ thoven. https://www.tpnews.it/2026/07/stagione-2026-2027-orchestra-rai-tor
+ ino-programma-e-biglietti/
+URL:https://www.tpnews.it/2026/07/stagione-2026-2027-orchestra-rai-torino-p
+ rogramma-e-biglietti/
+CATEGORIES:Classica e chiese
+END:VEVENT
+END:VCALENDAR

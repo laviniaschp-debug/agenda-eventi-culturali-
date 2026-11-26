@@ -1,5 +1,17 @@
 [
  {
+  "match": "Sant'Agnese in Agone",
+  "lat": 41.8988,
+  "lng": 12.4726,
+  "zona": "Centro storico"
+ },
+ {
+  "match": "Filarmonica Romana",
+  "lat": 41.9236,
+  "lng": 12.4712,
+  "zona": "Prati · Aurelio · Flaminio"
+ },
+ {
   "match": "MACRO",
   "lat": 41.9137,
   "lng": 12.5007,

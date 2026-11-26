@@ -1,9 +1,9 @@
 {
  "city": "firenze",
- "updated": "2026-11-24T23:59:00+01:00",
+ "updated": "2026-11-26T10:00:00+01:00",
  "range": [
   "2026-11-24",
-  "2026-12-15"
+  "2026-12-20"
  ],
  "mostre": [],
  "events": [
@@ -43,7 +43,7 @@
    ],
    "verify": false,
    "why": "Una sera per ricordarsi che essere libere è il punto di partenza, non un premio.",
-   "id": "f041",
+   "id": "f001",
    "key": "2026-11-25-la-liberta-di-essere-teatro-e-arte-contro-la-vio",
    "moods": [
     "emozionarmi"
@@ -60,7 +60,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "f001",
+   "id": "f002",
    "key": "2026-11-25-ivan-e-i-cani-con-federica-rosellini",
    "moods": [
     "emozionarmi"
@@ -82,7 +82,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "f002",
+   "id": "f003",
    "key": "2026-11-25-che-fai-tu-luna-in-ciel-leopardi-e-il-cielo",
    "moods": [
     "dentro",
@@ -107,7 +107,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "f003",
+   "id": "f004",
    "key": "2026-11-26-lo-zar-di-e-con-stefano-massini",
    "moods": [
     "emozionarmi"
@@ -129,7 +129,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "f004",
+   "id": "f005",
    "key": "2026-11-27-la-musica-del-mio-picchio-presentazione-con-lett",
    "moods": [
     "pensare"
@@ -153,7 +153,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "f005",
+   "id": "f006",
    "key": "2026-11-27-limes-la-tempesta-americana-e-la-fine-dei-tabu",
    "moods": [
     "pensare"
@@ -175,7 +175,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "f006",
+   "id": "f007",
    "key": "2026-11-27-le-cose-che-portiamo-con-noi-storie-e-letture",
    "moods": [
     "pensare"
@@ -188,6 +188,32 @@
   },
   {
    "date": "2026-11-27",
+   "time": "21:00",
+   "title": "Da Notre-Dame a Santa Croce: Vincent Dubois all'organo",
+   "venue": "Basilica di Santa Croce (piazza Santa Croce 16)",
+   "cat": "classica",
+   "desc": "L'organista titolare di Notre-Dame di Parigi suona nella basilica francescana per gli 800 anni dalla morte di San Francesco. Toscana Organ Festival.",
+   "url": "https://www.ansa.it/toscana/notizie/2026/11/23/da-notre-dame-a-santa-croce-concerto-maestro-dubois-per-san-francesco_9e0970e3-1c34-466d-a99f-545e4344311c.html",
+   "free": null,
+   "tags": [
+    "chiese",
+    "imperdibile"
+   ],
+   "verify": false,
+   "why": "L'organista di Notre-Dame, nella più grande basilica francescana d'Europa.",
+   "id": "f008",
+   "key": "2026-11-27-da-notre-dame-a-santa-croce-vincent-dubois-all-o",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    43.7686,
+    11.2627
+   ],
+   "zona": "Santa Croce · Sant'Ambrogio"
+  },
+  {
+   "date": "2026-11-27",
    "time": "",
    "title": "Lo Zar, di e con Stefano Massini",
    "venue": "Teatro della Pergola (via della Pergola 12/32)",
@@ -197,7 +223,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "f007",
+   "id": "f009",
    "key": "2026-11-27-lo-zar-di-e-con-stefano-massini",
    "moods": [
     "emozionarmi"
@@ -207,6 +233,28 @@
     11.261
    ],
    "zona": "Santa Croce · Sant'Ambrogio"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "",
+   "title": "Vent'anni di Fondazione Palazzo Strozzi",
+   "venue": "Palazzo Strozzi (piazza degli Strozzi)",
+   "cat": "storia",
+   "desc": "Un grande evento pubblico per festeggiare i vent'anni della Fondazione. Programma e orari sul sito di Palazzo Strozzi.",
+   "url": "https://www.palazzostrozzi.org/",
+   "free": null,
+   "tags": [],
+   "verify": true,
+   "id": "f010",
+   "key": "2026-11-27-vent-anni-di-fondazione-palazzo-strozzi",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    43.7713,
+    11.2518
+   ],
+   "zona": "Centro storico"
   },
   {
    "date": "2026-11-28",
@@ -219,7 +267,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "f008",
+   "id": "f011",
    "key": "2026-11-28-limes-il-mondo-ingolfato",
    "moods": [
     "pensare"
@@ -241,7 +289,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "f009",
+   "id": "f012",
    "key": "2026-11-28-lukas-sternath-pianoforte",
    "moods": [
     "emozionarmi"
@@ -263,7 +311,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "f010",
+   "id": "f013",
    "key": "2026-11-28-limes-ucraina-anno-zero",
    "moods": [
     "pensare"
@@ -287,7 +335,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "f011",
+   "id": "f014",
    "key": "2026-11-28-limes-l-italia-nell-arco-delle-crisi-con-alessan",
    "moods": [
     "pensare"
@@ -311,7 +359,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "f012",
+   "id": "f015",
    "key": "2026-11-28-l-analfabeta-federica-fracassi-e-agota-kristof",
    "moods": [
     "dentro",
@@ -334,7 +382,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "f013",
+   "id": "f016",
    "key": "2026-11-28-lo-zar-di-e-con-stefano-massini",
    "moods": [
     "emozionarmi"
@@ -356,7 +404,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "f014",
+   "id": "f017",
    "key": "2026-11-28-caccia-l-drago-di-daniele-timpano",
    "moods": [
     "emozionarmi",
@@ -379,7 +427,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "f015",
+   "id": "f018",
    "key": "2026-11-28-christophe-rousset-al-teatro-del-maggio",
    "moods": [
     "emozionarmi"
@@ -427,7 +475,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "f016",
+   "id": "f020",
    "key": "2026-11-29-caccia-l-drago-di-daniele-timpano",
    "moods": [
     "emozionarmi",
@@ -450,7 +498,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "f017",
+   "id": "f021",
    "key": "2026-11-29-figlie-del-secolo-cento-anni-negli-sguardi-delle",
    "moods": [
     "emozionarmi"
@@ -472,7 +520,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "f018",
+   "id": "f022",
    "key": "2026-11-29-lo-zar-di-e-con-stefano-massini",
    "moods": [
     "emozionarmi"
@@ -494,7 +542,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "f020",
+   "id": "f023",
    "key": "2026-11-29-the-dark-side-of-the-light-l-inquinamento-lumino",
    "moods": [
     "pensare"
@@ -502,6 +550,28 @@
    "geo": [
     43.7772,
     11.264
+   ],
+   "zona": "Santa Croce · Sant'Ambrogio"
+  },
+  {
+   "date": "2026-11-30",
+   "time": "",
+   "title": "Alluvione di Firenze, 60 anni dopo: foto e video inediti",
+   "venue": "Caffè Letterario Le Murate (piazza delle Murate)",
+   "cat": "storia",
+   "desc": "Proiezione di foto e video mai visti sull'alluvione del 4 novembre 1966, a cura di Cristina Galletti. Orario sul sito delle Murate.",
+   "url": "https://www.lemurate.it/eventi/",
+   "free": null,
+   "tags": [],
+   "verify": true,
+   "id": "f024",
+   "key": "2026-11-30-alluvione-di-firenze-60-anni-dopo-foto-e-video-i",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    43.771,
+    11.2645
    ],
    "zona": "Santa Croce · Sant'Ambrogio"
   },
@@ -516,7 +586,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "f021",
+   "id": "f025",
    "key": "2026-12-01-paolo-ciampi-liberta-delle-panchine",
    "moods": [
     "pensare"
@@ -538,7 +608,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "f022",
+   "id": "f026",
    "key": "2026-12-01-anna-prohaska-e-isabelle-faust",
    "moods": [
     "emozionarmi"
@@ -560,7 +630,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "f023",
+   "id": "f027",
    "key": "2026-12-01-lo-zar-di-e-con-stefano-massini",
    "moods": [
     "emozionarmi"
@@ -582,7 +652,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "f024",
+   "id": "f028",
    "key": "2026-12-02-ricordando-ernesto-ragionieri-cento-anni-dopo",
    "moods": [
     "pensare"
@@ -595,6 +665,28 @@
   },
   {
    "date": "2026-12-02",
+   "time": "18:00",
+   "title": "Ricostruire il passato: visita speciale alla mostra Broken",
+   "venue": "Palazzo Strozzi (piazza degli Strozzi)",
+   "cat": "storia",
+   "desc": "Visita alla mostra sul frammento nella scultura, per immaginare e riscrivere i passati possibili degli oggetti. Gratis per i residenti della Città Metropolitana, prenotazione obbligatoria.",
+   "url": "https://www.palazzostrozzi.org/evento/ricostruire-il-passato/",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "f029",
+   "key": "2026-12-02-ricostruire-il-passato-visita-speciale-alla-most",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    43.7713,
+    11.2518
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-12-02",
    "time": "19:00",
    "title": "Lo Zar, di e con Stefano Massini",
    "venue": "Teatro della Pergola (via della Pergola 12/32)",
@@ -604,7 +696,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "f025",
+   "id": "f030",
    "key": "2026-12-02-lo-zar-di-e-con-stefano-massini",
    "moods": [
     "emozionarmi"
@@ -626,7 +718,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "f026",
+   "id": "f031",
    "key": "2026-12-02-il-cielo-del-mese",
    "moods": [
     "pensare"
@@ -648,7 +740,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "f027",
+   "id": "f032",
    "key": "2026-12-03-lo-zar-di-e-con-stefano-massini",
    "moods": [
     "emozionarmi"
@@ -670,7 +762,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "f028",
+   "id": "f033",
    "key": "2026-12-03-specchio-riflesso-conferenza-spettacolo-di-luca-",
    "moods": [
     "pensare"
@@ -694,7 +786,7 @@
    "tags": [
     "standup"
    ],
-   "id": "f038",
+   "id": "f034",
    "key": "2026-12-04-open-mic-stand-up-comedy-night",
    "moods": [
     "ridere"
@@ -711,7 +803,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "f029",
+   "id": "f035",
    "key": "2026-12-04-lo-zar-di-e-con-stefano-massini",
    "moods": [
     "emozionarmi"
@@ -733,7 +825,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "f030",
+   "id": "f036",
    "key": "2026-12-04-tu-mi-sognavi-io-non-dormivo-achmatova-e-modigli",
    "moods": [
     "dentro",
@@ -756,7 +848,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "f031",
+   "id": "f037",
    "key": "2026-12-05-woke-cancel-culture-e-decolonizzazione",
    "moods": [
     "dentro",
@@ -779,7 +871,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "f032",
+   "id": "f038",
    "key": "2026-12-05-reading-alla-living-il-romanzo-lo-sceglie-il-pub",
    "moods": [
     "emozionarmi"
@@ -801,7 +893,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "f033",
+   "id": "f039",
    "key": "2026-12-05-lo-zar-di-e-con-stefano-massini",
    "moods": [
     "emozionarmi"
@@ -823,7 +915,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "f034",
+   "id": "f040",
    "key": "2026-12-05-arsenii-moon-pianoforte",
    "moods": [
     "emozionarmi"
@@ -845,7 +937,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "f035",
+   "id": "f041",
    "key": "2026-12-06-concerto-di-natale-al-teatro-del-maggio",
    "moods": [
     "emozionarmi"
@@ -867,7 +959,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "f036",
+   "id": "f042",
    "key": "2026-12-06-emanuele-arciuli-pianoforte",
    "moods": [
     "emozionarmi"
@@ -889,7 +981,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "f037",
+   "id": "f043",
    "key": "2026-12-06-lo-zar-di-e-con-stefano-massini",
    "moods": [
     "emozionarmi"
@@ -913,7 +1005,7 @@
    "tags": [
     "standup"
    ],
-   "id": "f039",
+   "id": "f044",
    "key": "2026-12-14-jonathan-canini-te-lo-giuro-sul-tuo-ex",
    "moods": [
     "ridere"
@@ -937,7 +1029,7 @@
    "tags": [
     "standup"
    ],
-   "id": "f040",
+   "id": "f045",
    "key": "2026-12-15-jonathan-canini-te-lo-giuro-sul-tuo-ex",
    "moods": [
     "ridere"
@@ -947,6 +1039,75 @@
     11.2291
    ],
    "zona": "Cascine · Rifredi · Novoli"
+  },
+  {
+   "date": "2026-12-16",
+   "time": "10:00",
+   "title": "Death Cafe al Conventino",
+   "venue": "Il Conventino Caffè Letterario (via Giano della Bella 20)",
+   "cat": "salute",
+   "desc": "Un caffè per parlare di morte e di lutto, ascoltare e condividere esperienze, guidato da Lucy De Fazio. Ogni terzo mercoledì del mese, prenotazione su WhatsApp al 329 6049911.",
+   "url": "https://ma.to/event/death-cafe-al-conventino-16-dec-2026",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "f046",
+   "key": "2026-12-16-death-cafe-al-conventino",
+   "moods": [
+    "dentro",
+    "pensare"
+   ],
+   "geo": [
+    43.7626,
+    11.244
+   ],
+   "zona": "Oltrarno · Santo Spirito"
+  },
+  {
+   "date": "2026-12-16",
+   "time": "18:00",
+   "title": "Ricostruire il passato: visita speciale alla mostra Broken",
+   "venue": "Palazzo Strozzi (piazza degli Strozzi)",
+   "cat": "storia",
+   "desc": "Ultima visita speciale alla mostra sul frammento nella scultura. Gratis per i residenti della Città Metropolitana, prenotazione obbligatoria.",
+   "url": "https://www.palazzostrozzi.org/evento/ricostruire-il-passato/",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "f047",
+   "key": "2026-12-16-ricostruire-il-passato-visita-speciale-alla-most",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    43.7713,
+    11.2518
+   ],
+   "zona": "Centro storico"
+  },
+  {
+   "date": "2026-12-16",
+   "time": "20:30",
+   "title": "Canto gregoriano a Santa Croce: Christus natus est nobis",
+   "venue": "Basilica di Santa Croce (piazza Santa Croce 16)",
+   "cat": "classica",
+   "desc": "Il Coro Viri Galilaei diretto da Enzo Ventroni canta vespri e brani natalizi gregoriani. Ingresso libero fino a esaurimento posti, poco meno di un'ora.",
+   "url": "https://www.destinationflorence.com/it/eventi/canto-gregoriano-nella-basilica-di-santa-croce-coro-viri-galilaei",
+   "free": true,
+   "tags": [
+    "chiese"
+   ],
+   "verify": false,
+   "id": "f048",
+   "key": "2026-12-16-canto-gregoriano-a-santa-croce-christus-natus-es",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    43.7686,
+    11.2627
+   ],
+   "zona": "Santa Croce · Sant'Ambrogio"
   }
  ]
 }

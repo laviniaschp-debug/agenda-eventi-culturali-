@@ -1,0 +1,259 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//acculturiamoci.it//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acculturiamoci · Torino
+X-WR-TIMEZONE:Europe/Rome
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-26-paolo-di-paolo-tremare@acculturiamoci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261126T210000
+DTEND;TZID=Europe/Rome:20261126T230000
+SUMMARY:Paolo Di Paolo: Tremare
+LOCATION:il Circolo dei lettori (via Bogino 9)
+DESCRIPTION:Lo scrittore presenta il suo nuovo libro (La nave di Teseo). ht
+ tps://torino.circololettori.it/
+URL:https://torino.circololettori.it/
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-ersilia-vaudo-una-storia-cosmica-di-luce-e-oscur@acculturiam
+ oci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261127T183000
+DTEND;TZID=Europe/Rome:20261127T203000
+SUMMARY:Ersilia Vaudo: una storia cosmica di luce e oscurità
+LOCATION:Museo Regionale di Scienze Naturali (via Accademia Albertina 15)
+DESCRIPTION:L'universo raccontato da chi ha passato la vita all'Agenzia Spa
+ ziale Europea. Lectio dell'astrofisica Ersilia Vaudo\, a cura del Circolo 
+ dei lettori. https://torino.circololettori.it/
+URL:https://torino.circololettori.it/
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-vizi-stravizi-e-invenzioni-letterarie@acculturiamoci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261127T210000
+DTEND;TZID=Europe/Rome:20261127T230000
+SUMMARY:Vizi\, stravizi e invenzioni letterarie
+LOCATION:il Circolo dei lettori (via Bogino 9)
+DESCRIPTION:Serata con Paolo Albani e Paolo Pergola tra stranezze e giochi 
+ della letteratura. https://torino.circololettori.it/
+URL:https://torino.circololettori.it/
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-gli-archetti-del-polo-2-5-anni@acculturiamoci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261128T163000
+DTEND;TZID=Europe/Rome:20261128T183000
+SUMMARY:Gli archetti del Polo (2-5 anni)
+LOCATION:Polo del '900 (via del Carmine 14)
+DESCRIPTION:Laboratorio musicale con gli strumenti ad arco per bambini dai 
+ 2 ai 5 anni. A pagamento. https://www.torinobimbi.it/indirizzi-utili/polo-
+ del-900.html
+URL:https://www.torinobimbi.it/indirizzi-utili/polo-del-900.html
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-donatella-di-pietrantonio-lasciarsi-tardi@acculturiamoci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261201T210000
+DTEND;TZID=Europe/Rome:20261201T230000
+SUMMARY:Donatella Di Pietrantonio: Lasciarsi tardi
+LOCATION:il Circolo dei lettori (via Bogino 9)
+DESCRIPTION:Una storia su cosa resta di noi quando un amore lungo finisce. 
+ La scrittrice presenta il nuovo romanzo Einaudi: dopo trent'anni insieme\,
+  una donna viene lasciata e torna a fare i conti con l'abbandono materno. 
+ https://torino.circololettori.it/lasciarsi-tardi/
+URL:https://torino.circololettori.it/lasciarsi-tardi/
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-belle-lettere@acculturiamoci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261202T190000
+DTEND;TZID=Europe/Rome:20261202T210000
+SUMMARY:Belle lettere
+LOCATION:il Circolo dei lettori (via Bogino 9)
+DESCRIPTION:Presentazione di tredici racconti sul confine tra verità e men
+ zogna\, e su come costruiamo chi siamo con ricordi e storie inventate. htt
+ ps://torino.circololettori.it/belle-lettere/
+URL:https://torino.circololettori.it/belle-lettere/
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-osn-rai-daniele-rustioni-e-roman-simovic@acculturiamoci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261203T203000
+DTEND;TZID=Europe/Rome:20261203T223000
+SUMMARY:OSN Rai: Daniele Rustioni e Roman Simovic
+LOCATION:Auditorium Rai Arturo Toscanini (via Rossini 15)
+DESCRIPTION:L'Orchestra Sinfonica Nazionale della Rai con Rustioni sul podi
+ o e Simovic al violino: Liszt\, Rózsa e Dvořák. https://concertisticlas
+ sica.com/torino-orchestra-sinfonica-nazionale-della-rai-stagione-2026-2027
+ /
+URL:https://concertisticlassica.com/torino-orchestra-sinfonica-nazionale-de
+ lla-rai-stagione-2026-2027/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-osn-rai-daniele-rustioni-e-roman-simovic@acculturiamoci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261204T200000
+DTEND;TZID=Europe/Rome:20261204T220000
+SUMMARY:OSN Rai: Daniele Rustioni e Roman Simovic
+LOCATION:Auditorium Rai Arturo Toscanini (via Rossini 15)
+DESCRIPTION:Replica del concerto con Rustioni e Simovic: Liszt\, Rózsa e D
+ vořák. https://concertisticlassica.com/torino-orchestra-sinfonica-nazion
+ ale-della-rai-stagione-2026-2027/
+URL:https://concertisticlassica.com/torino-orchestra-sinfonica-nazionale-de
+ lla-rai-stagione-2026-2027/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-festival-del-classico-alberto-angela-apre-polite@acculturiam
+ oci.it
+DTSTAMP:20261126T080456Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Festival del Classico: Alberto Angela apre Politeia/Convivenze
+LOCATION:Conservatorio Giuseppe Verdi (piazza Bodoni)
+DESCRIPTION:Duemila anni dopo Cesare\, la domanda è la stessa: come si viv
+ e insieme? Apertura del Festival del Classico: Alberto Angela parla di Giu
+ lio Cesare e del rapporto tra potere personale e vita collettiva. Orari e 
+ prenotazioni sul sito del festival. https://www.sbircialanotizia.it/artico
+ li/2026/11/18/festival-classico-lxum4/
+URL:https://www.sbircialanotizia.it/articoli/2026/11/18/festival-classico-l
+ xum4/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-osn-rai-michele-mariotti-dirige-schubert-e-strau@acculturiam
+ oci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261210T203000
+DTEND;TZID=Europe/Rome:20261210T223000
+SUMMARY:OSN Rai: Michele Mariotti dirige Schubert e Strauss
+LOCATION:Auditorium Rai Arturo Toscanini (via Rossini 15)
+DESCRIPTION:Primo concerto di Mariotti da direttore principale: la Nona "La
+  Grande" di Schubert e i Quattro ultimi Lieder di Strauss con il soprano M
+ iah Persson. https://www.tpnews.it/2026/07/stagione-2026-2027-orchestra-ra
+ i-torino-programma-e-biglietti/
+URL:https://www.tpnews.it/2026/07/stagione-2026-2027-orchestra-rai-torino-p
+ rogramma-e-biglietti/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-festival-del-classico-dialogo-sulla-pace-con-zup@acculturiam
+ oci.it
+DTSTAMP:20261126T080456Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Festival del Classico: dialogo sulla pace con Zuppi\, Caracciolo e 
+ Dionigi
+LOCATION:Torino (sede sul sito del festival)
+DESCRIPTION:Il cardinale Matteo Maria Zuppi\, il direttore di Limes Lucio C
+ aracciolo e il latinista Ivano Dionigi dialogano sulla pace. Sede e orario
+  sul sito del Festival del Classico. https://www.sbircialanotizia.it/artic
+ oli/2026/11/18/festival-classico-lxum4/
+URL:https://www.sbircialanotizia.it/articoli/2026/11/18/festival-classico-l
+ xum4/
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-osn-rai-michele-mariotti-dirige-schubert-e-strau@acculturiam
+ oci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261211T200000
+DTEND;TZID=Europe/Rome:20261211T220000
+SUMMARY:OSN Rai: Michele Mariotti dirige Schubert e Strauss
+LOCATION:Auditorium Rai Arturo Toscanini (via Rossini 15)
+DESCRIPTION:Replica: la Nona di Schubert e i Quattro ultimi Lieder di Strau
+ ss con Miah Persson. https://www.tpnews.it/2026/07/stagione-2026-2027-orch
+ estra-rai-torino-programma-e-biglietti/
+URL:https://www.tpnews.it/2026/07/stagione-2026-2027-orchestra-rai-torino-p
+ rogramma-e-biglietti/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-cinema-e-psicoanalisi-i-nuovi-teatri-dell-isteri@acculturiam
+ oci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261216T210000
+DTEND;TZID=Europe/Rome:20261216T230000
+SUMMARY:Cinema e psicoanalisi: i (nuovi) teatri dell'isteria
+LOCATION:Cinema Massimo (via Verdi 18)
+DESCRIPTION:Ultimo appuntamento 2026 della rassegna del Centro Torinese di 
+ Psicoanalisi e del Museo del Cinema: un film presentato da una psicoanalis
+ ta e discusso con il pubblico. Titolo sul sito del Centro. https://www.spi
+ web.it/upcoming-events/
+URL:https://www.spiweb.it/upcoming-events/
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-osn-rai-ravel-e-la-symphonie-fantastique@acculturiamoci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261217T203000
+DTEND;TZID=Europe/Rome:20261217T223000
+SUMMARY:OSN Rai: Ravel e la Symphonie fantastique
+LOCATION:Auditorium Rai Arturo Toscanini (via Rossini 15)
+DESCRIPTION:Ana María Patiño-Osorio dirige la Symphonie fantastique di Be
+ rlioz\; Marie-Ange Nguci suona il Concerto in sol di Ravel. https://concer
+ tisticlassica.com/torino-orchestra-sinfonica-nazionale-della-rai-stagione-
+ 2026-2027/
+URL:https://concertisticlassica.com/torino-orchestra-sinfonica-nazionale-de
+ lla-rai-stagione-2026-2027/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-osn-rai-ravel-e-la-symphonie-fantastique@acculturiamoci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261218T200000
+DTEND;TZID=Europe/Rome:20261218T220000
+SUMMARY:OSN Rai: Ravel e la Symphonie fantastique
+LOCATION:Auditorium Rai Arturo Toscanini (via Rossini 15)
+DESCRIPTION:Replica: Berlioz e il Concerto in sol di Ravel con Marie-Ange N
+ guci. https://concertisticlassica.com/torino-orchestra-sinfonica-nazionale
+ -della-rai-stagione-2026-2027/
+URL:https://concertisticlassica.com/torino-orchestra-sinfonica-nazionale-de
+ lla-rai-stagione-2026-2027/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-concerto-di-natale-fabio-luisi-dirige-la-nona-di@acculturiam
+ oci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261222T203000
+DTEND;TZID=Europe/Rome:20261222T223000
+SUMMARY:Concerto di Natale: Fabio Luisi dirige la Nona di Beethoven
+LOCATION:Auditorium Rai Arturo Toscanini (via Rossini 15)
+DESCRIPTION:Il direttore emerito torna sul podio dell'OSN Rai con il Coro d
+ el Teatro Regio per la Nona Sinfonia\, nel bicentenario della morte di Bee
+ thoven. https://www.tpnews.it/2026/07/stagione-2026-2027-orchestra-rai-tor
+ ino-programma-e-biglietti/
+URL:https://www.tpnews.it/2026/07/stagione-2026-2027-orchestra-rai-torino-p
+ rogramma-e-biglietti/
+CATEGORIES:Classica e chiese
+END:VEVENT
+END:VCALENDAR

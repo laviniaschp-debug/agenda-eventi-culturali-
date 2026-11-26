@@ -25,9 +25,36 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-11-27-vent-anni-di-fondazione-palazzo-strozzi@acculturiamoci.it
+DTSTAMP:20261126T080456Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Vent'anni di Fondazione Palazzo Strozzi
+LOCATION:Palazzo Strozzi (piazza degli Strozzi)
+DESCRIPTION:Un grande evento pubblico per festeggiare i vent'anni della Fon
+ dazione. Programma e orari sul sito di Palazzo Strozzi. https://www.palazz
+ ostrozzi.org/
+URL:https://www.palazzostrozzi.org/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-alluvione-di-firenze-60-anni-dopo-foto-e-video-i@acculturiam
+ oci.it
+DTSTAMP:20261126T080456Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Alluvione di Firenze\, 60 anni dopo: foto e video inediti
+LOCATION:Caffè Letterario Le Murate (piazza delle Murate)
+DESCRIPTION:Proiezione di foto e video mai visti sull'alluvione del 4 novem
+ bre 1966\, a cura di Cristina Galletti. Orario sul sito delle Murate. http
+ s://www.lemurate.it/eventi/
+URL:https://www.lemurate.it/eventi/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-02-ricordando-ernesto-ragionieri-cento-anni-dopo@acculturiamoci
  .it
-DTSTAMP:20261125T095404Z
+DTSTAMP:20261126T080456Z
 DTSTART;TZID=Europe/Rome:20261202T173000
 DTEND;TZID=Europe/Rome:20261202T193000
 SUMMARY:Ricordando Ernesto Ragionieri\, cento anni dopo
@@ -41,9 +68,24 @@ URL:https://www.tempoliberotoscana.it/event/giorni-di-storia-festival-di-in
 CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-02-ricostruire-il-passato-visita-speciale-alla-most@acculturiam
+ oci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261202T180000
+DTEND;TZID=Europe/Rome:20261202T200000
+SUMMARY:Ricostruire il passato: visita speciale alla mostra Broken
+LOCATION:Palazzo Strozzi (piazza degli Strozzi)
+DESCRIPTION:Visita alla mostra sul frammento nella scultura\, per immaginar
+ e e riscrivere i passati possibili degli oggetti. Gratis per i residenti d
+ ella Città Metropolitana\, prenotazione obbligatoria. https://www.palazzo
+ strozzi.org/evento/ricostruire-il-passato/
+URL:https://www.palazzostrozzi.org/evento/ricostruire-il-passato/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-03-specchio-riflesso-conferenza-spettacolo-di-luca-@acculturiam
  oci.it
-DTSTAMP:20261125T095404Z
+DTSTAMP:20261126T080456Z
 DTSTART;TZID=Europe/Rome:20261203T190000
 DTEND;TZID=Europe/Rome:20261203T210000
 SUMMARY:Specchio riflesso: conferenza-spettacolo di Luca Scarlini
@@ -55,6 +97,20 @@ DESCRIPTION:Storie e Storia di Sesto Fiorentino tra Ragionieri e gli archiv
  /
 URL:https://www.tempoliberotoscana.it/event/giorni-di-storia-festival-di-in
  contri-conferenze-spettacoli-e-letture/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-ricostruire-il-passato-visita-speciale-alla-most@acculturiam
+ oci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261216T180000
+DTEND;TZID=Europe/Rome:20261216T200000
+SUMMARY:Ricostruire il passato: visita speciale alla mostra Broken
+LOCATION:Palazzo Strozzi (piazza degli Strozzi)
+DESCRIPTION:Ultima visita speciale alla mostra sul frammento nella scultura
+ . Gratis per i residenti della Città Metropolitana\, prenotazione obbliga
+ toria. https://www.palazzostrozzi.org/evento/ricostruire-il-passato/
+URL:https://www.palazzostrozzi.org/evento/ricostruire-il-passato/
 CATEGORIES:Arte e storia
 END:VEVENT
 END:VCALENDAR

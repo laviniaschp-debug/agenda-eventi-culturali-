@@ -1,5 +1,29 @@
 [
  {
+  "match": "Santa Croce",
+  "lat": 43.7686,
+  "lng": 11.2627,
+  "zona": "Santa Croce · Sant'Ambrogio"
+ },
+ {
+  "match": "Murate",
+  "lat": 43.771,
+  "lng": 11.2645,
+  "zona": "Santa Croce · Sant'Ambrogio"
+ },
+ {
+  "match": "Conventino",
+  "lat": 43.7626,
+  "lng": 11.244,
+  "zona": "Oltrarno · Santo Spirito"
+ },
+ {
+  "match": "Palazzo Strozzi",
+  "lat": 43.7713,
+  "lng": 11.2518,
+  "zona": "Centro storico"
+ },
+ {
   "match": "Pergola",
   "lat": 43.7727,
   "lng": 11.261,

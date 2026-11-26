@@ -25,23 +25,41 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-11-26-il-silent-reading-de-il-sole-24-ore-all-universi@acculturiam
+ oci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261126T163000
+DTEND;TZID=Europe/Rome:20261126T183000
+SUMMARY:Il silent reading de Il Sole 24 Ore all'Università Statale
+LOCATION:Università degli Studi di Milano (via Festa del Perdono 7)
+DESCRIPTION:Prima si legge il giornale in silenzio\, poi Roberto Iotti\, vi
+ cedirettore del Sole 24 Ore\, guida un dialogo sulle notizie del giorno co
+ n Marzia Rosti e Sergio Splendore. Per BookCity. BookCity: ingresso libero
+  fino a esaurimento posti\, per alcuni incontri serve prenotare su bookcit
+ ymilano.it. https://www.ilsole24ore.com/art/il-gruppo-sole-24-ore-bookcity
+ -milano-2026-AJsnk9MC
+URL:https://www.ilsole24ore.com/art/il-gruppo-sole-24-ore-bookcity-milano-2
+ 026-AJsnk9MC
+CATEGORIES:Silent reading
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-silent-book-party-under-35-al-museo-poldi-pezzol@acculturiam
  oci.it
-DTSTAMP:20261125T095404Z
+DTSTAMP:20261126T080456Z
 DTSTART;TZID=Europe/Rome:20261127T193000
 DTEND;TZID=Europe/Rome:20261127T213000
 SUMMARY:Silent Book Party Under 35 al Museo Poldi Pezzoli
 LOCATION:Museo Poldi Pezzoli (via Manzoni 12)
-DESCRIPTION:Tre ore a leggere in un museo\, senza telefono\, tra persone ch
- e amano i libri come te. Si legge insieme\, in silenzio\, nelle sale del m
- useo: porta il tuo libro. Gratuito\, riservato agli under 35\, per BookCit
- y. https://museopoldipezzoli.it/scopri/mostre-ed-eventi/
+DESCRIPTION:Tre ore a leggere insieme in un museo\, senza parlarsi\, tra pe
+ rsone che amano i libri come te. Si legge insieme\, in silenzio\, nelle sa
+ le del museo: porta il tuo libro. Gratuito\, riservato agli under 35\, per
+  BookCity. https://museopoldipezzoli.it/scopri/mostre-ed-eventi/
 URL:https://museopoldipezzoli.it/scopri/mostre-ed-eventi/
 CATEGORIES:Silent reading
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-silent-reading-con-jean-marie-del-bo@acculturiamoci.it
-DTSTAMP:20261125T095404Z
+DTSTAMP:20261126T080456Z
 DTSTART;TZID=Europe/Rome:20261128T110000
 DTEND;TZID=Europe/Rome:20261128T130000
 SUMMARY:Silent reading con Jean Marie Del Bo

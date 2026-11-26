@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T07:55:00+01:00",
+ "updated": "2026-11-26T10:00:00+01:00",
  "range": [
   "2026-11-24",
   "2026-12-20"
@@ -346,7 +346,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e251",
+   "id": "e014",
    "key": "2026-11-24-cost-of-living",
    "moods": [
     "emozionarmi"
@@ -368,7 +368,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e014",
+   "id": "e015",
    "key": "2026-11-24-il-rito-del-jazz-omaggio-a-chick-corea",
    "moods": [
     "emozionarmi",
@@ -391,7 +391,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e015",
+   "id": "e016",
    "key": "2026-11-24-io-sono-verticale",
    "moods": [
     "emozionarmi"
@@ -413,7 +413,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e016",
+   "id": "e017",
    "key": "2026-11-24-una-delle-ultime-sere-di-carnovale",
    "moods": [
     "emozionarmi"
@@ -435,7 +435,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e252",
+   "id": "e018",
    "key": "2026-11-24-pazza-con-vanessa-gravina",
    "moods": [
     "emozionarmi"
@@ -457,7 +457,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e017",
+   "id": "e019",
    "key": "2026-11-24-rompiamo-il-silenzio",
    "moods": [
     "emozionarmi"
@@ -479,7 +479,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e238",
+   "id": "e020",
    "key": "2026-11-24-carlotta-spallino-fill-pill-e-cecilia-forastieri",
    "moods": [
     "emozionarmi",
@@ -502,7 +502,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e018",
+   "id": "e021",
    "key": "2026-11-24-i-monologhi-della-vagina",
    "moods": [
     "emozionarmi"
@@ -524,7 +524,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e019",
+   "id": "e022",
    "key": "2026-11-24-la-caccia-al-tesoro",
    "moods": [
     "emozionarmi",
@@ -547,7 +547,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e020",
+   "id": "e023",
    "key": "2026-11-24-la-rivolta",
    "moods": [
     "emozionarmi"
@@ -569,7 +569,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e253",
+   "id": "e024",
    "key": "2026-11-24-lu-santo-jullare-francesco-di-dario-fo",
    "moods": [
     "emozionarmi"
@@ -591,7 +591,7 @@
    "free": true,
    "tags": [],
    "verify": true,
-   "id": "e021",
+   "id": "e025",
    "key": "2026-11-24-carl-gustav-jung-attraverso-il-cinema-e-l-attual",
    "moods": [
     "dentro",
@@ -610,7 +610,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "e022",
+   "id": "e026",
    "key": "2026-11-24-celebrate-studio-54",
    "moods": [
     "emozionarmi"
@@ -632,7 +632,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e023",
+   "id": "e027",
    "key": "2026-11-24-iliade-la-ballata-di-tersite",
    "moods": [
     "emozionarmi"
@@ -656,7 +656,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e024",
+   "id": "e028",
    "key": "2026-11-25-oltre-la-rappresaglia-la-repressione-nazista-in-",
    "moods": [
     "pensare"
@@ -680,7 +680,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e025",
+   "id": "e029",
    "key": "2026-11-25-arturo-perez-reverte",
    "moods": [
     "pensare"
@@ -704,7 +704,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e026",
+   "id": "e030",
    "key": "2026-11-25-dante-e-vivo",
    "moods": [
     "pensare"
@@ -728,7 +728,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e027",
+   "id": "e031",
    "key": "2026-11-25-il-senno-sulla-luna-il-medioevo-di-doctor-virtua",
    "moods": [
     "dentro",
@@ -753,7 +753,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e028",
+   "id": "e032",
    "key": "2026-11-25-piacere-rousseau-ti-presento-dewey",
    "moods": [
     "dentro",
@@ -774,7 +774,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e348",
+   "id": "e033",
    "key": "2026-11-25-furiose-silvia-romani-e-federica-fracassi-sull-i",
    "moods": [
     "pensare"
@@ -796,7 +796,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e029",
+   "id": "e034",
    "key": "2026-11-25-i-classici-non-hanno-mai-finito-di-dirci-cio-che",
    "moods": [
     "dentro",
@@ -822,7 +822,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e030",
+   "id": "e035",
    "key": "2026-11-25-jan-brokken-la-malinconia-del-viaggiatore",
    "moods": [
     "pensare"
@@ -846,7 +846,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e031",
+   "id": "e036",
    "key": "2026-11-25-prima-delle-prime-otello",
    "why": "Arrivare alla Prima della Scala sapendo già tutto di Otello.",
    "moods": [
@@ -869,7 +869,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e032",
+   "id": "e037",
    "key": "2026-11-25-agents-anonymous-milan-chapter",
    "moods": [
     "pensare"
@@ -893,7 +893,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e033",
+   "id": "e038",
    "key": "2026-11-25-era-tanto-un-bravo-ragazzo",
    "moods": [
     "pensare"
@@ -915,7 +915,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e254",
+   "id": "e039",
    "key": "2026-11-25-lu-santo-jullare-francesco-di-dario-fo",
    "moods": [
     "emozionarmi"
@@ -937,7 +937,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e034",
+   "id": "e040",
    "key": "2026-11-25-io-sono-verticale",
    "moods": [
     "emozionarmi"
@@ -959,7 +959,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e035",
+   "id": "e041",
    "key": "2026-11-25-la-caccia-al-tesoro",
    "moods": [
     "emozionarmi",
@@ -982,7 +982,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e255",
+   "id": "e042",
    "key": "2026-11-25-pazza-con-vanessa-gravina",
    "moods": [
     "emozionarmi"
@@ -1007,7 +1007,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e036",
+   "id": "e043",
    "key": "2026-11-25-samantha-cristoforetti-il-senso-della-luna",
    "why": "Un'astronauta, la Luna e Leopardi nella stessa sera.",
    "moods": [
@@ -1032,7 +1032,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e349",
+   "id": "e044",
    "key": "2026-11-25-tonino-carotone-e-federico-traversa-il-maestro-d",
    "moods": [
     "pensare"
@@ -1054,7 +1054,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e256",
+   "id": "e045",
    "key": "2026-11-25-paura-stand-up-di-annalisa-aglioti",
    "moods": [
     "emozionarmi",
@@ -1077,7 +1077,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e257",
+   "id": "e046",
    "key": "2026-11-25-cost-of-living",
    "moods": [
     "emozionarmi"
@@ -1099,7 +1099,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e037",
+   "id": "e047",
    "key": "2026-11-25-la-rivolta",
    "moods": [
     "emozionarmi"
@@ -1121,7 +1121,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e038",
+   "id": "e048",
    "key": "2026-11-25-una-delle-ultime-sere-di-carnovale",
    "moods": [
     "emozionarmi"
@@ -1143,7 +1143,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e039",
+   "id": "e049",
    "key": "2026-11-25-uomini-si-diventa-nella-mente-di-un-femminicida",
    "moods": [
     "emozionarmi"
@@ -1165,7 +1165,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e040",
+   "id": "e050",
    "key": "2026-11-25-solisti-aquilani-con-anna-tifu",
    "moods": [
     "emozionarmi"
@@ -1190,7 +1190,7 @@
    ],
    "verify": false,
    "why": "Una leggenda del jazz di Chicago festeggia 50 anni di musica, in un club da 300 posti.",
-   "id": "e041",
+   "id": "e051",
    "key": "2026-11-25-kahil-el-zabar-ethnic-heritage-ensemble-let-the-",
    "moods": [
     "emozionarmi"
@@ -1212,7 +1212,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e387",
+   "id": "e052",
    "key": "2026-11-25-qui-non-c-e-nessuna-donna-il-film-su-ingeborg-ba",
    "moods": [
     "emozionarmi"
@@ -1234,7 +1234,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e042",
+   "id": "e053",
    "key": "2026-11-25-bobby",
    "moods": [
     "emozionarmi"
@@ -1256,7 +1256,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e043",
+   "id": "e054",
    "key": "2026-11-25-liv-warfield",
    "moods": [
     "emozionarmi"
@@ -1280,7 +1280,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e045",
+   "id": "e055",
    "key": "2026-11-26-la-messa-non-e-finita-il-sacro-all-epoca-del-dig",
    "moods": [
     "dentro",
@@ -1307,7 +1307,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e046",
+   "id": "e056",
    "key": "2026-11-26-le-sparizioni-forzate-in-america-latina",
    "moods": [
     "pensare"
@@ -1329,7 +1329,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e047",
+   "id": "e057",
    "key": "2026-11-26-100-copertine-di-futuro",
    "moods": [
     "pensare"
@@ -1343,6 +1343,31 @@
   {
    "date": "2026-11-26",
    "time": "16:30",
+   "title": "Il silent reading de Il Sole 24 Ore all'Università Statale",
+   "venue": "Università degli Studi di Milano (via Festa del Perdono 7)",
+   "cat": "silent",
+   "desc": "Prima si legge il giornale in silenzio, poi Roberto Iotti, vicedirettore del Sole 24 Ore, guida un dialogo sulle notizie del giorno con Marzia Rosti e Sergio Splendore. Per BookCity. BookCity: ingresso libero fino a esaurimento posti, per alcuni incontri serve prenotare su bookcitymilano.it.",
+   "url": "https://www.ilsole24ore.com/art/il-gruppo-sole-24-ore-bookcity-milano-2026-AJsnk9MC",
+   "free": true,
+   "tags": [
+    "bookcity",
+    "silentreading"
+   ],
+   "verify": false,
+   "id": "e058",
+   "key": "2026-11-26-il-silent-reading-de-il-sole-24-ore-all-universi",
+   "moods": [
+    "gente"
+   ],
+   "geo": [
+    45.4602,
+    9.1947
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "16:30",
    "title": "Prenditi il domani: pensione e futuro, istruzioni per l'uso",
    "venue": "Università Milano-Bicocca, Edificio U3 Bios, aula 09 (piazza della Scienza 2)",
    "cat": "salute",
@@ -1351,7 +1376,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e399",
+   "id": "e059",
    "key": "2026-11-26-prenditi-il-domani-pensione-e-futuro-istruzioni-",
    "moods": [
     "dentro",
@@ -1375,7 +1400,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e388",
+   "id": "e060",
    "key": "2026-11-26-sonate-e-ballate-i-giovani-del-conservatorio-a-c",
    "moods": [
     "emozionarmi"
@@ -1397,7 +1422,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e048",
+   "id": "e061",
    "key": "2026-11-26-anti-illuminismo-nella-storia-e-oggi",
    "moods": [
     "pensare"
@@ -1419,7 +1444,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e376",
+   "id": "e062",
    "key": "2026-11-26-la-nuova-legge-elettorale-riflessioni-sulla-rifo",
    "moods": [
     "pensare"
@@ -1441,7 +1466,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e049",
+   "id": "e063",
    "key": "2026-11-26-letture-e-note-al-museo-guido-cantelli",
    "moods": [
     "pensare"
@@ -1463,7 +1488,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e050",
+   "id": "e064",
    "key": "2026-11-26-riprendersi-il-futuro-tecnologia-impresa-e-la-cr",
    "moods": [
     "pensare"
@@ -1485,7 +1510,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e051",
+   "id": "e065",
    "key": "2026-11-26-teatro-dietro-l-angolo-la-drammaturgia",
    "moods": [
     "emozionarmi"
@@ -1509,7 +1534,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e052",
+   "id": "e066",
    "key": "2026-11-26-hello-stranger-mostra-di-poesia",
    "moods": [
     "dentro",
@@ -1534,7 +1559,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e350",
+   "id": "e067",
    "key": "2026-11-26-massimo-recalcati-acquaragia-confessioni-di-un-d",
    "moods": [
     "dentro",
@@ -1561,7 +1586,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e053",
+   "id": "e068",
    "key": "2026-11-26-milena-gabanelli-e-simona-ravizza-la-resa-dei-co",
    "why": "Due firme del giornalismo d'inchiesta sullo stesso palco.",
    "moods": [
@@ -1586,7 +1611,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e351",
+   "id": "e069",
    "key": "2026-11-26-monica-maggioni-il-partito-di-dio",
    "moods": [
     "pensare"
@@ -1594,6 +1619,30 @@
    "geo": [
     45.453,
     9.208
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "18:30",
+   "title": "Raccontare storie, raccontare il presente: il giornalismo nell'epoca dello smartphone",
+   "venue": "Biblioteca Ostinata (via Osti 6)",
+   "cat": "talk",
+   "desc": "Incontro con il giornalista Giacomo Di Girolamo, per BookCity.",
+   "url": "https://www.bookcitymilano.it/luoghi/1727/biblioteca-ostinata",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "id": "e070",
+   "key": "2026-11-26-raccontare-storie-raccontare-il-presente-il-gior",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.459,
+    9.1918
    ],
    "zona": "Porta Romana · Vittoria"
   },
@@ -1608,7 +1657,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e054",
+   "id": "e071",
    "key": "2026-11-26-tech-si-gira-ghost-in-the-shell-con-luca-perri",
    "moods": [
     "pensare"
@@ -1630,7 +1679,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e055",
+   "id": "e072",
    "key": "2026-11-26-io-sono-verticale",
    "moods": [
     "emozionarmi"
@@ -1652,7 +1701,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e056",
+   "id": "e073",
    "key": "2026-11-26-una-delle-ultime-sere-di-carnovale",
    "moods": [
     "emozionarmi"
@@ -1674,7 +1723,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e258",
+   "id": "e074",
    "key": "2026-11-26-cost-of-living",
    "moods": [
     "emozionarmi"
@@ -1696,7 +1745,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e057",
+   "id": "e075",
    "key": "2026-11-26-bravissime",
    "moods": [
     "emozionarmi"
@@ -1718,7 +1767,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e058",
+   "id": "e076",
    "key": "2026-11-26-concerto-civile-giorgio-ambrosoli",
    "moods": [
     "emozionarmi"
@@ -1742,7 +1791,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e059",
+   "id": "e077",
    "key": "2026-11-26-fabio-volo-quando-l-amore-ti-sorprende",
    "moods": [
     "dentro",
@@ -1766,7 +1815,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e060",
+   "id": "e078",
    "key": "2026-11-26-human-brains-adolescenza-capire-mente-corpo-e-sa",
    "moods": [
     "dentro",
@@ -1790,7 +1839,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e259",
+   "id": "e079",
    "key": "2026-11-26-lu-santo-jullare-francesco-di-dario-fo",
    "moods": [
     "emozionarmi"
@@ -1812,7 +1861,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e061",
+   "id": "e080",
    "key": "2026-11-26-adelchi-con-roberto-trifiro",
    "moods": [
     "emozionarmi"
@@ -1834,7 +1883,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e062",
+   "id": "e081",
    "key": "2026-11-26-la-caccia-al-tesoro",
    "moods": [
     "emozionarmi",
@@ -1857,7 +1906,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e063",
+   "id": "e082",
    "key": "2026-11-26-la-rivolta",
    "moods": [
     "emozionarmi"
@@ -1879,7 +1928,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e260",
+   "id": "e083",
    "key": "2026-11-26-paura-stand-up-di-annalisa-aglioti",
    "moods": [
     "emozionarmi",
@@ -1902,7 +1951,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e261",
+   "id": "e084",
    "key": "2026-11-26-pazza-con-vanessa-gravina",
    "moods": [
     "emozionarmi"
@@ -1924,7 +1973,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e064",
+   "id": "e085",
    "key": "2026-11-26-raffy-bushman-trio-new-life-cecilia-barra",
    "moods": [
     "emozionarmi"
@@ -1946,7 +1995,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e065",
+   "id": "e086",
    "key": "2026-11-26-a-flauto-e-cembalo-milano-arte-musica",
    "moods": [
     "emozionarmi"
@@ -1963,7 +2012,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "e066",
+   "id": "e087",
    "key": "2026-11-26-luca-barbarossa",
    "moods": [
     "emozionarmi"
@@ -1985,7 +2034,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e067",
+   "id": "e088",
    "key": "2026-11-27-milano-life-science-forum-prevenzione",
    "moods": [
     "dentro",
@@ -2010,7 +2059,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e377",
+   "id": "e089",
    "key": "2026-11-27-l-eta-dei-social-quando-entrare-come-proteggersi",
    "moods": [
     "pensare"
@@ -2034,7 +2083,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e068",
+   "id": "e090",
    "key": "2026-11-27-campi-celle-ceneri-la-scrittura-palestinese",
    "moods": [
     "gente",
@@ -2059,7 +2108,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e378",
+   "id": "e091",
    "key": "2026-11-27-cristina-dell-acqua-il-dono-del-mito",
    "moods": [
     "pensare"
@@ -2083,7 +2132,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e069",
+   "id": "e092",
    "key": "2026-11-27-la-scala-dei-libri-francesco-filidei-e-silvia-le",
    "moods": [
     "pensare"
@@ -2107,7 +2156,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e070",
+   "id": "e093",
    "key": "2026-11-27-francesco-vezzoli-victoria-mater",
    "moods": [
     "pensare"
@@ -2129,7 +2178,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e071",
+   "id": "e094",
    "key": "2026-11-27-una-legge-elettorale-inaccettabile",
    "moods": [
     "pensare"
@@ -2153,7 +2202,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e379",
+   "id": "e095",
    "key": "2026-11-27-federico-fubini-imperi-allo-specchio",
    "moods": [
     "pensare"
@@ -2178,7 +2227,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e072",
+   "id": "e096",
    "key": "2026-11-27-umberto-galimberti-l-illusione-della-liberta",
    "why": "Quanto siamo davvero liberi? Galimberti prova a rispondere.",
    "moods": [
@@ -2202,7 +2251,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e073",
+   "id": "e097",
    "key": "2026-11-27-vincenzo-latronico-work-in-progress",
    "moods": [
     "pensare"
@@ -2224,7 +2273,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e074",
+   "id": "e098",
    "key": "2026-11-27-io-sono-verticale",
    "moods": [
     "emozionarmi"
@@ -2246,7 +2295,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e262",
+   "id": "e099",
    "key": "2026-11-27-paura-stand-up-di-annalisa-aglioti",
    "moods": [
     "emozionarmi",
@@ -2269,7 +2318,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e263",
+   "id": "e100",
    "key": "2026-11-27-lu-santo-jullare-francesco-di-dario-fo",
    "moods": [
     "emozionarmi"
@@ -2297,7 +2346,7 @@
    "moods": [
     "gente"
    ],
-   "id": "e407",
+   "id": "e101",
    "key": "2026-11-27-silent-book-party-under-35-al-museo-poldi-pezzol",
    "why": "Tre ore a leggere insieme in un museo, senza parlarsi, tra persone che amano i libri come te.",
    "geo": [
@@ -2317,7 +2366,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e264",
+   "id": "e102",
    "key": "2026-11-27-pazza-con-vanessa-gravina",
    "moods": [
     "emozionarmi"
@@ -2339,7 +2388,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e075",
+   "id": "e103",
    "key": "2026-11-27-beethoven-triplo-concerto-musorgskij-quadri",
    "moods": [
     "emozionarmi"
@@ -2361,7 +2410,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e076",
+   "id": "e104",
    "key": "2026-11-27-bravissime",
    "moods": [
     "emozionarmi"
@@ -2383,7 +2432,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e265",
+   "id": "e105",
    "key": "2026-11-27-cost-of-living",
    "moods": [
     "emozionarmi"
@@ -2407,7 +2456,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e079",
+   "id": "e106",
    "key": "2026-11-27-150-anni-corriere-della-sera-il-racconto-dell-it",
    "moods": [
     "emozionarmi"
@@ -2430,7 +2479,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e077",
+   "id": "e107",
    "key": "2026-11-27-adelchi-con-roberto-trifiro",
    "moods": [
     "emozionarmi"
@@ -2454,7 +2503,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e078",
+   "id": "e108",
    "key": "2026-11-27-di-madre-in-figlia",
    "why": "Prima assoluta: tre generazioni di donne in scena.",
    "moods": [
@@ -2477,7 +2526,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e080",
+   "id": "e109",
    "key": "2026-11-27-l-amante-di-harold-pinter",
    "moods": [
     "emozionarmi"
@@ -2499,7 +2548,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e081",
+   "id": "e110",
    "key": "2026-11-27-la-caccia-al-tesoro",
    "moods": [
     "emozionarmi",
@@ -2522,7 +2571,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e082",
+   "id": "e111",
    "key": "2026-11-27-la-rivolta",
    "moods": [
     "emozionarmi"
@@ -2544,7 +2593,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e083",
+   "id": "e112",
    "key": "2026-11-27-una-delle-ultime-sere-di-carnovale",
    "moods": [
     "emozionarmi"
@@ -2566,7 +2615,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e084",
+   "id": "e113",
    "key": "2026-11-27-xx-variazioni-a-tre",
    "moods": [
     "emozionarmi"
@@ -2588,7 +2637,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e085",
+   "id": "e114",
    "key": "2026-11-27-toni-zeno-gentle-t-zeboh-brattini",
    "moods": [
     "emozionarmi"
@@ -2612,7 +2661,7 @@
     "bookcity"
    ],
    "verify": true,
-   "id": "e086",
+   "id": "e115",
    "key": "2026-11-27-e-tu-come-lo-sai-capire-la-scienza-per-decidere-",
    "moods": [
     "pensare"
@@ -2636,7 +2685,7 @@
     "bookcity"
    ],
    "verify": true,
-   "id": "e087",
+   "id": "e116",
    "key": "2026-11-27-oltre-la-punizione-riparare-riannodare-rigenerar",
    "moods": [
     "dentro",
@@ -2662,7 +2711,7 @@
     "bookcity"
    ],
    "verify": true,
-   "id": "e088",
+   "id": "e117",
    "key": "2026-11-27-scrivere-per-resistere-premio-pen-inge-feltrinel",
    "moods": [
     "pensare"
@@ -2684,7 +2733,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e089",
+   "id": "e118",
    "key": "2026-11-27-the-legendary-johnny-o-neal-trio",
    "moods": [
     "emozionarmi"
@@ -2706,7 +2755,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e090",
+   "id": "e119",
    "key": "2026-11-28-80-anni-dopo-l-astensionismo-elettorale-e-come-c",
    "moods": [
     "pensare"
@@ -2728,7 +2777,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e091",
+   "id": "e120",
    "key": "2026-11-28-masterclass-con-laura-citarella",
    "moods": [
     "emozionarmi"
@@ -2750,7 +2799,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e092",
+   "id": "e121",
    "key": "2026-11-28-e-andata-cosi-lezione-di-cinema",
    "moods": [
     "emozionarmi"
@@ -2775,7 +2824,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e093",
+   "id": "e122",
    "key": "2026-11-28-aldo-cazzullo-il-nostro-rinascimento",
    "why": "La storia d'Italia raccontata come un romanzo.",
    "moods": [
@@ -2801,7 +2850,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e352",
+   "id": "e123",
    "why": "Un'ora di sabato mattina per uscire con una manciata di poesie in tasca, gratis.",
    "key": "2026-11-28-beppe-severgnini-l-arte-di-sopravvivere-poeticam",
    "moods": [
@@ -2828,7 +2877,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e380",
+   "id": "e124",
    "key": "2026-11-28-bruno-vespa-e-paolo-mieli-storia-della-seconda-r",
    "moods": [
     "pensare"
@@ -2852,7 +2901,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e353",
+   "id": "e125",
    "key": "2026-11-28-codice-girard-giulio-milani-paolo-bianchi-e-ales",
    "moods": [
     "dentro",
@@ -2882,9 +2931,40 @@
    "moods": [
     "gente"
    ],
-   "id": "e408",
+   "id": "e126",
    "key": "2026-11-28-silent-reading-con-jean-marie-del-bo",
-   "why": "Leggere in silenzio, insieme ad altri: il modo più semplice per staccare."
+   "why": "Leggere in silenzio, insieme ad altri: il modo più semplice per staccare.",
+   "geo": [
+    45.459,
+    9.1918
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "11:30",
+   "title": "Cosa cerchiamo davvero nella chirurgia estetica?",
+   "venue": "Palazzo Morando (via Sant'Andrea 6)",
+   "cat": "salute",
+   "desc": "Silvia Martelli presenta la sua inchiesta \"Filler. Il nuovo volto della chirurgia estetica\" con Alessandra Cecchini: perché il ritocco è diventato manutenzione ordinaria del corpo. BookCity, prenotazione obbligatoria.",
+   "url": "https://www.ilsole24ore.com/art/il-gruppo-sole-24-ore-bookcity-milano-2026-AJsnk9MC",
+   "free": true,
+   "tags": [
+    "bookcity"
+   ],
+   "verify": false,
+   "why": "Il ritocco è diventato normale: un'ora per chiedersi che cosa stiamo cercando davvero.",
+   "id": "e127",
+   "key": "2026-11-28-cosa-cerchiamo-davvero-nella-chirurgia-estetica",
+   "moods": [
+    "dentro",
+    "pensare"
+   ],
+   "geo": [
+    45.4693,
+    9.1963
+   ],
+   "zona": "Centro"
   },
   {
    "date": "2026-11-28",
@@ -2899,7 +2979,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e094",
+   "id": "e128",
    "key": "2026-11-28-laura-pepe-storia-non-convenzionale-delle-donne-",
    "moods": [
     "pensare"
@@ -2923,7 +3003,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e354",
+   "id": "e129",
    "key": "2026-11-28-saba-che-danza-la-speranza-saba-poori-con-federi",
    "moods": [
     "pensare"
@@ -2947,7 +3027,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e389",
+   "id": "e130",
    "key": "2026-11-28-il-realismo-terminale-poesia-e-mondo-degli-ogget",
    "moods": [
     "dentro",
@@ -2973,7 +3053,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e355",
+   "id": "e131",
    "key": "2026-11-28-matteo-bussola-il-sole-nelle-pozzanghere",
    "moods": [
     "pensare"
@@ -2997,7 +3077,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e390",
+   "id": "e132",
    "key": "2026-11-28-silvia-piccioli-i-meloni-di-cartesio-e-altri-ane",
    "moods": [
     "dentro",
@@ -3023,7 +3103,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e356",
+   "id": "e133",
    "key": "2026-11-28-alberto-pellai-ti-faro-correre-in-salita",
    "moods": [
     "dentro",
@@ -3049,7 +3129,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e357",
+   "id": "e134",
    "key": "2026-11-28-alessandro-perissinotto-il-gioco-del-gatto",
    "moods": [
     "pensare"
@@ -3073,7 +3153,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e095",
+   "id": "e135",
    "key": "2026-11-28-dario-biagi-vita-di-cagnaccio-di-san-pietro",
    "moods": [
     "pensare"
@@ -3097,7 +3177,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e391",
+   "id": "e136",
    "key": "2026-11-28-ecuba-e-le-altre-spiriti-indomiti-contro-la-guer",
    "moods": [
     "pensare"
@@ -3121,7 +3201,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e381",
+   "id": "e137",
    "key": "2026-11-28-il-voto-di-anna-2-giugno-1946-proiezione",
    "moods": [
     "emozionarmi"
@@ -3143,7 +3223,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e266",
+   "id": "e138",
    "key": "2026-11-28-circoluna-circo-teatro-d-ombre-2-5-anni",
    "moods": [
     "bambini"
@@ -3167,7 +3247,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e358",
+   "id": "e139",
    "key": "2026-11-28-marco-malvaldi-e-samantha-bruzzone-la-scala-di-s",
    "moods": [
     "pensare",
@@ -3192,7 +3272,7 @@
     "chiese"
    ],
    "verify": false,
-   "id": "e239",
+   "id": "e140",
    "key": "2026-11-28-nun-komm-der-heiden-heiland-bach-e-lotti-in-san-",
    "moods": [
     "dentro",
@@ -3219,7 +3299,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e096",
+   "id": "e141",
    "key": "2026-11-28-ermanno-cavazzoni-saro-breve",
    "moods": [
     "pensare"
@@ -3243,7 +3323,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e359",
+   "id": "e142",
    "key": "2026-11-28-roberto-escobar-mare-una-metafora-che-vive",
    "moods": [
     "dentro",
@@ -3269,7 +3349,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e360",
+   "id": "e143",
    "key": "2026-11-28-andrea-vitali-parola-di-perpetua",
    "moods": [
     "pensare"
@@ -3294,7 +3374,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e382",
+   "id": "e144",
    "why": "Per capire il disordine del mondo di oggi con uno dei politologi più letti d'Italia, gratis.",
    "key": "2026-11-28-angelo-panebianco-ordine-e-disordine-nella-polit",
    "moods": [
@@ -3319,7 +3399,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e097",
+   "id": "e145",
    "key": "2026-11-28-fernando-aramburu-presenta-maite",
    "moods": [
     "pensare"
@@ -3343,7 +3423,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e098",
+   "id": "e146",
    "key": "2026-11-28-filosofia-dell-amicizia",
    "moods": [
     "dentro",
@@ -3367,7 +3447,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e099",
+   "id": "e147",
    "key": "2026-11-28-inaugurazione-anno-accademico-del-conservatorio",
    "moods": [
     "emozionarmi"
@@ -3391,7 +3471,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e393",
+   "id": "e148",
    "key": "2026-11-28-jean-echenoz-a-bookcity",
    "moods": [
     "pensare",
@@ -3416,7 +3496,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e100",
+   "id": "e149",
    "key": "2026-11-28-la-scala-dei-libri-a-dirci-le-cose-chiare-don-gi",
    "moods": [
     "pensare"
@@ -3440,7 +3520,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e392",
+   "id": "e150",
    "key": "2026-11-28-quando-la-vita-non-risponde-il-coraggio-di-viver",
    "moods": [
     "dentro",
@@ -3464,7 +3544,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e267",
+   "id": "e151",
    "key": "2026-11-28-paura-stand-up-di-annalisa-aglioti",
    "moods": [
     "emozionarmi",
@@ -3487,7 +3567,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e268",
+   "id": "e152",
    "key": "2026-11-28-lu-santo-jullare-francesco-di-dario-fo",
    "moods": [
     "emozionarmi"
@@ -3509,7 +3589,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e269",
+   "id": "e153",
    "key": "2026-11-28-cost-of-living",
    "moods": [
     "emozionarmi"
@@ -3531,7 +3611,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e101",
+   "id": "e154",
    "key": "2026-11-28-di-madre-in-figlia",
    "moods": [
     "emozionarmi"
@@ -3553,7 +3633,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e102",
+   "id": "e155",
    "key": "2026-11-28-io-sono-verticale",
    "moods": [
     "emozionarmi"
@@ -3575,7 +3655,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e103",
+   "id": "e156",
    "key": "2026-11-28-l-amante-di-harold-pinter",
    "moods": [
     "emozionarmi"
@@ -3597,7 +3677,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e104",
+   "id": "e157",
    "key": "2026-11-28-una-delle-ultime-sere-di-carnovale",
    "moods": [
     "emozionarmi"
@@ -3619,7 +3699,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e270",
+   "id": "e158",
    "key": "2026-11-28-pazza-con-vanessa-gravina",
    "moods": [
     "emozionarmi"
@@ -3641,7 +3721,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e105",
+   "id": "e159",
    "key": "2026-11-28-bravissime",
    "moods": [
     "emozionarmi"
@@ -3663,7 +3743,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e106",
+   "id": "e160",
    "key": "2026-11-28-la-caccia-al-tesoro",
    "moods": [
     "emozionarmi",
@@ -3686,7 +3766,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e107",
+   "id": "e161",
    "key": "2026-11-28-la-rivolta",
    "moods": [
     "emozionarmi"
@@ -3710,7 +3790,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e383",
+   "id": "e162",
    "key": "2026-11-28-mio-fratello-e-un-cavaliere-jedi-autismo-e-amici",
    "moods": [
     "dentro",
@@ -3734,7 +3814,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e108",
+   "id": "e163",
    "key": "2026-11-28-stai-zitta",
    "moods": [
     "emozionarmi"
@@ -3756,7 +3836,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e109",
+   "id": "e164",
    "key": "2026-11-28-xx-variazioni-a-tre",
    "moods": [
     "emozionarmi"
@@ -3778,7 +3858,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e110",
+   "id": "e165",
    "key": "2026-11-28-materazi-future-club-the-italian-job",
    "moods": [
     "emozionarmi"
@@ -3802,7 +3882,7 @@
     "bookcity"
    ],
    "verify": true,
-   "id": "e111",
+   "id": "e166",
    "key": "2026-11-28-100-anni-di-allen-ginsberg",
    "moods": [
     "pensare"
@@ -3826,7 +3906,7 @@
     "bookcity"
    ],
    "verify": true,
-   "id": "e112",
+   "id": "e167",
    "key": "2026-11-28-bff-books-friends-forever",
    "moods": [
     "gente",
@@ -3851,7 +3931,7 @@
     "bookcity"
    ],
    "verify": true,
-   "id": "e113",
+   "id": "e168",
    "key": "2026-11-28-il-verde-e-il-nero",
    "moods": [
     "pensare"
@@ -3873,7 +3953,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e114",
+   "id": "e169",
    "key": "2026-11-28-jazzanova-live-feat-wayne-snow",
    "moods": [
     "emozionarmi"
@@ -3897,7 +3977,7 @@
     "bookcity"
    ],
    "verify": true,
-   "id": "e115",
+   "id": "e170",
    "key": "2026-11-28-la-forza-biologica-della-cultura",
    "moods": [
     "pensare"
@@ -3921,7 +4001,7 @@
     "bookcity"
    ],
    "verify": true,
-   "id": "e116",
+   "id": "e171",
    "key": "2026-11-28-programma-philo-a-bookcity",
    "moods": [
     "dentro",
@@ -3945,7 +4025,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e117",
+   "id": "e172",
    "key": "2026-11-28-saint-nicolas-di-britten",
    "moods": [
     "emozionarmi"
@@ -3967,7 +4047,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e118",
+   "id": "e173",
    "key": "2026-11-28-trio-david-con-emanuele-orsini",
    "moods": [
     "emozionarmi"
@@ -3989,7 +4069,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e119",
+   "id": "e174",
    "key": "2026-11-28-visite-e-laboratori-per-famiglie",
    "moods": [
     "bambini",
@@ -4014,7 +4094,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e120",
+   "id": "e175",
    "key": "2026-11-29-bookcity-0-6",
    "moods": [
     "bambini"
@@ -4038,7 +4118,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e384",
+   "id": "e176",
    "status": "esaurito",
    "key": "2026-11-29-oriana-fallaci-una-donna",
    "moods": [
@@ -4064,7 +4144,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e121",
+   "id": "e177",
    "key": "2026-11-29-pupi-avati-il-gotico-padano-e-il-cinema",
    "why": "Il maestro del gotico padano racconta il suo cinema.",
    "moods": [
@@ -4089,7 +4169,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e361",
+   "id": "e178",
    "key": "2026-11-29-sicilia-storie-di-donne-santina-cosetta-e-milena",
    "moods": [
     "pensare"
@@ -4111,7 +4191,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e122",
+   "id": "e179",
    "key": "2026-11-29-tjeknavorian-e-i-solisti-della-sinfonica-bartok-",
    "moods": [
     "emozionarmi"
@@ -4133,7 +4213,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e123",
+   "id": "e180",
    "key": "2026-11-29-avatar-tra-anime-e-manga-laboratorio-8-16-anni",
    "moods": [
     "bambini",
@@ -4158,7 +4238,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e394",
+   "id": "e181",
    "key": "2026-11-29-alice-basso-e-rossella-carboni-evelina-non-e-paz",
    "moods": [
     "pensare"
@@ -4180,7 +4260,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e124",
+   "id": "e182",
    "key": "2026-11-29-buon-compleanno-gus",
    "moods": [
     "bambini",
@@ -4206,7 +4286,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e125",
+   "id": "e183",
    "key": "2026-11-29-zerocalcare-dove-andiamo-da-qui-zero",
    "why": "Zerocalcare dal vivo: conviene arrivare presto.",
    "moods": [
@@ -4232,7 +4312,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e363",
+   "id": "e184",
    "key": "2026-11-29-lorenzo-marone-stile-napoletano",
    "moods": [
     "pensare"
@@ -4256,7 +4336,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e362",
+   "id": "e185",
    "key": "2026-11-29-massimo-gramellini-beato-il-popolo-che-ha-bisogn",
    "moods": [
     "pensare"
@@ -4280,7 +4360,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e395",
+   "id": "e186",
    "key": "2026-11-29-rosa-matteucci-a-bookcity",
    "moods": [
     "pensare",
@@ -4305,7 +4385,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e364",
+   "id": "e187",
    "key": "2026-11-29-sull-astolfo-e-sulla-luna-lettura-teatrale",
    "moods": [
     "emozionarmi"
@@ -4329,7 +4409,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e365",
+   "id": "e188",
    "key": "2026-11-29-bruno-morchio-un-velo-sul-cuore",
    "moods": [
     "pensare"
@@ -4351,7 +4431,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e126",
+   "id": "e189",
    "key": "2026-11-29-ciak-si-gira-con-lo-smartphone-laboratorio-8-16-",
    "moods": [
     "bambini",
@@ -4374,7 +4454,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e127",
+   "id": "e190",
    "key": "2026-11-29-io-sono-verticale",
    "moods": [
     "emozionarmi"
@@ -4398,7 +4478,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e396",
+   "id": "e191",
    "key": "2026-11-29-mario-fortunato-l-arte-di-non-perdere-il-colpevo",
    "moods": [
     "pensare"
@@ -4420,7 +4500,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e272",
+   "id": "e192",
    "key": "2026-11-29-lu-santo-jullare-francesco-di-dario-fo",
    "moods": [
     "emozionarmi"
@@ -4442,7 +4522,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e271",
+   "id": "e193",
    "key": "2026-11-29-pazza-con-vanessa-gravina",
    "moods": [
     "emozionarmi"
@@ -4464,7 +4544,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e128",
+   "id": "e194",
    "key": "2026-11-29-beethoven-triplo-concerto-musorgskij-quadri",
    "moods": [
     "emozionarmi"
@@ -4486,7 +4566,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e129",
+   "id": "e195",
    "key": "2026-11-29-di-madre-in-figlia",
    "moods": [
     "emozionarmi"
@@ -4508,7 +4588,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e130",
+   "id": "e196",
    "key": "2026-11-29-l-amante-di-harold-pinter",
    "moods": [
     "emozionarmi"
@@ -4532,7 +4612,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e385",
+   "id": "e197",
    "key": "2026-11-29-la-lettura-amore-dis-amore",
    "moods": [
     "dentro",
@@ -4557,7 +4637,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e131",
+   "id": "e198",
    "key": "2026-11-29-la-caccia-al-tesoro",
    "moods": [
     "emozionarmi",
@@ -4580,7 +4660,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e132",
+   "id": "e199",
    "key": "2026-11-29-una-delle-ultime-sere-di-carnovale",
    "moods": [
     "emozionarmi"
@@ -4604,7 +4684,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e133",
+   "id": "e200",
    "key": "2026-11-29-alicia-gimenez-bartlett-sotto-il-cielo-infernale",
    "moods": [
     "pensare"
@@ -4626,7 +4706,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e274",
+   "id": "e201",
    "key": "2026-11-29-circoluna-circo-teatro-d-ombre-2-5-anni",
    "moods": [
     "bambini"
@@ -4650,7 +4730,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e366",
+   "id": "e202",
    "key": "2026-11-29-diego-de-silva-malinconico-blues",
    "moods": [
     "pensare"
@@ -4672,7 +4752,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e134",
+   "id": "e203",
    "key": "2026-11-29-la-rivolta",
    "moods": [
     "emozionarmi"
@@ -4694,7 +4774,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e273",
+   "id": "e204",
    "key": "2026-11-29-paura-stand-up-di-annalisa-aglioti",
    "moods": [
     "emozionarmi",
@@ -4717,7 +4797,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e135",
+   "id": "e205",
    "key": "2026-11-29-stai-zitta",
    "moods": [
     "emozionarmi"
@@ -4739,7 +4819,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e136",
+   "id": "e206",
    "key": "2026-11-29-xx-variazioni-a-tre",
    "moods": [
     "emozionarmi"
@@ -4761,7 +4841,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e137",
+   "id": "e207",
    "key": "2026-11-29-bravissime",
    "moods": [
     "emozionarmi"
@@ -4783,7 +4863,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e138",
+   "id": "e208",
    "key": "2026-11-29-don-giovanni-in-versione-opera-breve",
    "moods": [
     "emozionarmi"
@@ -4807,7 +4887,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e368",
+   "id": "e209",
    "key": "2026-11-29-gherardo-colombo-e-gianluca-marchesini-adolescen",
    "moods": [
     "dentro",
@@ -4833,7 +4913,7 @@
     "bookcity"
    ],
    "verify": false,
-   "id": "e367",
+   "id": "e210",
    "key": "2026-11-29-paolo-di-paolo-tremare",
    "moods": [
     "pensare"
@@ -4858,7 +4938,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e139",
+   "id": "e211",
    "key": "2026-11-29-chiusura-bookcity-samantha-harvey-e-paolo-giorda",
    "why": "Una vincitrice del Booker e Paolo Giordano chiudono BookCity.",
    "moods": [
@@ -4881,7 +4961,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e140",
+   "id": "e212",
    "key": "2026-11-29-filarmonica-della-scala-dir-timothy-brock",
    "moods": [
     "emozionarmi"
@@ -4903,7 +4983,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e141",
+   "id": "e213",
    "key": "2026-11-29-king-ayisoba-kelly-b",
    "moods": [
     "emozionarmi"
@@ -4925,7 +5005,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e142",
+   "id": "e214",
    "key": "2026-11-29-gli-elfi-di-babbo-natale",
    "moods": [
     "bambini"
@@ -4947,7 +5027,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "e143",
+   "id": "e215",
    "key": "2026-11-29-tom-s-family-back-in-town",
    "moods": [
     "emozionarmi"
@@ -4969,7 +5049,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e144",
+   "id": "e216",
    "key": "2026-11-30-capitalismo-e-democrazia-nuovi-poteri-economici-",
    "moods": [
     "pensare"
@@ -4991,7 +5071,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e145",
+   "id": "e217",
    "key": "2026-11-30-teatro-dietro-l-angolo-laboratorio-con-diana-man",
    "moods": [
     "emozionarmi",
@@ -5014,7 +5094,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e146",
+   "id": "e218",
    "key": "2026-11-30-noir-in-festival-josephine-di-beth-de-araujo",
    "moods": [
     "emozionarmi"
@@ -5036,7 +5116,7 @@
    "desc": "Arte, parole e la musica di Mauro Sambo per raccontare un progetto artistico indipendente. Biglietto cortesia 5 €.",
    "url": "https://teatrofrancoparenti.it/spettacolo/storia-di-una-casa-veneziana-divenuta-spazio-darte-e-dialogo-fp/",
    "free": false,
-   "id": "e369",
+   "id": "e219",
    "key": "2026-11-30-lettera-1-giulia-colussi-ed-elena-re-una-casa-ve",
    "moods": [
     "pensare"
@@ -5058,7 +5138,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e147",
+   "id": "e220",
    "key": "2026-11-30-l-eterna-illusione-da-broadway-a-hollywood",
    "moods": [
     "emozionarmi"
@@ -5080,7 +5160,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e148",
+   "id": "e221",
    "key": "2026-11-30-corso-di-tango-e-milonga-con-auslander",
    "moods": [
     "emozionarmi"
@@ -5102,7 +5182,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e149",
+   "id": "e222",
    "key": "2026-11-30-il-canto-di-orfeo-inner-spaces",
    "moods": [
     "emozionarmi"
@@ -5124,7 +5204,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e150",
+   "id": "e223",
    "key": "2026-11-30-il-grande-gioco-dell-ai",
    "moods": [
     "pensare"
@@ -5146,7 +5226,7 @@
    "desc": "Documentario con Marcello Pezzetti, saluti di Andrée Ruth Shammah ed Emanuele Fiano. Gratis con prenotazione obbligatoria.",
    "url": "https://teatrofrancoparenti.it/spettacolo/nedo-un-italiano/",
    "free": true,
-   "id": "e370",
+   "id": "e224",
    "key": "2026-11-30-nedo-un-italiano-il-film-di-ruggero-gabbai-su-ne",
    "moods": [
     "emozionarmi"
@@ -5168,7 +5248,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e151",
+   "id": "e225",
    "key": "2026-11-30-orchestra-dell-universita-bicocca-vivaldi-bach-p",
    "moods": [
     "emozionarmi"
@@ -5190,7 +5270,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e152",
+   "id": "e226",
    "key": "2026-11-30-fabrizio-meloni-e-mari-fujino",
    "moods": [
     "emozionarmi"
@@ -5212,7 +5292,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e153",
+   "id": "e227",
    "key": "2026-11-30-alessandro-cattelan-benvenuto-nell-ai",
    "moods": [
     "emozionarmi",
@@ -5237,7 +5317,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e154",
+   "id": "e228",
    "key": "2026-11-30-noir-in-festival-the-blood-countess-di-ulrike-ot",
    "why": "Un film raro sul grande schermo, con Isabelle Huppert annunciata in sala.",
    "moods": [
@@ -5260,7 +5340,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e155",
+   "id": "e229",
    "key": "2026-11-30-curae-2026-non-ti-pago-apertura",
    "moods": [
     "emozionarmi"
@@ -5282,7 +5362,7 @@
    "free": true,
    "tags": [],
    "verify": true,
-   "id": "e156",
+   "id": "e230",
    "key": "2026-12-01-today-at-apple-workshop-disegna-con-apple-pencil",
    "moods": [
     "gente",
@@ -5305,7 +5385,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e157",
+   "id": "e231",
    "key": "2026-12-01-today-at-apple-workshop-scattare-belle-foto-con-",
    "moods": [
     "gente",
@@ -5328,7 +5408,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e386",
+   "id": "e232",
    "key": "2026-12-01-lezioni-di-poesia-giuseppe-gioachino-belli-il-pl",
    "moods": [
     "dentro",
@@ -5352,7 +5432,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e158",
+   "id": "e233",
    "key": "2026-12-01-teatro-dietro-l-angolo-laboratorio-con-diana-man",
    "moods": [
     "emozionarmi",
@@ -5375,7 +5455,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e159",
+   "id": "e234",
    "key": "2026-12-01-il-futuro-e-una-questione-di-competenze",
    "moods": [
     "pensare"
@@ -5397,7 +5477,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e160",
+   "id": "e235",
    "key": "2026-12-01-noir-in-festival-mi-amor-di-guillaume-nicloux",
    "moods": [
     "emozionarmi"
@@ -5419,7 +5499,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e161",
+   "id": "e236",
    "key": "2026-12-01-di-madre-in-figlia",
    "moods": [
     "emozionarmi"
@@ -5441,7 +5521,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e162",
+   "id": "e237",
    "key": "2026-12-01-giuseppe-il-padre-putativo-anteprima-under-30",
    "moods": [
     "emozionarmi"
@@ -5463,7 +5543,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e275",
+   "id": "e238",
    "key": "2026-12-01-le-belle-notti-di-gianni-clementi",
    "moods": [
     "emozionarmi",
@@ -5486,7 +5566,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e276",
+   "id": "e239",
    "key": "2026-12-01-bullet-catch",
    "moods": [
     "emozionarmi"
@@ -5508,7 +5588,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e277",
+   "id": "e240",
    "key": "2026-12-01-don-milani-la-parola-che-nutre",
    "moods": [
     "emozionarmi",
@@ -5531,7 +5611,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e163",
+   "id": "e241",
    "key": "2026-12-01-ettore-pagano-e-maximilian-kromer",
    "moods": [
     "emozionarmi"
@@ -5553,7 +5633,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e164",
+   "id": "e242",
    "key": "2026-12-01-la-bibbia-che-non-ti-aspetti-con-giorgio-marches",
    "moods": [
     "pensare"
@@ -5575,7 +5655,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e165",
+   "id": "e243",
    "key": "2026-12-01-la-storia-a-processo-oriana-fallaci",
    "moods": [
     "pensare"
@@ -5597,7 +5677,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e166",
+   "id": "e244",
    "key": "2026-12-01-noir-in-festival-l-ombra-e-dark-vertigo",
    "moods": [
     "emozionarmi"
@@ -5619,7 +5699,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e167",
+   "id": "e245",
    "key": "2026-12-01-curae-2026-ai-will-shakespeare",
    "moods": [
     "pensare"
@@ -5627,28 +5707,6 @@
    "geo": [
     45.4512,
     9.103
-   ],
-   "zona": "Fuori centro"
-  },
-  {
-   "date": "2026-12-01",
-   "time": "",
-   "title": "Spose del vento",
-   "venue": "Pacta Salone (via Ulisse Dini 7)",
-   "cat": "teatro",
-   "desc": "Elisa Baio e Giuseppe Guerrieri in scena.",
-   "url": "https://www.mentelocale.it/milano/139807-spose-vento.htm",
-   "free": null,
-   "tags": [],
-   "verify": true,
-   "id": "e169",
-   "key": "2026-12-01-spose-del-vento",
-   "moods": [
-    "emozionarmi"
-   ],
-   "geo": [
-    45.429,
-    9.194
    ],
    "zona": "Fuori centro"
   },
@@ -5665,7 +5723,7 @@
    "tags": [
     "standup"
    ],
-   "id": "e402",
+   "id": "e246",
    "key": "2026-12-01-giulia-torelli-e-claudio-pavese-non-ho-mai-live",
    "moods": [
     "dentro",
@@ -5678,6 +5736,28 @@
    "zona": "Sempione · CityLife"
   },
   {
+   "date": "2026-12-01",
+   "time": "",
+   "title": "Spose del vento",
+   "venue": "Pacta Salone (via Ulisse Dini 7)",
+   "cat": "teatro",
+   "desc": "Elisa Baio e Giuseppe Guerrieri in scena.",
+   "url": "https://www.mentelocale.it/milano/139807-spose-vento.htm",
+   "free": null,
+   "tags": [],
+   "verify": true,
+   "id": "e247",
+   "key": "2026-12-01-spose-del-vento",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.429,
+    9.194
+   ],
+   "zona": "Fuori centro"
+  },
+  {
    "date": "2026-12-02",
    "time": "17:00",
    "title": "Federico Nicoletta, Ti va di ballare?",
@@ -5688,7 +5768,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e170",
+   "id": "e248",
    "key": "2026-12-02-federico-nicoletta-ti-va-di-ballare",
    "moods": [
     "emozionarmi"
@@ -5710,7 +5790,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e171",
+   "id": "e249",
    "key": "2026-12-02-c-e-ancora-posto-per-l-universita",
    "moods": [
     "pensare"
@@ -5732,7 +5812,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e400",
+   "id": "e250",
    "key": "2026-12-02-per-una-pace-possibile-adolfo-ceretti-e-roberto-",
    "moods": [
     "dentro",
@@ -5758,7 +5838,7 @@
    ],
    "verify": false,
    "why": "I tre leader dell'opposizione sullo stesso palco a discutere di disuguaglianze e classe.",
-   "id": "e172",
+   "id": "e251",
    "key": "2026-12-02-left-summit-questione-di-classe-con-schlein-cont",
    "moods": [
     "pensare"
@@ -5780,7 +5860,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e173",
+   "id": "e252",
    "key": "2026-12-02-noir-in-festival-found-alive-di-carlota-pereda",
    "moods": [
     "emozionarmi"
@@ -5802,7 +5882,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e278",
+   "id": "e253",
    "key": "2026-12-02-don-milani-la-parola-che-nutre",
    "moods": [
     "emozionarmi",
@@ -5825,7 +5905,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e279",
+   "id": "e254",
    "key": "2026-12-02-le-belle-notti-di-gianni-clementi",
    "moods": [
     "emozionarmi",
@@ -5848,7 +5928,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e280",
+   "id": "e255",
    "key": "2026-12-02-bullet-catch",
    "moods": [
     "emozionarmi"
@@ -5870,7 +5950,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e281",
+   "id": "e256",
    "key": "2026-12-02-chi-come-me",
    "moods": [
     "dentro",
@@ -5893,7 +5973,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e174",
+   "id": "e257",
    "key": "2026-12-02-con-la-colpa-in-mente-tra-responsabilita-e-ripar",
    "moods": [
     "dentro",
@@ -5918,7 +5998,7 @@
     "imperdibile"
    ],
    "verify": false,
-   "id": "e175",
+   "id": "e258",
    "key": "2026-12-02-paul-lewis-mozart",
    "why": "Uno dei grandi pianisti di oggi, tra Mozart, Schubert e Chopin.",
    "moods": [
@@ -5933,6 +6013,30 @@
   {
    "date": "2026-12-02",
    "time": "21:00",
+   "title": "Ghemon: La prima volta, l'ultima volta, l'unica volta",
+   "venue": "Teatro Lirico Giorgio Gaber (via Larga 14)",
+   "desc": "Il secondo spettacolo di stand-up del rapper Ghemon: un racconto comico molto personale, senza rete. Da 25 euro.",
+   "url": "https://pleasestandup.it/serate/ghemon-la-prima-volta-lultima-volta-lunica-volta-milano-2-dicembre-2026/",
+   "free": false,
+   "verify": false,
+   "cat": "comedy",
+   "tags": [
+    "standup"
+   ],
+   "id": "e259",
+   "key": "2026-12-02-ghemon-la-prima-volta-l-ultima-volta-l-unica-vol",
+   "moods": [
+    "ridere"
+   ],
+   "geo": [
+    45.4615,
+    9.1925
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "21:00",
    "title": "I Virtuosi del Teatro alla Scala per Vidas",
    "venue": "Teatro alla Scala",
    "cat": "classica",
@@ -5941,7 +6045,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e176",
+   "id": "e260",
    "key": "2026-12-02-i-virtuosi-del-teatro-alla-scala-per-vidas",
    "moods": [
     "emozionarmi"
@@ -5963,7 +6067,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e177",
+   "id": "e261",
    "key": "2026-12-02-kino-ensemble-in-noir-film-concerto",
    "moods": [
     "emozionarmi"
@@ -5976,30 +6080,6 @@
   },
   {
    "date": "2026-12-02",
-   "time": "21:00",
-   "title": "Ghemon: La prima volta, l'ultima volta, l'unica volta",
-   "venue": "Teatro Lirico Giorgio Gaber (via Larga 14)",
-   "desc": "Il secondo spettacolo di stand-up del rapper Ghemon: un racconto comico molto personale, senza rete. Da 25 euro.",
-   "url": "https://pleasestandup.it/serate/ghemon-la-prima-volta-lultima-volta-lunica-volta-milano-2-dicembre-2026/",
-   "free": false,
-   "verify": false,
-   "cat": "comedy",
-   "tags": [
-    "standup"
-   ],
-   "id": "e403",
-   "key": "2026-12-02-ghemon-la-prima-volta-l-ultima-volta-l-unica-vol",
-   "moods": [
-    "ridere"
-   ],
-   "geo": [
-    45.4615,
-    9.1925
-   ],
-   "zona": "Centro"
-  },
-  {
-   "date": "2026-12-02",
    "time": "21:30",
    "title": "Noir in Festival: Furies di Rami Kodeih",
    "venue": "Anteo Palazzo del Cinema",
@@ -6009,7 +6089,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e178",
+   "id": "e262",
    "key": "2026-12-02-noir-in-festival-furies-di-rami-kodeih",
    "moods": [
     "emozionarmi"
@@ -6031,7 +6111,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e179",
+   "id": "e263",
    "key": "2026-12-02-curae-2026-portami-la-fuori",
    "moods": [
     "emozionarmi"
@@ -6055,7 +6135,7 @@
    "tags": [
     "standup"
    ],
-   "id": "e404",
+   "id": "e264",
    "key": "2026-12-02-mercomedy-serata-di-stand-up",
    "moods": [
     "ridere"
@@ -6072,7 +6152,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e180",
+   "id": "e265",
    "key": "2026-12-03-anni-di-vita-la-longevita-tra-sfide-e-opportunit",
    "moods": [
     "dentro",
@@ -6095,7 +6175,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e397",
+   "id": "e266",
    "key": "2026-12-03-trii-di-schumann-e-mendelssohn-a-casa-verdi",
    "moods": [
     "emozionarmi"
@@ -6117,7 +6197,7 @@
    "free": null,
    "tags": [],
    "verify": true,
-   "id": "e181",
+   "id": "e267",
    "key": "2026-12-03-l-angelo-ribelle-e-il-dio-geloso",
    "moods": [
     "pensare"
@@ -6139,7 +6219,7 @@
    "free": null,
    "tags": [],
    "verify": false,
-   "id": "e182",
+   "id": "e268",
    "key": "2026-12-03-left-summit-ritrovare-la-forza-del-collettivo",
    "moods": [
     "pensare"
@@ -6161,7 +6241,7 @@
    "desc": "Il romanzo su un ragazzo cresciuto sotto gli occhi dei follower che scappa dai social. Gratis, prenotazione consigliata.",
    "url": "https://teatrofrancoparenti.it/spettacolo/incontro-con-paolo-ruffini-fp/",
    "free": true,
-   "id": "e371",
+   "id": "e269",
    "key": "2026-12-03-paolo-ruffini-presenta-sono-io",
    "moods": [
     "pensare"
@@ -6183,7 +6263,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e183",
+   "id": "e270",
    "key": "2026-12-03-data-center-la-casa-dell-ai-anche-in-italia",
    "moods": [
     "pensare"
@@ -6205,7 +6285,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e282",
+   "id": "e271",
    "key": "2026-12-03-chi-come-me",
    "moods": [
     "dentro",
@@ -6230,7 +6310,7 @@
    "tags": [
     "standup"
    ],
-   "id": "e405",
+   "id": "e272",
    "key": "2026-12-03-raul-and-ram-stand-up-comedy-in-english",
    "moods": [
     "ridere"
@@ -6247,7 +6327,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e283",
+   "id": "e273",
    "key": "2026-12-03-don-milani-la-parola-che-nutre",
    "moods": [
     "emozionarmi",
@@ -6270,7 +6350,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e284",
+   "id": "e274",
    "key": "2026-12-03-bullet-catch",
    "moods": [
     "emozionarmi"
@@ -6295,7 +6375,7 @@
    ],
    "verify": false,
    "why": "Il re del neo-soul festeggia 25 anni del suo primo disco, in un club piccolo e caldo.",
-   "id": "e184",
+   "id": "e275",
    "key": "2026-12-03-bilal-25-anni-di-1st-born-second",
    "moods": [
     "emozionarmi"
@@ -6317,7 +6397,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e285",
+   "id": "e276",
    "key": "2026-12-03-le-belle-notti-di-gianni-clementi",
    "moods": [
     "emozionarmi",
@@ -6340,7 +6420,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "e185",
+   "id": "e277",
    "key": "2026-12-03-giuseppe-il-padre-putativo",
    "moods": [
     "emozionarmi"
@@ -6350,6 +6430,28 @@
     9.2105
    ],
    "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "",
+   "title": "I giorni dell'ostinazione: Edoardo Fontana e l'ostinazione della xilografia",
+   "venue": "Biblioteca Ostinata (via Osti 6)",
+   "cat": "storia",
+   "desc": "Ultimo incontro del ciclo \"I giorni dell'ostinazione\": Edoardo Fontana racconta la xilografia, l'arte dell'incisione su legno. Orario sul sito della biblioteca.",
+   "url": "https://www.alibionline.it/autunno-giorni-ostinazione-biblioteca-ostinata/",
+   "free": true,
+   "tags": [],
+   "verify": true,
+   "id": "e278",
+   "key": "2026-12-03-i-giorni-dell-ostinazione-edoardo-fontana-e-l-os",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.459,
+    9.1918
+   ],
+   "zona": "Porta Romana · Vittoria"
   },
   {
    "date": "2026-12-04",
@@ -6364,7 +6466,7 @@
     "imperdibile"
    ],
    "verify": true,
-   "id": "e186",
+   "id": "e279",
    "key": "2026-12-04-otello-anteprima-under-30",
    "moods": [
     "emozionarmi"
@@ -6386,7 +6488,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e286",
+   "id": "e280",
    "key": "2026-12-04-bullet-catch",
    "moods": [
     "emozionarmi"
@@ -6408,7 +6510,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e287",
+   "id": "e281",
    "key": "2026-12-04-don-milani-la-parola-che-nutre",
    "moods": [
     "emozionarmi",
@@ -6431,7 +6533,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e187",
+   "id": "e282",
    "key": "2026-12-04-lady-day-billie-holiday",
    "moods": [
     "emozionarmi"
@@ -6453,7 +6555,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e288",
+   "id": "e283",
    "key": "2026-12-04-le-belle-notti-di-gianni-clementi",
    "moods": [
     "emozionarmi",
@@ -6478,7 +6580,7 @@
     "chiese"
    ],
    "verify": false,
-   "id": "e243",
+   "id": "e284",
    "key": "2026-12-04-boosta-subsonica-suona-pianorama-in-chiesa",
    "moods": [
     "emozionarmi"
@@ -6500,7 +6602,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e289",
+   "id": "e285",
    "key": "2026-12-04-chi-come-me",
    "moods": [
     "dentro",
@@ -6523,7 +6625,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e188",
+   "id": "e286",
    "key": "2026-12-04-freddy-kempf-pianoforte",
    "moods": [
     "emozionarmi"
@@ -6545,7 +6647,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e189",
+   "id": "e287",
    "key": "2026-12-04-mixed-feelings-devon-rexi-venerus-b2b-physical-t",
    "moods": [
     "emozionarmi"
@@ -6567,7 +6669,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e290",
+   "id": "e288",
    "key": "2026-12-05-chi-come-me",
    "moods": [
     "dentro",
@@ -6592,7 +6694,7 @@
     "chiese"
    ],
    "verify": true,
-   "id": "e240",
+   "id": "e289",
    "key": "2026-12-05-concerto-spirituale-d-avvento-in-san-satiro",
    "moods": [
     "dentro",
@@ -6616,7 +6718,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e291",
+   "id": "e290",
    "key": "2026-12-05-bullet-catch",
    "moods": [
     "emozionarmi"
@@ -6638,7 +6740,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e292",
+   "id": "e291",
    "key": "2026-12-05-don-milani-la-parola-che-nutre",
    "moods": [
     "emozionarmi",
@@ -6661,7 +6763,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e190",
+   "id": "e292",
    "key": "2026-12-05-lady-day-billie-holiday",
    "moods": [
     "emozionarmi"
@@ -6683,7 +6785,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e191",
+   "id": "e293",
    "key": "2026-12-05-a-nice-noise-the-cut-of-your-jib",
    "moods": [
     "emozionarmi"
@@ -6705,7 +6807,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e293",
+   "id": "e294",
    "key": "2026-12-06-don-milani-la-parola-che-nutre",
    "moods": [
     "emozionarmi",
@@ -6728,7 +6830,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e294",
+   "id": "e295",
    "key": "2026-12-06-bullet-catch",
    "moods": [
     "emozionarmi"
@@ -6750,7 +6852,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e192",
+   "id": "e296",
    "key": "2026-12-06-lady-day-billie-holiday",
    "moods": [
     "emozionarmi"
@@ -6772,7 +6874,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e295",
+   "id": "e297",
    "key": "2026-12-06-chi-come-me",
    "moods": [
     "dentro",
@@ -6795,7 +6897,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e296",
+   "id": "e298",
    "key": "2026-12-07-controvento-bolle-di-sapone-e-clownerie-da-3-ann",
    "moods": [
     "bambini",
@@ -6818,7 +6920,7 @@
    "free": false,
    "tags": [],
    "verify": true,
-   "id": "e193",
+   "id": "e299",
    "key": "2026-12-07-otello-la-prima-della-scala",
    "moods": [
     "emozionarmi"
@@ -6840,7 +6942,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e297",
+   "id": "e300",
    "key": "2026-12-08-controvento-bolle-di-sapone-e-clownerie-da-3-ann",
    "moods": [
     "bambini",
@@ -6863,7 +6965,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e298",
+   "id": "e301",
    "key": "2026-12-08-chi-come-me",
    "moods": [
     "dentro",
@@ -6886,7 +6988,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e299",
+   "id": "e302",
    "key": "2026-12-08-bullet-catch",
    "moods": [
     "emozionarmi"
@@ -6908,7 +7010,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e300",
+   "id": "e303",
    "key": "2026-12-08-don-milani-la-parola-che-nutre",
    "moods": [
     "emozionarmi",
@@ -6931,7 +7033,7 @@
    "free": true,
    "tags": [],
    "verify": false,
-   "id": "e398",
+   "id": "e304",
    "key": "2026-12-09-milva-e-la-storia-di-dischi-ricordi",
    "moods": [
     "pensare"
@@ -6953,7 +7055,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e301",
+   "id": "e305",
    "key": "2026-12-09-don-milani-la-parola-che-nutre",
    "moods": [
     "emozionarmi",
@@ -6976,7 +7078,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e302",
+   "id": "e306",
    "key": "2026-12-09-tutti-gli-uomini-che-non-sono-con-paolo-calabres",
    "moods": [
     "emozionarmi"
@@ -6998,7 +7100,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e303",
+   "id": "e307",
    "key": "2026-12-09-bullet-catch",
    "moods": [
     "emozionarmi"
@@ -7020,7 +7122,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e194",
+   "id": "e308",
    "key": "2026-12-09-aria-di-liberta-settembre-43-aprile-45",
    "moods": [
     "pensare"
@@ -7042,7 +7144,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e195",
+   "id": "e309",
    "key": "2026-12-09-bubaro-dei-bubari",
    "moods": [
     "emozionarmi"
@@ -7064,7 +7166,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e304",
+   "id": "e310",
    "key": "2026-12-09-chi-come-me",
    "moods": [
     "dentro",
@@ -7073,29 +7175,6 @@
    "geo": [
     45.453,
     9.208
-   ],
-   "zona": "Porta Romana · Vittoria"
-  },
-  {
-   "date": "2026-12-09",
-   "time": "20:30",
-   "title": "Stefano Rapone Allo Sbagliato",
-   "venue": "Allo Sbagliato · Teatro Principe (viale Bligny 52)",
-   "cat": "comedy",
-   "desc": "Stand-up nel club off-line di Marco Mengoni al Teatro Principe, senza telefoni.",
-   "url": "https://www.mentelocale.it/milano/141488-stefano-rapone.htm",
-   "free": false,
-   "tags": [],
-   "verify": false,
-   "id": "e244",
-   "key": "2026-12-09-stefano-rapone-allo-sbagliato",
-   "moods": [
-    "emozionarmi",
-    "ridere"
-   ],
-   "geo": [
-    45.4521,
-    9.1965
    ],
    "zona": "Porta Romana · Vittoria"
   },
@@ -7112,7 +7191,7 @@
    "tags": [
     "standup"
    ],
-   "id": "e406",
+   "id": "e311",
    "key": "2026-12-09-francesca-reggiani-e-chiara-becchimanzi-a-noi-gl",
    "moods": [
     "ridere"
@@ -7120,6 +7199,29 @@
    "geo": [
     45.4547,
     9.1966
+   ],
+   "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "20:30",
+   "title": "Stefano Rapone Allo Sbagliato",
+   "venue": "Allo Sbagliato · Teatro Principe (viale Bligny 52)",
+   "cat": "comedy",
+   "desc": "Stand-up nel club off-line di Marco Mengoni al Teatro Principe, senza telefoni.",
+   "url": "https://www.mentelocale.it/milano/141488-stefano-rapone.htm",
+   "free": false,
+   "tags": [],
+   "verify": false,
+   "id": "e312",
+   "key": "2026-12-09-stefano-rapone-allo-sbagliato",
+   "moods": [
+    "emozionarmi",
+    "ridere"
+   ],
+   "geo": [
+    45.4521,
+    9.1965
    ],
    "zona": "Porta Romana · Vittoria"
   },
@@ -7134,7 +7236,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e196",
+   "id": "e313",
    "key": "2026-12-09-claudio-covato-vittoria-sciacca",
    "moods": [
     "emozionarmi"
@@ -7156,7 +7258,7 @@
    "desc": "Il libro sulle percezioni degli italiani in politica internazionale, con Maurizio Molinari. Biglietto cortesia 5 €.",
    "url": "https://teatrofrancoparenti.it/spettacolo/incontro-con-renato-mannheimer-e-pasquale-pasquino-fp/",
    "free": false,
-   "id": "e372",
+   "id": "e314",
    "key": "2026-12-10-mannheimer-e-pasquino-cosa-pensano-gli-italiani-",
    "moods": [
     "pensare"
@@ -7178,7 +7280,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e197",
+   "id": "e315",
    "key": "2026-12-10-il-viale-del-tramonto",
    "moods": [
     "emozionarmi"
@@ -7200,7 +7302,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e305",
+   "id": "e316",
    "key": "2026-12-10-chi-come-me",
    "moods": [
     "dentro",
@@ -7223,7 +7325,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e198",
+   "id": "e317",
    "key": "2026-12-10-aria-di-liberta-settembre-43-aprile-45",
    "moods": [
     "pensare"
@@ -7245,7 +7347,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e306",
+   "id": "e318",
    "key": "2026-12-10-don-milani-la-parola-che-nutre",
    "moods": [
     "emozionarmi",
@@ -7268,7 +7370,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e307",
+   "id": "e319",
    "key": "2026-12-10-bullet-catch",
    "moods": [
     "emozionarmi"
@@ -7290,7 +7392,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e199",
+   "id": "e320",
    "key": "2026-12-10-bubaro-dei-bubari",
    "moods": [
     "emozionarmi"
@@ -7312,7 +7414,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e200",
+   "id": "e321",
    "key": "2026-12-10-uno-nessuno-e-centomila",
    "moods": [
     "dentro",
@@ -7335,7 +7437,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e201",
+   "id": "e322",
    "key": "2026-12-10-tmrw-talk-ep-release-party",
    "moods": [
     "emozionarmi"
@@ -7357,7 +7459,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e308",
+   "id": "e323",
    "key": "2026-12-10-tutti-gli-uomini-che-non-sono-con-paolo-calabres",
    "moods": [
     "emozionarmi"
@@ -7379,7 +7481,7 @@
    "desc": "Il capolavoro di Mozart riletto dentro le idee del suo tempo, con Paolo Besana e Vittorio Lingiardi. Biglietto cortesia 5 €.",
    "url": "https://teatrofrancoparenti.it/spettacolo/incontro-con-lidia-bramani-fp/",
    "free": false,
-   "id": "e373",
+   "id": "e324",
    "key": "2026-12-11-lidia-bramani-don-giovanni-mozart-massone-e-illu",
    "moods": [
     "dentro",
@@ -7402,7 +7504,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e309",
+   "id": "e325",
    "key": "2026-12-11-bullet-catch",
    "moods": [
     "emozionarmi"
@@ -7424,7 +7526,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e310",
+   "id": "e326",
    "key": "2026-12-11-don-milani-la-parola-che-nutre",
    "moods": [
     "emozionarmi",
@@ -7447,7 +7549,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e202",
+   "id": "e327",
    "key": "2026-12-11-il-viale-del-tramonto",
    "moods": [
     "emozionarmi"
@@ -7469,7 +7571,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e311",
+   "id": "e328",
    "key": "2026-12-11-tutti-gli-uomini-che-non-sono-con-paolo-calabres",
    "moods": [
     "emozionarmi"
@@ -7491,7 +7593,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e203",
+   "id": "e329",
    "key": "2026-12-11-aria-di-liberta-settembre-43-aprile-45",
    "moods": [
     "pensare"
@@ -7515,7 +7617,7 @@
     "chiese"
    ],
    "verify": false,
-   "id": "e245",
+   "id": "e330",
    "key": "2026-12-11-enzo-avitabile-e-peppe-servillo-duet",
    "moods": [
     "emozionarmi"
@@ -7537,7 +7639,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e312",
+   "id": "e331",
    "key": "2026-12-11-chi-come-me",
    "moods": [
     "dentro",
@@ -7560,7 +7662,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e204",
+   "id": "e332",
    "key": "2026-12-11-bubaro-dei-bubari",
    "moods": [
     "emozionarmi"
@@ -7582,7 +7684,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e205",
+   "id": "e333",
    "key": "2026-12-11-come-una-specie-di-vertigine-il-nano-calvino-la-",
    "moods": [
     "emozionarmi"
@@ -7604,7 +7706,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e206",
+   "id": "e334",
    "key": "2026-12-11-uno-nessuno-e-centomila",
    "moods": [
     "dentro",
@@ -7627,7 +7729,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e207",
+   "id": "e335",
    "key": "2026-12-11-immacolato-concertone-vol-4",
    "moods": [
     "emozionarmi",
@@ -7650,7 +7752,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e313",
+   "id": "e336",
    "key": "2026-12-12-chi-come-me",
    "moods": [
     "dentro",
@@ -7675,7 +7777,7 @@
     "chiese"
    ],
    "verify": true,
-   "id": "e241",
+   "id": "e337",
    "key": "2026-12-12-concerto-spirituale-d-avvento-in-san-satiro",
    "moods": [
     "dentro",
@@ -7699,7 +7801,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e314",
+   "id": "e338",
    "key": "2026-12-12-hana-e-momo-3-8-anni",
    "moods": [
     "bambini"
@@ -7721,7 +7823,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e315",
+   "id": "e339",
    "key": "2026-12-12-bullet-catch",
    "moods": [
     "emozionarmi"
@@ -7743,7 +7845,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e316",
+   "id": "e340",
    "key": "2026-12-12-don-milani-la-parola-che-nutre",
    "moods": [
     "emozionarmi",
@@ -7766,7 +7868,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e317",
+   "id": "e341",
    "key": "2026-12-12-tutti-gli-uomini-che-non-sono-con-paolo-calabres",
    "moods": [
     "emozionarmi"
@@ -7788,7 +7890,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e208",
+   "id": "e342",
    "key": "2026-12-12-aria-di-liberta-settembre-43-aprile-45",
    "moods": [
     "pensare"
@@ -7810,7 +7912,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e209",
+   "id": "e343",
    "key": "2026-12-12-bubaro-dei-bubari",
    "moods": [
     "emozionarmi"
@@ -7832,7 +7934,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e210",
+   "id": "e344",
    "key": "2026-12-12-come-una-specie-di-vertigine-il-nano-calvino-la-",
    "moods": [
     "emozionarmi"
@@ -7854,7 +7956,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e211",
+   "id": "e345",
    "key": "2026-12-12-il-viale-del-tramonto",
    "moods": [
     "emozionarmi"
@@ -7876,7 +7978,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e212",
+   "id": "e346",
    "key": "2026-12-12-uno-nessuno-e-centomila",
    "moods": [
     "dentro",
@@ -7899,7 +8001,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e213",
+   "id": "e347",
    "key": "2026-12-12-wild-honey-s-christmas-party-vol-5",
    "moods": [
     "emozionarmi",
@@ -7922,7 +8024,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e214",
+   "id": "e348",
    "key": "2026-12-13-bubaro-dei-bubari",
    "moods": [
     "emozionarmi"
@@ -7944,7 +8046,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e215",
+   "id": "e349",
    "key": "2026-12-13-come-una-specie-di-vertigine-il-nano-calvino-la-",
    "moods": [
     "emozionarmi"
@@ -7966,7 +8068,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e216",
+   "id": "e350",
    "key": "2026-12-13-uno-nessuno-e-centomila",
    "moods": [
     "dentro",
@@ -7989,7 +8091,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e318",
+   "id": "e351",
    "key": "2026-12-13-tutti-gli-uomini-che-non-sono-con-paolo-calabres",
    "moods": [
     "emozionarmi"
@@ -8011,7 +8113,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e319",
+   "id": "e352",
    "key": "2026-12-13-bullet-catch",
    "moods": [
     "emozionarmi"
@@ -8033,7 +8135,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e320",
+   "id": "e353",
    "key": "2026-12-13-hana-e-momo-3-8-anni",
    "moods": [
     "bambini"
@@ -8055,7 +8157,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e217",
+   "id": "e354",
    "key": "2026-12-13-il-viale-del-tramonto",
    "moods": [
     "emozionarmi"
@@ -8077,7 +8179,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e218",
+   "id": "e355",
    "key": "2026-12-13-aria-di-liberta-settembre-43-aprile-45",
    "moods": [
     "pensare"
@@ -8099,7 +8201,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e321",
+   "id": "e356",
    "key": "2026-12-13-chi-come-me",
    "moods": [
     "dentro",
@@ -8122,7 +8224,7 @@
    "desc": "A cinquant'anni dallo scioglimento, una generazione racconta cosa voleva dire sentirsi parte di qualcosa. Gratis, prenotazione consigliata.",
    "url": "https://teatrofrancoparenti.it/spettacolo/il-tempo-dellappartenenza-fp/",
    "free": true,
-   "id": "e374",
+   "id": "e357",
    "key": "2026-12-14-il-tempo-dell-appartenenza-lotta-continua-con-li",
    "moods": [
     "pensare"
@@ -8144,7 +8246,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e322",
+   "id": "e358",
    "key": "2026-12-14-odysseia-i-suoni-di-ulisse-teatro-patologico",
    "moods": [
     "emozionarmi"
@@ -8166,7 +8268,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e323",
+   "id": "e359",
    "key": "2026-12-15-chi-come-me",
    "moods": [
     "dentro",
@@ -8189,7 +8291,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e219",
+   "id": "e360",
    "key": "2026-12-15-don-chisciotte-senza-mancia",
    "moods": [
     "emozionarmi"
@@ -8211,7 +8313,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e324",
+   "id": "e361",
    "key": "2026-12-15-la-reginetta-di-leenane-con-ambra-angiolini-e-iv",
    "moods": [
     "emozionarmi"
@@ -8233,7 +8335,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e325",
+   "id": "e362",
    "key": "2026-12-15-bullet-catch",
    "moods": [
     "emozionarmi"
@@ -8255,7 +8357,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e246",
+   "id": "e363",
    "key": "2026-12-15-luca-ravenna-allo-sbagliato",
    "moods": [
     "emozionarmi",
@@ -8278,7 +8380,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e326",
+   "id": "e364",
    "key": "2026-12-15-maria-cassi-e-leonardo-brizzi-recital-40-anni-di",
    "moods": [
     "emozionarmi",
@@ -8301,7 +8403,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e220",
+   "id": "e365",
    "key": "2026-12-15-uno-nessuno-e-centomila",
    "moods": [
     "dentro",
@@ -8324,7 +8426,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e327",
+   "id": "e366",
    "key": "2026-12-16-maria-cassi-e-leonardo-brizzi-recital-40-anni-di",
    "moods": [
     "emozionarmi",
@@ -8347,7 +8449,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e328",
+   "id": "e367",
    "key": "2026-12-16-la-reginetta-di-leenane-con-ambra-angiolini-e-iv",
    "moods": [
     "emozionarmi"
@@ -8369,7 +8471,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e329",
+   "id": "e368",
    "key": "2026-12-16-bullet-catch",
    "moods": [
     "emozionarmi"
@@ -8391,7 +8493,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e330",
+   "id": "e369",
    "key": "2026-12-16-chi-come-me",
    "moods": [
     "dentro",
@@ -8414,7 +8516,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e221",
+   "id": "e370",
    "key": "2026-12-16-don-chisciotte-senza-mancia",
    "moods": [
     "emozionarmi"
@@ -8428,6 +8530,31 @@
   {
    "date": "2026-12-16",
    "time": "20:30",
+   "title": "Nicola Piovani: Note a margine",
+   "venue": "Conservatorio di Milano, Sala Verdi (via Conservatorio 12)",
+   "cat": "classica",
+   "desc": "Il premio Oscar racconta al pianoforte, con sax e contrabbasso e le immagini di Milo Manara, quarant'anni di musica con Fellini, i Taviani, Cerami e Benigni. L'incasso va al Centro Ustioni di Niguarda.",
+   "url": "https://www.mentelocale.it/milano/136181-note-a-margine.htm",
+   "free": false,
+   "tags": [
+    "imperdibile"
+   ],
+   "verify": false,
+   "why": "Quarant'anni di cinema italiano raccontati da chi ne ha scritto la musica.",
+   "id": "e371",
+   "key": "2026-12-16-nicola-piovani-note-a-margine",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4655,
+    9.201
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-16",
+   "time": "20:30",
    "title": "Uno, nessuno e centomila",
    "venue": "Teatro Leonardo (via Ampère 1)",
    "cat": "teatro",
@@ -8436,7 +8563,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e222",
+   "id": "e372",
    "key": "2026-12-16-uno-nessuno-e-centomila",
    "moods": [
     "dentro",
@@ -8459,7 +8586,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e223",
+   "id": "e373",
    "key": "2026-12-16-puntuale-festival-music-for-airports-di-brian-en",
    "moods": [
     "emozionarmi"
@@ -8481,7 +8608,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e224",
+   "id": "e374",
    "key": "2026-12-17-c-e-chi-dice-no-renzo-lucia-i-giovani",
    "moods": [
     "emozionarmi"
@@ -8503,7 +8630,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e225",
+   "id": "e375",
    "key": "2026-12-17-don-chisciotte-senza-mancia",
    "moods": [
     "emozionarmi"
@@ -8525,7 +8652,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e331",
+   "id": "e376",
    "key": "2026-12-17-maria-cassi-e-leonardo-brizzi-recital-40-anni-di",
    "moods": [
     "emozionarmi",
@@ -8548,7 +8675,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e332",
+   "id": "e377",
    "key": "2026-12-17-bullet-catch",
    "moods": [
     "emozionarmi"
@@ -8570,7 +8697,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e226",
+   "id": "e378",
    "key": "2026-12-17-uno-nessuno-e-centomila",
    "moods": [
     "dentro",
@@ -8593,7 +8720,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e333",
+   "id": "e379",
    "key": "2026-12-17-la-reginetta-di-leenane-con-ambra-angiolini-e-iv",
    "moods": [
     "emozionarmi"
@@ -8615,7 +8742,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e227",
+   "id": "e380",
    "key": "2026-12-17-sa-roc-con-malasartoria-milano",
    "moods": [
     "emozionarmi"
@@ -8637,7 +8764,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e334",
+   "id": "e381",
    "key": "2026-12-18-bullet-catch",
    "moods": [
     "emozionarmi"
@@ -8659,7 +8786,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e335",
+   "id": "e382",
    "key": "2026-12-18-maria-cassi-e-leonardo-brizzi-recital-40-anni-di",
    "moods": [
     "emozionarmi",
@@ -8682,7 +8809,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e228",
+   "id": "e383",
    "key": "2026-12-18-c-e-chi-dice-no-renzo-lucia-i-giovani",
    "moods": [
     "emozionarmi"
@@ -8704,7 +8831,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e336",
+   "id": "e384",
    "key": "2026-12-18-la-reginetta-di-leenane-con-ambra-angiolini-e-iv",
    "moods": [
     "emozionarmi"
@@ -8726,7 +8853,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e229",
+   "id": "e385",
    "key": "2026-12-18-don-chisciotte-senza-mancia",
    "moods": [
     "emozionarmi"
@@ -8750,7 +8877,7 @@
     "chiese"
    ],
    "verify": false,
-   "id": "e247",
+   "id": "e386",
    "key": "2026-12-18-moni-ovadia-legge-la-laudato-si",
    "moods": [
     "pensare"
@@ -8772,7 +8899,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e337",
+   "id": "e387",
    "key": "2026-12-18-chi-come-me",
    "moods": [
     "dentro",
@@ -8795,7 +8922,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e230",
+   "id": "e388",
    "key": "2026-12-18-uno-nessuno-e-centomila",
    "moods": [
     "dentro",
@@ -8820,7 +8947,7 @@
     "chiese"
    ],
    "verify": true,
-   "id": "e248",
+   "id": "e389",
    "key": "2026-12-18-baltimora-gospel-singers-a-san-gregorio",
    "moods": [
     "emozionarmi"
@@ -8844,7 +8971,7 @@
     "chiese"
    ],
    "verify": false,
-   "id": "e250",
+   "id": "e390",
    "key": "2026-12-19-giovanni-lindo-ferretti-percuotendo-in-cadenza",
    "moods": [
     "emozionarmi"
@@ -8866,7 +8993,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e338",
+   "id": "e391",
    "key": "2026-12-19-chi-come-me",
    "moods": [
     "dentro",
@@ -8889,7 +9016,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e339",
+   "id": "e392",
    "key": "2026-12-19-cappuccetto-rosso-nella-pancia-del-lupo-da-5-ann",
    "moods": [
     "bambini"
@@ -8913,7 +9040,7 @@
     "chiese"
    ],
    "verify": true,
-   "id": "e242",
+   "id": "e393",
    "key": "2026-12-19-concerto-spirituale-d-avvento-in-san-satiro-ulti",
    "moods": [
     "dentro",
@@ -8937,7 +9064,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e340",
+   "id": "e394",
    "key": "2026-12-19-bullet-catch",
    "moods": [
     "emozionarmi"
@@ -8959,7 +9086,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e341",
+   "id": "e395",
    "key": "2026-12-19-maria-cassi-e-leonardo-brizzi-recital-40-anni-di",
    "moods": [
     "emozionarmi",
@@ -8982,7 +9109,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e342",
+   "id": "e396",
    "key": "2026-12-19-la-reginetta-di-leenane-con-ambra-angiolini-e-iv",
    "moods": [
     "emozionarmi"
@@ -9004,7 +9131,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e231",
+   "id": "e397",
    "key": "2026-12-19-don-chisciotte-senza-mancia",
    "moods": [
     "emozionarmi"
@@ -9026,7 +9153,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e232",
+   "id": "e398",
    "key": "2026-12-19-c-e-chi-dice-no-renzo-lucia-i-giovani",
    "moods": [
     "emozionarmi"
@@ -9048,7 +9175,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e233",
+   "id": "e399",
    "key": "2026-12-19-uno-nessuno-e-centomila",
    "moods": [
     "dentro",
@@ -9073,7 +9200,7 @@
     "chiese"
    ],
    "verify": true,
-   "id": "e249",
+   "id": "e400",
    "key": "2026-12-19-baltimora-gospel-singers-a-san-gregorio",
    "moods": [
     "emozionarmi"
@@ -9095,7 +9222,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e234",
+   "id": "e401",
    "key": "2026-12-19-milano-oldies-club-con-tiny-t",
    "moods": [
     "emozionarmi"
@@ -9117,7 +9244,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e343",
+   "id": "e402",
    "key": "2026-12-20-maria-cassi-e-leonardo-brizzi-recital-40-anni-di",
    "moods": [
     "emozionarmi",
@@ -9140,7 +9267,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e235",
+   "id": "e403",
    "key": "2026-12-20-uno-nessuno-e-centomila",
    "moods": [
     "dentro",
@@ -9163,7 +9290,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e344",
+   "id": "e404",
    "key": "2026-12-20-la-reginetta-di-leenane-con-ambra-angiolini-e-iv",
    "moods": [
     "emozionarmi"
@@ -9185,7 +9312,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e345",
+   "id": "e405",
    "key": "2026-12-20-bullet-catch",
    "moods": [
     "emozionarmi"
@@ -9207,7 +9334,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e236",
+   "id": "e406",
    "key": "2026-12-20-c-e-chi-dice-no-renzo-lucia-i-giovani",
    "moods": [
     "emozionarmi"
@@ -9229,7 +9356,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e346",
+   "id": "e407",
    "key": "2026-12-20-cappuccetto-rosso-nella-pancia-del-lupo-da-5-ann",
    "moods": [
     "bambini"
@@ -9251,7 +9378,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e347",
+   "id": "e408",
    "key": "2026-12-20-chi-come-me",
    "moods": [
     "dentro",
@@ -9274,7 +9401,7 @@
    "free": false,
    "tags": [],
    "verify": false,
-   "id": "e237",
+   "id": "e409",
    "key": "2026-12-20-don-chisciotte-senza-mancia",
    "moods": [
     "emozionarmi"

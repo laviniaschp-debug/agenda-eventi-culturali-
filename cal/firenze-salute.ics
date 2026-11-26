@@ -24,4 +24,18 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-16-death-cafe-al-conventino@acculturiamoci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261216T100000
+DTEND;TZID=Europe/Rome:20261216T120000
+SUMMARY:Death Cafe al Conventino
+LOCATION:Il Conventino Caffè Letterario (via Giano della Bella 20)
+DESCRIPTION:Un caffè per parlare di morte e di lutto\, ascoltare e condivi
+ dere esperienze\, guidato da Lucy De Fazio. Ogni terzo mercoledì del mese
+ \, prenotazione su WhatsApp al 329 6049911. https://ma.to/event/death-cafe
+ -al-conventino-16-dec-2026
+URL:https://ma.to/event/death-cafe-al-conventino-16-dec-2026
+CATEGORIES:Psiche e salute
+END:VEVENT
 END:VCALENDAR

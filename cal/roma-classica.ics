@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-25-organum-multiplum-heinali-saienko-e-lindwall-a-s@acculturiam
  oci.it
-DTSTAMP:20261125T095404Z
+DTSTAMP:20261126T080456Z
 DTSTART;TZID=Europe/Rome:20261125T193000
 DTEND;TZID=Europe/Rome:20261125T213000
 SUMMARY:Organum Multiplum: Heinali\, Saienko e Lindwall a Santa Cecilia
@@ -40,7 +40,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-sol-gabetta-e-bertrand-chamayou@acculturiamoci.it
-DTSTAMP:20261125T095404Z
+DTSTAMP:20261126T080456Z
 DTSTART;TZID=Europe/Rome:20261125T200000
 DTEND;TZID=Europe/Rome:20261125T220000
 SUMMARY:Sol Gabetta e Bertrand Chamayou
@@ -52,7 +52,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-daniel-harding-dirige-brahms-e-strauss@acculturiamoci.it
-DTSTAMP:20261125T095404Z
+DTSTAMP:20261126T080456Z
 DTSTART;TZID=Europe/Rome:20261126T193000
 DTEND;TZID=Europe/Rome:20261126T213000
 SUMMARY:Daniel Harding dirige Brahms e Strauss
@@ -64,7 +64,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-daniel-harding-dirige-brahms-e-strauss@acculturiamoci.it
-DTSTAMP:20261125T095404Z
+DTSTAMP:20261126T080456Z
 DTSTART;TZID=Europe/Rome:20261127T200000
 DTEND;TZID=Europe/Rome:20261127T220000
 SUMMARY:Daniel Harding dirige Brahms e Strauss
@@ -76,7 +76,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-masterclass-i-segreti-della-tosca@acculturiamoci.it
-DTSTAMP:20261125T095404Z
+DTSTAMP:20261126T080456Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Masterclass: i segreti della Tosca
@@ -88,7 +88,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-daniel-harding-dirige-brahms-e-strauss@acculturiamoci.it
-DTSTAMP:20261125T095404Z
+DTSTAMP:20261126T080456Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Daniel Harding dirige Brahms e Strauss
@@ -100,7 +100,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-the-shape-of-sound-liquid-conversation@acculturiamoci.it
-DTSTAMP:20261125T095404Z
+DTSTAMP:20261126T080456Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:The Shape of Sound: Liquid Conversation
@@ -113,8 +113,38 @@ URL:https://www.mattatoioroma.it/evento/the-shape-of-sound-liquid-conversat
 CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-lezione-concerto-erik-bertsch-suona-saariaho-ben@acculturiam
+ oci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261129T173000
+DTEND;TZID=Europe/Rome:20261129T193000
+SUMMARY:Lezione concerto: Erik Bertsch suona Saariaho\, Benjamin e Kurtág
+LOCATION:Accademia Filarmonica Romana (via Flaminia 118)
+DESCRIPTION:Lezione concerto del pianista Erik Bertsch sulla musica d'oggi\
+ , nella stagione della Filarmonica Romana. https://www.classicalive.it/it/
+ rassegne/accademia-filarmonica-romana/2026-2027
+URL:https://www.classicalive.it/it/rassegne/accademia-filarmonica-romana/20
+ 26-2027
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-love-cello-duet-chopin-e-beethoven-a-piazza-navo@acculturiam
+ oci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261201T174500
+DTEND;TZID=Europe/Rome:20261201T194500
+SUMMARY:Love Cello Duet: Chopin e Beethoven a piazza Navona
+LOCATION:Sant'Agnese in Agone\, Sacrestia del Borromini (piazza Navona)
+DESCRIPTION:Violoncello e pianoforte con Marco Algenti e Lisa Francese nell
+ a sacrestia barocca del Borromini. Un'ora\, da circa 23 euro. https://www.
+ classictic.com/it/city/roma-t14/concierti-a-roma-a-dicembre/
+URL:https://www.classictic.com/it/city/roma-t14/concierti-a-roma-a-dicembre
+ /
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-01-steve-reich-al-pantheon-organum-multiplum@acculturiamoci.it
-DTSTAMP:20261125T095404Z
+DTSTAMP:20261126T080456Z
 DTSTART;TZID=Europe/Rome:20261201T210000
 DTEND;TZID=Europe/Rome:20261201T230000
 SUMMARY:Steve Reich al Pantheon (Organum Multiplum)
@@ -127,9 +157,26 @@ URL:https://www.turismoroma.it/de/node/179515
 CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-03-capriccio-italiano-festival-pianoforte-nella-sac@acculturiam
+ oci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261203T174500
+DTEND;TZID=Europe/Rome:20261203T194500
+SUMMARY:Capriccio Italiano Festival: pianoforte nella Sacrestia del Borromi
+ ni
+LOCATION:Sant'Agnese in Agone\, Sacrestia del Borromini (piazza Navona)
+DESCRIPTION:Beethoven\, Schubert\, Liszt e Chopin in un recital per pianofo
+ rte di un'ora\, a due passi da piazza Navona. https://www.eventbrite.it/e/
+ piano-concert-in-borrominis-sacristy-piazza-navona-rome-tickets-2004435703
+ 146
+URL:https://www.eventbrite.it/e/piano-concert-in-borrominis-sacristy-piazza
+ -navona-rome-tickets-2004435703146
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-09-jordi-savall-magnificat-e-gloria-di-vivaldi@acculturiamoci.i
  t
-DTSTAMP:20261125T095404Z
+DTSTAMP:20261126T080456Z
 DTSTART;TZID=Europe/Rome:20261209T200000
 DTEND;TZID=Europe/Rome:20261209T220000
 SUMMARY:Jordi Savall: Magnificat e Gloria di Vivaldi
@@ -142,9 +189,23 @@ URL:https://santacecilia.it/wp-content/uploads/2026/03/Camera_26_27.pdf
 CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-09-jordi-savall-vivaldi@acculturiamoci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261209T200000
+DTEND;TZID=Europe/Rome:20261209T220000
+SUMMARY:Jordi Savall: Vivaldi
+LOCATION:Auditorium Parco della Musica · Sala Sinopoli
+DESCRIPTION:Il maestro catalano della musica antica dirige una serata dedic
+ ata a Vivaldi\, per l'Accademia di Santa Cecilia. https://www.wantedinrome
+ .com/whatson/rome-accademia-nazionale-di-santa-cecilia-concerts.html
+URL:https://www.wantedinrome.com/whatson/rome-accademia-nazionale-di-santa-
+ cecilia-concerts.html
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-10-oratorio-di-natale-di-bach-con-enrico-onofri@acculturiamoci.
  it
-DTSTAMP:20261125T095404Z
+DTSTAMP:20261126T080456Z
 DTSTART;TZID=Europe/Rome:20261210T193000
 DTEND;TZID=Europe/Rome:20261210T213000
 SUMMARY:Oratorio di Natale di Bach con Enrico Onofri
@@ -159,7 +220,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-trio-concept-dumky-di-dvorak-e-trio-di-cajkovski@acculturiam
  oci.it
-DTSTAMP:20261125T095404Z
+DTSTAMP:20261126T080456Z
 DTSTART;TZID=Europe/Rome:20261210T210000
 DTEND;TZID=Europe/Rome:20261210T230000
 SUMMARY:Trio Concept: Dumky di Dvořák e Trio di Čajkovskij
@@ -171,9 +232,37 @@ URL:https://filarmonicaromana.org/Stagione26-27.pdf
 CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-10-trio-concept-dvorak-e-cajkovskij@acculturiamoci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261210T210000
+DTEND;TZID=Europe/Rome:20261210T230000
+SUMMARY:Trio Concept: Dvořák e Čajkovskij
+LOCATION:Teatro Argentina (largo di Torre Argentina 52)
+DESCRIPTION:Il giovane trio con pianoforte\, nominato Rising Star dalle gra
+ ndi sale europee\, suona il trio "Dumky" di Dvořák e il Trio op. 50 di 
+ Čajkovskij. Stagione della Filarmonica Romana. https://www.trioconcept.it
+ /show/accademia-filarmonica-romana/
+URL:https://www.trioconcept.it/show/accademia-filarmonica-romana/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-oratorio-di-natale-di-bach-con-enrico-onofri@acculturiamoci.
+ it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261211T200000
+DTEND;TZID=Europe/Rome:20261211T220000
+SUMMARY:Oratorio di Natale di Bach con Enrico Onofri
+LOCATION:Auditorium Parco della Musica · Sala Santa Cecilia
+DESCRIPTION:Orchestra e Coro dell'Accademia di Santa Cecilia diretti da Enr
+ ico Onofri nell'Oratorio di Natale di Bach. https://santacecilia.it/stagio
+ ne/
+URL:https://santacecilia.it/stagione/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-11-from-vivaldi-to-traditionals-king-s-school-a-san@acculturiam
  oci.it
-DTSTAMP:20261125T095404Z
+DTSTAMP:20261126T080456Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:From Vivaldi to Traditionals: King's School a San Paolo entro le Mu
@@ -186,9 +275,23 @@ URL:https://www.romatoday.it/eventi/tipo/concerti/
 CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-12-oratorio-di-natale-di-bach-con-enrico-onofri@acculturiamoci.
+ it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261212T180000
+DTEND;TZID=Europe/Rome:20261212T200000
+SUMMARY:Oratorio di Natale di Bach con Enrico Onofri
+LOCATION:Auditorium Parco della Musica · Sala Santa Cecilia
+DESCRIPTION:Ultima replica dell'Oratorio di Natale di Bach con Orchestra e 
+ Coro di Santa Cecilia diretti da Enrico Onofri. https://santacecilia.it/st
+ agione/
+URL:https://santacecilia.it/stagione/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-13-42-concerto-di-natale-in-cattedrale-con-marco-fr@acculturiam
  oci.it
-DTSTAMP:20261125T095404Z
+DTSTAMP:20261126T080456Z
 DTSTART;TZID=Europe/Rome:20261213T203000
 DTEND;TZID=Europe/Rome:20261213T223000
 SUMMARY:42° Concerto di Natale in Cattedrale con Marco Frisina
@@ -201,9 +304,38 @@ URL:https://www.concertodinataleincattedrale.it/
 CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-17-verdi-wagner-e-musorgskij-nella-sacrestia-del-bo@acculturiam
+ oci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261217T174500
+DTEND;TZID=Europe/Rome:20261217T194500
+SUMMARY:Verdi\, Wagner e Musorgskij nella Sacrestia del Borromini
+LOCATION:Sant'Agnese in Agone\, Sacrestia del Borromini (piazza Navona)
+DESCRIPTION:Recital per pianoforte del Capriccio Italiano Festival\, un'ora
+  di musica romantica nel gioiello barocco di piazza Navona. https://www.ev
+ entbrite.it/e/piano-concert-in-borrominis-sacristy-piazza-navona-rome-tick
+ ets-2004441812419
+URL:https://www.eventbrite.it/e/piano-concert-in-borrominis-sacristy-piazza
+ -navona-rome-tickets-2004441812419
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-juraj-valcuha-ed-ettore-pagano-con-l-orchestra-d@acculturiam
+ oci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261217T193000
+DTEND;TZID=Europe/Rome:20261217T213000
+SUMMARY:Juraj Valčuha ed Ettore Pagano con l'Orchestra di Santa Cecilia
+LOCATION:Auditorium Parco della Musica · Sala Santa Cecilia
+DESCRIPTION:Concerto sinfonico diretto da Juraj Valčuha con il giovane vio
+ loncellista Ettore Pagano. https://santacecilia.it/stagione/
+URL:https://santacecilia.it/stagione/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-17-concerto-di-natale-mozart-mendelssohn-e-handel-a@acculturiam
  oci.it
-DTSTAMP:20261125T095404Z
+DTSTAMP:20261126T080456Z
 DTSTART;TZID=Europe/Rome:20261217T203000
 DTEND;TZID=Europe/Rome:20261217T223000
 SUMMARY:Concerto di Natale: Mozart\, Mendelssohn e Händel a San Paolo entr
@@ -213,6 +345,47 @@ DESCRIPTION:Il soprano Anastasiia Demchenko e il tenore Francesco Fortes tr
  a brani natalizi e repertorio classico. Biglietti da 25 €. https://www.t
  urismoroma.it/it/eventi/concerto-di-natale-roma
 URL:https://www.turismoroma.it/it/eventi/concerto-di-natale-roma
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-juraj-valcuha-ed-ettore-pagano-con-l-orchestra-d@acculturiam
+ oci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261218T200000
+DTEND;TZID=Europe/Rome:20261218T220000
+SUMMARY:Juraj Valčuha ed Ettore Pagano con l'Orchestra di Santa Cecilia
+LOCATION:Auditorium Parco della Musica · Sala Santa Cecilia
+DESCRIPTION:Replica del concerto diretto da Juraj Valčuha con il violoncel
+ lista Ettore Pagano. https://santacecilia.it/stagione/
+URL:https://santacecilia.it/stagione/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-juraj-valcuha-ed-ettore-pagano-con-l-orchestra-d@acculturiam
+ oci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261219T180000
+DTEND;TZID=Europe/Rome:20261219T200000
+SUMMARY:Juraj Valčuha ed Ettore Pagano con l'Orchestra di Santa Cecilia
+LOCATION:Auditorium Parco della Musica · Sala Santa Cecilia
+DESCRIPTION:Ultima replica del concerto diretto da Juraj Valčuha con il vi
+ oloncellista Ettore Pagano. https://santacecilia.it/stagione/
+URL:https://santacecilia.it/stagione/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-20-i-pastori-di-betlemme-di-kapsberger@acculturiamoci.it
+DTSTAMP:20261126T080456Z
+DTSTART;TZID=Europe/Rome:20261220T173000
+DTEND;TZID=Europe/Rome:20261220T193000
+SUMMARY:I Pastori di Betlemme di Kapsberger
+LOCATION:Accademia Filarmonica Romana
+DESCRIPTION:Un "dialogo in musica" natalizio del liutista Kapsberger\, prot
+ agonista del primo Barocco romano. Sede e biglietti sul sito della Filarmo
+ nica. https://www.controluce.it/la-stagione-2026-27-dellaccademia-filarmon
+ ica-romana/
+URL:https://www.controluce.it/la-stagione-2026-27-dellaccademia-filarmonica
+ -romana/
 CATEGORIES:Classica e chiese
 END:VEVENT
 END:VCALENDAR

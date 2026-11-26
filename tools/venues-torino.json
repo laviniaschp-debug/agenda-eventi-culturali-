@@ -1,0 +1,44 @@
+[
+ {
+  "match": "Circolo dei lettori",
+  "lat": 45.0668,
+  "lng": 7.6881,
+  "zona": "Centro"
+ },
+ {
+  "match": "Scienze Naturali",
+  "lat": 45.061,
+  "lng": 7.6866,
+  "zona": "Centro"
+ },
+ {
+  "match": "Polo del '900",
+  "lat": 45.075,
+  "lng": 7.6781,
+  "zona": "Quadrilatero · Porta Palazzo"
+ },
+ {
+  "match": "Auditorium Rai",
+  "lat": 45.0712,
+  "lng": 7.6948,
+  "zona": "Centro"
+ },
+ {
+  "match": "Conservatorio Giuseppe Verdi",
+  "lat": 45.063,
+  "lng": 7.6812,
+  "zona": "Centro"
+ },
+ {
+  "match": "Cinema Massimo",
+  "lat": 45.0694,
+  "lng": 7.6951,
+  "zona": "Vanchiglia · Borgo Po"
+ },
+ {
+  "match": "Sandretto",
+  "lat": 45.0646,
+  "lng": 7.645,
+  "zona": "Crocetta · San Paolo"
+ }
+]

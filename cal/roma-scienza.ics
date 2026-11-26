@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-25-saperi-in-fermento-aperitivo-di-biodiversita@acculturiamoci.
  it
-DTSTAMP:20261125T095404Z
+DTSTAMP:20261126T080456Z
 DTSTART;TZID=Europe/Rome:20261125T183000
 DTEND;TZID=Europe/Rome:20261125T203000
 SUMMARY:Saperi in fermento: aperitivo di biodiversità
@@ -42,7 +42,7 @@ CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-stefano-mancuso-la-citta-vivente@acculturiamoci.it
-DTSTAMP:20261125T095404Z
+DTSTAMP:20261126T080456Z
 DTSTART;TZID=Europe/Rome:20261126T173000
 DTEND;TZID=Europe/Rome:20261126T193000
 SUMMARY:Stefano Mancuso: La città vivente
@@ -56,7 +56,7 @@ CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-umberto-guidoni-ascensore-per-marte@acculturiamoci.it
-DTSTAMP:20261125T095404Z
+DTSTAMP:20261126T080456Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Umberto Guidoni: Ascensore per Marte
@@ -71,7 +71,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-lorenzo-pinna-cento-anni-in-compagnia-dell-atomo@acculturiam
  oci.it
-DTSTAMP:20261125T095404Z
+DTSTAMP:20261126T080456Z
 DTSTART;TZID=Europe/Rome:20261128T183000
 DTEND;TZID=Europe/Rome:20261128T203000
 SUMMARY:Lorenzo Pinna: Cento anni in compagnia dell'atomo
@@ -84,9 +84,23 @@ URL:https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-
 CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-01-festival-beautiful-minds-l-innovazione-che-fa-be@acculturiam
+ oci.it
+DTSTAMP:20261126T080456Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Festival Beautiful Minds: l'innovazione che fa bene a tutti
+LOCATION:MAXXI (via Guido Reni 4a)
+DESCRIPTION:Tre giorni con premi Nobel\, scienziati e innovatori sull'innov
+ azione che migliora la vita delle persone e del pianeta. Programma e orari
+  sul sito del MAXXI. https://www.maxxi.art/
+URL:https://www.maxxi.art/
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-02-raffaella-rumiati-invecchiare-bene-e-la-riserva-@acculturiam
  oci.it
-DTSTAMP:20261125T095404Z
+DTSTAMP:20261126T080456Z
 DTSTART;TZID=Europe/Rome:20261202T170000
 DTEND;TZID=Europe/Rome:20261202T190000
 SUMMARY:Raffaella Rumiati: invecchiare bene e la riserva cognitiva
@@ -95,6 +109,32 @@ LOCATION:Policlinico Umberto I\, Aula A di Patologia Generale (viale Regina
 DESCRIPTION:Conferenza dell'Accademia Medica di Roma su come il cervello si
   protegge con gli anni. https://www.accademiamedicadiroma.it/conferenze/
 URL:https://www.accademiamedicadiroma.it/conferenze/
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-festival-beautiful-minds-l-innovazione-che-fa-be@acculturiam
+ oci.it
+DTSTAMP:20261126T080456Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Festival Beautiful Minds: l'innovazione che fa bene a tutti
+LOCATION:MAXXI (via Guido Reni 4a)
+DESCRIPTION:Seconda giornata del festival con premi Nobel\, scienziati e in
+ novatori. Programma e orari sul sito del MAXXI. https://www.maxxi.art/
+URL:https://www.maxxi.art/
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-festival-beautiful-minds-l-innovazione-che-fa-be@acculturiam
+ oci.it
+DTSTAMP:20261126T080456Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Festival Beautiful Minds: l'innovazione che fa bene a tutti
+LOCATION:MAXXI (via Guido Reni 4a)
+DESCRIPTION:Ultima giornata del festival con premi Nobel\, scienziati e inn
+ ovatori. Programma e orari sul sito del MAXXI. https://www.maxxi.art/
+URL:https://www.maxxi.art/
 CATEGORIES:Scienza
 END:VEVENT
 END:VCALENDAR

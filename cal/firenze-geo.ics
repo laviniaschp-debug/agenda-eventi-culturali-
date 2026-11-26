@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-27-limes-la-tempesta-americana-e-la-fine-dei-tabu@acculturiamoc
  i.it
-DTSTAMP:20261125T095404Z
+DTSTAMP:20261126T080456Z
 DTSTART;TZID=Europe/Rome:20261127T180000
 DTEND;TZID=Europe/Rome:20261127T200000
 SUMMARY:Limes: la tempesta americana e la fine dei tabù
@@ -43,7 +43,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-limes-il-mondo-ingolfato@acculturiamoci.it
-DTSTAMP:20261125T095404Z
+DTSTAMP:20261126T080456Z
 DTSTART;TZID=Europe/Rome:20261128T103000
 DTEND;TZID=Europe/Rome:20261128T123000
 SUMMARY:Limes: il mondo ingolfato
@@ -59,7 +59,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-limes-ucraina-anno-zero@acculturiamoci.it
-DTSTAMP:20261125T095404Z
+DTSTAMP:20261126T080456Z
 DTSTART;TZID=Europe/Rome:20261128T163000
 DTEND;TZID=Europe/Rome:20261128T183000
 SUMMARY:Limes: Ucraina anno zero
@@ -76,7 +76,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-limes-l-italia-nell-arco-delle-crisi-con-alessan@acculturiam
  oci.it
-DTSTAMP:20261125T095404Z
+DTSTAMP:20261126T080456Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Limes: l'Italia nell'arco delle crisi\, con Alessandro Aresu
