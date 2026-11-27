@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-l-universo-ideologico-di-trump@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261124T163000
 DTEND;TZID=Europe/Rome:20261124T183000
 SUMMARY:L'universo ideologico di Trump
@@ -39,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-la-democrazia-partecipativa-tra-crisi-della-rapp@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261124T163000
 DTEND;TZID=Europe/Rome:20261124T183000
 SUMMARY:La democrazia partecipativa tra crisi della rappresentanza e stato 
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-oltre-la-rappresaglia-la-repressione-nazista-in-@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261125T123000
 DTEND;TZID=Europe/Rome:20261125T143000
 SUMMARY:Oltre la rappresaglia: la repressione nazista in Boemia e Moravia
@@ -65,7 +65,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-era-tanto-un-bravo-ragazzo@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261125T183000
 DTEND;TZID=Europe/Rome:20261125T203000
 SUMMARY:Era tanto un bravo ragazzo
@@ -79,7 +79,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-le-sparizioni-forzate-in-america-latina@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261126T090000
 DTEND;TZID=Europe/Rome:20261126T110000
 SUMMARY:Le sparizioni forzate in America Latina
@@ -92,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-la-nuova-legge-elettorale-riflessioni-sulla-rifo@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261126T180000
 DTEND;TZID=Europe/Rome:20261126T200000
 SUMMARY:La nuova legge elettorale: riflessioni sulla riforma
@@ -108,7 +108,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-milena-gabanelli-e-simona-ravizza-la-resa-dei-co@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261126T183000
 DTEND;TZID=Europe/Rome:20261126T203000
 SUMMARY:Milena Gabanelli e Simona Ravizza\, La resa dei conti
@@ -123,7 +123,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-monica-maggioni-il-partito-di-dio@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261126T183000
 DTEND;TZID=Europe/Rome:20261126T203000
 SUMMARY:Monica Maggioni: Il partito di Dio
@@ -135,9 +135,29 @@ URL:https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442
 CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-scritti-dalla-citta-mondo-figli-delle-migrazioni@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T113000
+DTEND;TZID=Europe/Rome:20261127T133000
+SUMMARY:Scritti dalla Città Mondo - Figli delle migrazioni. Nuove cittadin
+ anze\, nuove sfide
+LOCATION:MUDEC - Museo delle Culture - Spazio delle Culture “Khaled al-As
+ aad” (via Tortona 56)
+DESCRIPTION:Con Benedetto Coccia e Silvia Dumitrache. A cura dell'Associazi
+ one Donne Romene in Italia. BookCity · Diritti e Democrazia\, Identità e
+  Culture. BookCity: ingresso libero fino a esaurimento posti\, per alcuni 
+ incontri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.
+ it/eventi/2026/scritti-dalla-citta-mondo-figli-delle-migrazioni-nuove-citt
+ adinanze-nuove-sfide
+URL:https://www.bookcitymilano.it/eventi/2026/scritti-dalla-citta-mondo-fig
+ li-delle-migrazioni-nuove-cittadinanze-nuove-sfide
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-campi-celle-ceneri-la-scrittura-palestinese@acculturiamoci.i
  t
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261127T163000
 DTEND;TZID=Europe/Rome:20261127T183000
 SUMMARY:Campi\, celle\, ceneri: la scrittura palestinese
@@ -148,8 +168,89 @@ URL:https://work.unimi.it/eventir/registrazione?code=17543
 CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-entrare-nel-cuore-della-realta-pensando-politica@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T170000
+DTEND;TZID=Europe/Rome:20261127T190000
+SUMMARY:Entrare nel cuore della realtà pensando politicamente: l’esempio
+  di Giuseppe Lazzati
+LOCATION:Avvocatura Comunale di Milano (Via della Guastalla 6\, 20122)
+DESCRIPTION:Con Antonello Mandarano\, Franco Brambilla\, Enzo Balboni\, Vin
+ cenzo Satta\, Anna Scavuzzo e Luciano Caimi. BookCity · Politica\, Legali
+ tà e Giustizia\, Storia. BookCity: ingresso libero fino a esaurimento pos
+ ti\, per alcuni incontri serve prenotare su bookcitymilano.it. https://www
+ .bookcitymilano.it/eventi/2026/esempio-giuseppe-lazzati
+URL:https://www.bookcitymilano.it/eventi/2026/esempio-giuseppe-lazzati
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-l-antimafia-dei-fatti-vita-di-un-siciliano-atipi@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T170000
+DTEND;TZID=Europe/Rome:20261127T190000
+SUMMARY:L'antimafia dei fatti. Vita di un siciliano atipico
+LOCATION:Libreria Rizzoli Milano (Galleria Vittorio Emanuele II\, 11/12)
+DESCRIPTION:Con Sebastiano Buglisi\, Antonio Armano e Ugo Colonna. BookCity
+  · Politica\, Legalità e Giustizia. BookCity: ingresso libero fino a esa
+ urimento posti\, per alcuni incontri serve prenotare su bookcitymilano.it.
+  https://www.bookcitymilano.it/eventi/2026/lantimafia-dei-fatti-vita-di-un
+ -siciliano-atipico
+URL:https://www.bookcitymilano.it/eventi/2026/lantimafia-dei-fatti-vita-di-
+ un-siciliano-atipico
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-dalla-resistenza-alla-repubblica@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T170000
+DTEND;TZID=Europe/Rome:20261127T190000
+SUMMARY:Dalla Resistenza alla Repubblica
+LOCATION:Casa della Memoria (Via Confalonieri\, 14)
+DESCRIPTION:Con Luca Baldissara\, Nadia Urbinati\, Paolo Corsini e Luca Mis
+ culin. BookCity · Diritti e Democrazia\, Storia. BookCity: ingresso liber
+ o fino a esaurimento posti\, per alcuni incontri serve prenotare su bookci
+ tymilano.it. https://www.bookcitymilano.it/eventi/2026/nata-democratica
+URL:https://www.bookcitymilano.it/eventi/2026/nata-democratica
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-leggere-i-corpi-capire-il-male@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T173000
+DTEND;TZID=Europe/Rome:20261127T193000
+SUMMARY:Leggere i corpi\, capire il male
+LOCATION:MUSA (Museo Universitario delle Scienze Antropologiche) (Via Giuse
+ ppe Ponzio\, 7)
+DESCRIPTION:Con Matteo Curtoni\, Elisabetta Montanari\, Maura Parolini e Cr
+ istina Cattaneo. BookCity · Politica\, Legalità e Giustizia. BookCity: i
+ ngresso libero fino a esaurimento posti\, per alcuni incontri serve prenot
+ are su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/legger
+ e-i-corpi-capire-il-male
+URL:https://www.bookcitymilano.it/eventi/2026/leggere-i-corpi-capire-il-mal
+ e
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-il-caso-spampinato-una-nuova-verita@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T173000
+DTEND;TZID=Europe/Rome:20261127T193000
+SUMMARY:Il caso Spampinato: una nuova verità?
+LOCATION:Mupal - Museo Permantente Antimafia e Legalità (via Achille Fonta
+ nelli\, 9)
+DESCRIPTION:Con Carmelo Schininà e Sarah Scorpati. BookCity · Politica\, 
+ Legalità e Giustizia. BookCity: ingresso libero fino a esaurimento posti\
+ , per alcuni incontri serve prenotare su bookcitymilano.it. https://www.bo
+ okcitymilano.it/eventi/2026/il-caso-spampinato-una-nuova-verita
+URL:https://www.bookcitymilano.it/eventi/2026/il-caso-spampinato-una-nuova-
+ verita
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-una-legge-elettorale-inaccettabile@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261127T180000
 DTEND;TZID=Europe/Rome:20261127T200000
 SUMMARY:Una legge elettorale inaccettabile
@@ -161,8 +262,75 @@ URL:https://www.casadellacultura.it/casa-della-cultura-calendario.php
 CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-gobetti-ci-parla-ancora@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T180000
+DTEND;TZID=Europe/Rome:20261127T200000
+SUMMARY:Gobetti ci parla ancora
+LOCATION:Castello Sforzesco - Biblioteca d'Arte (piazza Castello 1)
+DESCRIPTION:Con Antonio Carioti e Nicola Del Corno. BookCity · Giornalismo
+ \, Informazione e Attualità\, Politica\, Legalità e Giustizia\, Storia. 
+ BookCity: ingresso libero fino a esaurimento posti\, per alcuni incontri s
+ erve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/
+ 2026/gobetti-ci-parla-ancora
+URL:https://www.bookcitymilano.it/eventi/2026/gobetti-ci-parla-ancora
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-la-guerra-degli-uomini-storie-vere-di-coraggio-e@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T180000
+DTEND;TZID=Europe/Rome:20261127T200000
+SUMMARY:La guerra degli uomini. Storie vere di coraggio e di speranza
+LOCATION:PIME - Pontificio Istituto Missioni Estere - Museo Popoli e Cultur
+ e (Via Monte Rosa\, 81)
+DESCRIPTION:Con Luigi Bona\, Massimo Casaro e Loris Cantarelli. BookCity ·
+  Fumetto e Illustrazione\, Guerra e Pace. BookCity: ingresso libero fino a
+  esaurimento posti\, per alcuni incontri serve prenotare su bookcitymilano
+ .it. https://www.bookcitymilano.it/eventi/2026/la-guerra-degli-uomini-stor
+ ie-vere-di-coraggio-e-di-speranza
+URL:https://www.bookcitymilano.it/eventi/2026/la-guerra-degli-uomini-storie
+ -vere-di-coraggio-e-di-speranza
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-il-futuro-dei-brand-dallattenzione-comprata-alla@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T180000
+DTEND;TZID=Europe/Rome:20261127T200000
+SUMMARY:Il futuro dei brand: dall’attenzione comprata alla rilevanza
+LOCATION:Saint Louis College of Music - Sala Ennio Morricone (Viale Luigi B
+ odio\, 37)
+DESCRIPTION:Con Stefania Boleso e Greta Antonini. BookCity · Economia e La
+ voro. BookCity: ingresso libero fino a esaurimento posti\, per alcuni inco
+ ntri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/e
+ venti/2026/il-futuro-dei-brand-dallattenzione-comprata-alla-rilevanza
+URL:https://www.bookcitymilano.it/eventi/2026/il-futuro-dei-brand-dallatten
+ zione-comprata-alla-rilevanza
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-la-strage-di-piazza-fontana@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T180000
+DTEND;TZID=Europe/Rome:20261127T200000
+SUMMARY:La strage di piazza Fontana
+LOCATION:Casa della Memoria (Via Confalonieri\, 14)
+DESCRIPTION:Con Emanuele Bernardi\, Paolo Corsini e Andrea Ricciardi. BookC
+ ity · Economia e Lavoro\, Milano racconta Milano\, Politica\, Legalità e
+  Giustizia. BookCity: ingresso libero fino a esaurimento posti\, per alcun
+ i incontri serve prenotare su bookcitymilano.it. https://www.bookcitymilan
+ o.it/eventi/2026/orrenda-strage-a-milano-piazza-fontana-la-questione-agrar
+ ia-la-finanza-globale
+URL:https://www.bookcitymilano.it/eventi/2026/orrenda-strage-a-milano-piazz
+ a-fontana-la-questione-agraria-la-finanza-globale
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-federico-fubini-imperi-allo-specchio@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261127T183000
 DTEND;TZID=Europe/Rome:20261127T203000
 SUMMARY:Federico Fubini: Imperi allo specchio
@@ -174,9 +342,132 @@ URL:https://www.fondazionecorriere.corriere.it/iniziative/
 CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-che-succede-al-regno-unito@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T183000
+DTEND;TZID=Europe/Rome:20261127T203000
+SUMMARY:Che succede al Regno Unito?
+LOCATION:Circolo Filologico Milanese - Sala Liberty (via Clerici 10)
+DESCRIPTION:Con Matteo Castellucci e Francesco Costa. BookCity · Geopoliti
+ ca\, Giornalismo\, Informazione e Attualità. BookCity: ingresso libero fi
+ no a esaurimento posti\, per alcuni incontri serve prenotare su bookcitymi
+ lano.it. https://www.bookcitymilano.it/eventi/2026/Che-succede-al-regno-un
+ ito
+URL:https://www.bookcitymilano.it/eventi/2026/Che-succede-al-regno-unito
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-costruire-insieme-futuri-desiderabili@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T183000
+DTEND;TZID=Europe/Rome:20261127T203000
+SUMMARY:Costruire insieme futuri desiderabili
+LOCATION:Centro di Nonviolenza Attiva (Via Guido Mazzali\, 5)
+DESCRIPTION:Con Giovanna Silvestro\, Ettore Macchieraldo e Luca Sciacchitan
+ o. BookCity · Giornalismo\, Informazione e Attualità\, Scuola ed Educazi
+ one. BookCity: ingresso libero fino a esaurimento posti\, per alcuni incon
+ tri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/ev
+ enti/2026/costruire-insieme-futuri-desiderabili
+URL:https://www.bookcitymilano.it/eventi/2026/costruire-insieme-futuri-desi
+ derabili
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-il-paese-che-non-c-e@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T183000
+DTEND;TZID=Europe/Rome:20261127T203000
+SUMMARY:Il paese che non c'è
+LOCATION:Circolo Arci Corvetto (Via Oglio\, 21)
+DESCRIPTION:Con Luigi Lusenti\, Laura Miani e Silvio Ziliotto. BookCity · 
+ Geopolitica\, Storia. BookCity: ingresso libero fino a esaurimento posti\,
+  per alcuni incontri serve prenotare su bookcitymilano.it. https://www.boo
+ kcitymilano.it/eventi/2026/il-paese-che-non-ce-1
+URL:https://www.bookcitymilano.it/eventi/2026/il-paese-che-non-ce-1
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-simone-de-beauvoir-e-il-manifesto-per-la-legaliz@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T183000
+DTEND;TZID=Europe/Rome:20261127T203000
+SUMMARY:Simone de Beauvoir e il manifesto per la legalizzazione dell'aborto
+LOCATION:Farina Editore (Via Giulio Carcano\, 20)
+DESCRIPTION:Con Mauro Trentadue e Lorenza Mantovani. BookCity · Diritti e 
+ Democrazia\, Donne. BookCity: ingresso libero fino a esaurimento posti\, p
+ er alcuni incontri serve prenotare su bookcitymilano.it. https://www.bookc
+ itymilano.it/eventi/2026/simone-de-beauvoir-e-il-manifesto-per-la-legalizz
+ azione-dellaborto
+URL:https://www.bookcitymilano.it/eventi/2026/simone-de-beauvoir-e-il-manif
+ esto-per-la-legalizzazione-dellaborto
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-il-matto-di-piazza-della-liberta@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T183000
+DTEND;TZID=Europe/Rome:20261127T203000
+SUMMARY:Il matto di piazza della libertà
+LOCATION:PIME - Pontificio Istituto Missioni Estere - Sala Vismara (Via Mos
+ è Bianchi\, 94)
+DESCRIPTION:Con Hassan Blasim. BookCity · Geopolitica\, Guerra e Pace. Boo
+ kCity: ingresso libero fino a esaurimento posti\, per alcuni incontri serv
+ e prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/202
+ 6/il-matto-di-piazza-della-liberta
+URL:https://www.bookcitymilano.it/eventi/2026/il-matto-di-piazza-della-libe
+ rta
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-idee-riformiste-per-litalia-e-leuropa@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T183000
+DTEND;TZID=Europe/Rome:20261127T203000
+SUMMARY:Idee riformiste per l’Italia e l’Europa
+LOCATION:Libreria Feltrinelli Piazza Piemonte (Piazza Piemonte 2)
+DESCRIPTION:Con Giorgio Gori\, Beppe Sala\, Lia Quartapelle e Marco Casteln
+ uovo. BookCity · Politica\, Legalità e Giustizia. BookCity: ingresso lib
+ ero fino a esaurimento posti\, per alcuni incontri serve prenotare su book
+ citymilano.it. https://www.bookcitymilano.it/eventi/2026/idee-riformiste-p
+ er-litalia-e-leuropa
+URL:https://www.bookcitymilano.it/eventi/2026/idee-riformiste-per-litalia-e
+ -leuropa
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-le-memorie-di-ester-verrua-parri@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T190000
+DTEND;TZID=Europe/Rome:20261127T210000
+SUMMARY:Le memorie di Ester Verrua Parri
+LOCATION:Casa della Memoria (Via Confalonieri\, 14)
+DESCRIPTION:Con Francesca Parri\, Andrea Ricciardi e Fiorella Imprenti. Boo
+ kCity · Diritti e Democrazia\, Donne\, La Seconda guerra mondiale. BookCi
+ ty: ingresso libero fino a esaurimento posti\, per alcuni incontri serve p
+ renotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/i
+ l-ricordo-e-lunica-difesa
+URL:https://www.bookcitymilano.it/eventi/2026/il-ricordo-e-lunica-difesa
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-liberta-liberta@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T210000
+DTEND;TZID=Europe/Rome:20261127T230000
+SUMMARY:Libertà\, libertà!
+LOCATION:Radio Popolare - Auditorium Demetrio Stratos (Via Ollearo\, 5)
+DESCRIPTION:Con Greta Privitera e Michele Migone. BookCity · Giornalismo\,
+  Informazione e Attualità\, Guerra e Pace. BookCity: ingresso libero fino
+  a esaurimento posti\, per alcuni incontri serve prenotare su bookcitymila
+ no.it. https://www.bookcitymilano.it/eventi/2026/liberta-liberta
+URL:https://www.bookcitymilano.it/eventi/2026/liberta-liberta
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-scrivere-per-resistere-premio-pen-inge-feltrinel@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Scrivere per resistere: Premio PEN Inge Feltrinelli
@@ -190,7 +481,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-80-anni-dopo-l-astensionismo-elettorale-e-come-c@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261128T093000
 DTEND;TZID=Europe/Rome:20261128T113000
 SUMMARY:80 anni dopo: l'astensionismo elettorale e come contrastarlo
@@ -202,9 +493,520 @@ URL:https://www.casadellacultura.it
 CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-dall-opaco-ti-scrivo-storie-e-r-esistenze-da-una@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T103000
+DTEND;TZID=Europe/Rome:20261128T123000
+SUMMARY:Dall'opaco ti scrivo. Storie e (r)esistenze da una Cuba assediata
+LOCATION:Libreria Linea di confine (Via A.M. Ceriani\, 20)
+DESCRIPTION:Con Irina Bajini\, Mirko Ronzoni\, Davide Barilli\, Angela Lepo
+ re e Michela Lamagra. BookCity · Geopolitica\, Identità e Culture. BookC
+ ity: ingresso libero fino a esaurimento posti\, per alcuni incontri serve 
+ prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/
+ dallopaco-ti-scrivo-storie-e-resistenze-da-una-cuba-assediata
+URL:https://www.bookcitymilano.it/eventi/2026/dallopaco-ti-scrivo-storie-e-
+ resistenze-da-una-cuba-assediata
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-il-mestiere-di-reporter-di-guerra-negli-anni-30-@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T103000
+DTEND;TZID=Europe/Rome:20261128T123000
+SUMMARY:Il mestiere di reporter di guerra negli anni 30: Gerda Taro
+LOCATION:BibliotEqua - Biblioteca di Condominio (Via Pinelli)
+DESCRIPTION:Con Sara Vivan\, Daniela Belliti\, Gisella Torretta e Francesca
+  Bargellini. Modera Giovanna Di Sciacca. BookCity · Arte\, Fotografia\, M
+ oda\, BCM Sociale\, Geopolitica. BookCity: ingresso libero fino a esaurime
+ nto posti\, per alcuni incontri serve prenotare su bookcitymilano.it. http
+ s://www.bookcitymilano.it/eventi/2026/il-mestiere-del-reporter-di-guerra-n
+ egli-anni-30
+URL:https://www.bookcitymilano.it/eventi/2026/il-mestiere-del-reporter-di-g
+ uerra-negli-anni-30
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-una-storia-di-rivoluzione-ed-emancipazione-il-pr@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T110000
+DTEND;TZID=Europe/Rome:20261128T130000
+SUMMARY:Una storia di rivoluzione ed emancipazione: il primo sciopero delle
+  lavoratrici in Sicilia
+LOCATION:Castello Sforzesco - Biblioteca d'Arte (piazza Castello 1)
+DESCRIPTION:Con Licia Tumminello e Stefania Auci. BookCity · Diritti e Dem
+ ocrazia\, Donne\, Giornata internazionale per l'eliminazione della violenz
+ a contro le donne. BookCity: ingresso libero fino a esaurimento posti\, pe
+ r alcuni incontri serve prenotare su bookcitymilano.it. https://www.bookci
+ tymilano.it/eventi/2026/la-lunga-estate-dei-gelsomini
+URL:https://www.bookcitymilano.it/eventi/2026/la-lunga-estate-dei-gelsomini
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-i-sud-del-mondo-tra-nuove-potenze-vecchie-dipend@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T110000
+DTEND;TZID=Europe/Rome:20261128T130000
+SUMMARY:I Sud del mondo. Tra nuove potenze\, vecchie dipendenze e futuri po
+ ssibili
+LOCATION:Fondazione Giangiacomo Feltrinelli - Sala Lettura (Viale Pasubio 5
+ )
+DESCRIPTION:Con Paolo Perulli e Alessia Amighini. BookCity · Economia e La
+ voro\, Geopolitica. BookCity: ingresso libero fino a esaurimento posti\, p
+ er alcuni incontri serve prenotare su bookcitymilano.it. https://www.bookc
+ itymilano.it/eventi/2026/i-sud-del-mondo-tra-nuove-potenze-vecchie-dipende
+ nze-e-futuri-possibili
+URL:https://www.bookcitymilano.it/eventi/2026/i-sud-del-mondo-tra-nuove-pot
+ enze-vecchie-dipendenze-e-futuri-possibili
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-dicembre-1926-la-fuga-di-turati-e-pertini-che-sf@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T110000
+DTEND;TZID=Europe/Rome:20261128T130000
+SUMMARY:Dicembre 1926: la fuga di Turati e Pertini che sfidò il fascismo
+LOCATION:Circolo de Amicis (Via Edmondo De Amicis\, 17)
+DESCRIPTION:Con Aulo Chiesa\, Giuseppe Milazzo\, Jacopo Perazzoli e Umberto
+  Voltolina. BookCity · La Seconda guerra mondiale\, Politica\, Legalità 
+ e Giustizia. BookCity: ingresso libero fino a esaurimento posti\, per alcu
+ ni incontri serve prenotare su bookcitymilano.it. https://www.bookcitymila
+ no.it/eventi/2026/dicembre-1926-la-fuga-di-turati-e-pertini-che-sfido-il-f
+ ascismo
+URL:https://www.bookcitymilano.it/eventi/2026/dicembre-1926-la-fuga-di-tura
+ ti-e-pertini-che-sfido-il-fascismo
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-cosa-fare-dai-50-anni-in-su-per-avere-una-second@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T110000
+DTEND;TZID=Europe/Rome:20261128T130000
+SUMMARY:Cosa fare dai 50 anni in su per avere una seconda vita in buona sal
+ ute
+LOCATION:Libreria Egea (Viale Bligny\, 22)
+DESCRIPTION:Con Alberto Brambilla e Gianfranco Fabi. BookCity · Economia e
+  Lavoro. BookCity: ingresso libero fino a esaurimento posti\, per alcuni i
+ ncontri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.i
+ t/eventi/2026/cosa-fare-dai-50-anni-in-su-per-avere-una-seconda-vita-in-bu
+ ona-salute
+URL:https://www.bookcitymilano.it/eventi/2026/cosa-fare-dai-50-anni-in-su-p
+ er-avere-una-seconda-vita-in-buona-salute
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-l-indicibile-voci-da-gaza-e-responsabilita-globa@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T110000
+DTEND;TZID=Europe/Rome:20261128T130000
+SUMMARY:L'Indicibile. Voci da Gaza e responsabilità globali
+LOCATION:PIME - Pontificio Istituto Missioni Estere - Sala Cremonesi (Via M
+ onte Rosa\, 81)
+DESCRIPTION:Con Aysar Al-Saifi\, Martina Stefanoni e Riccardo Burgazzi. Boo
+ kCity · Autori Stranieri\, Geopolitica. BookCity: ingresso libero fino a 
+ esaurimento posti\, per alcuni incontri serve prenotare su bookcitymilano.
+ it. https://www.bookcitymilano.it/eventi/2026/indicibile-voci-gaza
+URL:https://www.bookcitymilano.it/eventi/2026/indicibile-voci-gaza
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-abbiamo-smesso-di-immaginare-il-futuro@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T113000
+DTEND;TZID=Europe/Rome:20261128T133000
+SUMMARY:Abbiamo smesso di immaginare il futuro?
+LOCATION:Libreria Claudiana (Via Francesco Sforza 12/A)
+DESCRIPTION:Con Chiara Agostini\, Ivana Pais e Roberto Poli. BookCity · Gi
+ ornalismo\, Informazione e Attualità. BookCity: ingresso libero fino a es
+ aurimento posti\, per alcuni incontri serve prenotare su bookcitymilano.it
+ . https://www.bookcitymilano.it/eventi/2026/abbiamo-smesso-di-immaginare-i
+ l-futuro
+URL:https://www.bookcitymilano.it/eventi/2026/abbiamo-smesso-di-immaginare-
+ il-futuro
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-lampi-la-rassegna-stampa-del-sabato@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T113000
+DTEND;TZID=Europe/Rome:20261128T133000
+SUMMARY:Lampi\, la rassegna stampa del sabato
+LOCATION:Libreria Feltrinelli Corso Genova (Corso Genova\, 20)
+DESCRIPTION:Con Angelo Miotto ed Elena Granata. In collaborazione con PUBBL
+ ICO. BookCity · Giornalismo\, Informazione e Attualità. BookCity: ingres
+ so libero fino a esaurimento posti\, per alcuni incontri serve prenotare s
+ u bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/lampi-rasse
+ gna-stampa-sabato
+URL:https://www.bookcitymilano.it/eventi/2026/lampi-rassegna-stampa-sabato
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-identita-digitali@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T113000
+DTEND;TZID=Europe/Rome:20261128T133000
+SUMMARY:Identità digitali
+LOCATION:Museo Nazionale Scienza e Tecnologia Leonardo da Vinci - Cenacolo 
+ (Via San Vittore\, 21)
+DESCRIPTION:Con Paolo Benanti e Mark Perna. BookCity · Diritti e Democrazi
+ a\, Geopolitica. BookCity: ingresso libero fino a esaurimento posti\, per 
+ alcuni incontri serve prenotare su bookcitymilano.it. https://www.bookcity
+ milano.it/eventi/2026/paolo-benanti-identita-digitali
+URL:https://www.bookcitymilano.it/eventi/2026/paolo-benanti-identita-digita
+ li
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-strumenti-per-capire-il-medio-oriente@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T123000
+DTEND;TZID=Europe/Rome:20261128T143000
+SUMMARY:Strumenti per capire il Medio Oriente
+LOCATION:Fondazione Giangiacomo Feltrinelli - Sala Lettura (Viale Pasubio 5
+ )
+DESCRIPTION:Con Laura Silvia Battaglia e Cinzia Bianco. BookCity · Geopoli
+ tica\, Identità e Culture. BookCity: ingresso libero fino a esaurimento p
+ osti\, per alcuni incontri serve prenotare su bookcitymilano.it. https://w
+ ww.bookcitymilano.it/eventi/2026/strumenti-capire-medio-oriente
+URL:https://www.bookcitymilano.it/eventi/2026/strumenti-capire-medio-orient
+ e
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-la-catastrofa@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T123000
+DTEND;TZID=Europe/Rome:20261128T143000
+SUMMARY:La catastròfa
+LOCATION:Piccolo Teatro Grassi - Chiostro Nina Vinchi (Via Rovello\, 2)
+DESCRIPTION:Con Paolo Di Stefano e Giuseppe Lupo. Letture di Leonardo De Co
+ lle. BookCity · Giornalismo\, Informazione e Attualità\, Narrativa. Book
+ City: ingresso libero fino a esaurimento posti\, per alcuni incontri serve
+  prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026
+ /la-catastrofa
+URL:https://www.bookcitymilano.it/eventi/2026/la-catastrofa
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-giornalismo-narrativo-i-fantasmi-di-chi-racconta@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T123000
+DTEND;TZID=Europe/Rome:20261128T143000
+SUMMARY:Giornalismo narrativo: i fantasmi di chi racconta la realtà
+LOCATION:Castello Sforzesco - Sala Viscontea (Piazza Castello 1)
+DESCRIPTION:Con Leila Guerriero ed Eva Giovannini. BookCity · Autori Stran
+ ieri\, Classici\, Giornalismo\, Informazione e Attualità. BookCity: ingre
+ sso libero fino a esaurimento posti\, per alcuni incontri serve prenotare 
+ su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/giornalism
+ o-narrativo-leila-guerriero
+URL:https://www.bookcitymilano.it/eventi/2026/giornalismo-narrativo-leila-g
+ uerriero
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-voci-dinchiostro-marianna-montale-tra-giovani-le@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T143000
+DTEND;TZID=Europe/Rome:20261128T163000
+SUMMARY:Voci d’Inchiostro. Marianna Montale tra giovani lettrici e scritt
+ rici del Novecento
+LOCATION:Archivio di Stato di Milano (ASMI) - Sala Conferenze (via Senato 1
+ 0)
+DESCRIPTION:Con Sabrina Fava e Giuseppe Lupo. BookCity · Diritti e Democra
+ zia\, Donne\, Storia. BookCity: ingresso libero fino a esaurimento posti\,
+  per alcuni incontri serve prenotare su bookcitymilano.it. https://www.boo
+ kcitymilano.it/eventi/2026/voci-dinchiostro-marianna-montale-tra-giovani-l
+ ettrici-e-scrittrici-del-novecento
+URL:https://www.bookcitymilano.it/eventi/2026/voci-dinchiostro-marianna-mon
+ tale-tra-giovani-lettrici-e-scrittrici-del-novecento
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-lafghanistan-e-i-grandi-imperi-moderni-attrazion@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T150000
+DTEND;TZID=Europe/Rome:20261128T170000
+SUMMARY:L’Afghanistan e i grandi imperi moderni: attrazione fatale
+LOCATION:Veneranda Biblioteca Ambrosiana - Sala delle Accademie (Piazza Pio
+  XI\, 2)
+DESCRIPTION:Con Domenico Quirico e Giuseppe Sarcina. BookCity · Geopolitic
+ a\, Politica\, Legalità e Giustizia. BookCity: ingresso libero fino a esa
+ urimento posti\, per alcuni incontri serve prenotare su bookcitymilano.it.
+  https://www.bookcitymilano.it/eventi/2026/afghanistan
+URL:https://www.bookcitymilano.it/eventi/2026/afghanistan
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-siria-identita-curda-e-memoria-la-scrittura-di-m@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T150000
+DTEND;TZID=Europe/Rome:20261128T170000
+SUMMARY:Siria\, identità curda e memoria: la scrittura di Maha Hassan
+LOCATION:Fondazione Giangiacomo Feltrinelli - Sala Lettura (Viale Pasubio 5
+ )
+DESCRIPTION:Con Maha Hassan e Annamaria Bianco. BookCity · Autori Stranier
+ i\, Geopolitica\, Identità e Culture. BookCity: ingresso libero fino a es
+ aurimento posti\, per alcuni incontri serve prenotare su bookcitymilano.it
+ . https://www.bookcitymilano.it/eventi/2026/siria-identita-curda-e-memoria
+ -la-scrittura-di-maha-hassan
+URL:https://www.bookcitymilano.it/eventi/2026/siria-identita-curda-e-memori
+ a-la-scrittura-di-maha-hassan
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-scenari-possibili-per-un-futuro-sostenibile@acculturiamoci.i
+ t
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T150000
+DTEND;TZID=Europe/Rome:20261128T170000
+SUMMARY:Scenari possibili per un futuro sostenibile
+LOCATION:Cascina nascosta (Viale Emilio Alemagna\, 14 - interno del Parco S
+ empione)
+DESCRIPTION:Con Elena Granata\, Vittorio Cogliati Dezza\, Paolo Bosca\, Lor
+ enzo De Vidovich e Giuseppe Palazzo. BookCity · Architettura\, Design\, U
+ rbanistica\, Giornalismo\, Informazione e Attualità. BookCity: ingresso l
+ ibero fino a esaurimento posti\, per alcuni incontri serve prenotare su bo
+ okcitymilano.it. https://www.bookcitymilano.it/eventi/2026/scenari-possibi
+ li-per-un-futuro-sostenibile
+URL:https://www.bookcitymilano.it/eventi/2026/scenari-possibili-per-un-futu
+ ro-sostenibile
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-silenzio-stampa-il-giornalismo-la-politica-e-la-@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T150000
+DTEND;TZID=Europe/Rome:20261128T170000
+SUMMARY:Silenzio Stampa: il giornalismo\, la politica e la fuga dalle doman
+ de
+LOCATION:Castello Sforzesco - Sala Viscontea (Piazza Castello 1)
+DESCRIPTION:Con Corrado Formigli e Selvaggia Lucarelli. BookCity · Giornal
+ ismo\, Informazione e Attualità\, Politica\, Legalità e Giustizia. BookC
+ ity: ingresso libero fino a esaurimento posti\, per alcuni incontri serve 
+ prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/
+ silenzio-stampa-2
+URL:https://www.bookcitymilano.it/eventi/2026/silenzio-stampa-2
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-valori-che-creano-valore@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T150000
+DTEND;TZID=Europe/Rome:20261128T170000
+SUMMARY:Valori che creano valore
+LOCATION:Libreria Egea (Viale Bligny\, 22)
+DESCRIPTION:Con Leopoldo Pirelli e Andrea Bignami. BookCity · Economia e L
+ avoro. BookCity: ingresso libero fino a esaurimento posti\, per alcuni inc
+ ontri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/
+ eventi/2026/valori-che-creano-valore
+URL:https://www.bookcitymilano.it/eventi/2026/valori-che-creano-valore
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-investire-adesso-e-sempre-il-momento-giusto-per-@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T150000
+DTEND;TZID=Europe/Rome:20261128T170000
+SUMMARY:Investire adesso. È sempre il momento giusto per occuparsi dei pro
+ pri soldi
+LOCATION:MUDEC - Museo delle Culture - Auditorium (via Tortona 56)
+DESCRIPTION:Con Mauro Meazza e Debora Rosciani. BookCity · Economia e Lavo
+ ro. BookCity: ingresso libero fino a esaurimento posti\, per alcuni incont
+ ri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eve
+ nti/2026/investire-adesso-e-sempre-il-momento-giusto-per-occuparsi-dei-pro
+ pri-soldi
+URL:https://www.bookcitymilano.it/eventi/2026/investire-adesso-e-sempre-il-
+ momento-giusto-per-occuparsi-dei-propri-soldi
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-il-giorno-che-non-ti-ho-ucciso@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T150000
+DTEND;TZID=Europe/Rome:20261128T170000
+SUMMARY:Il giorno che non ti ho ucciso
+LOCATION:PIME - Pontificio Istituto Missioni Estere - Sala Cremonesi (Via M
+ onte Rosa\, 81)
+DESCRIPTION:Con Sarah Mustafa. BookCity · Diritti e Democrazia\, Identità
+  e Culture. BookCity: ingresso libero fino a esaurimento posti\, per alcun
+ i incontri serve prenotare su bookcitymilano.it. https://www.bookcitymilan
+ o.it/eventi/2026/il-giorno-che-non-ti-ho-ucciso
+URL:https://www.bookcitymilano.it/eventi/2026/il-giorno-che-non-ti-ho-uccis
+ o
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-cosa-pensano-le-ragazze-di-oggi-milano-1966-la-z@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T160000
+DTEND;TZID=Europe/Rome:20261128T180000
+SUMMARY:Cosa pensano le ragazze di oggi? Milano\, 1966. La Zanzara\, un pro
+ cesso che ha segnato un’epoca
+LOCATION:Archivio di Stato di Milano (ASMI) - Sala Conferenze (via Senato 1
+ 0)
+DESCRIPTION:Con Gianmichele Laino e Marco De Poli. BookCity · Diritti e De
+ mocrazia\, Donne\, Storia. BookCity: ingresso libero fino a esaurimento po
+ sti\, per alcuni incontri serve prenotare su bookcitymilano.it. https://ww
+ w.bookcitymilano.it/eventi/2026/cosa-pensano-le-ragazze-di-oggi-milano-196
+ 6-la-zanzara
+URL:https://www.bookcitymilano.it/eventi/2026/cosa-pensano-le-ragazze-di-og
+ gi-milano-1966-la-zanzara
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-letteratura-e-politica-resistenza-censura-e-cont@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T160000
+DTEND;TZID=Europe/Rome:20261128T180000
+SUMMARY:Letteratura è politica: resistenza\, censura e contronarrazioni am
+ ericane
+LOCATION:Libraccio Milano Romolo (Viale Romolo\, 9)
+DESCRIPTION:Con Alessia Gasparini e Serafina Consolo. BookCity · Geopoliti
+ ca. BookCity: ingresso libero fino a esaurimento posti\, per alcuni incont
+ ri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eve
+ nti/2026/letteratura-e-politica-resistenza-censura-e-contronarrazioni-amer
+ icane
+URL:https://www.bookcitymilano.it/eventi/2026/letteratura-e-politica-resist
+ enza-censura-e-contronarrazioni-americane
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-il-futuro-tra-le-fratture-razzismo-brutta-storia@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T163000
+DTEND;TZID=Europe/Rome:20261128T183000
+SUMMARY:Il futuro tra le fratture - Razzismo Brutta Storia
+LOCATION:Libreria Feltrinelli Corso Genova (Corso Genova\, 20)
+DESCRIPTION:Con Leila Belhadj Mohamed e Mostra Camere oscure - Immagini\, s
+ torie e corpi dai CPR. BookCity · Diritti e Democrazia\, Identità e Cult
+ ure. BookCity: ingresso libero fino a esaurimento posti\, per alcuni incon
+ tri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/ev
+ enti/2026/il-futuro-tra-le-fratture
+URL:https://www.bookcitymilano.it/eventi/2026/il-futuro-tra-le-fratture
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-se-in-una-notte-piovosa-il-tuo-tetto-fosse-il-ci@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T163000
+DTEND;TZID=Europe/Rome:20261128T183000
+SUMMARY:Se in una notte piovosa il tuo tetto fosse il cielo. Voci femminili
+  di resistenza a Gaza
+LOCATION:Fondazione Giangiacomo Feltrinelli - Sala Lettura (Viale Pasubio 5
+ )
+DESCRIPTION:Con Sondos Sabra e Carlotta Cossutta. BookCity · Donne\, Guerr
+ a e Pace\, Identità e Culture. BookCity: ingresso libero fino a esaurimen
+ to posti\, per alcuni incontri serve prenotare su bookcitymilano.it. https
+ ://www.bookcitymilano.it/eventi/2026/se-in-una-notte-piovosa-il-tuo-tetto-
+ fosse-il-cielo-voci-femminili-di-resistenza-a-gaza
+URL:https://www.bookcitymilano.it/eventi/2026/se-in-una-notte-piovosa-il-tu
+ o-tetto-fosse-il-cielo-voci-femminili-di-resistenza-a-gaza
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-il-comitato-delle-ombre-sessantanni-di-misteri-i@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T163000
+DTEND;TZID=Europe/Rome:20261128T183000
+SUMMARY:Il comitato delle ombre. Sessant’anni di misteri irrisolti: i cas
+ i Kennedy\, Pasolini e Mattei
+LOCATION:Castello Sforzesco - Biblioteca d'Arte (piazza Castello 1)
+DESCRIPTION:Con Marco Buticchi e Giuseppe Strazzeri. BookCity · Giornalism
+ o\, Informazione e Attualità\, Storia. BookCity: ingresso libero fino a e
+ saurimento posti\, per alcuni incontri serve prenotare su bookcitymilano.i
+ t. https://www.bookcitymilano.it/eventi/2026/il-comitato-delle-ombre
+URL:https://www.bookcitymilano.it/eventi/2026/il-comitato-delle-ombre
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-il-potere-della-transilienza-trasferire-le-compe@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T163000
+DTEND;TZID=Europe/Rome:20261128T183000
+SUMMARY:Il potere della transilienza. Trasferire le competenze tra i ruoli 
+ della vita
+LOCATION:Libreria Egea (Viale Bligny\, 22)
+DESCRIPTION:Con Riccarda Zezza e Giuseppe Ambrosio. BookCity · Economia e 
+ Lavoro. BookCity: ingresso libero fino a esaurimento posti\, per alcuni in
+ contri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it
+ /eventi/2026/il-potere-della-transilienza-trasferire-le-competenze-tra-i-r
+ uoli-della-vita
+URL:https://www.bookcitymilano.it/eventi/2026/il-potere-della-transilienza-
+ trasferire-le-competenze-tra-i-ruoli-della-vita
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-viaggio-nel-disordine-mondiale@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T163000
+DTEND;TZID=Europe/Rome:20261128T183000
+SUMMARY:Viaggio nel disordine mondiale
+LOCATION:PIME - Pontificio Istituto Missioni Estere - Sala Cremonesi (Via M
+ onte Rosa\, 81)
+DESCRIPTION:Con Anna Zafesova\, Pegah Moshir Pour\, Lucio Tirinnanzi e Josh
+ ua Evangelista. BookCity · Geopolitica\, Giornalismo\, Informazione e Att
+ ualità\, Guerra e Pace. BookCity: ingresso libero fino a esaurimento post
+ i\, per alcuni incontri serve prenotare su bookcitymilano.it. https://www.
+ bookcitymilano.it/eventi/2026/viaggio-disordine-mondiale
+URL:https://www.bookcitymilano.it/eventi/2026/viaggio-disordine-mondiale
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-il-caso-moro-nuovi-retroscena-di-un-delitto@acculturiamoci.i
+ t
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T163000
+DTEND;TZID=Europe/Rome:20261128T183000
+SUMMARY:Il caso Moro\, nuovi retroscena di un delitto
+LOCATION:Mupal - Museo Permantente Antimafia e Legalità (via Achille Fonta
+ nelli\, 9)
+DESCRIPTION:Con Roberto Valtolina. BookCity · Politica\, Legalità e Giust
+ izia. BookCity: ingresso libero fino a esaurimento posti\, per alcuni inco
+ ntri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/e
+ venti/2026/il-caso-moro-nuovi-retroscena-di-un-delitto
+URL:https://www.bookcitymilano.it/eventi/2026/il-caso-moro-nuovi-retroscena
+ -di-un-delitto
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-simone-de-beauvoir-e-attesa-a-teheran-il-secondo@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T170000
+DTEND;TZID=Europe/Rome:20261128T190000
+SUMMARY:Simone de Beauvoir è attesa a Teheran. Il Secondo sesso in Iran
+LOCATION:Farina Editore (Via Giulio Carcano\, 20)
+DESCRIPTION:Con Mauro Trentadue e Lorenza Mantovani. BookCity · Diritti e 
+ Democrazia\, Donne\, Geopolitica. BookCity: ingresso libero fino a esaurim
+ ento posti\, per alcuni incontri serve prenotare su bookcitymilano.it. htt
+ ps://www.bookcitymilano.it/eventi/2026/simone-de-beauvoir-e-attesa-a-teher
+ an-il-secondo-sesso-in-iran
+URL:https://www.bookcitymilano.it/eventi/2026/simone-de-beauvoir-e-attesa-a
+ -teheran-il-secondo-sesso-in-iran
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-angelo-panebianco-ordine-e-disordine-nella-polit@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Angelo Panebianco: Ordine e disordine nella politica internazionale
@@ -220,8 +1022,136 @@ URL:https://www.fondazionecorriere.corriere.it/iniziative/ordine-e-disordin
 CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-vista-da-vicino-nessuna-famiglia-e-normale@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:Vista da vicino nessuna famiglia è normale
+LOCATION:Castello Sforzesco - Sala Bertarelli (Castello Sforzesco)
+DESCRIPTION:Con Claudia de Lillo (Elasti). BookCity · Giornalismo\, Inform
+ azione e Attualità\, Narrativa. BookCity: ingresso libero fino a esaurime
+ nto posti\, per alcuni incontri serve prenotare su bookcitymilano.it. http
+ s://www.bookcitymilano.it/eventi/2026/diario-di-una-famiglia-quasi-normale
+URL:https://www.bookcitymilano.it/eventi/2026/diario-di-una-famiglia-quasi-
+ normale
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-capitalismo-sentimentale-perche-l-economia-ha-un@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:Capitalismo sentimentale: perché l'economia ha un cuore
+LOCATION:Libreria Egea (Viale Bligny\, 22)
+DESCRIPTION:Con Lia Quartapelle\, Daniele Bellasio\, Giorgio Arfaras e Gius
+ eppe Russo. BookCity · Economia e Lavoro\, Politica\, Legalità e Giustiz
+ ia. BookCity: ingresso libero fino a esaurimento posti\, per alcuni incont
+ ri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eve
+ nti/2026/capitalismo-sentimentale
+URL:https://www.bookcitymilano.it/eventi/2026/capitalismo-sentimentale
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-la-vita-senza-desideri@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:La vita senza desideri
+LOCATION:PIME - Pontificio Istituto Missioni Estere - Sala Cremonesi (Via M
+ onte Rosa\, 81)
+DESCRIPTION:Con Leonardo Pelo\, Pierfrancesco Majorino\, Arianna Martini\, 
+ Nicoletta Alessio e Paola Bonini. BookCity · Diritti e Democrazia\, Geopo
+ litica\, Guerra e Pace. BookCity: ingresso libero fino a esaurimento posti
+ \, per alcuni incontri serve prenotare su bookcitymilano.it. https://www.b
+ ookcitymilano.it/eventi/2026/la-vita-senza-desideri
+URL:https://www.bookcitymilano.it/eventi/2026/la-vita-senza-desideri
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-il-libro-segreto-di-forza-nuova@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:Il libro segreto di Forza Nuova
+LOCATION:Casa della Memoria (Via Confalonieri\, 14)
+DESCRIPTION:Con Paolo Berizzi\, Gherardo Colombo e Carlo Verdelli. Saluti d
+ i ANPI Milano. BookCity · Politica\, Legalità e Giustizia. BookCity: ing
+ resso libero fino a esaurimento posti\, per alcuni incontri serve prenotar
+ e su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/il-libro
+ -segreto-di-forza-nuova
+URL:https://www.bookcitymilano.it/eventi/2026/il-libro-segreto-di-forza-nuo
+ va
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-il-paese-che-non-c-e@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T183000
+DTEND;TZID=Europe/Rome:20261128T203000
+SUMMARY:Il paese che non c'è
+LOCATION:Circolo Arci Corvetto (Via Oglio\, 21)
+DESCRIPTION:Con Luigi Lusenti e Silvio Ziliotto. BookCity · Geopolitica\, 
+ Storia. BookCity: ingresso libero fino a esaurimento posti\, per alcuni in
+ contri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it
+ /eventi/2026/il-paese-che-non-ce-2
+URL:https://www.bookcitymilano.it/eventi/2026/il-paese-che-non-ce-2
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-spiriti-dell-acqua@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T183000
+DTEND;TZID=Europe/Rome:20261128T203000
+SUMMARY:Spiriti dell'acqua
+LOCATION:Spazio culturale SeiCentro (Piazza Enrico Berlinguer)
+DESCRIPTION:Con Roberto Codazzi\, Daniela Gilardoni e la Comunità di Haiti
+ . BookCity · Diritti e Democrazia\, Identità e Culture. BookCity: ingres
+ so libero fino a esaurimento posti\, per alcuni incontri serve prenotare s
+ u bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/spiriti-del
+ lacqua
+URL:https://www.bookcitymilano.it/eventi/2026/spiriti-dellacqua
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-eravamo-comunisti-quando-la-politica-era-una-sce@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T190000
+DTEND;TZID=Europe/Rome:20261128T210000
+SUMMARY:Eravamo comunisti. Quando la politica era una scelta di vita
+LOCATION:Fondazione Giangiacomo Feltrinelli - Sala Polifunzionale (viale Pa
+ subio 5)
+DESCRIPTION:Con Massimo D'Alema\, Giuseppe Conte e Roberto Speranza. Modera
+  Lorenza Ghidini. BookCity · Politica\, Legalità e Giustizia. BookCity: 
+ ingresso libero fino a esaurimento posti\, per alcuni incontri serve preno
+ tare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/erava
+ mo-comunisti
+URL:https://www.bookcitymilano.it/eventi/2026/eravamo-comunisti
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-scritti-dalla-citta-mondo-diaspora-e-relazioni-d@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T190000
+DTEND;TZID=Europe/Rome:20261128T210000
+SUMMARY:Scritti dalla Città Mondo - Diaspora e relazioni dissidenti: uno s
+ guardo decoloniale su Iran e rivoluzioni affettive
+LOCATION:MUDEC - Museo delle Culture - Spazio delle Culture “Khaled al-As
+ aad” (via Tortona 56)
+DESCRIPTION:Con Marina Misaghinejad\, Leila Belhadj Mohamed ed Elena Mordig
+ lia. BookCity · Geopolitica\, Identità e Culture. BookCity: ingresso lib
+ ero fino a esaurimento posti\, per alcuni incontri serve prenotare su book
+ citymilano.it. https://www.bookcitymilano.it/eventi/2026/diaspora-e-relazi
+ oni-dissidenti-uno-sguardo-decoloniale-su-iran-e-rivoluzioni-affettive
+URL:https://www.bookcitymilano.it/eventi/2026/diaspora-e-relazioni-dissiden
+ ti-uno-sguardo-decoloniale-su-iran-e-rivoluzioni-affettive
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-il-verde-e-il-nero@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Il verde e il nero
@@ -233,9 +1163,583 @@ URL:https://fondazionefeltrinelli.it/en/participate/
 CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-fascismo-due-voci-per-l-enciclopedia-treccani@acculturiamoci
+ .it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T110000
+DTEND;TZID=Europe/Rome:20261129T130000
+SUMMARY:Fascismo. Due voci per l'enciclopedia Treccani
+LOCATION:Castello Sforzesco - Weil Weiss (Castello Sforzesco)
+DESCRIPTION:Con Gianni Cuperlo\, Gad Lerner e Tiziana Ferrario. BookCity ·
+  La Seconda guerra mondiale\, Politica\, Legalità e Giustizia. BookCity: 
+ ingresso libero fino a esaurimento posti\, per alcuni incontri serve preno
+ tare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/fasci
+ smo-due-voci-per-lenciclopedia-treccani
+URL:https://www.bookcitymilano.it/eventi/2026/fascismo-due-voci-per-lencicl
+ opedia-treccani
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-nato@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T110000
+DTEND;TZID=Europe/Rome:20261129T130000
+SUMMARY:Nato
+LOCATION:Circolo Filologico Milanese - Sala Liberty (via Clerici 10)
+DESCRIPTION:Con Alessandro Orsini. BookCity · Geopolitica\, Storia. BookCi
+ ty: ingresso libero fino a esaurimento posti\, per alcuni incontri serve p
+ renotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/n
+ ato
+URL:https://www.bookcitymilano.it/eventi/2026/nato
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-50-anni-di-ndrangheta-dentro-l-organizzazione-cr@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T110000
+DTEND;TZID=Europe/Rome:20261129T130000
+SUMMARY:50 anni di 'ndrangheta. Dentro l'organizzazione criminale più pote
+ nte d'Italia
+LOCATION:Triennale Milano - Salone d'Onore (Viale Emilio Alemagna\, 6)
+DESCRIPTION:Con Nicola Gratteri ed Elvira Serra. BookCity · Politica\, Leg
+ alità e Giustizia\, Storia. BookCity: ingresso libero fino a esaurimento 
+ posti\, per alcuni incontri serve prenotare su bookcitymilano.it. https://
+ www.bookcitymilano.it/eventi/2026/cinquantanni-di-ndrangheta
+URL:https://www.bookcitymilano.it/eventi/2026/cinquantanni-di-ndrangheta
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-una-cosa-di-sinistra@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T110000
+DTEND;TZID=Europe/Rome:20261129T130000
+SUMMARY:Una cosa di sinistra
+LOCATION:Fondazione Giangiacomo Feltrinelli - Sala Lettura (Viale Pasubio 5
+ )
+DESCRIPTION:Con Lorenzo Pacini e Diego Passoni. BookCity · Politica\, Lega
+ lità e Giustizia. BookCity: ingresso libero fino a esaurimento posti\, pe
+ r alcuni incontri serve prenotare su bookcitymilano.it. https://www.bookci
+ tymilano.it/eventi/2026/una-cosa-di-sinistra
+URL:https://www.bookcitymilano.it/eventi/2026/una-cosa-di-sinistra
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-modernita-a-casablanca@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T110000
+DTEND;TZID=Europe/Rome:20261129T130000
+SUMMARY:Modernità a Casablanca
+LOCATION:Spazio culturale SeiCentro (Piazza Enrico Berlinguer)
+DESCRIPTION:Con Antonella Selva\, Monica Macchi e Lucia Bocci. BookCity · 
+ Economia e Lavoro\, Identità e Culture. BookCity: ingresso libero fino a 
+ esaurimento posti\, per alcuni incontri serve prenotare su bookcitymilano.
+ it. https://www.bookcitymilano.it/eventi/2026/modernita-a-casablanca
+URL:https://www.bookcitymilano.it/eventi/2026/modernita-a-casablanca
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-daua@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T110000
+DTEND;TZID=Europe/Rome:20261129T130000
+SUMMARY:Daua
+LOCATION:PIME - Pontificio Istituto Missioni Estere - Sala Cremonesi (Via M
+ onte Rosa\, 81)
+DESCRIPTION:Con Sebastiano Caputo e Vittorio Macioce. BookCity · Geopoliti
+ ca\, Narrativa. BookCity: ingresso libero fino a esaurimento posti\, per a
+ lcuni incontri serve prenotare su bookcitymilano.it. https://www.bookcitym
+ ilano.it/eventi/2026/daua
+URL:https://www.bookcitymilano.it/eventi/2026/daua
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-nel-bosco-di-rogoredo@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T110000
+DTEND;TZID=Europe/Rome:20261129T130000
+SUMMARY:Nel bosco di Rogoredo
+LOCATION:PIME - Pontificio Istituto Missioni Estere - Sala Vismara (Via Mos
+ è Bianchi\, 94)
+DESCRIPTION:Con Simone Feder e Biagio Simonetta. BookCity · Politica\, Leg
+ alità e Giustizia. BookCity: ingresso libero fino a esaurimento posti\, p
+ er alcuni incontri serve prenotare su bookcitymilano.it. https://www.bookc
+ itymilano.it/eventi/2026/nel-bosco-rogoredo
+URL:https://www.bookcitymilano.it/eventi/2026/nel-bosco-rogoredo
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-di-idee-da-difendere-ed-errori-da-riparare-quand@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T110000
+DTEND;TZID=Europe/Rome:20261129T130000
+SUMMARY:Di idee da difendere ed errori da riparare: quando al centro della 
+ giustizia ci sono i ragazzi
+LOCATION:Radio Popolare - Auditorium Demetrio Stratos (Via Ollearo\, 5)
+DESCRIPTION:Con Domenica Belrosso e Kento. BookCity · Adolescenza\, Politi
+ ca\, Legalità e Giustizia. BookCity: ingresso libero fino a esaurimento p
+ osti\, per alcuni incontri serve prenotare su bookcitymilano.it. https://w
+ ww.bookcitymilano.it/eventi/2026/idee-difendere-errori-riparare
+URL:https://www.bookcitymilano.it/eventi/2026/idee-difendere-errori-riparar
+ e
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-storie-di-auto-sulla-scena-del-crimine@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T110000
+DTEND;TZID=Europe/Rome:20261129T130000
+SUMMARY:Storie di auto sulla scena del crimine
+LOCATION:ADI Design Museum - Foyer (Piazza Compasso d'Oro 1)
+DESCRIPTION:Con Ivan Scelsa\, Paolo Masotti\, Leonardo Acerbi e Stefano Nad
+ a. BookCity · Architettura\, Design\, Urbanistica\, Politica\, Legalità 
+ e Giustizia. BookCity: ingresso libero fino a esaurimento posti\, per alcu
+ ni incontri serve prenotare su bookcitymilano.it. https://www.bookcitymila
+ no.it/eventi/2026/storie-auto-scena-crimine
+URL:https://www.bookcitymilano.it/eventi/2026/storie-auto-scena-crimine
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-parallasse-live-come-si-parla-di-violenza-di-gen@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T113000
+DTEND;TZID=Europe/Rome:20261129T133000
+SUMMARY:Parallasse LIVE - Come si parla di violenza di genere sui giornali?
+LOCATION:La Redazione Milano - Scomodo (Via Jean Jaures 22)
+DESCRIPTION:Rassegna stampa con la redazione di Scomodo. Intervengono Giuli
+ a Siviero e Ginevra Falciani. Con il contributo di Fondazione di Comunità
+  Milano. BookCity · Giornalismo\, Informazione e Attualità\, Giornata in
+ ternazionale per l'eliminazione della violenza contro le donne\, Via Padov
+ a. BookCity: ingresso libero fino a esaurimento posti\, per alcuni incontr
+ i serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/even
+ ti/2026/parallasse-live-come-si-parla-di-violenza-di-genere-sui-giornali
+URL:https://www.bookcitymilano.it/eventi/2026/parallasse-live-come-si-parla
+ -di-violenza-di-genere-sui-giornali
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-il-tribunale-della-gioventu@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T113000
+DTEND;TZID=Europe/Rome:20261129T133000
+SUMMARY:Il tribunale della gioventù
+LOCATION:Libreria Feltrinelli Piazza Piemonte (Piazza Piemonte 2)
+DESCRIPTION:Con Erri De Luca. BookCity · Narrativa\, Politica\, Legalità 
+ e Giustizia. BookCity: ingresso libero fino a esaurimento posti\, per alcu
+ ni incontri serve prenotare su bookcitymilano.it. https://www.bookcitymila
+ no.it/eventi/2026/tribunale-della-giovent%C3%B9
+URL:https://www.bookcitymilano.it/eventi/2026/tribunale-della-giovent%C3%B9
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-ritrovare-il-senno-leggere-le-guerre-per-costrui@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T123000
+DTEND;TZID=Europe/Rome:20261129T143000
+SUMMARY:Ritrovare il senno: leggere le guerre per costruire la pace
+LOCATION:Casa della Memoria (Via Confalonieri\, 14)
+DESCRIPTION:Con Francesco Samorè\, Michele Corcio\, Raffaele Crocco e Sara
+  Gorelli. BookCity · Diritti e Democrazia\, Geopolitica. BookCity: ingres
+ so libero fino a esaurimento posti\, per alcuni incontri serve prenotare s
+ u bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/ritrovare-i
+ l-senno-leggere-le-guerre-per-costruire-la-pace
+URL:https://www.bookcitymilano.it/eventi/2026/ritrovare-il-senno-leggere-le
+ -guerre-per-costruire-la-pace
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-quale-futuro-semi-di-un-nuovo-umanesimo@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T143000
+DTEND;TZID=Europe/Rome:20261129T163000
+SUMMARY:Quale futuro? Semi di un nuovo umanesimo
+LOCATION:Associazione Bambini senza sbarre (Corso Venezia\, 24)
+DESCRIPTION:Con Marco Manzoni\, Marco Garzonio e Iolanda Stocchi. BookCity 
+ · BCM Sociale\, Giornalismo\, Informazione e Attualità. BookCity: ingres
+ so libero fino a esaurimento posti\, per alcuni incontri serve prenotare s
+ u bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/presentazio
+ ne-del-libro-quale-futuro
+URL:https://www.bookcitymilano.it/eventi/2026/presentazione-del-libro-quale
+ -futuro
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-voci-contro-la-censura-l-arte-yemenita-tra-memor@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T150000
+DTEND;TZID=Europe/Rome:20261129T170000
+SUMMARY:Voci contro la censura: l'arte yemenita tra memoria e giustizia
+LOCATION:Museo del Novecento - Forum900 (Via Marconi\, 1)
+DESCRIPTION:Con Francesco “Kento” Carlo\, Patrick Zaki e Danilo De Bias
+ io. BookCity · Arte\, Fotografia\, Moda\, Geopolitica. BookCity: ingresso
+  libero fino a esaurimento posti\, per alcuni incontri serve prenotare su 
+ bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/voci-contro-l
+ a-censura-larte-yemenita-tra-memoria-e-giustizia
+URL:https://www.bookcitymilano.it/eventi/2026/voci-contro-la-censura-larte-
+ yemenita-tra-memoria-e-giustizia
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-welfare-idee-per-la-nostra-casa-comune@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T150000
+DTEND;TZID=Europe/Rome:20261129T170000
+SUMMARY:Welfare. Idee per la nostra casa comune
+LOCATION:Fondazione Giangiacomo Feltrinelli - Sala Lettura (Viale Pasubio 5
+ )
+DESCRIPTION:Con Maurizio Ferrera\, Daniele Manca\, Susanna Camusso e Elisab
+ etta Gualmini. BookCity · BCM Sociale\, Economia e Lavoro\, Politica\, Le
+ galità e Giustizia. BookCity: ingresso libero fino a esaurimento posti\, 
+ per alcuni incontri serve prenotare su bookcitymilano.it. https://www.book
+ citymilano.it/eventi/2026/welfare-idee-per-la-nostra-casa-comune
+URL:https://www.bookcitymilano.it/eventi/2026/welfare-idee-per-la-nostra-ca
+ sa-comune
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-maschi-si-salvi-chi-puo-uomini-sull-orlo-di-una-@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T150000
+DTEND;TZID=Europe/Rome:20261129T170000
+SUMMARY:Maschi\, si salvi chi può! Uomini sull'orlo di una crisi di nervi
+LOCATION:Libreria L'Accademia (C.so di Porta Vittoria\, 14)
+DESCRIPTION:Con Marco Bonini\, Monica Peruzzi e Giovanna Mezzogiorno. BookC
+ ity · Classici\, Diritti e Democrazia. BookCity: ingresso libero fino a e
+ saurimento posti\, per alcuni incontri serve prenotare su bookcitymilano.i
+ t. https://www.bookcitymilano.it/eventi/2026/maschi-si-salvi-chi-puo-uomin
+ i-sullorlo-di-una-crisi-di-nervi
+URL:https://www.bookcitymilano.it/eventi/2026/maschi-si-salvi-chi-puo-uomin
+ i-sullorlo-di-una-crisi-di-nervi
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-gesu-dorme-nel-mio-garage@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T150000
+DTEND;TZID=Europe/Rome:20261129T170000
+SUMMARY:Gesù dorme nel mio garage
+LOCATION:PIME - Pontificio Istituto Missioni Estere - Sala Vismara (Via Mos
+ è Bianchi\, 94)
+DESCRIPTION:Con Loredana Crivellari. BookCity · Diritti e Democrazia\, Ide
+ ntità e Culture. BookCity: ingresso libero fino a esaurimento posti\, per
+  alcuni incontri serve prenotare su bookcitymilano.it. https://www.bookcit
+ ymilano.it/eventi/2026/loredana-crivellari
+URL:https://www.bookcitymilano.it/eventi/2026/loredana-crivellari
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-brevi-elementi-di-economia-per-la-difesa-della-d@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T150000
+DTEND;TZID=Europe/Rome:20261129T170000
+SUMMARY:Brevi elementi di economia per la difesa della democrazia (e della 
+ dignità)
+LOCATION:PIME - Pontificio Istituto Missioni Estere - Sala Cremonesi (Via M
+ onte Rosa\, 81)
+DESCRIPTION:Con Ronny Bianchi. BookCity · Diritti e Democrazia\, Geopoliti
+ ca. BookCity: ingresso libero fino a esaurimento posti\, per alcuni incont
+ ri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eve
+ nti/2026/brevi-elementi-di-economia-per-la-difesa-della-democrazia-e-della
+ -dignita
+URL:https://www.bookcitymilano.it/eventi/2026/brevi-elementi-di-economia-pe
+ r-la-difesa-della-democrazia-e-della-dignita
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-global-sumud-flotilla-la-storia-siete-voi@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T150000
+DTEND;TZID=Europe/Rome:20261129T170000
+SUMMARY:Global Sumud Flotilla. La storia siete voi
+LOCATION:Radio Popolare - Auditorium Demetrio Stratos (Via Ollearo\, 5)
+DESCRIPTION:Con Maria Elena Delia e Barbara Sorrentini. BookCity · Giornal
+ ismo\, Informazione e Attualità\, Guerra e Pace. BookCity: ingresso liber
+ o fino a esaurimento posti\, per alcuni incontri serve prenotare su bookci
+ tymilano.it. https://www.bookcitymilano.it/eventi/2026/global-sumud-flotil
+ la-la-storia-siete-voi
+URL:https://www.bookcitymilano.it/eventi/2026/global-sumud-flotilla-la-stor
+ ia-siete-voi
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-il-mondo-dopo-trump@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T153000
+DTEND;TZID=Europe/Rome:20261129T173000
+SUMMARY:Il mondo dopo Trump
+LOCATION:BASE Milano - Room 1400 (Viale Ambrogio Bergognone da Fossano\, 34
+ )
+DESCRIPTION:Con Francesco Costa e Cecilia Sala. BookCity · Books Friends F
+ orever\, Diritti e Democrazia\, Geopolitica. BookCity: ingresso libero fin
+ o a esaurimento posti\, per alcuni incontri serve prenotare su bookcitymil
+ ano.it. https://www.bookcitymilano.it/eventi/2026/mondo-dopo-trump
+URL:https://www.bookcitymilano.it/eventi/2026/mondo-dopo-trump
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-atlante-del-potere-globale-dieci-scenari-interco@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T160000
+DTEND;TZID=Europe/Rome:20261129T180000
+SUMMARY:Atlante del potere globale: dieci scenari interconnessi
+LOCATION:Libreria Rizzoli Milano (Galleria Vittorio Emanuele II\, 11/12)
+DESCRIPTION:Con Maurizio Molinari\, David Parenzo e Luigi Di Maio. BookCity
+  · Geopolitica. BookCity: ingresso libero fino a esaurimento posti\, per 
+ alcuni incontri serve prenotare su bookcitymilano.it. https://www.bookcity
+ milano.it/eventi/2026/atlante-del-potere-globale-dieci-scenari-interconnes
+ si
+URL:https://www.bookcitymilano.it/eventi/2026/atlante-del-potere-globale-di
+ eci-scenari-interconnessi
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-manifesto-per-l-abolizione-del-carcere@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T163000
+DTEND;TZID=Europe/Rome:20261129T183000
+SUMMARY:Manifesto per l'abolizione del carcere
+LOCATION:Castello Sforzesco - Weil Weiss (Castello Sforzesco)
+DESCRIPTION:Con Luigi Manconi\, Gherardo Colombo\, Valentina Calderone e Ma
+ rina Beraha. BookCity · BCM Sociale\, Politica\, Legalità e Giustizia. B
+ ookCity: ingresso libero fino a esaurimento posti\, per alcuni incontri se
+ rve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2
+ 026/manifesto-per-abolire-il-carcere
+URL:https://www.bookcitymilano.it/eventi/2026/manifesto-per-abolire-il-carc
+ ere
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-viaggio-nel-buio-della-mente-delle-sette@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T163000
+DTEND;TZID=Europe/Rome:20261129T183000
+SUMMARY:Viaggio nel buio della mente delle sette
+LOCATION:Triennale Milano - Salone d'Onore (Viale Emilio Alemagna\, 6)
+DESCRIPTION:Con Stefano Nazzi e Luca Mastrantonio. BookCity · Giornalismo\
+ , Informazione e Attualità. BookCity: ingresso libero fino a esaurimento 
+ posti\, per alcuni incontri serve prenotare su bookcitymilano.it. https://
+ www.bookcitymilano.it/eventi/2026/stefano-nazzi-viaggio-mente-sette
+URL:https://www.bookcitymilano.it/eventi/2026/stefano-nazzi-viaggio-mente-s
+ ette
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-faccia-a-faccia-genova-2001-il-poliziotto-che-po@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T163000
+DTEND;TZID=Europe/Rome:20261129T183000
+SUMMARY:Faccia a faccia. Genova 2001. Il poliziotto che potevo non essere
+LOCATION:Fondazione Giangiacomo Feltrinelli - Sala Lettura (Viale Pasubio 5
+ )
+DESCRIPTION:Con Gianpaolo Trevisi e Giovanna Mezzatesta. BookCity · Politi
+ ca\, Legalità e Giustizia\, Storia. BookCity: ingresso libero fino a esau
+ rimento posti\, per alcuni incontri serve prenotare su bookcitymilano.it. 
+ https://www.bookcitymilano.it/eventi/2026/faccia-a-faccia-genova-2001-il-p
+ oliziotto-che-potevo-non-essere
+URL:https://www.bookcitymilano.it/eventi/2026/faccia-a-faccia-genova-2001-i
+ l-poliziotto-che-potevo-non-essere
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-il-paese-che-non-c-e@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T163000
+DTEND;TZID=Europe/Rome:20261129T183000
+SUMMARY:Il paese che non c'è
+LOCATION:Circolo Arci Corvetto (Via Oglio\, 21)
+DESCRIPTION:Con Valerio Di Donato e Gianni Zuretti. BookCity · Geopolitica
+ \, Storia. BookCity: ingresso libero fino a esaurimento posti\, per alcuni
+  incontri serve prenotare su bookcitymilano.it. https://www.bookcitymilano
+ .it/eventi/2026/il-paese-che-non-ce-3
+URL:https://www.bookcitymilano.it/eventi/2026/il-paese-che-non-ce-3
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-gli-estremi-al-potere-quali-sfide-per-un-mondo-s@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T163000
+DTEND;TZID=Europe/Rome:20261129T183000
+SUMMARY:Gli estremi al potere: quali sfide per un mondo sempre più polariz
+ zato?
+LOCATION:PIME - Pontificio Istituto Missioni Estere - Sala Cremonesi (Via M
+ onte Rosa\, 81)
+DESCRIPTION:Con Gianluca Ansalone\, Simone Crolla\, Seyda Canepa e Barbara 
+ Quacquarelli. BookCity · Diritti e Democrazia\, Geopolitica. BookCity: in
+ gresso libero fino a esaurimento posti\, per alcuni incontri serve prenota
+ re su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/gli-est
+ remi-al-potere-quali-sfide-per-un-mondo-sempre-piu-polarizzato
+URL:https://www.bookcitymilano.it/eventi/2026/gli-estremi-al-potere-quali-s
+ fide-per-un-mondo-sempre-piu-polarizzato
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-piombo-nero-la-storia-di-fausto-iaio-e-valerio-v@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T163000
+DTEND;TZID=Europe/Rome:20261129T183000
+SUMMARY:Piombo nero. La storia di Fausto\, Iaio e Valerio Verbano 1978-1980
+LOCATION:Radio Popolare - Auditorium Demetrio Stratos (Via Ollearo\, 5)
+DESCRIPTION:Con Michela Ponzani e Gad Lerner. BookCity · Milano racconta M
+ ilano\, Politica\, Legalità e Giustizia. BookCity: ingresso libero fino a
+  esaurimento posti\, per alcuni incontri serve prenotare su bookcitymilano
+ .it. https://www.bookcitymilano.it/eventi/2026/piombo-nero
+URL:https://www.bookcitymilano.it/eventi/2026/piombo-nero
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-la-tempesta-dentro@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T170000
+DTEND;TZID=Europe/Rome:20261129T190000
+SUMMARY:La tempesta dentro
+LOCATION:Mupal - Museo Permantente Antimafia e Legalità (via Achille Fonta
+ nelli\, 9)
+DESCRIPTION:Con E-motivo teatro. BookCity · Poesia\, Politica\, Legalità 
+ e Giustizia. BookCity: ingresso libero fino a esaurimento posti\, per alcu
+ ni incontri serve prenotare su bookcitymilano.it. https://www.bookcitymila
+ no.it/eventi/2026/la-tempesta-dentro
+URL:https://www.bookcitymilano.it/eventi/2026/la-tempesta-dentro
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-scritti-dalla-citta-mondo-voci-dalla-colombia-ar@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T173000
+DTEND;TZID=Europe/Rome:20261129T193000
+SUMMARY:Scritti dalla Città Mondo - Voci dalla Colombia. Arte e decolonial
+ ità come cura del mondo
+LOCATION:MUDEC - Museo delle Culture - Spazio delle Culture “Khaled al-As
+ aad” (via Tortona 56)
+DESCRIPTION:Con Laura Fano\, Simone Ferrari e Gloria Mendiola. A cura di Mi
+ gras Colombia. BookCity · Arte\, Fotografia\, Moda\, Geopolitica\, Identi
+ tà e Culture. BookCity: ingresso libero fino a esaurimento posti\, per al
+ cuni incontri serve prenotare su bookcitymilano.it. https://www.bookcitymi
+ lano.it/eventi/2026/scritti-dalla-citta-mondo-voci-dalla-colombia-arte-e-d
+ ecolonialita-come-cura-del-mondo
+URL:https://www.bookcitymilano.it/eventi/2026/scritti-dalla-citta-mondo-voc
+ i-dalla-colombia-arte-e-decolonialita-come-cura-del-mondo
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-l-impero-e-il-diluvio-perche-gli-americani-risco@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T180000
+DTEND;TZID=Europe/Rome:20261129T200000
+SUMMARY:L'impero e il diluvio. Perché gli americani riscoprono la storia. 
+ E attaccano noi
+LOCATION:Circolo Filologico Milanese - Sala Liberty (via Clerici 10)
+DESCRIPTION:Con Dario Fabbri e Luciano Tellaroli. BookCity · Geopolitica\,
+  Giornalismo\, Informazione e Attualità. BookCity: ingresso libero fino a
+  esaurimento posti\, per alcuni incontri serve prenotare su bookcitymilano
+ .it. https://www.bookcitymilano.it/eventi/2026/limpero-e-il-diluvio-perche
+ -gli-americani-riscoprono-la-storia-e-attaccano-noi
+URL:https://www.bookcitymilano.it/eventi/2026/limpero-e-il-diluvio-perche-g
+ li-americani-riscoprono-la-storia-e-attaccano-noi
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-lordine-sorvegliare-punire-odiare@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T180000
+DTEND;TZID=Europe/Rome:20261129T200000
+SUMMARY:L’ordine. Sorvegliare\, punire\, odiare
+LOCATION:Fondazione Giangiacomo Feltrinelli - Sala Lettura (Viale Pasubio 5
+ )
+DESCRIPTION:Con Luigi Mastrodonato e Leila Belhadj Mohamed. BookCity · Dir
+ itti e Democrazia\, Politica\, Legalità e Giustizia. BookCity: ingresso l
+ ibero fino a esaurimento posti\, per alcuni incontri serve prenotare su bo
+ okcitymilano.it. https://www.bookcitymilano.it/eventi/2026/lordine-sorvegl
+ iare-punire-odiare
+URL:https://www.bookcitymilano.it/eventi/2026/lordine-sorvegliare-punire-od
+ iare
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-il-tempo-delle-incertezze-la-guerra-e-la-pace-in@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T180000
+DTEND;TZID=Europe/Rome:20261129T200000
+SUMMARY:Il tempo delle incertezze: la guerra e la pace in Europa
+LOCATION:Circolo dei Lettori di Milano - Casa Manzoni (Via Gerolamo Morone\
+ , 1)
+DESCRIPTION:Con Mario Giro\, Anna Scavuzzo e Pier Luigi Vercesi. BookCity 
+ · Geopolitica\, Giornalismo\, Informazione e Attualità. BookCity: ingres
+ so libero fino a esaurimento posti\, per alcuni incontri serve prenotare s
+ u bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/il-tempo-de
+ lle-incertezze-la-guerra-e-la-pace-in-europa
+URL:https://www.bookcitymilano.it/eventi/2026/il-tempo-delle-incertezze-la-
+ guerra-e-la-pace-in-europa
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-milano-tra-mito-e-realta-speculazione-narrazione@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T180000
+DTEND;TZID=Europe/Rome:20261129T200000
+SUMMARY:Milano tra mito e realtà: speculazione\, narrazione e resistenza u
+ rbana
+LOCATION:PIME - Pontificio Istituto Missioni Estere - Sala Vismara (Via Mos
+ è Bianchi\, 94)
+DESCRIPTION:Con Lucia Tozzi e Silvia Ballestra. BookCity · Economia e Lavo
+ ro\, Milano racconta Milano. BookCity: ingresso libero fino a esaurimento 
+ posti\, per alcuni incontri serve prenotare su bookcitymilano.it. https://
+ www.bookcitymilano.it/eventi/2026/milano-mito-realta
+URL:https://www.bookcitymilano.it/eventi/2026/milano-mito-realta
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-racconti-di-memoria-narrazioni-di-pace@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T183000
+DTEND;TZID=Europe/Rome:20261129T203000
+SUMMARY:Racconti di memoria\, Narrazioni di pace
+LOCATION:Centro di Nonviolenza Attiva (Via Guido Mazzali\, 5)
+DESCRIPTION:Con Ivan Stanislav Petrov Marchetti e Gianmarco Pisa. Introduce
+  Giovanna Silvestro. BookCity · Diritti e Democrazia\, Storia. BookCity: 
+ ingresso libero fino a esaurimento posti\, per alcuni incontri serve preno
+ tare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/racco
+ nti-di-memoria-narrazioni-di-pace
+URL:https://www.bookcitymilano.it/eventi/2026/racconti-di-memoria-narrazion
+ i-di-pace
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-quando-la-notte-finisce-crans-montana-le-nostre-@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T190000
+DTEND;TZID=Europe/Rome:20261129T210000
+SUMMARY:Quando la notte finisce. Crans-Montana: le nostre storie
+LOCATION:BASE Milano - Room 1400 (Viale Ambrogio Bergognone da Fossano\, 34
+ )
+DESCRIPTION:Con Leonardo Bove\, Francesca Nota e Kean Talingdan. In dialogo
+  con Luca Casadei. BookCity · Books Friends Forever\, Giornalismo\, Infor
+ mazione e Attualità. BookCity: ingresso libero fino a esaurimento posti\,
+  per alcuni incontri serve prenotare su bookcitymilano.it. https://www.boo
+ kcitymilano.it/eventi/2026/quando-la-notte-finisce-crans-montana-le-nostre
+ -storie
+URL:https://www.bookcitymilano.it/eventi/2026/quando-la-notte-finisce-crans
+ -montana-le-nostre-storie
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-30-capitalismo-e-democrazia-nuovi-poteri-economici-@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261130T173000
 DTEND;TZID=Europe/Rome:20261130T193000
 SUMMARY:Capitalismo e democrazia: nuovi poteri economici globali
@@ -249,7 +1753,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-la-chiesa-e-la-sfida-della-pace-da-leone-xiii-a-@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261201T180000
 DTEND;TZID=Europe/Rome:20261201T200000
 SUMMARY:La Chiesa e la sfida della pace. Da Leone XIII a Leone XIV
@@ -262,7 +1766,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-left-summit-questione-di-classe-con-schlein-cont@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261202T183000
 DTEND;TZID=Europe/Rome:20261202T203000
 SUMMARY:Left Summit: Questione di classe\, con Schlein\, Conte e Fratoianni
@@ -278,7 +1782,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-left-summit-ritrovare-la-forza-del-collettivo@acculturiamoci
  .it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261203T180000
 DTEND;TZID=Europe/Rome:20261203T200000
 SUMMARY:Left Summit: Ritrovare la forza del collettivo
@@ -294,7 +1798,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-emma-bonino-europa-e-patria-scegliamo-forti-o-so@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261209T210000
 DTEND;TZID=Europe/Rome:20261209T230000
 SUMMARY:Emma Bonino: Europa è patria. Scegliamo: forti o sovranisti?
@@ -307,7 +1811,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-mannheimer-e-pasquino-cosa-pensano-gli-italiani-@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261210T183000
 DTEND;TZID=Europe/Rome:20261210T203000
 SUMMARY:Mannheimer e Pasquino: cosa pensano gli italiani del mondo

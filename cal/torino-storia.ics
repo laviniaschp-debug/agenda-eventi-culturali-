@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-12-09-festival-del-classico-alberto-angela-apre-polite@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261209T210000
 DTEND;TZID=Europe/Rome:20261209T230000
 SUMMARY:Festival del Classico: Alberto Angela apre Politeia/Convivenze
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-festival-del-classico-la-convivenza-difficile-ba@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261211T160000
 DTEND;TZID=Europe/Rome:20261211T180000
 SUMMARY:Festival del Classico: La convivenza difficile: barbari e no
@@ -59,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-festival-del-classico-aldo-schiavone-la-res-publ@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261211T163000
 DTEND;TZID=Europe/Rome:20261211T183000
 SUMMARY:Festival del Classico: Aldo Schiavone\, la res publica romana fra r
@@ -75,7 +75,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-festival-del-classico-il-teatro-e-la-crisi-di-at@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261211T170000
 DTEND;TZID=Europe/Rome:20261211T190000
 SUMMARY:Festival del Classico: Il teatro e la crisi di Atene
@@ -89,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-festival-del-classico-agostino-l-africano-uno-sg@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261211T180000
 DTEND;TZID=Europe/Rome:20261211T200000
 SUMMARY:Festival del Classico: Agostino l'africano: uno sguardo decentrato 
@@ -104,7 +104,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-festival-del-classico-seneca-e-il-tiranno@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261212T113000
 DTEND;TZID=Europe/Rome:20261212T133000
 SUMMARY:Festival del Classico: Seneca e il Tiranno
@@ -118,7 +118,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-festival-del-classico-come-nasce-una-repubblica@acculturiamo
  ci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261212T153000
 DTEND;TZID=Europe/Rome:20261212T173000
 SUMMARY:Festival del Classico: Come nasce una Repubblica
@@ -132,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-festival-del-classico-luciano-bossina-come-in-ci@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261212T160000
 DTEND;TZID=Europe/Rome:20261212T180000
 SUMMARY:Festival del Classico: Luciano Bossina\, Come in cielo così in ter
@@ -147,7 +147,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-festival-del-classico-politeia-e-convivenze-il-m@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261213T170000
 DTEND;TZID=Europe/Rome:20261213T190000
 SUMMARY:Festival del Classico: Politeia e convivenze: il maschile e il femm

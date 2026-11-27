@@ -25,8 +25,669 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-11-27-letture-ad-alta-voce-4-6-anni@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T150000
+DTEND;TZID=Europe/Rome:20261127T170000
+SUMMARY:Letture ad alta voce (4-6 anni)
+LOCATION:Veneranda Biblioteca Ambrosiana - Sala delle Accademie (Piazza Pio
+  XI\, 2)
+DESCRIPTION:Con i volontari del Patto di Milano per la Lettura. BookCity ·
+  Bambine/i e Ragazze/i\, BCM 0-6. BookCity: ingresso libero fino a esaurim
+ ento posti\, per alcuni incontri serve prenotare su bookcitymilano.it. htt
+ ps://www.bookcitymilano.it/eventi/2026/laboratorio-di-lettura-4-6-anni-3
+URL:https://www.bookcitymilano.it/eventi/2026/laboratorio-di-lettura-4-6-an
+ ni-3
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-piccole-storie-per-grandi-legami-1-3-anni@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T160000
+DTEND;TZID=Europe/Rome:20261127T180000
+SUMMARY:Piccole Storie per Grandi Legami (1-3 anni)
+LOCATION:Pistacchio Family Space (Via dell'Aprica\, 16)
+DESCRIPTION:A cura di Consultorio La Famiglia - Fondazione Luciano Lazzaron
+ i ETS. BookCity · Bambine/i e Ragazze/i\, BCM 0-6. BookCity: ingresso lib
+ ero fino a esaurimento posti\, per alcuni incontri serve prenotare su book
+ citymilano.it. https://www.bookcitymilano.it/eventi/2026/piccole-storie-pe
+ r-grandi-legami-1-3-anni
+URL:https://www.bookcitymilano.it/eventi/2026/piccole-storie-per-grandi-leg
+ ami-1-3-anni
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-attenti-alle-storie-fanno-viaggiare-lontano-0-6-@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T163000
+DTEND;TZID=Europe/Rome:20261127T183000
+SUMMARY:Attenti alle Storie! Fanno viaggiare lontano (0-6 anni)
+LOCATION:LABZEROSEI Parco Trotter (via Giuseppe Giacosa\, 44/46)
+DESCRIPTION:Dal 23 al 27 novembre\, LABZEROSEI invita bambine e bambini a u
+ na sperimentazione unica!“Toccare\, guardare\, scoprire!”: una propost
+ a per avvicinarsi al libro anc. BookCity · Bambine/i e Ragazze/i\, BCM 0-
+ 6. BookCity: ingresso libero fino a esaurimento posti\, per alcuni incontr
+ i serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/even
+ ti/2026/attenti-alle-storie-fanno-viaggiare-lontano-0-6-anni-9
+URL:https://www.bookcitymilano.it/eventi/2026/attenti-alle-storie-fanno-via
+ ggiare-lontano-0-6-anni-9
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-scopriamo-il-mondo-dei-volatili-con-larry-6-anni@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T164500
+DTEND;TZID=Europe/Rome:20261127T184500
+SUMMARY:Scopriamo il mondo dei volatili con Larry (6+ anni)
+LOCATION:Libreria Sottosopra (Via Negroli\, 2)
+DESCRIPTION:Con Leonardo Ligustri. BookCity · Bambine/i e Ragazze/i\, BCM 
+ 0-6. BookCity: ingresso libero fino a esaurimento posti\, per alcuni incon
+ tri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/ev
+ enti/2026/scopriamo-il-mondo-dei-volatili-con-larry
+URL:https://www.bookcitymilano.it/eventi/2026/scopriamo-il-mondo-dei-volati
+ li-con-larry
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-i-misteriosi-cinque-laboratorio-di-scrittura-10-@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T170000
+DTEND;TZID=Europe/Rome:20261127T190000
+SUMMARY:I misteriosi cinque. Laboratorio di scrittura (10-14 anni)
+LOCATION:Biblioteca Tibaldi (Viale Tibaldi\, 41)
+DESCRIPTION:Con Pier Vittorio Mannucci. BookCity · Bambine/i e Ragazze/i\,
+  Biblioteche\, Narrativa. BookCity: ingresso libero fino a esaurimento pos
+ ti\, per alcuni incontri serve prenotare su bookcitymilano.it. https://www
+ .bookcitymilano.it/eventi/2026/i-misteriosi-cinque-10-14-anni
+URL:https://www.bookcitymilano.it/eventi/2026/i-misteriosi-cinque-10-14-ann
+ i
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-quando-dico-grazie-3-anni@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T170000
+DTEND;TZID=Europe/Rome:20261127T190000
+SUMMARY:Quando dico grazie (3+ anni)
+LOCATION:In Cerca di Guai (Via Jacopo Palma\, 3)
+DESCRIPTION:Con Giorgia Cozza. BookCity · Bambine/i e Ragazze/i\, BCM 0-6\
+ , Biblioteche. BookCity: ingresso libero fino a esaurimento posti\, per al
+ cuni incontri serve prenotare su bookcitymilano.it. https://www.bookcitymi
+ lano.it/eventi/2026/quando-dico-grazie
+URL:https://www.bookcitymilano.it/eventi/2026/quando-dico-grazie
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-babbo-natale-la-befana-e-il-loro-divertente-segr@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T170000
+DTEND;TZID=Europe/Rome:20261127T190000
+SUMMARY:Babbo Natale\, la Befana… e il loro divertente segreto! (4-7 anni
+ )
+LOCATION:Biblioteca Baggio (Via Pistoia 10)
+DESCRIPTION:Con Alessandro Montagnana. BookCity · Bambine/i e Ragazze/i\, 
+ BCM 0-6. BookCity: ingresso libero fino a esaurimento posti\, per alcuni i
+ ncontri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.i
+ t/eventi/2026/babbo-natale-la-befana-e-il-loro-divertente-segreto-4-7-anni
+URL:https://www.bookcitymilano.it/eventi/2026/babbo-natale-la-befana-e-il-l
+ oro-divertente-segreto-4-7-anni
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-la-biblioteca-di-alina@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T170000
+DTEND;TZID=Europe/Rome:20261127T190000
+SUMMARY:La biblioteca di Alina
+LOCATION:Biblioteca Villapizzone (Via Ferrario Grugnola 3)
+DESCRIPTION:Con Marina Rivera. BookCity · Bambine/i e Ragazze/i\, Bibliote
+ che. BookCity: ingresso libero fino a esaurimento posti\, per alcuni incon
+ tri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/ev
+ enti/2026/la-biblioteca-di-alina
+URL:https://www.bookcitymilano.it/eventi/2026/la-biblioteca-di-alina
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-piccole-storie-per-grandi-legami-1-3-anni-2@acculturiamoci.i
+ t
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T170000
+DTEND;TZID=Europe/Rome:20261127T190000
+SUMMARY:Piccole Storie per Grandi Legami (1-3 anni)
+LOCATION:Pistacchio Family Space (Via dell'Aprica\, 16)
+DESCRIPTION:A cura di Consultorio La Famiglia - Fondazione Luciano Lazzaron
+ i ETS. BookCity · Bambine/i e Ragazze/i\, BCM 0-6. BookCity: ingresso lib
+ ero fino a esaurimento posti\, per alcuni incontri serve prenotare su book
+ citymilano.it. https://www.bookcitymilano.it/eventi/2026/piccole-storie-pe
+ r-grandi-legami-1-3-anni-2
+URL:https://www.bookcitymilano.it/eventi/2026/piccole-storie-per-grandi-leg
+ ami-1-3-anni-2
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-nelle-mani-dellaltro-storie-e-incontri-tra-gener@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T100000
+DTEND;TZID=Europe/Rome:20261128T120000
+SUMMARY:Nelle mani dell’altro. Storie e incontri tra generazioni: nonni e
+  nipoti tra le pagine
+LOCATION:Casa di Quartiere Garibaldi (via Giorgio Strehler 2 (angolo Corso 
+ Garibaldi\, 27))
+DESCRIPTION:Con Laura Bandieramonte. BookCity · Bambine/i e Ragazze/i\, BC
+ M Sociale. BookCity: ingresso libero fino a esaurimento posti\, per alcuni
+  incontri serve prenotare su bookcitymilano.it. https://www.bookcitymilano
+ .it/eventi/2026/nelle-mani-dellaltro-storie-e-incontri-tra-generazioni-non
+ ni-e-nipoti-tra-le-pagine
+URL:https://www.bookcitymilano.it/eventi/2026/nelle-mani-dellaltro-storie-e
+ -incontri-tra-generazioni-nonni-e-nipoti-tra-le-pagine
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-la-casa-dalla-porticina-rossa-6-8-anni@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T100000
+DTEND;TZID=Europe/Rome:20261128T120000
+SUMMARY:La casa dalla porticina rossa (6-8 anni)
+LOCATION:Biblioteca Oglio (Via Oglio\, 18)
+DESCRIPTION:A cura del Centro Benedetta D’Intino ETS. BookCity · Bambine
+ /i e Ragazze/i\, Biblioteche\, Filosofia e Psicologia. BookCity: ingresso 
+ libero fino a esaurimento posti\, per alcuni incontri serve prenotare su b
+ ookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/la-casa-dalla-
+ porticina-rossa
+URL:https://www.bookcitymilano.it/eventi/2026/la-casa-dalla-porticina-rossa
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-creature-stra-lunate-a-verdana-laboratorio-di-st@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T100000
+DTEND;TZID=Europe/Rome:20261128T120000
+SUMMARY:Creature stra-lunate a Verdana. Laboratorio di stampa xilografica p
+ er bambini/e (7-10 anni)
+LOCATION:FrancoAngeli Academy (Viale dell'Innovazione\, 11)
+DESCRIPTION:Con Emanuela Mancino\, Roberto Gianinetti\, Elvis Crotti\, Manu
+ ela Fontolan e Giuseppe Schirone. BookCity · Bambine/i e Ragazze/i\, Univ
+ ersità. BookCity: ingresso libero fino a esaurimento posti\, per alcuni i
+ ncontri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.i
+ t/eventi/2026/creature-stra-lunate-laboratorio-di-stampa-xilografica-per-b
+ ambini
+URL:https://www.bookcitymilano.it/eventi/2026/creature-stra-lunate-laborato
+ rio-di-stampa-xilografica-per-bambini
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-piccole-storie-per-grandi-legami-3-6-anni@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T100000
+DTEND;TZID=Europe/Rome:20261128T120000
+SUMMARY:Piccole Storie per Grandi Legami (3-6 anni)
+LOCATION:I Baffi Libreria (Via Lepontina\, 13)
+DESCRIPTION:A cura di Consultorio La Famiglia - Fondazione Luciano Lazzaron
+ i ETS. BookCity · Bambine/i e Ragazze/i\, BCM 0-6. BookCity: ingresso lib
+ ero fino a esaurimento posti\, per alcuni incontri serve prenotare su book
+ citymilano.it. https://www.bookcitymilano.it/eventi/2026/piccole-storie-pe
+ r-grandi-legami-3-6-anni
+URL:https://www.bookcitymilano.it/eventi/2026/piccole-storie-per-grandi-leg
+ ami-3-6-anni
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-disegnare-la-luna-il-libro-delle-cose-perdute-e-@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T103000
+DTEND;TZID=Europe/Rome:20261128T123000
+SUMMARY:Disegnare la luna. Il libro delle cose perdute e ritrovate (3-6 ann
+ i)
+LOCATION:LABZEROSEI Parco Trotter (via Giuseppe Giacosa\, 44/46)
+DESCRIPTION:Con Marianna Busacca. BookCity · Bambine/i e Ragazze/i\, BCM 0
+ -6. BookCity: ingresso libero fino a esaurimento posti\, per alcuni incont
+ ri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eve
+ nti/2026/disegnare-la-luna-il-libro-delle-cose-perdute-e-ritrovate-3-6-ann
+ i
+URL:https://www.bookcitymilano.it/eventi/2026/disegnare-la-luna-il-libro-de
+ lle-cose-perdute-e-ritrovate-3-6-anni
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-il-viaggio-di-bibo-alla-scoperta-di-se-3-anni@acculturiamoci
+ .it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T103000
+DTEND;TZID=Europe/Rome:20261128T123000
+SUMMARY:Il viaggio di Bibò alla scoperta di sé (3+ anni)
+LOCATION:Biblioteca Tibaldi (Viale Tibaldi\, 41)
+DESCRIPTION:Con Daria Bertoni. BookCity · Bambine/i e Ragazze/i\, BCM 0-6\
+ , Biblioteche. BookCity: ingresso libero fino a esaurimento posti\, per al
+ cuni incontri serve prenotare su bookcitymilano.it. https://www.bookcitymi
+ lano.it/eventi/2026/il-viaggio-di-bibo-alla-scoperta-di-se
+URL:https://www.bookcitymilano.it/eventi/2026/il-viaggio-di-bibo-alla-scope
+ rta-di-se
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-un-burattino-senza-fili-4-10-anni@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T103000
+DTEND;TZID=Europe/Rome:20261128T123000
+SUMMARY:Un burattino senza fili (4-10 anni)
+LOCATION:Biblioteca Sant'Ambrogio (Via S. Paolino 18)
+DESCRIPTION:Lettura animata con laboratorio ispirato alle avventure di Pino
+ cchio. In occasione del bicentenario di Collodi\, leggeremo insieme alcuni
+  frammenti del famoso li. BookCity · Bambine/i e Ragazze/i\, BCM 0-6\, Bi
+ blioteche. BookCity: ingresso libero fino a esaurimento posti\, per alcuni
+  incontri serve prenotare su bookcitymilano.it. https://www.bookcitymilano
+ .it/eventi/2026/burattino-senza-fili
+URL:https://www.bookcitymilano.it/eventi/2026/burattino-senza-fili
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-sulle-tracce-di-un-libro-illustrato@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T103000
+DTEND;TZID=Europe/Rome:20261128T123000
+SUMMARY:Sulle tracce di un libro illustrato
+LOCATION:Biblioteca Harar (Via Albenga 2)
+DESCRIPTION:Con Massimo D'Onofrio. BookCity · Bambine/i e Ragazze/i\, Bibl
+ ioteche. BookCity: ingresso libero fino a esaurimento posti\, per alcuni i
+ ncontri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.i
+ t/eventi/2026/sulle-tracce-di-un-libro-illustrato
+URL:https://www.bookcitymilano.it/eventi/2026/sulle-tracce-di-un-libro-illu
+ strato
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-una-grande-scatola-per-un-grande-sogno-5-7-anni@acculturiamo
+ ci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T103000
+DTEND;TZID=Europe/Rome:20261128T123000
+SUMMARY:Una grande scatola per un grande sogno (5-7 anni)
+LOCATION:Biblioteca Sicilia (Via Sacco 14\, 20146)
+DESCRIPTION:Con Fulvia Degl'Innocenti. BookCity · Bambine/i e Ragazze/i\, 
+ BCM 0-6\, Biblioteche. BookCity: ingresso libero fino a esaurimento posti\
+ , per alcuni incontri serve prenotare su bookcitymilano.it. https://www.bo
+ okcitymilano.it/eventi/2026/una-grande-scatola-per-un-grande-sogno
+URL:https://www.bookcitymilano.it/eventi/2026/una-grande-scatola-per-un-gra
+ nde-sogno
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-il-senno-tra-le-rime-4-9-anni@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T103000
+DTEND;TZID=Europe/Rome:20261128T123000
+SUMMARY:Il senno tra le rime (4-9 anni)
+LOCATION:Il ParteciPrato (Via Luigi Giuseppe Faravelli\, 31)
+DESCRIPTION:Con Matteo De Canal. BookCity · Ariosto\, Bambine/i e Ragazze/
+ i\, BCM 0-6. BookCity: ingresso libero fino a esaurimento posti\, per alcu
+ ni incontri serve prenotare su bookcitymilano.it. https://www.bookcitymila
+ no.it/eventi/2026/il-senno-tra-le-rime
+URL:https://www.bookcitymilano.it/eventi/2026/il-senno-tra-le-rime
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-storie-per-crescere-letture-animate-dal-mondo-ba@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T103000
+DTEND;TZID=Europe/Rome:20261128T123000
+SUMMARY:Storie per crescere: letture animate dal mondo Babalibri (0-3 anni)
+LOCATION:Spazio Mamme Gallaratese (via Ojetti\, 20)
+DESCRIPTION:Con Barbara Archetti. BookCity · Bambine/i e Ragazze/i\, BCM 0
+ -6. BookCity: ingresso libero fino a esaurimento posti\, per alcuni incont
+ ri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eve
+ nti/2026/storie-per-crescere-letture-animate-dal-mondo-babalibri-0-3-anni
+URL:https://www.bookcitymilano.it/eventi/2026/storie-per-crescere-letture-a
+ nimate-dal-mondo-babalibri-0-3-anni
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-avventura-con-jules-verne-6-11-anni@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T104500
+DTEND;TZID=Europe/Rome:20261128T124500
+SUMMARY:Avventura con Jules Verne (6-11 anni)
+LOCATION:Biblioteca Affori (Viale Affori 21)
+DESCRIPTION:Un viaggio alla scoperta dei mondi fantastici di Jules Verne\, 
+ per scoprire il piacere di leggere vivendo l'avventura! Sarai coinvolto in
+  appassionanti narrazion. BookCity · Bambine/i e Ragazze/i\, Biblioteche.
+  BookCity: ingresso libero fino a esaurimento posti\, per alcuni incontri 
+ serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi
+ /2026/avventura-con-jules-verne
+URL:https://www.bookcitymilano.it/eventi/2026/avventura-con-jules-verne
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-errori-umani-e-robot-im-perfetti-lettura-animata@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T110000
+DTEND;TZID=Europe/Rome:20261128T130000
+SUMMARY:Errori umani e robot (im)perfetti. Lettura animata e laboratorio (7
+ -10 anni)
+LOCATION:MUBA Museo dei Bambini (via Enrico Besana 12)
+DESCRIPTION:Con Marco Dazzani. BookCity · Bambine/i e Ragazze/i. BookCity:
+  ingresso libero fino a esaurimento posti\, per alcuni incontri serve pren
+ otare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/erro
+ ri-umani-e-robot-imperfetti-lettura-animata-e-laboratorio
+URL:https://www.bookcitymilano.it/eventi/2026/errori-umani-e-robot-imperfet
+ ti-lettura-animata-e-laboratorio
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-parole-per-stare-bene-4-8-anni@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T110000
+DTEND;TZID=Europe/Rome:20261128T130000
+SUMMARY:Parole per stare bene (4-8 anni)
+LOCATION:Biblioteca Crescenzago (viale Don Orione 19)
+DESCRIPTION:Con Ilaria Nascente ed Eliana Bigatti. BookCity · Bambine/i e 
+ Ragazze/i\, BCM 0-6\, Biblioteche. BookCity: ingresso libero fino a esauri
+ mento posti\, per alcuni incontri serve prenotare su bookcitymilano.it. ht
+ tps://www.bookcitymilano.it/eventi/2026/parole-per-stare-bene-2
+URL:https://www.bookcitymilano.it/eventi/2026/parole-per-stare-bene-2
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-sulle-orme-di-marco-polo-5-8-anni@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T110000
+DTEND;TZID=Europe/Rome:20261128T130000
+SUMMARY:Sulle orme di Marco Polo (5-8 anni)
+LOCATION:Biblioteca Venezia (Via Frisi 2/4)
+DESCRIPTION:Seguiamo Marco Polo sulla Via della Seta: ogni tappa del suo vi
+ aggio è una scoperta di profumi\, luoghi e meraviglie. Insieme realizzere
+ mo dei "ricordi di viaggi. BookCity · Bambine/i e Ragazze/i\, Biblioteche
+ . BookCity: ingresso libero fino a esaurimento posti\, per alcuni incontri
+  serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/event
+ i/2026/sulle-orme-di-marco-polo
+URL:https://www.bookcitymilano.it/eventi/2026/sulle-orme-di-marco-polo
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-biancaneve@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T110000
+DTEND;TZID=Europe/Rome:20261128T130000
+SUMMARY:Biancaneve
+LOCATION:MaMu - Magazzino Musica (via Soave 3)
+DESCRIPTION:Con Anna Pedrazzini. BookCity · Bambine/i e Ragazze/i\, BCM 0-
+ 6\, Musica e Spettacolo. BookCity: ingresso libero fino a esaurimento post
+ i\, per alcuni incontri serve prenotare su bookcitymilano.it. https://www.
+ bookcitymilano.it/eventi/2026/biancaneve
+URL:https://www.bookcitymilano.it/eventi/2026/biancaneve
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-parola-dordine-miao-6-anni@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T110000
+DTEND;TZID=Europe/Rome:20261128T130000
+SUMMARY:Parola d’ordine: MIAO (6+ anni)
+LOCATION:Biblioteca Baggio (Via Pistoia 10)
+DESCRIPTION:Con Giorgia Conversi. BookCity · Bambine/i e Ragazze/i\, BCM 0
+ -6\, Biblioteche. BookCity: ingresso libero fino a esaurimento posti\, per
+  alcuni incontri serve prenotare su bookcitymilano.it. https://www.bookcit
+ ymilano.it/eventi/2026/parola-ordine-miao
+URL:https://www.bookcitymilano.it/eventi/2026/parola-ordine-miao
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-piccole-storie-per-grandi-legami-3-6-anni-2@acculturiamoci.i
+ t
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T110000
+DTEND;TZID=Europe/Rome:20261128T130000
+SUMMARY:Piccole Storie per Grandi Legami (3-6 anni)
+LOCATION:I Baffi Libreria (Via Lepontina\, 13)
+DESCRIPTION:A cura di Consultorio La Famiglia - Fondazione Luciano Lazzaron
+ i ETS. BookCity · Bambine/i e Ragazze/i\, BCM 0-6. BookCity: ingresso lib
+ ero fino a esaurimento posti\, per alcuni incontri serve prenotare su book
+ citymilano.it. https://www.bookcitymilano.it/eventi/2026/piccole-storie-pe
+ r-grandi-legami-3-6-anni-2
+URL:https://www.bookcitymilano.it/eventi/2026/piccole-storie-per-grandi-leg
+ ami-3-6-anni-2
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-fumetto-patrimonio-della-comunita-laboratorio-8-@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T113000
+DTEND;TZID=Europe/Rome:20261128T133000
+SUMMARY:Fumetto. Patrimonio della comunità: laboratorio (8-11 anni)
+LOCATION:It Comics - Associazione Culturale - It Space (Via Agilulfo 5)
+DESCRIPTION:Con Vorticerosa. BookCity · Bambine/i e Ragazze/i\, Fumetto e 
+ Illustrazione. BookCity: ingresso libero fino a esaurimento posti\, per al
+ cuni incontri serve prenotare su bookcitymilano.it. https://www.bookcitymi
+ lano.it/eventi/2026/fumetto-patrimonio-della-comunita-laboratorio
+URL:https://www.bookcitymilano.it/eventi/2026/fumetto-patrimonio-della-comu
+ nita-laboratorio
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-cari-tutti-buon-natale-5-7-anni@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T143000
+DTEND;TZID=Europe/Rome:20261128T163000
+SUMMARY:Cari tutti\, Buon Natale! (5-7 anni)
+LOCATION:MUBA Museo dei Bambini (via Enrico Besana 12)
+DESCRIPTION:Con Vittoria Rosenthal Manetti e Silvia Pavesi. BookCity · Bam
+ bine/i e Ragazze/i\, BCM 0-6. BookCity: ingresso libero fino a esaurimento
+  posti\, per alcuni incontri serve prenotare su bookcitymilano.it. https:/
+ /www.bookcitymilano.it/eventi/2026/cari-tutti-buon-natale
+URL:https://www.bookcitymilano.it/eventi/2026/cari-tutti-buon-natale
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-nelle-mani-dellaltro-storie-e-incontri-tra-gener-2@acculturi
+ amoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T143000
+DTEND;TZID=Europe/Rome:20261128T163000
+SUMMARY:Nelle mani dell’altro. Storie e incontri tra generazioni: nonni e
+  nipoti\, a mano libera
+LOCATION:Casa di Quartiere Garibaldi (via Giorgio Strehler 2 (angolo Corso 
+ Garibaldi\, 27))
+DESCRIPTION:Con Virginia Legori. BookCity · Bambine/i e Ragazze/i\, BCM So
+ ciale. BookCity: ingresso libero fino a esaurimento posti\, per alcuni inc
+ ontri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/
+ eventi/2026/nelle-mani-dellaltro-storie-e-incontri-tra-generazioni-nonni-e
+ -nipoti-a-mano-libera
+URL:https://www.bookcitymilano.it/eventi/2026/nelle-mani-dellaltro-storie-e
+ -incontri-tra-generazioni-nonni-e-nipoti-a-mano-libera
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-tocchiamo-la-luna-5-anni@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T150000
+DTEND;TZID=Europe/Rome:20261128T170000
+SUMMARY:Tocchiamo la luna! (5+ anni)
+LOCATION:Laboratorio Co.Cotte (Via Mamiani 3)
+DESCRIPTION:Con Annalisa Donadono\, Francesca Cerri e Lola Barcelò. BookCi
+ ty · Bambine/i e Ragazze/i\, BCM 0-6\, Via Padova. BookCity: ingresso lib
+ ero fino a esaurimento posti\, per alcuni incontri serve prenotare su book
+ citymilano.it. https://www.bookcitymilano.it/eventi/2026/tocchiamo-la-luna
+URL:https://www.bookcitymilano.it/eventi/2026/tocchiamo-la-luna
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-emozioni-e-sentimenti-un-viaggio-tra-educazione-@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T150000
+DTEND;TZID=Europe/Rome:20261128T170000
+SUMMARY:Emozioni e sentimenti. Un viaggio tra educazione affettiva ed emoti
+ va (5+ anni)
+LOCATION:Libreria Feltrinelli Corso Buenos Aires (Corso Buenos Aires 33)
+DESCRIPTION:Con Barbara Franco. BookCity · Bambine/i e Ragazze/i\, Romance
+  e Sentimenti. BookCity: ingresso libero fino a esaurimento posti\, per al
+ cuni incontri serve prenotare su bookcitymilano.it. https://www.bookcitymi
+ lano.it/eventi/2026/emozioni-e-sentimenti-viaggio-tra-educazione-affettiva
+ -ed-educazione-emotiva
+URL:https://www.bookcitymilano.it/eventi/2026/emozioni-e-sentimenti-viaggio
+ -tra-educazione-affettiva-ed-educazione-emotiva
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-nello-spazio-tra-le-stelle-6-13-anni@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T150000
+DTEND;TZID=Europe/Rome:20261128T170000
+SUMMARY:Nello spazio tra le stelle (6-13 anni)
+LOCATION:Spazio Kolbe (Viale Corsica\, 68)
+DESCRIPTION:Con Silvia Gelmini. BookCity · Bambine/i e Ragazze/i. BookCity
+ : ingresso libero fino a esaurimento posti\, per alcuni incontri serve pre
+ notare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/nel
+ lo-spazio-tra-le-stelle
+URL:https://www.bookcitymilano.it/eventi/2026/nello-spazio-tra-le-stelle
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-l-avventura-di-scalare-me-stessa-l-utopia-della-@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T150000
+DTEND;TZID=Europe/Rome:20261128T170000
+SUMMARY:L'avventura di scalare me stessa. L'utopia della vita (11+ anni)
+LOCATION:Biblioteca Tibaldi (Viale Tibaldi\, 41)
+DESCRIPTION:Con Hiroko Francesca Hara e Bruno Arcuri. BookCity · Bambine/i
+  e Ragazze/i\, Biblioteche. BookCity: ingresso libero fino a esaurimento p
+ osti\, per alcuni incontri serve prenotare su bookcitymilano.it. https://w
+ ww.bookcitymilano.it/eventi/2026/lavventura-di-scalare-me-stessa-lutopia-d
+ ella-vita
+URL:https://www.bookcitymilano.it/eventi/2026/lavventura-di-scalare-me-stes
+ sa-lutopia-della-vita
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-fila-a-nanna-zizi-e-il-compasso-scomparso-4-anni@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T150000
+DTEND;TZID=Europe/Rome:20261128T170000
+SUMMARY:Fila a nanna. Zizì e il Compasso scomparso (4+ anni)
+LOCATION:ADI Design Museum (Piazza Compasso d'Oro\, 1\, 20154 MI\, Italy)
+DESCRIPTION:Con gli attori di Casa Teatro Ragazzi e Giovani di Torino. Book
+ City · Bambine/i e Ragazze/i\, BCM 0-6. BookCity: ingresso libero fino a 
+ esaurimento posti\, per alcuni incontri serve prenotare su bookcitymilano.
+ it. https://www.bookcitymilano.it/eventi/2026/fila-a-nanna-zizi-e-il-compa
+ sso-scomparso-4-anni
+URL:https://www.bookcitymilano.it/eventi/2026/fila-a-nanna-zizi-e-il-compas
+ so-scomparso-4-anni
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-disegnare-la-luna-il-libro-delle-cose-perdute-e--2@acculturi
+ amoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T153000
+DTEND;TZID=Europe/Rome:20261128T173000
+SUMMARY:Disegnare la luna. Il libro delle cose perdute e ritrovate (3-6 ann
+ i)
+LOCATION:LABZEROSEI Parco Trotter (via Giuseppe Giacosa\, 44/46)
+DESCRIPTION:Con Marianna Busacca. BookCity · Bambine/i e Ragazze/i\, BCM 0
+ -6. BookCity: ingresso libero fino a esaurimento posti\, per alcuni incont
+ ri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eve
+ nti/2026/disegnare-la-luna-il-libro-delle-cose-perdute-e-ritrovate-3-6-ann
+ i-2
+URL:https://www.bookcitymilano.it/eventi/2026/disegnare-la-luna-il-libro-de
+ lle-cose-perdute-e-ritrovate-3-6-anni-2
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-camillo-e-il-segreto-della-mezzanotte-8-12-anni@acculturiamo
+ ci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T160000
+DTEND;TZID=Europe/Rome:20261128T180000
+SUMMARY:Camillo e il segreto della mezzanotte (8-12 anni)
+LOCATION:MUBA Museo dei Bambini (via Enrico Besana 12)
+DESCRIPTION:Con Francesco Carofiglio. BookCity · Bambine/i e Ragazze/i. Bo
+ okCity: ingresso libero fino a esaurimento posti\, per alcuni incontri ser
+ ve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/20
+ 26/camillo-e-il-segreto-della-mezzanotte
+URL:https://www.bookcitymilano.it/eventi/2026/camillo-e-il-segreto-della-me
+ zzanotte
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-emozioni-in-fiamme-4-anni@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T160000
+DTEND;TZID=Europe/Rome:20261128T180000
+SUMMARY:Emozioni in fiamme (4+ anni)
+LOCATION:Biblioteca Crescenzago (viale Don Orione 19)
+DESCRIPTION:Con Ilaria Perversi. BookCity · Bambine/i e Ragazze/i\, BCM 0-
+ 6\, Biblioteche. BookCity: ingresso libero fino a esaurimento posti\, per 
+ alcuni incontri serve prenotare su bookcitymilano.it. https://www.bookcity
+ milano.it/eventi/2026/emozioni-in-fiamme
+URL:https://www.bookcitymilano.it/eventi/2026/emozioni-in-fiamme
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-se-fossi-ugo-e-se-essere-strani-fosse-normalissi@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T160000
+DTEND;TZID=Europe/Rome:20261128T180000
+SUMMARY:Se fossi Ugo. E se essere strani fosse normalissimo? (5-10 anni)
+LOCATION:Spazio Case Nuove (Via Don Gnocchi 37/c)
+DESCRIPTION:Una mattina Ugo si sveglia e non è più lo stesso: un giorno 
+ è tutto ghirigoro\, un altro puntinato\, un altro ancora tratteggiato. A 
+ partire dalla lettura di "Se . BookCity · Bambine/i e Ragazze/i. BookCity
+ : ingresso libero fino a esaurimento posti\, per alcuni incontri serve pre
+ notare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/se-
+ fossi-ugo-e-se-essere-strani-fosse-normalissimo
+URL:https://www.bookcitymilano.it/eventi/2026/se-fossi-ugo-e-se-essere-stra
+ ni-fosse-normalissimo
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-non-credo-ai-miei-occhi-immagini-ambigue-linee-b@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T160000
+DTEND;TZID=Europe/Rome:20261128T180000
+SUMMARY:Non credo ai miei occhi. Immagini ambigue\, linee bislacche\, scale
+  impossibili... fino a vedere l’invisibile! (6-10 anni)
+LOCATION:Biblioteca Niguarda (Via Passerini 5)
+DESCRIPTION:Viaggio nel magico mondo delle illusioni ottiche. Laboratorio p
+ er bambini a cura di Leo ScienzaCos’è un’illusione ottica? Quando il 
+ senso della vista ci inganna. BookCity · Bambine/i e Ragazze/i\, Bibliote
+ che. BookCity: ingresso libero fino a esaurimento posti\, per alcuni incon
+ tri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/ev
+ enti/2026/non-credo-ai-miei-occhi
+URL:https://www.bookcitymilano.it/eventi/2026/non-credo-ai-miei-occhi
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-piccole-storie-per-grandi-legami@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T160000
+DTEND;TZID=Europe/Rome:20261128T180000
+SUMMARY:Piccole Storie per Grandi Legami
+LOCATION:Consultorio La Famiglia (via Arese 18)
+DESCRIPTION:A cura di Consultorio La Famiglia - Fondazione Luciano Lazzaron
+ i ETS. BookCity · BCM 0-6\, Filosofia e Psicologia. BookCity: ingresso li
+ bero fino a esaurimento posti\, per alcuni incontri serve prenotare su boo
+ kcitymilano.it. https://www.bookcitymilano.it/eventi/2026/piccole-storie-p
+ er-grandi-legami
+URL:https://www.bookcitymilano.it/eventi/2026/piccole-storie-per-grandi-leg
+ ami
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-circoluna-circo-teatro-d-ombre-2-5-anni@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261128T163000
 DTEND;TZID=Europe/Rome:20261128T183000
 SUMMARY:Circoluna\, circo-teatro d'ombre (2-5 anni)
@@ -38,8 +699,52 @@ URL:https://teatrofrancoparenti.it/spettacolo/circoluna/
 CATEGORIES:Famiglie
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-biriki-gioca-con-bibo-3-6-anni@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T163000
+DTEND;TZID=Europe/Rome:20261128T183000
+SUMMARY:Biriki gioca con Bibo (3-6 anni)
+LOCATION:Libreria Aribac (Via Porpora 62)
+DESCRIPTION:Con Bruna Ferrazzini e Fabrizio Brusorio. BookCity · Bambine/i
+  e Ragazze/i\, BCM 0-6. BookCity: ingresso libero fino a esaurimento posti
+ \, per alcuni incontri serve prenotare su bookcitymilano.it. https://www.b
+ ookcitymilano.it/eventi/2026/biriki-gioca-con-bibo-3-6-anni
+URL:https://www.bookcitymilano.it/eventi/2026/biriki-gioca-con-bibo-3-6-ann
+ i
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-o-tutti-o-nessuno-lettura-animata-3-anni@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T163000
+DTEND;TZID=Europe/Rome:20261128T183000
+SUMMARY:O tutti o nessuno. Lettura animata (3+ anni)
+LOCATION:Libraccio Corsico (Via Corsico\, 9)
+DESCRIPTION:Con Fulvia Degl'Innocenti. BookCity · Bambine/i e Ragazze/i\, 
+ BCM 0-6. BookCity: ingresso libero fino a esaurimento posti\, per alcuni i
+ ncontri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.i
+ t/eventi/2026/o-tutti-o-nessuno-lettura-animata
+URL:https://www.bookcitymilano.it/eventi/2026/o-tutti-o-nessuno-lettura-ani
+ mata
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-le-piccole-streghe-del-bosco@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T163000
+DTEND;TZID=Europe/Rome:20261128T183000
+SUMMARY:Le piccole streghe del bosco
+LOCATION:Scamamú - libri\, giochi e spazio
+DESCRIPTION:Con Martina Naldi. BookCity · Bambine/i e Ragazze/i\, Fumetto 
+ e Illustrazione. BookCity: ingresso libero fino a esaurimento posti\, per 
+ alcuni incontri serve prenotare su bookcitymilano.it. https://www.bookcity
+ milano.it/eventi/2026/le-piccole-streghe-del-bosco
+URL:https://www.bookcitymilano.it/eventi/2026/le-piccole-streghe-del-bosco
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-visite-e-laboratori-per-famiglie@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Visite e laboratori per famiglie
@@ -49,8 +754,57 @@ URL:https://mentelocale.it/milano/eventi/
 CATEGORIES:Famiglie
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-giocare-e-una-cosa-seria-5-8-anni@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T100000
+DTEND;TZID=Europe/Rome:20261129T120000
+SUMMARY:Giocare è una cosa seria (5-8 anni)
+LOCATION:MUBA Museo dei Bambini (via Enrico Besana 12)
+DESCRIPTION:Con Claudio Gobbetti. BookCity · Bambine/i e Ragazze/i\, BCM 0
+ -6. BookCity: ingresso libero fino a esaurimento posti\, per alcuni incont
+ ri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eve
+ nti/2026/giocare-e-una-cosa-seria
+URL:https://www.bookcitymilano.it/eventi/2026/giocare-e-una-cosa-seria
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-attenti-alle-storie-fanno-viaggiare-lontano-0-6-@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T100000
+DTEND;TZID=Europe/Rome:20261129T120000
+SUMMARY:Attenti alle Storie! Fanno viaggiare lontano (0-6 anni)
+LOCATION:LABZEROSEI Parco Trotter (via Giuseppe Giacosa\, 44/46)
+DESCRIPTION:LABZEROSEI invita bambine e bambini a una sperimentazione unica
+ !&nbsp\;“Toccare guardare\, scoprire!”: una proposta per avvicinarsi a
+ l libro ancora prima di saper. BookCity · Bambine/i e Ragazze/i\, BCM 0-6
+ . BookCity: ingresso libero fino a esaurimento posti\, per alcuni incontri
+  serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/event
+ i/2026/attenti-alle-storie-fanno-viaggiare-lontano-0-6-anni-2
+URL:https://www.bookcitymilano.it/eventi/2026/attenti-alle-storie-fanno-via
+ ggiare-lontano-0-6-anni-2
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-gatton-letture-0-3-anni@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T103000
+DTEND;TZID=Europe/Rome:20261129T123000
+SUMMARY:Gatton Letture (0-3 anni)
+LOCATION:Mondadori Bookstore - Corso Buenos Aires 48 (Corso Buenos Aires\, 
+ 48)
+DESCRIPTION:Evento per bambini 0-3 per esplorare insieme libri sensoriali s
+ onori e tattili e permettere ai piccolissimi di vivere nuove esperienze fu
+ ori dall'ambiente domes. BookCity · Bambine/i e Ragazze/i. BookCity: ingr
+ esso libero fino a esaurimento posti\, per alcuni incontri serve prenotare
+  su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/gatton-le
+ tture-0-3-anni
+URL:https://www.bookcitymilano.it/eventi/2026/gatton-letture-0-3-anni
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-bookcity-0-6@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261129T110000
 DTEND;TZID=Europe/Rome:20261129T130000
 SUMMARY:BookCity 0-6
@@ -62,9 +816,59 @@ URL:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntam
 CATEGORIES:Famiglie
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-letture-ad-alta-voce-4-6-anni@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T110000
+DTEND;TZID=Europe/Rome:20261129T130000
+SUMMARY:Letture ad alta voce (4-6 anni)
+LOCATION:Fondazione Luigi Rovati - Sala Conferenze (Corso Venezia\, 52\, 20
+ 121 MI)
+DESCRIPTION:Con i volontari del Patto di Milano per la lettura. BookCity ·
+  Bambine/i e Ragazze/i\, BCM 0-6. BookCity: ingresso libero fino a esaurim
+ ento posti\, per alcuni incontri serve prenotare su bookcitymilano.it. htt
+ ps://www.bookcitymilano.it/eventi/2026/letture-ad-alta-voce-4-6-anni
+URL:https://www.bookcitymilano.it/eventi/2026/letture-ad-alta-voce-4-6-anni
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-coltivare-linfanzia-semi-e-storie-per-accompagna@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T110000
+DTEND;TZID=Europe/Rome:20261129T130000
+SUMMARY:Coltivare l’infanzia. Semi e storie per accompagnare i passaggi d
+ ella crescita
+LOCATION:Casa della Psicologia (Piazza Castello\, 2)
+DESCRIPTION:Con Simona Vigoni e Maria Teresa Nardi. Modera Silvia Iaccarino
+ . BookCity · Bambine/i e Ragazze/i\, BCM 0-6\, Filosofia e Psicologia. Bo
+ okCity: ingresso libero fino a esaurimento posti\, per alcuni incontri ser
+ ve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/20
+ 26/coltivare-linfanzia-semi-e-storie-per-accompagnare-i-passaggi-della-cre
+ scita
+URL:https://www.bookcitymilano.it/eventi/2026/coltivare-linfanzia-semi-e-st
+ orie-per-accompagnare-i-passaggi-della-crescita
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-laboratorio-kids-una-storia-senza-parole-per-div@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T110000
+DTEND;TZID=Europe/Rome:20261129T130000
+SUMMARY:Laboratorio kids. Una storia senza parole per diventare amici
+LOCATION:Libreria Feltrinelli Corso Buenos Aires (Corso Buenos Aires 33)
+DESCRIPTION:Con Melina Lebel. BookCity · Bambine/i e Ragazze/i. BookCity: 
+ ingresso libero fino a esaurimento posti\, per alcuni incontri serve preno
+ tare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/labor
+ atorio-kids-una-storia-senza-parole-per-diventare-amici
+URL:https://www.bookcitymilano.it/eventi/2026/laboratorio-kids-una-storia-s
+ enza-parole-per-diventare-amici
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-avatar-tra-anime-e-manga-laboratorio-8-16-anni@acculturiamoc
  i.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261129T111500
 DTEND;TZID=Europe/Rome:20261129T131500
 SUMMARY:Avatar: tra anime e manga (laboratorio 8-16 anni)
@@ -77,7 +881,7 @@ CATEGORIES:Famiglie
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-buon-compleanno-gus@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261129T113000
 DTEND;TZID=Europe/Rome:20261129T133000
 SUMMARY:Buon compleanno Gus!
@@ -89,9 +893,88 @@ URL:https://www.sinfonicadimilano.org/it/eventi/2026-27/uon-compleanno-gus-
 CATEGORIES:Famiglie
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-la-stoffa-dei-sogni-10-12-anni@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T113000
+DTEND;TZID=Europe/Rome:20261129T133000
+SUMMARY:La stoffa dei sogni (10-12 anni)
+LOCATION:MUBA Museo dei Bambini (via Enrico Besana 12)
+DESCRIPTION:Con Lucia Stipari. BookCity · Bambine/i e Ragazze/i. BookCity:
+  ingresso libero fino a esaurimento posti\, per alcuni incontri serve pren
+ otare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/la-s
+ toffa-dei-sogni
+URL:https://www.bookcitymilano.it/eventi/2026/la-stoffa-dei-sogni
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-attenti-alle-storie-fanno-viaggiare-lontano-0-6--2@acculturi
+ amoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T113000
+DTEND;TZID=Europe/Rome:20261129T133000
+SUMMARY:Attenti alle Storie! Fanno viaggiare lontano (0-6 anni)
+LOCATION:LABZEROSEI Parco Trotter (via Giuseppe Giacosa\, 44/46)
+DESCRIPTION:LABZEROSEI invita bambine e bambini a una sperimentazione unica
+ !&nbsp\;“Toccare\, guardare\, scoprire!”: una proposta per avvicinarsi
+  al libro ancora prima di sape. BookCity · Bambine/i e Ragazze/i\, BCM 0-
+ 6. BookCity: ingresso libero fino a esaurimento posti\, per alcuni incontr
+ i serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/even
+ ti/2026/attenti-alle-storie-fanno-viaggiare-lontano-0-6-anni-3
+URL:https://www.bookcitymilano.it/eventi/2026/attenti-alle-storie-fanno-via
+ ggiare-lontano-0-6-anni-3
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-il-castello-delle-sfide-8-12-anni@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T143000
+DTEND;TZID=Europe/Rome:20261129T163000
+SUMMARY:Il castello delle sfide (8-12 anni)
+LOCATION:MUBA Museo dei Bambini (via Enrico Besana 12)
+DESCRIPTION:Con Alice Basso. BookCity · Bambine/i e Ragazze/i. BookCity: i
+ ngresso libero fino a esaurimento posti\, per alcuni incontri serve prenot
+ are su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/il-cas
+ tello-delle-sfide
+URL:https://www.bookcitymilano.it/eventi/2026/il-castello-delle-sfide
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-attenti-alle-storie-fanno-viaggiare-lontano-0-6--3@acculturi
+ amoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T143000
+DTEND;TZID=Europe/Rome:20261129T163000
+SUMMARY:Attenti alle Storie! Fanno viaggiare lontano (0-6 anni)
+LOCATION:LABZEROSEI Parco Trotter (via Giuseppe Giacosa\, 44/46)
+DESCRIPTION:LABZEROSEI invita bambine e bambini a una sperimentazione unica
+ !&nbsp\;“Toccare\, guardare\, scoprire!”: una proposta per avvicinarsi
+  al libro ancora prima di sape. BookCity · Bambine/i e Ragazze/i\, BCM 0-
+ 6. BookCity: ingresso libero fino a esaurimento posti\, per alcuni incontr
+ i serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/even
+ ti/2026/attenti-alle-storie-fanno-viaggiare-lontano-0-6-anni-4
+URL:https://www.bookcitymilano.it/eventi/2026/attenti-alle-storie-fanno-via
+ ggiare-lontano-0-6-anni-4
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-polvere-di-stelle@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T150000
+DTEND;TZID=Europe/Rome:20261129T170000
+SUMMARY:Polvere di stelle
+LOCATION:Ambrosius - Oratorio della Passione (Piazza Sant'Ambrogio\, 23)
+DESCRIPTION:Con Amalia Ercoli Finzi\, Elvina Finzi e Tommaso Tirelli. BookC
+ ity · Ambiente\, Scienza e Natura\, Bambine/i e Ragazze/i. BookCity: ingr
+ esso libero fino a esaurimento posti\, per alcuni incontri serve prenotare
+  su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/polvere-d
+ i-stelle
+URL:https://www.bookcitymilano.it/eventi/2026/polvere-di-stelle
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-ciak-si-gira-con-lo-smartphone-laboratorio-8-16-@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261129T151500
 DTEND;TZID=Europe/Rome:20261129T171500
 SUMMARY:Ciak\, si gira con lo smartphone! (laboratorio 8-16 anni)
@@ -104,8 +987,61 @@ URL:https://www.steptothefuture.it/it/agenda/ciak-si-gira-con-lo-smartphone
 CATEGORIES:Famiglie
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-oops-lettura-e-laboratorio-3-6-anni@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T160000
+DTEND;TZID=Europe/Rome:20261129T180000
+SUMMARY:Oops! Lettura e laboratorio (3-6 anni)
+LOCATION:MUBA Museo dei Bambini (via Enrico Besana 12)
+DESCRIPTION:Con Maria Cappello e Ivana Simonelli. BookCity · Bambine/i e R
+ agazze/i\, BCM 0-6. BookCity: ingresso libero fino a esaurimento posti\, p
+ er alcuni incontri serve prenotare su bookcitymilano.it. https://www.bookc
+ itymilano.it/eventi/2026/oops-lettura-e-laboratorio
+URL:https://www.bookcitymilano.it/eventi/2026/oops-lettura-e-laboratorio
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-geronimo-stilton-e-una-nuova-missione-stratopica@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T160000
+DTEND;TZID=Europe/Rome:20261129T180000
+SUMMARY:Geronimo Stilton e una nuova missione stratopica per il nostro Pian
+ eta! (0-6 anni)
+LOCATION:Acquario Civico di Milano - Sala Conferenze (Viale G. B. Gadio\, 2
+ )
+DESCRIPTION:Vieni a conoscere il topogiornalista più amato dai ragazzi in 
+ uno stratopico spettacolo! Geronimo racconterà la sua storia e il suo mon
+ do e ci accompagnerà in u. BookCity · Bambine/i e Ragazze/i\, BCM 0-6\, 
+ Musica e Spettacolo. BookCity: ingresso libero fino a esaurimento posti\, 
+ per alcuni incontri serve prenotare su bookcitymilano.it. https://www.book
+ citymilano.it/eventi/2026/geronimo-stilton-e-una-nuova-missione-stratopica
+ -per-il-nostro-pianeta-0-6-anni
+URL:https://www.bookcitymilano.it/eventi/2026/geronimo-stilton-e-una-nuova-
+ missione-stratopica-per-il-nostro-pianeta-0-6-anni
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-attenti-alle-storie-fanno-viaggiare-lontano-0-6--4@acculturi
+ amoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T160000
+DTEND;TZID=Europe/Rome:20261129T180000
+SUMMARY:Attenti alle Storie! Fanno viaggiare lontano (0-6 anni)
+LOCATION:LABZEROSEI Parco Trotter (via Giuseppe Giacosa\, 44/46)
+DESCRIPTION:LABZEROSEI invita bambine e bambini a una sperimentazione unica
+ !&nbsp\;“Toccare\, guardare\, scoprire!”: una proposta per avvicinarsi
+  al libro ancora prima di sape. BookCity · Bambine/i e Ragazze/i\, BCM 0-
+ 6. BookCity: ingresso libero fino a esaurimento posti\, per alcuni incontr
+ i serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/even
+ ti/2026/attenti-alle-storie-fanno-viaggiare-lontano-0-6-anni-5
+URL:https://www.bookcitymilano.it/eventi/2026/attenti-alle-storie-fanno-via
+ ggiare-lontano-0-6-anni-5
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-circoluna-circo-teatro-d-ombre-2-5-anni@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261129T163000
 DTEND;TZID=Europe/Rome:20261129T183000
 SUMMARY:Circoluna\, circo-teatro d'ombre (2-5 anni)
@@ -117,8 +1053,25 @@ URL:https://teatrofrancoparenti.it/spettacolo/circoluna/
 CATEGORIES:Famiglie
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-linfinito-nel-piu-piccolo-ti-racconto-il-natale-@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T170000
+DTEND;TZID=Europe/Rome:20261129T190000
+SUMMARY:L’infinito nel più piccolo. Ti racconto il Natale (3-9 anni)
+LOCATION:PIME - Pontificio Istituto Missioni Estere - Museo Popoli e Cultur
+ e (Via Monte Rosa\, 81)
+DESCRIPTION:Con Silvio Boselli. BookCity · Bambine/i e Ragazze/i. BookCity
+ : ingresso libero fino a esaurimento posti\, per alcuni incontri serve pre
+ notare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/lin
+ finito-nel-piu-piccolo-ti-racconto-il-natale-3-9-anni
+URL:https://www.bookcitymilano.it/eventi/2026/linfinito-nel-piu-piccolo-ti-
+ racconto-il-natale-3-9-anni
+CATEGORIES:Famiglie
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-gli-elfi-di-babbo-natale@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Gli elfi di Babbo Natale
@@ -133,7 +1086,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-controvento-bolle-di-sapone-e-clownerie-da-3-ann@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261207T163000
 DTEND;TZID=Europe/Rome:20261207T183000
 SUMMARY:Controvento\, bolle di sapone e clownerie (da 3 anni)
@@ -147,7 +1100,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-controvento-bolle-di-sapone-e-clownerie-da-3-ann@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261208T163000
 DTEND;TZID=Europe/Rome:20261208T183000
 SUMMARY:Controvento\, bolle di sapone e clownerie (da 3 anni)
@@ -160,7 +1113,7 @@ CATEGORIES:Famiglie
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-hana-e-momo-3-8-anni@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261212T163000
 DTEND;TZID=Europe/Rome:20261212T183000
 SUMMARY:Hanà e Momò (3-8 anni)
@@ -173,7 +1126,7 @@ CATEGORIES:Famiglie
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-hana-e-momo-3-8-anni@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261213T163000
 DTEND;TZID=Europe/Rome:20261213T183000
 SUMMARY:Hanà e Momò (3-8 anni)
@@ -187,7 +1140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-cappuccetto-rosso-nella-pancia-del-lupo-da-5-ann@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261219T163000
 DTEND;TZID=Europe/Rome:20261219T183000
 SUMMARY:Cappuccetto Rosso. Nella pancia del Lupo (da 5 anni)
@@ -203,7 +1156,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-cappuccetto-rosso-nella-pancia-del-lupo-da-5-ann@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261220T163000
 DTEND;TZID=Europe/Rome:20261220T183000
 SUMMARY:Cappuccetto Rosso. Nella pancia del Lupo (da 5 anni)

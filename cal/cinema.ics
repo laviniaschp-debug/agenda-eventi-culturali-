@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-presentazione-de-il-morandini-2026@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261124T190000
 DTEND;TZID=Europe/Rome:20261124T210000
 SUMMARY:Presentazione de Il Morandini 2026
@@ -39,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-qui-non-c-e-nessuna-donna-il-film-su-ingeborg-ba@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261125T213000
 DTEND;TZID=Europe/Rome:20261125T233000
 SUMMARY:Qui non c'è nessuna donna: il film su Ingeborg Bachmann
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-150-anni-corriere-della-sera-il-racconto-dell-it@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:150 anni Corriere della Sera. Il racconto dell'Italia: proiezione
@@ -68,7 +68,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-masterclass-con-laura-citarella@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261128T100000
 DTEND;TZID=Europe/Rome:20261128T120000
 SUMMARY:Masterclass con Laura Citarella
@@ -80,7 +80,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-e-andata-cosi-lezione-di-cinema@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261128T103000
 DTEND;TZID=Europe/Rome:20261128T123000
 SUMMARY:È andata così: lezione di cinema
@@ -95,8 +95,108 @@ URL:https://www.spaziocinema.info/milano/eventi-e-rassegne/e-andata-cosi-le
 CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-a-caccia-di-edward-hopper-nei-film@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T103000
+DTEND;TZID=Europe/Rome:20261128T123000
+SUMMARY:A caccia di Edward Hopper nei film
+LOCATION:Noise (Via Ascanio Sforza 49)
+DESCRIPTION:Con Ilaria Floreano\, Claudio Bartolini e Giancarlo Grossini. B
+ ookCity · Arte\, Fotografia\, Moda\, Cinema e Televisione. BookCity: ingr
+ esso libero fino a esaurimento posti\, per alcuni incontri serve prenotare
+  su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/a-caccia-
+ di-edward-hopper-nei-film
+URL:https://www.bookcitymilano.it/eventi/2026/a-caccia-di-edward-hopper-nei
+ -film
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-occhi-aperti@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T110000
+DTEND;TZID=Europe/Rome:20261128T130000
+SUMMARY:Occhi aperti
+LOCATION:Anteo Palazzo del Cinema - Abanella (Piazza Venticinque Aprile\, 8
+ \, 20121 MI)
+DESCRIPTION:Con Maurizio Nichetti. BookCity · Cinema e Televisione. BookCi
+ ty: ingresso libero fino a esaurimento posti\, per alcuni incontri serve p
+ renotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/a
+ -occhi-aperti
+URL:https://www.bookcitymilano.it/eventi/2026/a-occhi-aperti
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-dalla-russia-alla-russia-con-amore-quarant-anni-@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T120000
+DTEND;TZID=Europe/Rome:20261128T140000
+SUMMARY:Dalla Russia alla Russia con amore. Quarant'anni senza Andrej Tarko
+ vskij
+LOCATION:Noise (Via Ascanio Sforza 49)
+DESCRIPTION:Con Fabio Zuffanti e Ilaria Floreano. BookCity · Anniversari\,
+  Cinema e Televisione\, Storia. BookCity: ingresso libero fino a esaurimen
+ to posti\, per alcuni incontri serve prenotare su bookcitymilano.it. https
+ ://www.bookcitymilano.it/eventi/2026/dalla-russia-alla-russia-con-amore-qu
+ arantanni-anni-senza-andrej-tarkovskij
+URL:https://www.bookcitymilano.it/eventi/2026/dalla-russia-alla-russia-con-
+ amore-quarantanni-anni-senza-andrej-tarkovskij
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-la-ragione-in-rivolta-marco-bellocchio-tra-vita-@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T143000
+DTEND;TZID=Europe/Rome:20261128T163000
+SUMMARY:La ragione in rivolta. Marco Bellocchio tra vita\, cinema e potere
+LOCATION:Anteo Palazzo del Cinema - Nobel (Piazza Venticinque Aprile\, 8\, 
+ 20121 MI)
+DESCRIPTION:Con Marco Longo\, Davide Palella e Leonardo Strano. BookCity ·
+  Cinema e Televisione. BookCity: ingresso libero fino a esaurimento posti\
+ , per alcuni incontri serve prenotare su bookcitymilano.it. https://www.bo
+ okcitymilano.it/eventi/2026/la-ragione-in-rivolta-marco-bellocchio-tra-vit
+ a-cinema-e-potere
+URL:https://www.bookcitymilano.it/eventi/2026/la-ragione-in-rivolta-marco-b
+ ellocchio-tra-vita-cinema-e-potere
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-hou-hsiao-hsien-cinema-e-lezioni-taiwanesi@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T143000
+DTEND;TZID=Europe/Rome:20261128T163000
+SUMMARY:Hou Hsiao-hsien. Cinema e lezioni taiwanesi
+LOCATION:Noise (Via Ascanio Sforza 49)
+DESCRIPTION:Con Clara Longhi e Jessica Miliardo. BookCity · Cinema e Telev
+ isione\, Identità e Culture. BookCity: ingresso libero fino a esaurimento
+  posti\, per alcuni incontri serve prenotare su bookcitymilano.it. https:/
+ /www.bookcitymilano.it/eventi/2026/hou-hsiao-hsien-cinema-e-lezioni-taiwan
+ esi
+URL:https://www.bookcitymilano.it/eventi/2026/hou-hsiao-hsien-cinema-e-lezi
+ oni-taiwanesi
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-le-fotografe-del-cinema-nellitalia-del-dopoguerr@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T150000
+DTEND;TZID=Europe/Rome:20261128T170000
+SUMMARY:Le fotografe del cinema nell’Italia del dopoguerra
+LOCATION:Museo del Novecento - Forum900 (Via Marconi\, 1)
+DESCRIPTION:Con Cristina Casero\, Giulia Simi e Raffaella Perna. BookCity 
+ · Arte\, Fotografia\, Moda\, Cinema e Televisione. BookCity: ingresso lib
+ ero fino a esaurimento posti\, per alcuni incontri serve prenotare su book
+ citymilano.it. https://www.bookcitymilano.it/eventi/2026/le-fotografe-del-
+ cinema-nellitalia-del-dopoguerra
+URL:https://www.bookcitymilano.it/eventi/2026/le-fotografe-del-cinema-nelli
+ talia-del-dopoguerra
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-il-voto-di-anna-2-giugno-1946-proiezione@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261128T153000
 DTEND;TZID=Europe/Rome:20261128T173000
 SUMMARY:Il voto di Anna. 2 giugno 1946: proiezione
@@ -110,8 +210,90 @@ URL:https://www.fondazionecorriere.corriere.it/iniziative/il-voto-di-anna-2
 CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-italo-svevo-scrivere-nascosto-a-trieste-proiezio@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T160000
+DTEND;TZID=Europe/Rome:20261128T180000
+SUMMARY:Italo Svevo. Scrivere nascosto a Trieste. Proiezione e incontro con
+  il regista
+LOCATION:Anteo Palazzo del Cinema - Nobel (Piazza Venticinque Aprile\, 8\, 
+ 20121 MI)
+DESCRIPTION:Con Alessandro Melazzini. BookCity · Cinema e Televisione\, Cl
+ assici. BookCity: ingresso libero fino a esaurimento posti\, per alcuni in
+ contri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it
+ /eventi/2026/docufilm-svevo
+URL:https://www.bookcitymilano.it/eventi/2026/docufilm-svevo
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-dal-pitch-al-moodboard-come-vendere-una-storia-p@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T160000
+DTEND;TZID=Europe/Rome:20261128T180000
+SUMMARY:Dal Pitch al Moodboard: come vendere una storia per il cinema o la 
+ tv
+LOCATION:Editrice Bibliografica (Via Lesmi\, 6)
+DESCRIPTION:Con Cristina Borsatti. BookCity · Cinema e Televisione. BookCi
+ ty: ingresso libero fino a esaurimento posti\, per alcuni incontri serve p
+ renotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/d
+ al-pitch-al-moodboard-come-vendere-una-storia-per-il-cinema-o-la-tv
+URL:https://www.bookcitymilano.it/eventi/2026/dal-pitch-al-moodboard-come-v
+ endere-una-storia-per-il-cinema-o-la-tv
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-osvaldo-cavandoli-lo-stile-dell-essenziale@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T163000
+DTEND;TZID=Europe/Rome:20261128T183000
+SUMMARY:Osvaldo Cavandoli. Lo stile dell'essenziale
+LOCATION:Biblioteca Sormani - Sala del Portico (Corso di Porta Vittoria\, 6
+ )
+DESCRIPTION:Con Sergio Cavandoli\, Eric Rittatore\, Bruno Testa e Gabriella
+  De Paoli. BookCity · Cinema e Televisione\, Fumetto e Illustrazione. Boo
+ kCity: ingresso libero fino a esaurimento posti\, per alcuni incontri serv
+ e prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/202
+ 6/lo-stile-dellessenziale
+URL:https://www.bookcitymilano.it/eventi/2026/lo-stile-dellessenziale
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-cinema-espanso-il-cinema-che-produce-paesaggio@acculturiamoc
+ i.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:Cinema Espanso\, il cinema che produce paesaggio
+LOCATION:Padiglione Chiaravalle (Via San Bernardo\, 17)
+DESCRIPTION:Con Suranga Katugampala e Elide Sulsenti. BookCity · Cinema e 
+ Televisione. BookCity: ingresso libero fino a esaurimento posti\, per alcu
+ ni incontri serve prenotare su bookcitymilano.it. https://www.bookcitymila
+ no.it/eventi/2026/cinema-espanso-il-cinema-che-produce-paesaggio
+URL:https://www.bookcitymilano.it/eventi/2026/cinema-espanso-il-cinema-che-
+ produce-paesaggio
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-raccontare-larte-tra-senno-e-irrazionalita@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:Raccontare l’arte\, tra senno e irrazionalità
+LOCATION:BIBLIOTHE & CO (Via Giuseppe Dezza 50)
+DESCRIPTION:Con Paolo Baldini\, Filippo Tuena ed Elisa Rovesta. BookCity ·
+  Arte\, Fotografia\, Moda\, Cinema e Televisione. BookCity: ingresso liber
+ o fino a esaurimento posti\, per alcuni incontri serve prenotare su bookci
+ tymilano.it. https://www.bookcitymilano.it/eventi/2026/raccontare-larte-tr
+ a-senno-e-irrazionalita
+URL:https://www.bookcitymilano.it/eventi/2026/raccontare-larte-tra-senno-e-
+ irrazionalita
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-pupi-avati-il-gotico-padano-e-il-cinema@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261129T110000
 DTEND;TZID=Europe/Rome:20261129T130000
 SUMMARY:Pupi Avati: il gotico padano e il cinema
@@ -125,9 +307,108 @@ URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
 CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-caregiver-motherfucker-storia-sovversiva-di-un-a@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T110000
+DTEND;TZID=Europe/Rome:20261129T130000
+SUMMARY:Caregiver Motherfucker! Storia sovversiva di un attore fuori norma 
+ e del suo complice di cure e di sventure
+LOCATION:Anteo Palazzo del Cinema - Abanella (Piazza Venticinque Aprile\, 8
+ \, 20121 MI)
+DESCRIPTION:Con Lorenzo Clemente\, Yuri Tuci e Michele Farina. BookCity · 
+ Cinema e Televisione\, Cura e Salute. BookCity: ingresso libero fino a esa
+ urimento posti\, per alcuni incontri serve prenotare su bookcitymilano.it.
+  https://www.bookcitymilano.it/eventi/2026/caregiver-motherfucker-storia-s
+ ovversiva
+URL:https://www.bookcitymilano.it/eventi/2026/caregiver-motherfucker-storia
+ -sovversiva
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-da-gucci-a-garlasco-quando-il-crimine-incontra-i@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T110000
+DTEND;TZID=Europe/Rome:20261129T130000
+SUMMARY:Da Gucci a Garlasco: quando il crimine incontra il pop
+LOCATION:Castello Sforzesco - Sala Bertarelli (Castello Sforzesco)
+DESCRIPTION:Con Simone Tuzza e Stefano Nazzi. BookCity · Cinema e Televisi
+ one\, Giornalismo\, Informazione e Attualità\, Podcast e Radio. BookCity:
+  ingresso libero fino a esaurimento posti\, per alcuni incontri serve pren
+ otare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/da-g
+ ucci-a-garlasco-quando-crimine-incontra-pop
+URL:https://www.bookcitymilano.it/eventi/2026/da-gucci-a-garlasco-quando-cr
+ imine-incontra-pop
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-il-tempo-della-cura@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T120000
+DTEND;TZID=Europe/Rome:20261129T140000
+SUMMARY:Il tempo della cura
+LOCATION:Noise (Via Ascanio Sforza 49)
+DESCRIPTION:Con Manuela Toto\, Emanuele Dragone\, Marsali e Nicola Marotta.
+  BookCity · Cinema e Televisione\, Fumetto e Illustrazione. BookCity: ing
+ resso libero fino a esaurimento posti\, per alcuni incontri serve prenotar
+ e su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/il-tempo
+ -della-cura
+URL:https://www.bookcitymilano.it/eventi/2026/il-tempo-della-cura
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-il-ritorno-dei-mostri-nostalgia-e-corpi-nellhorr@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T123000
+DTEND;TZID=Europe/Rome:20261129T143000
+SUMMARY:Il ritorno dei mostri. Nostalgia e corpi nell’horror contemporane
+ o
+LOCATION:Anteo Palazzo del Cinema - Abanella (Piazza Venticinque Aprile\, 8
+ \, 20121 MI)
+DESCRIPTION:Con Marco Malvestio\, Giuseppe Previtali e Anna Chiara Corradin
+ o. Modera Cristina Resa. BookCity · Cinema e Televisione\, Noir e Thrille
+ r. BookCity: ingresso libero fino a esaurimento posti\, per alcuni incontr
+ i serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/even
+ ti/2026/il-ritorno-dei-mostri-nostalgia-e-corpi-nellhorror-contemporaneo
+URL:https://www.bookcitymilano.it/eventi/2026/il-ritorno-dei-mostri-nostalg
+ ia-e-corpi-nellhorror-contemporaneo
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-quando-il-cinema-racconta-la-vita@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T170000
+DTEND;TZID=Europe/Rome:20261129T190000
+SUMMARY:Quando il cinema racconta la vita
+LOCATION:FLA FlavioLucchiniArt Museum (Via Tortona\, 27)
+DESCRIPTION:Con Marina Spada e Barbara Sorrentini. BookCity · Cinema e Tel
+ evisione\, Donne. BookCity: ingresso libero fino a esaurimento posti\, per
+  alcuni incontri serve prenotare su bookcitymilano.it. https://www.bookcit
+ ymilano.it/eventi/2026/quando-il-cinema-racconta-la-vita
+URL:https://www.bookcitymilano.it/eventi/2026/quando-il-cinema-racconta-la-
+ vita
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-le-libere-donne-mario-tobino@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T180000
+DTEND;TZID=Europe/Rome:20261129T200000
+SUMMARY:Le Libere Donne. Mario Tobino
+LOCATION:Castello Sforzesco - Weil Weiss (Castello Sforzesco)
+DESCRIPTION:Con Andrea Antongiovanni e Lino Guanciale. BookCity · Cinema e
+  Televisione\, Classici\, Filosofia e Psicologia. BookCity: ingresso liber
+ o fino a esaurimento posti\, per alcuni incontri serve prenotare su bookci
+ tymilano.it. https://www.bookcitymilano.it/eventi/2026/le-libere-donne
+URL:https://www.bookcitymilano.it/eventi/2026/le-libere-donne
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-30-noir-in-festival-josephine-di-beth-de-araujo@acculturiamoci.
  it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261130T183000
 DTEND;TZID=Europe/Rome:20261130T203000
 SUMMARY:Noir in Festival: Josephine di Beth De Araujo
@@ -141,7 +422,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-l-eterna-illusione-da-broadway-a-hollywood@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261130T193000
 DTEND;TZID=Europe/Rome:20261130T213000
 SUMMARY:L'eterna illusione: da Broadway a Hollywood
@@ -156,7 +437,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-nedo-un-italiano-il-film-di-ruggero-gabbai-su-ne@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261130T203000
 DTEND;TZID=Europe/Rome:20261130T223000
 SUMMARY:Nedo\, un italiano: il film di Ruggero Gabbai su Nedo Fiano
@@ -170,7 +451,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-noir-in-festival-the-blood-countess-di-ulrike-ot@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261130T213000
 DTEND;TZID=Europe/Rome:20261130T233000
 SUMMARY:Noir in Festival: The Blood Countess di Ulrike Ottinger
@@ -186,7 +467,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-noir-in-festival-mi-amor-di-guillaume-nicloux@acculturiamoci
  .it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261201T190000
 DTEND;TZID=Europe/Rome:20261201T210000
 SUMMARY:Noir in Festival: Mi Amor di Guillaume Nicloux
@@ -199,7 +480,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-noir-in-festival-l-ombra-e-dark-vertigo@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261201T213000
 DTEND;TZID=Europe/Rome:20261201T233000
 SUMMARY:Noir in Festival: L'Ombra e Dark Vertigo
@@ -214,7 +495,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-noir-in-festival-found-alive-di-carlota-pereda@acculturiamoc
  i.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261202T190000
 DTEND;TZID=Europe/Rome:20261202T210000
 SUMMARY:Noir in Festival: Found Alive di Carlota Pereda
@@ -228,7 +509,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-noir-in-festival-furies-di-rami-kodeih@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261202T213000
 DTEND;TZID=Europe/Rome:20261202T233000
 SUMMARY:Noir in Festival: Furies di Rami Kodeih
@@ -242,7 +523,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-verso-cinema-lynchiano-con-john-higgs-roberto-ma@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Verso Cinema: Lynchiano\, con John Higgs\, Roberto Manassero e Ales

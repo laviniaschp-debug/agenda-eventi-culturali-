@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-12-13-festival-del-classico-abitare-il-mondo-abitare-l@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261213T163000
 DTEND;TZID=Europe/Rome:20261213T183000
 SUMMARY:Festival del Classico: Abitare il mondo\, abitare l'umano: conviven

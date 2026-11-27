@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-una-societa-piu-equa-e-anche-piu-sana@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261124T110000
 DTEND;TZID=Europe/Rome:20261124T130000
 SUMMARY:Una società più equa è anche più sana?
@@ -38,7 +38,7 @@ CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-over-dance-milano-danza-e-longevita@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261124T160000
 DTEND;TZID=Europe/Rome:20261124T180000
 SUMMARY:Over Dance Milano: danza e longevità
@@ -51,7 +51,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-prenditi-il-domani-pensione-e-futuro-istruzioni-@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261126T163000
 DTEND;TZID=Europe/Rome:20261126T183000
 SUMMARY:Prenditi il domani: pensione e futuro\, istruzioni per l'uso
@@ -67,7 +67,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-massimo-recalcati-acquaragia-confessioni-di-un-d@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261126T183000
 DTEND;TZID=Europe/Rome:20261126T203000
 SUMMARY:Massimo Recalcati: Acquaragia. Confessioni di un disertore
@@ -83,7 +83,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-human-brains-adolescenza-capire-mente-corpo-e-sa@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261126T200000
 DTEND;TZID=Europe/Rome:20261126T220000
 SUMMARY:Human Brains: Adolescenza\, capire mente\, corpo e salute
@@ -100,7 +100,7 @@ CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-milano-life-science-forum-prevenzione@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261127T093000
 DTEND;TZID=Europe/Rome:20261127T113000
 SUMMARY:Milano Life Science Forum: prevenzione
@@ -116,9 +116,60 @@ URL:https://www.assolombarda.it/desk/life-sciences-desk-backup/appuntamenti
 CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-in-cucina-senza-confini-il-cibo-come-linguaggio-@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T170000
+DTEND;TZID=Europe/Rome:20261127T190000
+SUMMARY:In cucina senza confini. Il cibo come linguaggio universale e super
+ amento delle barriere
+LOCATION:Biblioteca Sormani - Sala del Portico (Corso di Porta Vittoria\, 6
+ )
+DESCRIPTION:Con Silvia Citarella\, Elena Radici\, Gabriel Renteria Linda\, 
+ Cristiana Vasino e Ira Rubini. BookCity · Cibo e Cucina\, Cura e Salute\,
+  Identità e Culture. BookCity: ingresso libero fino a esaurimento posti\,
+  per alcuni incontri serve prenotare su bookcitymilano.it. https://www.boo
+ kcitymilano.it/eventi/2026/in-cucina-senza-confini-il-cibo-come-linguaggio
+ -universale-e-superamento-delle-barriere
+URL:https://www.bookcitymilano.it/eventi/2026/in-cucina-senza-confini-il-ci
+ bo-come-linguaggio-universale-e-superamento-delle-barriere
+CATEGORIES:Psiche e salute
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-curarsi-con-i-libri-la-relazione-con-se-stessi@acculturiamoc
+ i.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T180000
+DTEND;TZID=Europe/Rome:20261127T200000
+SUMMARY:Curarsi con i libri. La relazione con se stessi
+LOCATION:Biblioteca Zara (Viale Zara 100)
+DESCRIPTION:Con Lara Bellardita. BookCity · Biblioteche\, Classici\, Cura 
+ e Salute. BookCity: ingresso libero fino a esaurimento posti\, per alcuni 
+ incontri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.
+ it/eventi/2026/curarsi-con-i-libri-la-relazione-con-se-stessi
+URL:https://www.bookcitymilano.it/eventi/2026/curarsi-con-i-libri-la-relazi
+ one-con-se-stessi
+CATEGORIES:Psiche e salute
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-cambiare-abitudini-per-tornare-in-forma@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T183000
+DTEND;TZID=Europe/Rome:20261127T203000
+SUMMARY:Cambiare abitudini per tornare in forma
+LOCATION:Mondadori Duomo (Piazza del Duomo\, 1)
+DESCRIPTION:Con Tiziano Scarparo. BookCity · Cura e Salute. BookCity: ingr
+ esso libero fino a esaurimento posti\, per alcuni incontri serve prenotare
+  su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/cambiare-
+ abitudini-tornare-forma
+URL:https://www.bookcitymilano.it/eventi/2026/cambiare-abitudini-tornare-fo
+ rma
+CATEGORIES:Psiche e salute
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-cosa-cerchiamo-davvero-nella-chirurgia-estetica@acculturiamo
  ci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261128T113000
 DTEND;TZID=Europe/Rome:20261128T133000
 SUMMARY:Cosa cerchiamo davvero nella chirurgia estetica?
@@ -134,8 +185,42 @@ URL:https://www.ilsole24ore.com/art/il-gruppo-sole-24-ore-bookcity-milano-2
 CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-linferno-invisibile-endometriosi-la-solitudine-d@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T123000
+DTEND;TZID=Europe/Rome:20261128T143000
+SUMMARY:L’inferno invisibile. Endometriosi: la solitudine di un dolore se
+ nza nome
+LOCATION:PIME - Pontificio Istituto Missioni Estere - Sala Cremonesi (Via M
+ onte Rosa\, 81)
+DESCRIPTION:Con Marcello Ceccaroni e Vania Mento. BookCity · Cura e Salute
+ \, Donne. BookCity: ingresso libero fino a esaurimento posti\, per alcuni 
+ incontri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.
+ it/eventi/2026/linferno-invisibile-endometriosi-la-solitudine-di-un-dolore
+ -senza-nome
+URL:https://www.bookcitymilano.it/eventi/2026/linferno-invisibile-endometri
+ osi-la-solitudine-di-un-dolore-senza-nome
+CATEGORIES:Psiche e salute
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-oltre-la-soglia-il-coraggio-di-fare-spazio@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T144500
+DTEND;TZID=Europe/Rome:20261128T164500
+SUMMARY:Oltre la soglia. Il coraggio di fare spazio
+LOCATION:Seganti Arreda (Via Lazzaro Papi 12\, angolo Via Pietro Colletta)
+DESCRIPTION:Con Cristina T. Chiochia. BookCity · Cura e Salute. BookCity: 
+ ingresso libero fino a esaurimento posti\, per alcuni incontri serve preno
+ tare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/oltre
+ -la-soglia-il-coraggio-di-fare-spazio
+URL:https://www.bookcitymilano.it/eventi/2026/oltre-la-soglia-il-coraggio-d
+ i-fare-spazio
+CATEGORIES:Psiche e salute
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-alberto-pellai-ti-faro-correre-in-salita@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261128T150000
 DTEND;TZID=Europe/Rome:20261128T170000
 SUMMARY:Alberto Pellai: Ti farò correre in salita
@@ -149,9 +234,29 @@ URL:https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442
 CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-nelle-mani-dellaltro-storie-e-incontri-tra-gener-3@acculturi
+ amoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T163000
+DTEND;TZID=Europe/Rome:20261128T183000
+SUMMARY:Nelle mani dell’altro. Storie e incontri tra generazioni: essere 
+ caregiver nell'epoca della longevità di massa
+LOCATION:Casa di Quartiere Garibaldi (via Giorgio Strehler 2 (angolo Corso 
+ Garibaldi\, 27))
+DESCRIPTION:Con Alba Bonetti e Daniela Rossetti. BookCity · BCM Sociale\, 
+ Cura e Salute. BookCity: ingresso libero fino a esaurimento posti\, per al
+ cuni incontri serve prenotare su bookcitymilano.it. https://www.bookcitymi
+ lano.it/eventi/2026/nelle-mani-dellaltro-storie-e-incontri-tra-generazioni
+ -tutti-vogliono-vivere-a-lungo-ma-nessuno-vuole-invecchiare
+URL:https://www.bookcitymilano.it/eventi/2026/nelle-mani-dellaltro-storie-e
+ -incontri-tra-generazioni-tutti-vogliono-vivere-a-lungo-ma-nessuno-vuole-i
+ nvecchiare
+CATEGORIES:Psiche e salute
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-quando-la-vita-non-risponde-il-coraggio-di-viver@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Quando la vita non risponde: il coraggio di vivere in larghezza
@@ -166,9 +271,26 @@ URL:https://teatrofrancoparenti.it/spettacolo/bookcity-milano-al-parenti-fp
 CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-maschile-e-guerra-sono-davvero-un-binomio-inscin@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T183000
+DTEND;TZID=Europe/Rome:20261128T203000
+SUMMARY:Maschile e guerra sono davvero un binomio inscindibile?
+LOCATION:Centro di Nonviolenza Attiva (Via Guido Mazzali\, 5)
+DESCRIPTION:Con Valeria Russo\, Marco Deriu\, Daniela Bezzi\, Alfonso Navar
+ ra ed Ermanno Porro. BookCity · BCM Sociale\, Biblioteche\, Cura e Salute
+ . BookCity: ingresso libero fino a esaurimento posti\, per alcuni incontri
+  serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/event
+ i/2026/maschile-e-guerra-sono-davvero-un-binomio-inscindibile
+URL:https://www.bookcitymilano.it/eventi/2026/maschile-e-guerra-sono-davver
+ o-un-binomio-inscindibile
+CATEGORIES:Psiche e salute
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-mio-fratello-e-un-cavaliere-jedi-autismo-e-amici@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261128T203000
 DTEND;TZID=Europe/Rome:20261128T223000
 SUMMARY:Mio fratello è un cavaliere Jedi: autismo e amicizia
@@ -181,9 +303,91 @@ URL:https://www.fondazionecorriere.corriere.it/iniziative/
 CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-avere-cura-di-se-tra-scelte-prevenzione-e-salute@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T113000
+DTEND;TZID=Europe/Rome:20261129T133000
+SUMMARY:Avere cura di sé. Tra scelte\, prevenzione e salute
+LOCATION:Museo Nazionale Scienza e Tecnologia Leonardo da Vinci - Cenacolo 
+ (Via San Vittore\, 21)
+DESCRIPTION:Con Silvio Garattini e Francesco Ognibene. BookCity · Cura e S
+ alute. BookCity: ingresso libero fino a esaurimento posti\, per alcuni inc
+ ontri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/
+ eventi/2026/avere-cura-di-se-con-silvio-garattini-tra-scelte-prevenzione-e
+ -salute
+URL:https://www.bookcitymilano.it/eventi/2026/avere-cura-di-se-con-silvio-g
+ arattini-tra-scelte-prevenzione-e-salute
+CATEGORIES:Psiche e salute
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-il-cibo-e-medicina@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T113000
+DTEND;TZID=Europe/Rome:20261129T133000
+SUMMARY:Il cibo è medicina
+LOCATION:Palazzo Morando – Costume Moda Immagine (Via Sant’Andrea\, 6)
+DESCRIPTION:Con Marco Montagnani\, Franco Berrino e Manuela Porta. BookCity
+  · Cibo e Cucina\, Cura e Salute. BookCity: ingresso libero fino a esauri
+ mento posti\, per alcuni incontri serve prenotare su bookcitymilano.it. ht
+ tps://www.bookcitymilano.it/eventi/2026/il-cibo-e-medicina
+URL:https://www.bookcitymilano.it/eventi/2026/il-cibo-e-medicina
+CATEGORIES:Psiche e salute
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-venezia-1494-lavvincente-storia-del-primo-libro-@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T160000
+DTEND;TZID=Europe/Rome:20261129T180000
+SUMMARY:Venezia 1494. L’avvincente storia del primo libro illustrato di m
+ edicina
+LOCATION:Circolo dei Lettori di Milano - Casa Manzoni (Via Gerolamo Morone\
+ , 1)
+DESCRIPTION:Con Sabrina Minuzzi. BookCity · Cura e Salute. BookCity: ingre
+ sso libero fino a esaurimento posti\, per alcuni incontri serve prenotare 
+ su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/venezia-14
+ 94-lavvincente-storia-del-primo-libro-illustrato-di-medicina
+URL:https://www.bookcitymilano.it/eventi/2026/venezia-1494-lavvincente-stor
+ ia-del-primo-libro-illustrato-di-medicina
+CATEGORIES:Psiche e salute
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-e-prese-fra-le-dita-la-notte@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T163000
+DTEND;TZID=Europe/Rome:20261129T183000
+SUMMARY:E prese fra le dita la notte
+LOCATION:PIME - Pontificio Istituto Missioni Estere - Sala Vismara (Via Mos
+ è Bianchi\, 94)
+DESCRIPTION:Con Daniela Stefanutto. BookCity · Cura e Salute. BookCity: in
+ gresso libero fino a esaurimento posti\, per alcuni incontri serve prenota
+ re su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/e-prese
+ -fra-le-dita-la-notte
+URL:https://www.bookcitymilano.it/eventi/2026/e-prese-fra-le-dita-la-notte
+CATEGORIES:Psiche e salute
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-il-volto-della-verita-corpo-identita-e-tempo-nel@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T173000
+DTEND;TZID=Europe/Rome:20261129T193000
+SUMMARY:Il volto della verità: corpo\, identità e tempo nell’era dell
+ ’immagine
+LOCATION:Palazzo Castiglioni - Veranda (Corso Venezia\, 47)
+DESCRIPTION:Con Gary Gambassi. BookCity · Cura e Salute. BookCity: ingress
+ o libero fino a esaurimento posti\, per alcuni incontri serve prenotare su
+  bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/il-volto-del
+ la-verita-corpo-identita-e-tempo-nellera-dellimmagine
+URL:https://www.bookcitymilano.it/eventi/2026/il-volto-della-verita-corpo-i
+ dentita-e-tempo-nellera-dellimmagine
+CATEGORIES:Psiche e salute
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-gherardo-colombo-e-gianluca-marchesini-adolescen@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261129T180000
 DTEND;TZID=Europe/Rome:20261129T200000
 SUMMARY:Gherardo Colombo e Gianluca Marchesini: Adolescenza\, guida per gen
@@ -197,9 +401,43 @@ URL:https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442
 CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-solo-se-ti-nutre-davvero@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T180000
+DTEND;TZID=Europe/Rome:20261129T200000
+SUMMARY:Solo se ti nutre davvero
+LOCATION:Museo Nazionale Scienza e Tecnologia Leonardo da Vinci - Auditoriu
+ m (Via San Vittore\, 21)
+DESCRIPTION:Con Daniel Lumera e Franco Berrino. Modera Manuela Porta. BookC
+ ity · Cura e Salute. BookCity: ingresso libero fino a esaurimento posti\,
+  per alcuni incontri serve prenotare su bookcitymilano.it. https://www.boo
+ kcitymilano.it/eventi/2026/solo-se-ti-nutre-come-liberarsi-dalla-vita-spaz
+ zatura-e-rinascere-in-salute-armonia-e-consapevolezza
+URL:https://www.bookcitymilano.it/eventi/2026/solo-se-ti-nutre-come-liberar
+ si-dalla-vita-spazzatura-e-rinascere-in-salute-armonia-e-consapevolezza
+CATEGORIES:Psiche e salute
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-davvero-vuoi-stare-bene-il-corpo-le-emozioni-e-i@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T180000
+DTEND;TZID=Europe/Rome:20261129T200000
+SUMMARY:Davvero vuoi stare bene? Il corpo\, le emozioni e il senso della cu
+ ra
+LOCATION:Museo Bagatti Valsecchi (Via Gesù 5)
+DESCRIPTION:Con Fabio Ghigi. BookCity · Cura e Salute. BookCity: ingresso 
+ libero fino a esaurimento posti\, per alcuni incontri serve prenotare su b
+ ookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/davvero-vuoi-s
+ tare-bene-il-corpo-le-emozioni-e-il-senso-della-cura
+URL:https://www.bookcitymilano.it/eventi/2026/davvero-vuoi-stare-bene-il-co
+ rpo-le-emozioni-e-il-senso-della-cura
+CATEGORIES:Psiche e salute
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-02-con-la-colpa-in-mente-tra-responsabilita-e-ripar@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261202T203000
 DTEND;TZID=Europe/Rome:20261202T223000
 SUMMARY:Con la colpa in mente\, tra responsabilità e riparazione
@@ -215,7 +453,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-anni-di-vita-la-longevita-tra-sfide-e-opportunit@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261203T093000
 DTEND;TZID=Europe/Rome:20261203T113000
 SUMMARY:Anni di vita: la longevità tra sfide e opportunità

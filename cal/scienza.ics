@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-salute-in-evoluzione-pievani-e-remuzzi@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261124T170000
 DTEND;TZID=Europe/Rome:20261124T190000
 SUMMARY:Salute in evoluzione: Pievani e Remuzzi
@@ -38,7 +38,7 @@ CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-samantha-cristoforetti-il-senso-della-luna@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261125T200000
 DTEND;TZID=Europe/Rome:20261125T220000
 SUMMARY:Samantha Cristoforetti: il senso della Luna
@@ -53,9 +53,128 @@ URL:https://www.mentelocale.it/milano/146478-bookcity-milano-2026-iniziativ
 CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-quel-genio-di-mr-packaging-le-invenzioni-nascost@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T120000
+DTEND;TZID=Europe/Rome:20261127T140000
+SUMMARY:Quel genio di Mr. Packaging. Le invenzioni nascoste negli imballagg
+ i di ogni giorno
+LOCATION:Hotel Principe di Savoia - Sala Cristalli (Piazza della Repubblica
+  17)
+DESCRIPTION:Con Enrico Sbandi\, Francesco Legrenzi e Sabrina Bassan. BookCi
+ ty · Ambiente\, Scienza e Natura. BookCity: ingresso libero fino a esauri
+ mento posti\, per alcuni incontri serve prenotare su bookcitymilano.it. ht
+ tps://www.bookcitymilano.it/eventi/2026/quel-genio-di-mr-packaging-le-inve
+ nzioni-nascoste-negli-imballaggi-di-ogni-giorno
+URL:https://www.bookcitymilano.it/eventi/2026/quel-genio-di-mr-packaging-le
+ -invenzioni-nascoste-negli-imballaggi-di-ogni-giorno
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-abitare-la-natura@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T180000
+DTEND;TZID=Europe/Rome:20261127T200000
+SUMMARY:Abitare la natura
+LOCATION:Sitland DVO Flagship Showroom (Via Pietro Maroncelli 5)
+DESCRIPTION:Con Alfredo Fusco e Monica Zani. BookCity · Ambiente\, Scienza
+  e Natura\, Architettura\, Design\, Urbanistica. BookCity: ingresso libero
+  fino a esaurimento posti\, per alcuni incontri serve prenotare su bookcit
+ ymilano.it. https://www.bookcitymilano.it/eventi/2026/abitare-la-natura
+URL:https://www.bookcitymilano.it/eventi/2026/abitare-la-natura
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-giardini-reali-immaginati-e-illustrati-della-ret@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T180000
+DTEND;TZID=Europe/Rome:20261127T200000
+SUMMARY:Giardini reali\, immaginati e illustrati della Rete - Atti della Gi
+ ornata di studio della Rete dell’800 lombardo
+LOCATION:Palazzo Morando – Costume Moda Immagine (Via Sant’Andrea\, 6)
+DESCRIPTION:Con Alessia Alberti\, Maria Angela Previtera e Anna Ranzi. Book
+ City · Ambiente\, Scienza e Natura. BookCity: ingresso libero fino a esau
+ rimento posti\, per alcuni incontri serve prenotare su bookcitymilano.it. 
+ https://www.bookcitymilano.it/eventi/2026/giardini-reali-giornata-studio
+URL:https://www.bookcitymilano.it/eventi/2026/giardini-reali-giornata-studi
+ o
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-liberi-tutti-tra-arte-natura-e-nuovo-senno-delle@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T180000
+DTEND;TZID=Europe/Rome:20261127T200000
+SUMMARY:Liberi tutti tra: arte\, natura e nuovo senno dell’economia
+LOCATION:ADI Design Museum - Foyer (Piazza Compasso d'Oro 1)
+DESCRIPTION:Con Paola Bonfante\, Debora Hirsch\, Enrica Chiappero-Martinett
+ i e Mariantonietta Firmani. BookCity · Ambiente\, Scienza e Natura\, Arte
+ \, Fotografia\, Moda\, Economia e Lavoro. BookCity: ingresso libero fino a
+  esaurimento posti\, per alcuni incontri serve prenotare su bookcitymilano
+ .it. https://www.bookcitymilano.it/eventi/2026/liberi-tutti-tra-arte-natur
+ a-e-nuovo-senno-delleconomia
+URL:https://www.bookcitymilano.it/eventi/2026/liberi-tutti-tra-arte-natura-
+ e-nuovo-senno-delleconomia
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-l-immaginazione-necessaria-per-vedere-cio-che-an@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T183000
+DTEND;TZID=Europe/Rome:20261127T203000
+SUMMARY:L'immaginazione necessaria | Per vedere ciò che ancora non c'è
+LOCATION:Eldodo Booksellers & Stationers (Via Vallarsa\, 11)
+DESCRIPTION:Con Franc Arleo e Maria Grazia Trevigno. BookCity · Ambiente\,
+  Scienza e Natura\, Narrativa. BookCity: ingresso libero fino a esauriment
+ o posti\, per alcuni incontri serve prenotare su bookcitymilano.it. https:
+ //www.bookcitymilano.it/eventi/2026/limmaginazione-necessaria-per-vedere-c
+ io-che-ancora-non-ce-4
+URL:https://www.bookcitymilano.it/eventi/2026/limmaginazione-necessaria-per
+ -vedere-cio-che-ancora-non-ce-4
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-scritti-dalla-citta-mondo-margini-racconti-artic@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T183000
+DTEND;TZID=Europe/Rome:20261127T203000
+SUMMARY:Scritti dalla Città Mondo - Margini. Racconti artici: un viaggio a
+ lla scoperta dell’estremo Nord
+LOCATION:MUDEC - Museo delle Culture - Spazio delle Culture “Khaled al-As
+ aad” (via Tortona 56)
+DESCRIPTION:Con Valentina Tamborra e Natascha Lusenti. BookCity · Ambiente
+ \, Scienza e Natura\, Identità e Culture. BookCity: ingresso libero fino 
+ a esaurimento posti\, per alcuni incontri serve prenotare su bookcitymilan
+ o.it. https://www.bookcitymilano.it/eventi/2026/scritti-dalla-citta-mondo-
+ margini-racconti-artici-un-viaggio-alla-scoperta-dellestremo-nord
+URL:https://www.bookcitymilano.it/eventi/2026/scritti-dalla-citta-mondo-mar
+ gini-racconti-artici-un-viaggio-alla-scoperta-dellestremo-nord
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-maldive-dove-il-senno-va-in-vacanza@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T190000
+DTEND;TZID=Europe/Rome:20261127T210000
+SUMMARY:Maldive: dove il senno va in vacanza
+LOCATION:FrancoAngeli Academy (Viale dell'Innovazione\, 11)
+DESCRIPTION:Con Paolo Galli. BookCity · Ambiente\, Scienza e Natura\, Univ
+ ersità. BookCity: ingresso libero fino a esaurimento posti\, per alcuni i
+ ncontri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.i
+ t/eventi/2026/maldive-dove-il-senno-va-in-vacanza
+URL:https://www.bookcitymilano.it/eventi/2026/maldive-dove-il-senno-va-in-v
+ acanza
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-e-tu-come-lo-sai-capire-la-scienza-per-decidere-@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:E tu\, come lo sai? Capire la scienza per decidere insieme
@@ -69,8 +188,253 @@ URL:https://www.mentelocale.it/milano/146478-bookcity-milano-2026-iniziativ
 CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-sostenibilita-ambientale-e-decarbonizzazione@acculturiamoci.
+ it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T103000
+DTEND;TZID=Europe/Rome:20261128T123000
+SUMMARY:Sostenibilità ambientale e decarbonizzazione
+LOCATION:Gilda Contemporary Art (Via S. Maurilio\, 14)
+DESCRIPTION:Con Nereo Landini. BookCity · Ambiente\, Scienza e Natura. Boo
+ kCity: ingresso libero fino a esaurimento posti\, per alcuni incontri serv
+ e prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/202
+ 6/sostenibilita-ambientale-e-decarbonizzazione
+URL:https://www.bookcitymilano.it/eventi/2026/sostenibilita-ambientale-e-de
+ carbonizzazione
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-plutone-nettuno-urano-i-tre-pianeti-del-profondo@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T110000
+DTEND;TZID=Europe/Rome:20261128T130000
+SUMMARY:Plutone\, Nettuno\, Urano: i tre pianeti del profondo
+LOCATION:Circolo Filologico Milanese - Sala Liberty (via Clerici 10)
+DESCRIPTION:Con Marco Pesatori e Patrizia Troni. BookCity · Ambiente\, Sci
+ enza e Natura\, Viaggi e Tempo Libero. BookCity: ingresso libero fino a es
+ aurimento posti\, per alcuni incontri serve prenotare su bookcitymilano.it
+ . https://www.bookcitymilano.it/eventi/2026/plutone-nettuno-urano-i-tre-pi
+ aneti-del-profondo
+URL:https://www.bookcitymilano.it/eventi/2026/plutone-nettuno-urano-i-tre-p
+ ianeti-del-profondo
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-una-storia-cosmica-di-luce-e-oscurita@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T113000
+DTEND;TZID=Europe/Rome:20261128T133000
+SUMMARY:Una storia cosmica di luce e oscurità
+LOCATION:Civico Planetario Ulrico Hoepli (Corso Venezia 57)
+DESCRIPTION:Lectio di Ersilia Vaudo. BookCity · Ambiente\, Scienza e Natur
+ a\, Lectio. BookCity: ingresso libero fino a esaurimento posti\, per alcun
+ i incontri serve prenotare su bookcitymilano.it. https://www.bookcitymilan
+ o.it/eventi/2026/storia-cosmica-luce-oscurita
+URL:https://www.bookcitymilano.it/eventi/2026/storia-cosmica-luce-oscurita
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-in-sostenibile@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T123000
+DTEND;TZID=Europe/Rome:20261128T143000
+SUMMARY:(In)sostenibile
+LOCATION:Libreria Egea (Viale Bligny\, 22)
+DESCRIPTION:Con Nicola Tagliafierro\, Attila Kiss e Leonardo Mendolicchio. 
+ Modera Serena Ferraiuolo. BookCity · Ambiente\, Scienza e Natura\, Econom
+ ia e Lavoro. BookCity: ingresso libero fino a esaurimento posti\, per alcu
+ ni incontri serve prenotare su bookcitymilano.it. https://www.bookcitymila
+ no.it/eventi/2026/insostenibile
+URL:https://www.bookcitymilano.it/eventi/2026/insostenibile
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-cambiamenti-climatici-una-sfida-globale@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T140000
+DTEND;TZID=Europe/Rome:20261128T160000
+SUMMARY:Cambiamenti climatici: una sfida globale
+LOCATION:Cascina nascosta (Viale Emilio Alemagna\, 14 - interno del Parco S
+ empione)
+DESCRIPTION:Con Peter Oksen e Laurent Manderieux. BookCity · Ambiente\, Sc
+ ienza e Natura\, Giornalismo\, Informazione e Attualità. BookCity: ingres
+ so libero fino a esaurimento posti\, per alcuni incontri serve prenotare s
+ u bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/cambiamenti
+ -climatici-una-sfida-globale
+URL:https://www.bookcitymilano.it/eventi/2026/cambiamenti-climatici-una-sfi
+ da-globale
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-l-avventura-di-un-ricercatore@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T143000
+DTEND;TZID=Europe/Rome:20261128T163000
+SUMMARY:L'avventura di un ricercatore
+LOCATION:Circolo Filologico Milanese - Sala delle Colonne (via Clerici 10)
+DESCRIPTION:Con Francesco Cavalli Sforza e Luciano Tellaroli. BookCity · A
+ mbiente\, Scienza e Natura. BookCity: ingresso libero fino a esaurimento p
+ osti\, per alcuni incontri serve prenotare su bookcitymilano.it. https://w
+ ww.bookcitymilano.it/eventi/2026/lavventura-di-un-ricercatore
+URL:https://www.bookcitymilano.it/eventi/2026/lavventura-di-un-ricercatore
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-ascoltare-nutrire-e-proteggere-larte-della-colti@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T150000
+DTEND;TZID=Europe/Rome:20261128T170000
+SUMMARY:Ascoltare\, nutrire e proteggere: l’arte della coltivazione consa
+ pevole
+LOCATION:Acquario Civico di Milano - Sala Conferenze (Viale G. B. Gadio\, 2
+ )
+DESCRIPTION:Con Pietro Isolan\, Filippo Bellantoni\, Francesca Della Giovam
+ paola e Sebastiano Guarisco. BookCity · Ambiente\, Scienza e Natura. Book
+ City: ingresso libero fino a esaurimento posti\, per alcuni incontri serve
+  prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026
+ /botanica
+URL:https://www.bookcitymilano.it/eventi/2026/botanica
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-una-capra-una-scelta-folle-nove-anni-pieni-di-vi@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T160000
+DTEND;TZID=Europe/Rome:20261128T180000
+SUMMARY:Una capra\, una scelta folle\, nove anni pieni di vita
+LOCATION:Cascina Linterno (Via Fratelli Zoia\, 194)
+DESCRIPTION:Con Monica Penza e Mara Penza. BookCity · Ambiente\, Scienza e
+  Natura\, Cura e Salute\, Narrativa. BookCity: ingresso libero fino a esau
+ rimento posti\, per alcuni incontri serve prenotare su bookcitymilano.it. 
+ https://www.bookcitymilano.it/eventi/2026/una-capra-una-scelta-folle-nove-
+ anni-pieni-di-vita
+URL:https://www.bookcitymilano.it/eventi/2026/una-capra-una-scelta-folle-no
+ ve-anni-pieni-di-vita
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-voci-e-storie-di-montagna-raccontare-le-terre-al@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T163000
+DTEND;TZID=Europe/Rome:20261128T183000
+SUMMARY:Voci e storie di montagna. Raccontare le terre alte oggi
+LOCATION:Acquario Civico di Milano - Sala Conferenze (Viale G. B. Gadio\, 2
+ )
+DESCRIPTION:Con Caterina Manfrini\, Franco Faggiani e Stefano Motta. BookCi
+ ty · Ambiente\, Scienza e Natura\, Montagna. BookCity: ingresso libero fi
+ no a esaurimento posti\, per alcuni incontri serve prenotare su bookcitymi
+ lano.it. https://www.bookcitymilano.it/eventi/2026/voci-e-storie-di-montag
+ na-raccontare-le-terre-alte-oggi
+URL:https://www.bookcitymilano.it/eventi/2026/voci-e-storie-di-montagna-rac
+ contare-le-terre-alte-oggi
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-scintille-come-la-fisica-dei-sistemi-complessi-c@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T163000
+DTEND;TZID=Europe/Rome:20261128T183000
+SUMMARY:Scintille. Come la fisica dei sistemi complessi cambia il modo di g
+ uardare il mondo
+LOCATION:Museo Nazionale Scienza e Tecnologia Leonardo da Vinci - Cenacolo 
+ (Via San Vittore\, 21)
+DESCRIPTION:Con Gabriella Greison. BookCity · Ambiente\, Scienza e Natura.
+  BookCity: ingresso libero fino a esaurimento posti\, per alcuni incontri 
+ serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi
+ /2026/scintille-come-la-fisica-cambia-modo-guardare-mondo
+URL:https://www.bookcitymilano.it/eventi/2026/scintille-come-la-fisica-camb
+ ia-modo-guardare-mondo
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-transizione-eco-sociale@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T163000
+DTEND;TZID=Europe/Rome:20261128T183000
+SUMMARY:Transizione eco-sociale
+LOCATION:Cascina nascosta (Viale Emilio Alemagna\, 14 - interno del Parco S
+ empione)
+DESCRIPTION:Con Alessandro Raveggi\, Alessia Cesana\, Martina Ferlisi\, Giu
+ seppe de Marzo e Paolo Virtuani. BookCity · Ambiente\, Scienza e Natura\,
+  Economia e Lavoro\, Geopolitica. BookCity: ingresso libero fino a esaurim
+ ento posti\, per alcuni incontri serve prenotare su bookcitymilano.it. htt
+ ps://www.bookcitymilano.it/eventi/2026/transizione-eco-sociale
+URL:https://www.bookcitymilano.it/eventi/2026/transizione-eco-sociale
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-il-capostipite-dalle-acque-della-storia-ai-navig@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:Il Capostipite: dalle acque della storia ai Navigli del futuro
+LOCATION:Circolo de Amicis (Via Edmondo De Amicis\, 17)
+DESCRIPTION:Con Umberto Trezzi e Roberto Biscardini. BookCity · Ambiente\,
+  Scienza e Natura\, Architettura\, Design\, Urbanistica\, Milano racconta 
+ Milano. BookCity: ingresso libero fino a esaurimento posti\, per alcuni in
+ contri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it
+ /eventi/2026/il-capostipite-dalle-acque-della-storia-ai-navigli-del-futuro
+URL:https://www.bookcitymilano.it/eventi/2026/il-capostipite-dalle-acque-de
+ lla-storia-ai-navigli-del-futuro
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-i-nostri-impatti-la-forza-geologica-dellumanita@acculturiamo
+ ci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:I nostri impatti: la forza geologica dell’umanità
+LOCATION:Cascina nascosta (Viale Emilio Alemagna\, 14 - interno del Parco S
+ empione)
+DESCRIPTION:Con Francesco Lami\, Federico Zaina e Fabio Fimiani. BookCity 
+ · Ambiente\, Scienza e Natura\, Geopolitica\, Giornalismo\, Informazione 
+ e Attualità. BookCity: ingresso libero fino a esaurimento posti\, per alc
+ uni incontri serve prenotare su bookcitymilano.it. https://www.bookcitymil
+ ano.it/eventi/2026/i-nostri-impatti-la-forza-geologica-dellumanita
+URL:https://www.bookcitymilano.it/eventi/2026/i-nostri-impatti-la-forza-geo
+ logica-dellumanita
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-dalle-neuroscienze-al-linguaggio-biologico-delle@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T183000
+DTEND;TZID=Europe/Rome:20261128T203000
+SUMMARY:Dalle Neuroscienze al linguaggio Biologico delle emozioni
+LOCATION:Palazzo Castiglioni - Veranda (Corso Venezia\, 47)
+DESCRIPTION:Con Angelo Vetralla. BookCity · Cura e Salute. BookCity: ingre
+ sso libero fino a esaurimento posti\, per alcuni incontri serve prenotare 
+ su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/dalle-neur
+ oscienze-al-linguaggio-biologico-delle-emozioni
+URL:https://www.bookcitymilano.it/eventi/2026/dalle-neuroscienze-al-linguag
+ gio-biologico-delle-emozioni
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-il-cosmo-e-la-vita-caso-o-necessita@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T193000
+DTEND;TZID=Europe/Rome:20261128T213000
+SUMMARY:Il cosmo e la vita: caso o necessità?
+LOCATION:Civico Planetario Ulrico Hoepli (Corso Venezia 57)
+DESCRIPTION:Lectio magistralis con Giovanni Covone. BookCity · Ambiente\, 
+ Scienza e Natura\, Lectio. BookCity: ingresso libero fino a esaurimento po
+ sti\, per alcuni incontri serve prenotare su bookcitymilano.it. https://ww
+ w.bookcitymilano.it/eventi/2026/tra-caso-e-necessita
+URL:https://www.bookcitymilano.it/eventi/2026/tra-caso-e-necessita
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-la-forza-biologica-della-cultura@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:La forza biologica della cultura
@@ -84,8 +448,304 @@ URL:https://www.mentelocale.it/milano/146478-bookcity-milano-2026-iniziativ
 CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-bam-per-bookcity-memoria-ragione-e-follia@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T103000
+DTEND;TZID=Europe/Rome:20261129T123000
+SUMMARY:BAM per BookCity. Memoria\, Ragione e Follia
+LOCATION:BAM – Biblioteca degli Alberi Milano (Via G.de Castillia\, 28)
+DESCRIPTION:Una mattinata all’aperto tra botanica e letteratura\, per ris
+ coprire la natura che ci circonda sulle tracce di Orlando Furioso.Ore 10.3
+ 0 – Passeggiata “Sette tap. BookCity · Ambiente\, Scienza e Natura\, 
+ Ariosto\, Il senno sulla Luna. BookCity: ingresso libero fino a esauriment
+ o posti\, per alcuni incontri serve prenotare su bookcitymilano.it. https:
+ //www.bookcitymilano.it/eventi/2026/bam-per-bookcity-memoria-ragione-e-fol
+ lia
+URL:https://www.bookcitymilano.it/eventi/2026/bam-per-bookcity-memoria-ragi
+ one-e-follia
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-leremo-dei-folli@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T110000
+DTEND;TZID=Europe/Rome:20261129T130000
+SUMMARY:L’eremo dei folli
+LOCATION:Museo di Storia Naturale di Milano (Corso Venezia\, 55)
+DESCRIPTION:Con Agnese Messina e Alessandro Beretta. BookCity · Ambiente\,
+  Scienza e Natura\, Narrativa. BookCity: ingresso libero fino a esauriment
+ o posti\, per alcuni incontri serve prenotare su bookcitymilano.it. https:
+ //www.bookcitymilano.it/eventi/2026/eremo-dei-folli
+URL:https://www.bookcitymilano.it/eventi/2026/eremo-dei-folli
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-coinquilini-bestiali-conoscere-resistere-o-convi@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T113000
+DTEND;TZID=Europe/Rome:20261129T133000
+SUMMARY:Coinquilini bestiali. Conoscere\, resistere o convivere con gli ani
+ mali che si autoinvitano a casa nostra
+LOCATION:Acquario Civico di Milano - Sala Conferenze (Viale G. B. Gadio\, 2
+ )
+DESCRIPTION:Con Nicola Bressi\, Valeria Barbi e Leonardo Mazzeo (@bestiaaal
+ e). BookCity · Ambiente\, Scienza e Natura. BookCity: ingresso libero fin
+ o a esaurimento posti\, per alcuni incontri serve prenotare su bookcitymil
+ ano.it. https://www.bookcitymilano.it/eventi/2026/coinquilini-bestiali-con
+ oscere-resistere-o-convivere-con-gli-animali
+URL:https://www.bookcitymilano.it/eventi/2026/coinquilini-bestiali-conoscer
+ e-resistere-o-convivere-con-gli-animali
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-che-cose-il-microbiota-alla-scoperta-del-secondo@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T123000
+DTEND;TZID=Europe/Rome:20261129T143000
+SUMMARY:Che cos’è il microbiota: alla scoperta del secondo cervello
+LOCATION:Museo di Storia Naturale di Milano (Corso Venezia\, 55)
+DESCRIPTION:Con Manuela Monti\, Carlo Alberto Redi e Anna Fregonara. BookCi
+ ty · Ambiente\, Scienza e Natura\, Cura e Salute. BookCity: ingresso libe
+ ro fino a esaurimento posti\, per alcuni incontri serve prenotare su bookc
+ itymilano.it. https://www.bookcitymilano.it/eventi/2026/che-cose-il-microb
+ iota
+URL:https://www.bookcitymilano.it/eventi/2026/che-cose-il-microbiota
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-la-letteratura-climatica-tra-scienza-desideri-e-@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T143000
+DTEND;TZID=Europe/Rome:20261129T163000
+SUMMARY:La letteratura climatica tra scienza\, desideri e decostruzione
+LOCATION:Cascina nascosta (Viale Emilio Alemagna\, 14 - interno del Parco S
+ empione)
+DESCRIPTION:Con Francesco Verso\, Lorenzo Zaffaroni\, Franco Ricciardiello 
+ e Matteo Spini. BookCity · Ambiente\, Scienza e Natura. BookCity: ingress
+ o libero fino a esaurimento posti\, per alcuni incontri serve prenotare su
+  bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/la-letteratu
+ ra-climatica-tra-scienza-desideri-e-decostruzione
+URL:https://www.bookcitymilano.it/eventi/2026/la-letteratura-climatica-tra-
+ scienza-desideri-e-decostruzione
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-scritti-dalla-citta-mondo-immaginare-futuri-im-p@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T143000
+DTEND;TZID=Europe/Rome:20261129T163000
+SUMMARY:Scritti dalla Città Mondo - Immaginare futuri im(possibili): legge
+ re il reale attraverso le lenti della fantascienza
+LOCATION:MUDEC - Museo delle Culture - Spazio delle Culture “Khaled al-As
+ aad” (via Tortona 56)
+DESCRIPTION:Con Floriana Quaretti\, Taylor Blackfyre e Giulia Ciccotti. A c
+ ura dell'Associazione Orquidea de Venezuela. BookCity · Narrativa. BookCi
+ ty: ingresso libero fino a esaurimento posti\, per alcuni incontri serve p
+ renotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/s
+ critti-dalla-citta-mondo-immaginare-futuri-impossibili-leggere-il-reale-at
+ traverso-le-lenti-della-fantascienza
+URL:https://www.bookcitymilano.it/eventi/2026/scritti-dalla-citta-mondo-imm
+ aginare-futuri-impossibili-leggere-il-reale-attraverso-le-lenti-della-fant
+ ascienza
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-le-parole-della-cura-conoscere@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T150000
+DTEND;TZID=Europe/Rome:20261129T170000
+SUMMARY:Le parole della cura - Conoscere
+LOCATION:Museo Nazionale Scienza e Tecnologia Leonardo da Vinci - Cenacolo 
+ (Via San Vittore\, 21)
+DESCRIPTION:Con Telmo Pievani ed Eliana Liotta. Con il supporto non condizi
+ onante di Recordati. BookCity · Ambiente\, Scienza e Natura\, Cura e Salu
+ te. BookCity: ingresso libero fino a esaurimento posti\, per alcuni incont
+ ri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eve
+ nti/2026/sei-storie-di-buona-ignoranza
+URL:https://www.bookcitymilano.it/eventi/2026/sei-storie-di-buona-ignoranza
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-chiedilo-agli-alberi@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T150000
+DTEND;TZID=Europe/Rome:20261129T170000
+SUMMARY:Chiedilo agli alberi
+LOCATION:Tempio Civico di San Sebastiano (Via Torino\, 28)
+DESCRIPTION:Con Guidalberto Bormolini. BookCity · Ambiente\, Scienza e Nat
+ ura. BookCity: ingresso libero fino a esaurimento posti\, per alcuni incon
+ tri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/ev
+ enti/2026/chiedilo-agli-alberi
+URL:https://www.bookcitymilano.it/eventi/2026/chiedilo-agli-alberi
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-pbzr-la-forma-dellacqua@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T150000
+DTEND;TZID=Europe/Rome:20261129T170000
+SUMMARY:PBZR - La forma dell’acqua
+LOCATION:IIF - Istituto Italiano di Fotografia (Via Enrico Caviglia\, 3\, 2
+ 0139 MI\, Italia)
+DESCRIPTION:Con Erminio Annunzi e Nino Romeo. BookCity · Ambiente\, Scienz
+ a e Natura\, Arte\, Fotografia\, Moda. BookCity: ingresso libero fino a es
+ aurimento posti\, per alcuni incontri serve prenotare su bookcitymilano.it
+ . https://www.bookcitymilano.it/eventi/2026/pbzr-la-forma-dellacqua
+URL:https://www.bookcitymilano.it/eventi/2026/pbzr-la-forma-dellacqua
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-di-terra-corpi-libri-e-altri-animali@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T160000
+DTEND;TZID=Europe/Rome:20261129T180000
+SUMMARY:Di terra\, corpi\, libri e altri animali
+LOCATION:Cascina nascosta (Viale Emilio Alemagna\, 14 - interno del Parco S
+ empione)
+DESCRIPTION:Con Serenella Iovino e Mauro Garofalo. BookCity · Ambiente\, S
+ cienza e Natura\, Giornalismo\, Informazione e Attualità. BookCity: ingre
+ sso libero fino a esaurimento posti\, per alcuni incontri serve prenotare 
+ su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/la-lettera
+ tura-come-strategia-di-sopravvivenza
+URL:https://www.bookcitymilano.it/eventi/2026/la-letteratura-come-strategia
+ -di-sopravvivenza
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-il-fiume@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T163000
+DTEND;TZID=Europe/Rome:20261129T183000
+SUMMARY:Il fiume
+LOCATION:Castello Sforzesco - Sala Bertarelli (Castello Sforzesco)
+DESCRIPTION:Con Guido Maria Brera e Mario Calabresi. BookCity · Ambiente\,
+  Scienza e Natura\, Noir e Thriller\, Politica\, Legalità e Giustizia. Bo
+ okCity: ingresso libero fino a esaurimento posti\, per alcuni incontri ser
+ ve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/20
+ 26/il-fiume
+URL:https://www.bookcitymilano.it/eventi/2026/il-fiume
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-non-siamo-soli-il-mondo-animale-con-cui-condivid@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T170000
+DTEND;TZID=Europe/Rome:20261129T190000
+SUMMARY:Non siamo soli: il mondo animale con cui condividiamo il pianeta
+LOCATION:Cascina nascosta (Viale Emilio Alemagna\, 14 - interno del Parco S
+ empione)
+DESCRIPTION:Con Giacomo Sartori\, Gianfranco Mormino\, Martina Micchichè e
+  Giona Restelli. BookCity · Ambiente\, Scienza e Natura. BookCity: ingres
+ so libero fino a esaurimento posti\, per alcuni incontri serve prenotare s
+ u bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/non-siamo-s
+ oli-il-mondo-animale-con-cui-condividiamo-il-pianeta
+URL:https://www.bookcitymilano.it/eventi/2026/non-siamo-soli-il-mondo-anima
+ le-con-cui-condividiamo-il-pianeta
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-le-parole-della-cura-difendersi@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T170000
+DTEND;TZID=Europe/Rome:20261129T190000
+SUMMARY:Le parole della cura - Difendersi
+LOCATION:Museo Nazionale Scienza e Tecnologia Leonardo da Vinci - Cenacolo 
+ (Via San Vittore\, 21)
+DESCRIPTION:Con Alberto Mantovani ed Eliana Liotta. Con il supporto non con
+ dizionante di Recordati. BookCity · Ambiente\, Scienza e Natura\, Cura e 
+ Salute. BookCity: ingresso libero fino a esaurimento posti\, per alcuni in
+ contri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it
+ /eventi/2026/le-parole-della-cura-difendersi
+URL:https://www.bookcitymilano.it/eventi/2026/le-parole-della-cura-difender
+ si
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-storie-a-cielo-aperto@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T170000
+DTEND;TZID=Europe/Rome:20261129T190000
+SUMMARY:Storie a cielo aperto
+LOCATION:Museo di Storia Naturale di Milano (Corso Venezia\, 55)
+DESCRIPTION:Con Giovanni Storti e Arianna Izzi. BookCity · Ambiente\, Scie
+ nza e Natura. BookCity: ingresso libero fino a esaurimento posti\, per alc
+ uni incontri serve prenotare su bookcitymilano.it. https://www.bookcitymil
+ ano.it/eventi/2026/storie-a-cielo-aperto
+URL:https://www.bookcitymilano.it/eventi/2026/storie-a-cielo-aperto
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-animal-equality-la-fabbrica-della-carne@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T170000
+DTEND;TZID=Europe/Rome:20261129T190000
+SUMMARY:Animal Equality. La fabbrica della carne
+LOCATION:Teatro Franco Parenti - Biblioteca (Via Pier Lombardo 14)
+DESCRIPTION:Con Animal Equality. BookCity · Ambiente\, Scienza e Natura\, 
+ Economia e Lavoro. BookCity: ingresso libero fino a esaurimento posti\, pe
+ r alcuni incontri serve prenotare su bookcitymilano.it. https://www.bookci
+ tymilano.it/eventi/2026/animal-equality-la-fabbrica-della-carne
+URL:https://www.bookcitymilano.it/eventi/2026/animal-equality-la-fabbrica-d
+ ella-carne
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-l-italia-nascosta@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T180000
+DTEND;TZID=Europe/Rome:20261129T200000
+SUMMARY:L'Italia nascosta
+LOCATION:Museo di Storia Naturale di Milano (Corso Venezia\, 55)
+DESCRIPTION:Con Edward Cutler e Cristiano Dal Sasso. BookCity · Ambiente\,
+  Scienza e Natura\, Autori Stranieri. BookCity: ingresso libero fino a esa
+ urimento posti\, per alcuni incontri serve prenotare su bookcitymilano.it.
+  https://www.bookcitymilano.it/eventi/2026/litalia-nascosta
+URL:https://www.bookcitymilano.it/eventi/2026/litalia-nascosta
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-le-parole-della-cura-nutrirsi@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T180000
+DTEND;TZID=Europe/Rome:20261129T200000
+SUMMARY:Le parole della cura - Nutrirsi
+LOCATION:Museo Nazionale Scienza e Tecnologia Leonardo da Vinci - Cenacolo 
+ (Via San Vittore\, 21)
+DESCRIPTION:Con Leonardo Calò\, Raffaela Di Pace\, Stefano Vendrame ed Eli
+ ana Liotta. Con il supporto non condizionante di Recordati. BookCity · Am
+ biente\, Scienza e Natura\, Cura e Salute. BookCity: ingresso libero fino 
+ a esaurimento posti\, per alcuni incontri serve prenotare su bookcitymilan
+ o.it. https://www.bookcitymilano.it/eventi/2026/le-parole-della-cura-nutri
+ rsi
+URL:https://www.bookcitymilano.it/eventi/2026/le-parole-della-cura-nutrirsi
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-neuroscienze-e-vista-riabilitazione-neuropsicolo@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T183000
+DTEND;TZID=Europe/Rome:20261129T203000
+SUMMARY:Neuroscienze e vista: riabilitazione neuropsicologica per il beness
+ ere dei tuoi occhi
+LOCATION:Casa di quartiere Piazza Berlinguer (Piazza Berlinguer)
+DESCRIPTION:Con Maria Cristina Zandonella Necca. BookCity · Ambiente\, Sci
+ enza e Natura\, BCM Sociale\, Cura e Salute. BookCity: ingresso libero fin
+ o a esaurimento posti\, per alcuni incontri serve prenotare su bookcitymil
+ ano.it. https://www.bookcitymilano.it/eventi/2026/neuroscienze-e-vista-ria
+ bilitazione-neuropsicologica-per-il-benessere-dei-tuoi-occhi
+URL:https://www.bookcitymilano.it/eventi/2026/neuroscienze-e-vista-riabilit
+ azione-neuropsicologica-per-il-benessere-dei-tuoi-occhi
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-01-curae-2026-ai-will-shakespeare@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Curae 2026: AI Will Shakespeare
@@ -102,7 +762,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-supernova-book-club-il-tempo-e-l-acqua-di-andri-@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261211T190000
 DTEND;TZID=Europe/Rome:20261211T210000
 SUMMARY:Supernova book club: Il tempo e l'acqua di Andri Snær Magnason

@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-kaleidoscope-ai-7-crescere-e-vendere-con-l-intel@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261124T183000
 DTEND;TZID=Europe/Rome:20261124T203000
 SUMMARY:Kaleidoscope AI #7: crescere e vendere con l'intelligenza artificia
@@ -42,7 +42,7 @@ CATEGORIES:Tech e digitale
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-agents-anonymous-milan-chapter@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261125T183000
 DTEND;TZID=Europe/Rome:20261125T203000
 SUMMARY:Agents Anonymous: Milan Chapter
@@ -57,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-riprendersi-il-futuro-tecnologia-impresa-e-la-cr@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261126T180000
 DTEND;TZID=Europe/Rome:20261126T200000
 SUMMARY:Riprendersi il futuro: tecnologia\, impresa e la crisi dell'immagin
@@ -73,7 +73,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-tech-si-gira-ghost-in-the-shell-con-luca-perri@acculturiamoc
  i.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261126T190000
 DTEND;TZID=Europe/Rome:20261126T210000
 SUMMARY:Tech\, si gira! Ghost in the Shell\, con Luca Perri
@@ -87,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-l-eta-dei-social-quando-entrare-come-proteggersi@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261127T110000
 DTEND;TZID=Europe/Rome:20261127T130000
 SUMMARY:L'età dei social: quando entrare\, come proteggersi\, cosa non per
@@ -100,9 +100,296 @@ URL:https://www.fondazionecorriere.corriere.it/iniziative/
 CATEGORIES:Tech e digitale
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-educene@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T173000
+DTEND;TZID=Europe/Rome:20261127T193000
+SUMMARY:Educene
+LOCATION:Fondazione Corrente ETS (Via Carlo Porta\, 5)
+DESCRIPTION:Con Michelangelo Pistoletto\, Francesco Monico e Yahya Pallavic
+ ini. BookCity · Arte\, Fotografia\, Moda\, Digitale e Intelligenza Artifi
+ ciale. BookCity: ingresso libero fino a esaurimento posti\, per alcuni inc
+ ontri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/
+ eventi/2026/educene
+URL:https://www.bookcitymilano.it/eventi/2026/educene
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-dal-fuoco-allai-come-luomo-ha-imparato-a-cambiar@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T180000
+DTEND;TZID=Europe/Rome:20261127T200000
+SUMMARY:Dal fuoco all’AI: come l’uomo ha imparato a cambiare il mondo
+LOCATION:Museo Nazionale Scienza e Tecnologia Leonardo da Vinci - Cenacolo 
+ (Via San Vittore\, 21)
+DESCRIPTION:Con Massimo Temporelli e Massimo Polidoro. BookCity · Ambiente
+ \, Scienza e Natura\, Digitale e Intelligenza Artificiale. BookCity: ingre
+ sso libero fino a esaurimento posti\, per alcuni incontri serve prenotare 
+ su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/dal-fuoco-
+ allai-come-luomo-ha-imparato-a-cambiare-il-mondo
+URL:https://www.bookcitymilano.it/eventi/2026/dal-fuoco-allai-come-luomo-ha
+ -imparato-a-cambiare-il-mondo
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-il-design-e-le-nuove-identita-degli-oggetti-cont@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T180000
+DTEND;TZID=Europe/Rome:20261127T200000
+SUMMARY:Il design e le nuove identità degli oggetti contemporanei
+LOCATION:ADI Design Museum - Sala Quattro (Piazza Compasso d'Oro 1)
+DESCRIPTION:Con Medardo Chiapponi\, Denis Santachiara\, Luisa Collina\, Car
+ lo Forcolini e Armando Massarenti. BookCity · Architettura\, Design\, Urb
+ anistica\, Digitale e Intelligenza Artificiale. BookCity: ingresso libero 
+ fino a esaurimento posti\, per alcuni incontri serve prenotare su bookcity
+ milano.it. https://www.bookcitymilano.it/eventi/2026/visioni-e-innovazioni
+ -design-e-cultura-materiale-contemporanea
+URL:https://www.bookcitymilano.it/eventi/2026/visioni-e-innovazioni-design-
+ e-cultura-materiale-contemporanea
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-il-senno-delle-macchine-emozioni-e-coscienza-nei@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T183000
+DTEND;TZID=Europe/Rome:20261127T203000
+SUMMARY:Il senno delle macchine: emozioni e coscienza nei robot
+LOCATION:Libreria Claudiana (Via Francesco Sforza 12/A)
+DESCRIPTION:Con Antonio Chella e Simone Arcagni. BookCity · Digitale e Int
+ elligenza Artificiale. BookCity: ingresso libero fino a esaurimento posti\
+ , per alcuni incontri serve prenotare su bookcitymilano.it. https://www.bo
+ okcitymilano.it/eventi/2026/il-senno-delle-macchine
+URL:https://www.bookcitymilano.it/eventi/2026/il-senno-delle-macchine
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-macro-le-notizie-a-impatto-globale-podcast-live@acculturiamo
+ ci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T140000
+DTEND;TZID=Europe/Rome:20261128T160000
+SUMMARY:Macro - Le notizie a impatto globale. Podcast live
+LOCATION:MUDEC - Museo delle Culture - Auditorium (via Tortona 56)
+DESCRIPTION:Con Angelica Migliorisi e Antonio Talia. A cura de Il Sole 24 O
+ RE. BookCity · Digitale e Intelligenza Artificiale\, Podcast e Radio. Boo
+ kCity: ingresso libero fino a esaurimento posti\, per alcuni incontri serv
+ e prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/202
+ 6/Macro-le-notizie-a-impatto-globale-podcast-live
+URL:https://www.bookcitymilano.it/eventi/2026/Macro-le-notizie-a-impatto-gl
+ obale-podcast-live
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-scritti-dalla-citta-mondo-laltra-meta-dellia-ans@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T143000
+DTEND;TZID=Europe/Rome:20261128T163000
+SUMMARY:Scritti dalla Città Mondo - L’altra metà dell’IA: ansie e spe
+ ranze nella fantascienza cinese contemporanea
+LOCATION:MUDEC - Museo delle Culture - Spazio delle Culture “Khaled al-As
+ aad” (via Tortona 56)
+DESCRIPTION:Con Francesco Vero\, Francesca Bistocchi\, Alessandra Lavagnino
+  e un video intervento di Wu Yan. A cura dell'Istituto Confucio dell'Unive
+ rsità degli Studi di Mila. BookCity · Digitale e Intelligenza Artificial
+ e\, Identità e Culture\, Narrativa. BookCity: ingresso libero fino a esau
+ rimento posti\, per alcuni incontri serve prenotare su bookcitymilano.it. 
+ https://www.bookcitymilano.it/eventi/2026/scritti-dalla-citta-mondo-laltra
+ -meta-dellia-ansie-e-speranze-nella-fantascienza-cinese-contemporanea-data
+ -e-ora-da-confermare-protagonisti-da-confermare
+URL:https://www.bookcitymilano.it/eventi/2026/scritti-dalla-citta-mondo-lal
+ tra-meta-dellia-ansie-e-speranze-nella-fantascienza-cinese-contemporanea-d
+ ata-e-ora-da-confermare-protagonisti-da-confermare
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-la-coscienza-dei-robot-la-nascita-del-se-sinteti@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T150000
+DTEND;TZID=Europe/Rome:20261128T170000
+SUMMARY:La coscienza dei robot. La nascita del sé sintetico e il futuro de
+ ll'empatia
+LOCATION:Circolo Filologico Milanese - Sala Liberty (via Clerici 10)
+DESCRIPTION:Con Pierangelo Garzia\, Enzo Soresi\, Leonardo Patrignani e Ant
+ onio Chella. BookCity · Digitale e Intelligenza Artificiale. BookCity: in
+ gresso libero fino a esaurimento posti\, per alcuni incontri serve prenota
+ re su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/la-cosc
+ ienza-dei-robot
+URL:https://www.bookcitymilano.it/eventi/2026/la-coscienza-dei-robot
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-chi-sta-costruendo-la-civilta-dellai@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T150000
+DTEND;TZID=Europe/Rome:20261128T170000
+SUMMARY:Chi sta costruendo la civiltà dell’AI?
+LOCATION:Museo Nazionale Scienza e Tecnologia Leonardo da Vinci - Cenacolo 
+ (Via San Vittore\, 21)
+DESCRIPTION:Con Luca De Biase e Giampaolo Colletti. BookCity · Digitale e 
+ Intelligenza Artificiale. BookCity: ingresso libero fino a esaurimento pos
+ ti\, per alcuni incontri serve prenotare su bookcitymilano.it. https://www
+ .bookcitymilano.it/eventi/2026/fondazione-i-principi-della-civilta-artific
+ iale
+URL:https://www.bookcitymilano.it/eventi/2026/fondazione-i-principi-della-c
+ ivilta-artificiale
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-curare-nellera-digitale-la-sanita-tra-ai-telemed@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T153000
+DTEND;TZID=Europe/Rome:20261128T173000
+SUMMARY:Curare nell’era digitale: la sanità tra AI\, telemedicina e dati
+LOCATION:Palazzo Assolombarda - Sala Lounge (Via Pantano\, 9)
+DESCRIPTION:Con Gianluca Dotti\, Marco Foracchia\, Alessandra Gelera ed Ele
+ na Sini. BookCity · Digitale e Intelligenza Artificiale. BookCity: ingres
+ so libero fino a esaurimento posti\, per alcuni incontri serve prenotare s
+ u bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/curare-nell
+ era-digitale-la-sanita-tra-ai-telemedicina-e-dati
+URL:https://www.bookcitymilano.it/eventi/2026/curare-nellera-digitale-la-sa
+ nita-tra-ai-telemedicina-e-dati
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-riprendiamoci-la-luna@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T160000
+DTEND;TZID=Europe/Rome:20261128T180000
+SUMMARY:Riprendiamoci la Luna
+LOCATION:Biblioteca La Caldera - Biblioteca di Condominio - Salone Acerbi (
+ Via Caldera\, 115)
+DESCRIPTION:Con Gianni Gandini\, Mauro Cassinari e Alessandra Sgarbi. BookC
+ ity · BCM Sociale\, Biblioteche\, Digitale e Intelligenza Artificiale. Bo
+ okCity: ingresso libero fino a esaurimento posti\, per alcuni incontri ser
+ ve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/20
+ 26/riprendiamoci-la-luna
+URL:https://www.bookcitymilano.it/eventi/2026/riprendiamoci-la-luna
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-la-fabbrica-del-consenso-storie-media-e-algoritm@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T163000
+DTEND;TZID=Europe/Rome:20261128T183000
+SUMMARY:La fabbrica del consenso: storie\, media e algoritmi che plasmano l
+ e nostre vite
+LOCATION:Milano LUISS Hub for makers and students (via Massimo D'Azeglio 3\
+ , 20154)
+DESCRIPTION:Con Emanuele Bevilacqua\, Serena Mazzini e Marco Chiaradonna. B
+ ookCity · Digitale e Intelligenza Artificiale. BookCity: ingresso libero 
+ fino a esaurimento posti\, per alcuni incontri serve prenotare su bookcity
+ milano.it. https://www.bookcitymilano.it/eventi/2026/la-fabbrica-del-conse
+ nso
+URL:https://www.bookcitymilano.it/eventi/2026/la-fabbrica-del-consenso
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-come-che-ci-abituiamo-allo-smartphone-una-conver@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T170000
+DTEND;TZID=Europe/Rome:20261128T190000
+SUMMARY:Com’è che ci abituiamo allo smartphone? Una conversazione sul di
+ spositivo più temuto e desiderato del secolo
+LOCATION:Museo Nazionale Scienza e Tecnologia Leonardo da Vinci - Sala Bian
+ camano (Via Olona\, 6/b)
+DESCRIPTION:Con Gabriele Balbi\, Massimo Cerulo\, Anna Garavini\, Stefano B
+ oati e Simona Casonato. BookCity · Digitale e Intelligenza Artificiale. B
+ ookCity: ingresso libero fino a esaurimento posti\, per alcuni incontri se
+ rve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2
+ 026/come-ci-abituiamo-allo-smartphone
+URL:https://www.bookcitymilano.it/eventi/2026/come-ci-abituiamo-allo-smartp
+ hone
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-planetaria-talk-se-l-ai-risponde-chi-sa-ancora-d@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T113000
+DTEND;TZID=Europe/Rome:20261129T133000
+SUMMARY:Planetaria Talk: se l'AI risponde\, chi sa ancora domandare?
+LOCATION:Castello Sforzesco - Sala Viscontea (Piazza Castello 1)
+DESCRIPTION:Con Federico Ferrazza e Teresa Ciabatti. Introduce Stefano Acco
+ rsi. Modera Mario Moroni. In collaborazione con Intesa Sanpaolo. BookCity 
+ · Digitale e Intelligenza Artificiale. BookCity: ingresso libero fino a e
+ saurimento posti\, per alcuni incontri serve prenotare su bookcitymilano.i
+ t. https://www.bookcitymilano.it/eventi/2026/planetaria-talk
+URL:https://www.bookcitymilano.it/eventi/2026/planetaria-talk
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-dal-tecnocapitalismo-al-tecnoimperialismo-oligar@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T123000
+DTEND;TZID=Europe/Rome:20261129T143000
+SUMMARY:Dal tecnocapitalismo al tecnoimperialismo. Oligarchie digitali\, in
+ telligenza artificiale e nuovi rapporti di potere
+LOCATION:Fondazione Giangiacomo Feltrinelli - Sala Lettura (Viale Pasubio 5
+ )
+DESCRIPTION:Con Loretta Napoleoni e Alessandro Volpi. BookCity · Digitale 
+ e Intelligenza Artificiale\, Diritti e Democrazia\, Economia e Lavoro. Boo
+ kCity: ingresso libero fino a esaurimento posti\, per alcuni incontri serv
+ e prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/202
+ 6/dal-tecnocapitalismo-al-tecnoimperialismo-oligarchie-digitali-intelligen
+ za-artificiale-e-nuovi-rapporti-di-potere
+URL:https://www.bookcitymilano.it/eventi/2026/dal-tecnocapitalismo-al-tecno
+ imperialismo-oligarchie-digitali-intelligenza-artificiale-e-nuovi-rapporti
+ -di-potere
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-scritti-dalla-citta-mondo-dentro-i-media-cinesi-@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T160000
+DTEND;TZID=Europe/Rome:20261129T180000
+SUMMARY:Scritti dalla Città Mondo - Dentro i media cinesi. Come la Cina ra
+ cconta se stessa
+LOCATION:MUDEC - Museo delle Culture - Spazio delle Culture “Khaled al-As
+ aad” (via Tortona 56)
+DESCRIPTION:Con Natalia Riva\, Gianluigi Negro\, Paolo Bory e Bettina Mottu
+ ra. A cura dell'Istituto Confucio dell'Università degli Studi di Milano. 
+ BookCity · Digitale e Intelligenza Artificiale\, Identità e Culture. Boo
+ kCity: ingresso libero fino a esaurimento posti\, per alcuni incontri serv
+ e prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/202
+ 6/scritti-dalla-citta-mondo-dentro-i-media-cinesi-come-la-cina-racconta-se
+ -stessa
+URL:https://www.bookcitymilano.it/eventi/2026/scritti-dalla-citta-mondo-den
+ tro-i-media-cinesi-come-la-cina-racconta-se-stessa
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-sotto-attacco-di-hater-comprendere-l-odio-online@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T180000
+DTEND;TZID=Europe/Rome:20261129T200000
+SUMMARY:Sotto attacco di hater: comprendere l'odio online per ritrovare equ
+ ilibrio
+LOCATION:PIME - Pontificio Istituto Missioni Estere - Sala Cremonesi (Via M
+ onte Rosa\, 81)
+DESCRIPTION:Con Gabriele Parpiglia e Giovanni Terzi. BookCity · Digitale e
+  Intelligenza Artificiale. BookCity: ingresso libero fino a esaurimento po
+ sti\, per alcuni incontri serve prenotare su bookcitymilano.it. https://ww
+ w.bookcitymilano.it/eventi/2026/sotto-attacco-di-hater-comprendere-lodio-o
+ nline-per-ritrovare-equilibrio
+URL:https://www.bookcitymilano.it/eventi/2026/sotto-attacco-di-hater-compre
+ ndere-lodio-online-per-ritrovare-equilibrio
+CATEGORIES:Tech e digitale
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-01-today-at-apple-workshop-disegna-con-apple-pencil@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261201T140000
 DTEND;TZID=Europe/Rome:20261201T160000
 SUMMARY:Today at Apple · Workshop: disegna con Apple Pencil su iPad
@@ -116,7 +403,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-today-at-apple-workshop-scattare-belle-foto-con-@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261201T160000
 DTEND;TZID=Europe/Rome:20261201T180000
 SUMMARY:Today at Apple · Workshop: scattare belle foto con iPhone
@@ -129,7 +416,7 @@ CATEGORIES:Tech e digitale
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-il-futuro-e-una-questione-di-competenze@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261201T183000
 DTEND;TZID=Europe/Rome:20261201T203000
 SUMMARY:Il futuro è una questione di competenze
@@ -145,7 +432,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-booknight-lo-spacciatore-di-libri-presenta-il-ca@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261201T200000
 DTEND;TZID=Europe/Rome:20261201T220000
 SUMMARY:Booknight: lo Spacciatore di Libri presenta Il capitalismo della so
@@ -159,7 +446,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-data-center-la-casa-dell-ai-anche-in-italia@acculturiamoci.i
  t
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261203T183000
 DTEND;TZID=Europe/Rome:20261203T203000
 SUMMARY:Data center: la casa dell'AI anche in Italia?

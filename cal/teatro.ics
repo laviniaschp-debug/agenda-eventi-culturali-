@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-teatro-dietro-l-angolo-laboratorio-con-diana-man@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261124T180000
 DTEND;TZID=Europe/Rome:20261124T200000
 SUMMARY:Teatro dietro l'angolo: laboratorio con Diana Manea
@@ -42,7 +42,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-cost-of-living@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261124T193000
 DTEND;TZID=Europe/Rome:20261124T213000
 SUMMARY:Cost of living
@@ -56,7 +56,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261124T193000
 DTEND;TZID=Europe/Rome:20261124T213000
 SUMMARY:Io sono verticale
@@ -68,7 +68,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261124T193000
 DTEND;TZID=Europe/Rome:20261124T213000
 SUMMARY:Una delle ultime sere di carnovale
@@ -82,7 +82,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-pazza-con-vanessa-gravina@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261124T200000
 DTEND;TZID=Europe/Rome:20261124T220000
 SUMMARY:Pazza\, con Vanessa Gravina
@@ -95,7 +95,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-rompiamo-il-silenzio@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261124T200000
 DTEND;TZID=Europe/Rome:20261124T220000
 SUMMARY:Rompiamo il silenzio
@@ -108,7 +108,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-i-monologhi-della-vagina@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261124T203000
 DTEND;TZID=Europe/Rome:20261124T223000
 SUMMARY:I monologhi della vagina
@@ -121,7 +121,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-la-caccia-al-tesoro@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261124T203000
 DTEND;TZID=Europe/Rome:20261124T223000
 SUMMARY:La caccia al tesoro
@@ -137,7 +137,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-la-rivolta@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261124T203000
 DTEND;TZID=Europe/Rome:20261124T223000
 SUMMARY:La rivolta
@@ -149,7 +149,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-lu-santo-jullare-francesco-di-dario-fo@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261124T203000
 DTEND;TZID=Europe/Rome:20261124T223000
 SUMMARY:Lu Santo Jullàre Françesco di Dario Fo
@@ -163,7 +163,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-iliade-la-ballata-di-tersite@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Iliade: la ballata di Tersite
@@ -177,7 +177,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-lu-santo-jullare-francesco-di-dario-fo@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261125T191500
 DTEND;TZID=Europe/Rome:20261125T211500
 SUMMARY:Lu Santo Jullàre Françesco di Dario Fo
@@ -191,7 +191,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261125T193000
 DTEND;TZID=Europe/Rome:20261125T213000
 SUMMARY:Io sono verticale
@@ -203,7 +203,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-la-caccia-al-tesoro@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261125T193000
 DTEND;TZID=Europe/Rome:20261125T213000
 SUMMARY:La caccia al tesoro
@@ -219,7 +219,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-pazza-con-vanessa-gravina@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261125T194500
 DTEND;TZID=Europe/Rome:20261125T214500
 SUMMARY:Pazza\, con Vanessa Gravina
@@ -232,7 +232,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-cost-of-living@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261125T203000
 DTEND;TZID=Europe/Rome:20261125T223000
 SUMMARY:Cost of living
@@ -246,7 +246,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-la-rivolta@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261125T203000
 DTEND;TZID=Europe/Rome:20261125T223000
 SUMMARY:La rivolta
@@ -258,7 +258,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261125T203000
 DTEND;TZID=Europe/Rome:20261125T223000
 SUMMARY:Una delle ultime sere di carnovale
@@ -273,7 +273,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-uomini-si-diventa-nella-mente-di-un-femminicida@acculturiamo
  ci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261125T203000
 DTEND;TZID=Europe/Rome:20261125T223000
 SUMMARY:Uomini si diventa. Nella mente di un femminicida
@@ -285,7 +285,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-bobby@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Bobby
@@ -296,7 +296,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-teatro-dietro-l-angolo-la-drammaturgia@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261126T180000
 DTEND;TZID=Europe/Rome:20261126T200000
 SUMMARY:Teatro dietro l'angolo: la drammaturgia
@@ -311,7 +311,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261126T193000
 DTEND;TZID=Europe/Rome:20261126T213000
 SUMMARY:Io sono verticale
@@ -323,7 +323,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261126T193000
 DTEND;TZID=Europe/Rome:20261126T213000
 SUMMARY:Una delle ultime sere di carnovale
@@ -337,7 +337,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-cost-of-living@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261126T194500
 DTEND;TZID=Europe/Rome:20261126T214500
 SUMMARY:Cost of living
@@ -351,7 +351,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-bravissime@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261126T200000
 DTEND;TZID=Europe/Rome:20261126T220000
 SUMMARY:Bravissime
@@ -364,7 +364,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-lu-santo-jullare-francesco-di-dario-fo@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261126T201500
 DTEND;TZID=Europe/Rome:20261126T221500
 SUMMARY:Lu Santo Jullàre Françesco di Dario Fo
@@ -378,7 +378,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-adelchi-con-roberto-trifiro@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261126T203000
 DTEND;TZID=Europe/Rome:20261126T223000
 SUMMARY:Adelchi con Roberto Trifirò
@@ -392,7 +392,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-la-caccia-al-tesoro@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261126T203000
 DTEND;TZID=Europe/Rome:20261126T223000
 SUMMARY:La caccia al tesoro
@@ -408,7 +408,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-la-rivolta@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261126T203000
 DTEND;TZID=Europe/Rome:20261126T223000
 SUMMARY:La rivolta
@@ -420,7 +420,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-pazza-con-vanessa-gravina@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261126T210000
 DTEND;TZID=Europe/Rome:20261126T230000
 SUMMARY:Pazza\, con Vanessa Gravina
@@ -432,8 +432,41 @@ URL:https://teatrofrancoparenti.it/spettacolo/pazza/
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-il-giullare-ribelle-dario-fo-tra-linguaggio-teat@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261127T150000
+DTEND;TZID=Europe/Rome:20261127T170000
+SUMMARY:Il giullare ribelle. Dario Fo tra linguaggio\, teatro e Milano
+LOCATION:Fondazione Ambrosianeum (Via delle Ore\, 3)
+DESCRIPTION:Con Marco Garzonio\, Giuseppina Manin e Matthias Martelli. Book
+ City · Anniversari\, Classici\, Milano racconta Milano. BookCity: ingress
+ o libero fino a esaurimento posti\, per alcuni incontri serve prenotare su
+  bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/il-giullare-
+ ribelle-dario-fo-tra-linguaggio-teatro-e-milano
+URL:https://www.bookcitymilano.it/eventi/2026/il-giullare-ribelle-dario-fo-
+ tra-linguaggio-teatro-e-milano
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-la-scala-dei-libri-respirare-la-danza-fotografia@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261127T181500
+DTEND;TZID=Europe/Rome:20261127T201500
+SUMMARY:La Scala dei libri - Respirare la danza. Fotografia in movimento
+LOCATION:Teatro alla Scala - Ridotto dei Palchi (Piazza della Scala)
+DESCRIPTION:Con Silvia Lelli e Carlo Serra. BookCity · Teatro e Performanc
+ e. BookCity: ingresso libero fino a esaurimento posti\, per alcuni incontr
+ i serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/even
+ ti/2026/la-scala-dei-libri-respirare-la-danza-fotografia-in-movimento
+URL:https://www.bookcitymilano.it/eventi/2026/la-scala-dei-libri-respirare-
+ la-danza-fotografia-in-movimento
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261127T190000
 DTEND;TZID=Europe/Rome:20261127T210000
 SUMMARY:Io sono verticale
@@ -445,7 +478,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-lu-santo-jullare-francesco-di-dario-fo@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261127T191500
 DTEND;TZID=Europe/Rome:20261127T211500
 SUMMARY:Lu Santo Jullàre Françesco di Dario Fo
@@ -458,8 +491,22 @@ URL:https://teatrofrancoparenti.it/spettacolo/lu-santo-jullare-francesco/
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-la-luna-e-il-senno@acculturiamoci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261127T193000
+DTEND;TZID=Europe/Rome:20261127T213000
+SUMMARY:La Luna e il Senno
+LOCATION:Fondazione Ambrosianeum (Via delle Ore\, 3)
+DESCRIPTION:Con Compagnia Teatrale Alma Rosé. BookCity · Il senno sulla L
+ una\, Teatro e Performance. BookCity: ingresso libero fino a esaurimento p
+ osti\, per alcuni incontri serve prenotare su bookcitymilano.it. https://w
+ ww.bookcitymilano.it/eventi/2026/la-luna-e-il-senno
+URL:https://www.bookcitymilano.it/eventi/2026/la-luna-e-il-senno
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-pazza-con-vanessa-gravina@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261127T194500
 DTEND;TZID=Europe/Rome:20261127T214500
 SUMMARY:Pazza\, con Vanessa Gravina
@@ -472,7 +519,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-bravissime@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261127T200000
 DTEND;TZID=Europe/Rome:20261127T220000
 SUMMARY:Bravissime
@@ -485,7 +532,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-cost-of-living@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261127T201500
 DTEND;TZID=Europe/Rome:20261127T221500
 SUMMARY:Cost of living
@@ -499,7 +546,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-adelchi-con-roberto-trifiro@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:Adelchi con Roberto Trifirò
@@ -513,7 +560,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-di-madre-in-figlia@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:Di madre in figlia
@@ -526,7 +573,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-l-amante-di-harold-pinter@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:L'amante di Harold Pinter
@@ -539,7 +586,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-la-caccia-al-tesoro@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:La caccia al tesoro
@@ -555,7 +602,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-la-rivolta@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:La rivolta
@@ -567,7 +614,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:Una delle ultime sere di carnovale
@@ -581,7 +628,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-xx-variazioni-a-tre@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:XX variazioni a tre
@@ -593,8 +640,58 @@ URL:https://www.mentelocale.it/milano/132095-xx-variazioni-a-tre.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-hamelin-performance-di-teatro-integrato@acculturiamoci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261127T204500
+DTEND;TZID=Europe/Rome:20261127T224500
+SUMMARY:Hamelin – Performance di teatro integrato
+LOCATION:Fondazione Ambrosianeum (Via delle Ore\, 3)
+DESCRIPTION:Dal fare al vedere: in scena un estratto\, della durata di 30 m
+ inuti\, dello spettacolo Hamelin\, a cura di Alma Rosé in collaborazione 
+ con Cascina Biblioteca e Pi. BookCity · BCM Sociale\, Teatro e Performanc
+ e. BookCity: ingresso libero fino a esaurimento posti\, per alcuni incontr
+ i serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/even
+ ti/2026/hamelin-performance-di-teatro-integrato
+URL:https://www.bookcitymilano.it/eventi/2026/hamelin-performance-di-teatro
+ -integrato
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-caballero-soy-teatro-barocco-con-burattini@acculturiamoci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T113000
+DTEND;TZID=Europe/Rome:20261128T133000
+SUMMARY:Caballero soy! Teatro barocco con burattini
+LOCATION:Instituto Cervantes (Via Zebedia\, 2)
+DESCRIPTION:Lo spettacolo presenta tutta la ingegnosa vita e opera di Cerva
+ ntes riassunta in poco più di sessanta minuti. Lo stesso Cervantes – o 
+ meglio\, il suo burattino –. BookCity · Classici\, Teatro e Performance
+ . BookCity: ingresso libero fino a esaurimento posti\, per alcuni incontri
+  serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/event
+ i/2026/caballero-soy-teatro-barocco-con-burattini
+URL:https://www.bookcitymilano.it/eventi/2026/caballero-soy-teatro-barocco-
+ con-burattini
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-abitare-altre-vite-il-corpo-la-parola-la-scena@acculturiamoc
+ i.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T163000
+DTEND;TZID=Europe/Rome:20261128T183000
+SUMMARY:Abitare altre vite. Il corpo\, la parola\, la scena
+LOCATION:Piccolo Teatro Grassi - Chiostro Nina Vinchi (Via Rovello\, 2)
+DESCRIPTION:Con Vinicio Marchioni e Gianni Canova. BookCity · Teatro e Per
+ formance. BookCity: ingresso libero fino a esaurimento posti\, per alcuni 
+ incontri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.
+ it/eventi/2026/le-vite-in-atto-sette-storie-di-teatro
+URL:https://www.bookcitymilano.it/eventi/2026/le-vite-in-atto-sette-storie-
+ di-teatro
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-lu-santo-jullare-francesco-di-dario-fo@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261128T191500
 DTEND;TZID=Europe/Rome:20261128T211500
 SUMMARY:Lu Santo Jullàre Françesco di Dario Fo
@@ -608,7 +705,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-cost-of-living@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261128T193000
 DTEND;TZID=Europe/Rome:20261128T213000
 SUMMARY:Cost of living
@@ -622,7 +719,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-di-madre-in-figlia@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261128T193000
 DTEND;TZID=Europe/Rome:20261128T213000
 SUMMARY:Di madre in figlia
@@ -635,7 +732,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261128T193000
 DTEND;TZID=Europe/Rome:20261128T213000
 SUMMARY:Io sono verticale
@@ -647,7 +744,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-l-amante-di-harold-pinter@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261128T193000
 DTEND;TZID=Europe/Rome:20261128T213000
 SUMMARY:L'amante di Harold Pinter
@@ -660,7 +757,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261128T193000
 DTEND;TZID=Europe/Rome:20261128T213000
 SUMMARY:Una delle ultime sere di carnovale
@@ -674,7 +771,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-pazza-con-vanessa-gravina@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261128T194500
 DTEND;TZID=Europe/Rome:20261128T214500
 SUMMARY:Pazza\, con Vanessa Gravina
@@ -687,7 +784,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-bravissime@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261128T200000
 DTEND;TZID=Europe/Rome:20261128T220000
 SUMMARY:Bravissime
@@ -699,8 +796,25 @@ URL:https://www.mentelocale.it/milano/137381-bravissime.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-chapeau-un-delitto-all-improvviso@acculturiamoci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T200000
+DTEND;TZID=Europe/Rome:20261128T220000
+SUMMARY:Chapeau\, un delitto all'improvviso
+LOCATION:Teatro del Vigentino (Via Matera\, 7)
+DESCRIPTION:Con Isabella Cremonesi\, Dora Bungaro\, Elena Migliorini\, Fede
+ rico Perelli\, Lorenzo Pappalardo\, Alessandro Salati\, Giona Garancini\, 
+ Cinzia Pignataro\, Chiara Guere. BookCity · Noir e Thriller\, Teatro e Pe
+ rformance. BookCity: ingresso libero fino a esaurimento posti\, per alcuni
+  incontri serve prenotare su bookcitymilano.it. https://www.bookcitymilano
+ .it/eventi/2026/chapeau-un-delitto-allimprovviso-1
+URL:https://www.bookcitymilano.it/eventi/2026/chapeau-un-delitto-allimprovv
+ iso-1
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-la-caccia-al-tesoro@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261128T203000
 DTEND;TZID=Europe/Rome:20261128T223000
 SUMMARY:La caccia al tesoro
@@ -716,7 +830,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-la-rivolta@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261128T203000
 DTEND;TZID=Europe/Rome:20261128T223000
 SUMMARY:La rivolta
@@ -728,7 +842,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-stai-zitta@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261128T203000
 DTEND;TZID=Europe/Rome:20261128T223000
 SUMMARY:Stai zitta!
@@ -741,7 +855,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-xx-variazioni-a-tre@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261128T203000
 DTEND;TZID=Europe/Rome:20261128T223000
 SUMMARY:XX variazioni a tre
@@ -754,7 +868,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-sull-astolfo-e-sulla-luna-lettura-teatrale@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261129T140000
 DTEND;TZID=Europe/Rome:20261129T160000
 SUMMARY:Sull'Astolfo e sulla Luna: lettura teatrale
@@ -768,7 +882,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-io-sono-verticale@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261129T153000
 DTEND;TZID=Europe/Rome:20261129T173000
 SUMMARY:Io sono verticale
@@ -780,7 +894,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-lu-santo-jullare-francesco-di-dario-fo@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261129T154500
 DTEND;TZID=Europe/Rome:20261129T174500
 SUMMARY:Lu Santo Jullàre Françesco di Dario Fo
@@ -794,7 +908,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-pazza-con-vanessa-gravina@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261129T154500
 DTEND;TZID=Europe/Rome:20261129T174500
 SUMMARY:Pazza\, con Vanessa Gravina
@@ -807,7 +921,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-di-madre-in-figlia@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261129T160000
 DTEND;TZID=Europe/Rome:20261129T180000
 SUMMARY:Di madre in figlia
@@ -820,7 +934,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-l-amante-di-harold-pinter@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261129T160000
 DTEND;TZID=Europe/Rome:20261129T180000
 SUMMARY:L'amante di Harold Pinter
@@ -833,7 +947,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-la-caccia-al-tesoro@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261129T160000
 DTEND;TZID=Europe/Rome:20261129T180000
 SUMMARY:La caccia al tesoro
@@ -849,7 +963,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-una-delle-ultime-sere-di-carnovale@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261129T160000
 DTEND;TZID=Europe/Rome:20261129T180000
 SUMMARY:Una delle ultime sere di carnovale
@@ -863,7 +977,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-la-rivolta@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261129T163000
 DTEND;TZID=Europe/Rome:20261129T183000
 SUMMARY:La rivolta
@@ -875,7 +989,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-stai-zitta@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261129T163000
 DTEND;TZID=Europe/Rome:20261129T183000
 SUMMARY:Stai zitta!
@@ -887,7 +1001,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-xx-variazioni-a-tre@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261129T163000
 DTEND;TZID=Europe/Rome:20261129T183000
 SUMMARY:XX variazioni a tre
@@ -900,7 +1014,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-bravissime@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261129T170000
 DTEND;TZID=Europe/Rome:20261129T190000
 SUMMARY:Bravissime
@@ -912,9 +1026,44 @@ URL:https://www.mentelocale.it/milano/137381-bravissime.htm
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-dallo-scaffale-al-palcoscenico-lettura-teatrale-@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261129T170000
+DTEND;TZID=Europe/Rome:20261129T190000
+SUMMARY:Dallo scaffale al palcoscenico. Lettura teatrale de Le Troiane di E
+ uripide
+LOCATION:QuartaParete - Atelier teatrale di Anna Ginevra Ongaro
+DESCRIPTION:A cura di Ambra D'Amico e il suo gruppo di lettura. BookCity ·
+  BCM Sociale\, Biblioteche\, Classici. BookCity: ingresso libero fino a es
+ aurimento posti\, per alcuni incontri serve prenotare su bookcitymilano.it
+ . https://www.bookcitymilano.it/eventi/2026/dallo-scaffale-al-palcoscenico
+ -lettura-teatrale-de-le-troiane-di-euripide
+URL:https://www.bookcitymilano.it/eventi/2026/dallo-scaffale-al-palcoscenic
+ o-lettura-teatrale-de-le-troiane-di-euripide
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-chapeau-un-delitto-all-improvviso@acculturiamoci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261129T200000
+DTEND;TZID=Europe/Rome:20261129T220000
+SUMMARY:Chapeau\, un delitto all'improvviso
+LOCATION:Teatro del Vigentino (Via Matera\, 7)
+DESCRIPTION:Con Isabella Cremonesi\, Elisa Carabelli\, Alessandra La Ferlit
+ a\, Sabrina Giampaolo\, Chiara Maccagnola\, Daniela Riggio\, Alice Rizzini
+ \, Barbara Scalich\, Marzia Ugg. BookCity · Noir e Thriller\, Teatro e Pe
+ rformance. BookCity: ingresso libero fino a esaurimento posti\, per alcuni
+  incontri serve prenotare su bookcitymilano.it. https://www.bookcitymilano
+ .it/eventi/2026/chapeau-un-delitto-allimprovviso-2
+URL:https://www.bookcitymilano.it/eventi/2026/chapeau-un-delitto-allimprovv
+ iso-2
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-30-teatro-dietro-l-angolo-laboratorio-con-diana-man@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261130T180000
 DTEND;TZID=Europe/Rome:20261130T200000
 SUMMARY:Teatro dietro l'angolo: laboratorio con Diana Manea
@@ -929,7 +1078,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-curae-2026-non-ti-pago-apertura@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Curae 2026: Non ti pago (apertura)
@@ -946,7 +1095,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-teatro-dietro-l-angolo-laboratorio-con-diana-man@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261201T180000
 DTEND;TZID=Europe/Rome:20261201T200000
 SUMMARY:Teatro dietro l'angolo: laboratorio con Diana Manea
@@ -961,7 +1110,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-di-madre-in-figlia@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261201T193000
 DTEND;TZID=Europe/Rome:20261201T213000
 SUMMARY:Di madre in figlia
@@ -975,7 +1124,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-giuseppe-il-padre-putativo-anteprima-under-30@acculturiamoci
  .it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261201T193000
 DTEND;TZID=Europe/Rome:20261201T213000
 SUMMARY:Giuseppe: il padre putativo (anteprima under 30)
@@ -989,7 +1138,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-le-belle-notti-di-gianni-clementi@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261201T200000
 DTEND;TZID=Europe/Rome:20261201T220000
 SUMMARY:Le belle notti di Gianni Clementi
@@ -1002,7 +1151,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-bullet-catch@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261201T201500
 DTEND;TZID=Europe/Rome:20261201T221500
 SUMMARY:Bullet Catch
@@ -1016,7 +1165,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-don-milani-la-parola-che-nutre@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261201T203000
 DTEND;TZID=Europe/Rome:20261201T223000
 SUMMARY:Don Milani. La parola che nutre
@@ -1029,7 +1178,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-spose-del-vento@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Spose del vento
@@ -1041,7 +1190,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-don-milani-la-parola-che-nutre@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261202T191500
 DTEND;TZID=Europe/Rome:20261202T211500
 SUMMARY:Don Milani. La parola che nutre
@@ -1054,7 +1203,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-le-belle-notti-di-gianni-clementi@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261202T194500
 DTEND;TZID=Europe/Rome:20261202T214500
 SUMMARY:Le belle notti di Gianni Clementi
@@ -1067,7 +1216,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-bullet-catch@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261202T201500
 DTEND;TZID=Europe/Rome:20261202T221500
 SUMMARY:Bullet Catch
@@ -1081,7 +1230,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-chi-come-me@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261202T203000
 DTEND;TZID=Europe/Rome:20261202T223000
 SUMMARY:Chi come me
@@ -1095,7 +1244,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-curae-2026-portami-la-fuori@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Curae 2026: Portami là fuori
@@ -1111,7 +1260,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-chi-come-me@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261203T194500
 DTEND;TZID=Europe/Rome:20261203T214500
 SUMMARY:Chi come me
@@ -1125,7 +1274,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-don-milani-la-parola-che-nutre@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261203T201500
 DTEND;TZID=Europe/Rome:20261203T221500
 SUMMARY:Don Milani. La parola che nutre
@@ -1138,7 +1287,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-bullet-catch@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261203T203000
 DTEND;TZID=Europe/Rome:20261203T223000
 SUMMARY:Bullet Catch
@@ -1152,7 +1301,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-le-belle-notti-di-gianni-clementi@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261203T210000
 DTEND;TZID=Europe/Rome:20261203T230000
 SUMMARY:Le belle notti di Gianni Clementi
@@ -1165,7 +1314,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-giuseppe-il-padre-putativo@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Giuseppe: il padre putativo
@@ -1178,7 +1327,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-bullet-catch@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261204T190000
 DTEND;TZID=Europe/Rome:20261204T210000
 SUMMARY:Bullet Catch
@@ -1192,7 +1341,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-don-milani-la-parola-che-nutre@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261204T191500
 DTEND;TZID=Europe/Rome:20261204T211500
 SUMMARY:Don Milani. La parola che nutre
@@ -1205,7 +1354,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-lady-day-billie-holiday@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261204T193000
 DTEND;TZID=Europe/Rome:20261204T213000
 SUMMARY:Lady Day (Billie Holiday)
@@ -1219,7 +1368,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-le-belle-notti-di-gianni-clementi@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261204T194500
 DTEND;TZID=Europe/Rome:20261204T214500
 SUMMARY:Le belle notti di Gianni Clementi
@@ -1232,7 +1381,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-chi-come-me@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261204T201500
 DTEND;TZID=Europe/Rome:20261204T221500
 SUMMARY:Chi come me
@@ -1246,7 +1395,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-chi-come-me@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261205T154500
 DTEND;TZID=Europe/Rome:20261205T174500
 SUMMARY:Chi come me
@@ -1260,7 +1409,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-bullet-catch@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261205T190000
 DTEND;TZID=Europe/Rome:20261205T210000
 SUMMARY:Bullet Catch
@@ -1274,7 +1423,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-don-milani-la-parola-che-nutre@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261205T191500
 DTEND;TZID=Europe/Rome:20261205T211500
 SUMMARY:Don Milani. La parola che nutre
@@ -1287,7 +1436,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-lady-day-billie-holiday@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261205T203000
 DTEND;TZID=Europe/Rome:20261205T223000
 SUMMARY:Lady Day (Billie Holiday)
@@ -1301,7 +1450,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-don-milani-la-parola-che-nutre@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261206T154500
 DTEND;TZID=Europe/Rome:20261206T174500
 SUMMARY:Don Milani. La parola che nutre
@@ -1314,7 +1463,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-bullet-catch@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261206T163000
 DTEND;TZID=Europe/Rome:20261206T183000
 SUMMARY:Bullet Catch
@@ -1328,7 +1477,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-lady-day-billie-holiday@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261206T163000
 DTEND;TZID=Europe/Rome:20261206T183000
 SUMMARY:Lady Day (Billie Holiday)
@@ -1342,7 +1491,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-chi-come-me@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261206T170000
 DTEND;TZID=Europe/Rome:20261206T190000
 SUMMARY:Chi come me
@@ -1356,7 +1505,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-chi-come-me@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261208T180000
 DTEND;TZID=Europe/Rome:20261208T200000
 SUMMARY:Chi come me
@@ -1370,7 +1519,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-bullet-catch@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261208T183000
 DTEND;TZID=Europe/Rome:20261208T203000
 SUMMARY:Bullet Catch
@@ -1384,7 +1533,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-don-milani-la-parola-che-nutre@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261208T190000
 DTEND;TZID=Europe/Rome:20261208T210000
 SUMMARY:Don Milani. La parola che nutre
@@ -1397,7 +1546,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-don-milani-la-parola-che-nutre@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261209T191500
 DTEND;TZID=Europe/Rome:20261209T211500
 SUMMARY:Don Milani. La parola che nutre
@@ -1411,7 +1560,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-tutti-gli-uomini-che-non-sono-con-paolo-calabres@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261209T194500
 DTEND;TZID=Europe/Rome:20261209T214500
 SUMMARY:Tutti gli uomini che non sono\, con Paolo Calabresi
@@ -1425,7 +1574,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-bullet-catch@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261209T201500
 DTEND;TZID=Europe/Rome:20261209T221500
 SUMMARY:Bullet Catch
@@ -1439,7 +1588,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-bubaro-dei-bubari@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261209T203000
 DTEND;TZID=Europe/Rome:20261209T223000
 SUMMARY:Bùbaro dei Bùbari
@@ -1453,7 +1602,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-chi-come-me@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261209T203000
 DTEND;TZID=Europe/Rome:20261209T223000
 SUMMARY:Chi come me
@@ -1467,7 +1616,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-il-viale-del-tramonto@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261210T193000
 DTEND;TZID=Europe/Rome:20261210T213000
 SUMMARY:Il viale del tramonto
@@ -1479,7 +1628,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-chi-come-me@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261210T194500
 DTEND;TZID=Europe/Rome:20261210T214500
 SUMMARY:Chi come me
@@ -1493,7 +1642,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-don-milani-la-parola-che-nutre@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261210T201500
 DTEND;TZID=Europe/Rome:20261210T221500
 SUMMARY:Don Milani. La parola che nutre
@@ -1506,7 +1655,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-bullet-catch@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261210T203000
 DTEND;TZID=Europe/Rome:20261210T223000
 SUMMARY:Bullet Catch
@@ -1520,7 +1669,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-bubaro-dei-bubari@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261210T203000
 DTEND;TZID=Europe/Rome:20261210T223000
 SUMMARY:Bùbaro dei Bùbari
@@ -1534,7 +1683,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-uno-nessuno-e-centomila@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261210T203000
 DTEND;TZID=Europe/Rome:20261210T223000
 SUMMARY:Uno\, nessuno e centomila
@@ -1548,7 +1697,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-tutti-gli-uomini-che-non-sono-con-paolo-calabres@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261210T210000
 DTEND;TZID=Europe/Rome:20261210T230000
 SUMMARY:Tutti gli uomini che non sono\, con Paolo Calabresi
@@ -1562,7 +1711,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-bullet-catch@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261211T190000
 DTEND;TZID=Europe/Rome:20261211T210000
 SUMMARY:Bullet Catch
@@ -1576,7 +1725,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-don-milani-la-parola-che-nutre@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261211T191500
 DTEND;TZID=Europe/Rome:20261211T211500
 SUMMARY:Don Milani. La parola che nutre
@@ -1589,7 +1738,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-il-viale-del-tramonto@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261211T193000
 DTEND;TZID=Europe/Rome:20261211T213000
 SUMMARY:Il viale del tramonto
@@ -1602,7 +1751,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-tutti-gli-uomini-che-non-sono-con-paolo-calabres@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261211T194500
 DTEND;TZID=Europe/Rome:20261211T214500
 SUMMARY:Tutti gli uomini che non sono\, con Paolo Calabresi
@@ -1616,7 +1765,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-chi-come-me@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261211T201500
 DTEND;TZID=Europe/Rome:20261211T221500
 SUMMARY:Chi come me
@@ -1630,7 +1779,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-bubaro-dei-bubari@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261211T203000
 DTEND;TZID=Europe/Rome:20261211T223000
 SUMMARY:Bùbaro dei Bùbari
@@ -1645,7 +1794,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-come-una-specie-di-vertigine-il-nano-calvino-la-@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261211T203000
 DTEND;TZID=Europe/Rome:20261211T223000
 SUMMARY:Come una specie di vertigine (il nano\, Calvino\, la libertà)
@@ -1659,7 +1808,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-uno-nessuno-e-centomila@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261211T203000
 DTEND;TZID=Europe/Rome:20261211T223000
 SUMMARY:Uno\, nessuno e centomila
@@ -1672,7 +1821,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-chi-come-me@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261212T154500
 DTEND;TZID=Europe/Rome:20261212T174500
 SUMMARY:Chi come me
@@ -1686,7 +1835,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-bullet-catch@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261212T190000
 DTEND;TZID=Europe/Rome:20261212T210000
 SUMMARY:Bullet Catch
@@ -1700,7 +1849,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-don-milani-la-parola-che-nutre@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261212T191500
 DTEND;TZID=Europe/Rome:20261212T211500
 SUMMARY:Don Milani. La parola che nutre
@@ -1714,7 +1863,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-tutti-gli-uomini-che-non-sono-con-paolo-calabres@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261212T194500
 DTEND;TZID=Europe/Rome:20261212T214500
 SUMMARY:Tutti gli uomini che non sono\, con Paolo Calabresi
@@ -1728,7 +1877,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-bubaro-dei-bubari@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261212T203000
 DTEND;TZID=Europe/Rome:20261212T223000
 SUMMARY:Bùbaro dei Bùbari
@@ -1743,7 +1892,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-come-una-specie-di-vertigine-il-nano-calvino-la-@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261212T203000
 DTEND;TZID=Europe/Rome:20261212T223000
 SUMMARY:Come una specie di vertigine (il nano\, Calvino\, la libertà)
@@ -1757,7 +1906,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-il-viale-del-tramonto@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261212T203000
 DTEND;TZID=Europe/Rome:20261212T223000
 SUMMARY:Il viale del tramonto
@@ -1769,7 +1918,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-uno-nessuno-e-centomila@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261212T203000
 DTEND;TZID=Europe/Rome:20261212T223000
 SUMMARY:Uno\, nessuno e centomila
@@ -1782,7 +1931,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-bubaro-dei-bubari@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261213T160000
 DTEND;TZID=Europe/Rome:20261213T180000
 SUMMARY:Bùbaro dei Bùbari
@@ -1797,7 +1946,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-come-una-specie-di-vertigine-il-nano-calvino-la-@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261213T160000
 DTEND;TZID=Europe/Rome:20261213T180000
 SUMMARY:Come una specie di vertigine (il nano\, Calvino\, la libertà)
@@ -1811,7 +1960,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-uno-nessuno-e-centomila@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261213T160000
 DTEND;TZID=Europe/Rome:20261213T180000
 SUMMARY:Uno\, nessuno e centomila
@@ -1825,7 +1974,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-tutti-gli-uomini-che-non-sono-con-paolo-calabres@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261213T161500
 DTEND;TZID=Europe/Rome:20261213T181500
 SUMMARY:Tutti gli uomini che non sono\, con Paolo Calabresi
@@ -1839,7 +1988,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-bullet-catch@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261213T163000
 DTEND;TZID=Europe/Rome:20261213T183000
 SUMMARY:Bullet Catch
@@ -1853,7 +2002,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-il-viale-del-tramonto@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261213T163000
 DTEND;TZID=Europe/Rome:20261213T183000
 SUMMARY:Il viale del tramonto
@@ -1865,7 +2014,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-chi-come-me@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261213T170000
 DTEND;TZID=Europe/Rome:20261213T190000
 SUMMARY:Chi come me
@@ -1880,7 +2029,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-odysseia-i-suoni-di-ulisse-teatro-patologico@acculturiamoci.
  it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261214T200000
 DTEND;TZID=Europe/Rome:20261214T220000
 SUMMARY:Odysseia: I suoni di Ulisse (Teatro Patologico)
@@ -1893,7 +2042,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-chi-come-me@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261215T193000
 DTEND;TZID=Europe/Rome:20261215T213000
 SUMMARY:Chi come me
@@ -1907,7 +2056,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-don-chisciotte-senza-mancia@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261215T200000
 DTEND;TZID=Europe/Rome:20261215T220000
 SUMMARY:Don Chisciotte senza Mancia
@@ -1921,7 +2070,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-la-reginetta-di-leenane-con-ambra-angiolini-e-iv@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261215T200000
 DTEND;TZID=Europe/Rome:20261215T220000
 SUMMARY:La Reginetta di Leenane\, con Ambra Angiolini e Ivana Monti
@@ -1936,7 +2085,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-bullet-catch@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261215T201500
 DTEND;TZID=Europe/Rome:20261215T221500
 SUMMARY:Bullet Catch
@@ -1951,7 +2100,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-maria-cassi-e-leonardo-brizzi-recital-40-anni-di@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261215T203000
 DTEND;TZID=Europe/Rome:20261215T223000
 SUMMARY:Maria Cassi e Leonardo Brizzi: Recital\, 40 anni di teatro comico m
@@ -1967,7 +2116,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-uno-nessuno-e-centomila@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261215T203000
 DTEND;TZID=Europe/Rome:20261215T223000
 SUMMARY:Uno\, nessuno e centomila
@@ -1981,7 +2130,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-maria-cassi-e-leonardo-brizzi-recital-40-anni-di@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261216T191500
 DTEND;TZID=Europe/Rome:20261216T211500
 SUMMARY:Maria Cassi e Leonardo Brizzi: Recital\, 40 anni di teatro comico m
@@ -1998,7 +2147,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-la-reginetta-di-leenane-con-ambra-angiolini-e-iv@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261216T194500
 DTEND;TZID=Europe/Rome:20261216T214500
 SUMMARY:La Reginetta di Leenane\, con Ambra Angiolini e Ivana Monti
@@ -2013,7 +2162,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-bullet-catch@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261216T201500
 DTEND;TZID=Europe/Rome:20261216T221500
 SUMMARY:Bullet Catch
@@ -2027,7 +2176,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-chi-come-me@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261216T203000
 DTEND;TZID=Europe/Rome:20261216T223000
 SUMMARY:Chi come me
@@ -2041,7 +2190,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-don-chisciotte-senza-mancia@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261216T203000
 DTEND;TZID=Europe/Rome:20261216T223000
 SUMMARY:Don Chisciotte senza Mancia
@@ -2054,7 +2203,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-uno-nessuno-e-centomila@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261216T203000
 DTEND;TZID=Europe/Rome:20261216T223000
 SUMMARY:Uno\, nessuno e centomila
@@ -2067,7 +2216,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-c-e-chi-dice-no-renzo-lucia-i-giovani@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261217T193000
 DTEND;TZID=Europe/Rome:20261217T213000
 SUMMARY:C'è chi dice no: Renzo\, Lucia\, i giovani
@@ -2081,7 +2230,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-don-chisciotte-senza-mancia@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261217T200000
 DTEND;TZID=Europe/Rome:20261217T220000
 SUMMARY:Don Chisciotte senza Mancia
@@ -2095,7 +2244,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-maria-cassi-e-leonardo-brizzi-recital-40-anni-di@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261217T201500
 DTEND;TZID=Europe/Rome:20261217T221500
 SUMMARY:Maria Cassi e Leonardo Brizzi: Recital\, 40 anni di teatro comico m
@@ -2111,7 +2260,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-bullet-catch@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261217T203000
 DTEND;TZID=Europe/Rome:20261217T223000
 SUMMARY:Bullet Catch
@@ -2125,7 +2274,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-uno-nessuno-e-centomila@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261217T203000
 DTEND;TZID=Europe/Rome:20261217T223000
 SUMMARY:Uno\, nessuno e centomila
@@ -2139,7 +2288,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-la-reginetta-di-leenane-con-ambra-angiolini-e-iv@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261217T210000
 DTEND;TZID=Europe/Rome:20261217T230000
 SUMMARY:La Reginetta di Leenane\, con Ambra Angiolini e Ivana Monti
@@ -2154,7 +2303,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-bullet-catch@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261218T190000
 DTEND;TZID=Europe/Rome:20261218T210000
 SUMMARY:Bullet Catch
@@ -2169,7 +2318,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-maria-cassi-e-leonardo-brizzi-recital-40-anni-di@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261218T191500
 DTEND;TZID=Europe/Rome:20261218T211500
 SUMMARY:Maria Cassi e Leonardo Brizzi: Recital\, 40 anni di teatro comico m
@@ -2185,7 +2334,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-c-e-chi-dice-no-renzo-lucia-i-giovani@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261218T193000
 DTEND;TZID=Europe/Rome:20261218T213000
 SUMMARY:C'è chi dice no: Renzo\, Lucia\, i giovani
@@ -2200,7 +2349,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-la-reginetta-di-leenane-con-ambra-angiolini-e-iv@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261218T194500
 DTEND;TZID=Europe/Rome:20261218T214500
 SUMMARY:La Reginetta di Leenane\, con Ambra Angiolini e Ivana Monti
@@ -2215,7 +2364,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-don-chisciotte-senza-mancia@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261218T200000
 DTEND;TZID=Europe/Rome:20261218T220000
 SUMMARY:Don Chisciotte senza Mancia
@@ -2228,7 +2377,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-chi-come-me@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261218T201500
 DTEND;TZID=Europe/Rome:20261218T221500
 SUMMARY:Chi come me
@@ -2242,7 +2391,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-uno-nessuno-e-centomila@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261218T203000
 DTEND;TZID=Europe/Rome:20261218T223000
 SUMMARY:Uno\, nessuno e centomila
@@ -2255,7 +2404,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-chi-come-me@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261219T154500
 DTEND;TZID=Europe/Rome:20261219T174500
 SUMMARY:Chi come me
@@ -2269,7 +2418,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-bullet-catch@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261219T190000
 DTEND;TZID=Europe/Rome:20261219T210000
 SUMMARY:Bullet Catch
@@ -2284,7 +2433,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-maria-cassi-e-leonardo-brizzi-recital-40-anni-di@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261219T191500
 DTEND;TZID=Europe/Rome:20261219T211500
 SUMMARY:Maria Cassi e Leonardo Brizzi: Recital\, 40 anni di teatro comico m
@@ -2301,7 +2450,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-la-reginetta-di-leenane-con-ambra-angiolini-e-iv@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261219T194500
 DTEND;TZID=Europe/Rome:20261219T214500
 SUMMARY:La Reginetta di Leenane\, con Ambra Angiolini e Ivana Monti
@@ -2316,7 +2465,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-don-chisciotte-senza-mancia@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261219T200000
 DTEND;TZID=Europe/Rome:20261219T220000
 SUMMARY:Don Chisciotte senza Mancia
@@ -2329,7 +2478,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-c-e-chi-dice-no-renzo-lucia-i-giovani@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261219T203000
 DTEND;TZID=Europe/Rome:20261219T223000
 SUMMARY:C'è chi dice no: Renzo\, Lucia\, i giovani
@@ -2343,7 +2492,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-uno-nessuno-e-centomila@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261219T203000
 DTEND;TZID=Europe/Rome:20261219T223000
 SUMMARY:Uno\, nessuno e centomila
@@ -2357,7 +2506,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-maria-cassi-e-leonardo-brizzi-recital-40-anni-di@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261220T154500
 DTEND;TZID=Europe/Rome:20261220T174500
 SUMMARY:Maria Cassi e Leonardo Brizzi: Recital\, 40 anni di teatro comico m
@@ -2373,7 +2522,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-uno-nessuno-e-centomila@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261220T160000
 DTEND;TZID=Europe/Rome:20261220T180000
 SUMMARY:Uno\, nessuno e centomila
@@ -2387,7 +2536,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-la-reginetta-di-leenane-con-ambra-angiolini-e-iv@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261220T161500
 DTEND;TZID=Europe/Rome:20261220T181500
 SUMMARY:La Reginetta di Leenane\, con Ambra Angiolini e Ivana Monti
@@ -2402,7 +2551,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-bullet-catch@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261220T163000
 DTEND;TZID=Europe/Rome:20261220T183000
 SUMMARY:Bullet Catch
@@ -2416,7 +2565,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-c-e-chi-dice-no-renzo-lucia-i-giovani@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261220T163000
 DTEND;TZID=Europe/Rome:20261220T183000
 SUMMARY:C'è chi dice no: Renzo\, Lucia\, i giovani
@@ -2430,7 +2579,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-chi-come-me@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261220T170000
 DTEND;TZID=Europe/Rome:20261220T190000
 SUMMARY:Chi come me
@@ -2444,7 +2593,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-don-chisciotte-senza-mancia@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261220T170000
 DTEND;TZID=Europe/Rome:20261220T190000
 SUMMARY:Don Chisciotte senza Mancia

@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-daniel-pennac-presenta-mallet@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261124T183000
 DTEND;TZID=Europe/Rome:20261124T203000
 SUMMARY:Daniel Pennac presenta Mallet
@@ -41,7 +41,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-prima-delle-prime-otello@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261125T180000
 DTEND;TZID=Europe/Rome:20261125T200000
 SUMMARY:Prima delle Prime: Otello
@@ -54,7 +54,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-samantha-cristoforetti-il-senso-della-luna@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261125T200000
 DTEND;TZID=Europe/Rome:20261125T220000
 SUMMARY:Samantha Cristoforetti: il senso della Luna
@@ -71,7 +71,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-kahil-el-zabar-ethnic-heritage-ensemble-let-the-@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261125T210000
 DTEND;TZID=Europe/Rome:20261125T230000
 SUMMARY:Kahil El Zabar Ethnic Heritage Ensemble: Let The Spirit Out
@@ -86,7 +86,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-milena-gabanelli-e-simona-ravizza-la-resa-dei-co@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261126T183000
 DTEND;TZID=Europe/Rome:20261126T203000
 SUMMARY:Milena Gabanelli e Simona Ravizza\, La resa dei conti
@@ -102,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-umberto-galimberti-l-illusione-della-liberta@acculturiamoci.
  it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261127T183000
 DTEND;TZID=Europe/Rome:20261127T203000
 SUMMARY:Umberto Galimberti\, L'illusione della libertà
@@ -116,8 +116,38 @@ URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
 CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-classici-clandestini@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T183000
+DTEND;TZID=Europe/Rome:20261127T203000
+SUMMARY:Classici Clandestini
+LOCATION:Ambrosius - Oratorio della Passione (Piazza Sant'Ambrogio\, 23)
+DESCRIPTION:Con Stefania Auci. BookCity · Classici Clandestini\, Lectio. B
+ ookCity: ingresso libero fino a esaurimento posti\, per alcuni incontri se
+ rve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2
+ 026/classici-clandestini-4
+URL:https://www.bookcitymilano.it/eventi/2026/classici-clandestini-4
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-quello-che-a-scuola-non-dicono@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T183000
+DTEND;TZID=Europe/Rome:20261127T203000
+SUMMARY:Quello che a scuola non dicono
+LOCATION:Castello Sforzesco - Weil Weiss (Castello Sforzesco)
+DESCRIPTION:Con Rosella Postorino. Con il contributo di Fondazione di Comun
+ ità Milano. BookCity · Lectio\, Quello che a scuola non dicono. BookCity
+ : ingresso libero fino a esaurimento posti\, per alcuni incontri serve pre
+ notare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/que
+ llo-scuola-non-dicono-postorino
+URL:https://www.bookcitymilano.it/eventi/2026/quello-scuola-non-dicono-post
+ orino
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-di-madre-in-figlia@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:Di madre in figlia
@@ -130,7 +160,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-aldo-cazzullo-il-nostro-rinascimento@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261128T110000
 DTEND;TZID=Europe/Rome:20261128T130000
 SUMMARY:Aldo Cazzullo\, Il nostro rinascimento
@@ -146,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-beppe-severgnini-l-arte-di-sopravvivere-poeticam@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261128T110000
 DTEND;TZID=Europe/Rome:20261128T130000
 SUMMARY:Beppe Severgnini: L'arte di sopravvivere poeticamente
@@ -163,7 +193,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-bruno-vespa-e-paolo-mieli-storia-della-seconda-r@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261128T110000
 DTEND;TZID=Europe/Rome:20261128T130000
 SUMMARY:Bruno Vespa e Paolo Mieli: Storia della Seconda Repubblica
@@ -176,8 +206,26 @@ URL:https://www.fondazionecorriere.corriere.it/iniziative/storia-della-seco
 CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-non-ardo-dal-desiderio-di-diventare-uomo-finche-@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T110000
+DTEND;TZID=Europe/Rome:20261128T130000
+SUMMARY:Non ardo dal desiderio di diventare uomo finché posso essere anche
+  donna bambino animale o cosa
+LOCATION:Tempio Civico di San Sebastiano (Via Torino\, 28)
+DESCRIPTION:Con Alessandro Bergonzoni. BookCity · Filosofia e Psicologia\,
+  Lectio\, Lezioni per recuperare il senno. BookCity: ingresso libero fino 
+ a esaurimento posti\, per alcuni incontri serve prenotare su bookcitymilan
+ o.it. https://www.bookcitymilano.it/eventi/2026/non-ardo-dal-desiderio-di-
+ diventare-uomo-finche-posso-essere-anche-donna-bambino-animale-o-cosa
+URL:https://www.bookcitymilano.it/eventi/2026/non-ardo-dal-desiderio-di-div
+ entare-uomo-finche-posso-essere-anche-donna-bambino-animale-o-cosa
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-vito-mancuso-il-male-e-il-suo-mistero@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261128T113000
 DTEND;TZID=Europe/Rome:20261128T133000
 SUMMARY:Vito Mancuso: Il male e il suo mistero
@@ -192,9 +240,37 @@ URL:https://www.vitomancuso.it/2026/11/25/prossimi-appuntamenti-con-vito-4/
 CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-una-storia-cosmica-di-luce-e-oscurita@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T113000
+DTEND;TZID=Europe/Rome:20261128T133000
+SUMMARY:Una storia cosmica di luce e oscurità
+LOCATION:Civico Planetario Ulrico Hoepli (Corso Venezia 57)
+DESCRIPTION:Lectio di Ersilia Vaudo. BookCity · Ambiente\, Scienza e Natur
+ a\, Lectio. BookCity: ingresso libero fino a esaurimento posti\, per alcun
+ i incontri serve prenotare su bookcitymilano.it. https://www.bookcitymilan
+ o.it/eventi/2026/storia-cosmica-luce-oscurita
+URL:https://www.bookcitymilano.it/eventi/2026/storia-cosmica-luce-oscurita
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-lezioni-brevi-di-meraviglia-raffaello@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T163000
+DTEND;TZID=Europe/Rome:20261128T183000
+SUMMARY:Lezioni brevi di meraviglia - Raffaello
+LOCATION:Palazzo Reale - Sala Conferenze (Piazza Duomo\, 14)
+DESCRIPTION:Con Claudio Strinati e Angelo Crespi. BookCity · Arte\, Fotogr
+ afia\, Moda\, Lectio. BookCity: ingresso libero fino a esaurimento posti\,
+  per alcuni incontri serve prenotare su bookcitymilano.it. https://www.boo
+ kcitymilano.it/eventi/2026/lezioni-brevi-di-meraviglia
+URL:https://www.bookcitymilano.it/eventi/2026/lezioni-brevi-di-meraviglia
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-angelo-panebianco-ordine-e-disordine-nella-polit@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Angelo Panebianco: Ordine e disordine nella politica internazionale
@@ -211,7 +287,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-sidival-fila-memoriae-cartoni-raphaelis@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Sidival Fila. Memoriae Cartoni Raphaelis
@@ -228,9 +304,58 @@ URL:https://www.ambrosiana.it/events/bookcity-2026-allambrosiana/
 CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-la-passione-degli-estranei-filosofia-dellamicizi@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:La passione degli estranei. Filosofia dell’amicizia
+LOCATION:Fondazione Giangiacomo Feltrinelli - Sala Lettura (Viale Pasubio 5
+ )
+DESCRIPTION:Con Marina Garcés e Antonio Gurrado. BookCity · Autori Strani
+ eri\, Filosofia e Psicologia\, Lectio. BookCity: ingresso libero fino a es
+ aurimento posti\, per alcuni incontri serve prenotare su bookcitymilano.it
+ . https://www.bookcitymilano.it/eventi/2026/la-passione-degli-estranei
+URL:https://www.bookcitymilano.it/eventi/2026/la-passione-degli-estranei
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-larte-gentile-della-distruzione-come-non-perdere@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:L’arte gentile della distruzione. Come non perdere il senno nella
+  scienza e nella tecnologia
+LOCATION:Museo Nazionale Scienza e Tecnologia Leonardo da Vinci - Cenacolo 
+ (Via San Vittore\, 21)
+DESCRIPTION:Con Barbara Mazzolai. BookCity · Ambiente\, Scienza e Natura\,
+  Architettura\, Design\, Urbanistica\, Il senno sulla Luna. BookCity: ingr
+ esso libero fino a esaurimento posti\, per alcuni incontri serve prenotare
+  su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/larte-gen
+ tile-della-distruzione
+URL:https://www.bookcitymilano.it/eventi/2026/larte-gentile-della-distruzio
+ ne
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-il-cosmo-e-la-vita-caso-o-necessita@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T193000
+DTEND;TZID=Europe/Rome:20261128T213000
+SUMMARY:Il cosmo e la vita: caso o necessità?
+LOCATION:Civico Planetario Ulrico Hoepli (Corso Venezia 57)
+DESCRIPTION:Lectio magistralis con Giovanni Covone. BookCity · Ambiente\, 
+ Scienza e Natura\, Lectio. BookCity: ingresso libero fino a esaurimento po
+ sti\, per alcuni incontri serve prenotare su bookcitymilano.it. https://ww
+ w.bookcitymilano.it/eventi/2026/tra-caso-e-necessita
+URL:https://www.bookcitymilano.it/eventi/2026/tra-caso-e-necessita
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-filosofia-sui-navigli-vulnerabilita-e-guerra-una@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261129T101500
 DTEND;TZID=Europe/Rome:20261129T121500
 SUMMARY:Filosofia sui Navigli: Vulnerabilità e guerra. Una lettura di Judi
@@ -248,7 +373,7 @@ CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-pupi-avati-il-gotico-padano-e-il-cinema@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261129T110000
 DTEND;TZID=Europe/Rome:20261129T130000
 SUMMARY:Pupi Avati: il gotico padano e il cinema
@@ -263,7 +388,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-zerocalcare-dove-andiamo-da-qui-zero@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261129T120000
 DTEND;TZID=Europe/Rome:20261129T140000
 SUMMARY:Zerocalcare\, Dove andiamo da qui\, Zero?
@@ -277,9 +402,24 @@ URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
 CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-argan-dopo-argan-dall-arte-moderna-all-arte-del-@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T183000
+DTEND;TZID=Europe/Rome:20261129T203000
+SUMMARY:Argan dopo Argan. Dall'arte moderna all'arte del XXI secolo
+LOCATION:Museo del Novecento - Forum900 (Via Marconi\, 1)
+DESCRIPTION:Con Vincenzo Trione e Michele Masneri. BookCity · Arte\, Fotog
+ rafia\, Moda\, Lectio. BookCity: ingresso libero fino a esaurimento posti\
+ , per alcuni incontri serve prenotare su bookcitymilano.it. https://www.bo
+ okcitymilano.it/eventi/2026/argan-dopo-argan
+URL:https://www.bookcitymilano.it/eventi/2026/argan-dopo-argan
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-chiusura-bookcity-samantha-harvey-e-paolo-giorda@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261129T200000
 DTEND;TZID=Europe/Rome:20261129T220000
 SUMMARY:Chiusura BookCity: Samantha Harvey e Paolo Giordano
@@ -296,7 +436,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-noir-in-festival-the-blood-countess-di-ulrike-ot@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261130T213000
 DTEND;TZID=Europe/Rome:20261130T233000
 SUMMARY:Noir in Festival: The Blood Countess di Ulrike Ottinger
@@ -312,7 +452,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-left-summit-questione-di-classe-con-schlein-cont@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261202T183000
 DTEND;TZID=Europe/Rome:20261202T203000
 SUMMARY:Left Summit: Questione di classe\, con Schlein\, Conte e Fratoianni
@@ -327,7 +467,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-paul-lewis-mozart@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261202T204500
 DTEND;TZID=Europe/Rome:20261202T224500
 SUMMARY:Paul Lewis\, Mozart+
@@ -341,7 +481,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-bilal-25-anni-di-1st-born-second@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261203T210000
 DTEND;TZID=Europe/Rome:20261203T230000
 SUMMARY:Bilal: 25 anni di 1st Born Second
@@ -355,7 +495,7 @@ CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-otello-anteprima-under-30@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261204T180000
 DTEND;TZID=Europe/Rome:20261204T200000
 SUMMARY:Otello: anteprima Under 30
@@ -369,7 +509,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-prima-diffusa-otello-in-diretta-con-la-guida-all@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261207T170000
 DTEND;TZID=Europe/Rome:20261207T190000
 SUMMARY:Prima Diffusa: Otello in diretta con la guida all'ascolto di Carlo 
@@ -388,7 +528,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-emma-bonino-europa-e-patria-scegliamo-forti-o-so@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261209T210000
 DTEND;TZID=Europe/Rome:20261209T230000
 SUMMARY:Emma Bonino: Europa è patria. Scegliamo: forti o sovranisti?
@@ -400,7 +540,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-nicola-piovani-note-a-margine@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261216T203000
 DTEND;TZID=Europe/Rome:20261216T223000
 SUMMARY:Nicola Piovani: Note a margine

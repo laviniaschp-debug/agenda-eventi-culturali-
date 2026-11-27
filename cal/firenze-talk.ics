@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-27-la-musica-del-mio-picchio-presentazione-con-lett@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261127T170000
 DTEND;TZID=Europe/Rome:20261127T190000
 SUMMARY:La musica del mio picchio: presentazione con letture
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-le-cose-che-portiamo-con-noi-storie-e-letture@acculturiamoci
  .it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261127T183000
 DTEND;TZID=Europe/Rome:20261127T203000
 SUMMARY:Le cose che portiamo con noi: storie e letture
@@ -59,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-premio-carlo-betocchi-citta-di-firenze-la-cerimo@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261201T170000
 DTEND;TZID=Europe/Rome:20261201T190000
 SUMMARY:Premio Carlo Betocchi – Città di Firenze: la cerimonia
@@ -71,7 +71,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-paolo-ciampi-liberta-delle-panchine@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261201T183000
 DTEND;TZID=Europe/Rome:20261201T203000
 SUMMARY:Paolo Ciampi: Libertà delle panchine
@@ -86,7 +86,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-raccontare-il-racconto-francesco-colella-legge-t@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261203T173000
 DTEND;TZID=Europe/Rome:20261203T193000
 SUMMARY:Raccontare il racconto: Francesco Colella legge Tomasi di Lampedusa
@@ -99,7 +99,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-giochi-e-legami-sociali-serata-di-giochi-da-tavo@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261203T190000
 DTEND;TZID=Europe/Rome:20261203T210000
 SUMMARY:Giochi e legami sociali: serata di giochi da tavolo
@@ -114,7 +114,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-l-amore-e-le-sue-forme-racconti-letti-ad-alta-vo@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261210T173000
 DTEND;TZID=Europe/Rome:20261210T193000
 SUMMARY:L'amore e le sue forme: racconti letti ad alta voce
@@ -129,7 +129,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-raccontare-il-racconto-federico-tiezzi-legge-sil@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261210T173000
 DTEND;TZID=Europe/Rome:20261210T193000
 SUMMARY:Raccontare il racconto: Federico Tiezzi legge Silvio D'Arzo
@@ -141,7 +141,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-letture-migranti-jallow-s-story@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261211T173000
 DTEND;TZID=Europe/Rome:20261211T193000
 SUMMARY:Letture migranti: Jallow's story
@@ -156,7 +156,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-raccontare-il-racconto-sandro-lombardi-legge-dar@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261217T173000
 DTEND;TZID=Europe/Rome:20261217T193000
 SUMMARY:Raccontare il racconto: Sandro Lombardi legge Dario Fo

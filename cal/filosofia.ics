@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-material-mente-umana-la-soggettivita-incarnata@acculturiamoc
  i.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261124T163000
 DTEND;TZID=Europe/Rome:20261124T183000
 SUMMARY:Material-mente umana. La soggettività incarnata
@@ -40,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-carl-gustav-jung-attraverso-il-cinema-e-l-attual@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Carl Gustav Jung attraverso il cinema e l'attualità
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-il-senno-sulla-luna-il-medioevo-di-doctor-virtua@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261125T163000
 DTEND;TZID=Europe/Rome:20261125T183000
 SUMMARY:Il senno sulla luna: il Medioevo di Doctor Virtualis
@@ -65,7 +65,7 @@ CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-piacere-rousseau-ti-presento-dewey@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261125T173000
 DTEND;TZID=Europe/Rome:20261125T193000
 SUMMARY:Piacere\, Rousseau. Ti presento Dewey
@@ -80,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-i-classici-non-hanno-mai-finito-di-dirci-cio-che@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261125T180000
 DTEND;TZID=Europe/Rome:20261125T200000
 SUMMARY:I classici non hanno mai finito di dirci ciò che vogliono dire
@@ -94,7 +94,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-la-messa-non-e-finita-il-sacro-all-epoca-del-dig@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261126T083000
 DTEND;TZID=Europe/Rome:20261126T103000
 SUMMARY:La messa non è finita. Il sacro all'epoca del digitale
@@ -106,9 +106,97 @@ URL:https://work.unimi.it/eventir/registrazione?code=17513
 CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-siamo-pari-siamo-diversi-siamo-unici-crescere-co@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261127T143000
+DTEND;TZID=Europe/Rome:20261127T163000
+SUMMARY:Siamo pari\, siamo diversi\, siamo unici. Crescere con i libri
+LOCATION:Casa della Psicologia (Piazza Castello\, 2)
+DESCRIPTION:Con Matteo Bussola\, Gherardo Colombo\, Barbara Cortinovis e Al
+ berto Pellai. Modera Chiara Bidoli. BookCity · Adolescenza\, Editoria\, S
+ crittura e Mestieri del libro\, Filosofia e Psicologia. BookCity: ingresso
+  libero fino a esaurimento posti\, per alcuni incontri serve prenotare su 
+ bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/siamo-pari-si
+ amo-diversi-siamo-unici-crescere-con-i-libri
+URL:https://www.bookcitymilano.it/eventi/2026/siamo-pari-siamo-diversi-siam
+ o-unici-crescere-con-i-libri
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-libano-la-bellezza-le-ferite-la-speranza@acculturiamoci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261127T160000
+DTEND;TZID=Europe/Rome:20261127T180000
+SUMMARY:Libano. La bellezza\, le ferite\, la speranza
+LOCATION:PIME - Pontificio Istituto Missioni Estere - Museo Popoli e Cultur
+ e (Via Monte Rosa\, 81)
+DESCRIPTION:Con Andrea Caspani e Andrea Avveduto. BookCity · Guerra e Pace
+ \, Religione e Spiritualità. BookCity: ingresso libero fino a esaurimento
+  posti\, per alcuni incontri serve prenotare su bookcitymilano.it. https:/
+ /www.bookcitymilano.it/eventi/2026/libano-la-bellezza-le-ferite-la-speranz
+ a
+URL:https://www.bookcitymilano.it/eventi/2026/libano-la-bellezza-le-ferite-
+ la-speranza
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-artigiani-di-idee-magnifica-humanitas-la-bussola@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261127T180000
+DTEND;TZID=Europe/Rome:20261127T200000
+SUMMARY:Artigiani di idee. Magnifica Humanitas: la bussola per ritrovare la
+  Terra
+LOCATION:Fondazione Culturale San Fedele - Sala Ricci (Piazza San Fedele\, 
+ 4)
+DESCRIPTION:Con Arcivescovo Mario Delpini\, Monsignor Christian Barone e Gi
+ gio Rancilio. BookCity · Religione e Spiritualità. BookCity: ingresso li
+ bero fino a esaurimento posti\, per alcuni incontri serve prenotare su boo
+ kcitymilano.it. https://www.bookcitymilano.it/eventi/2026/artigiani-di-ide
+ e-magnifica-humanitas-la-bussola-per-ritrovare-la-terra
+URL:https://www.bookcitymilano.it/eventi/2026/artigiani-di-idee-magnifica-h
+ umanitas-la-bussola-per-ritrovare-la-terra
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-trasformazione-tu-sei-cio-che-cerchi@acculturiamoci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261127T180000
+DTEND;TZID=Europe/Rome:20261127T200000
+SUMMARY:Trasformazione. Tu sei ciò che cerchi
+LOCATION:PIME - Pontificio Istituto Missioni Estere - Sala Cremonesi (Via M
+ onte Rosa\, 81)
+DESCRIPTION:Con Paolo Scquizzato e Romano Cappelletto. BookCity · Religion
+ e e Spiritualità. BookCity: ingresso libero fino a esaurimento posti\, pe
+ r alcuni incontri serve prenotare su bookcitymilano.it. https://www.bookci
+ tymilano.it/eventi/2026/trasformazione-tu-sei-cio-che-cerchi
+URL:https://www.bookcitymilano.it/eventi/2026/trasformazione-tu-sei-cio-che
+ -cerchi
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-la-stanza-delle-differenze-il-luogo-dove-ogni-di@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261127T180000
+DTEND;TZID=Europe/Rome:20261127T200000
+SUMMARY:La stanza delle differenze. Il luogo dove ogni diversità trova voc
+ e
+LOCATION:Ancora Store (Via Lodovico Pavoni\, 12)
+DESCRIPTION:Con Luisa Zaccarelli e Monica Tappa. BookCity · Cura e Salute\
+ , Filosofia e Psicologia. BookCity: ingresso libero fino a esaurimento pos
+ ti\, per alcuni incontri serve prenotare su bookcitymilano.it. https://www
+ .bookcitymilano.it/eventi/2026/la-stanza-di-terapia-il-luogo-dove-ogni-div
+ ersita-trova-voce
+URL:https://www.bookcitymilano.it/eventi/2026/la-stanza-di-terapia-il-luogo
+ -dove-ogni-diversita-trova-voce
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-umberto-galimberti-l-illusione-della-liberta@acculturiamoci.
  it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261127T183000
 DTEND;TZID=Europe/Rome:20261127T203000
 SUMMARY:Umberto Galimberti\, L'illusione della libertà
@@ -122,9 +210,126 @@ URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
 CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-salviamo-la-scuola-e-ci-salveremo@acculturiamoci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261127T183000
+DTEND;TZID=Europe/Rome:20261127T203000
+SUMMARY:Salviamo la Scuola (e ci salveremo)
+LOCATION:Centro Internazionale di Brera (Via Marco Formentini\, 10)
+DESCRIPTION:Con Marco Rossi-Doria\, Matteo Lancini\, Benedetta Marietti. In
+  collaborazione con YAWP Festival. BookCity · Filosofia e Psicologia\, Sc
+ uola ed Educazione. BookCity: ingresso libero fino a esaurimento posti\, p
+ er alcuni incontri serve prenotare su bookcitymilano.it. https://www.bookc
+ itymilano.it/eventi/2026/salviamo-la-scuola
+URL:https://www.bookcitymilano.it/eventi/2026/salviamo-la-scuola
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-l-invisibile-che-guida-la-nostra-vita@acculturiamoci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261127T183000
+DTEND;TZID=Europe/Rome:20261127T203000
+SUMMARY:L'Invisibile che guida la nostra vita
+LOCATION:Unione Italiana dei Ciechi e degli Ipovedenti - ETS APS - Sezione 
+ Territoriale di Milano (Via Mozart\, 16)
+DESCRIPTION:Con Stefania Zani. BookCity · Cura e Salute\, Religione e Spir
+ itualità. BookCity: ingresso libero fino a esaurimento posti\, per alcuni
+  incontri serve prenotare su bookcitymilano.it. https://www.bookcitymilano
+ .it/eventi/2026/linvisibile-che-guida-la-nostra-vita
+URL:https://www.bookcitymilano.it/eventi/2026/linvisibile-che-guida-la-nost
+ ra-vita
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-il-senno-sulla-luna-istruzioni-per-l-atterraggio@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261127T183000
+DTEND;TZID=Europe/Rome:20261127T203000
+SUMMARY:Il senno sulla Luna: istruzioni per l'atterraggio
+LOCATION:Sigmund Freud University Milano - Aula Magna (Ripa di Porta Ticine
+ se\, 77)
+DESCRIPTION:Con Walter Sapuppo\, Annalisa Oppo e Alice Savoia. BookCity · 
+ Filosofia e Psicologia\, Il senno sulla Luna\, Università. BookCity: ingr
+ esso libero fino a esaurimento posti\, per alcuni incontri serve prenotare
+  su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/il-senno-
+ sulla-luna-istruzioni-per-latterraggio
+URL:https://www.bookcitymilano.it/eventi/2026/il-senno-sulla-luna-istruzion
+ i-per-latterraggio
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-lamore-ancora@acculturiamoci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261127T183000
+DTEND;TZID=Europe/Rome:20261127T203000
+SUMMARY:L’amore. Ancora
+LOCATION:Cafè Milano Durante (Piazza Francesco Durante\, 16)
+DESCRIPTION:Con Maurizio Riboldi\, Susanna Barbaglia\, Alessandro Nodari e 
+ Camilla Marinoni. BookCity · Filosofia e Psicologia\, Narrativa\, Romance
+  e Sentimenti. BookCity: ingresso libero fino a esaurimento posti\, per al
+ cuni incontri serve prenotare su bookcitymilano.it. https://www.bookcitymi
+ lano.it/eventi/2026/lamore-ancora
+URL:https://www.bookcitymilano.it/eventi/2026/lamore-ancora
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-la-nave-dei-folli-il-potere-la-follia-la-scrittu@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261127T183000
+DTEND;TZID=Europe/Rome:20261127T203000
+SUMMARY:La nave dei folli. Il potere\, la follia\, la scrittura
+LOCATION:Biblioteca Lambrate (Via Valvassori Peroni\, 56)
+DESCRIPTION:Con Roberto Cestari\, Sergio Dalla Val e Gabriella Landini. Let
+ ture di Mariangela Venezia. BookCity · Biblioteche\, Filosofia e Psicolog
+ ia\, Il senno sulla Luna. BookCity: ingresso libero fino a esaurimento pos
+ ti\, per alcuni incontri serve prenotare su bookcitymilano.it. https://www
+ .bookcitymilano.it/eventi/2026/la-nave-dei-folli-il-potere-la-follia-la-sc
+ rittura
+URL:https://www.bookcitymilano.it/eventi/2026/la-nave-dei-folli-il-potere-l
+ a-follia-la-scrittura
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-lodio-e-un-fenomeno-sociale-strumenti-per-ricono@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261127T190000
+DTEND;TZID=Europe/Rome:20261127T210000
+SUMMARY:L’odio è un fenomeno sociale? Strumenti per riconoscerlo e affro
+ ntarlo
+LOCATION:Avvocatura Comunale di Milano (Via della Guastalla 6\, 20122)
+DESCRIPTION:Con Alessandro Balzerani\, Dante Caramellino e Sandrone Dazieri
+ . BookCity · Filosofia e Psicologia\, Giornalismo\, Informazione e Attual
+ ità. BookCity: ingresso libero fino a esaurimento posti\, per alcuni inco
+ ntri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/e
+ venti/2026/lodio-e-un-fenomeno-sociale-strumenti-per-riconoscerlo-e-affron
+ tarlo
+URL:https://www.bookcitymilano.it/eventi/2026/lodio-e-un-fenomeno-sociale-s
+ trumenti-per-riconoscerlo-e-affrontarlo
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-dal-sovraccarico-alla-cura-di-se@acculturiamoci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261127T190000
+DTEND;TZID=Europe/Rome:20261127T210000
+SUMMARY:Dal sovraccarico alla cura di sé
+LOCATION:Libreria Rizzoli Milano (Galleria Vittorio Emanuele II\, 11/12)
+DESCRIPTION:Con Anna De Simone e Ana Maria Sepe. BookCity · Ambiente\, Sci
+ enza e Natura\, Filosofia e Psicologia. BookCity: ingresso libero fino a e
+ saurimento posti\, per alcuni incontri serve prenotare su bookcitymilano.i
+ t. https://www.bookcitymilano.it/eventi/2026/dal-sovraccarico-alla-cura-di
+ -se
+URL:https://www.bookcitymilano.it/eventi/2026/dal-sovraccarico-alla-cura-di
+ -se
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-oltre-la-punizione-riparare-riannodare-rigenerar@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Oltre la punizione: riparare\, riannodare\, rigenerare
@@ -138,9 +343,42 @@ URL:https://fondazionefeltrinelli.it/en/participate/
 CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-io-prima-di-noi-lattesa-delladozione-da-parte-de@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T100000
+DTEND;TZID=Europe/Rome:20261128T120000
+SUMMARY:Io prima di noi. L’attesa dell’adozione da parte dei figli
+LOCATION:Biblioteca Nazionale Braidense (Via Brera\, 28)
+DESCRIPTION:Con Ivana Lazzarini e Giuseppina Facchi. BookCity · Bibliotech
+ e\, Filosofia e Psicologia\, Identità e Culture. BookCity: ingresso liber
+ o fino a esaurimento posti\, per alcuni incontri serve prenotare su bookci
+ tymilano.it. https://www.bookcitymilano.it/eventi/2026/io-prima-di-noi
+URL:https://www.bookcitymilano.it/eventi/2026/io-prima-di-noi
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-che-posto-puo-avere-la-filosofia-nelle-nostre-vi@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T101500
+DTEND;TZID=Europe/Rome:20261128T121500
+SUMMARY:Che posto può avere la filosofia nelle nostre vite?
+LOCATION:Philo - Pratiche filosofiche - Sala Philo (Via Giovanni Battista P
+ iranesi\, 12\, 20137 MI\, Italia)
+DESCRIPTION:Con Ivan Carlot\, Ivano Gamelli e Amabile Villa. BookCity · Fi
+ losofia e Psicologia. BookCity: ingresso libero fino a esaurimento posti\,
+  per alcuni incontri serve prenotare su bookcitymilano.it. https://www.boo
+ kcitymilano.it/eventi/2026/che-posto-puo-avere-la-filosofia-nelle-nostre-v
+ ite
+URL:https://www.bookcitymilano.it/eventi/2026/che-posto-puo-avere-la-filoso
+ fia-nelle-nostre-vite
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-codice-girard-giulio-milani-paolo-bianchi-e-ales@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261128T110000
 DTEND;TZID=Europe/Rome:20261128T130000
 SUMMARY:Codice Girard: Giulio Milani\, Paolo Bianchi e Alessandro Gnocchi
@@ -153,8 +391,58 @@ URL:https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442
 CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-lo-psichiatra-di-fronte-a-se-stesso@acculturiamoci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T110000
+DTEND;TZID=Europe/Rome:20261128T130000
+SUMMARY:Lo psichiatra di fronte a sé stesso
+LOCATION:Casa della Psicologia (Piazza Castello\, 2)
+DESCRIPTION:Con Vittorino Andreoli e Roberta Russo. BookCity · Cura e Salu
+ te\, Filosofia e Psicologia. BookCity: ingresso libero fino a esaurimento 
+ posti\, per alcuni incontri serve prenotare su bookcitymilano.it. https://
+ www.bookcitymilano.it/eventi/2026/lo-psichiatra-di-fronte-a-se-stesso
+URL:https://www.bookcitymilano.it/eventi/2026/lo-psichiatra-di-fronte-a-se-
+ stesso
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-non-ardo-dal-desiderio-di-diventare-uomo-finche-@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T110000
+DTEND;TZID=Europe/Rome:20261128T130000
+SUMMARY:Non ardo dal desiderio di diventare uomo finché posso essere anche
+  donna bambino animale o cosa
+LOCATION:Tempio Civico di San Sebastiano (Via Torino\, 28)
+DESCRIPTION:Con Alessandro Bergonzoni. BookCity · Filosofia e Psicologia\,
+  Lectio\, Lezioni per recuperare il senno. BookCity: ingresso libero fino 
+ a esaurimento posti\, per alcuni incontri serve prenotare su bookcitymilan
+ o.it. https://www.bookcitymilano.it/eventi/2026/non-ardo-dal-desiderio-di-
+ diventare-uomo-finche-posso-essere-anche-donna-bambino-animale-o-cosa
+URL:https://www.bookcitymilano.it/eventi/2026/non-ardo-dal-desiderio-di-div
+ entare-uomo-finche-posso-essere-anche-donna-bambino-animale-o-cosa
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-eppur-mi-vedi-linguaggi-e-rappresentazioni-della@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T110000
+DTEND;TZID=Europe/Rome:20261128T130000
+SUMMARY:Eppur mi vedi. Linguaggi e rappresentazioni della disabilità
+LOCATION:Circolo Masada APS (Viale Carlo Espinasse\, 41)
+DESCRIPTION:Con Alexa Pantanella e Ugo Sandulli. BookCity · Filosofia e Ps
+ icologia\, Identità e Culture. BookCity: ingresso libero fino a esaurimen
+ to posti\, per alcuni incontri serve prenotare su bookcitymilano.it. https
+ ://www.bookcitymilano.it/eventi/2026/eppur-mi-vedi-linguaggi-e-rappresenta
+ zioni-della-disabilita
+URL:https://www.bookcitymilano.it/eventi/2026/eppur-mi-vedi-linguaggi-e-rap
+ presentazioni-della-disabilita
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-vito-mancuso-il-male-e-il-suo-mistero@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261128T113000
 DTEND;TZID=Europe/Rome:20261128T133000
 SUMMARY:Vito Mancuso: Il male e il suo mistero
@@ -169,9 +457,91 @@ URL:https://www.vitomancuso.it/2026/11/25/prossimi-appuntamenti-con-vito-4/
 CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-pratiche-filosofiche-tra-le-arti-e-le-sirene@acculturiamoci.
+ it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T113000
+DTEND;TZID=Europe/Rome:20261128T133000
+SUMMARY:Pratiche filosofiche tra le arti e le sirene
+LOCATION:Philo - Pratiche filosofiche - Sala Philo (Via Giovanni Battista P
+ iranesi\, 12\, 20137 MI\, Italia)
+DESCRIPTION:Con Chiara Mirabelli\, Silvia Mozzi e Andrea Prandin. BookCity 
+ · Arte\, Fotografia\, Moda\, Filosofia e Psicologia. BookCity: ingresso l
+ ibero fino a esaurimento posti\, per alcuni incontri serve prenotare su bo
+ okcitymilano.it. https://www.bookcitymilano.it/eventi/2026/pratiche-filoso
+ fiche-tra-le-arti-e-le-sirene
+URL:https://www.bookcitymilano.it/eventi/2026/pratiche-filosofiche-tra-le-a
+ rti-e-le-sirene
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-adhd-la-ribellione-da-comprendere@acculturiamoci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T113000
+DTEND;TZID=Europe/Rome:20261128T133000
+SUMMARY:ADHD: la ribellione da comprendere
+LOCATION:Libraccio Milano Romolo (Viale Romolo\, 9)
+DESCRIPTION:Con Alessia Barbagli\, Federica Capirchio e Alessio Giampà. Bo
+ okCity · Filosofia e Psicologia. BookCity: ingresso libero fino a esaurim
+ ento posti\, per alcuni incontri serve prenotare su bookcitymilano.it. htt
+ ps://www.bookcitymilano.it/eventi/2026/adhd-la-ribellione-da-comprendere
+URL:https://www.bookcitymilano.it/eventi/2026/adhd-la-ribellione-da-compren
+ dere
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-le-piccole-persone-e-non-solo@acculturiamoci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T115000
+DTEND;TZID=Europe/Rome:20261128T135000
+SUMMARY:Le Piccole Persone e non solo
+LOCATION:Cimitero Monumentale (Piazzale Cimitero Monumentale\,  20154)
+DESCRIPTION:Con Rosa Matteucci. BookCity · Ambiente\, Scienza e Natura\, P
+ asseggiate letterarie e visite guidate\, Religione e Spiritualità. BookCi
+ ty: ingresso libero fino a esaurimento posti\, per alcuni incontri serve p
+ renotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/p
+ iccole-persone-rosa-matteucci
+URL:https://www.bookcitymilano.it/eventi/2026/piccole-persone-rosa-matteucc
+ i
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-adolescenti-questi-alieni@acculturiamoci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T123000
+DTEND;TZID=Europe/Rome:20261128T143000
+SUMMARY:Adolescenti: questi alieni
+LOCATION:Casa della Psicologia (Piazza Castello\, 2)
+DESCRIPTION:Con Elena Buday e Valentina Calcaterra. Modera Anna Stefi. Book
+ City · Adolescenza\, Filosofia e Psicologia. BookCity: ingresso libero fi
+ no a esaurimento posti\, per alcuni incontri serve prenotare su bookcitymi
+ lano.it. https://www.bookcitymilano.it/eventi/2026/adolescenti-questi-alie
+ ni
+URL:https://www.bookcitymilano.it/eventi/2026/adolescenti-questi-alieni
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-il-corpo-sotto-giudizio-linguaggi-stigma-e-viole@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T123000
+DTEND;TZID=Europe/Rome:20261128T143000
+SUMMARY:Il corpo sotto giudizio. Linguaggi\, stigma e violenza invisibile
+LOCATION:Avvocatura Comunale di Milano (Via della Guastalla 6\, 20122)
+DESCRIPTION:Con Laura Occhini\, Eleonora Pinzuti\, Maria Rita Mancaniello e
+  Silvia Brena. BookCity · Filosofia e Psicologia\, Identità e Culture\, 
+ Scuola ed Educazione. BookCity: ingresso libero fino a esaurimento posti\,
+  per alcuni incontri serve prenotare su bookcitymilano.it. https://www.boo
+ kcitymilano.it/eventi/2026/il-corpo-sotto-giudizio-linguaggi-stigma-e-viol
+ enza-invisibile
+URL:https://www.bookcitymilano.it/eventi/2026/il-corpo-sotto-giudizio-lingu
+ aggi-stigma-e-violenza-invisibile
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-silvia-piccioli-i-meloni-di-cartesio-e-altri-ane@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261128T140000
 DTEND;TZID=Europe/Rome:20261128T160000
 SUMMARY:Silvia Piccioli: I meloni di Cartesio e altri aneddoti
@@ -186,8 +556,135 @@ URL:https://teatrofrancoparenti.it/spettacolo/bookcity-milano-al-parenti-fp
 CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-la-grammatica-della-menzogna@acculturiamoci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T140000
+DTEND;TZID=Europe/Rome:20261128T160000
+SUMMARY:La grammatica della menzogna
+LOCATION:ADI Design Museum - Foyer (Piazza Compasso d'Oro 1)
+DESCRIPTION:Con Raffaella Scarpa e Laura Pezzino. BookCity · Filosofia e P
+ sicologia. BookCity: ingresso libero fino a esaurimento posti\, per alcuni
+  incontri serve prenotare su bookcitymilano.it. https://www.bookcitymilano
+ .it/eventi/2026/la-grammatica-della-menzogna
+URL:https://www.bookcitymilano.it/eventi/2026/la-grammatica-della-menzogna
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-ce-un-posto-per-la-gioia@acculturiamoci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T143000
+DTEND;TZID=Europe/Rome:20261128T163000
+SUMMARY:C’è un posto per la gioia?
+LOCATION:Philo - Pratiche filosofiche - Sala Philo (Via Giovanni Battista P
+ iranesi\, 12\, 20137 MI\, Italia)
+DESCRIPTION:Con Domenico Chianese e Clementina Pavoni. BookCity · Cura e S
+ alute\, Filosofia e Psicologia. BookCity: ingresso libero fino a esaurimen
+ to posti\, per alcuni incontri serve prenotare su bookcitymilano.it. https
+ ://www.bookcitymilano.it/eventi/2026/ce-un-posto-per-la-gioia
+URL:https://www.bookcitymilano.it/eventi/2026/ce-un-posto-per-la-gioia
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-le-piccole-persone-e-non-solo-2@acculturiamoci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T145000
+DTEND;TZID=Europe/Rome:20261128T165000
+SUMMARY:Le Piccole Persone e non solo
+LOCATION:Cimitero Monumentale (Piazzale Cimitero Monumentale\,  20154)
+DESCRIPTION:Con Rosa Matteucci. BookCity · Ambiente\, Scienza e Natura\, P
+ asseggiate letterarie e visite guidate\, Religione e Spiritualità. BookCi
+ ty: ingresso libero fino a esaurimento posti\, per alcuni incontri serve p
+ renotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/p
+ iccole-persone-rosa-matteucci-2
+URL:https://www.bookcitymilano.it/eventi/2026/piccole-persone-rosa-matteucc
+ i-2
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-la-sfida-della-speranza-nelleta-secolare@acculturiamoci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T153000
+DTEND;TZID=Europe/Rome:20261128T173000
+SUMMARY:La sfida della speranza nell’età secolare
+LOCATION:Istituto scolastico Orsoline di San Carlo - Sala delle medaglie (V
+ ia Lanzone 53)
+DESCRIPTION:Con Fabio Rondano\, Antonio Ferentino e Anna Maria Celso. BookC
+ ity · Religione e Spiritualità. BookCity: ingresso libero fino a esaurim
+ ento posti\, per alcuni incontri serve prenotare su bookcitymilano.it. htt
+ ps://www.bookcitymilano.it/eventi/2026/la-sfida-della-speranza-nelleta-sec
+ olare
+URL:https://www.bookcitymilano.it/eventi/2026/la-sfida-della-speranza-nelle
+ ta-secolare
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-13m2-la-vita-filosofica-di-henry-david-thoreau@acculturiamoc
+ i.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T160000
+DTEND;TZID=Europe/Rome:20261128T180000
+SUMMARY:13m². La vita filosofica di Henry David Thoreau
+LOCATION:Farina Editore (Via Giulio Carcano\, 20)
+DESCRIPTION:Con Mauro Trentadue e Lorenza Mantovani. BookCity · Filosofia 
+ e Psicologia. BookCity: ingresso libero fino a esaurimento posti\, per alc
+ uni incontri serve prenotare su bookcitymilano.it. https://www.bookcitymil
+ ano.it/eventi/2026/13m2-la-vita-filosofica-di-henry-david-thoreau
+URL:https://www.bookcitymilano.it/eventi/2026/13m2-la-vita-filosofica-di-he
+ nry-david-thoreau
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-lesperienza-della-perdita-vivere-tra-cio-che-res@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T163000
+DTEND;TZID=Europe/Rome:20261128T183000
+SUMMARY:L’esperienza della perdita. Vivere tra ciò che resta e ciò che 
+ scompare
+LOCATION:Casa della Psicologia (Piazza Castello\, 2)
+DESCRIPTION:Con Joan-Carles Mèlich e Vittorio Lingiardi. BookCity · Autor
+ i Stranieri\, Filosofia e Psicologia. BookCity: ingresso libero fino a esa
+ urimento posti\, per alcuni incontri serve prenotare su bookcitymilano.it.
+  https://www.bookcitymilano.it/eventi/2026/lesperienza-della-perdita
+URL:https://www.bookcitymilano.it/eventi/2026/lesperienza-della-perdita
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-nonviolenza-una-lunga-storia-di-donne-e-uomini@acculturiamoc
+ i.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T163000
+DTEND;TZID=Europe/Rome:20261128T183000
+SUMMARY:Nonviolenza: una lunga storia di donne e uomini
+LOCATION:Centro di Nonviolenza Attiva (Via Guido Mazzali\, 5)
+DESCRIPTION:Con Annabella Coiro\, Sabina Langer\, Stefano Avanzi\, Valerio 
+ Colombo\, Valeria Russo e Giorgio Schultze. BookCity · Filosofia e Psicol
+ ogia\, Identità e Culture. BookCity: ingresso libero fino a esaurimento p
+ osti\, per alcuni incontri serve prenotare su bookcitymilano.it. https://w
+ ww.bookcitymilano.it/eventi/2026/nonviolenza-una-lunga-storia-di-donne-e-u
+ omini
+URL:https://www.bookcitymilano.it/eventi/2026/nonviolenza-una-lunga-storia-
+ di-donne-e-uomini
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-oltre-la-soglia-dove-il-cuore-ricorda@acculturiamoci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T164500
+DTEND;TZID=Europe/Rome:20261128T184500
+SUMMARY:Oltre la soglia. Dove il cuore ricorda
+LOCATION:Seganti Arreda (Via Lazzaro Papi 12\, angolo Via Pietro Colletta)
+DESCRIPTION:Con Alessandra Bresciani. BookCity · Religione e Spiritualità
+ . BookCity: ingresso libero fino a esaurimento posti\, per alcuni incontri
+  serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/event
+ i/2026/oltre-la-soglia-dove-il-cuore-ricorda
+URL:https://www.bookcitymilano.it/eventi/2026/oltre-la-soglia-dove-il-cuore
+ -ricorda
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-roberto-escobar-mare-una-metafora-che-vive@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261128T170000
 DTEND;TZID=Europe/Rome:20261128T190000
 SUMMARY:Roberto Escobar: Mare. Una metafora che vive
@@ -200,8 +697,59 @@ URL:https://teatrofrancoparenti.it/?post_type=spettacolo&p=53442
 CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-l-arte-di-crescere-attraverso-il-caos@acculturiamoci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T170000
+DTEND;TZID=Europe/Rome:20261128T190000
+SUMMARY:L'arte di crescere attraverso il caos
+LOCATION:Palazzo Assolombarda - Sala Lounge (Via Pantano\, 9)
+DESCRIPTION:Con Federico Guidoni\, Cristina Pozzi e Nicla Panciera. BookCit
+ y · Filosofia e Psicologia. BookCity: ingresso libero fino a esaurimento 
+ posti\, per alcuni incontri serve prenotare su bookcitymilano.it. https://
+ www.bookcitymilano.it/eventi/2026/larte-di-crescere-attraverso-il-caos
+URL:https://www.bookcitymilano.it/eventi/2026/larte-di-crescere-attraverso-
+ il-caos
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-il-diario-mai-letto-di-papa-francesco-per-conosc@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T170000
+DTEND;TZID=Europe/Rome:20261128T190000
+SUMMARY:Il Diario mai letto di Papa Francesco. Per conoscere davvero Jorge 
+ Mario Bergoglio
+LOCATION:Chiesa San Fedele (Piazza San Fedele)
+DESCRIPTION:Con cardinale Víctor Manuel Fernández e don Luigi Ciotti. Mod
+ era Andrea Tornielli. BookCity · Anteprima per BookCity Milano\, Giornali
+ smo\, Informazione e Attualità\, Religione e Spiritualità. BookCity: ing
+ resso libero fino a esaurimento posti\, per alcuni incontri serve prenotar
+ e su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/il-diari
+ o-mai-letto-di-papa-francesco-per-conoscere-davvero-jorge-mario-bergoglio
+URL:https://www.bookcitymilano.it/eventi/2026/il-diario-mai-letto-di-papa-f
+ rancesco-per-conoscere-davvero-jorge-mario-bergoglio
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-il-senno-contro-la-guerra-seconda-parte-europa-e@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T173000
+DTEND;TZID=Europe/Rome:20261128T193000
+SUMMARY:Il senno contro la guerra. Seconda parte: Europa e Medio Oriente
+LOCATION:BIBLIOTHE & CO (Via Giuseppe Dezza 50)
+DESCRIPTION:Con Sandra Manzella e Adriano Stabile. BookCity · Geopolitica\
+ , Religione e Spiritualità. BookCity: ingresso libero fino a esaurimento 
+ posti\, per alcuni incontri serve prenotare su bookcitymilano.it. https://
+ www.bookcitymilano.it/eventi/2026/il-senno-contro-la-guerra-seconda-parte-
+ europa-e-medio-oriente
+URL:https://www.bookcitymilano.it/eventi/2026/il-senno-contro-la-guerra-sec
+ onda-parte-europa-e-medio-oriente
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-filosofia-dell-amicizia@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Filosofia dell'amicizia
@@ -215,8 +763,179 @@ URL:https://www.mentelocale.it/milano/145491-bookcity-milano-2026-programma
 CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-ed-e-subito-sera-elogio-della-caducita@acculturiamoci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:Ed è subito sera. Elogio della caducità
+LOCATION:Circolo dei Lettori di Milano - Casa Manzoni (Via Gerolamo Morone\
+ , 1)
+DESCRIPTION:Con Paulo Barone e Roberta Scorranese. BookCity · Filosofia e 
+ Psicologia. BookCity: ingresso libero fino a esaurimento posti\, per alcun
+ i incontri serve prenotare su bookcitymilano.it. https://www.bookcitymilan
+ o.it/eventi/2026/ed-e-subito-sera-elogio-della-caducita
+URL:https://www.bookcitymilano.it/eventi/2026/ed-e-subito-sera-elogio-della
+ -caducita
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-come-ho-svuotato-la-casa-dei-miei-genitori-il-lu@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:Come ho svuotato la casa dei miei genitori. Il lutto tra scatole e 
+ vestiti
+LOCATION:Casa della Psicologia (Piazza Castello\, 2)
+DESCRIPTION:Con Lydia Flem e Giovanna Zucconi. BookCity · Autori Stranieri
+ \, Cura e Salute\, Filosofia e Psicologia. BookCity: ingresso libero fino 
+ a esaurimento posti\, per alcuni incontri serve prenotare su bookcitymilan
+ o.it. https://www.bookcitymilano.it/eventi/2026/come-ho-svuota-la-casa-dei
+ -miei-genitori
+URL:https://www.bookcitymilano.it/eventi/2026/come-ho-svuota-la-casa-dei-mi
+ ei-genitori
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-la-passione-degli-estranei-filosofia-dellamicizi@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:La passione degli estranei. Filosofia dell’amicizia
+LOCATION:Fondazione Giangiacomo Feltrinelli - Sala Lettura (Viale Pasubio 5
+ )
+DESCRIPTION:Con Marina Garcés e Antonio Gurrado. BookCity · Autori Strani
+ eri\, Filosofia e Psicologia\, Lectio. BookCity: ingresso libero fino a es
+ aurimento posti\, per alcuni incontri serve prenotare su bookcitymilano.it
+ . https://www.bookcitymilano.it/eventi/2026/la-passione-degli-estranei
+URL:https://www.bookcitymilano.it/eventi/2026/la-passione-degli-estranei
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-vita-di-san-francesco-secondo-caravaggio@acculturiamoci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:Vita di san Francesco secondo Caravaggio
+LOCATION:Biblioteca Sormani - Sala del Portico (Corso di Porta Vittoria\, 6
+ )
+DESCRIPTION:Con Fabiola Giancotti\, Claudio Metzger e Sira Waldner. Letture
+  teatrali di Gualtiero Scola. BookCity · Arte\, Fotografia\, Moda\, Relig
+ ione e Spiritualità. BookCity: ingresso libero fino a esaurimento posti\,
+  per alcuni incontri serve prenotare su bookcitymilano.it. https://www.boo
+ kcitymilano.it/eventi/2026/vita-di-san-francesco-secondo-caravaggio
+URL:https://www.bookcitymilano.it/eventi/2026/vita-di-san-francesco-secondo
+ -caravaggio
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-larte-gentile-della-distruzione-come-non-perdere@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:L’arte gentile della distruzione. Come non perdere il senno nella
+  scienza e nella tecnologia
+LOCATION:Museo Nazionale Scienza e Tecnologia Leonardo da Vinci - Cenacolo 
+ (Via San Vittore\, 21)
+DESCRIPTION:Con Barbara Mazzolai. BookCity · Ambiente\, Scienza e Natura\,
+  Architettura\, Design\, Urbanistica\, Il senno sulla Luna. BookCity: ingr
+ esso libero fino a esaurimento posti\, per alcuni incontri serve prenotare
+  su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/larte-gen
+ tile-della-distruzione
+URL:https://www.bookcitymilano.it/eventi/2026/larte-gentile-della-distruzio
+ ne
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-curare-la-pace-la-cura-di-se-la-cura-dell-altro@acculturiamo
+ ci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:Curare la pace: la cura di sé\, la cura dell'altro
+LOCATION:Biblioteca Chiesa Rossa (Via San Domenico Savio 3)
+DESCRIPTION:Con Marcello Aragona. BookCity · Biblioteche\, Cura e Salute\,
+  Filosofia e Psicologia. BookCity: ingresso libero fino a esaurimento post
+ i\, per alcuni incontri serve prenotare su bookcitymilano.it. https://www.
+ bookcitymilano.it/eventi/2026/curare-la-pace-la-cura-di-se-la-cura-dellalt
+ ro
+URL:https://www.bookcitymilano.it/eventi/2026/curare-la-pace-la-cura-di-se-
+ la-cura-dellaltro
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-femminile-plurale-bespaloff-e-weil-interpreti-de@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:Femminile\, plurale. Bespaloff e Weil interpreti de L’Iliade
+LOCATION:Farina Editore (Via Giulio Carcano\, 20)
+DESCRIPTION:Con Mauro Trentadue e Lorenza Mantovani. BookCity · Classici\,
+  Donne\, Filosofia e Psicologia. BookCity: ingresso libero fino a esaurime
+ nto posti\, per alcuni incontri serve prenotare su bookcitymilano.it. http
+ s://www.bookcitymilano.it/eventi/2026/femminile-plurale-bespaloff-e-weil-i
+ nterpreti-de-liliade
+URL:https://www.bookcitymilano.it/eventi/2026/femminile-plurale-bespaloff-e
+ -weil-interpreti-de-liliade
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-il-senno-delle-donne-tra-arte-e-filosofia@acculturiamoci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:Il senno delle donne\, tra arte e filosofia
+LOCATION:ADI Design Museum - Foyer (Piazza Compasso d'Oro 1)
+DESCRIPTION:Con Laura Sanò\, Giacinto Di Pietrantonio e Mariantonietta Fir
+ mani. BookCity · Arte\, Fotografia\, Moda\, Filosofia e Psicologia. BookC
+ ity: ingresso libero fino a esaurimento posti\, per alcuni incontri serve 
+ prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/
+ il-senno-delle-donne-tra-arte-e-filosofia
+URL:https://www.bookcitymilano.it/eventi/2026/il-senno-delle-donne-tra-arte
+ -e-filosofia
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-oltre-la-soglia-la-dove-comincia-il-mistero@acculturiamoci.i
+ t
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T184500
+DTEND;TZID=Europe/Rome:20261128T204500
+SUMMARY:Oltre la soglia. Là dove comincia il mistero
+LOCATION:Seganti Arreda (Via Lazzaro Papi 12\, angolo Via Pietro Colletta)
+DESCRIPTION:Con Giorgio Pastore. BookCity · Religione e Spiritualità. Boo
+ kCity: ingresso libero fino a esaurimento posti\, per alcuni incontri serv
+ e prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/202
+ 6/oltre-la-soglia-la-dove-comincia-il-mistero
+URL:https://www.bookcitymilano.it/eventi/2026/oltre-la-soglia-la-dove-comin
+ cia-il-mistero
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-amica-collega-partner-rimanere-umani-nella-relaz@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261128T193000
+DTEND;TZID=Europe/Rome:20261128T213000
+SUMMARY:Amica\, collega\, partner. Rimanere umani nella relazione con l'Int
+ elligenza Artificiale
+LOCATION:Casa della Psicologia (Piazza Castello\, 2)
+DESCRIPTION:Con Giuseppe Riva\, Luca Chittaro\, Danilo Corona e Massimilian
+ o Grassi. BookCity · Digitale e Intelligenza Artificiale\, Filosofia e Ps
+ icologia. BookCity: ingresso libero fino a esaurimento posti\, per alcuni 
+ incontri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.
+ it/eventi/2026/amica-collega-partner-rimanere-umani-nella-relazione-con-li
+ ntelligenza-artificiale
+URL:https://www.bookcitymilano.it/eventi/2026/amica-collega-partner-rimaner
+ e-umani-nella-relazione-con-lintelligenza-artificiale
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-programma-philo-a-bookcity@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Programma Philo a BookCity
@@ -229,7 +948,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-filosofia-sui-navigli-vulnerabilita-e-guerra-una@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261129T101500
 DTEND;TZID=Europe/Rome:20261129T121500
 SUMMARY:Filosofia sui Navigli: Vulnerabilità e guerra. Una lettura di Judi
@@ -246,9 +965,351 @@ URL:https://www.google.com/search?q=Filosofia+sui+Navigli+Milano
 CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-psicologia-e-biografia-nel-contesto-storico-soci@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261129T101500
+DTEND;TZID=Europe/Rome:20261129T121500
+SUMMARY:Psicologia e biografia nel contesto storico-sociale
+LOCATION:Philo - Pratiche filosofiche - Sala Philo (Via Giovanni Battista P
+ iranesi\, 12\, 20137 MI\, Italia)
+DESCRIPTION:Con Romano Màdera e Massimo Diana. BookCity · Filosofia e Psi
+ cologia. BookCity: ingresso libero fino a esaurimento posti\, per alcuni i
+ ncontri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.i
+ t/eventi/2026/psicologia-e-biografia-nel-contesto-storico-sociale
+URL:https://www.bookcitymilano.it/eventi/2026/psicologia-e-biografia-nel-co
+ ntesto-storico-sociale
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-l-italia-di-san-francesco-itinerari-spiritualita@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261129T113000
+DTEND;TZID=Europe/Rome:20261129T133000
+SUMMARY:L'Italia di San Francesco: itinerari\, spiritualità e la rivoluzio
+ ne del camminare
+LOCATION:Fondazione Culturale San Fedele - Sala Ricci (Piazza San Fedele\, 
+ 4)
+DESCRIPTION:Con Miriam Giovanzana\, Gianluigi Bettin e Fra Giovanni Voltan.
+  BookCity · Ambiente\, Scienza e Natura\, Religione e Spiritualità\, Via
+ ggi e Tempo Libero. BookCity: ingresso libero fino a esaurimento posti\, p
+ er alcuni incontri serve prenotare su bookcitymilano.it. https://www.bookc
+ itymilano.it/eventi/2026/litalia-di-san-francesco-itinerari-spiritualita-e
+ -la-rivoluzione-del-camminare
+URL:https://www.bookcitymilano.it/eventi/2026/litalia-di-san-francesco-itin
+ erari-spiritualita-e-la-rivoluzione-del-camminare
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-a-volte-ti-amo-la-rivoluzione-dei-rapporti-nel-m@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261129T113000
+DTEND;TZID=Europe/Rome:20261129T133000
+SUMMARY:A volte ti amo. La rivoluzione dei rapporti nel mondo fragile delle
+  nuove generazioni
+LOCATION:Fondazione Giangiacomo Feltrinelli - Sala Polifunzionale (viale Pa
+ subio 5)
+DESCRIPTION:Con Matteo Lancini e Matteo Bussola. BookCity · Adolescenza\, 
+ Filosofia e Psicologia. BookCity: ingresso libero fino a esaurimento posti
+ \, per alcuni incontri serve prenotare su bookcitymilano.it. https://www.b
+ ookcitymilano.it/eventi/2026/a-volte-ti-amo
+URL:https://www.bookcitymilano.it/eventi/2026/a-volte-ti-amo
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-lumano-come-animale-relazionale-tra-heidegger-e-@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261129T113000
+DTEND;TZID=Europe/Rome:20261129T133000
+SUMMARY:L’umano come animale relazionale tra Heidegger e Hadot
+LOCATION:Philo - Pratiche filosofiche - Sala Philo (Via Giovanni Battista P
+ iranesi\, 12\, 20137 MI\, Italia)
+DESCRIPTION:Con Elena Bartolini e Giulietta Zaccaro. BookCity · Filosofia 
+ e Psicologia. BookCity: ingresso libero fino a esaurimento posti\, per alc
+ uni incontri serve prenotare su bookcitymilano.it. https://www.bookcitymil
+ ano.it/eventi/2026/lumano-come-animale-relazionale-tra-heidegger-e-hadot
+URL:https://www.bookcitymilano.it/eventi/2026/lumano-come-animale-relaziona
+ le-tra-heidegger-e-hadot
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-diamoci-del-lei-quindici-donne-che-hanno-cambiat@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261129T123000
+DTEND;TZID=Europe/Rome:20261129T143000
+SUMMARY:Diamoci del Lei. Quindici donne che hanno cambiato la storia della 
+ psicologia
+LOCATION:Casa della Psicologia (Piazza Castello\, 2)
+DESCRIPTION:Con Valentina Albertini e Maria Antonietta Gulino. Modera Valen
+ tina Di Mattei. BookCity · Donne\, Filosofia e Psicologia. BookCity: ingr
+ esso libero fino a esaurimento posti\, per alcuni incontri serve prenotare
+  su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/diamoci-d
+ el-lei-quindici-donne-che-hanno-cambiato-la-storia-della-psicologia
+URL:https://www.bookcitymilano.it/eventi/2026/diamoci-del-lei-quindici-donn
+ e-che-hanno-cambiato-la-storia-della-psicologia
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-cristo-e-dioniso@acculturiamoci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261129T123000
+DTEND;TZID=Europe/Rome:20261129T143000
+SUMMARY:Cristo e Dioniso
+LOCATION:PIME - Pontificio Istituto Missioni Estere - Sala Vismara (Via Mos
+ è Bianchi\, 94)
+DESCRIPTION:Con Giorgio Cavalli. BookCity · Filosofia e Psicologia\, Relig
+ ione e Spiritualità. BookCity: ingresso libero fino a esaurimento posti\,
+  per alcuni incontri serve prenotare su bookcitymilano.it. https://www.boo
+ kcitymilano.it/eventi/2026/cristo-e-dioniso
+URL:https://www.bookcitymilano.it/eventi/2026/cristo-e-dioniso
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-scusa@acculturiamoci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261129T143000
+DTEND;TZID=Europe/Rome:20261129T163000
+SUMMARY:Scusa!
+LOCATION:Libreria Rizzoli Milano (Galleria Vittorio Emanuele II\, 11/12)
+DESCRIPTION:Con Matteo Flora e Giuseppe Mayer. BookCity · Filosofia e Psic
+ ologia. BookCity: ingresso libero fino a esaurimento posti\, per alcuni in
+ contri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it
+ /eventi/2026/scusa
+URL:https://www.bookcitymilano.it/eventi/2026/scusa
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-manuale-di-filosofia-della-medicina@acculturiamoci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261129T143000
+DTEND;TZID=Europe/Rome:20261129T163000
+SUMMARY:Manuale di filosofia della medicina
+LOCATION:Circolo Filologico Milanese - Sala delle Colonne (via Clerici 10)
+DESCRIPTION:Con Federico Perozziello\, Alberto Scanni e Luciano Tellaroli. 
+ BookCity · Cura e Salute\, Filosofia e Psicologia. BookCity: ingresso lib
+ ero fino a esaurimento posti\, per alcuni incontri serve prenotare su book
+ citymilano.it. https://www.bookcitymilano.it/eventi/2026/manuale-di-filoso
+ fia-della-medicina
+URL:https://www.bookcitymilano.it/eventi/2026/manuale-di-filosofia-della-me
+ dicina
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-la-foresta-dentro-di-noi@acculturiamoci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261129T150000
+DTEND;TZID=Europe/Rome:20261129T170000
+SUMMARY:La foresta dentro di noi
+LOCATION:Circolo Filologico Milanese - Sala Liberty (via Clerici 10)
+DESCRIPTION:Con Selene Calloni Williams\, Luciano Tellaroli e la cagnolina 
+ Akì. BookCity · Cura e Salute\, Religione e Spiritualità. BookCity: ing
+ resso libero fino a esaurimento posti\, per alcuni incontri serve prenotar
+ e su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/la-fores
+ ta-dentro-di-noi
+URL:https://www.bookcitymilano.it/eventi/2026/la-foresta-dentro-di-noi
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-il-passero-buddhista-nei-boschi-e-in-natura@acculturiamoci.i
+ t
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261129T150000
+DTEND;TZID=Europe/Rome:20261129T170000
+SUMMARY:Il passero buddhista - Nei boschi e in natura
+LOCATION:Museo di Storia Naturale di Milano (Corso Venezia\, 55)
+DESCRIPTION:Con Tiziano Fratus ed Elisabetta Motta. BookCity · Ambiente\, 
+ Scienza e Natura\, Religione e Spiritualità. BookCity: ingresso libero fi
+ no a esaurimento posti\, per alcuni incontri serve prenotare su bookcitymi
+ lano.it. https://www.bookcitymilano.it/eventi/2026/il-passero-buddhista-me
+ ditazioni-selvatiche
+URL:https://www.bookcitymilano.it/eventi/2026/il-passero-buddhista-meditazi
+ oni-selvatiche
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-va-dove-ti-porta-il-capibara-unesperienza-di-mer@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261129T150000
+DTEND;TZID=Europe/Rome:20261129T170000
+SUMMARY:Va dove ti porta il Capibara. Un’esperienza di meraviglia urbana 
+ ispirata al libro Esercizi di filosofia capibara
+LOCATION:Centro Internazionale di Brera (Via Marco Formentini\, 10)
+DESCRIPTION:Con Lorenza Bernardi. BookCity · Filosofia e Psicologia\, Pass
+ eggiate letterarie e visite guidate. BookCity: ingresso libero fino a esau
+ rimento posti\, per alcuni incontri serve prenotare su bookcitymilano.it. 
+ https://www.bookcitymilano.it/eventi/2026/va-dove-ti-porta-il-capibara
+URL:https://www.bookcitymilano.it/eventi/2026/va-dove-ti-porta-il-capibara
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-artigiani-di-idee-generare-futuro-per-ritrovare-@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261129T150000
+DTEND;TZID=Europe/Rome:20261129T170000
+SUMMARY:Artigiani di idee. Generare futuro: per ritrovare la Terra
+LOCATION:Fondazione Culturale San Fedele - Sala Ricci (Piazza San Fedele\, 
+ 4)
+DESCRIPTION:Con Sr Katia Roncalli\, Franco Vaccari e Francesco Ognibene. Bo
+ okCity · Geopolitica\, Identità e Culture\, Religione e Spiritualità. B
+ ookCity: ingresso libero fino a esaurimento posti\, per alcuni incontri se
+ rve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2
+ 026/artigiani-di-idee-generare-futuro-per-ritrovare-la-terra
+URL:https://www.bookcitymilano.it/eventi/2026/artigiani-di-idee-generare-fu
+ turo-per-ritrovare-la-terra
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-soggetti-smarriti-avete-perso-qualcosa-laborator@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261129T153000
+DTEND;TZID=Europe/Rome:20261129T173000
+SUMMARY:Soggetti smarriti. Avete perso qualcosa? Laboratorio dai 7 ai 99 an
+ ni
+LOCATION:Casa della Psicologia (Piazza Castello\, 2)
+DESCRIPTION:Con Barbara Cuoghi\, Noemi Lucrezia Pepe e Giovanna Zoboli. Mod
+ era Camilla Giraudi. BookCity · Editoria\, Scrittura e Mestieri del libro
+ \, Filosofia e Psicologia. BookCity: ingresso libero fino a esaurimento po
+ sti\, per alcuni incontri serve prenotare su bookcitymilano.it. https://ww
+ w.bookcitymilano.it/eventi/2026/soggetti-smarriti-avete-perso-qualcosa-lab
+ oratorio-dai-7-ai-99-anni
+URL:https://www.bookcitymilano.it/eventi/2026/soggetti-smarriti-avete-perso
+ -qualcosa-laboratorio-dai-7-ai-99-anni
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-l-istante-del-giudizio-ogni-incontro-e-per-sempr@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261129T160000
+DTEND;TZID=Europe/Rome:20261129T180000
+SUMMARY:L'istante del giudizio. Ogni incontro è per sempre
+LOCATION:Associazione Bambini senza sbarre (Corso Venezia\, 24)
+DESCRIPTION:Con Sergio Finzi\, Augusto Iossa Fasano e Lia Sacerdote. BookCi
+ ty · BCM Sociale\, Filosofia e Psicologia. BookCity: ingresso libero fino
+  a esaurimento posti\, per alcuni incontri serve prenotare su bookcitymila
+ no.it. https://www.bookcitymilano.it/eventi/2026/presentazione-del-libro-l
+ istante-del-giudizio
+URL:https://www.bookcitymilano.it/eventi/2026/presentazione-del-libro-lista
+ nte-del-giudizio
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-le-parole-della-cura-ritrovarsi@acculturiamoci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261129T160000
+DTEND;TZID=Europe/Rome:20261129T180000
+SUMMARY:Le parole della cura - Ritrovarsi
+LOCATION:Museo Nazionale Scienza e Tecnologia Leonardo da Vinci - Cenacolo 
+ (Via San Vittore\, 21)
+DESCRIPTION:Con Valentina Di Mattei\, Andrea Gaggioli\, Marta Pizzolante ed
+  Eliana Liotta. Con il supporto non condizionante di Recordati. BookCity 
+ · Cura e Salute\, Filosofia e Psicologia. BookCity: ingresso libero fino 
+ a esaurimento posti\, per alcuni incontri serve prenotare su bookcitymilan
+ o.it. https://www.bookcitymilano.it/eventi/2026/le-parole-della-cura-ritro
+ varsi
+URL:https://www.bookcitymilano.it/eventi/2026/le-parole-della-cura-ritrovar
+ si
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-hannah-arendt-interprete-de-il-secondo-sesso-di-@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261129T160000
+DTEND;TZID=Europe/Rome:20261129T180000
+SUMMARY:Hannah Arendt interprete de "Il secondo sesso" di Simone de Beauvoi
+ r
+LOCATION:Farina Editore (Via Giulio Carcano\, 20)
+DESCRIPTION:Con Mauro Trentadue. BookCity · Donne\, Filosofia e Psicologia
+ . BookCity: ingresso libero fino a esaurimento posti\, per alcuni incontri
+  serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/event
+ i/2026/hannah-arendt-interprete-de-il-secondo-sesso-di-simone-de-beauvoir
+URL:https://www.bookcitymilano.it/eventi/2026/hannah-arendt-interprete-de-i
+ l-secondo-sesso-di-simone-de-beauvoir
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-artigiani-di-idee-il-rischio-di-credere-da-flann@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261129T163000
+DTEND;TZID=Europe/Rome:20261129T183000
+SUMMARY:Artigiani di idee. Il rischio di credere: da Flannery O’Connor a 
+ noi
+LOCATION:Fondazione Culturale San Fedele - Sala Ricci (Piazza San Fedele\, 
+ 4)
+DESCRIPTION:Con Benedetta Centovalli\, Roberto Maier e Alessandro Zaccuri. 
+ BookCity · Religione e Spiritualità. BookCity: ingresso libero fino a es
+ aurimento posti\, per alcuni incontri serve prenotare su bookcitymilano.it
+ . https://www.bookcitymilano.it/eventi/2026/artigiani-di-idee-il-rischio-d
+ i-credere-da-flannery-oconnor-a-noi
+URL:https://www.bookcitymilano.it/eventi/2026/artigiani-di-idee-il-rischio-
+ di-credere-da-flannery-oconnor-a-noi
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-simone-weil-omero-e-tucidide-la-legge-del-piu-fo@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261129T170000
+DTEND;TZID=Europe/Rome:20261129T190000
+SUMMARY:Simone Weil\, Omero e Tucidide. La legge del più forte
+LOCATION:Farina Editore (Via Giulio Carcano\, 20)
+DESCRIPTION:Con Mauro Trentadue. BookCity · Filosofia e Psicologia. BookCi
+ ty: ingresso libero fino a esaurimento posti\, per alcuni incontri serve p
+ renotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/s
+ imone-weil-omero-e-tucidide-la-legge-del-piu-forte
+URL:https://www.bookcitymilano.it/eventi/2026/simone-weil-omero-e-tucidide-
+ la-legge-del-piu-forte
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-artigiani-di-idee-l-ampolla-del-senno-ritrovare-@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261129T180000
+DTEND;TZID=Europe/Rome:20261129T200000
+SUMMARY:Artigiani di idee. L'ampolla del senno: ritrovare il senso dell'uma
+ no tra desiderio\, fede e speranza
+LOCATION:Fondazione Culturale San Fedele - Sala Ricci (Piazza San Fedele\, 
+ 4)
+DESCRIPTION:Con Mons. Vincenzo Paglia\, Silvano Petrosino e Elisabetta Sogl
+ io. BookCity · Filosofia e Psicologia\, Religione e Spiritualità. BookCi
+ ty: ingresso libero fino a esaurimento posti\, per alcuni incontri serve p
+ renotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/a
+ rtigiani-di-idee-lampolla-del-senno-ritrovare-il-senso-dellumano-tra-desid
+ erio-fede-e-speranza
+URL:https://www.bookcitymilano.it/eventi/2026/artigiani-di-idee-lampolla-de
+ l-senno-ritrovare-il-senso-dellumano-tra-desiderio-fede-e-speranza
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-oro-greco-epicuro-aristippo-e-la-filosofia-del-p@acculturiam
+ oci.it
+DTSTAMP:20261127T093808Z
+DTSTART;TZID=Europe/Rome:20261129T180000
+DTEND;TZID=Europe/Rome:20261129T200000
+SUMMARY:Oro greco. Epicuro\, Aristippo e la filosofia del piacere
+LOCATION:Farina Editore (Via Giulio Carcano\, 20)
+DESCRIPTION:Con Mauro Trentadue. BookCity · Filosofia e Psicologia. BookCi
+ ty: ingresso libero fino a esaurimento posti\, per alcuni incontri serve p
+ renotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/o
+ ro-greco-epicuro-aristippo-e-la-filosofia-del-piacere
+URL:https://www.bookcitymilano.it/eventi/2026/oro-greco-epicuro-aristippo-e
+ -la-filosofia-del-piacere
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-02-per-una-pace-possibile-adolfo-ceretti-e-roberto-@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261202T180000
 DTEND;TZID=Europe/Rome:20261202T200000
 SUMMARY:Per una pace possibile: Adolfo Ceretti e Roberto Cornelli
@@ -262,7 +1323,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-rossella-fabbrichesi-ermeneutica-del-soggetto-at@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093808Z
 DTSTART;TZID=Europe/Rome:20261203T173000
 DTEND;TZID=Europe/Rome:20261203T193000
 SUMMARY:Rossella Fabbrichesi: ermeneutica del soggetto atteggiato scientifi

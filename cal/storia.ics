@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-la-ragione-di-orlando-come-il-medioevo-imparo-a-@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261124T103000
 DTEND;TZID=Europe/Rome:20261124T123000
 SUMMARY:La ragione di Orlando. Come il Medioevo imparò a dare conto delle 
@@ -41,7 +41,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-una-risata-seppellira-la-violenza-euripide-e-ari@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261124T123000
 DTEND;TZID=Europe/Rome:20261124T143000
 SUMMARY:Una risata seppellirà la violenza? Euripide e Aristofane
@@ -53,7 +53,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-dante-e-vivo@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261125T163000
 DTEND;TZID=Europe/Rome:20261125T183000
 SUMMARY:Dante è vivo
@@ -66,7 +66,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-furiose-silvia-romani-e-federica-fracassi-sull-i@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261125T180000
 DTEND;TZID=Europe/Rome:20261125T200000
 SUMMARY:Furiose: Silvia Romani e Federica Fracassi sull'ira delle donne nel
@@ -81,7 +81,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-jan-brokken-la-malinconia-del-viaggiatore@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261125T180000
 DTEND;TZID=Europe/Rome:20261125T200000
 SUMMARY:Jan Brokken\, La malinconia del viaggiatore
@@ -95,7 +95,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-100-copertine-di-futuro@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261126T110000
 DTEND;TZID=Europe/Rome:20261126T130000
 SUMMARY:100 copertine di futuro
@@ -108,7 +108,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-anti-illuminismo-nella-storia-e-oggi@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261126T180000
 DTEND;TZID=Europe/Rome:20261126T200000
 SUMMARY:Anti-illuminismo: nella storia e oggi
@@ -120,7 +120,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-hello-stranger-mostra-di-poesia@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261126T183000
 DTEND;TZID=Europe/Rome:20261126T203000
 SUMMARY:Hello stranger\, mostra di poesia
@@ -135,7 +135,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-cristina-dell-acqua-il-dono-del-mito@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261127T170000
 DTEND;TZID=Europe/Rome:20261127T190000
 SUMMARY:Cristina Dell'Acqua: Il dono del mito
@@ -147,8 +147,41 @@ URL:https://www.fondazionecorriere.corriere.it/iniziative/il-dono-del-mito/
 CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-celestina-ausenda-una-vita-contro-il-fascismo@acculturiamoci
+ .it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T170000
+DTEND;TZID=Europe/Rome:20261127T190000
+SUMMARY:Celestina Ausenda: una vita contro il fascismo
+LOCATION:Circolo de Amicis (Via Edmondo De Amicis\, 17)
+DESCRIPTION:Con Aulo Chiesa\, Fiorella Imprenti\, Ferruccio Parri e Giorgio
+  Sacchetti. BookCity · Donne\, La Seconda guerra mondiale. BookCity: ingr
+ esso libero fino a esaurimento posti\, per alcuni incontri serve prenotare
+  su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/celestina
+ -ausenda-una-vita-contro-il-fascismo
+URL:https://www.bookcitymilano.it/eventi/2026/celestina-ausenda-una-vita-co
+ ntro-il-fascismo
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-the-jenson-roman-or-the-most-influential-type-in@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T170000
+DTEND;TZID=Europe/Rome:20261127T190000
+SUMMARY:The Jenson roman\, or the most influential type in the history of p
+ rinting
+LOCATION:Castello Sforzesco - Weil Weiss (Castello Sforzesco)
+DESCRIPTION:Con Riccardo Olocco. BookCity · Editoria\, Scrittura e Mestier
+ i del libro\, Storia. BookCity: ingresso libero fino a esaurimento posti\,
+  per alcuni incontri serve prenotare su bookcitymilano.it. https://www.boo
+ kcitymilano.it/eventi/2026/the-jenson-roman-lazy-dog
+URL:https://www.bookcitymilano.it/eventi/2026/the-jenson-roman-lazy-dog
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-francesco-vezzoli-victoria-mater@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261127T180000
 DTEND;TZID=Europe/Rome:20261127T200000
 SUMMARY:Francesco Vezzoli\, Victoria Mater
@@ -160,8 +193,71 @@ URL:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntam
 CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-il-sentimento-del-popolo-coreano-che-ha-sublimat@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T180000
+DTEND;TZID=Europe/Rome:20261127T200000
+SUMMARY:Il sentimento del popolo coreano che ha sublimato in letteratura le
+  sofferenze vissute nel XX secolo
+LOCATION:Casa delle Associazioni e del Volontariato: Marsala – Municipio 
+ 1 (Via Marsala 8)
+DESCRIPTION:Con Min Sang Cho e Sara Fontana. BookCity · BCM Sociale\, Case
+  delle Associazioni e del Volontariato\, Identità e Culture. BookCity: in
+ gresso libero fino a esaurimento posti\, per alcuni incontri serve prenota
+ re su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/il-sent
+ imento-del-popolo-coreano-che-ha-sublimato-in-letteratura-le-sofferenze-vi
+ ssute-nel-xx-secolo
+URL:https://www.bookcitymilano.it/eventi/2026/il-sentimento-del-popolo-core
+ ano-che-ha-sublimato-in-letteratura-le-sofferenze-vissute-nel-xx-secolo
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-la-sventurata@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T180000
+DTEND;TZID=Europe/Rome:20261127T200000
+SUMMARY:La sventurata
+LOCATION:Palazzo Moriggia – Museo del Risorgimento - Sala delle Battaglie
+  (Via Borgonuovo\, 23)
+DESCRIPTION:Con Edgarda Ferri. Letture di Anna Nogara. BookCity · Romanzo 
+ storico. BookCity: ingresso libero fino a esaurimento posti\, per alcuni i
+ ncontri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.i
+ t/eventi/2026/la-sventurata
+URL:https://www.bookcitymilano.it/eventi/2026/la-sventurata
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-la-passione-della-storia@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T183000
+DTEND;TZID=Europe/Rome:20261127T203000
+SUMMARY:La passione della storia
+LOCATION:Libreria La Balena (Via Cesare Correnti 24)
+DESCRIPTION:Con Livio Gambarini. BookCity · Narrativa\, Storia. BookCity: 
+ ingresso libero fino a esaurimento posti\, per alcuni incontri serve preno
+ tare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/la-pa
+ ssione-della-storia
+URL:https://www.bookcitymilano.it/eventi/2026/la-passione-della-storia
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-pinocchio-ieri-e-oggi@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261127T190000
+DTEND;TZID=Europe/Rome:20261127T210000
+SUMMARY:Pinocchio ieri e oggi
+LOCATION:MAS - Museo d'Arte e Scienza (Via Quintino Sella\, 4)
+DESCRIPTION:Con Samuele Galbiati e Alessandra Marchese. BookCity · Anniver
+ sari\, Classici\, Collodi 200. BookCity: ingresso libero fino a esauriment
+ o posti\, per alcuni incontri serve prenotare su bookcitymilano.it. https:
+ //www.bookcitymilano.it/eventi/2026/pinocchio-ieri-e-oggi
+URL:https://www.bookcitymilano.it/eventi/2026/pinocchio-ieri-e-oggi
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-aldo-cazzullo-il-nostro-rinascimento@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261128T110000
 DTEND;TZID=Europe/Rome:20261128T130000
 SUMMARY:Aldo Cazzullo\, Il nostro rinascimento
@@ -177,7 +273,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-bruno-vespa-e-paolo-mieli-storia-della-seconda-r@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261128T110000
 DTEND;TZID=Europe/Rome:20261128T130000
 SUMMARY:Bruno Vespa e Paolo Mieli: Storia della Seconda Repubblica
@@ -192,7 +288,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-laura-pepe-storia-non-convenzionale-delle-donne-@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261128T113000
 DTEND;TZID=Europe/Rome:20261128T133000
 SUMMARY:Laura Pepe\, Storia non convenzionale delle donne di Grecia
@@ -205,9 +301,155 @@ URL:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntam
 CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-uomini-di-pace-in-un-tempo-di-guerra@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T113000
+DTEND;TZID=Europe/Rome:20261128T133000
+SUMMARY:Uomini di pace in un tempo di guerra
+LOCATION:Policlinico di Milano - Cripta (Via Francesco Sforza 32. Ingresso 
+ dal museo I tesori della Ca' Granda)
+DESCRIPTION:Con Luca Crovi e Vittorio Macioce. BookCity · Narrativa\, Roma
+ nzo storico. BookCity: ingresso libero fino a esaurimento posti\, per alcu
+ ni incontri serve prenotare su bookcitymilano.it. https://www.bookcitymila
+ no.it/eventi/2026/uomini-di-pace-in-tempo-di-guerra
+URL:https://www.bookcitymilano.it/eventi/2026/uomini-di-pace-in-tempo-di-gu
+ erra
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-un-certo-ramondes-di-alberto-vigevani@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T113000
+DTEND;TZID=Europe/Rome:20261128T133000
+SUMMARY:Un certo Ramondès di Alberto Vigevani
+LOCATION:Ambrosius - Oratorio della Passione (Piazza Sant'Ambrogio\, 23)
+DESCRIPTION:Con Andrea Kerbaker\, Edgardo Franzosini e Alessandro Zaccuri. 
+ Modera Sara Calderoni. BookCity · Anniversari\, Narrativa. BookCity: ingr
+ esso libero fino a esaurimento posti\, per alcuni incontri serve prenotare
+  su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/un-certo-
+ ramondes-di-alberto-vigevani
+URL:https://www.bookcitymilano.it/eventi/2026/un-certo-ramondes-di-alberto-
+ vigevani
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-ed-e-un-poco-la-notte-e-un-poco-lalba-la-tragedi@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T113000
+DTEND;TZID=Europe/Rome:20261128T133000
+SUMMARY:Ed è un poco la notte e un poco l’alba. La tragedia storica e la
+  forza femminile
+LOCATION:Veneranda Biblioteca Ambrosiana - Sala delle Accademie (Piazza Pio
+  XI\, 2)
+DESCRIPTION:Con Ilaria Tuti e Camilla Ronzullo. BookCity · La Seconda guer
+ ra mondiale\, Romanzo storico. BookCity: ingresso libero fino a esauriment
+ o posti\, per alcuni incontri serve prenotare su bookcitymilano.it. https:
+ //www.bookcitymilano.it/eventi/2026/ed-e-un-poco-la-notte-e-un-poco-lalba
+URL:https://www.bookcitymilano.it/eventi/2026/ed-e-un-poco-la-notte-e-un-po
+ co-lalba
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-lelmo-di-scipio@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T113000
+DTEND;TZID=Europe/Rome:20261128T133000
+SUMMARY:L’elmo di Scipio
+LOCATION:Palazzo Moriggia – Museo del Risorgimento - Sala delle Battaglie
+  (Via Borgonuovo\, 23)
+DESCRIPTION:Con Stefano Jacini e Pier Luigi Vercesi. BookCity · Romanzo st
+ orico. BookCity: ingresso libero fino a esaurimento posti\, per alcuni inc
+ ontri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/
+ eventi/2026/lelmo-di-scipio
+URL:https://www.bookcitymilano.it/eventi/2026/lelmo-di-scipio
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-30-anni-della-gabbianella-di-sepulveda@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T113000
+DTEND;TZID=Europe/Rome:20261128T133000
+SUMMARY:30 anni della Gabbianella di Sepulveda
+LOCATION:Castello Sforzesco - Weil Weiss (Castello Sforzesco)
+DESCRIPTION:Con Carmen Yáñez Sepulveda\, Luigi Brioschi\, Ilide Carmignan
+ i\, Enzo d'Alò e Mariagrazia Mazzitelli. BookCity · Anniversari\, Classi
+ ci. BookCity: ingresso libero fino a esaurimento posti\, per alcuni incont
+ ri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eve
+ nti/2026/30-anni-de-la-gabbianella-e-il-gatto
+URL:https://www.bookcitymilano.it/eventi/2026/30-anni-de-la-gabbianella-e-i
+ l-gatto
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-scritti-dalla-citta-mondo-globetrotter-nel-tardo@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T113000
+DTEND;TZID=Europe/Rome:20261128T133000
+SUMMARY:Scritti dalla Città Mondo - Globetrotter nel tardo Ottocento: coll
+ ezionare il mondo
+LOCATION:MUDEC - Museo delle Culture - Spazio delle Culture “Khaled al-As
+ aad” (via Tortona 56)
+DESCRIPTION:Con Alessandro Botteri Balli\, Rossella Menegazzo e Alexandra W
+ etzel. BookCity · Identità e Culture\, Storia\, Viaggi e Tempo Libero. B
+ ookCity: ingresso libero fino a esaurimento posti\, per alcuni incontri se
+ rve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2
+ 026/scritti-dalla-citta-mondo-globetrotter-nel-tardo-ottocento-collezionar
+ e-il-mondo
+URL:https://www.bookcitymilano.it/eventi/2026/scritti-dalla-citta-mondo-glo
+ betrotter-nel-tardo-ottocento-collezionare-il-mondo
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-benito-perdera-la-testa@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T120000
+DTEND;TZID=Europe/Rome:20261128T140000
+SUMMARY:Benito perderà la testa
+LOCATION:Libreria Rizzoli Milano (Galleria Vittorio Emanuele II\, 11/12)
+DESCRIPTION:Con Rachele Ferrario e Roberta Scorranese. BookCity · Storia. 
+ BookCity: ingresso libero fino a esaurimento posti\, per alcuni incontri s
+ erve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/
+ 2026/benito-testa
+URL:https://www.bookcitymilano.it/eventi/2026/benito-testa
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-macondo-la-storia-di-un-luogo-magico@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T123000
+DTEND;TZID=Europe/Rome:20261128T143000
+SUMMARY:Macondo - La storia di un luogo magico
+LOCATION:Anteo Palazzo del Cinema - Abanella (Piazza Venticinque Aprile\, 8
+ \, 20121 MI)
+DESCRIPTION:Con Sergio Scalpelli\, Andrea Capriolo e Luca Pollini. BookCity
+  · Milano racconta Milano\, Storia. BookCity: ingresso libero fino a esau
+ rimento posti\, per alcuni incontri serve prenotare su bookcitymilano.it. 
+ https://www.bookcitymilano.it/eventi/2026/la-storia-di-un-luogo-magico
+URL:https://www.bookcitymilano.it/eventi/2026/la-storia-di-un-luogo-magico
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-il-castello-sforzesco-100-capolavori-tra-passato@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T123000
+DTEND;TZID=Europe/Rome:20261128T143000
+SUMMARY:Il Castello Sforzesco: 100 capolavori tra passato e presente
+LOCATION:Castello Sforzesco - Biblioteca d'Arte (piazza Castello 1)
+DESCRIPTION:Con Francesca Tasso e Laura Aldovini. BookCity · Arte\, Fotogr
+ afia\, Moda\, Storia. BookCity: ingresso libero fino a esaurimento posti\,
+  per alcuni incontri serve prenotare su bookcitymilano.it. https://www.boo
+ kcitymilano.it/eventi/2026/il-castello-sforzesco-100-capolavori
+URL:https://www.bookcitymilano.it/eventi/2026/il-castello-sforzesco-100-cap
+ olavori
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-dario-biagi-vita-di-cagnaccio-di-san-pietro@acculturiamoci.i
  t
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261128T150000
 DTEND;TZID=Europe/Rome:20261128T170000
 SUMMARY:Dario Biagi\, vita di Cagnaccio di San Pietro
@@ -219,9 +461,69 @@ URL:https://www.fondazioneluigirovati.org/it/appuntamenti-e-mostre/appuntam
 CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-lo-sguardo-di-napoleone@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T150000
+DTEND;TZID=Europe/Rome:20261128T170000
+SUMMARY:Lo sguardo di Napoleone
+LOCATION:Palazzo Reale - Sala Conferenze (Piazza Duomo\, 14)
+DESCRIPTION:Con Sibyl Von Der Schulenburg\, Domenico Piraina\, Francesca Bo
+ nazzoli e Simona Floris. BookCity · Noir e Thriller\, Romanzo storico. Bo
+ okCity: ingresso libero fino a esaurimento posti\, per alcuni incontri ser
+ ve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/20
+ 26/lo-sguardo-di-napoleone
+URL:https://www.bookcitymilano.it/eventi/2026/lo-sguardo-di-napoleone
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-la-donna-che-oso-sfidare-bernini-musa-ribelle@acculturiamoci
+ .it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T150000
+DTEND;TZID=Europe/Rome:20261128T170000
+SUMMARY:La donna che osò sfidare Bernini. Musa ribelle
+LOCATION:Castello Sforzesco - Biblioteca d'Arte (piazza Castello 1)
+DESCRIPTION:Con Carla Maria Russo e Francesca Lang. BookCity · Arte\, Foto
+ grafia\, Moda\, Narrativa\, Storia. BookCity: ingresso libero fino a esaur
+ imento posti\, per alcuni incontri serve prenotare su bookcitymilano.it. h
+ ttps://www.bookcitymilano.it/eventi/2026/musa-ribelle
+URL:https://www.bookcitymilano.it/eventi/2026/musa-ribelle
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-san-siro-in-100-date-piu-una-da-ricordare@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T150000
+DTEND;TZID=Europe/Rome:20261128T170000
+SUMMARY:San Siro in 100 date (più una) da ricordare
+LOCATION:Museo Martinitt e Stelline (Corso Magenta\, 57)
+DESCRIPTION:Con Claudio Colombo e Fabio Monti. BookCity · Anniversari\, Mi
+ lano racconta Milano\, Sport. BookCity: ingresso libero fino a esaurimento
+  posti\, per alcuni incontri serve prenotare su bookcitymilano.it. https:/
+ /www.bookcitymilano.it/eventi/2026/san-siro-in-100-date-piu-una-da-ricorda
+ re
+URL:https://www.bookcitymilano.it/eventi/2026/san-siro-in-100-date-piu-una-
+ da-ricordare
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-e-colpa-mia@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T150000
+DTEND;TZID=Europe/Rome:20261128T170000
+SUMMARY:È colpa mia
+LOCATION:Casa della Memoria (Via Confalonieri\, 14)
+DESCRIPTION:Con Pierfrancesco De Robertis e Alessandro Trocino. BookCity ·
+  La Seconda guerra mondiale\, Storia. BookCity: ingresso libero fino a esa
+ urimento posti\, per alcuni incontri serve prenotare su bookcitymilano.it.
+  https://www.bookcitymilano.it/eventi/2026/colpa-mia
+URL:https://www.bookcitymilano.it/eventi/2026/colpa-mia
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-ecuba-e-le-altre-spiriti-indomiti-contro-la-guer@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261128T153000
 DTEND;TZID=Europe/Rome:20261128T173000
 SUMMARY:Ecuba e le altre: spiriti indomiti contro la guerra
@@ -234,8 +536,74 @@ URL:https://teatrofrancoparenti.it/spettacolo/bookcity-milano-al-parenti-fp
 CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-lettere-a-panisca@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T160000
+DTEND;TZID=Europe/Rome:20261128T180000
+SUMMARY:Lettere a Panisca
+LOCATION:Circolo Filologico Milanese - Sala delle Colonne (via Clerici 10)
+DESCRIPTION:Con Raffaella Canovi e Luciano Tellaroli. BookCity · Editoria\
+ , Scrittura e Mestieri del libro\, Storia. BookCity: ingresso libero fino 
+ a esaurimento posti\, per alcuni incontri serve prenotare su bookcitymilan
+ o.it. https://www.bookcitymilano.it/eventi/2026/lettere-a-panisca
+URL:https://www.bookcitymilano.it/eventi/2026/lettere-a-panisca
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-massoneria-storia-e-memoria-uomini-e-vicende-del@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T160000
+DTEND;TZID=Europe/Rome:20261128T180000
+SUMMARY:Massoneria\, storia e memoria. Uomini e vicende dell'Italia contemp
+ oranea
+LOCATION:Centro Sociologico Italiano (Via del Progresso 3)
+DESCRIPTION:Con Fulvio Conti e Maurizio Cattaneo. BookCity · La Seconda gu
+ erra mondiale\, Storia. BookCity: ingresso libero fino a esaurimento posti
+ \, per alcuni incontri serve prenotare su bookcitymilano.it. https://www.b
+ ookcitymilano.it/eventi/2026/massoneriastoria-e-memoria-uomini-e-vicende-d
+ ellitalia-contemporanea
+URL:https://www.bookcitymilano.it/eventi/2026/massoneriastoria-e-memoria-uo
+ mini-e-vicende-dellitalia-contemporanea
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-roma-1945-tra-cospirazioni-amori-perduti-e-i-fan@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T163000
+DTEND;TZID=Europe/Rome:20261128T183000
+SUMMARY:Roma 1945 tra cospirazioni\, amori perduti e i fantasmi della Stori
+ a
+LOCATION:Palazzo Moriggia – Museo del Risorgimento - Sala delle Battaglie
+  (Via Borgonuovo\, 23)
+DESCRIPTION:Con Alberto Garlini e Alessandro Zaccuri. BookCity · Noir e Th
+ riller\, Romanzo storico. BookCity: ingresso libero fino a esaurimento pos
+ ti\, per alcuni incontri serve prenotare su bookcitymilano.it. https://www
+ .bookcitymilano.it/eventi/2026/credere-tradire-combattere
+URL:https://www.bookcitymilano.it/eventi/2026/credere-tradire-combattere
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-il-senno-contro-la-guerra-prima-parte-follie-e-g@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T170000
+DTEND;TZID=Europe/Rome:20261128T190000
+SUMMARY:Il senno contro la guerra. Prima parte: follie e guerre mondiali
+LOCATION:BIBLIOTHE & CO (Via Giuseppe Dezza 50)
+DESCRIPTION:Con Roberto Alessandrini\, Silvia Carraro e Roberto Piumini. Bo
+ okCity · La Seconda guerra mondiale\, Narrativa\, Storia. BookCity: ingre
+ sso libero fino a esaurimento posti\, per alcuni incontri serve prenotare 
+ su bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/il-senno-c
+ ontro-la-guerra-prima-parte-follie-e-guerre-mondiali
+URL:https://www.bookcitymilano.it/eventi/2026/il-senno-contro-la-guerra-pri
+ ma-parte-follie-e-guerre-mondiali
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-sidival-fila-memoriae-cartoni-raphaelis@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Sidival Fila. Memoriae Cartoni Raphaelis
@@ -252,8 +620,56 @@ URL:https://www.ambrosiana.it/events/bookcity-2026-allambrosiana/
 CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-luigi-tenco-il-ragazzo-e-la-leggenda-la-biografi@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:Luigi Tenco il ragazzo e la leggenda. La biografia ufficiale
+LOCATION:Centro Internazionale di Brera (Via Marco Formentini\, 10)
+DESCRIPTION:Con Michele Piacentini. BookCity · Anniversari\, Arte\, Fotogr
+ afia\, Moda\, Musica e Spettacolo. BookCity: ingresso libero fino a esauri
+ mento posti\, per alcuni incontri serve prenotare su bookcitymilano.it. ht
+ tps://www.bookcitymilano.it/eventi/2026/luigi-tenco-il-racconto-di-una-vit
+ a
+URL:https://www.bookcitymilano.it/eventi/2026/luigi-tenco-il-racconto-di-un
+ a-vita
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-luci-a-san-siro@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:Luci a San Siro
+LOCATION:Biblioteca dello sport Gianni Mura (Via Federico Confalonieri\, 3)
+DESCRIPTION:Con Luigi Garlando e Gino Cervi. BookCity · Anniversari\, Bibl
+ ioteche\, Milano racconta Milano. BookCity: ingresso libero fino a esaurim
+ ento posti\, per alcuni incontri serve prenotare su bookcitymilano.it. htt
+ ps://www.bookcitymilano.it/eventi/2026/luci-a-san-siro
+URL:https://www.bookcitymilano.it/eventi/2026/luci-a-san-siro
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-il-potere-della-bellezza-nel-tempo-e-nelle-citta@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261128T180000
+DTEND;TZID=Europe/Rome:20261128T200000
+SUMMARY:Il potere della bellezza nel tempo e nelle città italiane
+LOCATION:WAO Kitchen (Via Ugo Bassi 8)
+DESCRIPTION:Con Roberto Caselli e Luisa Riva. BookCity · Arte\, Fotografia
+ \, Moda\, Storia. BookCity: ingresso libero fino a esaurimento posti\, per
+  alcuni incontri serve prenotare su bookcitymilano.it. https://www.bookcit
+ ymilano.it/eventi/2026/il-potere-della-bellezza-nel-tempo-e-nelle-citta-it
+ aliane
+URL:https://www.bookcitymilano.it/eventi/2026/il-potere-della-bellezza-nel-
+ tempo-e-nelle-citta-italiane
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-100-anni-di-allen-ginsberg@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:100 anni di Allen Ginsberg
@@ -268,7 +684,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-oriana-fallaci-una-donna@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261129T110000
 DTEND;TZID=Europe/Rome:20261129T130000
 SUMMARY:Oriana Fallaci. Una donna
@@ -280,9 +696,185 @@ URL:https://www.fondazionecorriere.corriere.it/iniziative/oriana-fallaci-4/
 CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-virginia-de-leyva-la-monaca-di-monza@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T110000
+DTEND;TZID=Europe/Rome:20261129T130000
+SUMMARY:Virginia de Leyva. La monaca di Monza
+LOCATION:Castello Sforzesco - Biblioteca d'Arte (piazza Castello 1)
+DESCRIPTION:Con Lisa Roscioni e Giuseppe Lupo. BookCity · Donne\, Romanzo 
+ storico. BookCity: ingresso libero fino a esaurimento posti\, per alcuni i
+ ncontri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.i
+ t/eventi/2026/virginia-de-leyva-la-monaca-di-monza
+URL:https://www.bookcitymilano.it/eventi/2026/virginia-de-leyva-la-monaca-d
+ i-monza
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-il-tempo-e-la-memoria-sarajevo-1914@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T110000
+DTEND;TZID=Europe/Rome:20261129T130000
+SUMMARY:Il tempo e la memoria: Sarajevo 1914
+LOCATION:Casa della Memoria (Via Confalonieri\, 14)
+DESCRIPTION:Con Maria Rita Leto\, Nicole Janigro e Alice Parmeggiani. BookC
+ ity · Narrativa\, Storia. BookCity: ingresso libero fino a esaurimento po
+ sti\, per alcuni incontri serve prenotare su bookcitymilano.it. https://ww
+ w.bookcitymilano.it/eventi/2026/il-tempo-e-la-memoria
+URL:https://www.bookcitymilano.it/eventi/2026/il-tempo-e-la-memoria
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-sorelle-della-luna@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T123000
+DTEND;TZID=Europe/Rome:20261129T143000
+SUMMARY:Sorelle della luna
+LOCATION:Castello Sforzesco - Biblioteca d'Arte (piazza Castello 1)
+DESCRIPTION:Con Alberta Basaglia\, Giulietta Raccanelli\, Tullia Sbarrato e
+  Massimo Cirri. BookCity · Donne\, Romanzo storico. BookCity: ingresso li
+ bero fino a esaurimento posti\, per alcuni incontri serve prenotare su boo
+ kcitymilano.it. https://www.bookcitymilano.it/eventi/2026/sorelle-della-lu
+ na
+URL:https://www.bookcitymilano.it/eventi/2026/sorelle-della-luna
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-la-mia-gp@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T150000
+DTEND;TZID=Europe/Rome:20261129T170000
+SUMMARY:La mia GP
+LOCATION:Museo Nazionale Scienza e Tecnologia Leonardo da Vinci - Sala Bian
+ camano (Via Olona\, 6/b)
+DESCRIPTION:Con Elena Bagnasco\, Marco Doria\, Marco Iezzi e Stefano Terman
+ ini. BookCity · Passeggiate letterarie e visite guidate\, Sport\, Storia.
+  BookCity: ingresso libero fino a esaurimento posti\, per alcuni incontri 
+ serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi
+ /2026/la-mia-gp-storia-e-racconti-a-quattro-tempi
+URL:https://www.bookcitymilano.it/eventi/2026/la-mia-gp-storia-e-racconti-a
+ -quattro-tempi
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-lo-spirito-dei-luoghi-genius-loci-viaggio-nel-vo@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T150000
+DTEND;TZID=Europe/Rome:20261129T170000
+SUMMARY:Lo spirito dei luoghi. Genius loci. Viaggio nel volto e nell’anim
+ a della natura
+LOCATION:Palazzo Reale - Sala Conferenze (Piazza Duomo\, 14)
+DESCRIPTION:Con Flavio Caroli e Roberta Scorranese. BookCity · Arte\, Foto
+ grafia\, Moda\, Storia. BookCity: ingresso libero fino a esaurimento posti
+ \, per alcuni incontri serve prenotare su bookcitymilano.it. https://www.b
+ ookcitymilano.it/eventi/2026/lo-spirito-dei-luoghi
+URL:https://www.bookcitymilano.it/eventi/2026/lo-spirito-dei-luoghi
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-piazzale-loreto-passato-presente-e-futuro@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T160000
+DTEND;TZID=Europe/Rome:20261129T180000
+SUMMARY:Piazzale Loreto: passato\, presente e futuro
+LOCATION:Casa delle Associazioni e del Volontariato: Villa Scheibler – Mu
+ nicipio 8 (Via Felice Orsini n.21)
+DESCRIPTION:Con Massimo Castoldi. BookCity · BCM Sociale\, Case delle Asso
+ ciazioni e del Volontariato\, La Seconda guerra mondiale. BookCity: ingres
+ so libero fino a esaurimento posti\, per alcuni incontri serve prenotare s
+ u bookcitymilano.it. https://www.bookcitymilano.it/eventi/2026/piazzale-lo
+ reto-passato-presente-e-futuro
+URL:https://www.bookcitymilano.it/eventi/2026/piazzale-loreto-passato-prese
+ nte-e-futuro
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-una-citta-nel-medioevo-sotto-assedio-milano-e-il@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T163000
+DTEND;TZID=Europe/Rome:20261129T183000
+SUMMARY:Una città nel Medioevo sotto assedio: Milano e il Barbarossa
+LOCATION:Castello Sforzesco - Biblioteca d'Arte (piazza Castello 1)
+DESCRIPTION:Con Paolo Grillo\, Roberto Roveda e Lidia Zanetti Domingues. Bo
+ okCity · Milano racconta Milano\, Storia. BookCity: ingresso libero fino 
+ a esaurimento posti\, per alcuni incontri serve prenotare su bookcitymilan
+ o.it. https://www.bookcitymilano.it/eventi/2026/citt%C3%A0-medioevo-assedi
+ o-milano-e-barbarossa
+URL:https://www.bookcitymilano.it/eventi/2026/citt%C3%A0-medioevo-assedio-m
+ ilano-e-barbarossa
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-lo-specchio-di-borges-la-storia-di-un-libro-e-de@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T163000
+DTEND;TZID=Europe/Rome:20261129T183000
+SUMMARY:Lo specchio di Borges. La storia di un libro e della biblioteca ill
+ imitata
+LOCATION:Circolo Filologico Milanese - Sala Liberty (via Clerici 10)
+DESCRIPTION:Con Massimiliano Finazzer Flory e M° Sergio Scappini. BookCity
+  · Anniversari\, Classici. BookCity: ingresso libero fino a esaurimento p
+ osti\, per alcuni incontri serve prenotare su bookcitymilano.it. https://w
+ ww.bookcitymilano.it/eventi/2026/lo-specchio-di-borges-la-storia-di-un-lib
+ ro-e-della-biblioteca-illimitata
+URL:https://www.bookcitymilano.it/eventi/2026/lo-specchio-di-borges-la-stor
+ ia-di-un-libro-e-della-biblioteca-illimitata
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-le-attitudini-il-romanticismo-tedesco-alla-corte@acculturiam
+ oci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T180000
+DTEND;TZID=Europe/Rome:20261129T200000
+SUMMARY:Le attitudini: il romanticismo tedesco alla corte di Lady Hamilton
+LOCATION:Castello Sforzesco - Biblioteca d'Arte (piazza Castello 1)
+DESCRIPTION:Con Alberto Rollo e Alessandro Beretta. BookCity · Romanzo sto
+ rico. BookCity: ingresso libero fino a esaurimento posti\, per alcuni inco
+ ntri serve prenotare su bookcitymilano.it. https://www.bookcitymilano.it/e
+ venti/2026/le-attitudini
+URL:https://www.bookcitymilano.it/eventi/2026/le-attitudini
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-scritti-dalla-citta-mondo-la-luna-dei-visionari@acculturiamo
+ ci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T190000
+DTEND;TZID=Europe/Rome:20261129T210000
+SUMMARY:Scritti dalla Città Mondo - La luna dei visionari
+LOCATION:MUDEC - Museo delle Culture - Spazio delle Culture “Khaled al-As
+ aad” (via Tortona 56)
+DESCRIPTION:Con Milton Fernández e Angel Galzerano. A cura dell'Associazio
+ ne MilanoFestivaLetteratura. BookCity · Identità e Culture\, Storia. Boo
+ kCity: ingresso libero fino a esaurimento posti\, per alcuni incontri serv
+ e prenotare su bookcitymilano.it. https://www.bookcitymilano.it/eventi/202
+ 6/scritti-dalla-citta-mondo-la-luna-dei-visionari
+URL:https://www.bookcitymilano.it/eventi/2026/scritti-dalla-citta-mondo-la-
+ luna-dei-visionari
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-l-alcova-delle-spie@acculturiamoci.it
+DTSTAMP:20261127T093809Z
+DTSTART;TZID=Europe/Rome:20261129T200000
+DTEND;TZID=Europe/Rome:20261129T220000
+SUMMARY:L'alcova delle spie
+LOCATION:MaMu - Magazzino Musica (via Soave 3)
+DESCRIPTION:Con Giorgio Ferrari e Luca Perreca. BookCity · Narrativa\, Rom
+ anzo storico. BookCity: ingresso libero fino a esaurimento posti\, per alc
+ uni incontri serve prenotare su bookcitymilano.it. https://www.bookcitymil
+ ano.it/eventi/2026/alcova-delle-spie
+URL:https://www.bookcitymilano.it/eventi/2026/alcova-delle-spie
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-30-lettera-1-giulia-colussi-ed-elena-re-una-casa-ve@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261130T190000
 DTEND;TZID=Europe/Rome:20261130T210000
 SUMMARY:Lettera#1: Giulia Colussi ed Elena Re\, una casa veneziana diventat
@@ -298,7 +890,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-il-grande-gioco-dell-ai@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261130T203000
 DTEND;TZID=Europe/Rome:20261130T223000
 SUMMARY:Il grande gioco dell'AI
@@ -314,7 +906,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-la-bibbia-che-non-ti-aspetti-con-giorgio-marches@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261201T203000
 DTEND;TZID=Europe/Rome:20261201T223000
 SUMMARY:La Bibbia che non ti aspetti\, con Giorgio Marchesi
@@ -328,7 +920,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-la-storia-a-processo-oriana-fallaci@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261201T203000
 DTEND;TZID=Europe/Rome:20261201T223000
 SUMMARY:La Storia a Processo: Oriana Fallaci
@@ -343,7 +935,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-social-graces-etichetta-e-buone-maniere-britanni@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261202T173000
 DTEND;TZID=Europe/Rome:20261202T193000
 SUMMARY:Social Graces: etichetta e buone maniere britanniche
@@ -357,7 +949,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-i-giorni-dell-ostinazione-edoardo-fontana-e-l-os@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:I giorni dell'ostinazione: Edoardo Fontana e l'ostinazione della xi
@@ -373,7 +965,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-aria-di-liberta-settembre-43-aprile-45@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261209T203000
 DTEND;TZID=Europe/Rome:20261209T223000
 SUMMARY:Aria di libertà (Settembre '43 / Aprile '45)
@@ -386,7 +978,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-aria-di-liberta-settembre-43-aprile-45@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261210T200000
 DTEND;TZID=Europe/Rome:20261210T220000
 SUMMARY:Aria di libertà (Settembre '43 / Aprile '45)
@@ -399,7 +991,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-aria-di-liberta-settembre-43-aprile-45@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261211T200000
 DTEND;TZID=Europe/Rome:20261211T220000
 SUMMARY:Aria di libertà (Settembre '43 / Aprile '45)
@@ -412,7 +1004,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-aria-di-liberta-settembre-43-aprile-45@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261212T200000
 DTEND;TZID=Europe/Rome:20261212T220000
 SUMMARY:Aria di libertà (Settembre '43 / Aprile '45)
@@ -426,7 +1018,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-la-traversata-la-fondazione-feltrinelli-apre-le-@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261213T150000
 DTEND;TZID=Europe/Rome:20261213T170000
 SUMMARY:La Traversata: la Fondazione Feltrinelli apre le porte alla città
@@ -439,7 +1031,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-aria-di-liberta-settembre-43-aprile-45@acculturiamoci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261213T170000
 DTEND;TZID=Europe/Rome:20261213T190000
 SUMMARY:Aria di libertà (Settembre '43 / Aprile '45)
@@ -453,7 +1045,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-il-tempo-dell-appartenenza-lotta-continua-con-li@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261214T183000
 DTEND;TZID=Europe/Rome:20261214T203000
 SUMMARY:Il tempo dell'appartenenza: Lotta Continua con Lidia Ravera\, Marin
@@ -469,7 +1061,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-uno-spritz-con-alfabeto-milanese-con-alberto-sai@acculturiam
  oci.it
-DTSTAMP:20261127T085103Z
+DTSTAMP:20261127T093809Z
 DTSTART;TZID=Europe/Rome:20261215T190000
 DTEND;TZID=Europe/Rome:20261215T210000
 SUMMARY:Uno spritz con: Alfabeto milanese\, con Alberto Saibene ed Emi Liga
