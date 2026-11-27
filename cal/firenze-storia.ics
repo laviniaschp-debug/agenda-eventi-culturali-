@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-27-vent-anni-di-fondazione-palazzo-strozzi@acculturiamoci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Vent'anni di Fondazione Palazzo Strozzi
@@ -40,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-alluvione-di-firenze-60-anni-dopo-foto-e-video-i@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Alluvione di Firenze\, 60 anni dopo: foto e video inediti
@@ -54,7 +54,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-ricordando-ernesto-ragionieri-cento-anni-dopo@acculturiamoci
  .it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261202T173000
 DTEND;TZID=Europe/Rome:20261202T193000
 SUMMARY:Ricordando Ernesto Ragionieri\, cento anni dopo
@@ -70,7 +70,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-ricostruire-il-passato-visita-speciale-alla-most@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261202T180000
 DTEND;TZID=Europe/Rome:20261202T200000
 SUMMARY:Ricostruire il passato: visita speciale alla mostra Broken
@@ -85,7 +85,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-specchio-riflesso-conferenza-spettacolo-di-luca-@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261203T190000
 DTEND;TZID=Europe/Rome:20261203T210000
 SUMMARY:Specchio riflesso: conferenza-spettacolo di Luca Scarlini
@@ -102,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-ricostruire-il-passato-visita-speciale-alla-most@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261216T180000
 DTEND;TZID=Europe/Rome:20261216T200000
 SUMMARY:Ricostruire il passato: visita speciale alla mostra Broken
@@ -115,7 +115,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-i-tempieri-di-firenze-i-templari-in-citta@acculturiamoci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261217T170000
 DTEND;TZID=Europe/Rome:20261217T190000
 SUMMARY:I Tempieri di Firenze: i Templari in città

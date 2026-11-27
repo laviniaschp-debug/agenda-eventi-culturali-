@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-27-ersilia-vaudo-una-storia-cosmica-di-luce-e-oscur@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261127T183000
 DTEND;TZID=Europe/Rome:20261127T203000
 SUMMARY:Ersilia Vaudo: una storia cosmica di luce e oscurità
@@ -40,7 +40,7 @@ CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-donatella-di-pietrantonio-lasciarsi-tardi@acculturiamoci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261201T210000
 DTEND;TZID=Europe/Rome:20261201T230000
 SUMMARY:Donatella Di Pietrantonio: Lasciarsi tardi
@@ -55,7 +55,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-festival-del-classico-luciano-canfora-nel-labora@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261209T170000
 DTEND;TZID=Europe/Rome:20261209T190000
 SUMMARY:Festival del Classico: Luciano Canfora\, Nel laboratorio di Aristot
@@ -71,7 +71,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-festival-del-classico-alberto-angela-apre-polite@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261209T210000
 DTEND;TZID=Europe/Rome:20261209T230000
 SUMMARY:Festival del Classico: Alberto Angela apre Politeia/Convivenze
@@ -88,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-osn-rai-michele-mariotti-dirige-schubert-e-strau@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261210T203000
 DTEND;TZID=Europe/Rome:20261210T223000
 SUMMARY:OSN Rai: Michele Mariotti dirige Schubert e Strauss
@@ -104,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-festival-del-classico-ivano-dionigi-e-luca-merca@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261212T180000
 DTEND;TZID=Europe/Rome:20261212T200000
 SUMMARY:Festival del Classico: Ivano Dionigi e Luca Mercalli\, Il nostro po
@@ -121,7 +121,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-festival-del-classico-telmo-pievani-tra-cooperaz@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261212T210000
 DTEND;TZID=Europe/Rome:20261212T230000
 SUMMARY:Festival del Classico: Telmo Pievani\, tra cooperazione e conflitto
@@ -134,7 +134,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-festival-del-classico-cio-che-ci-tiene-insieme-c@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261213T150000
 DTEND;TZID=Europe/Rome:20261213T170000
 SUMMARY:Festival del Classico: Ciò che ci tiene insieme\, con Giovanna Bot
@@ -152,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-concerto-di-natale-fabio-luisi-dirige-la-nona-di@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261222T203000
 DTEND;TZID=Europe/Rome:20261222T223000
 SUMMARY:Concerto di Natale: Fabio Luisi dirige la Nona di Beethoven

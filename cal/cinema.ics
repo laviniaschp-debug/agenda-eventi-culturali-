@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-presentazione-de-il-morandini-2026@acculturiamoci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261124T190000
 DTEND;TZID=Europe/Rome:20261124T210000
 SUMMARY:Presentazione de Il Morandini 2026
@@ -39,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-qui-non-c-e-nessuna-donna-il-film-su-ingeborg-ba@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261125T213000
 DTEND;TZID=Europe/Rome:20261125T233000
 SUMMARY:Qui non c'è nessuna donna: il film su Ingeborg Bachmann
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-150-anni-corriere-della-sera-il-racconto-dell-it@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:150 anni Corriere della Sera. Il racconto dell'Italia: proiezione
@@ -68,7 +68,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-masterclass-con-laura-citarella@acculturiamoci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261128T100000
 DTEND;TZID=Europe/Rome:20261128T120000
 SUMMARY:Masterclass con Laura Citarella
@@ -80,7 +80,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-e-andata-cosi-lezione-di-cinema@acculturiamoci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261128T103000
 DTEND;TZID=Europe/Rome:20261128T123000
 SUMMARY:È andata così: lezione di cinema
@@ -96,7 +96,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-il-voto-di-anna-2-giugno-1946-proiezione@acculturiamoci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261128T153000
 DTEND;TZID=Europe/Rome:20261128T173000
 SUMMARY:Il voto di Anna. 2 giugno 1946: proiezione
@@ -111,7 +111,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-pupi-avati-il-gotico-padano-e-il-cinema@acculturiamoci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261129T110000
 DTEND;TZID=Europe/Rome:20261129T130000
 SUMMARY:Pupi Avati: il gotico padano e il cinema
@@ -127,7 +127,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-noir-in-festival-josephine-di-beth-de-araujo@acculturiamoci.
  it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261130T183000
 DTEND;TZID=Europe/Rome:20261130T203000
 SUMMARY:Noir in Festival: Josephine di Beth De Araujo
@@ -141,7 +141,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-l-eterna-illusione-da-broadway-a-hollywood@acculturiamoci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261130T193000
 DTEND;TZID=Europe/Rome:20261130T213000
 SUMMARY:L'eterna illusione: da Broadway a Hollywood
@@ -156,7 +156,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-nedo-un-italiano-il-film-di-ruggero-gabbai-su-ne@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261130T203000
 DTEND;TZID=Europe/Rome:20261130T223000
 SUMMARY:Nedo\, un italiano: il film di Ruggero Gabbai su Nedo Fiano
@@ -170,7 +170,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-noir-in-festival-the-blood-countess-di-ulrike-ot@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261130T213000
 DTEND;TZID=Europe/Rome:20261130T233000
 SUMMARY:Noir in Festival: The Blood Countess di Ulrike Ottinger
@@ -186,7 +186,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-noir-in-festival-mi-amor-di-guillaume-nicloux@acculturiamoci
  .it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261201T190000
 DTEND;TZID=Europe/Rome:20261201T210000
 SUMMARY:Noir in Festival: Mi Amor di Guillaume Nicloux
@@ -199,7 +199,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-noir-in-festival-l-ombra-e-dark-vertigo@acculturiamoci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261201T213000
 DTEND;TZID=Europe/Rome:20261201T233000
 SUMMARY:Noir in Festival: L'Ombra e Dark Vertigo
@@ -214,7 +214,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-noir-in-festival-found-alive-di-carlota-pereda@acculturiamoc
  i.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261202T190000
 DTEND;TZID=Europe/Rome:20261202T210000
 SUMMARY:Noir in Festival: Found Alive di Carlota Pereda
@@ -228,7 +228,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-noir-in-festival-furies-di-rami-kodeih@acculturiamoci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261202T213000
 DTEND;TZID=Europe/Rome:20261202T233000
 SUMMARY:Noir in Festival: Furies di Rami Kodeih
@@ -242,7 +242,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-verso-cinema-lynchiano-con-john-higgs-roberto-ma@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Verso Cinema: Lynchiano\, con John Higgs\, Roberto Manassero e Ales

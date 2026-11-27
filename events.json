@@ -3016,6 +3016,33 @@
   },
   {
    "date": "2026-11-28",
+   "time": "11:30",
+   "title": "Vito Mancuso: Il male e il suo mistero",
+   "venue": "Fondazione Feltrinelli, Sala Polifunzionale (viale Pasubio 5)",
+   "cat": "filosofia",
+   "desc": "Il teologo e filosofo presenta il suo nuovo libro (Garzanti): il mistero del male e il cammino possibile verso il bene. BookCity, ingresso gratuito con prenotazione obbligatoria.",
+   "url": "https://www.vitomancuso.it/2026/11/25/prossimi-appuntamenti-con-vito-4/",
+   "free": true,
+   "tags": [
+    "bookcity",
+    "imperdibile"
+   ],
+   "verify": false,
+   "id": "e428",
+   "why": "Una delle voci italiane più capaci di parlare di senso e interiorità: un'ora per pensare al male senza perdere la speranza.",
+   "key": "2026-11-28-vito-mancuso-il-male-e-il-suo-mistero",
+   "moods": [
+    "dentro",
+    "pensare"
+   ],
+   "geo": [
+    45.4825,
+    9.184
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-11-28",
    "time": "12:30",
    "title": "Il realismo terminale: poesia e mondo degli oggetti",
    "venue": "Teatro Franco Parenti, Biblioteca (via Pier Lombardo 14)",

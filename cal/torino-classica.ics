@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-12-03-osn-rai-daniele-rustioni-e-roman-simovic@acculturiamoci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261203T203000
 DTEND;TZID=Europe/Rome:20261203T223000
 SUMMARY:OSN Rai: Daniele Rustioni e Roman Simovic
@@ -41,7 +41,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-osn-rai-daniele-rustioni-e-roman-simovic@acculturiamoci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261204T200000
 DTEND;TZID=Europe/Rome:20261204T220000
 SUMMARY:OSN Rai: Daniele Rustioni e Roman Simovic
@@ -56,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-osn-rai-michele-mariotti-dirige-schubert-e-strau@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261210T203000
 DTEND;TZID=Europe/Rome:20261210T223000
 SUMMARY:OSN Rai: Michele Mariotti dirige Schubert e Strauss
@@ -72,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-osn-rai-michele-mariotti-dirige-schubert-e-strau@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261211T200000
 DTEND;TZID=Europe/Rome:20261211T220000
 SUMMARY:OSN Rai: Michele Mariotti dirige Schubert e Strauss
@@ -86,7 +86,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-osn-rai-ravel-e-la-symphonie-fantastique@acculturiamoci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261217T203000
 DTEND;TZID=Europe/Rome:20261217T223000
 SUMMARY:OSN Rai: Ravel e la Symphonie fantastique
@@ -101,7 +101,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-osn-rai-ravel-e-la-symphonie-fantastique@acculturiamoci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261218T200000
 DTEND;TZID=Europe/Rome:20261218T220000
 SUMMARY:OSN Rai: Ravel e la Symphonie fantastique
@@ -116,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-concerto-di-natale-fabio-luisi-dirige-la-nona-di@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261222T203000
 DTEND;TZID=Europe/Rome:20261222T223000
 SUMMARY:Concerto di Natale: Fabio Luisi dirige la Nona di Beethoven

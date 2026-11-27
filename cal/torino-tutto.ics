@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-26-paolo-di-paolo-tremare@acculturiamoci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261126T210000
 DTEND;TZID=Europe/Rome:20261126T230000
 SUMMARY:Paolo Di Paolo: Tremare
@@ -39,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-ersilia-vaudo-una-storia-cosmica-di-luce-e-oscur@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261127T183000
 DTEND;TZID=Europe/Rome:20261127T203000
 SUMMARY:Ersilia Vaudo: una storia cosmica di luce e oscurità
@@ -52,7 +52,7 @@ CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-vizi-stravizi-e-invenzioni-letterarie@acculturiamoci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261127T210000
 DTEND;TZID=Europe/Rome:20261127T230000
 SUMMARY:Vizi\, stravizi e invenzioni letterarie
@@ -64,7 +64,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-gli-archetti-del-polo-2-5-anni@acculturiamoci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261128T163000
 DTEND;TZID=Europe/Rome:20261128T183000
 SUMMARY:Gli archetti del Polo (2-5 anni)
@@ -78,7 +78,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-stefano-belingardi-storie-di-beaulard-l-attesa-d@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Stefano Belingardi: Storie di Beaulard. L'attesa del Natale
@@ -91,7 +91,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-donatella-di-pietrantonio-lasciarsi-tardi@acculturiamoci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261201T210000
 DTEND;TZID=Europe/Rome:20261201T230000
 SUMMARY:Donatella Di Pietrantonio: Lasciarsi tardi
@@ -106,7 +106,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-micromega-presentazione-del-numero-dedicato-allo@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261202T180000
 DTEND;TZID=Europe/Rome:20261202T200000
 SUMMARY:MicroMega: presentazione del numero dedicato allo sport
@@ -118,7 +118,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-belle-lettere@acculturiamoci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261202T190000
 DTEND;TZID=Europe/Rome:20261202T210000
 SUMMARY:Belle lettere
@@ -132,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-il-linguaggio-sonoro-delle-cellule-domenico-scia@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Il linguaggio sonoro delle cellule: Domenico Sciajno con Rossana Be
@@ -146,7 +146,7 @@ CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-osn-rai-daniele-rustioni-e-roman-simovic@acculturiamoci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261203T203000
 DTEND;TZID=Europe/Rome:20261203T223000
 SUMMARY:OSN Rai: Daniele Rustioni e Roman Simovic
@@ -162,7 +162,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-leggermente-incontra-anna-pavignano-la-ragazza-s@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Leggermente incontra Anna Pavignano: La ragazza soldato
@@ -176,7 +176,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-osn-rai-daniele-rustioni-e-roman-simovic@acculturiamoci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261204T200000
 DTEND;TZID=Europe/Rome:20261204T220000
 SUMMARY:OSN Rai: Daniele Rustioni e Roman Simovic
@@ -191,7 +191,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-poesia-in-biblioteca-angela-donna-clochard-poesi@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Poesia in biblioteca: Angela Donna\, Clochard. Poesie senza dimora
@@ -204,7 +204,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-festival-del-classico-luciano-canfora-nel-labora@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261209T170000
 DTEND;TZID=Europe/Rome:20261209T190000
 SUMMARY:Festival del Classico: Luciano Canfora\, Nel laboratorio di Aristot
@@ -220,7 +220,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-festival-del-classico-alberto-angela-apre-polite@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261209T210000
 DTEND;TZID=Europe/Rome:20261209T230000
 SUMMARY:Festival del Classico: Alberto Angela apre Politeia/Convivenze
@@ -236,7 +236,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-anna-mastromarino-la-costituzione-a-pezzi@acculturiamoci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Anna Mastromarino: La Costituzione a pezzi
@@ -251,7 +251,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-festival-del-classico-dialogo-sulla-pace-con-zup@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261210T180000
 DTEND;TZID=Europe/Rome:20261210T200000
 SUMMARY:Festival del Classico: dialogo sulla pace con Zuppi\, Caracciolo e 
@@ -268,7 +268,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-osn-rai-michele-mariotti-dirige-schubert-e-strau@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261210T203000
 DTEND;TZID=Europe/Rome:20261210T223000
 SUMMARY:OSN Rai: Michele Mariotti dirige Schubert e Strauss
@@ -283,7 +283,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-voci-d-autore-incontro-con-fabio-geda@acculturiamoci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Voci d'autore: incontro con Fabio Geda
@@ -298,7 +298,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-festival-del-classico-la-convivenza-difficile-ba@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261211T160000
 DTEND;TZID=Europe/Rome:20261211T180000
 SUMMARY:Festival del Classico: La convivenza difficile: barbari e no
@@ -313,7 +313,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-festival-del-classico-aldo-schiavone-la-res-publ@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261211T163000
 DTEND;TZID=Europe/Rome:20261211T183000
 SUMMARY:Festival del Classico: Aldo Schiavone\, la res publica romana fra r
@@ -329,7 +329,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-festival-del-classico-il-teatro-e-la-crisi-di-at@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261211T170000
 DTEND;TZID=Europe/Rome:20261211T190000
 SUMMARY:Festival del Classico: Il teatro e la crisi di Atene
@@ -343,7 +343,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-festival-del-classico-memoria-oblio-comunita-una@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261211T173000
 DTEND;TZID=Europe/Rome:20261211T193000
 SUMMARY:Festival del Classico: Memoria\, oblio\, comunità: una lezione ate
@@ -359,7 +359,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-festival-del-classico-agostino-l-africano-uno-sg@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261211T180000
 DTEND;TZID=Europe/Rome:20261211T200000
 SUMMARY:Festival del Classico: Agostino l'africano: uno sguardo decentrato 
@@ -375,7 +375,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-osn-rai-michele-mariotti-dirige-schubert-e-strau@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261211T200000
 DTEND;TZID=Europe/Rome:20261211T220000
 SUMMARY:OSN Rai: Michele Mariotti dirige Schubert e Strauss
@@ -390,7 +390,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-festival-del-classico-l-iran-poliedrico-conviven@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261212T103000
 DTEND;TZID=Europe/Rome:20261212T123000
 SUMMARY:Festival del Classico: L'Iran poliedrico: convivenze di ieri e di o
@@ -406,7 +406,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-festival-del-classico-abitare-il-conflitto-con-s@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261212T110000
 DTEND;TZID=Europe/Rome:20261212T130000
 SUMMARY:Festival del Classico: Abitare il conflitto\, con Silvia Romani e A
@@ -421,7 +421,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-festival-del-classico-seneca-e-il-tiranno@acculturiamoci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261212T113000
 DTEND;TZID=Europe/Rome:20261212T133000
 SUMMARY:Festival del Classico: Seneca e il Tiranno
@@ -435,7 +435,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-festival-del-classico-gennaro-carillo-l-anima-e-@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261212T150000
 DTEND;TZID=Europe/Rome:20261212T170000
 SUMMARY:Festival del Classico: Gennaro Carillo\, L'anima e le forme: nel la
@@ -450,7 +450,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-festival-del-classico-come-nasce-una-repubblica@acculturiamo
  ci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261212T153000
 DTEND;TZID=Europe/Rome:20261212T173000
 SUMMARY:Festival del Classico: Come nasce una Repubblica
@@ -464,7 +464,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-festival-del-classico-luciano-bossina-come-in-ci@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261212T160000
 DTEND;TZID=Europe/Rome:20261212T180000
 SUMMARY:Festival del Classico: Luciano Bossina\, Come in cielo così in ter
@@ -479,7 +479,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-festival-del-classico-cittadini-del-mondo-con-ma@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261212T170000
 DTEND;TZID=Europe/Rome:20261212T190000
 SUMMARY:Festival del Classico: Cittadini del mondo\, con Mauro Bonazzi e Ma
@@ -493,7 +493,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-festival-del-classico-ivano-dionigi-e-luca-merca@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261212T180000
 DTEND;TZID=Europe/Rome:20261212T200000
 SUMMARY:Festival del Classico: Ivano Dionigi e Luca Mercalli\, Il nostro po
@@ -510,7 +510,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-festival-del-classico-telmo-pievani-tra-cooperaz@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261212T210000
 DTEND;TZID=Europe/Rome:20261212T230000
 SUMMARY:Festival del Classico: Telmo Pievani\, tra cooperazione e conflitto
@@ -523,7 +523,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-festival-del-classico-cio-che-ci-tiene-insieme-c@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261213T150000
 DTEND;TZID=Europe/Rome:20261213T170000
 SUMMARY:Festival del Classico: Ciò che ci tiene insieme\, con Giovanna Bot
@@ -541,7 +541,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-festival-del-classico-abitare-il-mondo-abitare-l@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261213T163000
 DTEND;TZID=Europe/Rome:20261213T183000
 SUMMARY:Festival del Classico: Abitare il mondo\, abitare l'umano: conviven
@@ -557,7 +557,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-festival-del-classico-politeia-e-convivenze-il-m@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261213T170000
 DTEND;TZID=Europe/Rome:20261213T190000
 SUMMARY:Festival del Classico: Politeia e convivenze: il maschile e il femm
@@ -573,7 +573,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-cinema-e-psicoanalisi-i-nuovi-teatri-dell-isteri@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261216T210000
 DTEND;TZID=Europe/Rome:20261216T230000
 SUMMARY:Cinema e psicoanalisi: i (nuovi) teatri dell'isteria
@@ -587,7 +587,7 @@ CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-osn-rai-ravel-e-la-symphonie-fantastique@acculturiamoci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261217T203000
 DTEND;TZID=Europe/Rome:20261217T223000
 SUMMARY:OSN Rai: Ravel e la Symphonie fantastique
@@ -602,7 +602,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-osn-rai-ravel-e-la-symphonie-fantastique@acculturiamoci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261218T200000
 DTEND;TZID=Europe/Rome:20261218T220000
 SUMMARY:OSN Rai: Ravel e la Symphonie fantastique
@@ -617,7 +617,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-concerto-di-natale-fabio-luisi-dirige-la-nona-di@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261222T203000
 DTEND;TZID=Europe/Rome:20261222T223000
 SUMMARY:Concerto di Natale: Fabio Luisi dirige la Nona di Beethoven

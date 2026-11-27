@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-27-ersilia-vaudo-una-storia-cosmica-di-luce-e-oscur@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261127T183000
 DTEND;TZID=Europe/Rome:20261127T203000
 SUMMARY:Ersilia Vaudo: una storia cosmica di luce e oscurità
@@ -41,7 +41,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-il-linguaggio-sonoro-delle-cellule-domenico-scia@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Il linguaggio sonoro delle cellule: Domenico Sciajno con Rossana Be
@@ -56,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-festival-del-classico-ivano-dionigi-e-luca-merca@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261212T180000
 DTEND;TZID=Europe/Rome:20261212T200000
 SUMMARY:Festival del Classico: Ivano Dionigi e Luca Mercalli\, Il nostro po
@@ -73,7 +73,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-festival-del-classico-telmo-pievani-tra-cooperaz@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261212T210000
 DTEND;TZID=Europe/Rome:20261212T230000
 SUMMARY:Festival del Classico: Telmo Pievani\, tra cooperazione e conflitto

@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-12-09-festival-del-classico-luciano-canfora-nel-labora@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261209T170000
 DTEND;TZID=Europe/Rome:20261209T190000
 SUMMARY:Festival del Classico: Luciano Canfora\, Nel laboratorio di Aristot
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-festival-del-classico-dialogo-sulla-pace-con-zup@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261210T180000
 DTEND;TZID=Europe/Rome:20261210T200000
 SUMMARY:Festival del Classico: dialogo sulla pace con Zuppi\, Caracciolo e 
@@ -60,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-festival-del-classico-memoria-oblio-comunita-una@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261211T173000
 DTEND;TZID=Europe/Rome:20261211T193000
 SUMMARY:Festival del Classico: Memoria\, oblio\, comunità: una lezione ate
@@ -76,7 +76,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-festival-del-classico-gennaro-carillo-l-anima-e-@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261212T150000
 DTEND;TZID=Europe/Rome:20261212T170000
 SUMMARY:Festival del Classico: Gennaro Carillo\, L'anima e le forme: nel la
@@ -91,7 +91,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-festival-del-classico-cittadini-del-mondo-con-ma@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261212T170000
 DTEND;TZID=Europe/Rome:20261212T190000
 SUMMARY:Festival del Classico: Cittadini del mondo\, con Mauro Bonazzi e Ma
@@ -105,7 +105,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-cinema-e-psicoanalisi-i-nuovi-teatri-dell-isteri@acculturiam
  oci.it
-DTSTAMP:20261127T080214Z
+DTSTAMP:20261127T085103Z
 DTSTART;TZID=Europe/Rome:20261216T210000
 DTEND;TZID=Europe/Rome:20261216T230000
 SUMMARY:Cinema e psicoanalisi: i (nuovi) teatri dell'isteria
