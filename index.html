@@ -638,7 +638,7 @@ footer p{margin:0}
     </div>
     <div class="spacer"></div>
     <nav class="nav" aria-label="Sezioni">
-      <a href="#stasera">Stasera</a><a href="#calendario">Calendario</a><a href="#segui">Segui i temi</a><a href="#club" class="clubl">Club</a><a href="#organizzatori" class="orgl">Organizzi eventi?</a>
+      <a href="#stasera">Stasera</a><a href="#calendario">Calendario</a><a href="#segui">Segui i temi</a><a href="#organizzatori" class="orgl">Organizzi eventi?</a><a href="#club" class="clubl">Club</a>
     </nav>
     <a class="iglink" href="https://www.instagram.com/acculturiamoci_official/" target="_blank" rel="noopener" aria-label="Instagram di Acculturiamoci"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4.2"/><circle cx="17.4" cy="6.6" r="1" fill="currentColor" stroke="none"/></svg></a>
     <button type="button" class="planlink" data-favs aria-label="I miei preferiti"><span class="h">♥</span><span class="pl-t">Preferiti</span><span class="badge zero" id="savedN">0</span></button>
@@ -1062,33 +1062,6 @@ function render(){
       </div>
     </section>
 
-    <section class="sec club" id="club">
-      <div class="clubin">
-        <span class="kick">Acculturiamoci Club</span>
-        <h3>Lezioni dal vivo.<br><em>A numero chiuso.</em></h3>
-        <p class="lead">Una sera al mese portiamo un esperto vero fuori dall'aula, in un posto piccolo di ${esc(cityName())}. Una lezione breve su una domanda che riguarda tutti, poi le vostre domande, poi si resta a parlare con un bicchiere in mano. E chi è nel Club riceve anche gli inviti alle uscite di gruppo agli eventi più belli in calendario.</p>
-        <div class="clubpts">
-          <div><b>Un esperto vero</b><span>Psicoanalisti, filosofi, storici, scienziati.</span></div>
-          <div><b>Pochi posti</b><span>Una sala piccola, per guardarsi in faccia.</span></div>
-          <div><b>Mai da solo</b><span>Nuovo in città o amici che non sono "tipi da conferenza"? Qui trovi chi ha le tue stesse domande.</span></div>
-        </div>
-      </div>
-      <div class="clubside">
-        ${clubList.length ? clubList.map((c, i) => `<article class="clubev">
-          <div class="cd"><b>${esc(dayWord(c.date))}</b>${c.time ? `<span>${esc(c.time)}</span>` : ""}</div>
-          <div class="cb"><div class="ct">${esc(c.title)}</div>${c.speaker ? `<div class="cs">${esc(c.speaker)}</div>` : ""}<div class="cp">${esc(c.place || "")}${c.seats ? ` · <b>${esc(String(c.seats))} posti</b>` : ""}${c.price ? ` · ${esc(c.price)}` : ""}</div>
-          ${c.book ? `<a class="btn hot" href="${esc(c.book)}" target="_blank" rel="noopener">Prenota il posto</a>` : `<button class="btn hot" type="button" data-clubpick="${i}">Prenota il posto</button>`}</div>
-        </article>`).join("") : `<div class="clubsoon"><b>La prima serata del Club a ${esc(cityName())} è in preparazione.</b> Entra nel Club: chi è dentro riceve l'invito e prenota prima di tutti.</div>`}
-        <form class="clubf" id="clubForm">
-          <input type="hidden" name="serata" value="">
-          <label>Come ti chiami<input name="nome" required placeholder="Nome"></label>
-          <label>Come ti scriviamo<input name="contatto" required placeholder="Email, @instagram o WhatsApp"></label>
-          <label class="full">Di cosa vorresti sentir parlare? <i>(facoltativo)</i><input name="pref" placeholder="Es. amore, ansia, lavoro, filosofia, storia…"></label>
-          <div class="full orgbtns"><button class="btn dark" type="submit" id="clubBtn">Entra nel Club</button><span class="hint">Il testo viene copiato: incollalo nel messaggio che si apre.</span></div>
-        </form>
-      </div>
-    </section>
-
     <section class="sec" id="temi">
       <h3>Scegli il tema ${S.cats.size ? "<small>puoi sceglierne più di uno</small>" : ""}</h3>
       <div class="themes">
@@ -1153,6 +1126,33 @@ function render(){
         <label class="full">Due righe sull'evento<textarea name="desc" rows="3" placeholder="Di cosa si parla, a chi è rivolto, se è gratis o a pagamento"></textarea></label>
         <div class="full orgbtns"><button class="btn hot" type="submit">Prepara la segnalazione</button><span class="hint">Il testo viene copiato: incollalo nel messaggio che si apre.</span></div>
       </form>
+    </section>
+
+    <section class="sec club" id="club">
+      <div class="clubin">
+        <span class="kick">Acculturiamoci Club</span>
+        <h3>Lezioni dal vivo.<br><em>A numero chiuso.</em></h3>
+        <p class="lead">Una sera al mese portiamo un esperto vero fuori dall'aula, in un posto piccolo di ${esc(cityName())}. Una lezione breve su una domanda che riguarda tutti, poi le vostre domande, poi si resta a parlare con un bicchiere in mano. E chi è nel Club riceve anche gli inviti alle uscite di gruppo agli eventi più belli in calendario.</p>
+        <div class="clubpts">
+          <div><b>Un esperto vero</b><span>Psicoanalisti, filosofi, storici, scienziati.</span></div>
+          <div><b>Pochi posti</b><span>Una sala piccola, per guardarsi in faccia.</span></div>
+          <div><b>Mai da solo</b><span>Nuovo in città o amici che non sono "tipi da conferenza"? Qui trovi chi ha le tue stesse domande.</span></div>
+        </div>
+      </div>
+      <div class="clubside">
+        ${clubList.length ? clubList.map((c, i) => `<article class="clubev">
+          <div class="cd"><b>${esc(dayWord(c.date))}</b>${c.time ? `<span>${esc(c.time)}</span>` : ""}</div>
+          <div class="cb"><div class="ct">${esc(c.title)}</div>${c.speaker ? `<div class="cs">${esc(c.speaker)}</div>` : ""}<div class="cp">${esc(c.place || "")}${c.seats ? ` · <b>${esc(String(c.seats))} posti</b>` : ""}${c.price ? ` · ${esc(c.price)}` : ""}</div>
+          ${c.book ? `<a class="btn hot" href="${esc(c.book)}" target="_blank" rel="noopener">Prenota il posto</a>` : `<button class="btn hot" type="button" data-clubpick="${i}">Prenota il posto</button>`}</div>
+        </article>`).join("") : `<div class="clubsoon"><b>La prima serata del Club a ${esc(cityName())} è in preparazione.</b> Entra nel Club: chi è dentro riceve l'invito e prenota prima di tutti.</div>`}
+        <form class="clubf" id="clubForm">
+          <input type="hidden" name="serata" value="">
+          <label>Come ti chiami<input name="nome" required placeholder="Nome"></label>
+          <label>Come ti scriviamo<input name="contatto" required placeholder="Email, @instagram o WhatsApp"></label>
+          <label class="full">Di cosa vorresti sentir parlare? <i>(facoltativo)</i><input name="pref" placeholder="Es. amore, ansia, lavoro, filosofia, storia…"></label>
+          <div class="full orgbtns"><button class="btn dark" type="submit" id="clubBtn">Entra nel Club</button><span class="hint">Il testo viene copiato: incollalo nel messaggio che si apre.</span></div>
+        </form>
+      </div>
     </section>`;
 
   /* azioni */
