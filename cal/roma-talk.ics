@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-ri-generare-con-creativita-forum-nazionale-sulla@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Ri-generare con creatività: Forum nazionale sulla rigenerazione ur
@@ -45,7 +45,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-monica-cristina-storini-leggere-deledda@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261125T173000
 DTEND;TZID=Europe/Rome:20261125T193000
 SUMMARY:Monica Cristina Storini: Leggere Deledda
@@ -60,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-andrea-scarpa-mettetevi-comodi-il-libro-intervis@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261125T180000
 DTEND;TZID=Europe/Rome:20261125T200000
 SUMMARY:Andrea Scarpa: Mettetevi comodi (il libro-intervista a Renzo Arbore
@@ -75,7 +75,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-nicola-lagioia-santa-barbara@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261125T180000
 DTEND;TZID=Europe/Rome:20261125T200000
 SUMMARY:Nicola Lagioia: Santa Barbara
@@ -91,7 +91,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-ri-generare-con-creativita-forum-nazionale-sulla@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Ri-generare con creatività: Forum nazionale sulla rigenerazione ur
@@ -109,7 +109,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-cesare-pavese-poesie-del-disamore@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261126T180000
 DTEND;TZID=Europe/Rome:20261126T200000
 SUMMARY:Cesare Pavese: Poesie del disamore
@@ -124,7 +124,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-giovanna-cuce-la-storia-di-rita-atria@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261126T180000
 DTEND;TZID=Europe/Rome:20261126T200000
 SUMMARY:Giovanna Cucè: la storia di Rita Atria
@@ -139,7 +139,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-ri-generare-con-creativita-forum-nazionale-sulla@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Ri-generare con creatività: Forum nazionale sulla rigenerazione ur
@@ -158,7 +158,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-ri-generare-con-creativita-forum-nazionale-sulla@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Ri-generare con creatività: Forum nazionale sulla rigenerazione ur
@@ -176,7 +176,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-csaba-dalla-zorza-io-sono-adele@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261129T170000
 DTEND;TZID=Europe/Rome:20261129T190000
 SUMMARY:Csaba dalla Zorza: Io sono Adele
@@ -188,9 +188,22 @@ URL:https://www.romatoday.it/eventi/libridine-festival-diffuso-librerie-21-
 CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-02-odio-un-blues-di-vittorio-pavoncello@acculturiamoci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261202T170000
+DTEND;TZID=Europe/Rome:20261202T190000
+SUMMARY:Odio. Un blues di Vittorio Pavoncello
+LOCATION:Biblioteca Casa della Memoria e della Storia (via San Francesco di
+  Sales 5)
+DESCRIPTION:Presentazione del libro alla Casa della Memoria. https://www.bi
+ bliotechediroma.it/opac/.do
+URL:https://www.bibliotechediroma.it/opac/.do
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-04-piu-libri-piu-liberi-fiera-della-piccola-e-media@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261204T100000
 DTEND;TZID=Europe/Rome:20261204T120000
 SUMMARY:Più libri più liberi: fiera della piccola e media editoria
@@ -204,7 +217,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-piu-libri-piu-liberi-fiera-della-piccola-e-media@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261205T100000
 DTEND;TZID=Europe/Rome:20261205T120000
 SUMMARY:Più libri più liberi: fiera della piccola e media editoria
@@ -217,7 +230,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-piu-libri-piu-liberi-fiera-della-piccola-e-media@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261206T100000
 DTEND;TZID=Europe/Rome:20261206T120000
 SUMMARY:Più libri più liberi: fiera della piccola e media editoria
@@ -228,9 +241,27 @@ URL:https://plpl.it/
 CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-06-geografie-di-lettura-giancarlo-de-cataldo-con-le@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261206T173000
+DTEND;TZID=Europe/Rome:20261206T193000
+SUMMARY:Geografie di lettura: Giancarlo De Cataldo con le letture di Massim
+ o Popolizio
+LOCATION:La Nuvola (viale Asia 40)\, Più libri più liberi
+DESCRIPTION:Scoprire quali libri hanno formato uno scrittore è il modo pi
+ ù rapido per trovare il tuo prossimo libro. Ultimo incontro del ciclo per
+  i 30 anni delle Biblioteche di Roma: lo scrittore apre la sua biblioteca 
+ personale. Gratuito\, anche in streaming. https://www.informagiovaniroma.i
+ t/geografie-di-lettura-le-biblioteche-degli-autori/
+URL:https://www.informagiovaniroma.it/geografie-di-lettura-le-biblioteche-d
+ egli-autori/
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-07-piu-libri-piu-liberi-fiera-della-piccola-e-media@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261207T100000
 DTEND;TZID=Europe/Rome:20261207T120000
 SUMMARY:Più libri più liberi: fiera della piccola e media editoria
@@ -243,7 +274,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-piu-libri-piu-liberi-fiera-della-piccola-e-media@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261208T100000
 DTEND;TZID=Europe/Rome:20261208T120000
 SUMMARY:Più libri più liberi: fiera della piccola e media editoria
@@ -251,6 +282,19 @@ LOCATION:La Nuvola (viale Asia 40)
 DESCRIPTION:Cinque giorni di libri e incontri con centinaia di editori indi
  pendenti. Aperta dalle 10 alle 20. https://plpl.it/
 URL:https://plpl.it/
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-spritzalibro-i-giovedi-della-letteratura@acculturiamoci.it
+DTSTAMP:20261127T080214Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Spritzalibro: i giovedì della letteratura
+LOCATION:Teatro del Lido (via delle Sirene 22\, Ostia)
+DESCRIPTION:Letture di autori contemporanei\, confronto aperto e spritz fin
+ ale nel foyer\, a cura di Cristina Cau e Lavinia Polzella. https://turismo
+ roma.it/fr/node/179842
+URL:https://turismoroma.it/fr/node/179842
 CATEGORIES:Incontri e talk
 END:VEVENT
 END:VCALENDAR

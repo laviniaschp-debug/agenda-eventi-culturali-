@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-27-ersilia-vaudo-una-storia-cosmica-di-luce-e-oscur@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261127T183000
 DTEND;TZID=Europe/Rome:20261127T203000
 SUMMARY:Ersilia Vaudo: una storia cosmica di luce e oscurità
@@ -36,6 +36,51 @@ DESCRIPTION:L'universo raccontato da chi ha passato la vita all'Agenzia Spa
  ziale Europea. Lectio dell'astrofisica Ersilia Vaudo\, a cura del Circolo 
  dei lettori. https://torino.circololettori.it/
 URL:https://torino.circololettori.it/
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-il-linguaggio-sonoro-delle-cellule-domenico-scia@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Il linguaggio sonoro delle cellule: Domenico Sciajno con Rossana Be
+ carelli
+LOCATION:Biblioteca civica Villa Amoretti (corso Orbassano 200)
+DESCRIPTION:Suono e biologia in dialogo\, in biblioteca. https://bct.comune
+ .torino.it/eventi-attivita/il-linguaggio-sonoro-delle-cellule
+URL:https://bct.comune.torino.it/eventi-attivita/il-linguaggio-sonoro-delle
+ -cellule
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-festival-del-classico-ivano-dionigi-e-luca-merca@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261212T180000
+DTEND;TZID=Europe/Rome:20261212T200000
+SUMMARY:Festival del Classico: Ivano Dionigi e Luca Mercalli\, Il nostro po
+ sto nel mondo
+LOCATION:il Circolo dei lettori (via Bogino 9)
+DESCRIPTION:Un latinista e un climatologo sulla stessa domanda: siamo la mi
+ sura del mondo o soltanto ospiti? Il latinista e il climatologo sulla comu
+ nità dei viventi. https://www.mentelocale.it/torino/148420-nostro-posto-m
+ ondo-comunita-viventi.htm
+URL:https://www.mentelocale.it/torino/148420-nostro-posto-mondo-comunita-vi
+ venti.htm
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-festival-del-classico-telmo-pievani-tra-cooperaz@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261212T210000
+DTEND;TZID=Europe/Rome:20261212T230000
+SUMMARY:Festival del Classico: Telmo Pievani\, tra cooperazione e conflitto
+LOCATION:Torino (sede sul sito del festival)
+DESCRIPTION:L'evoluzione della convivenza raccontata dal filosofo della bio
+ logia. https://www.festivaldelclassico.it/
+URL:https://www.festivaldelclassico.it/
 CATEGORIES:Scienza
 END:VEVENT
 END:VCALENDAR

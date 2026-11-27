@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-26-paolo-di-paolo-tremare@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261126T210000
 DTEND;TZID=Europe/Rome:20261126T230000
 SUMMARY:Paolo Di Paolo: Tremare
@@ -38,7 +38,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-vizi-stravizi-e-invenzioni-letterarie@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261127T210000
 DTEND;TZID=Europe/Rome:20261127T230000
 SUMMARY:Vizi\, stravizi e invenzioni letterarie
@@ -49,8 +49,22 @@ URL:https://torino.circololettori.it/
 CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-30-stefano-belingardi-storie-di-beaulard-l-attesa-d@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Stefano Belingardi: Storie di Beaulard. L'attesa del Natale
+LOCATION:Biblioteca civica Passerin d'Entrèves (via Guido Reni 102)
+DESCRIPTION:Incontro con l'autore in biblioteca. https://bct.comune.torino.
+ it/eventi-attivita/storie-di-beaulard-lattesa-del-natale
+URL:https://bct.comune.torino.it/eventi-attivita/storie-di-beaulard-lattesa
+ -del-natale
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-01-donatella-di-pietrantonio-lasciarsi-tardi@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261201T210000
 DTEND;TZID=Europe/Rome:20261201T230000
 SUMMARY:Donatella Di Pietrantonio: Lasciarsi tardi
@@ -63,8 +77,21 @@ URL:https://torino.circololettori.it/lasciarsi-tardi/
 CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-02-micromega-presentazione-del-numero-dedicato-allo@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261202T180000
+DTEND;TZID=Europe/Rome:20261202T200000
+SUMMARY:MicroMega: presentazione del numero dedicato allo sport
+LOCATION:il Circolo dei lettori (via Bogino 9)
+DESCRIPTION:La rivista presenta il volume 6/2026. https://micromega.substac
+ k.com/p/prossimi-appuntamenti-firenze-e-torino
+URL:https://micromega.substack.com/p/prossimi-appuntamenti-firenze-e-torino
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-02-belle-lettere@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261202T190000
 DTEND;TZID=Europe/Rome:20261202T210000
 SUMMARY:Belle lettere
@@ -73,6 +100,82 @@ DESCRIPTION:Presentazione di tredici racconti sul confine tra verità e men
  zogna\, e su come costruiamo chi siamo con ricordi e storie inventate. htt
  ps://torino.circololettori.it/belle-lettere/
 URL:https://torino.circololettori.it/belle-lettere/
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-leggermente-incontra-anna-pavignano-la-ragazza-s@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Leggermente incontra Anna Pavignano: La ragazza soldato
+LOCATION:Biblioteca civica Cesare Pavese (via Candiolo 79)
+DESCRIPTION:La sceneggiatrice e scrittrice presenta il romanzo (Piemme\, 20
+ 26). https://bct.comune.torino.it/eventi-attivita/leggermente-incontra-ann
+ a-pavignano
+URL:https://bct.comune.torino.it/eventi-attivita/leggermente-incontra-anna-
+ pavignano
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-poesia-in-biblioteca-angela-donna-clochard-poesi@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Poesia in biblioteca: Angela Donna\, Clochard. Poesie senza dimora
+LOCATION:Sala Molinari\, Biblioteca Natalia Ginzburg (via Lombroso 16)
+DESCRIPTION:Reading e incontro con l'autrice. https://bct.comune.torino.it/
+ eventi-attivita/poesia-in-biblioteca-1
+URL:https://bct.comune.torino.it/eventi-attivita/poesia-in-biblioteca-1
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-voci-d-autore-incontro-con-fabio-geda@acculturiamoci.it
+DTSTAMP:20261127T080214Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Voci d'autore: incontro con Fabio Geda
+LOCATION:Biblioteca civica Passerin d'Entrèves (via Guido Reni 102)
+DESCRIPTION:Letture teatrali di attori professionisti con l'autore presente
+ \, a cura di Assemblea Teatro. https://bct.comune.torino.it/eventi-attivit
+ a/voci-dautore-incontro-con-fabio-geda
+URL:https://bct.comune.torino.it/eventi-attivita/voci-dautore-incontro-con-
+ fabio-geda
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-festival-del-classico-abitare-il-conflitto-con-s@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261212T110000
+DTEND;TZID=Europe/Rome:20261212T130000
+SUMMARY:Festival del Classico: Abitare il conflitto\, con Silvia Romani e A
+ nnalena Benini
+LOCATION:il Circolo dei lettori (via Bogino 9)
+DESCRIPTION:Furore\, trasgressione e ordine della polis: la furia nel mito 
+ e nella storia. https://www.mentelocale.it/torino/148413-abitare-conflitto
+ -furore-trasgressione-ordine-polis.htm
+URL:https://www.mentelocale.it/torino/148413-abitare-conflitto-furore-trasg
+ ressione-ordine-polis.htm
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-festival-del-classico-cio-che-ci-tiene-insieme-c@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261213T150000
+DTEND;TZID=Europe/Rome:20261213T170000
+SUMMARY:Festival del Classico: Ciò che ci tiene insieme\, con Giovanna Bot
+ teri e Michela Marzano
+LOCATION:il Circolo dei lettori (via Bogino 9)
+DESCRIPTION:Che cosa tiene insieme una comunità quando tutto spinge a divi
+ derla: una giornalista e una filosofa provano a rispondere. Voci\, legami 
+ e possibilità di convivenza\, a partire da Soffiando nel vento e Qualcosa
+  che brilla. https://www.mentelocale.it/torino/148414-cio-ci-tiene-insieme
+ -voci-legami-possibilita-convivenza.htm
+URL:https://www.mentelocale.it/torino/148414-cio-ci-tiene-insieme-voci-lega
+ mi-possibilita-convivenza.htm
 CATEGORIES:Incontri e talk
 END:VEVENT
 END:VCALENDAR

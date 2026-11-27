@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-carlotta-spallino-fill-pill-e-cecilia-forastieri@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261124T203000
 DTEND;TZID=Europe/Rome:20261124T223000
 SUMMARY:Carlotta Spallino\, Fill Pill e Cecilia Forastieri: stand-up Allo S
@@ -41,7 +41,7 @@ CATEGORIES:Stand-up comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-paura-stand-up-di-annalisa-aglioti@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261125T201500
 DTEND;TZID=Europe/Rome:20261125T221500
 SUMMARY:Paura\, stand-up di Annalisa Aglioti
@@ -54,7 +54,7 @@ CATEGORIES:Stand-up comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-paura-stand-up-di-annalisa-aglioti@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261126T203000
 DTEND;TZID=Europe/Rome:20261126T223000
 SUMMARY:Paura\, stand-up di Annalisa Aglioti
@@ -67,7 +67,7 @@ CATEGORIES:Stand-up comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-paura-stand-up-di-annalisa-aglioti@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261127T190000
 DTEND;TZID=Europe/Rome:20261127T210000
 SUMMARY:Paura\, stand-up di Annalisa Aglioti
@@ -80,7 +80,7 @@ CATEGORIES:Stand-up comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-paura-stand-up-di-annalisa-aglioti@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261128T190000
 DTEND;TZID=Europe/Rome:20261128T210000
 SUMMARY:Paura\, stand-up di Annalisa Aglioti
@@ -93,7 +93,7 @@ CATEGORIES:Stand-up comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-paura-stand-up-di-annalisa-aglioti@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261129T163000
 DTEND;TZID=Europe/Rome:20261129T183000
 SUMMARY:Paura\, stand-up di Annalisa Aglioti
@@ -106,7 +106,7 @@ CATEGORIES:Stand-up comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-alessandro-cattelan-benvenuto-nell-ai@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261130T210000
 DTEND;TZID=Europe/Rome:20261130T230000
 SUMMARY:Alessandro Cattelan\, Benvenuto nell'AI!
@@ -120,7 +120,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-giulia-torelli-e-claudio-pavese-non-ho-mai-live@acculturiamo
  ci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Giulia Torelli e Claudio Pavese: Non ho mai Live
@@ -136,7 +136,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-ghemon-la-prima-volta-l-ultima-volta-l-unica-vol@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261202T210000
 DTEND;TZID=Europe/Rome:20261202T230000
 SUMMARY:Ghemon: La prima volta\, l'ultima volta\, l'unica volta
@@ -151,7 +151,7 @@ CATEGORIES:Stand-up comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-mercomedy-serata-di-stand-up@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Mercomedy: serata di stand-up
@@ -164,7 +164,7 @@ CATEGORIES:Stand-up comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-raul-and-ram-stand-up-comedy-in-english@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261203T200000
 DTEND;TZID=Europe/Rome:20261203T220000
 SUMMARY:Raul and Ram: stand-up comedy in English
@@ -177,7 +177,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-francesca-reggiani-e-chiara-becchimanzi-a-noi-gl@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261209T203000
 DTEND;TZID=Europe/Rome:20261209T223000
 SUMMARY:Francesca Reggiani e Chiara Becchimanzi: A noi gli occhi por favor
@@ -189,7 +189,7 @@ CATEGORIES:Stand-up comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-stefano-rapone-allo-sbagliato@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261209T203000
 DTEND;TZID=Europe/Rome:20261209T223000
 SUMMARY:Stefano Rapone Allo Sbagliato
@@ -202,7 +202,7 @@ CATEGORIES:Stand-up comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-luca-ravenna-allo-sbagliato@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261215T203000
 DTEND;TZID=Europe/Rome:20261215T223000
 SUMMARY:Luca Ravenna Allo Sbagliato

@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-27-da-notre-dame-a-santa-croce-vincent-dubois-all-o@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261127T210000
 DTEND;TZID=Europe/Rome:20261127T230000
 SUMMARY:Da Notre-Dame a Santa Croce: Vincent Dubois all'organo
@@ -45,7 +45,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-lukas-sternath-pianoforte@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261128T160000
 DTEND;TZID=Europe/Rome:20261128T180000
 SUMMARY:Lukas Sternath\, pianoforte
@@ -58,7 +58,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-christophe-rousset-al-teatro-del-maggio@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Christophe Rousset al Teatro del Maggio
@@ -70,7 +70,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-anna-prohaska-e-isabelle-faust@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Anna Prohaska e Isabelle Faust
@@ -81,8 +81,21 @@ URL:https://www.mentelocale.it/firenze/
 CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-02-contempoartensemble-okawango-conversazione-e-con@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261202T173000
+DTEND;TZID=Europe/Rome:20261202T193000
+SUMMARY:ContempoartEnsemble: Okawango\, conversazione e concerto
+LOCATION:Gabinetto Vieusseux\, Palazzo Strozzi\, Sala Ferri
+DESCRIPTION:XXIII Festival del ContempoartEnsemble: gli artisti raccontano 
+ e suonano. https://www.vieusseux.it/luogo/giardino-delle-rose/
+URL:https://www.vieusseux.it/luogo/giardino-delle-rose/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-05-arsenii-moon-pianoforte@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Arsenii Moon\, pianoforte
@@ -94,7 +107,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-concerto-di-natale-al-teatro-del-maggio@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261206T180000
 DTEND;TZID=Europe/Rome:20261206T200000
 SUMMARY:Concerto di Natale al Teatro del Maggio
@@ -106,7 +119,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-emanuele-arciuli-pianoforte@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Emanuele Arciuli\, pianoforte
@@ -117,9 +130,25 @@ URL:https://www.mentelocale.it/firenze/
 CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-16-conversazioni-musicali-i-racconti-di-hoffmann-di@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261216T163000
+DTEND;TZID=Europe/Rome:20261216T183000
+SUMMARY:Conversazioni musicali: I racconti di Hoffmann di Offenbach
+LOCATION:Biblioteca Mario Luzi (via Ugo Schiff 8)
+DESCRIPTION:Guida all'opera in scena al Maggio dal 20 dicembre\, con gli Am
+ ici del Teatro del Maggio. Gratuito\, prenotazione consigliata. https://qu
+ artieri.comune.fi.it/dalle-redazioni/dicembre-2026-alle-biblioteche-del-qu
+ artiere-2
+URL:https://quartieri.comune.fi.it/dalle-redazioni/dicembre-2026-alle-bibli
+ oteche-del-quartiere-2
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-16-canto-gregoriano-a-santa-croce-christus-natus-es@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261216T203000
 DTEND;TZID=Europe/Rome:20261216T223000
 SUMMARY:Canto gregoriano a Santa Croce: Christus natus est nobis

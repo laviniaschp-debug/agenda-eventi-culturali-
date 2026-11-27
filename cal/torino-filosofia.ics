@@ -25,14 +25,30 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-09-festival-del-classico-luciano-canfora-nel-labora@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261209T170000
+DTEND;TZID=Europe/Rome:20261209T190000
+SUMMARY:Festival del Classico: Luciano Canfora\, Nel laboratorio di Aristot
+ ele
+LOCATION:il Circolo dei lettori (via Bogino 9)
+DESCRIPTION:Aristotele raccolse le costituzioni di 158 città per capire co
+ me si vive insieme: la stessa domanda che ci facciamo oggi. Anteprima dell
+ a nona edizione (Politeia/Convivenze) con Luciano Canfora e Ugo Cardinale:
+  la raccolta delle Politeiai. https://www.festivaldelclassico.it/
+URL:https://www.festivaldelclassico.it/
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-10-festival-del-classico-dialogo-sulla-pace-con-zup@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261211
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261210T180000
+DTEND;TZID=Europe/Rome:20261210T200000
 SUMMARY:Festival del Classico: dialogo sulla pace con Zuppi\, Caracciolo e 
  Dionigi
-LOCATION:Torino (sede sul sito del festival)
+LOCATION:Teatro San Giuseppe (via Andrea Doria 18)
 DESCRIPTION:Il cardinale Matteo Maria Zuppi\, il direttore di Limes Lucio C
  aracciolo e il latinista Ivano Dionigi dialogano sulla pace. Sede e orario
   sul sito del Festival del Classico. https://www.sbircialanotizia.it/artic
@@ -42,9 +58,54 @@ URL:https://www.sbircialanotizia.it/articoli/2026/11/18/festival-classico-l
 CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-11-festival-del-classico-memoria-oblio-comunita-una@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261211T173000
+DTEND;TZID=Europe/Rome:20261211T193000
+SUMMARY:Festival del Classico: Memoria\, oblio\, comunità: una lezione ate
+ niese
+LOCATION:il Circolo dei lettori (via Bogino 9)
+DESCRIPTION:Mauro Bonazzi (Università di Bologna) e lo scrittore Matteo Nu
+ cci. https://www.mentelocale.it/torino/148424-memoria-oblio-comunita-lezio
+ ne-ateniese.htm
+URL:https://www.mentelocale.it/torino/148424-memoria-oblio-comunita-lezione
+ -ateniese.htm
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-festival-del-classico-gennaro-carillo-l-anima-e-@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261212T150000
+DTEND;TZID=Europe/Rome:20261212T170000
+SUMMARY:Festival del Classico: Gennaro Carillo\, L'anima e le forme: nel la
+ boratorio costituzionale di Platone
+LOCATION:il Circolo dei lettori (via Bogino 9)
+DESCRIPTION:Lezione su Platone e le forme della città. https://www.mentelo
+ cale.it/torino/148421-anima-forme-laboratorio-costituzionale-platone.htm
+URL:https://www.mentelocale.it/torino/148421-anima-forme-laboratorio-costit
+ uzionale-platone.htm
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-festival-del-classico-cittadini-del-mondo-con-ma@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261212T170000
+DTEND;TZID=Europe/Rome:20261212T190000
+SUMMARY:Festival del Classico: Cittadini del mondo\, con Mauro Bonazzi e Ma
+ ssimo Mori
+LOCATION:il Circolo dei lettori (via Bogino 9)
+DESCRIPTION:Il cosmopolitismo antico e le sue eredità. https://www.mentelo
+ cale.it/torino/148415-cittadini-mondo.htm
+URL:https://www.mentelocale.it/torino/148415-cittadini-mondo.htm
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-16-cinema-e-psicoanalisi-i-nuovi-teatri-dell-isteri@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261216T210000
 DTEND;TZID=Europe/Rome:20261216T230000
 SUMMARY:Cinema e psicoanalisi: i (nuovi) teatri dell'isteria

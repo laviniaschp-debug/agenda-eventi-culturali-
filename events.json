@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T10:00:00+01:00",
+ "updated": "2026-11-27T09:00:00+01:00",
  "range": [
   "2026-11-24",
   "2026-12-20"
@@ -4109,6 +4109,32 @@
   },
   {
    "date": "2026-11-29",
+   "time": "10:15",
+   "title": "Filosofia sui Navigli: Vulnerabilità e guerra. Una lettura di Judith Butler",
+   "venue": "Filosofia sui Navigli, viale Gorizia 12 (seminterrato)",
+   "cat": "filosofia",
+   "desc": "Conferenza della prof.ssa Valentina Surace (dottore di ricerca in Metodologie della Filosofia, Università di Messina), dalle 10:15 alle 12:30. La sala è nel seminterrato in fondo al cortile a destra: citofono sul cancello a nome Fumagalli.",
+   "url": "https://www.google.com/search?q=Filosofia+sui+Navigli+Milano",
+   "free": null,
+   "tags": [
+    "imperdibile"
+   ],
+   "verify": false,
+   "why": "Una domenica mattina per chiedersi che cosa ci rende fragili, e perché questo potrebbe essere un punto di partenza invece che una debolezza.",
+   "geo": [
+    45.4545,
+    9.1738
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio",
+   "id": "e411",
+   "key": "2026-11-29-filosofia-sui-navigli-vulnerabilita-e-guerra-una",
+   "moods": [
+    "dentro",
+    "pensare"
+   ]
+  },
+  {
+   "date": "2026-11-29",
    "time": "11:00",
    "title": "BookCity 0-6",
    "venue": "Fondazione Luigi Rovati",
@@ -5426,6 +5452,28 @@
   {
    "date": "2026-12-01",
    "time": "18:00",
+   "title": "La Chiesa e la sfida della pace. Da Leone XIII a Leone XIV",
+   "venue": "Casa della Cultura (via Borgogna 3)",
+   "cat": "geo",
+   "desc": "Presentazione del volume a cura di Agostino Giovagnoli e Giorgio Del Zanna. Anche in streaming.",
+   "url": "https://www.casadellacultura.it/",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "e414",
+   "key": "2026-12-01-la-chiesa-e-la-sfida-della-pace-da-leone-xiii-a-",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4655,
+    9.199
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-01",
+   "time": "18:00",
    "title": "Lezioni di poesia: Giuseppe Gioachino Belli, il plebeo metafisico",
    "venue": "Fondazione Corriere della Sera, Sala Buzzati (via Balzan 3)",
    "cat": "talk",
@@ -5495,6 +5543,28 @@
   {
    "date": "2026-12-01",
    "time": "19:00",
+   "title": "Il giornalismo secondo García Márquez, con Mary Villalobos e Peter Gomez",
+   "venue": "Libreria Verso (corso di Porta Ticinese 40)",
+   "cat": "talk",
+   "desc": "Presentazione in libreria-bar, nel cuore del Ticinese.",
+   "url": "https://www.libreriaverso.com/appuntamenti/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "geo": [
+    45.4565,
+    9.1815
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio",
+   "id": "e412",
+   "key": "2026-12-01-il-giornalismo-secondo-garcia-marquez-con-mary-v",
+   "moods": [
+    "pensare"
+   ]
+  },
+  {
+   "date": "2026-12-01",
+   "time": "19:00",
    "title": "Noir in Festival: Mi Amor di Guillaume Nicloux",
    "venue": "Anteo Palazzo del Cinema",
    "cat": "cinema",
@@ -5557,6 +5627,29 @@
     9.2105
    ],
    "zona": "Porta Venezia · Città Studi"
+  },
+  {
+   "date": "2026-12-01",
+   "time": "20:00",
+   "title": "Booknight: lo Spacciatore di Libri presenta Il capitalismo della sorveglianza",
+   "venue": "Mare culturale urbano, Cascina Torrette (via Gabetti 15)",
+   "cat": "tech",
+   "desc": "Maurizio Afeltra racconta il saggio di Shoshana Zuboff: serata di libri in cascina.",
+   "url": "https://maremilano.org/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "geo": [
+    45.4842,
+    9.1108
+   ],
+   "zona": "Fuori centro",
+   "moods": [
+    "pensare",
+    "gente"
+   ],
+   "id": "e413",
+   "key": "2026-12-01-booknight-lo-spacciatore-di-libri-presenta-il-ca"
   },
   {
    "date": "2026-12-01",
@@ -5826,6 +5919,50 @@
     9.196
    ],
    "zona": "Centro"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "17:30",
+   "title": "Social Graces: etichetta e buone maniere britanniche",
+   "venue": "Centro Culturale di Milano (largo Corsia dei Servi 4)",
+   "cat": "storia",
+   "desc": "Ciclo di quattro incontri a cura di Pietrangelo Falconi su una delle tradizioni più curiose del Regno Unito.",
+   "url": "https://www.centroculturaledimilano.it/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "e415",
+   "key": "2026-12-02-social-graces-etichetta-e-buone-maniere-britanni",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4655,
+    9.196
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "18:00",
+   "title": "Festa 11: il compleanno di Verso",
+   "venue": "Libreria Verso (corso di Porta Ticinese 40)",
+   "cat": "talk",
+   "desc": "La libreria-bar del Ticinese compie 11 anni e festeggia con lettori e librai.",
+   "url": "https://www.libreriaverso.com/appuntamenti/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "geo": [
+    45.4565,
+    9.1815
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio",
+   "moods": [
+    "gente"
+   ],
+   "id": "e416",
+   "key": "2026-12-02-festa-11-il-compleanno-di-verso"
   },
   {
    "date": "2026-12-02",
@@ -6214,6 +6351,30 @@
   },
   {
    "date": "2026-12-03",
+   "time": "17:30",
+   "title": "Rossella Fabbrichesi: ermeneutica del soggetto atteggiato scientificamente",
+   "venue": "Statale, Sala Martinetti (via Festa del Perdono 7)",
+   "cat": "filosofia",
+   "desc": "Seminario del Dipartimento di Filosofia Piero Martinetti, aperto al pubblico (anche su Teams).",
+   "url": "https://dipafilo.unimi.it/",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "geo": [
+    45.46,
+    9.194
+   ],
+   "zona": "Centro",
+   "id": "e417",
+   "key": "2026-12-03-rossella-fabbrichesi-ermeneutica-del-soggetto-at",
+   "moods": [
+    "dentro",
+    "gente",
+    "pensare"
+   ]
+  },
+  {
+   "date": "2026-12-03",
    "time": "18:00",
    "title": "L'angelo ribelle e il Dio geloso",
    "venue": "Teatro alla Scala",
@@ -6299,6 +6460,28 @@
     9.1835
    ],
    "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "19:00",
+   "title": "Le sussurratrici, con Giulia Paganelli e Carlotta Cossutta",
+   "venue": "Libreria Verso (corso di Porta Ticinese 40)",
+   "cat": "talk",
+   "desc": "Presentazione del libro (Edizioni E/O).",
+   "url": "https://www.libreriaverso.com/appuntamenti/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "geo": [
+    45.4565,
+    9.1815
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio",
+   "id": "e418",
+   "key": "2026-12-03-le-sussurratrici-con-giulia-paganelli-e-carlotta",
+   "moods": [
+    "pensare"
+   ]
   },
   {
    "date": "2026-12-03",
@@ -6478,6 +6661,28 @@
     9.1918
    ],
    "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "18:00",
+   "title": "L'opera all'opera: l'Otello di Verdi raccontato da Enrico Reggiani",
+   "venue": "Casa della Cultura (via Borgogna 3)",
+   "cat": "classica",
+   "desc": "Lezione sull'Otello del 1887 a pochi giorni dalla Prima della Scala. Anche in streaming.",
+   "url": "https://www.casadellacultura.it/",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "e419",
+   "key": "2026-12-04-l-opera-all-opera-l-otello-di-verdi-raccontato-d",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4655,
+    9.199
+   ],
+   "zona": "Centro"
   },
   {
    "date": "2026-12-04",
@@ -6937,6 +7142,31 @@
   },
   {
    "date": "2026-12-07",
+   "time": "17:00",
+   "title": "Prima Diffusa: Otello in diretta con la guida all'ascolto di Carlo Boccadoro",
+   "venue": "Fondazione Feltrinelli (viale Pasubio 5)",
+   "cat": "classica",
+   "desc": "Proiezione della Prima della Scala (regia di Damiano Michieletto) introdotta dal compositore Carlo Boccadoro. Ingresso libero, prenotazione consigliata.",
+   "url": "https://fondazionefeltrinelli.it/partecipa/prima-diffusa-2026-in-fondazione-feltrinelli/",
+   "free": true,
+   "tags": [
+    "imperdibile"
+   ],
+   "verify": false,
+   "why": "La Prima della Scala senza smoking né biglietto: la si guarda insieme, con qualcuno che ti spiega cosa stai ascoltando.",
+   "id": "e420",
+   "key": "2026-12-07-prima-diffusa-otello-in-diretta-con-la-guida-all",
+   "moods": [
+    "emozionarmi"
+   ],
+   "geo": [
+    45.4825,
+    9.184
+   ],
+   "zona": "Brera · Garibaldi · Isola"
+  },
+  {
+   "date": "2026-12-07",
    "time": "18:00",
    "title": "Otello: la Prima della Scala",
    "venue": "Teatro alla Scala",
@@ -7069,6 +7299,29 @@
     9.1735
    ],
    "zona": "Sempione · CityLife"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "19:00",
+   "title": "Il book club di Senza Rossetto: Pecorelle smarrite di Madeline Cash",
+   "venue": "Libreria Verso (corso di Porta Ticinese 40)",
+   "cat": "talk",
+   "desc": "Con Giulia Cuter, Giulia Perona e Ludovica Lugli: si discute del libro tutti insieme.",
+   "url": "https://www.libreriaverso.com/appuntamenti/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "geo": [
+    45.4565,
+    9.1815
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio",
+   "moods": [
+    "gente",
+    "pensare"
+   ],
+   "id": "e421",
+   "key": "2026-12-09-il-book-club-di-senza-rossetto-pecorelle-smarrit"
   },
   {
    "date": "2026-12-09",
@@ -7272,6 +7525,30 @@
     9.156
    ],
    "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "21:00",
+   "title": "Emma Bonino: Europa è patria. Scegliamo: forti o sovranisti?",
+   "venue": "Casa della Cultura (via Borgogna 3)",
+   "cat": "geo",
+   "desc": "Presentazione del libro con Emma Bonino. Anche in streaming.",
+   "url": "https://www.casadellacultura.it/",
+   "free": true,
+   "tags": [
+    "imperdibile"
+   ],
+   "verify": false,
+   "id": "e422",
+   "key": "2026-12-09-emma-bonino-europa-e-patria-scegliamo-forti-o-so",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4655,
+    9.199
+   ],
+   "zona": "Centro"
   },
   {
    "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
@@ -7497,6 +7774,28 @@
    "zona": "Porta Romana · Vittoria"
   },
   {
+   "date": "2026-12-10",
+   "time": "",
+   "title": "Verso Cinema: Lynchiano, con John Higgs, Roberto Manassero e Alessandro Beretta",
+   "venue": "Libreria Verso (corso di Porta Ticinese 40)",
+   "cat": "cinema",
+   "desc": "Presentazione del libro su David Lynch (Nottetempo). Orario sul sito della libreria.",
+   "url": "https://www.libreriaverso.com/appuntamenti/",
+   "free": null,
+   "tags": [],
+   "verify": true,
+   "geo": [
+    45.4565,
+    9.1815
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio",
+   "id": "e423",
+   "key": "2026-12-10-verso-cinema-lynchiano-con-john-higgs-roberto-ma",
+   "moods": [
+    "emozionarmi"
+   ]
+  },
+  {
    "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
    "tags": [],
    "verify": false,
@@ -7540,6 +7839,29 @@
     9.208
    ],
    "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-11",
+   "time": "19:00",
+   "title": "Supernova book club: Il tempo e l'acqua di Andri Snær Magnason",
+   "venue": "Libreria Verso (corso di Porta Ticinese 40)",
+   "cat": "scienza",
+   "desc": "Gruppo di lettura sul clima con Gaia Tarini e Ferdinando Cotugno (Iperborea).",
+   "url": "https://www.libreriaverso.com/appuntamenti/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "geo": [
+    45.4565,
+    9.1815
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio",
+   "moods": [
+    "gente",
+    "pensare"
+   ],
+   "id": "e424",
+   "key": "2026-12-11-supernova-book-club-il-tempo-e-l-acqua-di-andri-"
   },
   {
    "date": "2026-12-11",
@@ -7840,6 +8162,28 @@
   },
   {
    "date": "2026-12-12",
+   "time": "18:30",
+   "title": "Spettrogramma book club: Retromania di Simon Reynolds",
+   "venue": "Libreria Verso (corso di Porta Ticinese 40)",
+   "cat": "jazz",
+   "desc": "Gruppo di lettura sulla musica pop e la nostalgia (minimum fax).",
+   "url": "https://www.libreriaverso.com/appuntamenti/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "geo": [
+    45.4565,
+    9.1815
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio",
+   "moods": [
+    "gente"
+   ],
+   "id": "e425",
+   "key": "2026-12-12-spettrogramma-book-club-retromania-di-simon-reyn"
+  },
+  {
+   "date": "2026-12-12",
    "time": "19:00",
    "title": "Bullet Catch",
    "venue": "Teatro Franco Parenti (via Pier Lombardo 14)",
@@ -8038,6 +8382,28 @@
     9.156
    ],
    "zona": "Navigli · Tortona · S. Ambrogio"
+  },
+  {
+   "date": "2026-12-13",
+   "time": "15:00",
+   "title": "La Traversata: la Fondazione Feltrinelli apre le porte alla città",
+   "venue": "Fondazione Feltrinelli (viale Pasubio 5)",
+   "cat": "storia",
+   "desc": "Dalle 15 alle 18 un pomeriggio aperto: spazi, archivi, pubblicazioni, parole, musica e immagini. Ingresso libero e gratuito.",
+   "url": "https://fondazionefeltrinelli.it/partecipa/la-traversata/",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "id": "e426",
+   "key": "2026-12-13-la-traversata-la-fondazione-feltrinelli-apre-le-",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.4825,
+    9.184
+   ],
+   "zona": "Brera · Garibaldi · Isola"
   },
   {
    "date": "2026-12-13",
@@ -8282,6 +8648,28 @@
     9.208
    ],
    "zona": "Porta Romana · Vittoria"
+  },
+  {
+   "date": "2026-12-15",
+   "time": "19:00",
+   "title": "Uno spritz con: Alfabeto milanese, con Alberto Saibene ed Emi Ligabue",
+   "venue": "Libreria Verso (corso di Porta Ticinese 40)",
+   "cat": "storia",
+   "desc": "Milano raccontata in ordine alfabetico, con firmacopie e uno spritz (Casagrande).",
+   "url": "https://www.libreriaverso.com/appuntamenti/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "geo": [
+    45.4565,
+    9.1815
+   ],
+   "zona": "Navigli · Tortona · S. Ambrogio",
+   "moods": [
+    "gente"
+   ],
+   "id": "e427",
+   "key": "2026-12-15-uno-spritz-con-alfabeto-milanese-con-alberto-sai"
   },
   {
    "date": "2026-12-15",

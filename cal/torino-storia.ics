@@ -27,9 +27,9 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-12-09-festival-del-classico-alberto-angela-apre-polite@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261209T210000
+DTEND;TZID=Europe/Rome:20261209T230000
 SUMMARY:Festival del Classico: Alberto Angela apre Politeia/Convivenze
 LOCATION:Conservatorio Giuseppe Verdi (piazza Bodoni)
 DESCRIPTION:Duemila anni dopo Cesare\, la domanda è la stessa: come si viv
@@ -39,6 +39,125 @@ DESCRIPTION:Duemila anni dopo Cesare\, la domanda è la stessa: come si viv
  li/2026/11/18/festival-classico-lxum4/
 URL:https://www.sbircialanotizia.it/articoli/2026/11/18/festival-classico-l
  xum4/
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-festival-del-classico-la-convivenza-difficile-ba@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261211T160000
+DTEND;TZID=Europe/Rome:20261211T180000
+SUMMARY:Festival del Classico: La convivenza difficile: barbari e no
+LOCATION:il Circolo dei lettori (via Bogino 9)
+DESCRIPTION:Con Mario Lentano (Università di Siena) e Raffaella Siracusa (
+ Università di Torino): stranieri e barbari nel mondo antico. https://www.
+ mentelocale.it/torino/148410-convivenza-difficile-barbari-no.htm
+URL:https://www.mentelocale.it/torino/148410-convivenza-difficile-barbari-n
+ o.htm
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-festival-del-classico-aldo-schiavone-la-res-publ@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261211T163000
+DTEND;TZID=Europe/Rome:20261211T183000
+SUMMARY:Festival del Classico: Aldo Schiavone\, la res publica romana fra r
+ ealtà e miti
+LOCATION:il Circolo dei lettori (via Bogino 9)
+DESCRIPTION:Lo storico racconta la repubblica romana tra quello che fu e qu
+ ello che ne abbiamo immaginato. https://www.mentelocale.it/torino/148423-r
+ es-publica-romana-realta-miti-antichi-moderni.htm
+URL:https://www.mentelocale.it/torino/148423-res-publica-romana-realta-miti
+ -antichi-moderni.htm
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-festival-del-classico-il-teatro-e-la-crisi-di-at@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261211T170000
+DTEND;TZID=Europe/Rome:20261211T190000
+SUMMARY:Festival del Classico: Il teatro e la crisi di Atene
+LOCATION:il Circolo dei lettori (via Bogino 9)
+DESCRIPTION:Con Federico Condello (Università di Bologna) e Walter Lapini 
+ (Università di Genova). https://www.mentelocale.it/torino/148408-teatro-c
+ risi-atene.htm
+URL:https://www.mentelocale.it/torino/148408-teatro-crisi-atene.htm
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-festival-del-classico-agostino-l-africano-uno-sg@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261211T180000
+DTEND;TZID=Europe/Rome:20261211T200000
+SUMMARY:Festival del Classico: Agostino l'africano: uno sguardo decentrato 
+ sulla crisi dell'Impero
+LOCATION:il Circolo dei lettori (via Bogino 9)
+DESCRIPTION:Con Catherine Conybeare (Bryn Mawr College) e Giuseppe Pezzini 
+ (Oxford)\; modera Armando Buonaiuto. https://www.mentelocale.it/torino/148
+ 406-agostino-africano-sguardo-decentrato-crisi-impero-romano.htm
+URL:https://www.mentelocale.it/torino/148406-agostino-africano-sguardo-dece
+ ntrato-crisi-impero-romano.htm
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-festival-del-classico-seneca-e-il-tiranno@acculturiamoci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261212T113000
+DTEND;TZID=Europe/Rome:20261212T133000
+SUMMARY:Festival del Classico: Seneca e il Tiranno
+LOCATION:il Circolo dei lettori (via Bogino 9)
+DESCRIPTION:Con Gianpiero Rosati (Scuola Normale) e Federica Bessone (Unive
+ rsità di Torino). https://www.mentelocale.it/torino/148411-seneca-tiranno
+ .htm
+URL:https://www.mentelocale.it/torino/148411-seneca-tiranno.htm
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-festival-del-classico-come-nasce-una-repubblica@acculturiamo
+ ci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261212T153000
+DTEND;TZID=Europe/Rome:20261212T173000
+SUMMARY:Festival del Classico: Come nasce una Repubblica
+LOCATION:il Circolo dei lettori (via Bogino 9)
+DESCRIPTION:Con Alfonso Celotto (Roma Tre) e Giulia Guerrini\, a partire da
+ l libro Viva il Re! Viva la Repubblica! https://www.mentelocale.it/torino/
+ 148407-come-nasce-repubblica.htm
+URL:https://www.mentelocale.it/torino/148407-come-nasce-repubblica.htm
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-festival-del-classico-luciano-bossina-come-in-ci@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261212T160000
+DTEND;TZID=Europe/Rome:20261212T180000
+SUMMARY:Festival del Classico: Luciano Bossina\, Come in cielo così in ter
+ ra
+LOCATION:il Circolo dei lettori (via Bogino 9)
+DESCRIPTION:L'uomo antico tra due cittadinanze. https://www.mentelocale.it/
+ torino/148416-come-cielo-cosi-terra-uomo-antico-due-cittadinanze.htm
+URL:https://www.mentelocale.it/torino/148416-come-cielo-cosi-terra-uomo-ant
+ ico-due-cittadinanze.htm
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-festival-del-classico-politeia-e-convivenze-il-m@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261213T170000
+DTEND;TZID=Europe/Rome:20261213T190000
+SUMMARY:Festival del Classico: Politeia e convivenze: il maschile e il femm
+ inile nel mondo antico
+LOCATION:il Circolo dei lettori (via Bogino 9)
+DESCRIPTION:Con Laura Pepe (autrice di Storia non convenzionale delle donne
+  di Grecia) e Marco Bonini. https://www.mentelocale.it/torino/148425-polit
+ eia-convivenze-ripensare-maschile-femminile-mondo-antico.htm
+URL:https://www.mentelocale.it/torino/148425-politeia-convivenze-ripensare-
+ maschile-femminile-mondo-antico.htm
 CATEGORIES:Arte e storia
 END:VEVENT
 END:VCALENDAR

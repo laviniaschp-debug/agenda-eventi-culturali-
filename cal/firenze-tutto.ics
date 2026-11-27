@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-25-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261125T190000
 DTEND;TZID=Europe/Rome:20261125T210000
 SUMMARY:Lo Zar\, di e con Stefano Massini
@@ -42,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-la-liberta-di-essere-teatro-e-arte-contro-la-vio@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261125T200000
 DTEND;TZID=Europe/Rome:20261125T220000
 SUMMARY:La libertà di essere: teatro e arte contro la violenza sulle donne
@@ -59,7 +59,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-ivan-e-i-cani-con-federica-rosellini@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261125T210000
 DTEND;TZID=Europe/Rome:20261125T230000
 SUMMARY:Ivan e i cani\, con Federica Rosellini
@@ -74,7 +74,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-che-fai-tu-luna-in-ciel-leopardi-e-il-cielo@acculturiamoci.i
  t
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Che fai tu\, Luna\, in ciel? Leopardi e il cielo
@@ -86,7 +86,7 @@ CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261126T190000
 DTEND;TZID=Europe/Rome:20261126T210000
 SUMMARY:Lo Zar\, di e con Stefano Massini
@@ -102,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-la-musica-del-mio-picchio-presentazione-con-lett@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261127T170000
 DTEND;TZID=Europe/Rome:20261127T190000
 SUMMARY:La musica del mio picchio: presentazione con letture
@@ -116,9 +116,25 @@ URL:https://cultura.comune.fi.it/system/files/2026-09/web-a5-programma_Dial
 CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-micromega-i-nuovi-padroni-del-mondo-oligarchie-d@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261127T173000
+DTEND;TZID=Europe/Rome:20261127T193000
+SUMMARY:MicroMega: I nuovi padroni del mondo. Oligarchie digitali e democra
+ zie sotto scacco
+LOCATION:Biblioteca delle Oblate\, Sala Sibilla Aleramo (via dell'Oriuolo 2
+ 4)
+DESCRIPTION:Leggere per non dimenticare: con Cinzia Sciuto\, Luca De Biase 
+ e Roberto Seghetti\; letture di Massimo Tarducci. https://www.leggereperno
+ ndimenticare.com/
+URL:https://www.leggerepernondimenticare.com/
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-limes-la-tempesta-americana-e-la-fine-dei-tabu@acculturiamoc
  i.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261127T180000
 DTEND;TZID=Europe/Rome:20261127T200000
 SUMMARY:Limes: la tempesta americana e la fine dei tabù
@@ -135,7 +151,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-le-cose-che-portiamo-con-noi-storie-e-letture@acculturiamoci
  .it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261127T183000
 DTEND;TZID=Europe/Rome:20261127T203000
 SUMMARY:Le cose che portiamo con noi: storie e letture
@@ -151,7 +167,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-da-notre-dame-a-santa-croce-vincent-dubois-all-o@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261127T210000
 DTEND;TZID=Europe/Rome:20261127T230000
 SUMMARY:Da Notre-Dame a Santa Croce: Vincent Dubois all'organo
@@ -169,7 +185,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Lo Zar\, di e con Stefano Massini
@@ -184,7 +200,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-vent-anni-di-fondazione-palazzo-strozzi@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Vent'anni di Fondazione Palazzo Strozzi
@@ -197,7 +213,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-limes-il-mondo-ingolfato@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261128T103000
 DTEND;TZID=Europe/Rome:20261128T123000
 SUMMARY:Limes: il mondo ingolfato
@@ -213,7 +229,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-lukas-sternath-pianoforte@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261128T160000
 DTEND;TZID=Europe/Rome:20261128T180000
 SUMMARY:Lukas Sternath\, pianoforte
@@ -226,7 +242,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-limes-ucraina-anno-zero@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261128T163000
 DTEND;TZID=Europe/Rome:20261128T183000
 SUMMARY:Limes: Ucraina anno zero
@@ -243,7 +259,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-limes-l-italia-nell-arco-delle-crisi-con-alessan@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Limes: l'Italia nell'arco delle crisi\, con Alessandro Aresu
@@ -260,7 +276,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-l-analfabeta-federica-fracassi-e-agota-kristof@acculturiamoc
  i.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261128T203000
 DTEND;TZID=Europe/Rome:20261128T223000
 SUMMARY:L'analfabeta: Federica Fracassi è Agota Kristof
@@ -275,7 +291,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261128T203000
 DTEND;TZID=Europe/Rome:20261128T223000
 SUMMARY:Lo Zar\, di e con Stefano Massini
@@ -290,7 +306,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-caccia-l-drago-di-daniele-timpano@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261128T213000
 DTEND;TZID=Europe/Rome:20261128T233000
 SUMMARY:Caccia 'l Drago\, di Daniele Timpano
@@ -303,7 +319,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-christophe-rousset-al-teatro-del-maggio@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Christophe Rousset al Teatro del Maggio
@@ -316,7 +332,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-reading-party-si-legge-insieme-senza-telefono@acculturiamoci
  .it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261129T170000
 DTEND;TZID=Europe/Rome:20261129T190000
 SUMMARY:Reading Party: si legge insieme\, senza telefono
@@ -333,7 +349,7 @@ CATEGORIES:Silent reading
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-caccia-l-drago-di-daniele-timpano@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261129T184500
 DTEND;TZID=Europe/Rome:20261129T204500
 SUMMARY:Caccia 'l Drago\, di Daniele Timpano
@@ -347,7 +363,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-figlie-del-secolo-cento-anni-negli-sguardi-delle@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261129T210000
 DTEND;TZID=Europe/Rome:20261129T230000
 SUMMARY:Figlie del secolo\, cento anni negli sguardi delle donne
@@ -361,7 +377,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Lo Zar\, di e con Stefano Massini
@@ -377,7 +393,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-the-dark-side-of-the-light-l-inquinamento-lumino@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:The Dark Side of the... Light: l'inquinamento luminoso
@@ -390,7 +406,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-alluvione-di-firenze-60-anni-dopo-foto-e-video-i@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Alluvione di Firenze\, 60 anni dopo: foto e video inediti
@@ -402,8 +418,21 @@ URL:https://www.lemurate.it/eventi/
 CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-01-premio-carlo-betocchi-citta-di-firenze-la-cerimo@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261201T170000
+DTEND;TZID=Europe/Rome:20261201T190000
+SUMMARY:Premio Carlo Betocchi – Città di Firenze: la cerimonia
+LOCATION:Palazzo Bastogi\, Sala delle Feste (via Cavour 18)
+DESCRIPTION:XXV edizione del premio di poesia del Gabinetto Vieusseux. http
+ s://www.vieusseux.it/luogo/giardino-delle-rose/
+URL:https://www.vieusseux.it/luogo/giardino-delle-rose/
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-01-paolo-ciampi-liberta-delle-panchine@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261201T183000
 DTEND;TZID=Europe/Rome:20261201T203000
 SUMMARY:Paolo Ciampi: Libertà delle panchine
@@ -417,7 +446,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-anna-prohaska-e-isabelle-faust@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Anna Prohaska e Isabelle Faust
@@ -429,7 +458,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Lo Zar\, di e con Stefano Massini
@@ -443,9 +472,22 @@ URL:https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-s
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-02-contempoartensemble-okawango-conversazione-e-con@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261202T173000
+DTEND;TZID=Europe/Rome:20261202T193000
+SUMMARY:ContempoartEnsemble: Okawango\, conversazione e concerto
+LOCATION:Gabinetto Vieusseux\, Palazzo Strozzi\, Sala Ferri
+DESCRIPTION:XXIII Festival del ContempoartEnsemble: gli artisti raccontano 
+ e suonano. https://www.vieusseux.it/luogo/giardino-delle-rose/
+URL:https://www.vieusseux.it/luogo/giardino-delle-rose/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-02-ricordando-ernesto-ragionieri-cento-anni-dopo@acculturiamoci
  .it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261202T173000
 DTEND;TZID=Europe/Rome:20261202T193000
 SUMMARY:Ricordando Ernesto Ragionieri\, cento anni dopo
@@ -461,7 +503,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-ricostruire-il-passato-visita-speciale-alla-most@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261202T180000
 DTEND;TZID=Europe/Rome:20261202T200000
 SUMMARY:Ricostruire il passato: visita speciale alla mostra Broken
@@ -475,7 +517,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261202T190000
 DTEND;TZID=Europe/Rome:20261202T210000
 SUMMARY:Lo Zar\, di e con Stefano Massini
@@ -490,7 +532,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-il-cielo-del-mese@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Il cielo del mese
@@ -501,8 +543,51 @@ URL:https://www.mentelocale.it/firenze/
 CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-03-oltre-il-manicomio-dentro-la-persona-dialogo-su-@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261203T170000
+DTEND;TZID=Europe/Rome:20261203T190000
+SUMMARY:Oltre il manicomio\, dentro la persona: dialogo su San Salvi
+LOCATION:Biblioteca Mario Luzi (via Ugo Schiff 8)
+DESCRIPTION:Rosaria Magni presenta San Salvi. Una nuova esperienza\, con Ve
+ ronica Boldi. Ingresso libero. https://quartieri.comune.fi.it/dalle-redazi
+ oni/dicembre-2026-alle-biblioteche-del-quartiere-2
+URL:https://quartieri.comune.fi.it/dalle-redazioni/dicembre-2026-alle-bibli
+ oteche-del-quartiere-2
+CATEGORIES:Psiche e salute
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-raccontare-il-racconto-francesco-colella-legge-t@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261203T173000
+DTEND;TZID=Europe/Rome:20261203T193000
+SUMMARY:Raccontare il racconto: Francesco Colella legge Tomasi di Lampedusa
+LOCATION:Gabinetto Vieusseux\, Palazzo Strozzi\, Sala Ferri
+DESCRIPTION:Voci del Novecento italiano\, ciclo a cura di Federico Tiezzi e
+  Sandro Lombardi. https://www.vieusseux.it/luogo/giardino-delle-rose/
+URL:https://www.vieusseux.it/luogo/giardino-delle-rose/
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-giochi-e-legami-sociali-serata-di-giochi-da-tavo@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261203T190000
+DTEND;TZID=Europe/Rome:20261203T210000
+SUMMARY:Giochi e legami sociali: serata di giochi da tavolo
+LOCATION:Spazio Co-Stanza (via Ponte alle Mosse 32/38r)
+DESCRIPTION:Dialoghi urbani: si gioca insieme con duepunti APS. Prenotazion
+ e: duepuntiassociazione@gmail.com https://cultura.comune.fi.it/system/file
+ s/2026-09/web-a5-programma_Dialoghi-urbani_2026_programma.pdf
+URL:https://cultura.comune.fi.it/system/files/2026-09/web-a5-programma_Dial
+ oghi-urbani_2026_programma.pdf
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-03-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261203T190000
 DTEND;TZID=Europe/Rome:20261203T210000
 SUMMARY:Lo Zar\, di e con Stefano Massini
@@ -518,7 +603,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-specchio-riflesso-conferenza-spettacolo-di-luca-@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261203T190000
 DTEND;TZID=Europe/Rome:20261203T210000
 SUMMARY:Specchio riflesso: conferenza-spettacolo di Luca Scarlini
@@ -534,7 +619,7 @@ CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-open-mic-stand-up-comedy-night@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261204T210000
 DTEND;TZID=Europe/Rome:20261204T230000
 SUMMARY:Open Mic: Stand Up Comedy Night
@@ -549,7 +634,7 @@ CATEGORIES:Stand-up comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Lo Zar\, di e con Stefano Massini
@@ -565,7 +650,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-tu-mi-sognavi-io-non-dormivo-achmatova-e-modigli@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Tu mi sognavi\, io non dormivo: Achmatova e Modigliani
@@ -580,7 +665,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-woke-cancel-culture-e-decolonizzazione@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261205T110000
 DTEND;TZID=Europe/Rome:20261205T130000
 SUMMARY:Woke\, cancel culture e decolonizzazione
@@ -597,7 +682,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-reading-alla-living-il-romanzo-lo-sceglie-il-pub@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261205T190000
 DTEND;TZID=Europe/Rome:20261205T210000
 SUMMARY:Reading alla Living: il romanzo lo sceglie il pubblico
@@ -612,7 +697,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261205T203000
 DTEND;TZID=Europe/Rome:20261205T223000
 SUMMARY:Lo Zar\, di e con Stefano Massini
@@ -627,7 +712,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-arsenii-moon-pianoforte@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Arsenii Moon\, pianoforte
@@ -639,7 +724,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-concerto-di-natale-al-teatro-del-maggio@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261206T180000
 DTEND;TZID=Europe/Rome:20261206T200000
 SUMMARY:Concerto di Natale al Teatro del Maggio
@@ -651,7 +736,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-emanuele-arciuli-pianoforte@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Emanuele Arciuli\, pianoforte
@@ -663,7 +748,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-lo-zar-di-e-con-stefano-massini@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Lo Zar\, di e con Stefano Massini
@@ -677,8 +762,50 @@ URL:https://www.firenzemadeintuscany.com/it/articolo/teatro-della-pergola-s
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-10-l-amore-e-le-sue-forme-racconti-letti-ad-alta-vo@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261210T173000
+DTEND;TZID=Europe/Rome:20261210T193000
+SUMMARY:L'amore e le sue forme: racconti letti ad alta voce
+LOCATION:Biblioteca Mario Luzi (via Ugo Schiff 8)
+DESCRIPTION:Un anno di racconti\, con il Collettivo Darsi Voce. Ingresso li
+ bero. https://quartieri.comune.fi.it/dalle-redazioni/dicembre-2026-alle-bi
+ blioteche-del-quartiere-2
+URL:https://quartieri.comune.fi.it/dalle-redazioni/dicembre-2026-alle-bibli
+ oteche-del-quartiere-2
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-raccontare-il-racconto-federico-tiezzi-legge-sil@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261210T173000
+DTEND;TZID=Europe/Rome:20261210T193000
+SUMMARY:Raccontare il racconto: Federico Tiezzi legge Silvio D'Arzo
+LOCATION:Gabinetto Vieusseux\, Palazzo Strozzi\, Sala Ferri
+DESCRIPTION:Voci del Novecento italiano al Gabinetto Vieusseux. https://www
+ .vieusseux.it/luogo/giardino-delle-rose/
+URL:https://www.vieusseux.it/luogo/giardino-delle-rose/
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-letture-migranti-jallow-s-story@acculturiamoci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261211T173000
+DTEND;TZID=Europe/Rome:20261211T193000
+SUMMARY:Letture migranti: Jallow's story
+LOCATION:Biblioteca Mario Luzi (via Ugo Schiff 8)
+DESCRIPTION:Ludovico Fededegni legge una storia dai diari migranti DiMMi\, 
+ con Riccardo Massai. Ingresso libero. https://quartieri.comune.fi.it/dalle
+ -redazioni/dicembre-2026-alle-biblioteche-del-quartiere-2
+URL:https://quartieri.comune.fi.it/dalle-redazioni/dicembre-2026-alle-bibli
+ oteche-del-quartiere-2
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-14-jonathan-canini-te-lo-giuro-sul-tuo-ex@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261214T210000
 DTEND;TZID=Europe/Rome:20261214T230000
 SUMMARY:Jonathan Canini: Te lo giuro sul tuo ex
@@ -691,7 +818,7 @@ CATEGORIES:Stand-up comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-jonathan-canini-te-lo-giuro-sul-tuo-ex@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261215T210000
 DTEND;TZID=Europe/Rome:20261215T230000
 SUMMARY:Jonathan Canini: Te lo giuro sul tuo ex
@@ -704,7 +831,7 @@ CATEGORIES:Stand-up comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-death-cafe-al-conventino@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261216T100000
 DTEND;TZID=Europe/Rome:20261216T120000
 SUMMARY:Death Cafe al Conventino
@@ -717,9 +844,25 @@ URL:https://ma.to/event/death-cafe-al-conventino-16-dec-2026
 CATEGORIES:Psiche e salute
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-16-conversazioni-musicali-i-racconti-di-hoffmann-di@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261216T163000
+DTEND;TZID=Europe/Rome:20261216T183000
+SUMMARY:Conversazioni musicali: I racconti di Hoffmann di Offenbach
+LOCATION:Biblioteca Mario Luzi (via Ugo Schiff 8)
+DESCRIPTION:Guida all'opera in scena al Maggio dal 20 dicembre\, con gli Am
+ ici del Teatro del Maggio. Gratuito\, prenotazione consigliata. https://qu
+ artieri.comune.fi.it/dalle-redazioni/dicembre-2026-alle-biblioteche-del-qu
+ artiere-2
+URL:https://quartieri.comune.fi.it/dalle-redazioni/dicembre-2026-alle-bibli
+ oteche-del-quartiere-2
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-16-ricostruire-il-passato-visita-speciale-alla-most@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261216T180000
 DTEND;TZID=Europe/Rome:20261216T200000
 SUMMARY:Ricostruire il passato: visita speciale alla mostra Broken
@@ -733,7 +876,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-canto-gregoriano-a-santa-croce-christus-natus-es@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261216T203000
 DTEND;TZID=Europe/Rome:20261216T223000
 SUMMARY:Canto gregoriano a Santa Croce: Christus natus est nobis
@@ -745,5 +888,32 @@ DESCRIPTION:Il Coro Viri Galilaei diretto da Enzo Ventroni canta vespri e b
 URL:https://www.destinationflorence.com/it/eventi/canto-gregoriano-nella-ba
  silica-di-santa-croce-coro-viri-galilaei
 CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-i-tempieri-di-firenze-i-templari-in-citta@acculturiamoci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261217T170000
+DTEND;TZID=Europe/Rome:20261217T190000
+SUMMARY:I Tempieri di Firenze: i Templari in città
+LOCATION:Biblioteca Mario Luzi (via Ugo Schiff 8)
+DESCRIPTION:Mario Pagni e Chiara Sacchetti presentano il libro. Ingresso li
+ bero. https://quartieri.comune.fi.it/dalle-redazioni/dicembre-2026-alle-bi
+ blioteche-del-quartiere-2
+URL:https://quartieri.comune.fi.it/dalle-redazioni/dicembre-2026-alle-bibli
+ oteche-del-quartiere-2
+CATEGORIES:Arte e storia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-raccontare-il-racconto-sandro-lombardi-legge-dar@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261217T173000
+DTEND;TZID=Europe/Rome:20261217T193000
+SUMMARY:Raccontare il racconto: Sandro Lombardi legge Dario Fo
+LOCATION:Gabinetto Vieusseux\, Palazzo Strozzi\, Sala Ferri
+DESCRIPTION:Ultimo appuntamento di dicembre con le Voci del Novecento itali
+ ano. https://www.vieusseux.it/luogo/giardino-delle-rose/
+URL:https://www.vieusseux.it/luogo/giardino-delle-rose/
+CATEGORIES:Incontri e talk
 END:VEVENT
 END:VCALENDAR

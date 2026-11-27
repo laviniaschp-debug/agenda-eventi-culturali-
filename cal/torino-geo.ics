@@ -24,4 +24,34 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-09-anna-mastromarino-la-costituzione-a-pezzi@acculturiamoci.it
+DTSTAMP:20261127T080214Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Anna Mastromarino: La Costituzione a pezzi
+LOCATION:Sala Molinari\, Biblioteca Natalia Ginzburg (via Lombroso 16)
+DESCRIPTION:Come cambiare la nostra Carta restando antifascisti (Bollati Bo
+ ringhieri). https://bct.comune.torino.it/eventi-attivita/la-costituzione-a
+ -pezzi-come-cambiare-la-nostra-carta-restando-antifascisti
+URL:https://bct.comune.torino.it/eventi-attivita/la-costituzione-a-pezzi-co
+ me-cambiare-la-nostra-carta-restando-antifascisti
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-festival-del-classico-l-iran-poliedrico-conviven@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261212T103000
+DTEND;TZID=Europe/Rome:20261212T123000
+SUMMARY:Festival del Classico: L'Iran poliedrico: convivenze di ieri e di o
+ ggi
+LOCATION:il Circolo dei lettori (via Bogino 9)
+DESCRIPTION:Con Chiara Barbati (Università di Pisa) e Farian Sabahi. https
+ ://www.mentelocale.it/torino/148409-iran-poliedrico-racconti-convivenze-ie
+ ri-oggi.htm
+URL:https://www.mentelocale.it/torino/148409-iran-poliedrico-racconti-convi
+ venze-ieri-oggi.htm
+CATEGORIES:Geopolitica
+END:VEVENT
 END:VCALENDAR

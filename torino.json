@@ -3,7 +3,7 @@
   "2026-11-26",
   "2026-12-22"
  ],
- "updated": "2026-11-26T10:00:00+01:00",
+ "updated": "2026-11-27T09:00:00+01:00",
  "events": [
   {
    "date": "2026-11-26",
@@ -98,6 +98,28 @@
    "zona": "Quadrilatero · Porta Palazzo"
   },
   {
+   "date": "2026-11-30",
+   "time": "",
+   "title": "Stefano Belingardi: Storie di Beaulard. L'attesa del Natale",
+   "venue": "Biblioteca civica Passerin d'Entrèves (via Guido Reni 102)",
+   "cat": "talk",
+   "desc": "Incontro con l'autore in biblioteca.",
+   "url": "https://bct.comune.torino.it/eventi-attivita/storie-di-beaulard-lattesa-del-natale",
+   "free": true,
+   "tags": [],
+   "verify": true,
+   "geo": [
+    45.0335,
+    7.618
+   ],
+   "zona": "Fuori centro",
+   "id": "t033",
+   "key": "2026-11-30-stefano-belingardi-storie-di-beaulard-l-attesa-d",
+   "moods": [
+    "pensare"
+   ]
+  },
+  {
    "date": "2026-12-01",
    "time": "21:00",
    "title": "Donatella Di Pietrantonio: Lasciarsi tardi",
@@ -113,6 +135,28 @@
    "why": "Una storia su cosa resta di noi quando un amore lungo finisce.",
    "id": "t004",
    "key": "2026-12-01-donatella-di-pietrantonio-lasciarsi-tardi",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.0668,
+    7.6881
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "18:00",
+   "title": "MicroMega: presentazione del numero dedicato allo sport",
+   "venue": "il Circolo dei lettori (via Bogino 9)",
+   "cat": "talk",
+   "desc": "La rivista presenta il volume 6/2026.",
+   "url": "https://micromega.substack.com/p/prossimi-appuntamenti-firenze-e-torino",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "t016",
+   "key": "2026-12-02-micromega-presentazione-del-numero-dedicato-allo",
    "moods": [
     "pensare"
    ],
@@ -145,6 +189,28 @@
    "zona": "Centro"
   },
   {
+   "date": "2026-12-02",
+   "time": "",
+   "title": "Il linguaggio sonoro delle cellule: Domenico Sciajno con Rossana Becarelli",
+   "venue": "Biblioteca civica Villa Amoretti (corso Orbassano 200)",
+   "cat": "scienza",
+   "desc": "Suono e biologia in dialogo, in biblioteca.",
+   "url": "https://bct.comune.torino.it/eventi-attivita/il-linguaggio-sonoro-delle-cellule",
+   "free": true,
+   "tags": [],
+   "verify": true,
+   "geo": [
+    45.044,
+    7.642
+   ],
+   "zona": "Fuori centro",
+   "id": "t034",
+   "key": "2026-12-02-il-linguaggio-sonoro-delle-cellule-domenico-scia",
+   "moods": [
+    "pensare"
+   ]
+  },
+  {
    "date": "2026-12-03",
    "time": "20:30",
    "title": "OSN Rai: Daniele Rustioni e Roman Simovic",
@@ -165,6 +231,28 @@
     7.6948
    ],
    "zona": "Centro"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "",
+   "title": "Leggermente incontra Anna Pavignano: La ragazza soldato",
+   "venue": "Biblioteca civica Cesare Pavese (via Candiolo 79)",
+   "cat": "talk",
+   "desc": "La sceneggiatrice e scrittrice presenta il romanzo (Piemme, 2026).",
+   "url": "https://bct.comune.torino.it/eventi-attivita/leggermente-incontra-anna-pavignano",
+   "free": true,
+   "tags": [],
+   "verify": true,
+   "geo": [
+    45.0245,
+    7.6265
+   ],
+   "zona": "Fuori centro",
+   "id": "t035",
+   "key": "2026-12-03-leggermente-incontra-anna-pavignano-la-ragazza-s",
+   "moods": [
+    "pensare"
+   ]
   },
   {
    "date": "2026-12-04",
@@ -189,8 +277,59 @@
    "zona": "Centro"
   },
   {
-   "date": "2026-12-09",
+   "date": "2026-12-05",
    "time": "",
+   "title": "Poesia in biblioteca: Angela Donna, Clochard. Poesie senza dimora",
+   "venue": "Sala Molinari, Biblioteca Natalia Ginzburg (via Lombroso 16)",
+   "cat": "talk",
+   "desc": "Reading e incontro con l'autrice.",
+   "url": "https://bct.comune.torino.it/eventi-attivita/poesia-in-biblioteca-1",
+   "free": true,
+   "tags": [],
+   "verify": true,
+   "geo": [
+    45.056,
+    7.683
+   ],
+   "zona": "San Salvario",
+   "id": "t036",
+   "key": "2026-12-05-poesia-in-biblioteca-angela-donna-clochard-poesi",
+   "moods": [
+    "dentro",
+    "pensare"
+   ]
+  },
+  {
+   "date": "2026-12-09",
+   "time": "17:00",
+   "title": "Festival del Classico: Luciano Canfora, Nel laboratorio di Aristotele",
+   "venue": "il Circolo dei lettori (via Bogino 9)",
+   "cat": "filosofia",
+   "desc": "Anteprima della nona edizione (Politeia/Convivenze) con Luciano Canfora e Ugo Cardinale: la raccolta delle Politeiai.",
+   "url": "https://www.festivaldelclassico.it/",
+   "free": null,
+   "tags": [
+    "festivaldelclassico",
+    "imperdibile"
+   ],
+   "verify": false,
+   "why": "Aristotele raccolse le costituzioni di 158 città per capire come si vive insieme: la stessa domanda che ci facciamo oggi.",
+   "id": "t017",
+   "key": "2026-12-09-festival-del-classico-luciano-canfora-nel-labora",
+   "moods": [
+    "dentro",
+    "gente",
+    "pensare"
+   ],
+   "geo": [
+    45.0668,
+    7.6881
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "21:00",
    "title": "Festival del Classico: Alberto Angela apre Politeia/Convivenze",
    "venue": "Conservatorio Giuseppe Verdi (piazza Bodoni)",
    "cat": "storia",
@@ -210,6 +349,51 @@
    "geo": [
     45.063,
     7.6812
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "",
+   "title": "Anna Mastromarino: La Costituzione a pezzi",
+   "venue": "Sala Molinari, Biblioteca Natalia Ginzburg (via Lombroso 16)",
+   "cat": "geo",
+   "desc": "Come cambiare la nostra Carta restando antifascisti (Bollati Boringhieri).",
+   "url": "https://bct.comune.torino.it/eventi-attivita/la-costituzione-a-pezzi-come-cambiare-la-nostra-carta-restando-antifascisti",
+   "free": true,
+   "tags": [],
+   "verify": true,
+   "geo": [
+    45.056,
+    7.683
+   ],
+   "zona": "San Salvario",
+   "id": "t037",
+   "key": "2026-12-09-anna-mastromarino-la-costituzione-a-pezzi",
+   "moods": [
+    "pensare"
+   ]
+  },
+  {
+   "date": "2026-12-10",
+   "time": "18:00",
+   "title": "Festival del Classico: dialogo sulla pace con Zuppi, Caracciolo e Dionigi",
+   "venue": "Teatro San Giuseppe (via Andrea Doria 18)",
+   "cat": "filosofia",
+   "desc": "Il cardinale Matteo Maria Zuppi, il direttore di Limes Lucio Caracciolo e il latinista Ivano Dionigi dialogano sulla pace. Sede e orario sul sito del Festival del Classico.",
+   "url": "https://www.sbircialanotizia.it/articoli/2026/11/18/festival-classico-lxum4/",
+   "free": null,
+   "tags": [],
+   "verify": true,
+   "id": "t010",
+   "key": "2026-12-10-festival-del-classico-dialogo-sulla-pace-con-zup",
+   "moods": [
+    "dentro",
+    "pensare"
+   ],
+   "geo": [
+    45.0641,
+    7.6829
    ],
    "zona": "Centro"
   },
@@ -240,20 +424,145 @@
   {
    "date": "2026-12-10",
    "time": "",
-   "title": "Festival del Classico: dialogo sulla pace con Zuppi, Caracciolo e Dionigi",
-   "venue": "Torino (sede sul sito del festival)",
-   "cat": "filosofia",
-   "desc": "Il cardinale Matteo Maria Zuppi, il direttore di Limes Lucio Caracciolo e il latinista Ivano Dionigi dialogano sulla pace. Sede e orario sul sito del Festival del Classico.",
-   "url": "https://www.sbircialanotizia.it/articoli/2026/11/18/festival-classico-lxum4/",
-   "free": null,
+   "title": "Voci d'autore: incontro con Fabio Geda",
+   "venue": "Biblioteca civica Passerin d'Entrèves (via Guido Reni 102)",
+   "cat": "talk",
+   "desc": "Letture teatrali di attori professionisti con l'autore presente, a cura di Assemblea Teatro.",
+   "url": "https://bct.comune.torino.it/eventi-attivita/voci-dautore-incontro-con-fabio-geda",
+   "free": true,
    "tags": [],
    "verify": true,
-   "id": "t010",
-   "key": "2026-12-10-festival-del-classico-dialogo-sulla-pace-con-zup",
+   "geo": [
+    45.0335,
+    7.618
+   ],
+   "zona": "Fuori centro",
+   "id": "t038",
+   "key": "2026-12-10-voci-d-autore-incontro-con-fabio-geda",
+   "moods": [
+    "pensare"
+   ]
+  },
+  {
+   "date": "2026-12-11",
+   "time": "16:00",
+   "title": "Festival del Classico: La convivenza difficile: barbari e no",
+   "venue": "il Circolo dei lettori (via Bogino 9)",
+   "cat": "storia",
+   "desc": "Con Mario Lentano (Università di Siena) e Raffaella Siracusa (Università di Torino): stranieri e barbari nel mondo antico.",
+   "url": "https://www.mentelocale.it/torino/148410-convivenza-difficile-barbari-no.htm",
+   "free": null,
+   "tags": [
+    "festivaldelclassico"
+   ],
+   "verify": false,
+   "id": "t018",
+   "key": "2026-12-11-festival-del-classico-la-convivenza-difficile-ba",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.0668,
+    7.6881
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-11",
+   "time": "16:30",
+   "title": "Festival del Classico: Aldo Schiavone, la res publica romana fra realtà e miti",
+   "venue": "il Circolo dei lettori (via Bogino 9)",
+   "cat": "storia",
+   "desc": "Lo storico racconta la repubblica romana tra quello che fu e quello che ne abbiamo immaginato.",
+   "url": "https://www.mentelocale.it/torino/148423-res-publica-romana-realta-miti-antichi-moderni.htm",
+   "free": null,
+   "tags": [
+    "festivaldelclassico"
+   ],
+   "verify": false,
+   "id": "t019",
+   "key": "2026-12-11-festival-del-classico-aldo-schiavone-la-res-publ",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.0668,
+    7.6881
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-11",
+   "time": "17:00",
+   "title": "Festival del Classico: Il teatro e la crisi di Atene",
+   "venue": "il Circolo dei lettori (via Bogino 9)",
+   "cat": "storia",
+   "desc": "Con Federico Condello (Università di Bologna) e Walter Lapini (Università di Genova).",
+   "url": "https://www.mentelocale.it/torino/148408-teatro-crisi-atene.htm",
+   "free": null,
+   "tags": [
+    "festivaldelclassico"
+   ],
+   "verify": false,
+   "id": "t020",
+   "key": "2026-12-11-festival-del-classico-il-teatro-e-la-crisi-di-at",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.0668,
+    7.6881
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-11",
+   "time": "17:30",
+   "title": "Festival del Classico: Memoria, oblio, comunità: una lezione ateniese",
+   "venue": "il Circolo dei lettori (via Bogino 9)",
+   "cat": "filosofia",
+   "desc": "Mauro Bonazzi (Università di Bologna) e lo scrittore Matteo Nucci.",
+   "url": "https://www.mentelocale.it/torino/148424-memoria-oblio-comunita-lezione-ateniese.htm",
+   "free": null,
+   "tags": [
+    "festivaldelclassico"
+   ],
+   "verify": false,
+   "id": "t021",
+   "key": "2026-12-11-festival-del-classico-memoria-oblio-comunita-una",
    "moods": [
     "dentro",
     "pensare"
-   ]
+   ],
+   "geo": [
+    45.0668,
+    7.6881
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-11",
+   "time": "18:00",
+   "title": "Festival del Classico: Agostino l'africano: uno sguardo decentrato sulla crisi dell'Impero",
+   "venue": "il Circolo dei lettori (via Bogino 9)",
+   "cat": "storia",
+   "desc": "Con Catherine Conybeare (Bryn Mawr College) e Giuseppe Pezzini (Oxford); modera Armando Buonaiuto.",
+   "url": "https://www.mentelocale.it/torino/148406-agostino-africano-sguardo-decentrato-crisi-impero-romano.htm",
+   "free": null,
+   "tags": [
+    "festivaldelclassico"
+   ],
+   "verify": false,
+   "id": "t039",
+   "key": "2026-12-11-festival-del-classico-agostino-l-africano-uno-sg",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.0668,
+    7.6881
+   ],
+   "zona": "Centro"
   },
   {
    "date": "2026-12-11",
@@ -274,6 +583,303 @@
    "geo": [
     45.0712,
     7.6948
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-12",
+   "time": "10:30",
+   "title": "Festival del Classico: L'Iran poliedrico: convivenze di ieri e di oggi",
+   "venue": "il Circolo dei lettori (via Bogino 9)",
+   "cat": "geo",
+   "desc": "Con Chiara Barbati (Università di Pisa) e Farian Sabahi.",
+   "url": "https://www.mentelocale.it/torino/148409-iran-poliedrico-racconti-convivenze-ieri-oggi.htm",
+   "free": null,
+   "tags": [
+    "festivaldelclassico"
+   ],
+   "verify": false,
+   "id": "t022",
+   "key": "2026-12-12-festival-del-classico-l-iran-poliedrico-conviven",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.0668,
+    7.6881
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-12",
+   "time": "11:00",
+   "title": "Festival del Classico: Abitare il conflitto, con Silvia Romani e Annalena Benini",
+   "venue": "il Circolo dei lettori (via Bogino 9)",
+   "cat": "talk",
+   "desc": "Furore, trasgressione e ordine della polis: la furia nel mito e nella storia.",
+   "url": "https://www.mentelocale.it/torino/148413-abitare-conflitto-furore-trasgressione-ordine-polis.htm",
+   "free": null,
+   "tags": [
+    "festivaldelclassico"
+   ],
+   "verify": false,
+   "id": "t023",
+   "key": "2026-12-12-festival-del-classico-abitare-il-conflitto-con-s",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.0668,
+    7.6881
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-12",
+   "time": "11:30",
+   "title": "Festival del Classico: Seneca e il Tiranno",
+   "venue": "il Circolo dei lettori (via Bogino 9)",
+   "cat": "storia",
+   "desc": "Con Gianpiero Rosati (Scuola Normale) e Federica Bessone (Università di Torino).",
+   "url": "https://www.mentelocale.it/torino/148411-seneca-tiranno.htm",
+   "free": null,
+   "tags": [
+    "festivaldelclassico"
+   ],
+   "verify": false,
+   "id": "t024",
+   "key": "2026-12-12-festival-del-classico-seneca-e-il-tiranno",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.0668,
+    7.6881
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-12",
+   "time": "15:00",
+   "title": "Festival del Classico: Gennaro Carillo, L'anima e le forme: nel laboratorio costituzionale di Platone",
+   "venue": "il Circolo dei lettori (via Bogino 9)",
+   "cat": "filosofia",
+   "desc": "Lezione su Platone e le forme della città.",
+   "url": "https://www.mentelocale.it/torino/148421-anima-forme-laboratorio-costituzionale-platone.htm",
+   "free": null,
+   "tags": [
+    "festivaldelclassico"
+   ],
+   "verify": false,
+   "id": "t025",
+   "key": "2026-12-12-festival-del-classico-gennaro-carillo-l-anima-e-",
+   "moods": [
+    "dentro",
+    "gente",
+    "pensare"
+   ],
+   "geo": [
+    45.0668,
+    7.6881
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-12",
+   "time": "15:30",
+   "title": "Festival del Classico: Come nasce una Repubblica",
+   "venue": "il Circolo dei lettori (via Bogino 9)",
+   "cat": "storia",
+   "desc": "Con Alfonso Celotto (Roma Tre) e Giulia Guerrini, a partire dal libro Viva il Re! Viva la Repubblica!",
+   "url": "https://www.mentelocale.it/torino/148407-come-nasce-repubblica.htm",
+   "free": null,
+   "tags": [
+    "festivaldelclassico"
+   ],
+   "verify": false,
+   "id": "t026",
+   "key": "2026-12-12-festival-del-classico-come-nasce-una-repubblica",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.0668,
+    7.6881
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-12",
+   "time": "16:00",
+   "title": "Festival del Classico: Luciano Bossina, Come in cielo così in terra",
+   "venue": "il Circolo dei lettori (via Bogino 9)",
+   "cat": "storia",
+   "desc": "L'uomo antico tra due cittadinanze.",
+   "url": "https://www.mentelocale.it/torino/148416-come-cielo-cosi-terra-uomo-antico-due-cittadinanze.htm",
+   "free": null,
+   "tags": [
+    "festivaldelclassico"
+   ],
+   "verify": false,
+   "id": "t040",
+   "key": "2026-12-12-festival-del-classico-luciano-bossina-come-in-ci",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.0668,
+    7.6881
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-12",
+   "time": "17:00",
+   "title": "Festival del Classico: Cittadini del mondo, con Mauro Bonazzi e Massimo Mori",
+   "venue": "il Circolo dei lettori (via Bogino 9)",
+   "cat": "filosofia",
+   "desc": "Il cosmopolitismo antico e le sue eredità.",
+   "url": "https://www.mentelocale.it/torino/148415-cittadini-mondo.htm",
+   "free": null,
+   "tags": [
+    "festivaldelclassico"
+   ],
+   "verify": false,
+   "id": "t027",
+   "key": "2026-12-12-festival-del-classico-cittadini-del-mondo-con-ma",
+   "moods": [
+    "dentro",
+    "pensare"
+   ],
+   "geo": [
+    45.0668,
+    7.6881
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-12",
+   "time": "18:00",
+   "title": "Festival del Classico: Ivano Dionigi e Luca Mercalli, Il nostro posto nel mondo",
+   "venue": "il Circolo dei lettori (via Bogino 9)",
+   "cat": "scienza",
+   "desc": "Il latinista e il climatologo sulla comunità dei viventi.",
+   "url": "https://www.mentelocale.it/torino/148420-nostro-posto-mondo-comunita-viventi.htm",
+   "free": null,
+   "tags": [
+    "festivaldelclassico",
+    "imperdibile"
+   ],
+   "verify": false,
+   "why": "Un latinista e un climatologo sulla stessa domanda: siamo la misura del mondo o soltanto ospiti?",
+   "id": "t028",
+   "key": "2026-12-12-festival-del-classico-ivano-dionigi-e-luca-merca",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.0668,
+    7.6881
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-12",
+   "time": "21:00",
+   "title": "Festival del Classico: Telmo Pievani, tra cooperazione e conflitto",
+   "venue": "Torino (sede sul sito del festival)",
+   "cat": "scienza",
+   "desc": "L'evoluzione della convivenza raccontata dal filosofo della biologia.",
+   "url": "https://www.festivaldelclassico.it/",
+   "free": null,
+   "tags": [
+    "festivaldelclassico",
+    "imperdibile"
+   ],
+   "verify": true,
+   "geo": [
+    45.0703,
+    7.6869
+   ],
+   "zona": "Centro",
+   "id": "t029",
+   "key": "2026-12-12-festival-del-classico-telmo-pievani-tra-cooperaz",
+   "moods": [
+    "dentro",
+    "pensare"
+   ]
+  },
+  {
+   "date": "2026-12-13",
+   "time": "15:00",
+   "title": "Festival del Classico: Ciò che ci tiene insieme, con Giovanna Botteri e Michela Marzano",
+   "venue": "il Circolo dei lettori (via Bogino 9)",
+   "cat": "talk",
+   "desc": "Voci, legami e possibilità di convivenza, a partire da Soffiando nel vento e Qualcosa che brilla.",
+   "url": "https://www.mentelocale.it/torino/148414-cio-ci-tiene-insieme-voci-legami-possibilita-convivenza.htm",
+   "free": null,
+   "tags": [
+    "festivaldelclassico",
+    "imperdibile"
+   ],
+   "verify": false,
+   "why": "Che cosa tiene insieme una comunità quando tutto spinge a dividerla: una giornalista e una filosofa provano a rispondere.",
+   "id": "t030",
+   "key": "2026-12-13-festival-del-classico-cio-che-ci-tiene-insieme-c",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.0668,
+    7.6881
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-13",
+   "time": "16:30",
+   "title": "Festival del Classico: Abitare il mondo, abitare l'umano: convivenze nell'era dell'IA",
+   "venue": "il Circolo dei lettori (via Bogino 9)",
+   "cat": "tech",
+   "desc": "Con Alessio Carciofi e Francesco Brucoli.",
+   "url": "https://www.mentelocale.it/torino/148405-abitare-mondo-abitare-umano-convivenze-era-tecnica-intelligenza-artificiale.htm",
+   "free": null,
+   "tags": [
+    "festivaldelclassico"
+   ],
+   "verify": false,
+   "id": "t031",
+   "key": "2026-12-13-festival-del-classico-abitare-il-mondo-abitare-l",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.0668,
+    7.6881
+   ],
+   "zona": "Centro"
+  },
+  {
+   "date": "2026-12-13",
+   "time": "17:00",
+   "title": "Festival del Classico: Politeia e convivenze: il maschile e il femminile nel mondo antico",
+   "venue": "il Circolo dei lettori (via Bogino 9)",
+   "cat": "storia",
+   "desc": "Con Laura Pepe (autrice di Storia non convenzionale delle donne di Grecia) e Marco Bonini.",
+   "url": "https://www.mentelocale.it/torino/148425-politeia-convivenze-ripensare-maschile-femminile-mondo-antico.htm",
+   "free": null,
+   "tags": [
+    "festivaldelclassico"
+   ],
+   "verify": false,
+   "id": "t032",
+   "key": "2026-12-13-festival-del-classico-politeia-e-convivenze-il-m",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    45.0668,
+    7.6881
    ],
    "zona": "Centro"
   },

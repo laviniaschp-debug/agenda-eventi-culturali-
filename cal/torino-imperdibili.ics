@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-27-ersilia-vaudo-una-storia-cosmica-di-luce-e-oscur@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261127T183000
 DTEND;TZID=Europe/Rome:20261127T203000
 SUMMARY:Ersilia Vaudo: una storia cosmica di luce e oscurità
@@ -40,7 +40,7 @@ CATEGORIES:Scienza
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-donatella-di-pietrantonio-lasciarsi-tardi@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261201T210000
 DTEND;TZID=Europe/Rome:20261201T230000
 SUMMARY:Donatella Di Pietrantonio: Lasciarsi tardi
@@ -53,11 +53,27 @@ URL:https://torino.circololettori.it/lasciarsi-tardi/
 CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-09-festival-del-classico-luciano-canfora-nel-labora@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261209T170000
+DTEND;TZID=Europe/Rome:20261209T190000
+SUMMARY:Festival del Classico: Luciano Canfora\, Nel laboratorio di Aristot
+ ele
+LOCATION:il Circolo dei lettori (via Bogino 9)
+DESCRIPTION:Aristotele raccolse le costituzioni di 158 città per capire co
+ me si vive insieme: la stessa domanda che ci facciamo oggi. Anteprima dell
+ a nona edizione (Politeia/Convivenze) con Luciano Canfora e Ugo Cardinale:
+  la raccolta delle Politeiai. https://www.festivaldelclassico.it/
+URL:https://www.festivaldelclassico.it/
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-09-festival-del-classico-alberto-angela-apre-polite@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261209T210000
+DTEND;TZID=Europe/Rome:20261209T230000
 SUMMARY:Festival del Classico: Alberto Angela apre Politeia/Convivenze
 LOCATION:Conservatorio Giuseppe Verdi (piazza Bodoni)
 DESCRIPTION:Duemila anni dopo Cesare\, la domanda è la stessa: come si viv
@@ -72,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-osn-rai-michele-mariotti-dirige-schubert-e-strau@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261210T203000
 DTEND;TZID=Europe/Rome:20261210T223000
 SUMMARY:OSN Rai: Michele Mariotti dirige Schubert e Strauss
@@ -86,9 +102,57 @@ URL:https://www.tpnews.it/2026/07/stagione-2026-2027-orchestra-rai-torino-p
 CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-12-festival-del-classico-ivano-dionigi-e-luca-merca@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261212T180000
+DTEND;TZID=Europe/Rome:20261212T200000
+SUMMARY:Festival del Classico: Ivano Dionigi e Luca Mercalli\, Il nostro po
+ sto nel mondo
+LOCATION:il Circolo dei lettori (via Bogino 9)
+DESCRIPTION:Un latinista e un climatologo sulla stessa domanda: siamo la mi
+ sura del mondo o soltanto ospiti? Il latinista e il climatologo sulla comu
+ nità dei viventi. https://www.mentelocale.it/torino/148420-nostro-posto-m
+ ondo-comunita-viventi.htm
+URL:https://www.mentelocale.it/torino/148420-nostro-posto-mondo-comunita-vi
+ venti.htm
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-festival-del-classico-telmo-pievani-tra-cooperaz@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261212T210000
+DTEND;TZID=Europe/Rome:20261212T230000
+SUMMARY:Festival del Classico: Telmo Pievani\, tra cooperazione e conflitto
+LOCATION:Torino (sede sul sito del festival)
+DESCRIPTION:L'evoluzione della convivenza raccontata dal filosofo della bio
+ logia. https://www.festivaldelclassico.it/
+URL:https://www.festivaldelclassico.it/
+CATEGORIES:Scienza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-festival-del-classico-cio-che-ci-tiene-insieme-c@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261213T150000
+DTEND;TZID=Europe/Rome:20261213T170000
+SUMMARY:Festival del Classico: Ciò che ci tiene insieme\, con Giovanna Bot
+ teri e Michela Marzano
+LOCATION:il Circolo dei lettori (via Bogino 9)
+DESCRIPTION:Che cosa tiene insieme una comunità quando tutto spinge a divi
+ derla: una giornalista e una filosofa provano a rispondere. Voci\, legami 
+ e possibilità di convivenza\, a partire da Soffiando nel vento e Qualcosa
+  che brilla. https://www.mentelocale.it/torino/148414-cio-ci-tiene-insieme
+ -voci-legami-possibilita-convivenza.htm
+URL:https://www.mentelocale.it/torino/148414-cio-ci-tiene-insieme-voci-lega
+ mi-possibilita-convivenza.htm
+CATEGORIES:Incontri e talk
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-22-concerto-di-natale-fabio-luisi-dirige-la-nona-di@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261222T203000
 DTEND;TZID=Europe/Rome:20261222T223000
 SUMMARY:Concerto di Natale: Fabio Luisi dirige la Nona di Beethoven

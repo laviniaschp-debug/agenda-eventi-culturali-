@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-24-daniel-pennac-presenta-mallet@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261124T183000
 DTEND;TZID=Europe/Rome:20261124T203000
 SUMMARY:Daniel Pennac presenta Mallet
@@ -41,7 +41,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-prima-delle-prime-otello@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261125T180000
 DTEND;TZID=Europe/Rome:20261125T200000
 SUMMARY:Prima delle Prime: Otello
@@ -54,7 +54,7 @@ CATEGORIES:Incontri e talk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-samantha-cristoforetti-il-senso-della-luna@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261125T200000
 DTEND;TZID=Europe/Rome:20261125T220000
 SUMMARY:Samantha Cristoforetti: il senso della Luna
@@ -71,7 +71,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-kahil-el-zabar-ethnic-heritage-ensemble-let-the-@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261125T210000
 DTEND;TZID=Europe/Rome:20261125T230000
 SUMMARY:Kahil El Zabar Ethnic Heritage Ensemble: Let The Spirit Out
@@ -86,7 +86,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-milena-gabanelli-e-simona-ravizza-la-resa-dei-co@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261126T183000
 DTEND;TZID=Europe/Rome:20261126T203000
 SUMMARY:Milena Gabanelli e Simona Ravizza\, La resa dei conti
@@ -102,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-umberto-galimberti-l-illusione-della-liberta@acculturiamoci.
  it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261127T183000
 DTEND;TZID=Europe/Rome:20261127T203000
 SUMMARY:Umberto Galimberti\, L'illusione della libertà
@@ -117,7 +117,7 @@ CATEGORIES:Filosofia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-di-madre-in-figlia@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261127T203000
 DTEND;TZID=Europe/Rome:20261127T223000
 SUMMARY:Di madre in figlia
@@ -130,7 +130,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-aldo-cazzullo-il-nostro-rinascimento@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261128T110000
 DTEND;TZID=Europe/Rome:20261128T130000
 SUMMARY:Aldo Cazzullo\, Il nostro rinascimento
@@ -146,7 +146,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-beppe-severgnini-l-arte-di-sopravvivere-poeticam@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261128T110000
 DTEND;TZID=Europe/Rome:20261128T130000
 SUMMARY:Beppe Severgnini: L'arte di sopravvivere poeticamente
@@ -163,7 +163,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-bruno-vespa-e-paolo-mieli-storia-della-seconda-r@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261128T110000
 DTEND;TZID=Europe/Rome:20261128T130000
 SUMMARY:Bruno Vespa e Paolo Mieli: Storia della Seconda Repubblica
@@ -178,7 +178,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-angelo-panebianco-ordine-e-disordine-nella-polit@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Angelo Panebianco: Ordine e disordine nella politica internazionale
@@ -195,7 +195,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-sidival-fila-memoriae-cartoni-raphaelis@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Sidival Fila. Memoriae Cartoni Raphaelis
@@ -212,8 +212,27 @@ URL:https://www.ambrosiana.it/events/bookcity-2026-allambrosiana/
 CATEGORIES:Arte e storia
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-filosofia-sui-navigli-vulnerabilita-e-guerra-una@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261129T101500
+DTEND;TZID=Europe/Rome:20261129T121500
+SUMMARY:Filosofia sui Navigli: Vulnerabilità e guerra. Una lettura di Judi
+ th Butler
+LOCATION:Filosofia sui Navigli\, viale Gorizia 12 (seminterrato)
+DESCRIPTION:Una domenica mattina per chiedersi che cosa ci rende fragili\, 
+ e perché questo potrebbe essere un punto di partenza invece che una debol
+ ezza. Conferenza della prof.ssa Valentina Surace (dottore di ricerca in Me
+ todologie della Filosofia\, Università di Messina)\, dalle 10:15 alle 12:
+ 30. La sala è nel seminterrato in fondo al cortile a destra: citofono sul
+  cancello a nome Fumagalli. https://www.google.com/search?q=Filosofia+sui+
+ Navigli+Milano
+URL:https://www.google.com/search?q=Filosofia+sui+Navigli+Milano
+CATEGORIES:Filosofia
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-pupi-avati-il-gotico-padano-e-il-cinema@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261129T110000
 DTEND;TZID=Europe/Rome:20261129T130000
 SUMMARY:Pupi Avati: il gotico padano e il cinema
@@ -228,7 +247,7 @@ CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-zerocalcare-dove-andiamo-da-qui-zero@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261129T120000
 DTEND;TZID=Europe/Rome:20261129T140000
 SUMMARY:Zerocalcare\, Dove andiamo da qui\, Zero?
@@ -244,7 +263,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-chiusura-bookcity-samantha-harvey-e-paolo-giorda@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261129T200000
 DTEND;TZID=Europe/Rome:20261129T220000
 SUMMARY:Chiusura BookCity: Samantha Harvey e Paolo Giordano
@@ -261,7 +280,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-noir-in-festival-the-blood-countess-di-ulrike-ot@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261130T213000
 DTEND;TZID=Europe/Rome:20261130T233000
 SUMMARY:Noir in Festival: The Blood Countess di Ulrike Ottinger
@@ -277,7 +296,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-left-summit-questione-di-classe-con-schlein-cont@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261202T183000
 DTEND;TZID=Europe/Rome:20261202T203000
 SUMMARY:Left Summit: Questione di classe\, con Schlein\, Conte e Fratoianni
@@ -292,7 +311,7 @@ CATEGORIES:Geopolitica
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-paul-lewis-mozart@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261202T204500
 DTEND;TZID=Europe/Rome:20261202T224500
 SUMMARY:Paul Lewis\, Mozart+
@@ -306,7 +325,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-bilal-25-anni-di-1st-born-second@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261203T210000
 DTEND;TZID=Europe/Rome:20261203T230000
 SUMMARY:Bilal: 25 anni di 1st Born Second
@@ -320,7 +339,7 @@ CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-otello-anteprima-under-30@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261204T180000
 DTEND;TZID=Europe/Rome:20261204T200000
 SUMMARY:Otello: anteprima Under 30
@@ -332,8 +351,40 @@ URL:https://www.teatroallascala.org
 CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-07-prima-diffusa-otello-in-diretta-con-la-guida-all@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261207T170000
+DTEND;TZID=Europe/Rome:20261207T190000
+SUMMARY:Prima Diffusa: Otello in diretta con la guida all'ascolto di Carlo 
+ Boccadoro
+LOCATION:Fondazione Feltrinelli (viale Pasubio 5)
+DESCRIPTION:La Prima della Scala senza smoking né biglietto: la si guarda 
+ insieme\, con qualcuno che ti spiega cosa stai ascoltando. Proiezione dell
+ a Prima della Scala (regia di Damiano Michieletto) introdotta dal composit
+ ore Carlo Boccadoro. Ingresso libero\, prenotazione consigliata. https://f
+ ondazionefeltrinelli.it/partecipa/prima-diffusa-2026-in-fondazione-feltrin
+ elli/
+URL:https://fondazionefeltrinelli.it/partecipa/prima-diffusa-2026-in-fondaz
+ ione-feltrinelli/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-emma-bonino-europa-e-patria-scegliamo-forti-o-so@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261209T210000
+DTEND;TZID=Europe/Rome:20261209T230000
+SUMMARY:Emma Bonino: Europa è patria. Scegliamo: forti o sovranisti?
+LOCATION:Casa della Cultura (via Borgogna 3)
+DESCRIPTION:Presentazione del libro con Emma Bonino. Anche in streaming. ht
+ tps://www.casadellacultura.it/
+URL:https://www.casadellacultura.it/
+CATEGORIES:Geopolitica
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-16-nicola-piovani-note-a-margine@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261216T203000
 DTEND;TZID=Europe/Rome:20261216T223000
 SUMMARY:Nicola Piovani: Note a margine

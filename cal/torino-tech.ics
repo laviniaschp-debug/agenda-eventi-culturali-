@@ -24,4 +24,20 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-13-festival-del-classico-abitare-il-mondo-abitare-l@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261213T163000
+DTEND;TZID=Europe/Rome:20261213T183000
+SUMMARY:Festival del Classico: Abitare il mondo\, abitare l'umano: conviven
+ ze nell'era dell'IA
+LOCATION:il Circolo dei lettori (via Bogino 9)
+DESCRIPTION:Con Alessio Carciofi e Francesco Brucoli. https://www.menteloca
+ le.it/torino/148405-abitare-mondo-abitare-umano-convivenze-era-tecnica-int
+ elligenza-artificiale.htm
+URL:https://www.mentelocale.it/torino/148405-abitare-mondo-abitare-umano-co
+ nvivenze-era-tecnica-intelligenza-artificiale.htm
+CATEGORIES:Tech e digitale
+END:VEVENT
 END:VCALENDAR

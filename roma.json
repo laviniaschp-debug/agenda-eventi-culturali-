@@ -1,6 +1,6 @@
 {
  "city": "roma",
- "updated": "2026-11-26T10:00:00+01:00",
+ "updated": "2026-11-27T09:00:00+01:00",
  "range": [
   "2026-11-24",
   "2026-12-20"
@@ -1957,6 +1957,28 @@
   },
   {
    "date": "2026-11-30",
+   "time": "17:30",
+   "title": "Vis à vis: Carlo Levi e Alberto Savinio, due pittori-scrittori del Novecento",
+   "venue": "Biblioteca Casa delle Letterature (piazza dell'Orologio 3)",
+   "cat": "storia",
+   "desc": "Incontro a tema nella casa romana della letteratura contemporanea.",
+   "url": "https://www.bibliotechediroma.it/opac/library/biblioteca-casa-delle-letterature/RMBA7",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "geo": [
+    41.899,
+    12.4703
+   ],
+   "zona": "Centro storico",
+   "id": "r143",
+   "key": "2026-11-30-vis-a-vis-carlo-levi-e-alberto-savinio-due-pitto",
+   "moods": [
+    "pensare"
+   ]
+  },
+  {
+   "date": "2026-11-30",
    "time": "20:00",
    "title": "Il fascino discreto della borghesia di Luis Buñuel",
    "venue": "Casa del Cinema · Sala Cinecittà",
@@ -2117,6 +2139,28 @@
     12.4668
    ],
    "zona": "Prati · Aurelio · Flaminio"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "17:00",
+   "title": "Odio. Un blues di Vittorio Pavoncello",
+   "venue": "Biblioteca Casa della Memoria e della Storia (via San Francesco di Sales 5)",
+   "cat": "talk",
+   "desc": "Presentazione del libro alla Casa della Memoria.",
+   "url": "https://www.bibliotechediroma.it/opac/.do",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "geo": [
+    41.8935,
+    12.4662
+   ],
+   "zona": "Trastevere · Testaccio · Ostiense",
+   "id": "r144",
+   "key": "2026-12-02-odio-un-blues-di-vittorio-pavoncello",
+   "moods": [
+    "pensare"
+   ]
   },
   {
    "date": "2026-12-02",
@@ -2293,6 +2337,28 @@
     12.4726
    ],
    "zona": "Centro storico"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "18:00",
+   "title": "Gramsci, Togliatti, Longo, Berlinguer: Ai giovani",
+   "venue": "Biblioteca Casa della Memoria e della Storia (via San Francesco di Sales 5)",
+   "cat": "storia",
+   "desc": "Presentazione del libro: antifascismo, pace, democrazia, socialismo nelle parole rivolte ai giovani.",
+   "url": "https://www.bibliotechediroma.it/opac/.do",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "geo": [
+    41.8935,
+    12.4662
+   ],
+   "zona": "Trastevere · Testaccio · Ostiense",
+   "id": "r145",
+   "key": "2026-12-03-gramsci-togliatti-longo-berlinguer-ai-giovani",
+   "moods": [
+    "pensare"
+   ]
   },
   {
    "date": "2026-12-03",
@@ -2658,6 +2724,31 @@
    "zona": "Parioli · Villa Borghese · Nomentano"
   },
   {
+   "date": "2026-12-06",
+   "time": "17:30",
+   "title": "Geografie di lettura: Giancarlo De Cataldo con le letture di Massimo Popolizio",
+   "venue": "La Nuvola (viale Asia 40), Più libri più liberi",
+   "cat": "talk",
+   "desc": "Ultimo incontro del ciclo per i 30 anni delle Biblioteche di Roma: lo scrittore apre la sua biblioteca personale. Gratuito, anche in streaming.",
+   "url": "https://www.informagiovaniroma.it/geografie-di-lettura-le-biblioteche-degli-autori/",
+   "free": true,
+   "tags": [
+    "imperdibile"
+   ],
+   "verify": false,
+   "why": "Scoprire quali libri hanno formato uno scrittore è il modo più rapido per trovare il tuo prossimo libro.",
+   "id": "r146",
+   "key": "2026-12-06-geografie-di-lettura-giancarlo-de-cataldo-con-le",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.831,
+    12.4719
+   ],
+   "zona": "EUR e sud"
+  },
+  {
    "date": "2026-12-07",
    "time": "10:00",
    "title": "Più libri più liberi: fiera della piccola e media editoria",
@@ -3019,6 +3110,28 @@
   },
   {
    "date": "2026-12-13",
+   "time": "11:00",
+   "title": "Lezioni di Storia · Maurizio Viroli: Il Principe di Machiavelli, il potere delle parole",
+   "venue": "Auditorium Parco della Musica (viale Pietro de Coubertin 30)",
+   "cat": "storia",
+   "desc": "Ciclo Laterza Il potere dei classici: come un libro ha cambiato la storia della politica.",
+   "url": "https://www.auditorium.com/it/rassegne/lezioni-di-storia-2026-2027-il-potere-dei-classici/",
+   "free": null,
+   "tags": [],
+   "verify": false,
+   "id": "r147",
+   "key": "2026-12-13-lezioni-di-storia-maurizio-viroli-il-principe-di",
+   "moods": [
+    "pensare"
+   ],
+   "geo": [
+    41.929,
+    12.474
+   ],
+   "zona": "Prati · Aurelio · Flaminio"
+  },
+  {
+   "date": "2026-12-13",
    "time": "20:30",
    "title": "42° Concerto di Natale in Cattedrale con Marco Frisina",
    "venue": "Basilica di San Giovanni in Laterano (piazza di San Giovanni in Laterano 4)",
@@ -3129,6 +3242,51 @@
     12.4939
    ],
    "zona": "Esquilino · Monti · San Lorenzo"
+  },
+  {
+   "date": "2026-12-17",
+   "time": "",
+   "title": "Spritzalibro: i giovedì della letteratura",
+   "venue": "Teatro del Lido (via delle Sirene 22, Ostia)",
+   "cat": "talk",
+   "desc": "Letture di autori contemporanei, confronto aperto e spritz finale nel foyer, a cura di Cristina Cau e Lavinia Polzella.",
+   "url": "https://turismoroma.it/fr/node/179842",
+   "free": null,
+   "tags": [],
+   "verify": true,
+   "geo": [
+    41.7327,
+    12.2709
+   ],
+   "zona": "EUR e sud",
+   "moods": [
+    "gente",
+    "pensare"
+   ],
+   "id": "r148",
+   "key": "2026-12-17-spritzalibro-i-giovedi-della-letteratura"
+  },
+  {
+   "date": "2026-12-18",
+   "time": "19:00",
+   "title": "Natale austriaco: Rafael Fingerlos, Sascha El Mouissi e Fabian Steindl",
+   "venue": "Forum Austriaco di Cultura (viale Bruno Buozzi 113)",
+   "cat": "classica",
+   "desc": "Baritono, pianoforte e zither per un concerto di Natale. Ingresso gratuito su prenotazione: events.rom-kf@bmeia.gv.at",
+   "url": "https://www.austriacult.roma.it/",
+   "free": true,
+   "tags": [],
+   "verify": false,
+   "geo": [
+    41.921,
+    12.4855
+   ],
+   "zona": "Parioli · Villa Borghese · Nomentano",
+   "id": "r149",
+   "key": "2026-12-18-natale-austriaco-rafael-fingerlos-sascha-el-moui",
+   "moods": [
+    "emozionarmi"
+   ]
   },
   {
    "date": "2026-12-18",

@@ -1,5 +1,29 @@
 [
  {
+  "match": "Forum Austriaco",
+  "lat": 41.921,
+  "lng": 12.4855,
+  "zona": "Parioli · Villa Borghese · Nomentano"
+ },
+ {
+  "match": "Teatro del Lido",
+  "lat": 41.7327,
+  "lng": 12.2709,
+  "zona": "EUR e sud"
+ },
+ {
+  "match": "Casa della Memoria e della Storia",
+  "lat": 41.8935,
+  "lng": 12.4662,
+  "zona": "Trastevere · Testaccio · Ostiense"
+ },
+ {
+  "match": "Casa delle Letterature",
+  "lat": 41.899,
+  "lng": 12.4703,
+  "zona": "Centro storico"
+ },
+ {
   "match": "Sant'Agnese in Agone",
   "lat": 41.8988,
   "lng": 12.4726,

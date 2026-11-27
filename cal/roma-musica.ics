@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-25-organum-multiplum-heinali-saienko-e-lindwall-a-s@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261125T193000
 DTEND;TZID=Europe/Rome:20261125T213000
 SUMMARY:Organum Multiplum: Heinali\, Saienko e Lindwall a Santa Cecilia
@@ -40,7 +40,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-sol-gabetta-e-bertrand-chamayou@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261125T200000
 DTEND;TZID=Europe/Rome:20261125T220000
 SUMMARY:Sol Gabetta e Bertrand Chamayou
@@ -52,7 +52,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-eugenio-in-via-di-gioia@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Eugenio in Via Di Gioia
@@ -65,7 +65,7 @@ CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-daniel-harding-dirige-brahms-e-strauss@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261126T193000
 DTEND;TZID=Europe/Rome:20261126T213000
 SUMMARY:Daniel Harding dirige Brahms e Strauss
@@ -78,7 +78,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-sotto-le-stelle-del-jazz-the-scoop-jazz-band@acculturiamoci.
  it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261127T190000
 DTEND;TZID=Europe/Rome:20261127T210000
 SUMMARY:Sotto le stelle del jazz: The Scoop Jazz Band
@@ -90,7 +90,7 @@ CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-daniel-harding-dirige-brahms-e-strauss@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261127T200000
 DTEND;TZID=Europe/Rome:20261127T220000
 SUMMARY:Daniel Harding dirige Brahms e Strauss
@@ -102,7 +102,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-ditonellapiaga@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Ditonellapiaga
@@ -115,7 +115,7 @@ CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-masterclass-i-segreti-della-tosca@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Masterclass: i segreti della Tosca
@@ -127,7 +127,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-daniel-harding-dirige-brahms-e-strauss@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261128T180000
 DTEND;TZID=Europe/Rome:20261128T200000
 SUMMARY:Daniel Harding dirige Brahms e Strauss
@@ -140,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-buenos-aires-tango-musica-y-danza-en-concierto@acculturiamoc
  i.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261128T200000
 DTEND;TZID=Europe/Rome:20261128T220000
 SUMMARY:Buenos Aires Tango: música y danza en concierto
@@ -152,7 +152,7 @@ CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-the-shape-of-sound-liquid-conversation@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:The Shape of Sound: Liquid Conversation
@@ -167,7 +167,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-lezione-concerto-erik-bertsch-suona-saariaho-ben@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261129T173000
 DTEND;TZID=Europe/Rome:20261129T193000
 SUMMARY:Lezione concerto: Erik Bertsch suona Saariaho\, Benjamin e Kurtág
@@ -181,7 +181,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-anohni-wilderness@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261129T200000
 DTEND;TZID=Europe/Rome:20261129T220000
 SUMMARY:ANOHNI: Wilderness
@@ -195,7 +195,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-love-cello-duet-chopin-e-beethoven-a-piazza-navo@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261201T174500
 DTEND;TZID=Europe/Rome:20261201T194500
 SUMMARY:Love Cello Duet: Chopin e Beethoven a piazza Navona
@@ -209,7 +209,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-miles-davis-100-l-arte-del-cambiamento@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261201T203000
 DTEND;TZID=Europe/Rome:20261201T223000
 SUMMARY:Miles Davis 100: l'arte del cambiamento
@@ -223,7 +223,7 @@ CATEGORIES:Jazz e live
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-steve-reich-al-pantheon-organum-multiplum@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261201T210000
 DTEND;TZID=Europe/Rome:20261201T230000
 SUMMARY:Steve Reich al Pantheon (Organum Multiplum)
@@ -238,7 +238,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-capriccio-italiano-festival-pianoforte-nella-sac@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261203T174500
 DTEND;TZID=Europe/Rome:20261203T194500
 SUMMARY:Capriccio Italiano Festival: pianoforte nella Sacrestia del Borromi
@@ -255,7 +255,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-jordi-savall-magnificat-e-gloria-di-vivaldi@acculturiamoci.i
  t
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261209T200000
 DTEND;TZID=Europe/Rome:20261209T220000
 SUMMARY:Jordi Savall: Magnificat e Gloria di Vivaldi
@@ -269,7 +269,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-jordi-savall-vivaldi@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261209T200000
 DTEND;TZID=Europe/Rome:20261209T220000
 SUMMARY:Jordi Savall: Vivaldi
@@ -284,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-oratorio-di-natale-di-bach-con-enrico-onofri@acculturiamoci.
  it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261210T193000
 DTEND;TZID=Europe/Rome:20261210T213000
 SUMMARY:Oratorio di Natale di Bach con Enrico Onofri
@@ -299,7 +299,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-trio-concept-dumky-di-dvorak-e-trio-di-cajkovski@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261210T210000
 DTEND;TZID=Europe/Rome:20261210T230000
 SUMMARY:Trio Concept: Dumky di Dvořák e Trio di Čajkovskij
@@ -312,7 +312,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-trio-concept-dvorak-e-cajkovskij@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261210T210000
 DTEND;TZID=Europe/Rome:20261210T230000
 SUMMARY:Trio Concept: Dvořák e Čajkovskij
@@ -327,7 +327,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-oratorio-di-natale-di-bach-con-enrico-onofri@acculturiamoci.
  it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261211T200000
 DTEND;TZID=Europe/Rome:20261211T220000
 SUMMARY:Oratorio di Natale di Bach con Enrico Onofri
@@ -341,7 +341,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-from-vivaldi-to-traditionals-king-s-school-a-san@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:From Vivaldi to Traditionals: King's School a San Paolo entro le Mu
@@ -356,7 +356,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-oratorio-di-natale-di-bach-con-enrico-onofri@acculturiamoci.
  it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261212T180000
 DTEND;TZID=Europe/Rome:20261212T200000
 SUMMARY:Oratorio di Natale di Bach con Enrico Onofri
@@ -370,7 +370,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-42-concerto-di-natale-in-cattedrale-con-marco-fr@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261213T203000
 DTEND;TZID=Europe/Rome:20261213T223000
 SUMMARY:42° Concerto di Natale in Cattedrale con Marco Frisina
@@ -385,7 +385,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-verdi-wagner-e-musorgskij-nella-sacrestia-del-bo@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261217T174500
 DTEND;TZID=Europe/Rome:20261217T194500
 SUMMARY:Verdi\, Wagner e Musorgskij nella Sacrestia del Borromini
@@ -401,7 +401,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-juraj-valcuha-ed-ettore-pagano-con-l-orchestra-d@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261217T193000
 DTEND;TZID=Europe/Rome:20261217T213000
 SUMMARY:Juraj Valčuha ed Ettore Pagano con l'Orchestra di Santa Cecilia
@@ -414,7 +414,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-concerto-di-natale-mozart-mendelssohn-e-handel-a@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261217T203000
 DTEND;TZID=Europe/Rome:20261217T223000
 SUMMARY:Concerto di Natale: Mozart\, Mendelssohn e Händel a San Paolo entr
@@ -427,9 +427,24 @@ URL:https://www.turismoroma.it/it/eventi/concerto-di-natale-roma
 CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-18-natale-austriaco-rafael-fingerlos-sascha-el-moui@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261218T190000
+DTEND;TZID=Europe/Rome:20261218T210000
+SUMMARY:Natale austriaco: Rafael Fingerlos\, Sascha El Mouissi e Fabian Ste
+ indl
+LOCATION:Forum Austriaco di Cultura (viale Bruno Buozzi 113)
+DESCRIPTION:Baritono\, pianoforte e zither per un concerto di Natale. Ingre
+ sso gratuito su prenotazione: events.rom-kf@bmeia.gv.at https://www.austri
+ acult.roma.it/
+URL:https://www.austriacult.roma.it/
+CATEGORIES:Classica e chiese
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-18-juraj-valcuha-ed-ettore-pagano-con-l-orchestra-d@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261218T200000
 DTEND;TZID=Europe/Rome:20261218T220000
 SUMMARY:Juraj Valčuha ed Ettore Pagano con l'Orchestra di Santa Cecilia
@@ -442,7 +457,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-juraj-valcuha-ed-ettore-pagano-con-l-orchestra-d@acculturiam
  oci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261219T180000
 DTEND;TZID=Europe/Rome:20261219T200000
 SUMMARY:Juraj Valčuha ed Ettore Pagano con l'Orchestra di Santa Cecilia
@@ -454,7 +469,7 @@ CATEGORIES:Classica e chiese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-20-i-pastori-di-betlemme-di-kapsberger@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261220T173000
 DTEND;TZID=Europe/Rome:20261220T193000
 SUMMARY:I Pastori di Betlemme di Kapsberger

@@ -25,8 +25,23 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-03-oltre-il-manicomio-dentro-la-persona-dialogo-su-@acculturiam
+ oci.it
+DTSTAMP:20261127T080214Z
+DTSTART;TZID=Europe/Rome:20261203T170000
+DTEND;TZID=Europe/Rome:20261203T190000
+SUMMARY:Oltre il manicomio\, dentro la persona: dialogo su San Salvi
+LOCATION:Biblioteca Mario Luzi (via Ugo Schiff 8)
+DESCRIPTION:Rosaria Magni presenta San Salvi. Una nuova esperienza\, con Ve
+ ronica Boldi. Ingresso libero. https://quartieri.comune.fi.it/dalle-redazi
+ oni/dicembre-2026-alle-biblioteche-del-quartiere-2
+URL:https://quartieri.comune.fi.it/dalle-redazioni/dicembre-2026-alle-bibli
+ oteche-del-quartiere-2
+CATEGORIES:Psiche e salute
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-16-death-cafe-al-conventino@acculturiamoci.it
-DTSTAMP:20261126T084637Z
+DTSTAMP:20261127T080214Z
 DTSTART;TZID=Europe/Rome:20261216T100000
 DTEND;TZID=Europe/Rome:20261216T120000
 SUMMARY:Death Cafe al Conventino

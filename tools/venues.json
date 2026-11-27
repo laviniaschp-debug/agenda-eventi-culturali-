@@ -1,5 +1,23 @@
 [
  {
+  "match": "Cascina Torrette",
+  "lat": 45.4842,
+  "lng": 9.1108,
+  "zona": "Fuori centro"
+ },
+ {
+  "match": "viale Gorizia 12",
+  "lat": 45.4545,
+  "lng": 9.1738,
+  "zona": "Navigli · Tortona · S. Ambrogio"
+ },
+ {
+  "match": "Libreria Verso",
+  "lat": 45.4565,
+  "lng": 9.1815,
+  "zona": "Navigli · Tortona · S. Ambrogio"
+ },
+ {
   "match": "Ambrosiana",
   "lat": 45.4631,
   "lng": 9.1854,

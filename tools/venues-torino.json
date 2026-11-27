@@ -1,5 +1,35 @@
 [
  {
+  "match": "Natalia Ginzburg",
+  "lat": 45.056,
+  "lng": 7.683,
+  "zona": "San Salvario"
+ },
+ {
+  "match": "Cesare Pavese",
+  "lat": 45.0245,
+  "lng": 7.6265,
+  "zona": "Fuori centro"
+ },
+ {
+  "match": "Villa Amoretti",
+  "lat": 45.044,
+  "lng": 7.642,
+  "zona": "Fuori centro"
+ },
+ {
+  "match": "Passerin d'Entrèves",
+  "lat": 45.0335,
+  "lng": 7.618,
+  "zona": "Fuori centro"
+ },
+ {
+  "match": "Teatro San Giuseppe",
+  "lat": 45.0641,
+  "lng": 7.6829,
+  "zona": "Centro"
+ },
+ {
   "match": "Circolo dei lettori",
   "lat": 45.0668,
   "lng": 7.6881,
